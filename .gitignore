@@ -9,6 +9,9 @@
 Thumbs.db
 desktop.ini
 
+# Dump de BD (datos personales — no subir al repo)
+backup/*.sql
+
 # Logs
 *.log
 
