@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XMLDB PATH="local/sentinel/db" VERSION="20240101" COMMENT="XMLDB file for Moodle local/sentinel"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../../lib/xmldb/xmldb.xsd"
+>
+  <TABLES>
+    <TABLE NAME="local_sentinel_map" COMMENT="Maps rubric rows to grade book categories">
+      <FIELDS>
+        <FIELD NAME="id" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="true"/>
+        <FIELD NAME="rubric_row_id" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="false" COMMENT="ID of the rubric row"/>
+        <FIELD NAME="grade_category_id" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="false" COMMENT="ID of the grade book category"/>
+        <FIELD NAME="grade_item_id" TYPE="int" LENGTH="10" NOTNULL="true" DEFAULT="0" SEQUENCE="false" COMMENT="ID of the grade item for this rubric row"/>
+      </FIELDS>
+      <KEYS>
+        <KEY NAME="primary" TYPE="primary" FIELDS="id"/>
+        <KEY NAME="uq_rubric_row_id" TYPE="unique" FIELDS="rubric_row_id"/>
+      </KEYS>
+      <INDEXES>
+        <INDEX NAME="ix_grade_item_id" UNIQUE="false" FIELDS="grade_item_id"/>
+      </INDEXES>
+    </TABLE>
+    <TABLE NAME="local_sentinel_student_photo" COMMENT="Stores teacher-uploaded photos for students">
+      <FIELDS>
+        <FIELD NAME="id" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="true"/>
+        <FIELD NAME="studentid" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="false" COMMENT="The student's userid"/>
+        <FIELD NAME="uploaderid" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="false" COMMENT="Who uploaded the photo"/>
+        <FIELD NAME="timemodified" TYPE="int" LENGTH="10" NOTNULL="true" DEFAULT="0" SEQUENCE="false" COMMENT="Last modification timestamp"/>
+      </FIELDS>
+      <KEYS>
+        <KEY NAME="primary" TYPE="primary" FIELDS="id"/>
+        <KEY NAME="uq_studentid" TYPE="unique" FIELDS="studentid"/>
+      </KEYS>
+      <INDEXES>
+        <INDEX NAME="ix_uploaderid" UNIQUE="false" FIELDS="uploaderid"/>
+      </INDEXES>
+    </TABLE>
+    <TABLE NAME="local_sentinel_descriptor" COMMENT="LOMLOE profile exit descriptors (RD 217/2022)">
+      <FIELDS>
+        <FIELD NAME="id" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="true"/>
+        <FIELD NAME="code" TYPE="char" LENGTH="10" NOTNULL="true" COMMENT="Descriptor code, e.g. CCL1"/>
+        <FIELD NAME="area" TYPE="char" LENGTH="10" NOTNULL="true" COMMENT="Competency area, e.g. CCL"/>
+        <FIELD NAME="sortorder" TYPE="int" LENGTH="10" NOTNULL="true" DEFAULT="0"/>
+        <FIELD NAME="description" TYPE="text" NOTNULL="true"/>
+      </FIELDS>
+      <KEYS>
+        <KEY NAME="primary" TYPE="primary" FIELDS="id"/>
+        <KEY NAME="uq_code" TYPE="unique" FIELDS="code"/>
+      </KEYS>
+      <INDEXES>
+        <INDEX NAME="ix_area" UNIQUE="false" FIELDS="area"/>
+      </INDEXES>
+    </TABLE>
+    <TABLE NAME="local_sentinel_ce_descriptor" COMMENT="Maps rubric criteria (CE) to LOMLOE descriptors (legacy)">
+      <FIELDS>
+        <FIELD NAME="id" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="true"/>
+        <FIELD NAME="criteriaid" TYPE="int" LENGTH="10" NOTNULL="true" COMMENT="gradingform_rubric_criteria.id"/>
+        <FIELD NAME="descriptorcode" TYPE="char" LENGTH="10" NOTNULL="true" COMMENT="local_sentinel_descriptor.code"/>
+        <FIELD NAME="timecreated" TYPE="int" LENGTH="10" NOTNULL="true" DEFAULT="0"/>
+      </FIELDS>
+      <KEYS>
+        <KEY NAME="primary" TYPE="primary" FIELDS="id"/>
+        <KEY NAME="uq_criteria_descriptor" TYPE="unique" FIELDS="criteriaid, descriptorcode"/>
+      </KEYS>
+      <INDEXES>
+        <INDEX NAME="ix_criteriaid" UNIQUE="false" FIELDS="criteriaid"/>
+        <INDEX NAME="ix_descriptorcode" UNIQUE="false" FIELDS="descriptorcode"/>
+      </INDEXES>
+    </TABLE>
+    <TABLE NAME="local_sentinel_cat_descriptor" COMMENT="Maps gradebook CE categories to LOMLOE profile exit descriptors">
+      <FIELDS>
+        <FIELD NAME="id" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="true"/>
+        <FIELD NAME="grade_category_id" TYPE="int" LENGTH="10" NOTNULL="true" COMMENT="grade_categories.id (the CE-level category)"/>
+        <FIELD NAME="descriptorcode" TYPE="char" LENGTH="10" NOTNULL="true" COMMENT="local_sentinel_descriptor.code"/>
+      </FIELDS>
+      <KEYS>
+        <KEY NAME="primary" TYPE="primary" FIELDS="id"/>
+        <KEY NAME="uq_cat_descriptor" TYPE="unique" FIELDS="grade_category_id, descriptorcode"/>
+      </KEYS>
+      <INDEXES>
+        <INDEX NAME="ix_grade_category_id" UNIQUE="false" FIELDS="grade_category_id"/>
+      </INDEXES>
+    </TABLE>
+    <TABLE NAME="local_sentinel_period" COMMENT="Configurable communication periods for the competency report">
+      <FIELDS>
+        <FIELD NAME="id" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="true"/>
+        <FIELD NAME="courseid" TYPE="int" LENGTH="10" NOTNULL="true" DEFAULT="0" COMMENT="0 = site-wide default"/>
+        <FIELD NAME="sortorder" TYPE="int" LENGTH="10" NOTNULL="true" DEFAULT="0"/>
+        <FIELD NAME="label" TYPE="char" LENGTH="100" NOTNULL="true"/>
+        <FIELD NAME="cutoffdate" TYPE="int" LENGTH="10" NOTNULL="true" DEFAULT="0" COMMENT="Unix timestamp; 0 = no cutoff"/>
+      </FIELDS>
+      <KEYS>
+        <KEY NAME="primary" TYPE="primary" FIELDS="id"/>
+      </KEYS>
+      <INDEXES>
+        <INDEX NAME="ix_courseid" UNIQUE="false" FIELDS="courseid"/>
+      </INDEXES>
+    </TABLE>
+  </TABLES>
+</XMLDB>

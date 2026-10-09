@@ -1,0 +1,21 @@
+# IDE
+.vscode/
+.idea/
+*.suo
+*.user
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Node (si se usa grunt para compilar AMD)
+node_modules/
+npm-debug.log*
+
+# Ficheros temporales PHP
+*.swp
+*~
