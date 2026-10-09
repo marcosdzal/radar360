@@ -2,6 +2,18 @@
 
 Documento técnico que describe exactamente qué se ha añadido o modificado respecto a una instalación estándar de Moodle 4.5.
 
+## Resumen ejecutivo
+
+El plugin **no toca ni una sola línea del núcleo de Moodle**. Todo funciona mediante los mecanismos de extensión oficiales (hooks, AMD, XMLDB). Esto es una buena práctica de desarrollo Moodle y garantiza que el plugin puede instalarse y desinstalarse limpiamente sin afectar a la plataforma.
+
+Lo que se añade:
+
+- **6 tablas nuevas** (`mdl_local_sentinel_*`) — todas documentadas campo a campo con su propósito
+- **~30 ficheros PHP/JS** en `local/sentinel/` — ninguno fuera de esa carpeta
+- **Lectura de 14 tablas** del núcleo para calcular notas (sin modificarlas)
+- **Modificación indirecta** de `mdl_grade_items` al mapear criterios (reversible y documentada)
+- **Historial de las 7 versiones** del plugin con sus migraciones
+
 ---
 
 ## 1. Principio de diseño: cero modificaciones al núcleo
