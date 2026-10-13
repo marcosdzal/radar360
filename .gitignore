@@ -9,8 +9,7 @@
 Thumbs.db
 desktop.ini
 
-# Dump de BD (datos personales — no subir al repo)
-backup/*.sql
+# Dump de BD (datos ficticios — incluido en el repo para el TFG)
 
 # Logs
 *.log
