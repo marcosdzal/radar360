@@ -1,0 +1,21 @@
+{
+    "community": "cantabria",
+    "stage": "eso",
+    "decree": "Decreto 67\/2022, de 30 de junio",
+    "subject": "digitalizacion",
+    "subject_name": "Digitalización",
+    "grade": 4,
+    "competencias": [
+        {
+            "code": "CE4",
+            "name": "Ejercer una ciudadanía digital crítica, conociendo las posibles acciones que",
+            "description": "Ejercer una ciudadanía digital crítica, conociendo las posibles acciones que realizar en la red, e identificando sus repercusiones, para hacer un uso activo, responsable y ético de la tecnología.",
+            "criterios": [
+                {
+                    "code": "4.4",
+                    "description": "Analizar la necesidad y beneficios del uso ecosocialmente responsable de tecnologías digitales, evaluando accesibilidad, sostenibilidad e impacto."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,164 @@
+{
+    "community": "andalucia",
+    "stage": "bachillerato",
+    "decree": "Real Decreto 217\/2022",
+    "subject": "lengua_castellana_alt",
+    "subject_name": "Lengua Castellana y Literatura",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Explicar y apreciar la diversidad lingüística del mundo a partir del",
+            "description": "Explicar y apreciar la diversidad lingüística del mundo a partir del conocimiento de la realidad plurilingüe y pluricultural de España y la riqueza dialectal del español, prestando especial atención a las variedades lingüísticas del andaluz, así como…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Reconocer y valorar las lenguas de España y las variedades dialectales del español, con especial atención a la del propio territorio andaluz, contrastando de manera explícita y con el metalenguaje apropiado aspectos lingüísticos y discursivos de las lenguas y los dialectos en manifestaciones orales, escritas y multimodales, diferenciando los rasgos de lengua que responden a la diversidad dialectal de los que se corresponden con sociolectos o registros."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Cuestionar y refutar prejuicios y estereotipos lingüísticos adoptando una actitud de respeto y valoración de la riqueza cultural, lingüística y dialectal, reconociendo especialmente la diversidad lingüística del dialecto andaluz, atendiendo a la diversidad de normas cultas y estándares que se dan en una misma lengua, así como analizando y valorando la relevancia actual de los medios de comunicación y las redes sociales en los procesos de normalización lingüística."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Comprender e interpretar textos orales y multimodales, con especial atención a",
+            "description": "Comprender e interpretar textos orales y multimodales, con especial atención a los textos académicos y de los medios de comunicación, recogiendo el sentido general y la información más relevante, identificando el punto de vista y la intención del emi…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Identificar el sentido global, la estructura, la información relevante en función de las necesidades comunicativas y la intención del emisor en textos orales y multimodales especializados propios de diferentes ámbitos analizando la interacción entre los diferentes códigos."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Valorar la forma y el contenido de textos orales y multimodales especializados evaluando su calidad, fiabilidad e idoneidad del canal utilizado, así como la eficacia de los procedimientos comunicativos empleados."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Producir textos orales y multimodales, con atención preferente a textos de",
+            "description": "Producir textos orales y multimodales, con atención preferente a textos de carácter académico, con rigor, fluidez, coherencia, cohesión y el registro adecuado, atendiendo a las convenciones propias de los diferentes géneros discursivos, y participar …",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Realizar exposiciones y argumentaciones orales formales extensas y en las que se recojan diferentes puntos de vista, con diferente grado de planificación sobre temas de interés científico y cultural y de relevancia académica y social, ajustándose a las convenciones propias de cada género discursivo y hacerlo con fluidez, rigor, coherencia, cohesión y el registro adecuado en diferentes soportes, utilizando de manera eficaz recursos verbales y no verbales, respetando los valores constitucionales y desarrollando un espíritu crítico y de fomento de la igualdad en todas sus vertientes."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Participar de manera activa y adecuada en interacciones orales (formales e informales) y en el trabajo en equipo con actitudes de escucha activa y estrategias de cooperación conversacional y cortesía lingüística, desarrollando la capacidad de expresarse correctamente en público."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Comprender, interpretar y valorar textos escritos con sentido crítico y",
+            "description": "Comprender, interpretar y valorar textos escritos con sentido crítico y diferentes propósitos de lectura, con especial atención a textos académicos y de los medios de comunicación, reconociendo el sentido global y las ideas principales y secundarias,…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Identificar el sentido global, la estructura, la información relevante y la intención del emisor de textos escritos y multimodales especializados, con especial atención a textos académicos y de los medios de comunicación, realizando las inferencias necesarias y con diferentes propósitos de lectura."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Valorar críticamente el contenido y la forma de textos especializados, evaluando su calidad y fiabilidad, así como la eficacia de los procedimientos lingüísticos empleados."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Producir textos escritos y multimodales coherentes, cohesionados, adecuados y",
+            "description": "Producir textos escritos y multimodales coherentes, cohesionados, adecuados y correctos, con especial atención a los géneros discursivos del ámbito académico, para construir conocimiento y dar respuesta de manera informada, eficaz y creativa a demand…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Elaborar textos académicos coherentes, cohesionados y con el registro adecuado en torno a temas curriculares o de interés social y cultural, precedidos de un proceso de planificación que atienda a la situación comunicativa, destinatario, propósito y canal, y de redacción y revisión de borradores entre iguales o utilizando otros instrumentos de consulta, respetando los valores constitucionales y desarrollando un espíritu crítico y de fomento de la igualdad en todas sus vertientes."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Incorporar procedimientos para enriquecer los textos, atendiendo a aspectos discursivos, lingüísticos y de estilo, con precisión léxica y corrección ortográfica y gramatical."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Seleccionar y contrastar información procedente de diferentes fuentes",
+            "description": "Seleccionar y contrastar información procedente de diferentes fuentes, evaluando su fiabilidad y pertinencia en función de los objetivos de lectura y evitando los riesgos de manipulación y desinformación, e integrarla y transformarla en conocimiento …",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Elaborar trabajos de investigación monográficos y transdisciplinares, individuales o en grupo, de manera autónoma, en diferentes soportes, sobre diversos temas de interés académico, personal o social que impliquen localizar, seleccionar y contrastar información procedente de diferentes fuentes, con especial atención a la gestión de su almacenamiento y recuperación, así como a la evaluación de su fiabilidad y pertinencia; organizarla e integrarla en esquemas propios; y reelaborarla y comunicarla de manera creativa, adoptando un punto de vista crítico y respetuoso con la propiedad intelectual."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Evaluar la veracidad de noticias e informaciones, con especial atención a las redes sociales y otros entornos digitales, siguiendo pautas de análisis, contraste y verificación, haciendo uso de las herramientas adecuadas y manteniendo una actitud crítica frente a los posibles sesgos de la información."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Seleccionar y leer de manera autónoma obras relevantes de la literatura",
+            "description": "Seleccionar y leer de manera autónoma obras relevantes de la literatura contemporánea como fuente de placer y conocimiento, configurando un itinerario lector que se enriquezca progresivamente en cuanto a diversidad, complejidad y calidad de las obras…",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Elegir y leer de manera autónoma obras relevantes que se relacionen con las propuestas de lectura guiada, incluyendo ensayo literario y obras actuales que establezcan conexiones con la tradición, y dejar constancia del progreso del propio itinerario lector y cultural mediante la explicación argumentada de los criterios de selección de las lecturas, prestando especial atención a autores y autoras andaluces, las formas de acceso a la cultura literaria y la experiencia de lectura."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Compartir la experiencia lectora utilizando un metalenguaje específico y elaborar una interpretación personal estableciendo vínculos argumentados con otras obras y otras experiencias artísticas y culturales."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Leer, interpretar y valorar obras relevantes de la literatura española e",
+            "description": "Leer, interpretar y valorar obras relevantes de la literatura española e hispanoamericana, utilizando un metalenguaje específico y movilizando la experiencia biográfica y los conocimientos literarios y culturales para establecer vínculos entre textos…",
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Explicar y argumentar la interpretación de las obras leídas a partir del análisis de las relaciones internas de sus elementos constitutivos con el sentido de la obra y de las relaciones externas del texto con su contexto sociohistórico y con la tradición literaria, utilizando un metalenguaje específico e incorporando juicios de valor vinculados a la apreciación estética de las obras."
+                },
+                {
+                    "code": "8.2",
+                    "description": "Desarrollar proyectos de investigación que se concreten en una exposición oral, un ensayo o una presentación multimodal, estableciendo vínculos argumentados entre las obras de la literatura española o hispánica del último cuarto del siglo XIX y de los siglos XX y XXI objeto de lectura guiada y otros textos y manifestaciones artísticas de ayer y de hoy, en función de temas, tópicos, estructuras, lenguaje, recursos expresivos y valores éticos y estéticos, y explicitando la implicación y la respuesta personal del lector en la lectura."
+                }
+            ]
+        },
+        {
+            "code": "CE9",
+            "name": "Consolidar y profundizar en el conocimiento explícito y sistemático sobre la",
+            "description": "Consolidar y profundizar en el conocimiento explícito y sistemático sobre la estructura de la lengua y sus usos, y reflexionar de manera autónoma sobre las elecciones lingüísticas y discursivas, con la terminología adecuada, para desarrollar la conci…",
+            "criterios": [
+                {
+                    "code": "9.1",
+                    "description": "Revisar los propios textos y hacer propuestas de mejora, argumentando los cambios a partir de la reflexión metalingüística e interlingüística y con un metalenguaje específico, e identificar y subsanar problemas de comprensión lectora utilizando los conocimientos explícitos sobre la lengua y su uso."
+                },
+                {
+                    "code": "9.2",
+                    "description": "Explicar y argumentar la interrelación entre el propósito comunicativo y las elecciones lingüísticas del emisor, así como sus efectos en el receptor, utilizando el conocimiento explícito de la lengua y un metalenguaje específico."
+                },
+                {
+                    "code": "9.3",
+                    "description": "Elaborar y presentar los resultados de pequeños proyectos de investigación sobre aspectos relevantes del funcionamiento de la lengua y del dialecto andaluz, formulando hipótesis y estableciendo generalizaciones, utilizando los conceptos y la terminología lingüística adecuada y consultando de manera autónoma diccionarios, manuales y gramáticas, favoreciendo la capacidad del alumnado para aprender por sí mismo."
+                }
+            ]
+        },
+        {
+            "code": "CE0",
+            "name": "Poner las prácticas comunicativas al servicio de la convivencia democrática, la",
+            "description": "Poner las prácticas comunicativas al servicio de la convivencia democrática, la resolución dialogada de los conflictos y la igualdad de derechos de todas las personas, utilizando un lenguaje no discriminatorio y desterrando los abusos de poder a trav…",
+            "criterios": [
+                {
+                    "code": "10.1",
+                    "description": "Identificar y desterrar los usos discriminatorios de la lengua y sus variedades de habla, los abusos de poder a través de la palabra y los usos manipuladores del lenguaje a partir de la reflexión y el análisis de los elementos lingüísticos, textuales y discursivos utilizados, así como de los elementos no verbales que rigen la comunicación entre las personas."
+                },
+                {
+                    "code": "10.2",
+                    "description": "Utilizar estrategias para la resolución dialogada de los conflictos y la búsqueda de consensos tanto en el ámbito personal como educativo y social."
+                }
+            ]
+        }
+    ]
+}

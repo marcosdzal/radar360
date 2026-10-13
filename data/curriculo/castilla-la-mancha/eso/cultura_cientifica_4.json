@@ -1,0 +1,105 @@
+{
+    "community": "castilla-la-mancha",
+    "stage": "eso",
+    "decree": "Decreto 82\/2022, de 12 de julio",
+    "subject": "cultura_cientifica",
+    "subject_name": "Cultura Científica",
+    "grade": 4,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Trasmitir información y datos científicos, interpretándolos y argumentando",
+            "description": "Trasmitir información y datos científicos, interpretándolos y argumentando sobre ellos, mediante diferentes formatos, analizando los conceptos y procesos de las ciencias, para forjar una opinión fundamentada sobre el proceso científico.",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar conceptos y procesos de las ciencias, interpretando información en diferentes formatos (modelos, gráficos, tablas, diagramas, fórmulas, esquemas, símbolos o páginas web, entre otros) manteniendo una actitud crítica, obteniendo conclusiones y formando opiniones propias fundamentadas."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Facilitar la comprensión y el análisis, tanto de opiniones propias fundamentadas como de informaciones científicas, transmitiéndolas de forma clara y rigurosa, mediante la terminología y el formato adecuados (modelos, gráficos, tablas, vídeos, informes, diagramas, fórmulas, esquemas, símbolos y contenidos digitales, entre otros)."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Analizar y explicar fenómenos científicos, representándolos mediante el diseño y la realización de modelos y diagramas, utilizando, cuando sea necesario, los pasos del diseño de ingeniería: identificación del problema, exploración, diseño, creación, evaluación y mejora."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Identificar y seleccionar información que proceda de distintas fuentes,",
+            "description": "Identificar y seleccionar información que proceda de distintas fuentes, contrastando su veracidad, organizándola y evaluándola críticamente, para descubrir la importancia de la precisión y la veracidad de la información científica, su alcance y sus l…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Resolver cuestiones y profundizar en aspectos científicos, localizando, seleccionando, organizando y analizando críticamente la información de distintas fuentes, citándolas con el debido respeto por la propiedad intelectual."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Contrastar la veracidad de la información disponible, utilizando fuentes fiables, adoptando una actitud crítica y escéptica hacia informaciones sin una base científica, como pseudociencias, teorías conspiratorias, creencias infundadas y bulos, entre otras."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Planificar y desarrollar proyectos de investigación, siguiendo metodologías",
+            "description": "Planificar y desarrollar proyectos de investigación, siguiendo metodologías propias de la ciencia, incluidas, cuando se considere necesario, aquellas basadas en la cooperación, para indagar en aspectos relacionados con las ciencias.",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Plantear preguntas e hipótesis sobre fenómenos científicos que puedan ser respondidas o contrastadas y realizar predicciones sobre ellos, utilizando métodos científicos."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Diseñar, realizar experimentos e interpretar los resultados obtenidos en un proyecto de investigación, utilizando herramientas matemáticas y tecnológicas cuando sea necesario."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Establecer colaboraciones, que se consideren necesarias y eficaces, en las distintas fases del proyecto científico, valorando la importancia del trabajo cooperativo en la investigación, respetando la diversidad, la igualdad de género y favoreciendo la inclusión."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Presentar, de forma clara y rigurosa, la información y las conclusiones obtenidas mediante la experimentación y observación de campo, utilizando el formato adecuado (tablas, gráficos, informes, entre otros) y herramientas digitales."
+                },
+                {
+                    "code": "3.5",
+                    "description": "Valorar tanto la contribución que realiza la ciencia a la sociedad, como la labor de las personas dedicadas a ella, especialmente en Castilla-La Mancha, destacando, además, el papel de la mujer, y entendiendo la investigación científica como una labor colectiva e interdisciplinar en constante evolución, que se ve condicionada por el contexto político y por los recursos económicos que se le dedican."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Utilizar el razonamiento y el pensamiento computacional, analizando",
+            "description": "Utilizar el razonamiento y el pensamiento computacional, analizando críticamente las respuestas y soluciones, incluyendo, si fuera necesario, la reformulación del procedimiento, para resolver problemas o explicar procesos de la vida cotidiana.",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Resolver problemas o explicar procesos científicos, utilizando conocimientos, datos e informaciones aportados, junto con el razonamiento lógico, el pensamiento computacional o recursos digitales."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Analizar críticamente la solución de problemas sobre fenómenos científicos, prestando especial atención a los que afectan a nuestro entorno de Castilla-La Mancha, cambiando los procedimientos utilizados o las conclusiones extraídas, si dicha solución no fuese viable o se considerase necesario modificarla ante nuevos datos aportados con posterioridad."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Analizar los efectos de determinadas acciones sobre el medio ambiente y la",
+            "description": "Analizar los efectos de determinadas acciones sobre el medio ambiente y la salud, basándose en los fundamentos de las ciencias biológicas y de la tierra, para promover y adoptar hábitos que eviten o minimicen los impactos medioambientales negativos, …",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Identificar los posibles riesgos naturales (pérdidas de biodiversidad, alteraciones del suelo, y fenómenos meteorológicos extremos, entre otros) potenciados por determinadas acciones humanas sobre una zona geográfica, especialmente los que puedan afectar a Castilla-La Mancha, teniendo en cuenta sus características litológicas, relieve y vegetación."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Conocer los elementos y el funcionamiento básico del sistema inmunitario humano y su aplicación en la prevención y el tratamiento de las enfermedades infecciosas y no infecciosas más frecuentes, identificando algunos de sus indicadores, causas y tratamientos más comunes."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Proponer y adoptar, hábitos saludables, analizando las acciones propias y ajenas, como pueden ser: la alimentación, la inclusión no discriminatoria, el descanso, la exposición a las pantallas, entre otras, con actitud crítica, desterrando ideas preconcebidas, estereotipos sexistas y basándose en fundamentos de la fisiología."
+                }
+            ]
+        }
+    ]
+}

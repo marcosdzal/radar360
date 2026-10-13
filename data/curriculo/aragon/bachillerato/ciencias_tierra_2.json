@@ -1,0 +1,101 @@
+{
+    "community": "aragon",
+    "stage": "bachillerato",
+    "decree": "Orden ECD\/1112\/2022, de 18 de julio",
+    "subject": "ciencias_tierra",
+    "subject_name": "Ciencias de la Tierra y del Medioambiente",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Comprender y explicar los diversos procesos que se producen en nuestro planeta",
+            "description": "Comprender y explicar los diversos procesos que se producen en nuestro planeta utilizando los conocimientos científicos adecuados, para adquirir una visión holística del funcionamiento del medio natural. Comprender los procesos del entorno e interpre…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar y explicar fenómenos del entorno, representándolos mediante expresiones, tablas, gráficas, modelos, simulaciones, diagramas u otros formatos."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Explicar fenómenos que ocurren en el entorno, utilizando principios, leyes y teorías de las ciencias de la naturaleza."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Explicar, utilizando los fundamentos científicos adecuados, los elementos y procesos básicos que se dan en los ecosistemas terrestres. Argumentar sobre la importancia de los hábitos sostenibles y saludables, basándose en fundamentos científicos, para adoptarlo s y promoverlos en su entorno."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Argumentar sobre la importancia de los hábitos sostenibles y saludables, basándose en fundamentos científicos",
+            "description": "Argumentar sobre la importancia de los hábitos sostenibles y saludables, basándose en fundamentos científicos, para adoptarlos y promoverlos en su entorno. Actualmente uno de los mayores y más importantes retos a los que se enfrenta la humanidad es l…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Adoptar y promover hábitos compatibles con un modelo de desarrollo sostenible y valorar su importancia utilizando fundamentos científicos."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Adoptar y promover hábitos saludables y valorar su importancia. Adoptar una actitud crítica basada en argumentos científicos relevantes, de actualidad y contrastables respecto a la situación medioambiental actual y los diferentes modelos de desarrollo, siendo capaz de comunicarlos eficazmente."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Adoptar una actitud crítica basada en argumentos científicos relevantes, de",
+            "description": "Adoptar una actitud crítica basada en argumentos científicos relevantes, de actualidad y contrastables respecto a la situación medioambiental actual y los diferentes modelos de desarrollo, siendo capaz de comunicarlos eficazmente. La situación medioa…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Busca información, en diversos soportes, de forma eficaz evitando aquellas fuentes no confiables por no ser científicamente relevantes."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Discernir entre argumentos científicos válidos y no válidos."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Explica de forma clara las razones por las cuales se ha llegado a la situación ambiental actual y la necesidad de un cambio en el sentido del desarrollo sostenible. Comprender que el actual sistema económico no es sostenible a medio plazo y que un colapso económico y humano planetario es bastante razonable si no se toman medidas drásticas en la dirección correcta"
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Comprender que el actual sistema económico no es sostenible a medio plazo y que",
+            "description": "Comprender que el actual sistema económico no es sostenible a medio plazo y que un colapso económico y humano planetario es bastante razonable si no se toman medidas drásticas en la dirección correcta. La sobreexposición mediática a informaciones rel…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Aplicar modelos simples de dinámica de sistemas e interpretarlos."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Conocer aquellos hábitos que hace 50 años hacían a las sociedades más sostenibles y cómo los avances científicos y tecnológicos nos pueden ayudar a recuperar sostenibilidad sin perder prácticamente calidad de vida, aunque cambiando considerablemente hábitos."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Conocer el concepto de límite de un sistema físico-químico y que el agotamiento de los recursos no es algo opcional o elegible, sino que obedece a leyes naturales. Conocer y valorar el patrimonio aragonés, especialmente el patrimonio natural, así como la necesidad y objetivos de su conservación."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Conocer y valorar el patrimonio natural aragonés y la necesidad de su conservación",
+            "description": "Conocer y valorar el patrimonio natural aragonés y la necesidad de su conservación. La Comunidad Autónoma de Aragón tiene una importante riqueza en cuanto a su patrimonio se refiere. Para conseguir que dicho patrimonio sea puesto en valor, protegido …",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Conoce elementos del patrimonio natural aragonés tales como Espacios Naturales Protegidos, Especies Catalogadas, Lugares de Interés Geológico."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Comprende la importancia de la conservación del patrimonio natural, así como de los servicios que nos proporcionan."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Conoce los objetivos de la conservación del patrimonio natural y cultural."
+                }
+            ]
+        }
+    ]
+}

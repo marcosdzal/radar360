@@ -1,0 +1,200 @@
+{
+    "community": "galicia",
+    "stage": "bachillerato",
+    "decree": "Decreto 157\/2022, de 15 de septiembre",
+    "subject": "ciencias_generales",
+    "subject_name": "Ciencias Generales",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Aplicar las metodologías propias de la ciencia utilizando con precisión",
+            "description": "Aplicar las metodologías propias de la ciencia utilizando con precisión procedimientos, materiales e instrumentos adecuados para responder a cuestiones sobre procesos físicos, químicos, biológicos y geológicos. - Para conseguir una alfabetización cie…",
+            "criterios": [
+                {
+                    "code": "CE1.1",
+                    "description": "Plantear y responder cuestiones acerca de procesos observados en el entorno, siguiendo las pautas de las metodologías científicas."
+                },
+                {
+                    "code": "CE1.2",
+                    "description": "Contrastar hipótesis realizando experimentos en laboratorios o en entornos virtuales siguiendo las normas de seguridad correspondientes."
+                },
+                {
+                    "code": "CE1.3",
+                    "description": "Comunicar los resultados de un experimento o trabajo científico utilizando los recursos adecuados y de acuerdo con los principios éticos básicos."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Comprender y explicar los procesos del entorno y explicarlos utilizando los",
+            "description": "Comprender y explicar los procesos del entorno y explicarlos utilizando los principios, leyes y teorías científicas adecuados para adquirir una visión holística del funcionamiento del medio natural. - El desarrollo de la competencia científica tiene …",
+            "criterios": [
+                {
+                    "code": "CE2.1",
+                    "description": "Explicar, utilizando los fundamentos científicos adecuados, los elementos y los procesos básicos de la biosfera y de la geosfera."
+                },
+                {
+                    "code": "CE2.2",
+                    "description": "Conocer el origen del Universo, del sistema solar, de la Tierra y de la Luna, describiendo sus características y sus movimientos y relacionando estos con sus efectos."
+                },
+                {
+                    "code": "CE2.3",
+                    "description": "Reflexionar sobre el proceso de la aparición de la vida adoptando una actitud crítica y escéptica hacia informaciones sin una base científica (pseudociencias, teorías conspiratorias, creencias infundadas, noticias falsas, etc.)."
+                },
+                {
+                    "code": "CE2.4",
+                    "description": "Relacionar la dinámica interna y externa de la Tierra con la teoría de la tectónica de las placas reconociendo las estructuras georresultantes y analizando la aparición de riesgos."
+                },
+                {
+                    "code": "CE2.5",
+                    "description": "Analizar la estructura y las funciones de las capas fluidas reflexionando sobre su papel esencial para la vida en la Tierra."
+                },
+                {
+                    "code": "CE2.6",
+                    "description": "Reconocer los criterios utilizados para clasificar los seres vivos, identificando las principales características y describiendo sus adaptaciones al medio."
+                },
+                {
+                    "code": "CE3.1",
+                    "description": "Identificar los componentes del ecosistema, describiendo sus interacciones y explicando la transferencia de materia y energía en las redes tróficas."
+                },
+                {
+                    "code": "CE3.3",
+                    "description": "Analizar la estructura y las funciones de los suelos reflexionando sobre su papel esencial para el desarrollo de la vida."
+                },
+                {
+                    "code": "CE4.1",
+                    "description": "Reconocer en el ámbito estructural las biomoléculas, estableciendo relaciones con sus funciones e importancia en los seres vivos."
+                },
+                {
+                    "code": "CE4.2",
+                    "description": "Interpretar en el ámbito molecular la expresión de la información genética, distinguiendo los principales procesos y reflexionando sobre su significado biológico."
+                },
+                {
+                    "code": "CE4.4",
+                    "description": "Describir las principales técnicas de la ingeniería genética e interpretar las implicaciones éticas, sociales y medioambientales en relación con los avances en biotecnología e ingeniería genética, utilizando fuentes fiables y adoptando una actitud crítica y escéptica hacia informaciones sin una base científica (pseudociencias, teorías conspiratorias, creencias infundadas, informaciones falsas, etc.)."
+                },
+                {
+                    "code": "CE4.6",
+                    "description": "Relacionar las enfermedades infecciosas y no infecciosas con sus agentes causantes y sus tratamientos, reflexionando sobre el papel de los antibióticos y el uso adecuado de estos."
+                },
+                {
+                    "code": "CE4.7",
+                    "description": "Reconocer el papel esencial de las vacunas en la sociedad, utilizando fuentes fiables y adoptando una actitud crítica y escéptica hacia informaciones sin una base científica (pseudociencias, teorías conspiratorias, creencias infundadas, informaciones falsas, etc.)."
+                },
+                {
+                    "code": "CE6.1",
+                    "description": "Analizar y explicar fenómenos del entorno, representándolos mediante diversos formatos, como expresiones, tablas, gráficas, modelos, simulaciones o diagramas."
+                },
+                {
+                    "code": "CE6.2",
+                    "description": "Explicar fenómenos que ocurren en el entorno utilizando principios, leyes y teorías de la física."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Argumentar sobre la importancia de los estilos de vida sostenibles y saludables",
+            "description": "Argumentar sobre la importancia de los estilos de vida sostenibles y saludables basándose en los fundamentos científicos para adoptarlos y promoverlos en su entorno. - Actualmente, uno de los mayores y más importantes retos a los que se enfrenta la h…",
+            "criterios": [
+                {
+                    "code": "CE3.4",
+                    "description": "Analizar y reconocer las causas y las consecuencias de las actividades humanas en el medio ambiente, proponiendo acciones para su conservación."
+                },
+                {
+                    "code": "CE3.5",
+                    "description": "Investigar y analizar críticamente la solución de un problema medioambiental, transmitiéndola de forma clara y rigurosa y evitando informaciones sin base científica (pseudociencias, teorías conspiratorias, creencias infundadas, informaciones falsas, etc.)."
+                },
+                {
+                    "code": "CE3.6",
+                    "description": "Adoptar y promover hábitos compatibles con un modelo de desarrollo sostenible y valorar su importancia utilizando fundamentos científicos."
+                },
+                {
+                    "code": "CE4.5",
+                    "description": "Analizar el concepto de salud y enfermedad empleando la definición que proporciona la OMS."
+                },
+                {
+                    "code": "CE4.8",
+                    "description": "Adoptar y promover hábitos saludables (dieta equilibrada, higiene, vacunación, uso adecuado de antibióticos, rechazo al consumo de drogas, legales e ilegales, ejercicio físico, higiene del sueño, posturas adecuadas…), valorar su importancia utilizando los fundamentos de la fisiología humana."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Aplicar el pensamiento científico y los razonamientos lógico-matemáticos,",
+            "description": "Aplicar el pensamiento científico y los razonamientos lógico-matemáticos, mediante la búsqueda y selección de estrategias y herramientas apropiadas, para resolver problemas relacionados con las ciencias experimentales. - El razonamiento es una herram…",
+            "criterios": [
+                {
+                    "code": "CE3.2",
+                    "description": "Resolver problemas relacionados con la dinámica de los ecosistemas utilizando el pensamiento científico y el razonamiento lógico-matemático."
+                },
+                {
+                    "code": "CE4.3",
+                    "description": "Conocer conceptos básicos de la genética y resolver problemas y cuestiones sencillas de herencia de caracteres interpretando los resultados de forma crítica."
+                },
+                {
+                    "code": "CE6.3",
+                    "description": "Resolver problemas de física relacionados con fenómenos y procesos de la ciencia utilizando el pensamiento científico y el razonamiento lógico-matemático y buscando estrategias alternativas de resolución cuando sea necesario."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Analizar la contribución de la ciencia y de las personas que se dedican a ella,",
+            "description": "Analizar la contribución de la ciencia y de las personas que se dedican a ella, con perspectiva de género y entendiéndola como un proceso colectivo e interdisciplinar en continua construcción, para valorar su papel esencial en el progreso de la socie…",
+            "criterios": [
+                {
+                    "code": "CE1.4",
+                    "description": "Reconocer la relevancia de la ciencia en el progreso de la sociedad, valorando el importante papel que juegan las personas en el desempeño de la investigación científica."
+                },
+                {
+                    "code": "CE5.1",
+                    "description": "Analizar y explicar fenómenos del entorno, representándolos mediante expresiones, tablas, gráficas, modelos, simulaciones, diagramas u otros formatos."
+                },
+                {
+                    "code": "CE5.2",
+                    "description": "Explicar fenómenos que ocurren en el entorno utilizando principios, leyes y teorías de las ciencias de la naturaleza."
+                },
+                {
+                    "code": "CE5.3",
+                    "description": "Identificar y analizar los fenómenos fisicoquímicos más relevantes, explicándolos a través de las principales leyes o teorías científicas."
+                },
+                {
+                    "code": "CE5.4",
+                    "description": "Resolver problemas relacionados con fenómenos y procesos físicos y químicos utilizando el pensamiento científico y el razonamiento lógico-matemático y buscando estrategias alternativas de resolución cuando sea necesario."
+                },
+                {
+                    "code": "CE5.5",
+                    "description": "Analizar críticamente la solución de un problema relacionado con fenómenos y procesos físicos y químicos, modificando las conclusiones o las estrategias utilizadas si la solución no es viable o ante nuevos datos aportados."
+                },
+                {
+                    "code": "CE5.6",
+                    "description": "Reconocer la ciencia como un área de conocimiento global, analizando la interrelación y la interdependencia entre cada una de las disciplinas que la forman."
+                },
+                {
+                    "code": "CE6.4",
+                    "description": "Reconocer la física como una ciencia global y básica, fundamental para la comprensión de otras disciplinas científicas."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Utilizar recursos variados, con sentido crítico y ético",
+            "description": "Utilizar recursos variados, con sentido crítico y ético, para buscar y seleccionar información contrastada y establecer colaboraciones. - La comunicación y la colaboración son componentes inherentes al proceso de avance científico. Parte de este proc…",
+            "criterios": [
+                {
+                    "code": "CE1.5",
+                    "description": "Buscar, contrastar y seleccionar información sobre fenómenos y procesos físicos, químicos, biológicos o geológicos en diferentes formatos, utilizando los recursos necesarios, tecnológicos o de otro tipo."
+                },
+                {
+                    "code": "CE1.6",
+                    "description": "Establecer colaboraciones, utilizando los recursos necesarios, tecnológicos o de otro tipo, en las diferentes etapas del proyecto científico, en la realización de actividades o en la resolución de problemas."
+                },
+                {
+                    "code": "CE1.7",
+                    "description": "Reconocer el papel de las científicas y de los científicos en el avance y en las mejoras de la sociedad, valorando sus contribuciones a la ciencia y a la tecnología."
+                }
+            ]
+        }
+    ]
+}

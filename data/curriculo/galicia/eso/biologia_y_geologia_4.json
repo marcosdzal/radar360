@@ -1,0 +1,185 @@
+{
+    "community": "galicia",
+    "stage": "eso",
+    "decree": "Decreto 156\/2022, de 15 de septiembre",
+    "subject": "biologia_y_geologia",
+    "subject_name": "Biología y Geología",
+    "grade": 4,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Interpretar y transmitir información y datos científicos argumentando sobre",
+            "description": "Interpretar y transmitir información y datos científicos argumentando sobre ellos y utilizando diferentes formatos para analizar conceptos y procesos de las ciencias biológicas y geológicas. - El desarrollo científico rara vez es fruto del trabajo de…",
+            "criterios": [
+                {
+                    "code": "CE1.1",
+                    "description": "Exponer preguntas e hipótesis que puedan ser respondidas o contrastadas utilizando métodos científicos en la explicación de los fenómenos biológicos y geológicos y en la realización de predicciones sobre estos."
+                },
+                {
+                    "code": "CE1.2",
+                    "description": "Diseñar la experimentación, la toma de datos y el análisis de fenómenos biológicos y\/o geológicos, de modo que permitan responder preguntas concretas y contrastar una hipótesis expuesta evitando bulos."
+                },
+                {
+                    "code": "CE1.3",
+                    "description": "Realizar experimentos y tomar datos cuantitativos o cualitativos sobre fenómenos biológicos y geológicos utilizando los instrumentos, herramientas o técnicas adecuadas con corrección y precisión."
+                },
+                {
+                    "code": "CE1.4",
+                    "description": "Interpretar y analizar los resultados obtenidos en un proyecto de investigación utilizando, cuando sea necesario, herramientas matemáticas y tecnológicas obteniendo conclusiones fundamentadas o valorar la imposibilidad de hacerlo."
+                },
+                {
+                    "code": "CE1.5",
+                    "description": "Cooperar y colaborar en las distintas fases de un proyecto científico para trabajar con mayor eficiencia, valorando la importancia de la cooperación en la investigación, respetando la diversidad y la igualdad de género y favoreciendo la inclusión."
+                },
+                {
+                    "code": "CE1.6",
+                    "description": "Presentar de forma clara y rigurosa la información y las conclusiones obtenidas mediante la experimentación y la observación de campo utilizando el formato adecuado (tablas, gráficos, informes...) y herramientas digitales."
+                },
+                {
+                    "code": "CE1.7",
+                    "description": "Transmitir opiniones propias fundamentadas e información sobre la biología y la geología de forma clara y rigurosa, facilitando su comprensión y análisis mediante el uso de la terminología y el formato adecuados (modelos, gráficos, tablas, vídeos, informes, diagramas, fórmulas, esquemas, símbolos, contenidos digitales...)."
+                },
+                {
+                    "code": "CE2.1",
+                    "description": "Reconocer el origen de la Tierra describiendo las diferentes etapas de la formación del universo y explicando la estructura y las características del sistema solar."
+                },
+                {
+                    "code": "CE2.3",
+                    "description": "Comprender los efectos globales de la dinámica de la geosfera a través de la tectónica de placas, reconociéndola como una teoría integradora y describiendo el movimiento de las placas y las estructuras geológicas de los bordos y de las zonas de la interplaca."
+                },
+                {
+                    "code": "CE2.4",
+                    "description": "Identificar pliegues y faltas relacionando sus elementos con los esfuerzos y deformaciones a las que se ven sometidas las rocas."
+                },
+                {
+                    "code": "CE3.1",
+                    "description": "Justificar la célula como unidad estructural y funcional de los seres vivos ejemplificando o aplicando los postulados de la teoría celular."
+                },
+                {
+                    "code": "CE3.3",
+                    "description": "Identificar y comparar modelos o esquemas de ADN y ARN mediante el diseño, la representación en diferentes formatos (maquetas, dibujos, esquemas...) o mediante la extracción de ADN de una célula eucariota y relacionándolos con su función."
+                },
+                {
+                    "code": "CE3.4",
+                    "description": "Reconocer las etapas del ciclo celular señalando su relación con el cáncer, describiendo los cambios a lo largo de las diferentes fases y vinculando la replicación del ADN con la conservación de la información genética."
+                },
+                {
+                    "code": "CE3.5",
+                    "description": "Describir los procesos de división celular indicando las principales diferencias entre mitosis y meiosis utilizando fotografías, vídeos y\/u observando las distintas fases de la mitosis al microscopio."
+                },
+                {
+                    "code": "CE4.4",
+                    "description": "Analizar y explicar los procesos que generan variabilidad genética valorando su papel en la biodiversidad y en la evolución."
+                },
+                {
+                    "code": "CE5.1",
+                    "description": "Analizar y explicar las principales hipótesis sobre el origen de la vida en la Tierra utilizando los argumentos de las diferentes teorías, manteniendo una actitud crítica, obteniendo conclusiones y formando opiniones propias fundamentadas."
+                },
+                {
+                    "code": "CE5.3",
+                    "description": "Comparar la teoría lamarckista y darwinista y explicar el proceso evolutivo aplicando la teoría neodarwinista utilizando las pruebas evolutivas para justificar críticamente la evolución."
+                },
+                {
+                    "code": "CE5.4",
+                    "description": "Reconocer la especiación identificando los principales procesos que generan las especies."
+                },
+                {
+                    "code": "CE5.5",
+                    "description": "Describir la evolución de los homínidos analizando los grandes cambios acontecidos."
+                },
+                {
+                    "code": "CE6.1",
+                    "description": "Analizar conceptos y procesos relacionados con la salud y con la enfermedad interpretando información en diferentes formatos (modelos, gráficos, tablas, diagramas, fórmulas, esquemas, símbolos, páginas web…), manteniendo una actitud crítica y obteniendo conclusiones fundamentadas."
+                },
+                {
+                    "code": "CE6.2",
+                    "description": "Describir las etapas de la sucesión ecológica tomando como ejemplo la formación del suelo."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Identificar, localizar y seleccionar información, contrastando su veracidad,",
+            "description": "Identificar, localizar y seleccionar información, contrastando su veracidad, organizándola y evaluándola críticamente para resolver preguntas relacionadas con las ciencias biológicas y geológicas. - La investigación científica, la participación activ…",
+            "criterios": [
+                {
+                    "code": "CE2.2",
+                    "description": "Explicar la estructura y la dinámica del interior terrestre interpretando la información que acercan los métodos de estudio y adoptando una actitud crítica hacia las creencias infundadas."
+                },
+                {
+                    "code": "CE2.7",
+                    "description": "Localizar las áreas con riesgos externos en Galicia analizando la información de las distintas administraciones públicas o de otras fuentes."
+                },
+                {
+                    "code": "CE3.2",
+                    "description": "Describir los virus como entidades acelulares utilizando ejemplos a través de la selección y del análisis de información de diferentes fuentes y citándolas con respeto por la propiedad intelectual."
+                },
+                {
+                    "code": "CE4.5",
+                    "description": "Reconocer el papel del ambiente en la expresión del fenotipo utilizando ejemplos en el ser humano y en otros organismos a través de la selección y del análisis crítico de información de diferentes fuentes."
+                },
+                {
+                    "code": "CE4.6",
+                    "description": "Describir las principales técnicas de la ingeniería genética e interpretar las implicaciones éticas, sociales y ambientales con relación a los avances en biotecnología e ingeniería genética utilizando fuentes fiables y adoptando una actitud crítica y escéptica hacia informaciones sin una base científica, como pseudociencias, teorías conspiradoras, creencias infundadas, bulos..."
+                },
+                {
+                    "code": "CE5.2",
+                    "description": "Contrastar la veracidad de la información con respeto a las teorías sobre la evolución de los seres vivos –creacionismo y evolucionismo– explicando las principales conclusiones y adoptando una actitud crítica y escéptica hacia informaciones sin una base científica."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Utilizar el razonamiento y el pensamiento computacional, analizando",
+            "description": "Utilizar el razonamiento y el pensamiento computacional, analizando críticamente las respuestas y soluciones y replanteando el procedimiento, si es necesario, para resolver problemas o dar explicación a procesos de la vida cotidiana relacionados con …",
+            "criterios": [
+                {
+                    "code": "CE4.1",
+                    "description": "Distinguir y explicar los procesos implicados en la expresión génica reconociendo las características del código genético y resolviendo cuestiones sencillas utilizando los datos y la información proporcionados."
+                },
+                {
+                    "code": "CE4.2",
+                    "description": "Resolver problemas sencillos de herencia genética de caracteres con relación de dominancia y recesividad aplicando las leyes de Mendel e interpretando los resultados de forma crítica."
+                },
+                {
+                    "code": "CE4.3",
+                    "description": "Resolver problemas sencillos de herencia genética de caracteres con relación de codominancia, dominancia incompleta, alelismo múltiple y herencia ligada al sexo diferenciando fenotipo y genotipo e interpretando los resultados de forma crítica."
+                },
+                {
+                    "code": "CE6.3",
+                    "description": "Reconocer las causas y las consecuencias de los impactos antrópicos y analizar críticamente la solución a un problema ambiental proponiendo acciones para la conservación del medio ambiente localizando, seleccionando, organizando y analizando críticamente información de distintas fuentes."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Analizar los efectos de determinadas acciones sobre el medio ambiente y la",
+            "description": "Analizar los efectos de determinadas acciones sobre el medio ambiente y la salud basándose en los fundamentos de las ciencias biológicas y de la Tierra para promover y adoptar hábitos que eviten o minimicen los impactos ambientales negativos, que sea…",
+            "criterios": [
+                {
+                    "code": "CE6.4",
+                    "description": "Identificar y analizar los diferentes problemas ambientales potenciados por determinadas acciones humanas sobre una zona geográfica, teniendo en cuenta sus características y los factores socioeconómicos."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Analizar los elementos de un paisaje concreto valorándolo como patrimonio",
+            "description": "Analizar los elementos de un paisaje concreto valorándolo como patrimonio natural y utilizando conocimientos sobre geología y ciencias de la Tierra para explicar su historia geológica, proponer acciones encaminadas a su protección e identificar posib…",
+            "criterios": [
+                {
+                    "code": "CE2.5",
+                    "description": "Describir la modelación del relieve analizando los diferentes agentes, procesos y factores que la condicionan, observando el relieve y el paisaje en Galicia y valorando su importancia como recursos."
+                },
+                {
+                    "code": "CE2.6",
+                    "description": "Valorar la importancia del análisis de los riesgos geológicos externos potenciados por determinadas acciones humanas reconociendo las medidas de predicción y prevención para minimizar sus efectos."
+                },
+                {
+                    "code": "CE2.8",
+                    "description": "Deducir y explicar en mapas y cortes sencillos la historia geológica, identificando sus elementos más relevantes, utilizando el razonamiento de los principios geológicos básicos y reconstruyendo los principales acontecimientos geológicos."
+                }
+            ]
+        }
+    ]
+}

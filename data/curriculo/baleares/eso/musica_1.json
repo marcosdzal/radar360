@@ -1,0 +1,97 @@
+{
+    "community": "baleares",
+    "stage": "eso",
+    "decree": "",
+    "subject": "musica",
+    "subject_name": "Música",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Cercar i seleccionar de manera crítica informació adequada provinent de",
+            "description": "Cercar i seleccionar de manera crítica informació adequada provinent de diferents fonts, atenent a criteris de validesa, qualitat, actualitat i fiabilitat i respectant els drets d'autor, per incorporar-la a la construcció de coneixement. Actualment, …",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Reconocer y describir las características sonoras y estilísticas de diversas obras musicales y dancísticas, mostrando respeto y curiosidad por la diversidad cultural."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Identificar y describir la utilidad y el propósito de obras musicales y danzas dentro de su marco histórico, social y cultural específico."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Comparar obras musicales de distintos periodos históricos identificando cómo elementos del pasado influyen y se integran en las producciones musicales y coreográficas actuales."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Valorar i preveure els riscs per a la salut i la seguretat dels dispositius i",
+            "description": "Valorar i preveure els riscs per a la salut i la seguretat dels dispositius i les dades personals, identificant les principals amenaces per tal de fer-ne un ús segur, saludable i legal. La interacció amb la tecnologia i amb els dispositius augmenta l…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Realizar improvisaciones guiadas individuales o grupales utilizando la voz, el cuerpo, instrumentos o tecnología para explorar recursos expresivos musicales y dancísticos."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Utilizar la improvisación musical o dancística para comunicar emociones y estados de ánimo, eligiendo conscientemente recursos técnicos aprendidos previamente en clase."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Identificar i saber reaccionar davant situacions que representen una amenaça a la xarxa triant la millor solució entre diverses opcions i valorant el benestar personal i col·lectiu. Identificar situacions perilloses a la xarxa Respondre davant d'un risc a Internet amb la tria de la millor opció. Vetllar pel benestar i seguretat a la xarxa."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Expressar, comunicar i difondre idees i continguts amb un llenguatge inclusiu i",
+            "description": "Expressar, comunicar i difondre idees i continguts amb un llenguatge inclusiu i no sexista, utilitzant eines de comunicació i publicació simples per gestionar de forma responsable la seva presència a la xarxa. La competència abasta els aspectes neces…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Identificar y comprender los elementos básicos de la notación musical en partituras sencillas, utilizando el análisis visual y el apoyo auditivo guiado."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Interpretar piezas musicales sencillas usando técnicas básicas de voz, instrumentos o cuerpo, memorizando la parte correspondiente y participando activamente en los ensayos colectivos."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Fer servir les eines informàtiques a l'abast per crear i editar continguts",
+            "description": "Fer servir les eines informàtiques a l'abast per crear i editar continguts digitals de diferent naturalesa, treballant de forma autònoma o col·laborativa, per aplicar-les a la construcció de coneixements i donar suport a l'aprenentatge a àmbits diver…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Diseñar y ejecutar proyectos musicales o coreográficos, de forma individual o grupal, utilizando diversos instrumentos, el cuerpo y recursos tecnológicos de manera creativa."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Colaborar en la planificación y ejecución de proyectos musicales grupales, valorando el trabajo en equipo y reconociendo las posibilidades formativas y profesionales del ámbito artístico."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Desenvolupar aplicacions informàtiques en diferents entorns, aplicant els",
+            "description": "Desenvolupar aplicacions informàtiques en diferents entorns, aplicant els fonaments del pensament computacional per donar resposta a problemes diversos i per simular el comportament de sistemes senzills. Existeix una gran varietat d'entorns i llengua…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Dissenyar solucions a problemes informàtics a través d'algoritmes i diagrames de flux, aplicant els elements i tècniques de programació de manera creativa. Dissenyar solucions a problemes informàtics a través d'algoritmes i diagrames de flux. Aplicar els elements i tècniques de programació de manera creativa."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Programar aplicacions senzilles per a diferents dispositius, emprant els elements de programació de manera apropiada i aprofitant els recursos que faciliten les diferents eines d'edició disponibles. Dissenyar i programar aplicacions senzilles per a diferents dispositius. Emprar diferents elements de programació, utilitzant entorns de programació disponibles, intuïtius i adaptats."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Simular el comportament de sistemes simples, utilitzant la programació i reproduint el comportament dels seus components fonamentals per obtenir una eina amb capacitat predictiva. Analitzar i entendre un sistema simple bàsic. Simular el comportament d'un sistema simple a través de la programació. Avaluar que els resultats s'ajusten a la programació prèvia."
+                }
+            ]
+        }
+    ]
+}

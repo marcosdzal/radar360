@@ -1,0 +1,153 @@
+{
+    "community": "pais-vasco",
+    "stage": "bachillerato",
+    "decree": "Decreto 82\/2023, de 13 de junio",
+    "subject": "geografia_e_historia_historia_del_mundo_contemporaneo",
+    "subject_name": "Historia del Mundo Contemporáneo",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Conocer e interpretar la función que han desempeñado el pensamiento y las",
+            "description": "Conocer e interpretar la función que han desempeñado el pensamiento y las ideologías en la transformación de la realidad desde los orígenes de la Edad Contemporánea hasta la actualidad, mediante el uso de fuentes históricas e historiográficas y la ap…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar cómo los sistemas democráticos actuales son resultado no lineal de procesos históricos."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Analizar conceptos de revolución y cambio mediante estudio comparado de revoluciones burguesas y socialistas."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Describir el proceso de construcción de las distintas identidades colectivas y",
+            "description": "Describir el proceso de construcción de las distintas identidades colectivas y su importancia en la configuración social, política y cultural del mundo contemporáneo, utilizando los conceptos y métodos del pensamiento histórico, para comprender su si…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Analizar la violencia en conflictos contemporáneos usando fuentes fiables y argumentar sobre el papel de las instituciones de paz."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Analiza conflictos civiles contemporáneos mediante textos historiográficos y elabora juicios argumentados sobre memoria histórica y justicia universal."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Identificar y caracterizar los procesos, movimientos, acciones y",
+            "description": "Identificar y caracterizar los procesos, movimientos, acciones y transformaciones que han contribuido al afianzamiento de los sistemas democráticos a lo largo de la Historia Contemporánea, así como sus retrocesos, a través del estudio comparado de ca…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Conocer los procesos, movimientos, acciones y transformaciones que han contribuido al afianzamiento de los sistemas democráticos a lo largo de la Historia Contemporánea, así como sus retrocesos, explicando los significados que han ido adoptando los conceptos de libertad y ciudadanía mediante el estudio comparado de casos y la comprensión y comentario de textos políticos y constitucionales en los que se fundamentan."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Analizar condiciones laborales y conflictividad mediante movimientos obreros, valorando la acción colectiva y el sujeto histórico."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Analizar la evolución del estado social mediante el estudio crítico de noticias y datos estadísticos."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Explicar los distintos sistemas y modelos económicos desarrollados en la Edad",
+            "description": "Explicar los distintos sistemas y modelos económicos desarrollados en la Edad Contemporánea, investigando a través de fuentes históricas e historiográficas sobre su interpretación de la idea de progreso y sus repercusiones sociales, ambientales y ter…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Analizar críticamente la construcción histórica de identidades colectivas, respetando la pluralidad y valorando el legado cultural."
+                },
+                {
+                    "code": "4.2",
+                    "description": "El alumnado elabora argumentos propios sobre la construcción de identidades colectivas mediante el análisis crítico de fuentes."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Describir y analizar los cambios y permanencias en los comportamientos",
+            "description": "Describir y analizar los cambios y permanencias en los comportamientos demográficos, los modos de vida y el ciclo vital a lo largo de la Edad Contemporánea, realizando proyectos de investigación para observar las semejanzas y desigualdades demográfic…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Analizar críticamente la globalización contrastando fuentes para evitar desinformación y proponer compromisos ecosociales."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Analizar retos del siglo XXI y su origen histórico, argumentando la necesidad de comportamientos ecosocialmente responsables."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Definir el origen de las desigualdades socioeconómicas actuales, a través del",
+            "description": "Definir el origen de las desigualdades socioeconómicas actuales, a través del conocimiento del devenir de los sistemas y ciclos económicos y de los distintos grupos sociales, empleando el análisis multicausal y valorando el papel transformador de los…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Argumentar sobre el progreso y sus consecuencias sociales, ambientales y territoriales usando datos y gráficos, defendiendo comportamientos sostenibles."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Compara sistemas económicos contemporáneos y justifica la necesidad de acceso universal a recursos básicos."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Argumentar, tras un estudio crítico de documentos fiables y referenciados, la evolución de la sociedad en los siglos XIX y XX, identificando los logros y retrocesos experimentados a lo largo de los distintos procesos históricos, y las medidas adoptadas en cada momento por los diferentes Estados y organizaciones internacionales, así como los límites y retos de futuro, desde una perspectiva solidaria en favor de los colectivos más vulnerables."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Conocer y analizar las causas y consecuencias de los principales conflictos de",
+            "description": "Conocer y analizar las causas y consecuencias de los principales conflictos de la Edad Contemporánea y de su alto grado de violencia y destrucción, a través del análisis de textos históricos y del empleo de fuentes historiográficas fiables, para dete…",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Argumentar y debatir sobre el papel de las ideologías en la historia contemporánea usando fuentes variadas."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Evaluar críticamente temas históricos y actuales mediante corrientes historiográficas y usos de la historia, desde la ética de la DUDH."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Explicar el fenómeno de la Globalización como marco de relación de las",
+            "description": "Explicar el fenómeno de la Globalización como marco de relación de las sociedades actuales y su repercusión en el ámbito local y planetario y en la vida cotidiana de las personas, a través de procesos de búsqueda, selección y tratamiento de la inform…",
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Analizar cambios y permanencias demográficas, de género y lucha por la dignidad en la sociedad contemporánea mediante proyectos de investigación."
+                },
+                {
+                    "code": "8.2",
+                    "description": "Contrastar el papel relegado de la mujer en la historia contemporánea, identificando a protagonistas anónimas y el impacto de los movimientos feministas en la igualdad y corresponsabilidad."
+                }
+            ]
+        },
+        {
+            "code": "CE9",
+            "name": "Integrar la perspectiva de género en el análisis de la Historia Contemporánea",
+            "description": "Integrar la perspectiva de género en el análisis de la Historia Contemporánea universal y del panorama sociopolítico actual, examinando el papel de la mujer a través de la utilización de fuentes históricas y de la investigación directa sobre los movi…",
+            "criterios": [
+                {
+                    "code": "9.1",
+                    "description": "Integrar la perspectiva de género en el análisis de la Historia Contemporánea universal y en la observación del panorama actual, identificando los mecanismos culturales y sociopolíticos que han generado y mantenido la desigualdad entre hombres y mujeres, los roles asignados y los espacios de actividad ocupados tradicionalmente por hombres y mujeres."
+                },
+                {
+                    "code": "9.2",
+                    "description": "Constatar la realidad de la exclusión de la mujer en la Historia Contemporánea, analizando fuentes históricas, identificando los obstáculos, avances y retrocesos a la hora de reconocerla en la sociedad y en la política, valorando las acciones del movimiento feminista en favor de su emancipación y recuperando figuras individuales y colectivas como protagonistas silenciadas y omitidas."
+                }
+            ]
+        }
+    ]
+}

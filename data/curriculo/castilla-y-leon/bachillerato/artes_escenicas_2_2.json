@@ -1,0 +1,89 @@
+{
+    "community": "castilla-y-leon",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "artes_escenicas_2",
+    "subject_name": "Artes Escénicas II",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "1.1 Analizar manifestaciones escénicas de diferentes épocas y tradiciones,",
+            "description": "1.1 Analizar manifestaciones escénicas de diferentes épocas y tradiciones, describiendo sus características, recurriendo al uso de un vocabulario adecuado y una terminología progresivamente técnica, estableciendo relaciones con su contexto y evidenci…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar manifestaciones escénicas de diferentes épocas y tradiciones describiendo sus características y contexto, con actitud abierta y respetuosa."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Valorar críticamente la evolución de hábitos y gustos escénicos relacionándolos con el presente."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "2.1 Participar, con iniciativa, confianza y creatividad, en la exploración de",
+            "description": "2.1 Participar, con iniciativa, confianza y creatividad, en la exploración de sistemas, medios y códigos de significación escénica, realizando actividades de carácter práctico e incorporando el aprendizaje a la creación propia. (CCL1, CCL2, CD1, CD2,…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Interpretar sistemas escénicos mediante actividades prácticas con iniciativa y creatividad."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Crear una escena dramática con personajes y situaciones, eligiendo las técnicas adecuadas para la intención comunicativa."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "3.1 Emplear diferentes técnicas de interpretación de forma creativa y autónoma",
+            "description": "3.1 Emplear diferentes técnicas de interpretación de forma creativa y autónoma, aplicando estrategias de memorización y valorando los ensayos como espacios de escucha, diálogo y aprendizaje colectivo. (CCL1, CP3, STEM3, CD2, CPSAA3.2, CC3, CE1, CCEC3…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Aplicar técnicas de interpretación creativa en ensayos grupales, usando memorización y valorando el diálogo."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Representa escenas siguiendo dirección, con precisión y expresividad, gestionando la ansiedad escénica."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "4.1 Participar, con iniciativa, responsabilidad y conciencia de grupo, en el",
+            "description": "4.1 Participar, con iniciativa, responsabilidad y conciencia de grupo, en el diseño, la planificación y la realización de proyectos colectivos de creación y difusión escénica, organizando correctamente sus fases, distribuyendo de forma razonada las t…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Participar en proyectos escénicos colectivos diseñando, planificando y realizando con iniciativa, responsabilidad y organización."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Evaluar y presentar los resultados del proyecto, comparando objetivos con producto final y explicando diferencias."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Analiza oportunidades personales, sociales, académicas o profesionales en el ámbito artístico, valora su impacto y expresa opinión crítica y respetuosa."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "5.1 Valorar la recepción del público ante un espectáculo determinado,",
+            "description": "5.1 Valorar la recepción del público ante un espectáculo determinado, relacionando las características de la obra, el contexto de la puesta en escena y las reacciones de los espectadores. (CCL2, CPSAA3.1, CCEC1) 5.2 Realizar y compartir, a través de …",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Analizar la acogida de un espectáculo vinculando obra, puesta en escena y respuesta del público."
+                },
+                {
+                    "code": "5.2",
+                    "description": "El alumnado escribe y comparte críticas escénicas rigurosas usando terminología adecuada y fuentes fiables."
+                }
+            ]
+        }
+    ]
+}

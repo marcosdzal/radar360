@@ -1,0 +1,147 @@
+{
+    "community": "pais-vasco",
+    "stage": "eso",
+    "decree": "Decreto 77\/2023, de 30 de mayo",
+    "subject": "digitalizacion",
+    "subject_name": "Digitalización",
+    "grade": 4,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Identificar y resolver problemas técnicos sencillos, conectar y configurar dispositivos a redes domésticas",
+            "description": "Identificar y resolver problemas técnicos sencillos, conectar y configurar dispositivos a redes domésticas, aplicando los conocimientos de hardware y sistemas operativos para gestionar las herramientas e instalaciones informáticas y de comunicación d…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Conectar dispositivos en red local aplicando conocimientos de comunicación alámbrica e inalámbrica con actitud proactiva."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Instala y configura sistemas operativos ajustando sus características a necesidades personales."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Resolver problemas técnicos analizando componentes, evaluando críticamente soluciones y reformulando el procedimiento si es necesario."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Utilizar los principios del pensamiento computacional para diseñar y",
+            "description": "Utilizar los principios del pensamiento computacional para diseñar y desarrollar algoritmos y aplicaciones informáticas que den solución a situaciones y problemas concretos de manera eficaz, creativa e innovadora, utilizando un lenguaje de programaci…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Diseñar un entorno personal de aprendizaje integrando recursos digitales de forma autónoma para gestionar el aprendizaje permanente."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Aplicar herramientas del PLE para buscar, seleccionar y archivar información con criterio y seguridad."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Crear y programar contenidos digitales originales, eligiendo herramientas y respetando derechos de autor."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Configurar el entorno personal de aprendizaje (PLE) interactuando y",
+            "description": "Configurar el entorno personal de aprendizaje (PLE) interactuando y aprovechando los recursos del ámbito digital para optimizar y gestionar el aprendizaje permanente.",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Configurar la privacidad en redes sociales y espacios virtuales para proteger datos personales y la huella digital."
+                },
+                {
+                    "code": "3.2",
+                    "description": "El alumnado aplica la configuración y actualización periódica de contraseñas, sistema operativo y antivirus en dispositivos habituales."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Identificar amenazas en red y actuar seleccionando la solución más adecuada para proteger la salud y los datos."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Interactuar en espacios virtuales de comunicación y plataformas de aprendizaje colaborativo, compartiendo y publi cando información y datos, adaptándose a diferentes audiencias con una actitud participativa."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Adquirir hábitos que fomenten el bienestar digital aplicando medidas",
+            "description": "Adquirir hábitos que fomenten el bienestar digital aplicando medidas preventivas y correctivas para proteger los dispositivos, los datos personales, la propia salud, y el medioambiente.",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Aplica normas éticas y de etiqueta digital al comunicarse y colaborar en línea, respetando privacidad y propiedad intelectual."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Valorar cómo las tecnologías digitales facilitan gestiones y comercio, y analizar la brecha social en su acceso y uso."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Evalúa la capacidad de analizar críticamente mensajes digitales identificando objetividad, ideología, intencionalidad, sesgos y caducidad."
+                },
+                {
+                    "code": "4.4",
+                    "description": "Analizar la necesidad y beneficios del uso ecosocialmente responsable de tecnologías digitales, evaluando accesibilidad, sostenibilidad e impacto."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Ejercer una ciudadanía digital crítica y activa",
+            "description": "Ejercer una ciudadanía digital crítica y activa, reconociendo la aportación de las tecnologías digitales en distintos ámbitos de la sociedad, conociendo las posibles acciones que realizar en la red, e identificando sus repercusiones para hacer un uso…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Hacer un uso ético de los datos y las herramientas digitales, aplicando las normas de etiqueta digital y respetando las diferentes licencias de uso y propiedad intelectual en la comunicación, colaboración y participación activa en la red."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Reconocer las aportaciones de las tecnologías digitales en distintos ámbitos de la sociedad, valorando especialmente la aportación que han realizado las mujeres para fomentar su vocación científico-tecnológica, siendo consciente de la brecha digital (económica, geográfica, de género, de idioma…) de acceso, uso y aprovechamiento de dichas tecnologías para diversos colectivos."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Valorar la importancia de la oportunidad, facilidad y libertad de expresión que suponen los medios digitales conectados, analizando de forma crítica los mensajes que se reciben teniendo en cuenta su objetividad, ideología, intencionalidad, sesgos y caducidad."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Expresar, comunicar y difundir ideas, propuestas o soluciones digitales de",
+            "description": "Expresar, comunicar y difundir ideas, propuestas o soluciones digitales de forma individual y colectiva en diferentes foros, utilizando las estructuras lingüísticas y la terminología técnica adecuada, así como los recursos disponibles y aplicando los…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Presentar y difundir las propuestas o soluciones técnicas de manera efectiva, empleando las estructuras lingüísticas, el vocabulario técnico, la entonación, expresión, gestión del tiempo y adaptación adecuada del discurso, así como un lenguaje inclusivo y no sexista, r espetando la diversidad cultural y sus distintas formas de expresión."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Desarrollar destrezas personales y sociales",
+            "description": "Desarrollar destrezas personales y sociales, reconociendo las fortalezas y debilidades propias y ajenas, identificando y gestionando de forma eficaz las emociones y experiencias para fomentar el bienestar personal y crear relaciones saludables que pe…",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Identificar y gestionar las emociones propias, desarrollar la autoconciencia y el sentido de identidad y reconocer las fuentes de estrés al abordar los diferentes desafíos digitales."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Mantener la perseverancia y una motivación positiva, aceptando la crítica razonada, al hacer frente a las diferentes situaciones de aprendizaje de la materia de digitalización."
+                },
+                {
+                    "code": "7.3",
+                    "description": "Colaborar activamente y construir relaciones trabajando en equipos heterogéneos, comunicándose de manera efecti va, pensando de forma crítica y creativa, tomando decisiones consensuadas e informadas, para resolver problemas que implican la aplicación de los contenidos estudiados."
+                },
+                {
+                    "code": "7.4",
+                    "description": "Participar en el reparto de tareas a desarrollar en equipo, practicando la inclusión, la escucha activa, asumiendo el rol asignado y responsabilizándose de su contribución al mismo."
+                }
+            ]
+        }
+    ]
+}

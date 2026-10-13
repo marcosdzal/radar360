@@ -1,0 +1,73 @@
+{
+    "community": "canarias",
+    "stage": "bachillerato",
+    "decree": "Decreto 73\/2023, de 13 de abril",
+    "subject": "dibujo_tecnico_artes_2",
+    "subject_name": "Dibujo Técnico Aplicado a las Artes Plásticas y al Diseño II",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "(c1) La competencia específica se centra en el desarrollo de aprendizajes",
+            "description": "(c1) La competencia específica se centra en el desarrollo de aprendizajes relativos a la capacidad de identificar y analizar la presencia de estructuras geométricas subyacentes en el arte del pasado y del presente, la naturaleza y el entorno construi…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar y justificar el uso de estructuras y proporciones geométricas en obras artísticas o de diseño, determinando su función compositiva y comunicativa."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "(c2) La competencia específica analiza el desarrollo de aprendizajes relativos",
+            "description": "(c2) La competencia específica analiza el desarrollo de aprendizajes relativos a la representación y trazado de las principales formas y construcciones geométricas, y, lo que es más importante, su integración dentro del lenguaje plástico personal del…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Crear composiciones modulares y teselaciones mediante el uso de transformaciones geométricas planas, integrando precisión técnica y creatividad en el diseño de superficies."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Crear composiciones gráficas originales aplicando trazados geométricos de tangencias, enlaces y curvas cónicas para resolver problemas de diseño artístico o funcional."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "(c3) La competencia específica se orienta hacia el desarrollo de aprendizajes",
+            "description": "(c3) La competencia específica se orienta hacia el desarrollo de aprendizajes relativos a la aptitud para escoger y aplicar los procedimientos y sistemas de representación –vistas en diédrico, perspectiva axonométrica, caballera y perspectiva cónica–…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Representar objetos tridimensionales con elementos curvos utilizando los sistemas axonométricos, asegurando la correcta construcción de elipses y arcos en los planos isométrico y de caballera."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Diseñar y representar espacios tridimensionales o escenografías mediante perspectiva cónica, integrando el estudio de luces y sombras y analizando críticamente el resultado final."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "(c4) La competencia específica se encamina hacia el desarrollo de aprendizajes",
+            "description": "(c4) La competencia específica se encamina hacia el desarrollo de aprendizajes relativos a la aplicación de una serie de códigos gráficos y normas generalizadas (UNE e ISO) que permiten comunicar, de forma clara y unívoca, soluciones personales y pro…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Crear un diseño sencillo, de manera individual o en grupo, comunicando clara e inequívocamente su forma y dimensiones mediante el uso de la normalización, aplicando estrategias y destrezas que agilicen el trabajo colaborativo y utilizando diferentes herramientas digitales que le permitan proponer ideas creativas y aplicar conocimientos técnicos, para interpretar y representar objetos y espacios."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "(c5) La competencia específica se dirige hacia el desarrollo de aprendizajes",
+            "description": "(c5) La competencia específica se dirige hacia el desarrollo de aprendizajes relativos a la adquisición de un conocimiento práctico e instrumental de las principales herramientas y técnicas de dibujo y modelado en dos y tres dimensiones, de manera tr…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Diseñar y presentar proyectos artísticos o de diseño utilizando herramientas de dibujo vectorial, aprovechando sus ventajas técnicas para la creación y edición de imágenes escalables."
+                }
+            ]
+        }
+    ]
+}

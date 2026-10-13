@@ -1,0 +1,115 @@
+{
+    "community": "extremadura",
+    "stage": "bachillerato",
+    "decree": "Decreto 113\/2022, de 25 de agosto",
+    "subject": "filosofia",
+    "subject_name": "Historia de la Filosofía",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Buscar, analizar, interpretar, producir y transmitir información relativa a",
+            "description": "Buscar, analizar, interpretar, producir y transmitir información relativa a hechos históricofilosóficos a partir del uso crítico y seguro de fuentes y el dominio de técnicas básicas de investigación, generando conocimientos y producciones propias ace…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Interpretar y comparar fuentes filosóficas contextualizadas para elaborar producciones propias"
+                },
+                {
+                    "code": "1.2",
+                    "description": "El alumno elabora y presenta trabajos de investigación sobre problemas histórico-filosóficos, construyendo juicios propios y aplicando protocolos de manera individual o cooperativa."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "R econocer y analizar las normas y pautas de la argumentación y el diálogo",
+            "description": "R econocer y analizar las normas y pautas de la argumentación y el diálogo filosóficos en distintos soportes y a través de diversas actividades, con objeto de aplicarlas con rigor en la construcción y exposición de argumentos y en el ejercicio del di…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Emplear argumentos rigurosos aplicando normas lógicas y retóricas, evitando dogmatismos y falacias."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Mantener un diálogo filosófico argumentativo, empático y respetuoso en actividades colaborativas."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "A nalizar, interpretar y exponer diferentes concepciones filosóficas",
+            "description": "A nalizar, interpretar y exponer diferentes concepciones filosóficas históricamente dadas mediante el acercamiento a sus fuentes y el trabajo crítico sobre las mismas, desarrollando el conocimiento de un acervo que constituye parte esencial del patri…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Analizar las principales propuestas filosóficas históricas, indagando en sus fuentes e identificando las preguntas que intentan responder."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Analizar y debatir críticamente problemas filosóficos a través del comentario de textos."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "R econocer la naturaleza esencialmente plural y diversa de las concepciones",
+            "description": "R econocer la naturaleza esencialmente plural y diversa de las concepciones filosóficas históricamente dadas mediante su puesta en relación dialéctica de confrontación y complementariedad, generando una concepción compleja y dinámica de la historia d…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Elaborar una visión compleja de la historia de la filosofía comparando y contrastando tesis de diferentes filósofos o escuelas."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Adoptar una actitud tolerante y comprometida con la resolución racional y dialogada de conflictos y desacuerdos a partir de la práctica del pensamiento filosófico y la comprensión de las relaciones de complementariedad, y no solo de oposición, entre perspectivas distintas en torno a problemas actuales y de relevancia filosófica, cultural o social."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Reconocer el modo en que se han planteado sucesivamente, a través de distintas",
+            "description": "Reconocer el modo en que se han planteado sucesivamente, a través de distintas épocas y concepciones, los mismos problemas filosóficos, mediante el análisis e interpretación de textos y otros modos de expresión filosóficos o más ampliamente culturale…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Analizar cómo los problemas filosóficos surgen y evolucionan en distintos contextos históricos mediante el examen crítico de condiciones culturales."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Compara el tratamiento de problemas filosóficos en distintas épocas y autores mediante esquemas u otros productos."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "R econocer las formas diversas en que los interrogantes filosóficos y sus",
+            "description": "R econocer las formas diversas en que los interrogantes filosóficos y sus intentos de respuesta se han presentado históricamente en otros ámbitos de la cultura, mediante el análisis interpretativo de textos y otras manifestaciones pertenecientes a es…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Comparar textos de distintos ámbitos culturales para apreciar las relaciones entre filosofía y otras manifestaciones culturales."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Analizar y exponer de modo argumentado y crítico la relación entre las aportaciones de diversos saberes, disciplinas y producciones culturales de distintos campos, en torno a una misma temática, idea o cuestión filosófica, mediante la realización de debates y pequeños trabajos de investigación al respecto."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Analizar problemas fundamentales y de actualidad mediante la exposición crítica",
+            "description": "Analizar problemas fundamentales y de actualidad mediante la exposición crítica de distintas posiciones histórico-filosóficas relevantes y el diálogo en torno a las mismas, en orden a desarrollar la autonomía de juicio y promover planteamientos, acti…",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Elaborar propuestas críticas sobre problemas actuales usando ideas filosóficas históricas."
+                },
+                {
+                    "code": "7.2",
+                    "description": "D esarrollar un juicio crítico, personal y autónomo, e identificar y promover planteamientos, actitudes y acciones ética y cívicamente consecuentes con el propio juicio y la consideración racional de los valores comunes, con respecto a problemas fundamentales de la actualidad, a partir de la comprensión de ideas, teorías y controversias históricofilosóficas que puedan contribuir a clarificar tales problemas."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,193 @@
+{
+    "community": "galicia",
+    "stage": "eso",
+    "decree": "Decreto 156\/2022, de 15 de septiembre",
+    "subject": "biologia_y_geologia",
+    "subject_name": "Biología y Geología",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Interpretar y transmitir información y datos científicos argumentando sobre",
+            "description": "Interpretar y transmitir información y datos científicos argumentando sobre ellos y utilizando diferentes formatos para analizar conceptos y procesos de las ciencias biológicas y geológicas. - El desarrollo científico rara vez es fruto del trabajo de…",
+            "criterios": [
+                {
+                    "code": "CE1.1",
+                    "description": "Analizar y explicar conceptos y procesos biológicos y geológicos interpretando la información obtenida en diferentes formatos con una actitud crítica y llegando a conclusiones fundamentadas."
+                },
+                {
+                    "code": "CE1.2",
+                    "description": "Resolver cuestiones sobre biología y geología localizando, seleccionando y organizando información de distintas fuentes y citándolas correctamente."
+                },
+                {
+                    "code": "CE1.3",
+                    "description": "Exponer preguntas e hipótesis e intentar realizar predicciones sobre fenómenos biológicos o geológicos que puedan ser respondidas o contrastadas utilizando métodos científicos."
+                },
+                {
+                    "code": "CE1.4",
+                    "description": "Reconocer la información sobre temas biológicos y geológicos con base científica distinguiéndola de pseudociencias, bulos, teorías conspiradoras y creencias infundadas... y manteniendo una actitud escéptica ante estos."
+                },
+                {
+                    "code": "CE1.5",
+                    "description": "Diseñar y realizar la experimentación, la toma de datos y el análisis de fenómenos biológicos y geológicos de modo que permitan responder preguntas concretas y contrastar una hipótesis expuesta."
+                },
+                {
+                    "code": "CE1.6",
+                    "description": "Presentar las conclusiones del proyecto de investigación mediante el formateo y las herramientas digitales adecuadas, interpretando los resultados y la información obtenida a través de la experimentación y de la observación de campo."
+                },
+                {
+                    "code": "CE1.7",
+                    "description": "Cooperar dentro de un proyecto científico asumiendo responsablemente una función concreta, respetando la diversidad y la igualdad de género y favoreciendo la inclusión."
+                },
+                {
+                    "code": "CE1.8",
+                    "description": "Valorar la contribución de la ciencia a la sociedad y la labor de personas dedicadas a ella con independencia de su etnia, sexo o cultura, destacando y reconociendo el papel de las mujeres científicas y entendiendo la investigación como una labor colectiva e interdisciplinar en constante evolución."
+                },
+                {
+                    "code": "CE2.1",
+                    "description": "Facilitar la comprensión y el análisis de información sobre procesos biológicos o trabajos científicos transmitiéndola de forma clara y utilizando la terminología y los formatos adecuados."
+                },
+                {
+                    "code": "CE3.1",
+                    "description": "Explicar las características que hacen que la Tierra sea un planeta habitable."
+                },
+                {
+                    "code": "CE3.2",
+                    "description": "Reconocer los criterios que sirven para clasificar los seres vivos identificando las principales categorías taxonómicas a las que pertenecen los animales y las plantas más comunes."
+                },
+                {
+                    "code": "CE3.3",
+                    "description": "Describir las características generales de los grandes grupos de seres vivos utilizando las claves para la identificación y la clasificación de seres vivos."
+                },
+                {
+                    "code": "CE4.1",
+                    "description": "Identificar y clasificar distintos minerales mediante la observación de sus características y propiedades."
+                },
+                {
+                    "code": "CE4.2",
+                    "description": "Reconocer diferentes rocas a través de su clasificación en función del origen y\/o de los minerales que las forman."
+                },
+                {
+                    "code": "CE4.4",
+                    "description": "Describir la importancia de los minerales y de las rocas en la sociedad relacionándolos con sus aplicaciones en la vida cotidiana."
+                },
+                {
+                    "code": "CE4.6",
+                    "description": "Explicar la estructura y la composición básica de la geosfera diferenciando las características generales de las capas que la forman."
+                },
+                {
+                    "code": "CE4.7",
+                    "description": "Relacionar la litosfera y el movimiento de las placas con las estructuras geológicas que se originan en los bordes integrándolas en la teoría de la tectónica de placas."
+                },
+                {
+                    "code": "CE5.3",
+                    "description": "Analizar las funciones de la atmósfera y su papel esencial para la vida en la Tierra reflexionando sobre la importancia del efecto invernadero."
+                },
+                {
+                    "code": "CE5.4",
+                    "description": "Analizar las funciones de la hidrosfera y su papel esencial para la vida en la Tierra reflexionando sobre la importancia del ciclo del agua."
+                },
+                {
+                    "code": "CE6.2",
+                    "description": "Explicar las características generales de los principales ecosistemas terrestres y acuáticos haciendo una especial referencia a los ecosistemas gallegos."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Identificar, localizar y seleccionar información, contrastando su veracidad,",
+            "description": "Identificar, localizar y seleccionar información, contrastando su veracidad, organizándola y evaluándola críticamente para resolver preguntas relacionadas con las ciencias biológicas y geológicas. - La investigación científica, la participación activ…",
+            "criterios": [
+                {
+                    "code": "CE2.2",
+                    "description": "Reconocer que los seres vivos están constituidos por células indicando las características que los diferencian de la materia inerte."
+                },
+                {
+                    "code": "CE2.3",
+                    "description": "Describir la célula como unidad estructural y funcional de los seres vivos identificando sus estructuras básicas y reconociendo sus funciones vitales."
+                },
+                {
+                    "code": "CE2.4",
+                    "description": "Identificar las estructuras básicas de los diferentes tipos de células empleando distintas estrategias de observación y comparación."
+                },
+                {
+                    "code": "CE2.5",
+                    "description": "Identificar los virus como entidades biológicas acelulares."
+                },
+                {
+                    "code": "CE3.4",
+                    "description": "Comprender el proceso evolutivo localizando y analizando algunos ejemplos de adaptaciones de los seres vivos."
+                },
+                {
+                    "code": "CE4.3",
+                    "description": "Localizar rocas y minerales del entorno seleccionando información mediante el uso correcto de diferentes fuentes."
+                },
+                {
+                    "code": "CE5.5",
+                    "description": "Reconocer los impactos ambientales sobre la hidrosfera y la atmósfera debidos a la acción humana relacionándolos con sus causas y consecuencias en el medio ambiente."
+                },
+                {
+                    "code": "CE5.6",
+                    "description": "Comprender el papel determinante de la atmósfera, hidrosfera, biosfera y geosfera en la edafogénesis, así como su influencia en el modelado terrestre, identificando las funciones del suelo."
+                },
+                {
+                    "code": "CE6.1",
+                    "description": "Conocer los componentes de un ecosistema estableciendo las relaciones existentes entre ellos."
+                },
+                {
+                    "code": "CE6.5",
+                    "description": "Reconocer la información con base científica distinguiéndola de pseudociencias, bulos, teorías conspiradoras y creencias infundadas, etc., y manteniendo una actitud escéptica ante estos."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Utilizar el razonamiento y el pensamiento computacional, analizando",
+            "description": "Utilizar el razonamiento y el pensamiento computacional, analizando críticamente las respuestas y soluciones y replanteando el procedimiento, si es necesario, para resolver problemas o dar explicación a procesos de la vida cotidiana relacionados con …",
+            "criterios": [
+                {
+                    "code": "CE5.1",
+                    "description": "Explicar procesos biológicos o geológicos utilizando conocimientos, datos e información aportados, el razonamiento lógico o recursos digitales."
+                },
+                {
+                    "code": "CE6.4",
+                    "description": "Analizar críticamente la solución a un problema ambiental relacionándolo con fenómenos biológicos y geológicos."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Analizar los efectos de determinadas acciones sobre el medio ambiente y la",
+            "description": "Analizar los efectos de determinadas acciones sobre el medio ambiente y la salud basándose en los fundamentos de las ciencias biológicas y de la Tierra para promover y adoptar hábitos que eviten o minimicen los impactos ambientales negativos, que sea…",
+            "criterios": [
+                {
+                    "code": "CE4.5",
+                    "description": "Valorar una explotación sostenible de los recursos geológicos identificando los principales impactos que causa."
+                },
+                {
+                    "code": "CE6.6",
+                    "description": "Relacionar con fundamentos científicos la preservación de la biodiversidad, la conservación del medio ambiente, la protección de los seres vivos del entorno, el desarrollo sostenible y la calidad de vida."
+                },
+                {
+                    "code": "CE6.7",
+                    "description": "Proponer y adoptar hábitos sostenibles analizando de una manera crítica las actividades propias y ajenas a partir de los propios razonamientos, de los conocimientos adquiridos y de la información disponible."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Analizar los elementos de un paisaje concreto valorándolo como patrimonio",
+            "description": "Analizar los elementos de un paisaje concreto valorándolo como patrimonio natural y utilizando conocimientos sobre geología y ciencias de la Tierra para explicar su historia geológica, proponer acciones encaminadas a su protección e identificar posib…",
+            "criterios": [
+                {
+                    "code": "CE5.2",
+                    "description": "Interpretar el paisaje analizando sus elementos y reflexionando sobre el impacto ambiental derivados de determinadas acciones humanas."
+                },
+                {
+                    "code": "CE6.3",
+                    "description": "Identificar en un ecosistema los factores desencadenantes de desequilibrios indicando estrategias para restablecerlos y difundiendo acciones que favorezcan la conservación medioambiental."
+                }
+            ]
+        }
+    ]
+}

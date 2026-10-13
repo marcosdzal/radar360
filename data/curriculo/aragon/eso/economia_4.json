@@ -1,0 +1,200 @@
+{
+    "community": "aragon",
+    "stage": "eso",
+    "decree": "Orden ECD\/1172\/2022, de 2 de agosto",
+    "subject": "economia_alt",
+    "subject_name": "Economía Social",
+    "grade": 4,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Entender la organización política del país y los organismos internacionales más",
+            "description": "Entender la organización política del país y los organismos internacionales más relevantes adquiriendo una visión global de las instituciones y normas generales que hacen posible la convivencia en seguridad y paz a fin de la consecución del desarroll…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Comprender la organización territorial y política del país."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Valorar la necesidad de normas de convivencia pactadas y consensuadas."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Conocer los cauces de participación ciudadana."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Investigar sobre aplicaciones y herramientas de la administración electrónica."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Comprender el estado de bienestar como garante democrático de los derechos",
+            "description": "Comprender el estado de bienestar como garante democrático de los derechos sociales básicos, analizar las fuentes de ingresos y gastos del Estado; así como determinar el impacto para la sociedad de la desigualdad de la renta y estudiar las herramient…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Conocer el significado de estado de bienestar relacionándolo con servicios públicos cotidianos."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Identificar los ingresos y gastos del Estado."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Reconocer la importancia del sistema público de Seguridad Social describiendo su funcionamiento básico."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Analizar los impuestos básicos."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Analizar problemas sociales del entorno, la implicación individual en la",
+            "description": "Analizar problemas sociales del entorno, la implicación individual en la sociedad y plantear soluciones relacionándolas con los Objetivos de Desarrollo Sostenible. Una sociedad tan dinámica y flexible como la actual requiere de una gestión autoconsci…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Comprender los Objetivos de Desarrollo Sostenible y valorar su importancia en el futuro desarrollo de la economía y la sociedad, analizando la actuación que se están llevando a cabo en el entorno en aras de su consecución y cumplimiento."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Identificar problemas cercanos concretos y plantear soluciones sostenibles de acuerdo con los ODS."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Reconocer el funcionamiento del dinero, fenómenos monetarios básicos y las principales instituciones financieras",
+            "description": "Reconocer el funcionamiento del dinero, fenómenos monetarios básicos y las principales instituciones financieras. El dinero es la unidad que permite la acumulación y el intercambio en la sociedad. Su funcionamiento es desconocido y en torno a él exis…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Conocer el origen del dinero y sus funciones."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Describir fenómenos monetarios básicos y su repercusión social."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Investigar sobre los productos financieros básicos como las cuentas y tarjetas",
+            "description": "Investigar sobre los productos financieros básicos como las cuentas y tarjetas bancarias, préstamos e hipotecas y otros productos de inversión bajo el prisma de la banca ética. El alumnado deberá indagar sobre los productos financieros básicos y cono…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Identificar las diferentes cuentas y tarjetas bancarias que existen, así como los nuevos modelos de pago reconociendo las ventajas e inconvenientes para cada una de las alternativas."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Valorar el riesgo de la rentabilidad de los préstamos, hipotecas y otros tipos de inversión analizando su repercusión individual y social."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Reconocer la necesidad de examinar detenidamente los productos financieros."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Realizar un presupuesto personal distinguiendo entre los diferentes tipos de",
+            "description": "Realizar un presupuesto personal distinguiendo entre los diferentes tipos de ingresos y gastos, controlar su grado de cumplimiento y las posibles necesidades de adaptación; además, expresar una actitud positiva hacia en ahorro empleándolo solidariame…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Elaborar con herramientas informáticas el seguimiento de un presupuesto o plan financiero personalizado, identificando cada uno de los ingresos y gastos."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Comprender las necesidades de planificación del ahorro y manejo de los asuntos financieros a lo largo de la vida."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Analizar las ventajas e inconvenientes del endeudamiento valorando el riesgo y selección de la decisión más adecuada para cada momento. Reconoce la repercusión social de la deuda."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Asimilar el consumo responsable valorando las repercusiones de las decisiones individuales en la sociedad",
+            "description": "Asimilar el consumo responsable valorando las repercusiones de las decisiones individuales en la sociedad. El alumnado debe valorar la repercusión que las decisiones individuales causan en nuestro entorno inmediato. En esta etapa es necesaria una edu…",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Entender el consumo como un acto consciente, premeditado y crítico sujeto a la presión de la publicidad y otros agentes."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Identificar los derechos de los consumidores, instituciones y oficinas que se dedican a la atención al consumidor."
+                },
+                {
+                    "code": "7.3",
+                    "description": "Reconocer las estafas de consumo más recurrentes y el procedimiento para denunciarlas."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Analizar las implicaciones sociales del comercio local y evaluar las actividades económicas del entorno",
+            "description": "Analizar las implicaciones sociales del comercio local y evaluar las actividades económicas del entorno. El desarrollo de la capacidad de observación real del entorno dota al alumnado de herramientas para obtener una visión desde lo local a lo global…",
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Reconocer los sectores y las actividades económicas más importantes del entorno."
+                },
+                {
+                    "code": "8.2",
+                    "description": "Investigar sobre el comercio local y evaluar su valor social."
+                },
+                {
+                    "code": "8.3",
+                    "description": "Examinar las marcas de identidad propias como pueden ser las denominaciones de origen y otros sellos de calidad."
+                }
+            ]
+        },
+        {
+            "code": "CE9",
+            "name": "Conocer los trámites más básicos sobre consumo y reclamaciones en diferentes ámbitos",
+            "description": "Conocer los trámites más básicos sobre consumo y reclamaciones en diferentes ámbitos. A partir de esta competencia, el alumnado pretende alcanzar el conocimiento necesario para identificar y comprender el contenido de documentos cotidianos con el fin…",
+            "criterios": [
+                {
+                    "code": "9.1",
+                    "description": "Distinguir facturas de diferentes sectores."
+                },
+                {
+                    "code": "9.2",
+                    "description": "Conocer la estructura de un contrato y sus cláusulas."
+                }
+            ]
+        },
+        {
+            "code": "CE10",
+            "name": "Diseñar un proyecto solidario que genere valor en el entorno",
+            "description": "Diseñar un proyecto solidario que genere valor en el entorno. La situación actual requiere de una ciudadanía capaz de detectar problemas sociales u oportunidades a fin de dar viabilidad a soluciones asociativas concretas o a negocios que creen empleo…",
+            "criterios": [
+                {
+                    "code": "10.1",
+                    "description": "Aplicar técnicas de gestión de manera colaborativa, buscando la efectividad de sus actos y con criterios de eficiencia, optimizando el uso de los recursos a su alcance para lograr el objetivo planteado."
+                },
+                {
+                    "code": "10.2",
+                    "description": "Planifica y organiza el trabajo para ejecutarlo. Toma las decisiones en su área de acción y colabora en la planificación del resto del equipo."
+                },
+                {
+                    "code": "10.3",
+                    "description": "Presentar los resultados obtenidos utilizando formatos digitales interpretando gráficos y datos concretos."
+                },
+                {
+                    "code": "10.4",
+                    "description": "Internalizar los aprendizajes a lo largo del proceso de esta materia y reflexionar sobre la adquisición de las competencias específicas."
+                }
+            ]
+        }
+    ]
+}

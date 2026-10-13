@@ -1,0 +1,82 @@
+{
+    "community": "pais-vasco",
+    "stage": "eso",
+    "decree": "Decreto 77\/2023, de 30 de mayo",
+    "subject": "educacion_plastica",
+    "subject_name": "Educación Plástica, Visual y Audiovisual",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Conocer y valorar, sin sesgo de género, distintas manifestaciones plásticas,",
+            "description": "Conocer y valorar, sin sesgo de género, distintas manifestaciones plásticas, visuales y audiovisuales a través de la recepción activa y el uso de diversas herramientas, mostrando curiosidad, sensibilidad y respeto, para desarrollar el pensamiento crí…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Identificar el contexto social e histórico de obras artísticas, analizando su función, valores y la representación de género para valorar el patrimonio cultural."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Analizar obras de arte mediante guías de observación para explicar por qué es fundamental proteger y conservar el patrimonio cultural como herencia colectiva."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Valorar la importancia de la conservación del patrimonio cultural y artístico propio, identificando profesiones relaciona das con la práctica plástica, visual y audiovisual como forma de enriquecimiento personal."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Investigar, analizar y explicar producciones propias y de sus iguales,",
+            "description": "Investigar, analizar y explicar producciones propias y de sus iguales, utilizando como referencia las producciones artísticas del patrimonio, así como las que forman parte del patrimonio, mostrando interés y teniendo en cuenta las características de …",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Explicar el proceso creativo desde la idea inicial hasta el resultado final, justificando las decisiones tomadas y evitando el uso de clichés o estereotipos visuales."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Analizar y comparar obras propias, de compañeros y del patrimonio mediante guías, fomentando el respeto por la diversidad cultural y el desarrollo de la sensibilidad estética."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Valorar la importancia del proceso que media entre la realidad, el imaginario y la producción, mostrando un comporta miento respetuoso con la libertad de expresión desde un punto de vista inclusivo."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Experimentar con los lenguajes plásticos, visuales y audiovisuales y crear",
+            "description": "Experimentar con los lenguajes plásticos, visuales y audiovisuales y crear propuestas personales, a través de la investigación y la práctica, para expresar y comunicar de manera creativa ideas, sentimientos y emociones, así como desarrollar su capaci…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Identificar y explicar obras artísticas de diferentes épocas, analizando sus elementos visuales y el papel de la mujer para ampliar el repertorio visual propio."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Expresar y justificar razonadamente las sensaciones, emociones y opiniones personales que despierta la observación de obras artísticas, manteniendo una actitud de respeto hacia otras interpretaciones."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Realizar un proyecto artístico individual con creatividad, de forma consciente en la generación de mensajes propios y mostrando iniciativa en el manejo de materiales, soportes y herramientas, con criterios de sostenibilidad."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Participar del diseño, elaboración, argumentación y difusión de producciones",
+            "description": "Participar del diseño, elaboración, argumentación y difusión de producciones culturales y artísticas colaborativas, poniendo en valor el proceso y asumiendo diferentes roles en la consecución de un resultado final, para desarrollar la creatividad, la…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Identificar y analizar técnicas y lenguajes artísticos en diversas obras, relacionándolos con su contexto histórico y social mediante la búsqueda eficaz de información."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Identificar elementos visuales en obras artísticas variadas para integrarlos de forma original y creativa en sus propios proyectos y composiciones plásticas."
+                }
+            ]
+        }
+    ]
+}

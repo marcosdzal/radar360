@@ -1,0 +1,133 @@
+{
+    "community": "andalucia",
+    "stage": "eso",
+    "decree": "Real Decreto 217\/2022",
+    "subject": "cultura_cientifica",
+    "subject_name": "Cultura Científica",
+    "grade": 4,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Comprender y utilizar las estrategias y los conceptos básicos de la Ciencia y",
+            "description": "Comprender y utilizar las estrategias y los conceptos básicos de la Ciencia y la Tecnología para interpretar los problemas medioambientales a nivel mundial, español y andaluz, así como para analizar y valorar las repercusiones del desarrollo científi…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Identificar los principales problemas medioambientales, universales y andaluces, las causas que los provocan y los factores que los intensifican, así como predecir sus consecuencias y proponer soluciones a los mismos."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Valorar las graves implicaciones sociales, tanto en la actualidad como en el futuro, de la sobreexplotación de recursos naturales a nivel global y a nivel local."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Justificar la necesidad de buscar nuevas fuentes de energía no contaminantes y económicamente viables, para mantener el estado de bienestar de la sociedad actual."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Comparar el estado de desarrollo de las energías renovables en Andalucía con respecto al resto de España y del mundo."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Utilizar con solvencia y responsabilidad diversas fuentes, incluidas las",
+            "description": "Utilizar con solvencia y responsabilidad diversas fuentes, incluidas las tecnologías de la información y la comunicación, desarrollando las destrezas básicas para la selección y utilización de la información de carácter científico proveniente de las …",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Obtener, seleccionar y valorar informaciones relacionadas con temas científicos de la actualidad."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Valorar la importancia que tiene la investigación y el desarrollo tecnológico en la actividad cotidiana."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Comunicar conclusiones e ideas en distintos soportes a públicos diversos, utilizando eficazmente las tecnologías de la información y comunicación para transmitir conclusiones propias argumentadas."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Conocer y valorar de forma crítica la contribución de la ciencia y la",
+            "description": "Conocer y valorar de forma crítica la contribución de la ciencia y la tecnología en el cambio de las condiciones de vida actuales, desarrollando actitudes y hábitos de salud personal, afianzando el respeto hacia el medio ambiente y el desarrollo sost…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Reconocer que la salud no es solamente la ausencia de afecciones."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Diferenciar los tipos de enfermedades más frecuentes, identificando algunos indicadores, causas y tratamientos más comunes."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Conocer las principales características del cáncer, diabetes, enfermedades cardiovasculares y enfermedades mentales, entre otras, así como los principales tratamientos y la importancia de las revisiones preventivas."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Valorar la importancia de adoptar medidas preventivas que eviten los contagios y prioricen los controles médicos periódicos y los estilos de vida saludables."
+                },
+                {
+                    "code": "3.5",
+                    "description": "Argumentar sobre la necesidad de una gestión sostenible de los recursos que proporciona la Tierra."
+                },
+                {
+                    "code": "3.6",
+                    "description": "Conocer el sistema de salud de Andalucía valorando su importancia para el bienestar de la sociedad andaluza."
+                },
+                {
+                    "code": "3.7",
+                    "description": "Conocer y valorar el trabajo de investigación biomédica que se desarrolla en Andalucía."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Desarrollar hábitos de trabajo en equipo, de debate y evaluación sobre",
+            "description": "Desarrollar hábitos de trabajo en equipo, de debate y evaluación sobre propuestas y aplicaciones de los últimos avances científicos, en relación con el estudio del Universo, que aparecen en los medios de comunicación, y los realizados en la Comunidad…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Conocer, mediante búsquedas por la web, las teorías que han surgido sobre el origen del Universo ( ). Big Bang"
+                },
+                {
+                    "code": "4.2",
+                    "description": "Señalar qué observaciones ponen de manifiesto la existencia de un agujero negro, y cuáles son sus características."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Describir la organización del Universo y cómo se agrupan las estrellas y los planetas."
+                },
+                {
+                    "code": "4.4",
+                    "description": "Conocer y valorar las aportaciones de los centros de investigación y observatorios astronómicos en Andalucía."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Conocer y valorar los elementos y procedimientos fundamentales de la investigación y de los métodos científicos",
+            "description": "Conocer y valorar los elementos y procedimientos fundamentales de la investigación y de los métodos científicos, reconociendo las aportaciones del conocimiento científico al descubrimiento y uso de materiales, y cómo esto ha influenciado en la socied…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Realizar estudios sencillos y presentar conclusiones sobre aspectos relacionados con los materiales y su influencia en el desarrollo de la Humanidad."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Conocer los principales métodos de obtención de materias primas y sus posibles repercusiones sociales y medioambientales."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Conocer las aplicaciones de los nuevos materiales en campos tales como la electricidad y la electrónica, entre otros."
+                },
+                {
+                    "code": "5.4",
+                    "description": "Conocer las principales zonas de explotación de recursos materiales en Andalucía, y comprender su impacto medioambiental y su proceso de reconversión a modelos de producción más sostenibles."
+                }
+            ]
+        }
+    ]
+}

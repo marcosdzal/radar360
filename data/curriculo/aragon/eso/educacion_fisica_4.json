@@ -1,0 +1,113 @@
+{
+    "community": "aragon",
+    "stage": "eso",
+    "decree": "Orden ECD\/1172\/2022, de 2 de agosto",
+    "subject": "educacion_fisica",
+    "subject_name": "Educación Física",
+    "grade": 4,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Adaptar la motricidad para resolver diferentes situaciones motrices según su",
+            "description": "Adaptar la motricidad para resolver diferentes situaciones motrices según su lógica interna (las capacidades físicas, perceptivo-motrices y coordinativas, así como las habilidades y destrezas motrices, aplicando procesos de percepción, decisión y eje…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Diseñar secuencias de actividad física personalizadas a partir de una autoevaluación inicial."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Aplicar con autonomía progresiva las rutinas de activación, esfuerzo, alimentación, postura, relajación e higiene en la práctica motriz."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Aplicar medidas preventivas antes, durante y después de la actividad física, reconociendo situaciones de riesgo para actuar de forma autónoma."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Aplicar protocolos de primeros auxilios ante accidentes durante la práctica física."
+                },
+                {
+                    "code": "1.5",
+                    "description": "Analiza prácticas y comportamientos que afectan a la salud y convivencia, evaluando su impacto y evitando su reproducción."
+                },
+                {
+                    "code": "1.6",
+                    "description": "Analizar aplicaciones digitales de actividad física valorando sus beneficios y riesgos para un uso saludable."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Practicar, analizar y valorar distintas manifestaciones de la cultura motriz",
+            "description": "Practicar, analizar y valorar distintas manifestaciones de la cultura motriz aprovechando las posibilidades y recursos expresivos que ofrece la acción motriz y profundizando en las consecuencias del deporte como fenómeno social, analizando críticamen…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Diseñar y ejecutar proyectos motores individuales o grupales, incorporando autoevaluación y coevaluación del proceso y resultado."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Actuar correctamente en juegos y deportes tomando decisiones anticipadas y adaptándose al contexto, reflexionando sobre los resultados."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Demostrar control corporal eficiente y creativo resolviendo problemas motores transferibles a su vida cotidiana."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Compartir espacios de práctica físico-deportiva con independencia de las",
+            "description": "Compartir espacios de práctica físico-deportiva con independencia de las diferencias culturales, sociales, de género y de habilidad, priorizando el respeto entre participantes y a las reglas sobre los resultados, adoptando una actitud crítica ante co…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Practica variedad de actividades motrices valorando la ética, evitando competitividad excesiva y mostrando deportividad en distintos roles."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Cooperar y asumir roles para lograr metas individuales y grupales en actividades motrices."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Utilizar habilidades sociales, diálogo y respeto a la diversidad en la práctica físico-deportiva, mostrando actitud crítica y compromiso activo contra estereotipos y violencia."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Adoptar un estilo de vida sostenible y ecosocialmente responsable aplicando",
+            "description": "Adoptar un estilo de vida sostenible y ecosocialmente responsable aplicando medidas de seguridad individuales y colectivas en la práctica físico-deportiva según el entorno y desarrollando colaborativa y cooperativamente acciones de servicio a la comu…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Participa en juegos y expresiones motrices, valorando su origen y evolución cultural."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Adoptar un estilo de vida activo y saludable mediante la práctica física,",
+            "description": "Adoptar un estilo de vida activo y saludable mediante la práctica física, seleccionando e incorporando intencionalmente actividades físicas, deportivas y artístico-expresivas, partiendo de la aceptación de la propia realidad corporal y la de los demá…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Realizar actividades físicas en la naturaleza minimizando el impacto ambiental y siendo consciente de la huella ecológica."
+                },
+                {
+                    "code": "5.2",
+                    "description": "El alumnado realiza actividades físico-deportivas en entornos naturales y urbanos cumpliendo normas de seguridad individual y colectiva."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Actuar de acuerdo con los protocolos de intervención ante situaciones de emergencia o accidentes aplicando medidas específicas de primeros auxilios."
+                },
+                {
+                    "code": "5.4",
+                    "description": "Planificar y autorregular la práctica de actividad física (en el medio natural, urbano o en el centro escolar) orientada a la salud integral y al estilo de vida activo, según las necesidades e intereses individuales (intentando aunar intereses con otros) para un periodo concreto de tiempo, utilizando dinámicas de autoevaluación que tengan en consideración las actividades físicas que realiza en su semana habitual."
+                }
+            ]
+        }
+    ]
+}

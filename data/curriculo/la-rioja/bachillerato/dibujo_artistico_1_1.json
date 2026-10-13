@@ -1,0 +1,92 @@
+{
+    "community": "la-rioja",
+    "stage": "bachillerato",
+    "decree": "Decreto 22\/2022, de 27 de julio",
+    "subject": "dibujo_artistico_1",
+    "subject_name": "Dibujo Artístico I",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Comprender el dibujo como forma de conocimiento, comunicación y expresión,",
+            "description": "Comprender el dibujo como forma de conocimiento, comunicación y expresión, comparando el uso que se hace de él en manifestaciones culturales y artísticas de diferentes épocas, lugares y ámbitos disciplinares, y valorando la diversidad de significados…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Compara el uso del dibujo en distintas manifestaciones culturales y artísticas, reflexionando autónomamente."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Relacionar diversidad cultural y libertad de expresión argumentando opinión propia y analizando usos del dibujo."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Analizar, interpretar y representar la realidad, utilizando los recursos elementales y la sintaxis del dibujo",
+            "description": "Analizar, interpretar y representar la realidad, utilizando los recursos elementales y la sintaxis del dibujo, para ofrecer una visión propia de esa realidad, potenciar la sensibilidad y favorecer el desarrollo personal y artístico.",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Analizar dibujos de distintas épocas identificando lenguaje, técnicas y procedimientos, y explicando cambios históricos con terminología adecuada."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Analizar producciones culturales comprendiendo el papel del dibujo y valorando su aporte social y estético."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Experimentar con diferentes materiales, técnicas y soportes, incluido el propio",
+            "description": "Experimentar con diferentes materiales, técnicas y soportes, incluido el propio cuerpo, analizando la importancia del mismo en las propuestas artísticas contemporáneas, para descubrir el gesto del dibujo y la apropiación del espacio como medios de au…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Explora y valora las posibilidades expresivas de punto, línea y forma y su sintaxis para mejorar la creación gráfica."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Realizar producciones gráficas expresivas y creativas, valorando la importancia",
+            "description": "Realizar producciones gráficas expresivas y creativas, valorando la importancia de los elementos del lenguaje gráfico y su organización en la definición de un estilo personal, para progresar en la ejecución técnica y en las cualidades comunicativas y…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Crear dibujos con un estilo personal combinando técnicas tradicionales y manipulación propia."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Realizar composiciones bidimensionales explorando la percepción espacial y el cuerpo humano como soporte o herramienta gráfica."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Experimentar con las técnicas propias del dibujo, identificando las",
+            "description": "Experimentar con las técnicas propias del dibujo, identificando las herramientas, medios y soportes necesarios y analizando su posible impacto ambiental, para integrarlas de forma creativa y responsable en la realización de producciones gráficas.",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Identificar los referentes artísticos de una obra y describir su influencia y conexiones."
+                },
+                {
+                    "code": "5.2",
+                    "description": "El alumnado crea dibujos propios que expresan ideas, opiniones y emociones, incorporando técnicas de referentes artísticos de su interés de manera guiada."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Crear proyectos gráficos colaborativos, contribuyendo de forma creativa a su",
+            "description": "Crear proyectos gráficos colaborativos, contribuyendo de forma creativa a su planificación y realización y adaptando el diseño y el proceso a las características propias de un ámbito disciplinar, para descubrir posibilidades de desarrollo académico y…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Aplicar principios de percepción visual y composición en producciones gráficas con intención comunicativa o expresiva."
+                }
+            ]
+        }
+    ]
+}

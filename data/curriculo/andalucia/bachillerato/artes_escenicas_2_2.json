@@ -1,0 +1,89 @@
+{
+    "community": "andalucia",
+    "stage": "bachillerato",
+    "decree": "Real Decreto 217\/2022",
+    "subject": "artes_escenicas_2",
+    "subject_name": "Artes Escénicas II",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Analizar manifestaciones escénicas de diferentes épocas y tradiciones,",
+            "description": "Analizar manifestaciones escénicas de diferentes épocas y tradiciones, describiendo sus características, estableciendo relaciones con su contexto e identificando posibles influencias y proyecciones, para valorar el patrimonio y enriquecer el imaginar…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar manifestaciones escénicas de diferentes épocas y tradiciones describiendo sus características y contexto, con actitud abierta y respetuosa."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Valorar críticamente la evolución de hábitos y gustos escénicos relacionándolos con el presente."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Explorar las posibilidades expresivas de diferentes sistemas, medios y códigos",
+            "description": "Explorar las posibilidades expresivas de diferentes sistemas, medios y códigos de significación escénica, a través de actividades de carácter práctico, para incorporar su uso al repertorio personal de recursos y desarrollar el criterio de selección d…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Interpretar sistemas escénicos mediante actividades prácticas con iniciativa y creatividad."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Crear una escena dramática con personajes y situaciones, eligiendo las técnicas adecuadas para la intención comunicativa."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Abordar la recreación y representación de la acción dramática, a partir de la",
+            "description": "Abordar la recreación y representación de la acción dramática, a partir de la construcción colectiva de escenas que muestren todo tipo de personajes y conflictos, para desarrollar habilidades de comunicación y negociación y reforzar el autoconocimien…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Aplicar técnicas de interpretación creativa en ensayos grupales, usando memorización y valorando el diálogo."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Representa escenas siguiendo dirección, con precisión y expresividad, gestionando la ansiedad escénica."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Realizar proyectos de creación y difusión escénica, planificando sus fases,",
+            "description": "Realizar proyectos de creación y difusión escénica, planificando sus fases, seleccionando y estructurando los elementos de significación y asumiendo diferentes funciones con iniciativa y responsabilidad, para expresar una intención comunicativa, enri…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Participar en proyectos escénicos colectivos diseñando, planificando y realizando con iniciativa, responsabilidad y organización."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Evaluar y presentar los resultados del proyecto, comparando objetivos con producto final y explicando diferencias."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Analiza oportunidades personales, sociales, académicas o profesionales en el ámbito artístico, valora su impacto y expresa opinión crítica y respetuosa."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Valorar críticamente manifestaciones escénicas, identificando el público al que",
+            "description": "Valorar críticamente manifestaciones escénicas, identificando el público al que se dirigen y analizando sus características y sus presupuestos artísticos, para desarrollar el criterio estético, difundir el patrimonio y ampliar las posibilidades de di…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Analizar la acogida de un espectáculo vinculando obra, puesta en escena y respuesta del público."
+                },
+                {
+                    "code": "5.2",
+                    "description": "El alumnado escribe y comparte críticas escénicas rigurosas usando terminología adecuada y fuentes fiables."
+                }
+            ]
+        }
+    ]
+}

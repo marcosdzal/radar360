@@ -1,0 +1,105 @@
+{
+    "community": "comunidad-valenciana",
+    "stage": "bachillerato",
+    "decree": "Decreto 108\/2022, de 5 de agosto",
+    "subject": "proyectos_artisticos",
+    "subject_name": "Proyectos Artísticos",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Generar y perfeccionar ideas de proyecto, consultando distintas fuentes,",
+            "description": "Generar y perfeccionar ideas de proyecto, consultando distintas fuentes, experimentando con técnicas y estrategias creativas, elaborando bocetos y maquetas, y valorando críticamente la relevancia artística, la viabilidad y la sostenibilidad de esas i…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "El alumnado genera y perfecciona ideas de proyecto mediante consulta de fuentes, elaboración de bocetos y maquetas, y experimentación con técnicas artísticas."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Seleccionar y justificar una propuesta de proyecto considerando relevancia artística, viabilidad, sostenibilidad y adecuación al marco de recepción."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Planificar adecuadamente las fases y el proceso de trabajo de un proyecto",
+            "description": "Planificar adecuadamente las fases y el proceso de trabajo de un proyecto artístico, considerando los recursos disponibles y evaluando su sostenibilidad, para conseguir un resultado ajustado a los plazos, a las características del espacio y, en su ca…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Planificar un proyecto artístico organizando fases, evaluando sostenibilidad y ajustando a plazos, espacio y presupuesto."
+                },
+                {
+                    "code": "2.2",
+                    "description": "El alumnado propone soluciones creativas para organizar un proyecto artístico optimizando recursos."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Realizar proyectos artísticos, individuales o colectivos, asumiendo diferentes",
+            "description": "Realizar proyectos artísticos, individuales o colectivos, asumiendo diferentes funciones, seleccionando espacios, técnicas, medios y soportes, e identificando oportunidades de desarrollo personal, social, académico y profesional, para expresar una in…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Participar activamente en proyectos artísticos asumiendo funciones y seleccionando espacios, técnicas, medios y soportes."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Explicar razonadamente la intención y los efectos esperados del proyecto artístico en el entorno."
+                },
+                {
+                    "code": "3.3",
+                    "description": "El alumnado justifica sus decisiones de ejecución vinculándolas con la intención y los efectos buscados."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Identificar y valorar oportunidades artísticas y expresar una opinión crítica y respetuosa sobre su valor añadido."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Compartir, con actitud abierta y respetuosa, las distintas fases del proyecto,",
+            "description": "Compartir, con actitud abierta y respetuosa, las distintas fases del proyecto, intercambiando ideas, comentarios y opiniones con diversas personas, incluido el público receptor, para evaluar la marcha del proyecto, incorporar aportaciones de mejora y…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Compartir las fases del proyecto mediante diversos medios, recogiendo críticas y sugerencias del público para mejorar el resultado y su impacto."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Valora críticas y aportaciones, e incorpora justificadamente las que mejoran el proyecto y su impacto social."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Evaluar la repercusión del proyecto mediante análisis de feedback del público y logro de intención inicial."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Tratar correctamente la documentación de un proyecto artístico, seleccionando",
+            "description": "Tratar correctamente la documentación de un proyecto artístico, seleccionando las fuentes más adecuadas, elaborando los documentos necesarios, registrando el proceso creativo y archivando adecuadamente todo el material, para dejar constancia de las d…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Seleccionar fuentes diversas y justificar su utilidad teórica, informativa o inspiradora para el proyecto."
+                },
+                {
+                    "code": "5.2",
+                    "description": "El alumnado elabora la documentación de un proyecto artístico empleando modelos y aplicaciones adecuadas."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Registrar las fases del proyecto evaluando reflexivamente el proceso propio."
+                },
+                {
+                    "code": "5.4",
+                    "description": "Archivar la documentación del proyecto garantizando su acceso y recuperación."
+                }
+            ]
+        }
+    ]
+}

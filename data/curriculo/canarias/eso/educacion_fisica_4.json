@@ -1,0 +1,69 @@
+{
+    "community": "canarias",
+    "stage": "eso",
+    "decree": "Decreto 30\/2023, de 16 de marzo",
+    "subject": "educacion_fisica",
+    "subject_name": "Educación Física",
+    "grade": 4,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "(c1) Con el desarrollo de esta competencia se incide en la adquisición de un",
+            "description": "(c1) Con el desarrollo de esta competencia se incide en la adquisición de un estilo de vida saludable a partir de la actividad física, hecho que debe estar siempre como horizonte de aprendizaje en la comunidad canaria por los altos niveles de sobrepe…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Diseñar secuencias de actividad física personalizadas a partir de una autoevaluación inicial."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "(c2) Esta competencia específica supone la adecuación progresiva de los",
+            "description": "(c2) Esta competencia específica supone la adecuación progresiva de los procesos de percepción, decisión y ejecución en retos motores variados, reflexionando sobre el desempeño del proceso y la calidad del resultado. Implica la comprensión de la lógi…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Diseñar y ejecutar proyectos motores individuales o grupales, incorporando autoevaluación y coevaluación del proceso y resultado."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "(c3) Esta competencia plantea que el alumnado intervenga en numerosas",
+            "description": "(c3) Esta competencia plantea que el alumnado intervenga en numerosas situaciones motrices con distintos grados y tipos de interacción, mostrando una actitud positiva, crítica y respetuosa en las relaciones interpersonales. El alumnado aprenderá a ge…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Practica variedad de actividades motrices valorando la ética, evitando competitividad excesiva y mostrando deportividad en distintos roles."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "(c4) El desarrollo de esta competencia desarrollará la experimentación por",
+            "description": "(c4) El desarrollo de esta competencia desarrollará la experimentación por parte del alumnado de distintas manifestaciones de la cultura motriz como elemento consolidador de la identidad propia y se desarrollará a través de la contextualización en un…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Participa en juegos y expresiones motrices, valorando su origen y evolución cultural."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Analizar objetivamente deportes y actividades evitando estereotipos de género o capacidad y comportamientos sexistas."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "(c5) Esta competencia pretende que el alumnado adopte una actitud",
+            "description": "(c5) Esta competencia pretende que el alumnado adopte una actitud ecosocialmente responsable, avanzando hacia un estilo de vida sostenible de manera activa y comprometida a través de la práctica motriz, con la posibilidad de prestar servicios a la co…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Realizar actividades físicas en la naturaleza minimizando el impacto ambiental y siendo consciente de la huella ecológica."
+                }
+            ]
+        }
+    ]
+}

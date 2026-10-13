@@ -35,7 +35,7 @@ class before_footer {
     public static function inject_rubric_editor_js(
         \core\hook\output\before_footer_html_generation $hook
     ): void {
-        global $PAGE, $DB;
+        global $PAGE, $DB, $COURSE;
 
         $path    = $PAGE->url->get_path();
         // get_config returns false when the key has never been saved (fresh install).
@@ -61,36 +61,56 @@ class before_footer {
             self::inject_drawer_persist($hook);
         }
 
-        // ── Gradebook setup/settings: inject Sentinel descriptors button ────────
+        // ── Gradebook setup/settings: inject Sentinel buttons ────────
         if (str_ends_with($path, '/grade/edit/tree/index.php') ||
             str_ends_with($path, '/grade/edit/settings/index.php')) {
-            if (has_capability('local/sentinel:managedescriptors', \context_system::instance())) {
+            // Curriculum selector button (green, first).
+            $gradebook_courseid = optional_param('id', 0, PARAM_INT);
+            if ($gradebook_courseid && has_capability('local/sentinel:managedescriptors',
+                    \context_course::instance($gradebook_courseid))) {
+                self::inject_curriculum_selector($hook, $gradebook_courseid);
+
+            }
+
+            // Descriptors mapping button (blue, second).
+            if ($gradebook_courseid && has_capability('local/sentinel:managedescriptors',
+                    \context_course::instance($gradebook_courseid))) {
                 $url  = (new \moodle_url('/local/sentinel/admin/map_descriptors.php'))->out(false);
-                $label = get_string('mapdesc:navlink', 'local_sentinel');
                 $js_url   = json_encode($url);
-                $js_label = json_encode($label);
                 $js = <<<JS
 (function() {
     'use strict';
     var btn = document.createElement('a');
     btn.href = {$js_url};
-    btn.textContent = {$js_label};
+    btn.innerHTML = '<span style="display:flex;flex-direction:column;line-height:1.3">'
+        + '<span style="font-weight:700">Criterios CE ↔ Descriptores operativos</span>'
+        + '<span style="font-size:.85em;font-weight:400;opacity:.7">Vinculación con el perfil de salida (LOMLOE)</span>'
+        + '</span>';
     btn.style.cssText = [
         'display:inline-flex;align-items:center;gap:6px',
-        'padding:7px 16px',
-        'background:#1a56db;color:#fff',
-        'border-radius:6px;font-size:.85em;font-weight:600',
+        'padding:6px 14px',
+        'background:#eff6ff;color:#1e40af',
+        'border:1px solid #bfdbfe;border-radius:8px',
+        'font-size:.8em;font-weight:600',
         'text-decoration:none',
-        'box-shadow:0 1px 4px rgba(0,0,0,0.18)',
-        'transition:background 0.15s',
-        'margin-left:8px',
-        'white-space:nowrap',
+        'box-shadow:0 1px 3px rgba(0,0,0,.06)',
+        'transition:all 0.2s',
     ].join(';');
-    btn.onmouseenter = function() { btn.style.background = '#1e429f'; };
-    btn.onmouseleave = function() { btn.style.background = '#1a56db'; };
+    btn.title = 'Establece qué descriptores operativos del perfil de salida trabaja cada criterio de evaluación, conectando las competencias específicas de la materia con las competencias clave de la LOMLOE';
+    btn.onmouseenter = function() {
+        btn.style.background = '#dbeafe';
+        btn.style.borderColor = '#93c5fd';
+        btn.style.transform = 'translateY(-1px)';
+        btn.style.boxShadow = '0 3px 8px rgba(0,0,0,.1)';
+    };
+    btn.onmouseleave = function() {
+        btn.style.background = '#eff6ff';
+        btn.style.borderColor = '#bfdbfe';
+        btn.style.transform = '';
+        btn.style.boxShadow = '0 1px 3px rgba(0,0,0,.06)';
+    };
 
     var inject = function() {
-        // Inyectar junto al botón "Guardar cambios" o al final del h2/h1 de la página.
         var header = document.querySelector('.page-context-header') ||
                      document.querySelector('[data-region="page-header"]') ||
                      document.querySelector('#page-header');
@@ -98,10 +118,16 @@ class before_footer {
         var existing = document.getElementById('sentinel-map-btn');
         if (existing) { return; }
         btn.id = 'sentinel-map-btn';
-        // Insertar después del h1 de la cabecera.
         var h1 = header.querySelector('h1') || header.querySelector('.h1');
-        if (h1 && h1.parentNode) {
-            h1.parentNode.insertBefore(btn, h1.nextSibling);
+        if (h1) {
+            var wrap = document.getElementById('sentinel-btn-wrap');
+            if (!wrap) {
+                wrap = document.createElement('div');
+                wrap.id = 'sentinel-btn-wrap';
+                wrap.style.cssText = 'display:flex;flex-wrap:wrap;gap:8px;margin-top:8px';
+                h1.parentNode.insertBefore(wrap, h1.nextSibling);
+            }
+            wrap.appendChild(btn);
         } else {
             header.appendChild(btn);
         }
@@ -125,6 +151,22 @@ JS;
                 self::inject_grader_abbrev_toggle($hook);
             }
             $courseid = optional_param('id', 0, PARAM_INT);
+
+            // Colapsar categorías por defecto (solo totales) si el usuario no tiene preferencia.
+            if ($courseid) {
+                $prefkey = 'grade_report_grader_collapsed_categories' . $courseid;
+                $existing = get_user_preferences($prefkey);
+                if ($existing === null) {
+                    $cats = $DB->get_records('grade_categories', ['courseid' => $courseid], '', 'id');
+                    if ($cats) {
+                        $catids = array_map('intval', array_keys($cats));
+                        set_user_preference($prefkey, json_encode([
+                            'aggregatesonly' => $catids,
+                            'gradesonly' => [],
+                        ]));
+                    }
+                }
+            }
             if ($courseid && $cfg->photos) {
                 $enrolled  = get_enrolled_users(\context_course::instance($courseid), '', 0, 'u.id');
                 $uids      = array_keys($enrolled);
@@ -141,10 +183,20 @@ JS;
                         : null;
                 }
                 $canmanage_photos = has_capability('local/sentinel:managephotos', \context_system::instance());
+
+                // Mini diana data per student.
+                $radar_map = [];
+                foreach ($uids as $uid) {
+                    $rd = self::get_mini_radar((int)$uid);
+                    if ($rd) { $radar_map[(string)$uid] = $rd; }
+                }
+
                 $PAGE->requires->js_call_amd('local_sentinel/student_photo', 'initGraderReport', [
                     $photo_map,
                     $canmanage_photos ? (new \moodle_url('/local/sentinel/photo.php'))->out(false) : null,
                     $canmanage_photos ? sesskey() : null,
+                    $radar_map,
+                    (new \moodle_url('/local/sentinel/student_report.php', ['courseid' => $COURSE->id]))->out(false),
                 ]);
 
                 // Mapa grade_item_id → cmid para actividades assign.
@@ -190,8 +242,8 @@ JS;
                     self::inject_grader_report_click_to_grade($hook, $item_to_cmid, $grader_url, $courseid);
                 }
             }
-            // Communication button: available to any teacher who can view grades.
-            if ($courseid && has_capability('moodle/grade:viewall', \context_course::instance($courseid))) {
+            // Communication button: available to users with the communicate capability.
+            if ($courseid && has_capability('local/sentinel:communicate', \context_course::instance($courseid))) {
                 // Count existing periods for this course to propose the next ordinal label.
                 $period_count = $DB->count_records_select(
                     'local_sentinel_period',
@@ -261,8 +313,14 @@ JS;
                 }
                 $canmanage_photos = has_capability('local/sentinel:managephotos', \context_system::instance());
                 $upload_url = $canmanage_photos ? (new \moodle_url('/local/sentinel/photo.php'))->out(false) : null;
+                $part_radar_map = [];
+                foreach (array_keys($photo_map) as $puid) {
+                    $rd = self::get_mini_radar((int)$puid);
+                    if ($rd) { $part_radar_map[(string)$puid] = $rd; }
+                }
                 $PAGE->requires->js_call_amd('local_sentinel/student_photo', 'initParticipants', [
-                    $photo_map, $upload_url, $canmanage_photos ? sesskey() : null,
+                    $photo_map, $upload_url, $canmanage_photos ? sesskey() : null, $part_radar_map,
+                    (new \moodle_url('/local/sentinel/student_report.php', ['courseid' => $COURSE->id]))->out(false),
                 ]);
             }
             return;
@@ -285,8 +343,14 @@ JS;
                         }
                         $canmanage_photos = has_capability('local/sentinel:managephotos', \context_system::instance());
                         $upload_url = $canmanage_photos ? (new \moodle_url('/local/sentinel/photo.php'))->out(false) : null;
+                        $grading_radar_map = [];
+                        foreach ($enrolled as $u) {
+                            $rd = self::get_mini_radar((int)$u->id);
+                            if ($rd) { $grading_radar_map[(string)$u->id] = $rd; }
+                        }
                         $PAGE->requires->js_call_amd('local_sentinel/student_photo', 'initGrading', [
-                            $photo_map, $upload_url, $canmanage_photos ? sesskey() : null,
+                            $photo_map, $upload_url, $canmanage_photos ? sesskey() : null, $grading_radar_map,
+                            (new \moodle_url('/local/sentinel/student_report.php', ['courseid' => $COURSE->id]))->out(false),
                         ]);
                     }
                 }
@@ -298,6 +362,18 @@ JS;
                 self::inject_rubric_colors($hook);
             }
             // Fall through — the grading page may also have a rubric.
+        }
+
+        // ── Activity edit & grade item edit: restructure category dropdown ──────
+        if (str_ends_with($path, '/course/modedit.php') ||
+            str_ends_with($path, '/grade/edit/tree/item.php') ||
+            str_ends_with($path, '/grade/edit/tree/category.php')) {
+            self::inject_category_dropdown_filter($hook);
+        }
+
+        // ── Diana de evaluación (radar chart) on student_report.php ─────────
+        if (str_ends_with($path, '/local/sentinel/student_report.php')) {
+            self::inject_radar_chart();
         }
 
         if (!$cfg->rubric) {
@@ -347,8 +423,14 @@ JS;
 
         // Load grade categories with parent + sortorder for a depth-first tree walk.
         // gi.sortorder orders siblings correctly; parent field gives the tree structure.
+        $act_cat_name = get_string('activities_category', 'local_sentinel');
+        $act_parent = $DB->get_record_select('grade_categories',
+            'courseid = :cid AND fullname = :name',
+            ['cid' => $courseid, 'name' => $act_cat_name], 'id');
+        $act_parent_id = $act_parent ? (int)$act_parent->id : 0;
+
         $cat_rows = $DB->get_records_sql(
-            'SELECT gc.id, gc.fullname, gc.parent, gi.sortorder
+            'SELECT gc.id, gc.fullname, gc.parent, gc.depth, gi.sortorder
                FROM {grade_categories} gc
                JOIN {grade_items} gi
                  ON gi.itemtype     = :itype
@@ -356,8 +438,11 @@ JS;
                 AND gi.courseid     = :cid2
               WHERE gc.courseid = :cid
                 AND gc.depth > 1
+                AND gc.fullname <> :actname
+                AND gc.parent <> :actparent
               ORDER BY gi.sortorder ASC',
-            ['cid' => $courseid, 'cid2' => $courseid, 'itype' => 'category']
+            ['cid' => $courseid, 'cid2' => $courseid, 'itype' => 'category',
+             'actname' => $act_cat_name, 'actparent' => $act_parent_id]
         );
 
         // Group children by parent id (SQL order = correct sibling order within each level).
@@ -374,7 +459,7 @@ JS;
         $cats = [];
         $traverse = function(int $pid) use (&$traverse, &$children, &$cats): void {
             foreach ($children[$pid] ?? [] as $row) {
-                $cats[] = ['id' => (int)$row->id, 'name' => $row->fullname];
+                $cats[] = ['id' => (int)$row->id, 'name' => $row->fullname, 'depth' => (int)$row->depth];
                 $traverse((int)$row->id);
             }
         };
@@ -386,9 +471,9 @@ JS;
                 $traverse($pid);
             }
         }
-        if (empty($cats)) { // Fallback: flat sortorder.
+        if (empty($cats)) {
             foreach ($cat_rows as $row) {
-                $cats[] = ['id' => (int)$row->id, 'name' => $row->fullname];
+                $cats[] = ['id' => (int)$row->id, 'name' => $row->fullname, 'depth' => (int)$row->depth];
             }
         }
 
@@ -599,12 +684,12 @@ JS;
                 if (timer) { clearTimeout(timer); }
 
                 // Immediate feedback so we know the handler is running.
-                showTooltip([{criterion: 'Sentinel', level: {$str_loading}, score: null}], ev.clientX || 0, ev.clientY || 0);
+                showTooltip([{criterion: 'Radar 360', level: {$str_loading}, score: null}], ev.clientX || 0, ev.clientY || 0);
 
                 timer = setTimeout(function() {
                     fetchRows(parsed.userid, parsed.itemid, function(rows) {
                         if (!rows || !rows.length) {
-                            showTooltip([{criterion: 'Sentinel', level: {$str_nodata}, score: null}], ev.clientX || 0, ev.clientY || 0);
+                            showTooltip([{criterion: 'Radar 360', level: {$str_nodata}, score: null}], ev.clientX || 0, ev.clientY || 0);
                             return;
                         }
                         showTooltip(rows, ev.clientX || 0, ev.clientY || 0);
@@ -702,8 +787,11 @@ JS;
             const short = shorten(text);
             if (!short) return;
             const span = document.createElement('span');
-            span.dataset.sentinelFull  = text;
-            span.dataset.sentinelShort = short;
+            // For "Total ..." headers, strip the long description even in full mode.
+            const totalMatch = text.match(/^((?:∑\s*)?Total\s+\S+)/);
+            span.dataset.sentinelFull  = totalMatch ? totalMatch[1] : text;
+            span.dataset.sentinelShort = totalMatch ? totalMatch[1] : short;
+            span.title = text;
             span.textContent = textNode.textContent;
             textNode.parentNode.replaceChild(span, textNode);
             tagged++;
@@ -1044,6 +1132,49 @@ JS;
 (function() {
     'use strict';
 
+    // ── Cabecera: agrupar imágenes a la izq y texto a la der ───────────
+    var layoutHeader = function() {
+        var anchor = document.querySelector('[data-region="user-info"] h4 a') ||
+                     document.querySelector('[data-region="user-info"] h4');
+        if (!anchor || anchor.querySelector('.sentinel-user-text')) { return; }
+
+        var imgBox  = document.createElement('span');
+        imgBox.className = 'sentinel-imgs';
+        var textBox = document.createElement('span');
+        textBox.className = 'sentinel-user-text';
+
+        var nodes = Array.prototype.slice.call(anchor.childNodes);
+        for (var i = 0; i < nodes.length; i++) {
+            var n = nodes[i];
+            var isImg = (n.nodeType === 1 && (n.tagName === 'IMG' || n.tagName === 'CANVAS'));
+            var isText = (n.nodeType === 3 && n.textContent.trim());
+            var isEm   = (n.nodeType === 1 && n.tagName === 'EM');
+            if (isImg) {
+                imgBox.appendChild(n);
+            } else if (isText || isEm) {
+                textBox.appendChild(n);
+            }
+        }
+        if (imgBox.childNodes.length)  { anchor.appendChild(imgBox); }
+        if (textBox.childNodes.length) { anchor.appendChild(textBox); }
+    };
+
+    var layoutRun = function() {
+        setTimeout(layoutHeader, 600);
+        var nav = document.querySelector('[data-region="grading-navigation"]');
+        if (nav) {
+            new MutationObserver(function() {
+                setTimeout(layoutHeader, 500);
+            }).observe(nav, {childList: true, subtree: true});
+        }
+    };
+
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', layoutRun);
+    } else {
+        layoutRun();
+    }
+
     // ── Persistir estado popout + posición de scroll entre alumnos ────────
     require(['jquery'], function($) {
         var savedPopout = false;
@@ -1123,7 +1254,8 @@ JS;
             '}' +
             '.path-mod-assign #page-content [data-region="grade-panel"]' +
             ' .mform:not(.unresponsive) .fcontainer .fitem.popout .felement {' +
-            '  height:calc(100% - 54px) !important;' +
+            '  height:calc(100% - 38px) !important;' +
+            '  overflow:auto !important;' +
             '}' +
             '';
     };
@@ -1209,8 +1341,9 @@ JS;
                 'width:100% !important;max-width:none !important;box-sizing:border-box;table-layout:auto !important;' .
                 "}\n";
         $css .= $gpp . '.gradingform_rubric .criterion .description {' .
-                'min-width:6rem !important;max-width:min(22%,16rem) !important;' .
+                'min-width:8rem !important;max-width:min(30%,22rem) !important;' .
                 'vertical-align:top;word-break:normal;overflow-wrap:break-word;' .
+                'font-size:.88em;line-height:1.45;' .
                 "}\n";
         $css .= $gpp . '.gradingform_rubric .criterion .levels {' .
                 'width:1% !important;max-width:none !important;vertical-align:top;' .
@@ -1224,8 +1357,9 @@ JS;
                 'table-layout:auto !important;' .
                 "}\n";
         $css .= $gpp . '.gradingform_rubric .criterion .levels .level {' .
-                'max-width:11rem !important;min-width:5rem !important;width:9.25rem !important;' .
+                'max-width:13rem !important;min-width:5rem !important;width:auto !important;' .
                 'vertical-align:top;box-sizing:border-box !important;' .
+                'font-size:.85em;line-height:1.4;' .
                 "}\n";
         $css .= $gpp . '.gradingform_rubric .criterion .levels .level .definition,' .
                 $gpp . '.gradingform_rubric .criterion .levels .level .score {' .
@@ -1242,6 +1376,32 @@ JS;
                 'min-width:min(42%,28rem) !important;max-width:none !important;width:40% !important;' .
                 'white-space:normal !important;word-break:normal;overflow-wrap:break-word;' .
                 'vertical-align:top;box-sizing:border-box;' .
+                "}\n";
+
+        // ── Cabecera del grader: flexbox imágenes | texto ──
+        $ui = '.path-mod-assign [data-region="user-info"] ';
+        $css .= $ui . '{ overflow:visible !important;min-height:60px; }' . "\n";
+        $css .= $ui . 'h4 { margin:0;padding:0; }' . "\n";
+        $css .= $ui . 'h4 a, ' . $ui . 'h4 {' .
+                'display:flex !important;align-items:flex-start;gap:10px;' .
+                "}\n";
+        $css .= $ui . '.sentinel-imgs {' .
+                'display:flex;align-items:center;gap:6px;flex-shrink:0;' .
+                "}\n";
+        $css .= $ui . '.sentinel-user-text {' .
+                'display:flex;flex-direction:column;justify-content:flex-start;' .
+                'align-items:flex-start;text-align:left;' .
+                'line-height:1.15;gap:0;min-width:0;' .
+                "}\n";
+        $css .= $ui . '.sentinel-user-text em.nowrap {' .
+                'white-space:normal !important;font-style:normal;' .
+                'margin:0 !important;padding:0 !important;' .
+                "}\n";
+        $css .= $ui . '.sentinel-user-text em.nowrap small {' .
+                'font-size:.78em;color:#666;margin:0 !important;padding:0 !important;' .
+                "}\n";
+        $css .= '.path-mod-assign [data-region="grading-navigation"] {' .
+                'overflow:visible !important;' .
                 "}\n";
 
         // JS: paleta dinámica de 5 colores con interpolación por número de niveles.
@@ -1421,11 +1581,45 @@ JS;
     }
 
     /**
+     * Returns mini radar data for one student, or null if no occasions.
+     */
+    private static function get_mini_radar(int $userid): ?array {
+        $area_colors = array_values(array_column(\local_sentinel\descriptor_calculator::AREAS, 'color'));
+        try {
+            $sdata = \local_sentinel\descriptor_calculator::get_student_data($userid);
+            if ($sdata['summary']['total_occasions'] < 1) { return null; }
+            $vals = []; $mocc = []; $msub = []; $mco = [];
+            $sa = $sdata['areas'];
+            $all_c = [];
+            foreach ($sa as $ad) { foreach ($ad['courses'] as $c) { $all_c[$c] = true; } }
+            $all_cl = array_keys($all_c);
+            $mtc = count($all_c);
+            foreach (\local_sentinel\descriptor_calculator::AREAS as $ac => $af) {
+                $vals[] = $sa[$ac]['partial_grade'] ?? 0;
+                $mocc[] = $sa[$ac]['occasions'];
+                $msub[] = count($sa[$ac]['courses']);
+                $co = array_fill_keys($all_cl, 0);
+                foreach ($sa[$ac]['descriptors'] as $dd) {
+                    foreach ($dd['activities'] as $act) {
+                        $cn = $act['coursename'] ?? '';
+                        if (isset($co[$cn])) { $co[$cn]++; }
+                    }
+                }
+                $mco[] = array_values($co);
+            }
+            return ['v' => $vals, 'c' => $area_colors,
+                'occ' => $mocc, 'sub' => $msub, 'tc' => $mtc, 'co' => $mco];
+        } catch (\Throwable $e) {
+            return null;
+        }
+    }
+
+    /**
      * Inyecta la foto Sentinel y el badge de nota final para un alumno concreto.
      * Centraliza la lógica común de todos los bloques de página individual.
      */
     private static function inject_profile_photo(int $userid): void {
-        global $PAGE, $DB, $USER;
+        global $PAGE, $DB, $USER, $COURSE;
 
         // Students viewing their own profile see no Sentinel photo widget at all.
         $canmanage = ($USER->id !== $userid)
@@ -1447,8 +1641,14 @@ JS;
             'addphoto'    => get_string('photo:add',          'local_sentinel'),
             'gradetooltip'=> get_string('photo:gradetooltip', 'local_sentinel'),
         ];
+        $mini_radar = self::get_mini_radar($userid);
+        $rparams = ['userid' => $userid];
+        if (!empty($COURSE->id) && $COURSE->id != SITEID) {
+            $rparams['courseid'] = $COURSE->id;
+        }
+        $report_url = (new \moodle_url('/local/sentinel/student_report.php', $rparams))->out(false);
         $PAGE->requires->js_call_amd('local_sentinel/student_photo', 'initUserProfile', [
-            $userid, $photo_url, $upload_url, sesskey(), $grade_badge, $photo_strings,
+            $userid, $photo_url, $upload_url, sesskey(), $grade_badge, $photo_strings, $mini_radar, $report_url,
         ]);
     }
 
@@ -1477,6 +1677,7 @@ JS;
         $value10  = round(((float)$row->finalgrade / $grademax) * 10, 1);
         return [
             'value' => $value10,
+            'max'   => 10,
             'url'   => (new \moodle_url('/grade/report/user/index.php', [
                 'id'     => $courseid,
                 'userid' => $userid,
@@ -1611,7 +1812,7 @@ JS;
                         btn.textContent = '✓ ' + label;
                         btn.style.background = COLOR_DONE;
                         btn.style.pointerEvents = 'none';
-                        toast('Comunicación "' + label + '" registrada. Ya aparece en el informe Sentinel de cada alumno.', true);
+                        toast('Comunicación "' + label + '" registrada. Ya aparece en el informe Radar 360 de cada alumno.', true);
                     } else {
                         toast('Error: ' + (d.error || 'desconocido'), false);
                         btnSend.disabled = false;
@@ -1820,6 +2021,1126 @@ JS;
 })();
 JS;
 
+        $PAGE->requires->js_amd_inline($js);
+    }
+
+    private static function inject_curriculum_selector(
+        \core\hook\output\before_footer_html_generation $hook,
+        int $courseid
+    ): void {
+        global $PAGE;
+
+        $ajaxurl = (new \moodle_url('/local/sentinel/ajax.php'))->out(false);
+        $sesskey = sesskey();
+        $applied = \local_sentinel\curriculum_manager::get_applied($courseid);
+        $locked  = \local_sentinel\curriculum_manager::course_has_grades($courseid);
+
+        if ($applied && !empty($applied['community'])) {
+            $catalog = \local_sentinel\curriculum_manager::get_catalog();
+            foreach ($catalog['communities'] ?? [] as $c) {
+                if ($c['id'] === $applied['community']) {
+                    $applied['community_name'] = $c['name'];
+                    break;
+                }
+            }
+        }
+
+        $js_ajaxurl = json_encode($ajaxurl);
+        $js_sesskey = json_encode($sesskey);
+        $js_courseid = (int)$courseid;
+        $js_applied = json_encode($applied);
+        $js_locked  = $locked ? 'true' : 'false';
+
+        $js = <<<JS
+(function() {
+    'use strict';
+    var AJAX = {$js_ajaxurl}, SK = {$js_sesskey}, CID = {$js_courseid};
+    var applied = {$js_applied}, locked = {$js_locked};
+
+    // ── Botón ──
+    var stageAbbr = {'eso':'ESO','ei':'EI','ep':'EP','bach':'Bach','bachillerato':'Bach'};
+    var btn = document.createElement('a');
+    btn.href = '#';
+    btn.id = 'sentinel-curriculum-btn';
+
+    if (applied) {
+        var stg = stageAbbr[applied.stage] || applied.stage.toUpperCase();
+        var dec = (applied.decree || '').replace(/^Decreto\s+/, 'D ').replace(/^Real Decreto\s+/, 'RD ').replace(/,.*$/, '');
+        btn.innerHTML = '<span style="font-weight:800;letter-spacing:.03em">' + stg + applied.grade + '</span>'
+            + '<span style="width:1px;height:14px;background:#86efac;display:inline-block;vertical-align:middle;margin:0 2px"></span>'
+            + '<span style="font-weight:700">' + applied.subject_name + '</span>'
+            + '<span style="opacity:.65;font-weight:400;font-size:.85em">' + dec + '</span>';
+    } else {
+        btn.textContent = 'Radar 360 – Currículo';
+    }
+
+    btn.title = applied
+        ? stg + applied.grade + ' ' + applied.subject_name + ' — regulado por ' + (applied.decree || 'normativa autonómica') + '. Pulsa para modificar.'
+        : 'Configura la normativa curricular para generar automáticamente las competencias específicas y criterios de evaluación en el libro de calificaciones';
+
+    var appliedBg = '#ecfdf5', appliedColor = '#065f46', appliedBorder = '#a7f3d0';
+    var unsetBg = '#f5f3ff', unsetColor = '#5b21b6', unsetBorder = '#c4b5fd';
+    btn.style.cssText = [
+        'display:inline-flex;align-items:center;gap:8px',
+        'padding:6px 14px',
+        'background:' + (applied ? appliedBg : unsetBg),
+        'color:' + (applied ? appliedColor : unsetColor),
+        'border:1px solid ' + (applied ? appliedBorder : unsetBorder),
+        'border-radius:8px;font-size:.8em;font-weight:600',
+        'text-decoration:none',
+        'box-shadow:0 1px 3px rgba(0,0,0,.06)',
+        'transition:all 0.2s',
+        'white-space:nowrap',
+    ].join(';');
+    btn.onmouseenter = function() {
+        btn.style.background = applied ? '#d1fae5' : '#ede9fe';
+        btn.style.borderColor = applied ? '#6ee7b7' : '#a78bfa';
+        btn.style.transform = 'translateY(-1px)';
+        btn.style.boxShadow = '0 3px 8px rgba(0,0,0,.1)';
+    };
+    btn.onmouseleave = function() {
+        btn.style.background = applied ? appliedBg : unsetBg;
+        btn.style.borderColor = applied ? appliedBorder : unsetBorder;
+        btn.style.transform = '';
+        btn.style.boxShadow = '0 1px 3px rgba(0,0,0,.06)';
+    };
+
+    // ── Modal ──
+    var overlay = document.createElement('div');
+    overlay.id = 'sentinel-curriculum-modal';
+    overlay.style.cssText = 'display:none;position:fixed;inset:0;z-index:9999;background:rgba(0,0,0,.5);justify-content:center;align-items:center';
+
+    var modal = document.createElement('div');
+    modal.style.cssText = 'background:#fff;border-radius:12px;padding:28px 32px;max-width:520px;width:90%;box-shadow:0 8px 32px rgba(0,0,0,.25);font-family:system-ui;color:#1e293b';
+
+    var title = document.createElement('h3');
+    title.style.cssText = 'margin:0 0 6px;font-size:1.15em';
+    title.textContent = 'Configurar currículo del curso';
+
+    var subtitle = document.createElement('p');
+    subtitle.style.cssText = 'margin:0 0 18px;font-size:.85em;color:#64748b';
+    subtitle.textContent = 'Selecciona la normativa y materia para poblar automáticamente el libro de calificaciones con las competencias específicas y criterios de evaluación.';
+
+    var form = document.createElement('div');
+
+    function mkSelect(id, label) {
+        var wrap = document.createElement('div');
+        wrap.style.cssText = 'margin-bottom:14px';
+        var lbl = document.createElement('label');
+        lbl.textContent = label;
+        lbl.style.cssText = 'display:block;font-weight:600;font-size:.85em;margin-bottom:4px;color:#334155';
+        lbl.htmlFor = id;
+        var sel = document.createElement('select');
+        sel.id = id;
+        sel.style.cssText = 'width:100%;padding:8px 10px;border:1px solid #cbd5e1;border-radius:6px;font-size:.9em;background:#f8fafc';
+        sel.innerHTML = '<option value="">— Selecciona —</option>';
+        wrap.appendChild(lbl);
+        wrap.appendChild(sel);
+        form.appendChild(wrap);
+        return sel;
+    }
+
+    var communityInfo = document.createElement('div');
+    communityInfo.id = 'sc-community-info';
+    communityInfo.style.cssText = 'margin-bottom:14px;padding:10px 12px;background:#f1f5f9;border:1px solid #e2e8f0;border-radius:6px;color:#64748b;font-size:.85em;display:none';
+    form.appendChild(communityInfo);
+
+    var selCommunity = mkSelect('sc-community', 'Comunidad Autónoma');
+    var selStage     = mkSelect('sc-stage', 'Etapa');
+    var selGrade     = mkSelect('sc-grade', 'Curso / Ciclo');
+    var selSubject   = mkSelect('sc-subject', 'Materia / Área');
+
+    var applyBtn = document.createElement('button');
+    applyBtn.textContent = 'Aplicar currículo';
+    applyBtn.disabled = true;
+    applyBtn.style.cssText = 'width:100%;padding:10px;background:#7c3aed;color:#fff;border:none;border-radius:6px;font-size:.95em;font-weight:600;cursor:pointer;margin-top:6px;transition:background .15s';
+    applyBtn.onmouseenter = function() { if (!applyBtn.disabled) applyBtn.style.background = '#6d28d9'; };
+    applyBtn.onmouseleave = function() { if (!applyBtn.disabled) applyBtn.style.background = '#7c3aed'; };
+
+    var statusMsg = document.createElement('p');
+    statusMsg.style.cssText = 'margin:12px 0 0;font-size:.85em;text-align:center;display:none';
+
+    var closeBtn = document.createElement('button');
+    closeBtn.textContent = '✕';
+    closeBtn.style.cssText = 'position:absolute;top:12px;right:16px;background:none;border:none;font-size:1.3em;cursor:pointer;color:#94a3b8';
+
+    modal.style.position = 'relative';
+    modal.appendChild(closeBtn);
+    modal.appendChild(title);
+    modal.appendChild(subtitle);
+    modal.appendChild(form);
+    modal.appendChild(applyBtn);
+    modal.appendChild(statusMsg);
+    overlay.appendChild(modal);
+    document.body.appendChild(overlay);
+
+    var catalog = null;
+
+    function showMsg(text, color) {
+        statusMsg.textContent = text;
+        statusMsg.style.color = color || '#1e293b';
+        statusMsg.style.display = 'block';
+    }
+
+    function openModal() {
+        if (locked) {
+            alert('Este curso ya tiene calificaciones. No se puede cambiar la estructura curricular.');
+            return;
+        }
+        overlay.style.display = 'flex';
+        if (!catalog) {
+            loadCatalog();
+        }
+    }
+
+    function closeModal() {
+        overlay.style.display = 'none';
+    }
+
+    btn.addEventListener('click', function(e) { e.preventDefault(); openModal(); });
+    closeBtn.addEventListener('click', closeModal);
+    overlay.addEventListener('click', function(e) { if (e.target === overlay) closeModal(); });
+
+    function loadCatalog() {
+        fetch(AJAX + '?action=curriculum_catalog&courseid=' + CID + '&sesskey=' + SK)
+            .then(function(r) { return r.json(); })
+            .then(function(data) {
+                if (!data.success) { showMsg('Error: ' + (data.error || 'desconocido'), '#dc2626'); return; }
+                catalog = data.catalog;
+
+                if (data.community && catalog.communities && catalog.communities.length === 1) {
+                    var c = catalog.communities[0];
+                    communityInfo.innerHTML = '<strong style="color:#334155">' + c.name + '</strong>'
+                        + '<br><span style="font-size:.9em;color:#64748b">Desarrollo curricular LOMLOE</span>';
+                    communityInfo.style.display = 'block';
+                    selCommunity.parentNode.style.display = 'none';
+                    selCommunity.innerHTML = '<option value="' + c.id + '" selected>' + c.name + '</option>';
+                    selCommunity.value = c.id;
+                    selCommunity.dispatchEvent(new Event('change'));
+                } else if (!data.community) {
+                    communityInfo.innerHTML = '<span style="color:#b45309">⚠ No se ha configurado la comunidad autónoma del centro.</span><br>'
+                        + '<span style="font-size:.9em">Un administrador debe establecerla en </span>'
+                        + '<a href="' + M.cfg.wwwroot + '/admin/settings.php?section=local_sentinel" style="font-size:.9em">Administración del sitio → Radar 360</a>'
+                        + '<span style="font-size:.9em"> antes de poder aplicar el currículo.</span>';
+                    communityInfo.style.display = 'block';
+                    communityInfo.style.borderColor = '#fbbf24';
+                    communityInfo.style.background = '#fffbeb';
+                    selCommunity.parentNode.style.display = 'none';
+                    selStage.parentNode.style.display = 'none';
+                    selGrade.parentNode.style.display = 'none';
+                    selSubject.parentNode.style.display = 'none';
+                    applyBtn.style.display = 'none';
+                } else {
+                    communityInfo.style.display = 'none';
+                    selCommunity.parentNode.style.display = '';
+                    selCommunity.innerHTML = '<option value="">— Selecciona —</option>';
+                    (catalog.communities || []).forEach(function(c) {
+                        var o = document.createElement('option');
+                        o.value = c.id;
+                        o.textContent = c.name;
+                        selCommunity.appendChild(o);
+                    });
+                }
+            })
+            .catch(function() { showMsg('Error de red al cargar el catálogo', '#dc2626'); });
+    }
+
+    selCommunity.addEventListener('change', function() {
+        selStage.innerHTML = '<option value="">— Selecciona —</option>';
+        selGrade.innerHTML = '<option value="">— Selecciona —</option>';
+        selSubject.innerHTML = '<option value="">— Selecciona —</option>';
+        applyBtn.disabled = true;
+        var cid = selCommunity.value;
+        if (!cid || !catalog) return;
+        var community = catalog.communities.find(function(c) { return c.id === cid; });
+        if (!community) return;
+        (community.stages || []).forEach(function(s) {
+            var o = document.createElement('option');
+            o.value = s.id;
+            o.textContent = s.name + (s.decree ? ' (' + s.decree + ')' : '');
+            selStage.appendChild(o);
+        });
+    });
+
+    selStage.addEventListener('change', function() {
+        selGrade.innerHTML = '<option value="">— Selecciona —</option>';
+        selSubject.innerHTML = '<option value="">— Selecciona —</option>';
+        applyBtn.disabled = true;
+        var cid = selCommunity.value, sid = selStage.value;
+        if (!cid || !sid || !catalog) return;
+        var community = catalog.communities.find(function(c) { return c.id === cid; });
+        var stage = (community.stages || []).find(function(s) { return s.id === sid; });
+        if (!stage) return;
+        (stage.grades || []).forEach(function(g) {
+            var o = document.createElement('option');
+            o.value = g;
+            o.textContent = g + '°';
+            selGrade.appendChild(o);
+        });
+    });
+
+    selGrade.addEventListener('change', function() {
+        selSubject.innerHTML = '<option value="">— Selecciona —</option>';
+        applyBtn.disabled = true;
+        var cid = selCommunity.value, sid = selStage.value, gid = parseInt(selGrade.value);
+        if (!cid || !sid || !gid || !catalog) return;
+        var community = catalog.communities.find(function(c) { return c.id === cid; });
+        var stage = (community.stages || []).find(function(s) { return s.id === sid; });
+        if (!stage) return;
+        (stage.subjects || []).filter(function(sub) {
+            return sub.grades.indexOf(gid) !== -1;
+        }).forEach(function(sub) {
+            var o = document.createElement('option');
+            o.value = sub.id;
+            o.textContent = sub.name;
+            selSubject.appendChild(o);
+        });
+    });
+
+    selSubject.addEventListener('change', function() {
+        applyBtn.disabled = !selSubject.value;
+    });
+
+    applyBtn.addEventListener('click', function() {
+        applyBtn.disabled = true;
+        applyBtn.textContent = 'Aplicando…';
+        statusMsg.style.display = 'none';
+
+        var params = new URLSearchParams();
+        params.append('action', 'apply_curriculum');
+        params.append('sesskey', SK);
+        params.append('courseid', CID);
+        params.append('community', selCommunity.value);
+        params.append('stage', selStage.value);
+        params.append('subject', selSubject.value);
+        params.append('grade', selGrade.value);
+
+        fetch(AJAX, { method: 'POST', body: params })
+            .then(function(r) { return r.json(); })
+            .then(function(data) {
+                if (data.success) {
+                    showMsg('✓ Creadas ' + data.categories + ' competencias y ' + data.criterios + ' criterios de evaluación.', '#059669');
+                    applyBtn.textContent = '✓ Aplicado';
+                    setTimeout(function() { location.reload(); }, 1500);
+                } else {
+                    showMsg('Error: ' + (data.error || 'desconocido'), '#dc2626');
+                    applyBtn.textContent = 'Aplicar currículo';
+                    applyBtn.disabled = false;
+                }
+            })
+            .catch(function() {
+                showMsg('Error de red', '#dc2626');
+                applyBtn.textContent = 'Aplicar currículo';
+                applyBtn.disabled = false;
+            });
+    });
+
+    // ── Inyectar botón ──
+    var inject = function() {
+        var header = document.querySelector('.page-context-header') ||
+                     document.querySelector('[data-region="page-header"]') ||
+                     document.querySelector('#page-header');
+        if (!header) return;
+        var h1 = header.querySelector('h1') || header.querySelector('.h1');
+        if (h1) {
+            var wrap = document.getElementById('sentinel-btn-wrap');
+            if (!wrap) {
+                wrap = document.createElement('div');
+                wrap.id = 'sentinel-btn-wrap';
+                wrap.style.cssText = 'display:flex;flex-wrap:wrap;gap:8px;margin-top:8px';
+                h1.parentNode.insertBefore(wrap, h1.nextSibling);
+            }
+            wrap.appendChild(btn);
+        } else {
+            header.appendChild(btn);
+        }
+    };
+
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', inject);
+    } else {
+        inject();
+    }
+})();
+JS;
+        $PAGE->requires->js_amd_inline($js);
+    }
+
+    /**
+     * Restructure the native Moodle grade category dropdown on activity edit
+     * and grade item edit pages: CE categories become optgroup headers,
+     * only subcategories (criterios) are selectable, and "Actividades (Radar 360)"
+     * is hidden.
+     */
+    private static function inject_radar_chart(): void {
+        global $PAGE;
+        $js = <<<'JS'
+(function() {
+    "use strict";
+    var canvas = document.getElementById("sentinel-radar");
+    if (!canvas || !canvas.dataset.radar) return;
+    var d = JSON.parse(canvas.dataset.radar);
+
+    function draw() {
+        var datasets = [];
+        var dashPatterns = [[6, 3], [2, 3], [8, 4, 2, 4], [4, 4], [10, 3], [3, 6]];
+        (d.periods || []).forEach(function(p, pi) {
+            datasets.push({
+                label: p.label,
+                data: p.data.map(function(v) { return v !== null ? v : 0; }),
+                borderColor: p.color,
+                backgroundColor: p.color + "10",
+                borderWidth: 2.5,
+                borderDash: dashPatterns[pi % dashPatterns.length],
+                pointRadius: 2,
+                pointBackgroundColor: p.color,
+                pointStyle: "line",
+                fill: false,
+                hidden: true
+            });
+        });
+        var occ = d.occasions || [];
+        var sub = d.subjects || [];
+        var maxOcc = Math.max.apply(null, occ.length ? occ : [1]);
+        var ptRadii = occ.map(function(o) { return 4 + Math.round((o / maxOcc) * 6); });
+
+        var annualReal = d.annual.map(function(v) { return v !== null ? v : 0; });
+        datasets.push({
+            label: "Anual",
+            data: annualReal.map(function() { return 0; }),
+            borderColor: "#94a3b8",
+            backgroundColor: "#94a3b815",
+            borderWidth: 2.5,
+            pointRadius: ptRadii,
+            pointHoverRadius: ptRadii.map(function(r) { return r + 2; }),
+            pointBackgroundColor: d.colors,
+            pointBorderColor: "#fff",
+            pointBorderWidth: 2,
+            pointStyle: "circle",
+            fill: true
+        });
+
+        var courseOcc = d.courseOcc || [];
+
+        function getAnimatedPoint(chart, dsIdx, ptIdx) {
+            var meta = chart.getDatasetMeta(dsIdx);
+            if (meta && meta.data && meta.data[ptIdx]) {
+                var el = meta.data[ptIdx];
+                return { x: el.x, y: el.y };
+            }
+            return { x: chart.scales.r.xCenter, y: chart.scales.r.yCenter };
+        }
+
+        var sectorsPlugin = {
+            id: "sentinelSectors",
+            beforeDatasetsDraw: function(chart) {
+                var sc = chart.scales.r;
+                if (!sc) return;
+                var annualIdx = datasets.length - 1;
+                if (!chart.isDatasetVisible(annualIdx)) return;
+                var ctx = chart.ctx;
+                var n = datasets[annualIdx].data.length;
+                var mxO = Math.max.apply(null, occ.length ? occ : [1]);
+                for (var i = 0; i < n; i++) {
+                    var prevI = (i - 1 + n) % n;
+                    var nextI = (i + 1) % n;
+                    var pPrev = getAnimatedPoint(chart, annualIdx, prevI);
+                    var pCurr = getAnimatedPoint(chart, annualIdx, i);
+                    var pNext = getAnimatedPoint(chart, annualIdx, nextI);
+                    var midL = { x: (pPrev.x + pCurr.x) / 2, y: (pPrev.y + pCurr.y) / 2 };
+                    var midR = { x: (pCurr.x + pNext.x) / 2, y: (pCurr.y + pNext.y) / 2 };
+                    ctx.save();
+                    ctx.beginPath();
+                    ctx.moveTo(sc.xCenter, sc.yCenter);
+                    ctx.lineTo(midL.x, midL.y);
+                    ctx.lineTo(pCurr.x, pCurr.y);
+                    ctx.lineTo(midR.x, midR.y);
+                    ctx.closePath();
+                    ctx.fillStyle = d.colors[i] || "#666";
+                    ctx.globalAlpha = 0.05 + 0.10 * ((occ[i] || 0) / mxO);
+                    ctx.fill();
+                    ctx.strokeStyle = "#fff";
+                    ctx.globalAlpha = 0.5;
+                    ctx.lineWidth = 1;
+                    ctx.stroke();
+                    ctx.restore();
+                }
+            }
+        };
+
+        var ringsPlugin = {
+            id: "sentinelRings",
+            afterDatasetsDraw: function(chart) {
+                var sc = chart.scales.r;
+                if (!sc) return;
+                var annualIdx = datasets.length - 1;
+                if (!chart.isDatasetVisible(annualIdx)) return;
+                var ctx = chart.ctx;
+                var tc = d.totalCourses || 0;
+                if (!tc) return;
+                var n = datasets[annualIdx].data.length;
+                for (var i = 0; i < n; i++) {
+                    var pt = getAnimatedPoint(chart, annualIdx, i);
+                    var cx = pt.x;
+                    var cy = pt.y;
+                    var color = d.colors[i] || "#666";
+                    var outerR = (ptRadii[i] || 6) + 4;
+                    var innerR = outerR - 3;
+                    var segAngle = (Math.PI * 2) / tc;
+                    var gap = tc > 6 ? 0.04 : 0.08;
+                    var co = (courseOcc[i] || []).slice().sort(function(a, b) { return b - a; });
+                    var maxCO = 1;
+                    for (var m = 0; m < co.length; m++) { if (co[m] > maxCO) maxCO = co[m]; }
+                    ctx.save();
+                    for (var s = 0; s < tc; s++) {
+                        var a0 = -Math.PI / 2 + s * segAngle + gap;
+                        var a1 = -Math.PI / 2 + (s + 1) * segAngle - gap;
+                        ctx.beginPath();
+                        ctx.arc(cx, cy, outerR, a0, a1);
+                        ctx.arc(cx, cy, innerR, a1, a0, true);
+                        ctx.closePath();
+                        var v = co[s] || 0;
+                        if (v > 0) {
+                            ctx.fillStyle = color;
+                            ctx.globalAlpha = 0.3 + 0.65 * (v / maxCO);
+                        } else {
+                            ctx.fillStyle = "#d1d5db";
+                            ctx.globalAlpha = 0.3;
+                        }
+                        ctx.fill();
+                    }
+                    ctx.globalAlpha = 1;
+                    ctx.restore();
+                }
+            }
+        };
+
+        var grades = d.grades || [];
+        var gradeColors = d.gradeColors || [];
+
+        var lg = d.lomloeGrades || [];
+        var lgc = d.lomloeColors || [];
+        var wk = d.worked || [];
+        var td = d.totalDesc || [];
+
+        var cardsPlugin = {
+            id: "sentinelCards",
+            _els: null,
+            _overlay: null,
+            afterDraw: function(chart) {
+                var r = chart.scales.r;
+                if (!r) return;
+                var n = d.labels.length;
+                var tc = d.totalCourses || 0;
+                var annualIdx = datasets.length - 1;
+                var visible = chart.isDatasetVisible(annualIdx);
+
+                if (!this._overlay) {
+                    this._overlay = document.createElement("div");
+                    this._overlay.style.cssText = "position:absolute;top:0;left:0;width:100%;height:100%;pointer-events:none;overflow:visible;z-index:10;";
+                    canvas.parentNode.appendChild(this._overlay);
+                    this._els = [];
+                    for (var i = 0; i < n; i++) {
+                        var color = d.colors[i] || "#666";
+                        var label = d.labels[i];
+                        var grade = grades[i];
+                        var gc = gradeColors[i];
+                        var gradeText = (grade !== null && grade !== undefined) ? grade.toFixed(1) : "–";
+                        var lomloeVal = (lg[i] !== null && lg[i] !== undefined) ? lg[i] : null;
+                        var showLomloe = lomloeVal !== null && grade !== null && lomloeVal.toFixed(1) !== grade.toFixed(1);
+
+                        var card = document.createElement("div");
+                        card.style.cssText = "position:absolute;pointer-events:auto;background:transparent;border-radius:10px;padding:6px 10px;cursor:pointer;transition:background .2s;transform:translate(-50%,-50%);font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;line-height:1.3;text-align:left;white-space:nowrap;";
+                        (function(c) {
+                            card.addEventListener("mouseenter", function() { this.style.background = c + "20"; });
+                            card.addEventListener("mouseleave", function() { this.style.background = "transparent"; });
+                        })(color);
+                        (function(areaCode) {
+                            card.addEventListener("click", function() { if (window.sentinelShowArea) window.sentinelShowArea(areaCode); });
+                        })(d.codes ? d.codes[i] : label);
+
+                        var row1 = '<div style="display:flex;align-items:baseline;gap:6px">';
+                        row1 += '<span style="background:' + color + ';color:#fff;font-weight:700;font-size:11.5px;padding:2px 8px;border-radius:5px;letter-spacing:.02em">' + label + '</span>';
+                        row1 += '<span style="font-weight:800;font-size:15px;color:' + (gc || "#333") + '">' + gradeText + '</span>';
+                        row1 += '</div>';
+
+                        var info = '<div style="font-size:9px;color:#8b919a;margin-top:3px;line-height:1.5">';
+                        if (showLomloe) {
+                            var lc2 = lgc[i] || "#6b7280";
+                            info += '<div><span style="font-weight:700;color:' + lc2 + '">Global: ' + lomloeVal.toFixed(1) + '</span> <span style="color:#b0b5be">(' + (wk[i] || 0) + '/' + (td[i] || 0) + ' desc.)</span></div>';
+                        }
+                        info += '<div>' + (td[i] || 0) + ' descriptores</div>';
+                        if (occ[i]) {
+                            var occMatLine = occ[i] + (occ[i] === 1 ? ' ocasión' : ' ocasiones');
+                            if (tc) occMatLine += ' – ' + sub[i] + '/' + tc + (sub[i] === 1 ? ' materia' : ' materias');
+                            info += '<div>' + occMatLine + '</div>';
+                        }
+                        info += '</div>';
+
+                        card.innerHTML = row1 + info;
+                        this._overlay.appendChild(card);
+                        this._els.push(card);
+                    }
+                }
+
+                this._overlay.style.display = visible ? "" : "none";
+                if (!visible) return;
+
+                for (var i = 0; i < n; i++) {
+                    var pos = r.getPointLabelPosition(i);
+                    this._els[i].style.left = pos.left + "px";
+                    this._els[i].style.top = pos.top + "px";
+                }
+            }
+        };
+
+        var chartInst = new Chart(canvas, {
+            type: "radar",
+            data: { labels: d.labels.map(function() { return ""; }), datasets: datasets },
+            plugins: [sectorsPlugin, ringsPlugin, cardsPlugin],
+            options: {
+                responsive: true,
+                maintainAspectRatio: true,
+                devicePixelRatio: Math.max(window.devicePixelRatio || 1, 2),
+                layout: { padding: { top: 52, bottom: 52, left: 52, right: 52 } },
+                scales: {
+                    r: {
+                        min: 0, max: 10,
+                        ticks: { stepSize: 2, backdropColor: "transparent", font: { size: 10 }, color: "#d1d5db" },
+                        pointLabels: { display: true, font: { size: 1 }, color: "transparent", padding: 56 },
+                        grid: { color: "#e5e7eb" },
+                        angleLines: { color: "#e5e7eb" }
+                    }
+                },
+                animation: {
+                    duration: 900,
+                    easing: "easeOutCubic"
+                },
+                plugins: {
+                    legend: { display: false },
+                    tooltip: { enabled: false
+                    }
+                }
+            }
+        });
+
+        var ch = Chart.getChart(canvas);
+        var legBox = document.getElementById("sentinel-radar-legend");
+        if (ch && legBox && ch.data.datasets.length > 1) {
+            legBox.style.cssText = "display:flex;flex-direction:column;gap:8px;padding:12px 16px;background:#f8fafc;border-radius:10px;border:1px solid #e2e8f0;font:500 .76em/1.3 -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif";
+            ch.data.datasets.forEach(function(ds, di) {
+                var row = document.createElement("div");
+                row.style.cssText = "display:flex;align-items:center;gap:8px;cursor:pointer;transition:opacity .2s;user-select:none;padding:3px 0";
+                row.style.opacity = ds.hidden ? ".4" : "1";
+                var indicator = document.createElement("span");
+                if (ds.borderDash && ds.borderDash.length) {
+                    indicator.style.cssText = "width:24px;height:0;border-top:2.5px dashed " + ds.borderColor + ";display:inline-block;flex-shrink:0";
+                } else {
+                    indicator.style.cssText = "width:10px;height:10px;background:" + ds.borderColor + ";border-radius:50%;display:inline-block;flex-shrink:0;box-shadow:0 0 0 2px #fff,0 0 0 3px " + ds.borderColor + "25";
+                }
+                var lbl = document.createElement("span");
+                lbl.style.cssText = "color:#374151;white-space:nowrap";
+                lbl.textContent = ds.label;
+                row.appendChild(indicator);
+                row.appendChild(lbl);
+                row.addEventListener("click", function() {
+                    var meta = ch.getDatasetMeta(di);
+                    meta.hidden = !meta.hidden;
+                    row.style.opacity = meta.hidden ? ".4" : "1";
+                    ch.update();
+                });
+                legBox.appendChild(row);
+            });
+        }
+
+        var codes = d.codes || [];
+        if (codes.length) {
+            canvas.style.cursor = "pointer";
+            canvas.addEventListener("click", function(e) {
+                if (!window.sentinelShowArea) return;
+                var ch = Chart.getChart(canvas);
+                if (!ch) return;
+                var pts = ch.getElementsAtEventForMode(e, "nearest", { intersect: true }, false);
+                if (pts.length) {
+                    var idx = pts[0].index;
+                    if (codes[idx]) { window.sentinelShowArea(codes[idx]); return; }
+                }
+                var r = ch.scales.r;
+                if (!r) return;
+                var rect = canvas.getBoundingClientRect();
+                var cx = e.clientX - rect.left;
+                var cy = e.clientY - rect.top;
+                for (var i = 0; i < codes.length; i++) {
+                    var lp = r.getPointLabelPosition(i);
+                    var dx = cx - lp.left;
+                    var dy = cy - lp.top;
+                    if (Math.abs(dx) < 50 && Math.abs(dy) < 35) {
+                        window.sentinelShowArea(codes[i]);
+                        return;
+                    }
+                }
+            });
+        }
+        // Animate from center: update data to real values after creation.
+        setTimeout(function() {
+            var ds = chartInst.data.datasets;
+            ds[ds.length - 1].data = annualReal;
+            chartInst.update();
+        }, 80);
+
+        canvas._chartInstance = chartInst;
+    }
+
+    function drawMini() {
+        var canvas = document.getElementById("sentinel-mini-radar");
+        if (!canvas || !canvas.dataset.miniradar) return;
+        var m = JSON.parse(canvas.dataset.miniradar);
+        var w = canvas.width, h = canvas.height;
+        var cx = w / 2, cy = h / 2;
+        var maxR = Math.min(cx, cy) - 8;
+        var n = m.v.length;
+        var ctx = canvas.getContext("2d");
+        ctx.clearRect(0, 0, w, h);
+
+        var angle = function(i) { return (Math.PI * 2 * i / n) - Math.PI / 2; };
+        var pointXY = function(i, val) {
+            var r = (val / 10) * maxR;
+            return { x: cx + Math.cos(angle(i)) * r, y: cy + Math.sin(angle(i)) * r };
+        };
+
+        // Grid polygons.
+        for (var g = 2; g <= 10; g += 2) {
+            ctx.strokeStyle = (g === 10) ? "#b0b5be" : "#e5e7eb";
+            ctx.lineWidth = (g === 10) ? 1 : 0.5;
+            ctx.beginPath();
+            for (var gi = 0; gi < n; gi++) {
+                var gp = pointXY(gi, g);
+                if (gi === 0) { ctx.moveTo(gp.x, gp.y); } else { ctx.lineTo(gp.x, gp.y); }
+            }
+            ctx.closePath();
+            ctx.stroke();
+        }
+        // Angle lines.
+        ctx.strokeStyle = "#e5e7eb";
+        ctx.lineWidth = 0.5;
+        for (var i = 0; i < n; i++) {
+            var ep = pointXY(i, 10);
+            ctx.beginPath(); ctx.moveTo(cx, cy); ctx.lineTo(ep.x, ep.y); ctx.stroke();
+        }
+
+        // Colored sector fill.
+        var mOccS = m.occ || [];
+        var maxOS = 1;
+        for (var si = 0; si < mOccS.length; si++) { if (mOccS[si] > maxOS) maxOS = mOccS[si]; }
+        for (var i = 0; i < n; i++) {
+            var prevI = (i - 1 + n) % n;
+            var nextI = (i + 1) % n;
+            var pPrev = pointXY(prevI, m.v[prevI] || 0);
+            var pCurr = pointXY(i, m.v[i] || 0);
+            var pNext = pointXY(nextI, m.v[nextI] || 0);
+            var midL = { x: (pPrev.x + pCurr.x) / 2, y: (pPrev.y + pCurr.y) / 2 };
+            var midR = { x: (pCurr.x + pNext.x) / 2, y: (pCurr.y + pNext.y) / 2 };
+            ctx.beginPath();
+            ctx.moveTo(cx, cy);
+            ctx.lineTo(midL.x, midL.y);
+            ctx.lineTo(pCurr.x, pCurr.y);
+            ctx.lineTo(midR.x, midR.y);
+            ctx.closePath();
+            ctx.fillStyle = m.c[i] || "#666";
+            ctx.globalAlpha = 0.05 + 0.10 * ((mOccS[i] || 0) / maxOS);
+            ctx.fill();
+            ctx.strokeStyle = "#fff";
+            ctx.globalAlpha = 0.5;
+            ctx.lineWidth = 0.5;
+            ctx.stroke();
+        }
+        ctx.globalAlpha = 1;
+
+        // Data polygon border.
+        ctx.beginPath();
+        for (var i = 0; i < n; i++) {
+            var p = pointXY(i, m.v[i] || 0);
+            if (i === 0) { ctx.moveTo(p.x, p.y); } else { ctx.lineTo(p.x, p.y); }
+        }
+        ctx.closePath();
+        ctx.strokeStyle = "#94a3b8";
+        ctx.lineWidth = 1;
+        ctx.stroke();
+
+        // Points + donut rings.
+        var mOcc = m.occ || [];
+        var maxO = 1;
+        for (var i = 0; i < mOcc.length; i++) { if (mOcc[i] > maxO) maxO = mOcc[i]; }
+        var tc = m.tc || 0;
+
+        for (var i = 0; i < n; i++) {
+            var p = pointXY(i, m.v[i] || 0);
+            var pr = 1.5 + Math.round(((mOcc[i] || 0) / maxO) * 2.5);
+            var color = m.c[i] || "#666";
+
+            if (tc > 0) {
+                var outerR = pr + 2.5;
+                var innerR = outerR - 1.5;
+                var segAngle = (Math.PI * 2) / tc;
+                var gap = tc > 6 ? 0.04 : 0.08;
+                var co = (m.co[i] || []).slice().sort(function(a, b) { return b - a; });
+                var mxC = 1;
+                for (var j = 0; j < co.length; j++) { if (co[j] > mxC) mxC = co[j]; }
+                for (var s = 0; s < tc; s++) {
+                    var a0 = -Math.PI / 2 + s * segAngle + gap;
+                    var a1 = -Math.PI / 2 + (s + 1) * segAngle - gap;
+                    ctx.beginPath();
+                    ctx.arc(p.x, p.y, outerR, a0, a1);
+                    ctx.arc(p.x, p.y, innerR, a1, a0, true);
+                    ctx.closePath();
+                    var v = co[s] || 0;
+                    if (v > 0) {
+                        ctx.fillStyle = color;
+                        ctx.globalAlpha = 0.3 + 0.65 * (v / mxC);
+                    } else {
+                        ctx.fillStyle = "#d1d5db";
+                        ctx.globalAlpha = 0.3;
+                    }
+                    ctx.fill();
+                }
+                ctx.globalAlpha = 1;
+            }
+
+            ctx.beginPath();
+            ctx.arc(p.x, p.y, pr, 0, Math.PI * 2);
+            ctx.fillStyle = color;
+            ctx.fill();
+            ctx.strokeStyle = "#fff";
+            ctx.lineWidth = 0.5;
+            ctx.stroke();
+        }
+    }
+
+    window.sentinelRedrawRadar = function() {
+        var rc = document.getElementById("sentinel-radar");
+        if (rc && rc._chartInstance) {
+            rc._chartInstance.resize();
+        } else {
+            draw();
+        }
+    };
+
+    function drawSubjectRadar() {
+        var canvas = document.getElementById("sentinel-subject-radar");
+        if (!canvas || !canvas.dataset.subjectradar) return;
+        if (canvas._chartInstance) { canvas._chartInstance.resize(); return; }
+        var s = JSON.parse(canvas.dataset.subjectradar);
+        var n = s.labels.length;
+        if (!n) return;
+
+        var shortLabels = s.labels.map(function(l, idx) {
+            var m = l.match(/^(CE\s*\d+)/i);
+            if (m) return m[1];
+            var m2 = l.match(/^(\d+)\.\s/);
+            if (m2) return "CE" + m2[1];
+            return "CE" + (idx + 1);
+        });
+
+        var vals = s.grades.map(function(v) { return v !== null ? v : 0; });
+
+        var subjectSectorsPlugin = {
+            id: "subjectSectors",
+            beforeDatasetsDraw: function(chart) {
+                var sc = chart.scales.r;
+                if (!sc) return;
+                var ctx = chart.ctx;
+                for (var i = 0; i < n; i++) {
+                    var prevI = (i - 1 + n) % n;
+                    var nextI = (i + 1) % n;
+                    var angPrev = sc.getIndexAngle(prevI) - Math.PI / 2;
+                    var angCurr = sc.getIndexAngle(i) - Math.PI / 2;
+                    var angNext = sc.getIndexAngle(nextI) - Math.PI / 2;
+                    var dPrev = sc.getDistanceFromCenterForValue(vals[prevI]);
+                    var dCurr = sc.getDistanceFromCenterForValue(vals[i]);
+                    var dNext = sc.getDistanceFromCenterForValue(vals[nextI]);
+                    var pPrev = { x: sc.xCenter + Math.cos(angPrev) * dPrev, y: sc.yCenter + Math.sin(angPrev) * dPrev };
+                    var pCurr = { x: sc.xCenter + Math.cos(angCurr) * dCurr, y: sc.yCenter + Math.sin(angCurr) * dCurr };
+                    var pNext = { x: sc.xCenter + Math.cos(angNext) * dNext, y: sc.yCenter + Math.sin(angNext) * dNext };
+                    var midL = { x: (pPrev.x + pCurr.x) / 2, y: (pPrev.y + pCurr.y) / 2 };
+                    var midR = { x: (pCurr.x + pNext.x) / 2, y: (pCurr.y + pNext.y) / 2 };
+                    ctx.save();
+                    ctx.beginPath();
+                    ctx.moveTo(sc.xCenter, sc.yCenter);
+                    ctx.lineTo(midL.x, midL.y);
+                    ctx.lineTo(pCurr.x, pCurr.y);
+                    ctx.lineTo(midR.x, midR.y);
+                    ctx.closePath();
+                    ctx.fillStyle = s.colors[i] || "#f59e0b";
+                    ctx.globalAlpha = 0.12;
+                    ctx.fill();
+                    ctx.strokeStyle = "#fffbeb";
+                    ctx.globalAlpha = 0.6;
+                    ctx.lineWidth = 1;
+                    ctx.stroke();
+                    ctx.restore();
+                }
+            }
+        };
+
+        var cw = s.critWorked || [];
+        var ct = s.critTotal  || [];
+        var oc = s.occasions  || [];
+        var dy = s.days       || [];
+
+        var subjectCardsPlugin = {
+            id: "subjectCards",
+            _els: null,
+            _overlay: null,
+            afterDraw: function(chart) {
+                var r = chart.scales.r;
+                if (!r) return;
+
+                if (!this._overlay) {
+                    this._overlay = document.createElement("div");
+                    this._overlay.style.cssText = "position:absolute;top:0;left:0;width:100%;height:100%;pointer-events:none;overflow:visible;z-index:10;";
+                    canvas.parentNode.appendChild(this._overlay);
+                    this._els = [];
+                    for (var i = 0; i < n; i++) {
+                        var color = s.colors[i] || "#f59e0b";
+                        var grade = s.grades[i];
+                        var gc = grade !== null ? "hsl(" + Math.round((grade / 10) * 120) + ",65%,36%)" : "#999";
+                        var gradeText = grade !== null ? grade.toFixed(1) : "–";
+                        var card = document.createElement("div");
+                        card.style.cssText = "position:absolute;pointer-events:auto;background:transparent;border-radius:10px;padding:6px 10px;cursor:pointer;transition:background .2s;transform:translate(-50%,-50%);font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;line-height:1.3;text-align:left;white-space:nowrap;";
+                        (function(c) {
+                            card.addEventListener("mouseenter", function() { this.style.background = c + "20"; });
+                            card.addEventListener("mouseleave", function() { this.style.background = "transparent"; });
+                        })(color);
+                        (function(idx) {
+                            card.addEventListener("click", function() { if (window.sentinelShowCE) window.sentinelShowCE(idx); });
+                        })(i);
+
+                        var row1 = '<div style="display:flex;align-items:baseline;gap:6px">';
+                        row1 += '<span style="background:' + color + ';color:#fff;font-weight:700;font-size:11.5px;padding:2px 8px;border-radius:5px;letter-spacing:.02em">' + shortLabels[i] + '</span>';
+                        row1 += '<span style="font-weight:800;font-size:15px;color:' + gc + '">' + gradeText + '</span>';
+                        row1 += '</div>';
+
+                        var info = '<div style="font-size:9px;color:#8b919a;margin-top:3px;line-height:1.5">';
+                        var critW = cw[i] || 0;
+                        var critT = ct[i] || 0;
+                        var partial = critW < critT;
+                        if (grade !== null && partial) {
+                            info += '<div><span style="font-weight:700;color:' + gc + '">Global: ' + gradeText + '</span> <span style="color:#b0b5be">(' + critW + '/' + critT + ' crit.)</span></div>';
+                        }
+                        info += '<div>' + critT + (critT === 1 ? ' criterio' : ' criterios') + '</div>';
+                        if (oc[i]) {
+                            var occLine = oc[i] + (oc[i] === 1 ? ' ocasión' : ' ocasiones');
+                            if (dy[i]) occLine += ' / ' + dy[i] + (dy[i] === 1 ? ' día' : ' días');
+                            info += '<div>' + occLine + '</div>';
+                        }
+                        info += '</div>';
+
+                        card.innerHTML = row1 + info;
+                        this._overlay.appendChild(card);
+                        this._els.push(card);
+                    }
+                }
+
+                for (var i = 0; i < n; i++) {
+                    var pos = r.getPointLabelPosition(i);
+                    this._els[i].style.left = pos.left + "px";
+                    this._els[i].style.top = pos.top + "px";
+                }
+            }
+        };
+
+        var chartInst = new Chart(canvas, {
+            type: "radar",
+            data: {
+                labels: shortLabels.map(function() { return ""; }),
+                datasets: [{
+                    label: s.courseName || "Materia",
+                    data: vals.map(function() { return 0; }),
+                    borderColor: "#f59e0b",
+                    backgroundColor: "#f59e0b15",
+                    borderWidth: 2.5,
+                    pointRadius: vals.map(function(v) { return v > 0 ? 6 : 3; }),
+                    pointHoverRadius: vals.map(function(v) { return v > 0 ? 8 : 5; }),
+                    pointBackgroundColor: s.colors,
+                    pointBorderColor: "#fff",
+                    pointBorderWidth: 2,
+                    fill: true
+                }]
+            },
+            plugins: [subjectSectorsPlugin, subjectCardsPlugin],
+            options: {
+                responsive: true,
+                maintainAspectRatio: true,
+                devicePixelRatio: Math.max(window.devicePixelRatio || 1, 2),
+                layout: { padding: { top: 48, bottom: 48, left: 48, right: 48 } },
+                scales: {
+                    r: {
+                        min: 0, max: 10,
+                        ticks: { stepSize: 2, backdropColor: "transparent", font: { size: 10 }, color: "#d4a574" },
+                        pointLabels: { display: true, font: { size: 1 }, color: "transparent", padding: 52 },
+                        grid: { color: "#fde68a" },
+                        angleLines: { color: "#fde68a" }
+                    }
+                },
+                animation: {
+                    duration: 900,
+                    easing: "easeOutCubic"
+                },
+                plugins: {
+                    legend: { display: false },
+                    tooltip: { enabled: false }
+                }
+            }
+        });
+        // Animate from center outward.
+        setTimeout(function() {
+            chartInst.data.datasets[0].data = vals;
+            chartInst.update();
+        }, 80);
+        canvas._chartInstance = chartInst;
+    }
+
+    window.sentinelDrawSubjectRadar = function() {
+        drawSubjectRadar();
+    };
+
+    function drawAll() { draw(); drawMini(); drawSubjectRadar(); }
+
+    if (window.Chart) { drawAll(); return; }
+    var _d = window.define; window.define = undefined;
+    var s = document.createElement("script");
+    s.src = M.cfg.wwwroot + "/local/sentinel/js/chart.umd.min.js";
+    s.onload = function() { window.define = _d; drawAll(); };
+    s.onerror = function() { window.define = _d; };
+    document.head.appendChild(s);
+})();
+JS;
+        $PAGE->requires->js_amd_inline($js);
+    }
+
+    private static function inject_category_dropdown_filter(
+        \core\hook\output\before_footer_html_generation $hook
+    ): void {
+        global $PAGE, $DB;
+
+        $courseid = optional_param('course', 0, PARAM_INT);
+        if (!$courseid) {
+            $courseid = optional_param('courseid', 0, PARAM_INT);
+        }
+        if (!$courseid) {
+            $id = optional_param('id', 0, PARAM_INT);
+            if ($id) {
+                $cm = $DB->get_record('course_modules', ['id' => $id], 'course');
+                if ($cm) {
+                    $courseid = (int)$cm->course;
+                }
+            }
+        }
+        if (!$courseid) {
+            $update = optional_param('update', 0, PARAM_INT);
+            if ($update) {
+                $cm = $DB->get_record('course_modules', ['id' => $update], 'course');
+                if ($cm) {
+                    $courseid = (int)$cm->course;
+                }
+            }
+        }
+        if (!$courseid) {
+            return;
+        }
+
+        $act_name = get_string('activities_category', 'local_sentinel');
+        $depth_rows = $DB->get_records_sql(
+            'SELECT gc.id, gc.depth, gc.fullname, gc.parent
+               FROM {grade_categories} gc
+              WHERE gc.courseid = :cid AND gc.depth >= 2',
+            ['cid' => $courseid]
+        );
+        if (empty($depth_rows)) {
+            return;
+        }
+
+        // Find the "Actividades (Sentinel)" category id to tag its children.
+        $act_cat_id = null;
+        foreach ($depth_rows as $r) {
+            if ($r->fullname === $act_name) {
+                $act_cat_id = (int)$r->id;
+                break;
+            }
+        }
+
+        $cat_info = [];
+        foreach ($depth_rows as $r) {
+            $is_act = ($r->fullname === $act_name);
+            $is_act_child = ($act_cat_id && (int)$r->parent === $act_cat_id);
+            $cat_info[(int)$r->id] = [
+                'depth'    => (int)$r->depth,
+                'hide'     => $is_act,
+                'noweight' => $is_act_child,
+            ];
+        }
+        $js_catinfo = json_encode($cat_info);
+
+        $js = <<<JS
+(function() {
+    'use strict';
+    var catInfo = {$js_catinfo};
+
+    function restructureSelect(sel) {
+        if (sel.dataset.sentinelProcessed) return;
+        sel.dataset.sentinelProcessed = '1';
+
+        var options = Array.from(sel.options);
+        var newSelect = document.createElement('select');
+        newSelect.id = sel.id;
+        newSelect.name = sel.name;
+        newSelect.className = sel.className;
+        newSelect.style.cssText = sel.style.cssText;
+
+        var currentGroup = null;
+        var selectedValue = sel.value;
+
+        options.forEach(function(opt) {
+            var catId = parseInt(opt.value, 10);
+            var info = catInfo[catId];
+
+            if (info && info.hide) return;
+
+            if (info && info.depth === 2) {
+                currentGroup = document.createElement('optgroup');
+                currentGroup.label = opt.textContent.trim();
+                newSelect.appendChild(currentGroup);
+            } else {
+                var newOpt = document.createElement('option');
+                newOpt.value = opt.value;
+                var text = opt.textContent;
+                if (info && info.noweight) {
+                    text = text.trim() + ' (sin peso — no vinculado al perfil de salida)';
+                }
+                newOpt.textContent = text;
+                if (opt.value === selectedValue) newOpt.selected = true;
+                (currentGroup || newSelect).appendChild(newOpt);
+            }
+        });
+
+        sel.parentNode.replaceChild(newSelect, sel);
+    }
+
+    function run() {
+        var selectors = ['#id_gradecat', '#id_parentcategory', 'select[name="parentcategory"]'];
+        selectors.forEach(function(q) {
+            var sel = document.querySelector(q);
+            if (sel) restructureSelect(sel);
+        });
+    }
+
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', run);
+    } else {
+        run();
+    }
+})();
+JS;
         $PAGE->requires->js_amd_inline($js);
     }
 }

@@ -1,0 +1,116 @@
+{
+    "community": "pais-vasco",
+    "stage": "bachillerato",
+    "decree": "Decreto 82\/2023, de 13 de junio",
+    "subject": "economia_alt",
+    "subject_name": "Economía",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Valorar el problema de la escasez y la importancia de adoptar decisiones en el",
+            "description": "Valorar el problema de la escasez y la importancia de adoptar decisiones en el ámbito económico, analizando su repercusión en los distintos sectores, comparando soluciones alternativas que ofrecen los diferentes sistemas, para comprender el funcionam…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar la repercusión de decisiones económicas, valorar la integración y comparar sistemas para comprender la realidad actual."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Identificar las causas de la escasez y comparar distintas estrategias económicas, justificando cuál es más eficiente."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Analizar los procesos individuales y colectivos en la toma de decisiones económicas y su impacto social."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Conocer los procesos que intervienen en la toma de las decisiones económicas de manera individual y colectiva, analizando el impacto que tienen en la sociedad."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Reconocer y comprender el funcionamiento del mercado, analizando sus fallos",
+            "description": "Reconocer y comprender el funcionamiento del mercado, analizando sus fallos, para estudiar la repercusión de estos en el entorno y facilitar la toma de decisiones en el ámbito económico.",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Valorar los efectos de fallos del mercado microeconómicos y aplicar ese análisis a la toma de decisiones."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Explica el funcionamiento del mercado analizando oferta, demanda, precios y tipos de mercado."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Analizar críticamente los fallos del mercado, evaluar sus consecuencias y reflexionar sobre soluciones."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Valorar,a través de la realización de un trabajo de investigación sobre la singularidad fiscal vasca, los efectos de la existencia de un sistema tributario y de financiación propio vasco, reconociendo el papel que el Concierto Económico tiene como elemento vertebrador de las relaciones tributarias y financieras con el resto del estado."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Distinguir y valorar el papel de los distintos agentes económicos que",
+            "description": "Distinguir y valorar el papel de los distintos agentes económicos que intervienen en el flujo circular de la renta, comprendiendo sus interacciones y reconociendo, con sentido crítico, los beneficios y desequilibrios que genera, para explicar cómo se…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Valorar críticamente el papel de los agentes económicos en el flujo circular de la renta y su contribución al desarrollo y bienestar."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Diferencia costes y beneficios de los agentes en el flujo circular y analiza su impacto en desarrollo y bienestar."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Conocer y comprender el funcionamiento del sistema financiero y de la política",
+            "description": "Conocer y comprender el funcionamiento del sistema financiero y de la política monetaria, valorando sus efectos sobre la economía real y analizando los elementos que intervienen en las decisiones financieras, para planificar y gestionar con responsab…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Analiza el sistema financiero y la política monetaria, valorando sus efectos en la economía real y en las decisiones financieras personales."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Planificar y gestionar finanzas personales usando conocimientos del sistema financiero, valorando su impacto en la economía real."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Conectar el análisis del sistema financiero con las decisiones financieras personales cotidianas."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Identificar y valorar los retos y desafíos a los que se enfrenta la economía",
+            "description": "Identificar y valorar los retos y desafíos a los que se enfrenta la economía actual analizando el impacto de la globalización económica, la nueva economía y la revolución digital, para proponer iniciativas que fomenten la equidad, la justicia y la so…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Propone iniciativas que fomentan equidad, justicia y sostenibilidad, analizando críticamente los impactos de la globalización, nueva economía y revolución digital."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Analizar críticamente los retos económicos actuales y proponer iniciativas equitativas y sostenibles."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Analizar los problemas económicos actuales mediante el estudio de casos, la",
+            "description": "Analizar los problemas económicos actuales mediante el estudio de casos, la investigación y la experimentación, utilizando herramientas del análisis económico y teniendo en cuenta los factores que condicionan las decisiones de los agentes económicos,…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "El alumnado diseña propuestas de solución a problemas económicos reales usando herramientas de análisis económico y considerando factores individuales y colectivos."
+                }
+            ]
+        }
+    ]
+}

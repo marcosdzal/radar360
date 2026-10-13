@@ -1,0 +1,109 @@
+{
+    "community": "la-rioja",
+    "stage": "bachillerato",
+    "decree": "Decreto 22\/2022, de 27 de julio",
+    "subject": "fund_admin_gestion",
+    "subject_name": "Fundamentos de Administración y Gestión",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Identificar los principales aspectos de la innovación, elemento necesario para",
+            "description": "Identificar los principales aspectos de la innovación, elemento necesario para garantizar el desarrollo sostenible de un país y la competitividad de sus empresas, destacando el papel fundamental que desempeña el proceso emprendedor en el complejo pro…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Relacionar distintos aspectos de la innovación con el desarrollo sostenible y la calidad de vida."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Analizar la información económica del sector de actividad empresarial en el que se situará la empresa."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Seleccionar una idea de negocio, valorando y argumentando de forma técnica la elección."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Identificar proyectos innovadores de emprendimiento social."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Identificar y ser consciente de las principales decisiones que debe tomar el",
+            "description": "Identificar y ser consciente de las principales decisiones que debe tomar el promotor de un proyecto empresarial a la hora de decidir si lo emprende o no. Hay una serie de estudios que el emprendedor debe hacer con anterioridad al momento de lanzarse…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Valorar las capacidades innatas y adquiridas del promotor del proyecto: creatividad, liderazgo, habilidades sociales, emprendimiento, tolerancia a la frustración y a los fracasos, resiliencia, ambición,... Analizar la viabilidad económica del proyecto: capacidad de financiación frente a inversiones necesarias, planificación 2.2 del plan de tesorería (ingresos y gastos)."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Decidir la ubicación y la dimensión ideal de la empresa."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Ser conscientes de la responsabilidad social, laboral y medioambiental de la empresa en la toma de decisiones."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Reconocer e identificar las principales áreas funcionales del proyecto",
+            "description": "Reconocer e identificar las principales áreas funcionales del proyecto empresarial dentro de la función de dirección de empresa. El alumnado analizará la organización interna de la empresa, la forma jurídica, los recursos necesarios, los principales …",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Identificar las diferentes áreas funcionales del proyecto empresarial para desarrollar la idea de negocio y valorar la importancia de cada una de ellas dentro de la empresa."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Implementar diferentes técnicas de prototipado en el producto y\/o servicio a ofrecer en el proyecto empresarial."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Analizar diferentes herramientas de valoración de existencias, aprovisionamiento, estudios de mercado, comunicación empresarial, gestión de recursos humanos, contabilidad, etc. Recabar información sobre diferentes fuentes de financiación, así como sus ventajas e inconvenientes. 3.4"
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Reconocer y desarrollar las habilidades básicas que debe tener un individuo en",
+            "description": "Reconocer y desarrollar las habilidades básicas que debe tener un individuo en un proceso de comunicación escrita y oral, haciendo uso de ellas para realizar presentaciones eficaces y de alto impacto de sus propios proyectos de empresa.",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Identificar las partes del proceso de comunicación escrita y oral, reconociendo elementos de la comunicación no verbal que aporten información al proceso."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Desarrollar habilidades básicas para realizar simulaciones de procesos de comunicación efectiva en una empresa."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Reconocer los elementos para el desarrollo de storytelling aplicando a potenciar la imagen de marca en una empresa."
+                },
+                {
+                    "code": "5.4",
+                    "description": "Realizar presentaciones efectivas de una idea de negocio utilizando herramientas TIC como Prezi, Powtoon o Canva siguiendo un esquema de elevator pitch para ello."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Reflexionar sobre el sentido, alcance, diferenciación y efectos externos del",
+            "description": "Reflexionar sobre el sentido, alcance, diferenciación y efectos externos del proyecto emprendedor desarrollado en interacción directa con un entorno determinado. Para ello el alumno\/a debe concretar las formas de contribuir al contexto global con acc…",
+            "criterios": [
+                {
+                    "code": "6.2",
+                    "description": "Proponer alternativas y nuevas soluciones a retos que respondan al interés colectivo, reconociendo la importancia de la economía circular, aplicando las destrezas propias que caracterizan a una persona emprendedora."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Generar actitudes sensibles y comportamientos responsables que establezcan correspondencias entre la economía local y la huella ecológica, contribuyendo a dar respuestas. Comprender y aplicar formas de calidad diferenciada desarrolladas por la administración pública, útiles para poner en 6.4 valor iniciativas emprendedoras singulares y sostenibles unidas a un contexto local."
+                }
+            ]
+        }
+    ]
+}

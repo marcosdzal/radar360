@@ -1,0 +1,101 @@
+{
+    "community": "andalucia",
+    "stage": "bachillerato",
+    "decree": "Real Decreto 217\/2022",
+    "subject": "imagen_y_sonido",
+    "subject_name": "Imagen y Sonido",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Conocer y utilizar diversos recursos expresivos para realizar productos",
+            "description": "Conocer y utilizar diversos recursos expresivos para realizar productos audiovisuales y multimedia con criterio estético y sensibilidad artística. Cada género cinematográfico, su análisis y estudio, van a permitir reconocer la intencionalidad comunic…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Valorar y respetar las diferentes respuestas míticas a problemas similares sobre la existencia del ser humano, a partir de la investigación y el debate en torno a diversas fuentes literarias y audiovisuales de los personajes, mitos y leyendas."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Establecer paralelismos y diferencias entre las explicaciones míticas que pueblos y culturas han creado respecto a los temas existenciales, tales como la creación del universo, el origen de la humanidad o la muerte."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Usar adecuadamente las TIC y las fuentes de información bibliográfica como recurso para la obtención de información, creación y difusión de las producciones propias del contexto escolar."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Conocer y aplicar técnicas y elementos del lenguaje audiovisual utilizado el",
+            "description": "Conocer y aplicar técnicas y elementos del lenguaje audiovisual utilizado el guion audiovisual como eje para elaborar guiones literario-técnicos o gráficos o storyboards.",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Elaborar productos y expresar con coherencia y fluidez juicios acerca de la conexión entre la Mitología Clásica y otras manifestaciones del mito en la sociedad actual, demostrando el dominio de los saberes básicos."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Interés por conocer la trascendencia histórica de los mitos y leyendas y valorar el sentido de su existencia en las sociedades actuales."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Conocer y aplicar las técnicas de captación de fotografía y vídeos, eligiendo",
+            "description": "Conocer y aplicar las técnicas de captación de fotografía y vídeos, eligiendo los elementos más adecuados de captación de imágenes para su posterior edición digital.",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Demostrar una apreciación compleja y un juicio crítico e informado de las producciones mitológicas, a través de la distinción y el análisis de sus funciones y de sus dimensiones ideológica, política, social."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Realizar el tratamiento digital de imágenes, valorando características de color, formatos y contraste y empleando técnicas de generación, procesamiento y retoque de imagen fija."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Identificar y comprender la complejidad de los procesos de creación mitológica, analizando e investigando sus vínculos con la realidad actual, en el marco de una Cultura Audiovisual dominada por los medios y redes de comunicación, promoviendo una actitud comprometida con el logro de los Objetivos de Desarrollo Sostenible."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Editar digitalmente piezas visuales, integrar sonido al producto audiovisual y",
+            "description": "Editar digitalmente piezas visuales, integrar sonido al producto audiovisual y reconocer las prestaciones técnicas de los equipos que se usan, insertando transiciones y sincronizando los distintos datos sonoros para el tratamiento digital de las imág…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Visibilizar el papel desempeñado por los personajes mitológicos femeninos, desde las culturas prepatriarcales a la mitología grecorromana, en el desarrollo de la identidad individual y colectiva de las mujeres y la sociedad, así como su contribución al mundo de las artes y al aprecio por la vida y la naturaleza."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Reconocer las cualidades técnicas del equipamiento de sonido idóneo en programas de radio, grabaciones musicales y proyectos audiovisuales, justificando sus características funcionales y operativas."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Identificar las prestaciones del equipamiento técnico en proyectos multimedia, identificando sus especificaciones y justificando sus aptitudes en relación con los requerimientos del medio y las necesidades de los proyectos. Mitología Clásica Mitología Clásica"
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Reconocer en la sociedad y cultura andaluza la influencia de la Mitología",
+            "description": "Reconocer en la sociedad y cultura andaluza la influencia de la Mitología Clásica, poniendo de manifiesto la relación existente entre Andalucía y el mundo grecorromano, así como su papel como fuente de inspiración en nuestro patrimonio lingüístico, a…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Reconocer y analizar de manera crítica la pervivencia de referentes míticos en las manifestaciones sociales y audiovisuales: publicidad, redes sociales, videojuegos, entre otros."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Explorar e identificar las huellas míticas en el entorno más cercano y elaborar trabajos de investigación sobre la pervivencia mítica en el patrimonio cultural, presentando sus resultados a través de diferentes soportes."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Distinguir el uso de referentes míticos en expresiones y nombres de la lengua española en la literatura, en la prensa escrita, en formato papel o digital o el habla cotidiana de la Cultura Andaluza."
+                }
+            ]
+        }
+    ]
+}

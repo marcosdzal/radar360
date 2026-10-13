@@ -1,0 +1,133 @@
+{
+    "community": "galicia",
+    "stage": "bachillerato",
+    "decree": "Decreto 157\/2022, de 15 de septiembre",
+    "subject": "griego_1",
+    "subject_name": "Griego I",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Comprender y\/o producir textos griegos de dificultad creciente y justificar su",
+            "description": "Comprender y\/o producir textos griegos de dificultad creciente y justificar su comprensión y\/o producción, identificando y analizando los aspectos básicos de la lengua griega, las unidades lingüísticas y reflexionando sobre ellas mediante la comparac…",
+            "criterios": [
+                {
+                    "code": "CE1.1",
+                    "description": "Realizar traducciones directas y\/o inversas de textos o fragmentos adaptados u originales de dificultad adecuada y progresiva con corrección ortográfica y expresiva, identificando y analizando, cuando se considere necesario, unidades lingüísticas regulares de la lengua y apreciando variantes y coincidencias con otras lenguas conocidas."
+                },
+                {
+                    "code": "CE1.2",
+                    "description": "Seleccionar de manera progresivamente autónoma el significado apropiado de palabras polisémicas y justificar la decisión, teniendo en cuenta la información cotextual o contextual y utilizando herramientas diversas de apoyo al proceso de traducción en distintos soportes, cuando se considere necesario."
+                },
+                {
+                    "code": "CE1.3",
+                    "description": "Revisar y corregir de manera progresivamente autónoma las propias traducciones y las de las compañeras y compañeros, realizando propuestas de mejora y argumentando los cambios con terminología especializada a partir de la reflexión lingüística."
+                },
+                {
+                    "code": "CE1.4",
+                    "description": "Realizar la lectura directa de textos griegos sencillos identificando las unidades lingüísticas básicas de la lengua griega, comparándolas con las de las lenguas del repertorio lingüístico propio y asimilando los aspectos morfológicos, sintácticos y léxicos elementales del griego."
+                },
+                {
+                    "code": "CE1.5",
+                    "description": "Registrar los progresos y dificultades de aprendizaje de la lengua griega, seleccionando las estrategias más adecuadas y eficaces para superar esas dificultades y consolidar su aprendizaje, realizando actividades de planificación del propio aprendizaje, autoevaluación y coevaluación, como las propuestas en el Portfolio Europeo de las Lenguas (PEL) o en un diario de aprendizaje, haciéndolos explícitos y compartiéndolos."
+                },
+                {
+                    "code": "CE1.6",
+                    "description": "Extraer, analizar y reflejar oralmente y\/o por escrito, preferentemente en griego, o bien en la lengua de uso del alumnado, las ideas principales de textos de cierta longitud, orales y\/o escritos, y adaptados al nivel de lengua y temas conocidos por el alumnado, expresados de forma clara y, en el caso de los textos orales, preferentemente en la pronunciación histórica."
+                },
+                {
+                    "code": "CE1.7",
+                    "description": "Planificar y participar, cuando se considere necesario, en diálogos breves y sencillos sobre temas cotidianos, próximos a su experiencia, apoyándose en recursos tales como la repetición, el ritmo pausado o el lenguaje no verbal, y mostrando empatía y respeto por la cortesía lingüística y las opiniones de las personas interlocutoras."
+                },
+                {
+                    "code": "CE1.8",
+                    "description": "Redactar en griego, a partir de criterios dados, textos básicos de estructura clara, evitando errores que impidan la comprensión."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Distinguir los étimos y formantes griegos presentes en el léxico de uso",
+            "description": "Distinguir los étimos y formantes griegos presentes en el léxico de uso cotidiano, identificando los cambios semánticos que hayan tenido lugar y estableciendo una comparación con las lenguas de enseñanza y otras lenguas del repertorio individual del …",
+            "criterios": [
+                {
+                    "code": "CE1.9",
+                    "description": "Explicar, de manera guiada, la relación del griego con las lenguas modernas, analizando los elementos lingüísticos comunes de origen griego y utilizando estrategias y conocimientos de las lenguas y lenguajes que conforman el repertorio propio."
+                },
+                {
+                    "code": "CE2.1",
+                    "description": "Deducir el significado etimológico de un término de uso común e inferir el significado de términos de nueva aparición o procedentes de léxico especializado aplicando, de manera guiada, estrategias de reconocimiento de étimos y formantes griegos atendiendo a los cambios fonéticos, morfológicos o semánticos que hayan tenido lugar."
+                },
+                {
+                    "code": "CE2.2",
+                    "description": "Explicar, de manera guiada, la relación del griego con las lenguas modernas, analizando los elementos lingüísticos comunes de origen griego y utilizando con iniciativa estrategias y conocimientos de las lenguas y lenguajes que conforman el repertorio propio."
+                },
+                {
+                    "code": "CE2.3",
+                    "description": "Identificar prejuicios y estereotipos lingüísticos adoptando una actitud de respeto y valoración de la diversidad como riqueza cultural, lingüística y dialectal, a partir de criterios dados."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Leer, interpretar y comentar textos griegos de diferentes géneros y épocas,",
+            "description": "Leer, interpretar y comentar textos griegos de diferentes géneros y épocas, asumiendo el proceso creativo como complejo e inseparable del contexto histórico, social y político y de sus influencias artísticas, para identificar su genealogía y su aport…",
+            "criterios": [
+                {
+                    "code": "CE2.4",
+                    "description": "Crear textos individuales o colectivos con intención literaria y conciencia de estilo, en distintos soportes y con ayuda de otros lenguajes artísticos y audiovisuales, a partir de la lectura de obras o fragmentos significativos de la civilización y la cultura griega como fuente de inspiración."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Analizar las características de la civilización griega en el ámbito personal,",
+            "description": "Analizar las características de la civilización griega en el ámbito personal, religioso y sociopolítico, adquiriendo conocimientos sobre el mundo heleno y comparando críticamente el presente y el pasado, para valorar las aportaciones del mundo clásic…",
+            "criterios": [
+                {
+                    "code": "CE3.1",
+                    "description": "Explicar, a partir de criterios dados, los procesos históricos y políticos, las instituciones, los modos de vida y las costumbres de la sociedad helena, comparándolos con los de las sociedades actuales, valorando las adaptaciones y los cambios experimentados y favoreciendo el desarrollo de una cultura compartida."
+                },
+                {
+                    "code": "CE3.2",
+                    "description": "Debatir sobre la importancia, evolución, asimilación o cuestionamiento de diferentes aspectos del legado griego en nuestra sociedad, mediando entre posturas, seleccionando y contrastando información."
+                },
+                {
+                    "code": "CE4.1",
+                    "description": "Explicar, a partir de criterios dados, los procesos históricos y políticos, los modos de vida, las instituciones y las costumbres de la sociedad helena, comparándolos con los de las sociedades actuales, valorando las adaptaciones y los cambios experimentados y favoreciendo el desarrollo de una cultura compartida."
+                },
+                {
+                    "code": "CE4.2",
+                    "description": "Debatir sobre la importancia, evolución, asimilación o cuestionamiento de diferentes aspectos del legado griego en nuestra sociedad, mediando entre posturas, seleccionando y contrastando información."
+                },
+                {
+                    "code": "CE4.3",
+                    "description": "Investigar de manera progresivamente autónoma aspectos del legado de la civilización griega en el ámbito personal, religioso y sociopolítico localizando, seleccionando, contrastando y reelaborando información procedente de diferentes fuentes, calibrando su fiabilidad y pertinencia y respetando los principios de rigor y propiedad intelectual."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Valorar críticamente el patrimonio histórico, arqueológico, artístico y",
+            "description": "Valorar críticamente el patrimonio histórico, arqueológico, artístico y cultural heredado de la civilización griega, promoviendo su sostenibilidad y reconociéndolo como producto de la creación humana y como testimonio de la historia, para explicar el…",
+            "criterios": [
+                {
+                    "code": "CE3.3",
+                    "description": "Investigar, de manera guiada, el patrimonio histórico, arqueológico, artístico y cultural heredado de la civilización griega, actuando de forma adecuada, empática y respetuosa e interesándose por los procesos de preservación y por aquellas actitudes cívicas que aseguran su sostenibilidad."
+                },
+                {
+                    "code": "CE4.4",
+                    "description": "Identificar y explicar el legado material e inmaterial de la civilización griega como fuente de inspiración, analizando producciones culturales y artísticas posteriores a partir de criterios dados."
+                },
+                {
+                    "code": "CE4.5",
+                    "description": "Investigar, de manera guiada, el patrimonio histórico, arqueológico, artístico y cultural heredado de la civilización griega, actuando de forma adecuada, empática y respetuosa e interesándose por los procesos de preservación y por aquellas actitudes cívicas que aseguran su sostenibilidad."
+                },
+                {
+                    "code": "CE4.6",
+                    "description": "Explorar el legado griego en el entorno del alumnado a partir de criterios dados, aplicando los conocimientos adquiridos y reflexionando sobre las implicaciones de sus distintos usos, dando ejemplos de la persistencia de la Antigüedad clásica en su vida cotidiana y presentando los resultados a través de diferentes soportes."
+                }
+            ]
+        }
+    ]
+}

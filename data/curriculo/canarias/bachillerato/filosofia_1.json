@@ -1,0 +1,117 @@
+{
+    "community": "canarias",
+    "stage": "bachillerato",
+    "decree": "Decreto 73\/2023, de 13 de abril",
+    "subject": "filosofia",
+    "subject_name": "Filosofía",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "(c1) La filosofía nace del asombro y la admiración y se materializa en forma de",
+            "description": "(c1) La filosofía nace del asombro y la admiración y se materializa en forma de preguntas radicales, universales y últimas. El reconocimiento de dichas cuestiones en los propios textos para su identificación, razonamiento y reflexión es central, y si…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analiza la radicalidad de problemas filosóficos reformulándolos a partir de textos y otras expresiones culturales."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "(c2) Para la puesta en práctica de las habilidades fundamentales para la",
+            "description": "(c2) Para la puesta en práctica de las habilidades fundamentales para la investigación filosófica es imprescindible, en el desarrollo de esta competencia, el manejo de recursos que impliquen la elección de criterios y el empleo de técnicas y procedim…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Aplicar procedimientos básicos de investigación filosófica: identificar fuentes fiables, buscar, organizar, analizar, interpretar, evaluar, producir y comunicar información."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "(c3) En el ámbito filosófico hallamos específicamente los elementos",
+            "description": "(c3) En el ámbito filosófico hallamos específicamente los elementos descriptivos y explicativos para la identificación, uso y desarrollo de las reglas básicas del pensamiento lógico tanto formal como informal.",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Producir y evaluar discursos argumentativos orales y escritos sobre problemas filosóficos aplicando normas lógicas y retóricas."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Detectar y explicar falacias y sesgos en argumentos para evitar dogmatismos y opiniones sesgadas."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "(c4) El carácter dialógico del saber filosófico se revela desde sus inicios y,",
+            "description": "(c4) El carácter dialógico del saber filosófico se revela desde sus inicios y, aunque también la filosofía sea entendida como contemplación o especulación racional, el discurso oral empleado en la conversación y el diálogo es la pieza fundamental par…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Participar en diálogos filosóficos respetuosos y críticos para contrastar ideas y ejercer ciudadanía activa."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "(c5) El carácter abierto, plural y radical de la actividad filosófica permite",
+            "description": "(c5) El carácter abierto, plural y radical de la actividad filosófica permite establecer diferencias con otras formas de conocimiento. Con el desarrollo de esta competencia específica el alumnado, acostumbrado a asumir como verdadero lo que ha sido d…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Analizar tesis filosóficas opuestas y elaborar una posición compleja y no dogmática."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "(c6) No puede darse un verdadero diálogo filosófico y un cuestionamiento",
+            "description": "(c6) No puede darse un verdadero diálogo filosófico y un cuestionamiento profundo de los supuestos subyacentes en las ideas acerca de la realidad, la sociedad o el ser humano sin el conocimiento de las más importantes y diversas doctrinas aportadas p…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Analizar ideas filosóficas en textos diversos y relacionarlas con experiencias y acontecimientos actuales."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Aplica y analiza críticamente ideas filosóficas de pensadores clave en contextos de indagación."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "(c7) Esta competencia específica enseña a pensar de una forma más global, a",
+            "description": "(c7) Esta competencia específica enseña a pensar de una forma más global, a establecer vínculos entre los elementos de un sistema, contribuyendo así a la comprensión del carácter universal de cuestiones fundamentales acerca de la naturaleza humana, e…",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Analizar problemas complejos actuales y fundamentales de forma interdisciplinar y crítica, integrando conceptos de distintos saberes desde la filosofía."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "(c8) La actividad filosófica no se agota en su vertiente teórica de comprensión",
+            "description": "(c8) La actividad filosófica no se agota en su vertiente teórica de comprensión de los grandes interrogantes en torno al sentido y valor de nuestra existencia, la naturaleza de lo real, las cuestiones de carácter ontológico en general y los fundament…",
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Analizar problemas éticos y políticos actuales mediante argumentación y diálogo para desarrollar juicio propio."
+                }
+            ]
+        },
+        {
+            "code": "CE9",
+            "name": "(c9) Con esta competencia el desarrollo de la sensibilidad y del valor de lo",
+            "description": "(c9) Con esta competencia el desarrollo de la sensibilidad y del valor de lo estético no solamente forman parte de la formación de la personalidad, sino que ha sido tema de la reflexión filosófica. El arte en su vertiente conceptual ha servido para l…",
+            "criterios": [
+                {
+                    "code": "9.1",
+                    "description": "Analizar problemas estéticos equilibrando razón y emoción, reflexionando sobre arte e imágenes contemporáneas."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "community": "cataluna",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "literatura_dramatica",
+    "subject_name": "Literatura Dramática",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Llegir obres de la literatura dramàtica o veure’n la posada en escena, atenent",
+            "description": "Llegir obres de la literatura dramàtica o veure’n la posada en escena, atenent tant les relacions internes dels elements constitutius del gènere i les seves funcions en les obres com les relacions externes de les obres amb el seu context de producció…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Explica y argumenta la interpretación de obras teatrales analizando sus elementos, contexto y tradición, con metalenguaje y juicios estéticos."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Interpretar en voz alta y en grupo fragmentos teatrales, poniendo énfasis en la configuración de escenas, emociones y elementos prosódicos."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Llegir o veure en escena de manera autònoma obres rellevants de la literatura",
+            "description": "Llegir o veure en escena de manera autònoma obres rellevants de la literatura dramàtica com a font de plaer i coneixement, seleccionar amb criteri propi i amb la consulta de recomanacions especialitzades aquelles que s’ajusten millor als gustos, inte…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Interpretar obras dramáticas atendiendo a aspectos temáticos, de género, estructura y estilo, y conectándolas con otras experiencias artísticas."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Seleccionar de forma autónoma diversas formas de acceso a la literatura dramática para enriquecer la identidad lectora y teatral."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Participar en conversaciones literarias compartiendo experiencias de lectura y asistencia teatral con metalenguaje."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Establir vincles entre obres dramàtiques de diferents èpoques, contextos i",
+            "description": "Establir vincles entre obres dramàtiques de diferents èpoques, contextos i llenguatges artístics, per constatar l’existència d’universals temàtics, de tipologies de personatges i de vies formals recurrents al llarg de la història, i reconèixer-ne i c…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Comparar textos teatrales entre sí o con adaptaciones, argumentando oralmente semejanzas y diferencias temáticas, formales y valores éticos\/estéticos."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Elaborar un proyecto de investigación que vincule obras dramáticas con sus puestas en escena u otras manifestaciones artísticas, mostrando respuesta personal."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Crear una exposición multimodal que contextualice las obras y ofrezca una visión global de la literatura dramática universal."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Emprar les capacitats expressives i creatives necessàries, utilitzant els",
+            "description": "Emprar les capacitats expressives i creatives necessàries, utilitzant els elements que configuren el gènere, així com diferents tècniques que componen l’acció dramàtica, el disseny de personatges i la configuració de situacions i escenes, per recrear…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Crear textos teatrales originales aplicando las convenciones del género (diálogo, acotaciones) y elementos escénicos."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Participar en la construcció d’un cànon literari dramàtic universal que integri",
+            "description": "Participar en la construcció d’un cànon literari dramàtic universal que integri la perspectiva d’experiència de les dones a través de la lectura d’obres teatrals d’escriptores o personatges femenins essencials i que superi els marcs de la cultura occ…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Investigar sobre autoras, personajes femeninos u obras no occidentales para desarrollar una mirada crítica y diversa del canon dramático."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Elaborar comentarios críticos o participar en debates sobre obras teatrales incorporando perspectiva de género y cuestionando el canon occidental."
+                }
+            ]
+        }
+    ]
+}

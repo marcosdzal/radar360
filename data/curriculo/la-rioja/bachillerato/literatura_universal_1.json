@@ -1,0 +1,73 @@
+{
+    "community": "la-rioja",
+    "stage": "bachillerato",
+    "decree": "Decreto 22\/2022, de 27 de julio",
+    "subject": "literatura_universal",
+    "subject_name": "Literatura Universal",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Leer, interpretar y valorar clásicos de la literatura universal atendiendo",
+            "description": "Leer, interpretar y valorar clásicos de la literatura universal atendiendo tanto a las relaciones internas de los elementos constitutivos del género y sus funciones en las obras como a las relaciones externas de las obras con su contexto de producció…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Explica y argumenta la interpretación de obras analizando relaciones internas y externas, usando metalenguaje y juicios estéticos."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Crear textos literarios propios a partir de la lectura de obras, aplicando convenciones de género y estilo en distintos soportes."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Leer de manera autónoma clásicos de la literatura universal como fuente de",
+            "description": "Leer de manera autónoma clásicos de la literatura universal como fuente de placer y conocimiento, compartiendo experiencias de lectura, para construir la propia identidad lectora y para disfrutar de la dimensión social de la lectura. Desarrollar esta…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Elaborar una interpretación personal de una obra universal, analizando aspectos temáticos, estructurales y estéticos, y vinculándola con otras experiencias artísticas."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Explorar la cultura literaria mediante un itinerario personal y compartir experiencias de lectura usando metalenguaje."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Establecer vínculos entre obras de diferentes épocas, géneros y lenguajes artísticos",
+            "description": "Establecer vínculos entre obras de diferentes épocas, géneros y lenguajes artísticos, reconociendo semejanzas y diferencias en función de sus respectivos contextos de producción y de la interrelación entre literatura y sociedad, para constatar la exi…",
+            "criterios": [
+                {
+                    "code": "3.2",
+                    "description": "Elaborar un proyecto de investigación que compare clásicos literarios con otras obras artísticas actuales, mostrando una respuesta personal argumentada."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Consolidar un marco de referencias compartidas, partiendo partir del",
+            "description": "Consolidar un marco de referencias compartidas, partiendo partir del conocimiento de los rasgos de los principales movimientos estéticos y algunas de las obras literarias más relevantes del patrimonio universal, para conformar un mapa cultural en el …",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Los alumnos elaboran una exposición multimodal que relaciona los textos leídos con su contexto histórico-cultural y movimientos artísticos."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Participar en la construcción de un canon literario universal que integre la",
+            "description": "Participar en la construcción de un canon literario universal que integre la perspectiva de experiencia de las mujeres a través de la lectura de obras de escritoras y que supere los marcos de la cultura occidental, para desarrollar el pensamiento crí…",
+            "criterios": [
+                {
+                    "code": "5.2",
+                    "description": "El alumnado comenta y debate textos literarios integrando perspectiva de género y superando el canon occidental."
+                }
+            ]
+        }
+    ]
+}

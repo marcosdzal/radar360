@@ -1,0 +1,110 @@
+{
+    "community": "madrid",
+    "stage": "eso",
+    "decree": "Decreto 65/2022, de 20 de julio",
+    "subject": "expresion_artistica",
+    "subject_name": "Expresión Artística",
+    "grade": 4,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Analizar manifestaciones artísticas, contextualizándolas,",
+            "description": "Analizar manifestaciones artísticas, contextualizándolas, describiendo sus aspectos esenciales y valorando el proceso de creación y el resultado final, para educar la mirada, alimentar el imaginario, reforzar la confianza y ampliar las posibilidades de disfrute del patrimonio cultural y artístico.",
+            "descriptors": [
+                "CCL2",
+                "CCL3",
+                "CP3",
+                "CD1",
+                "CD2",
+                "CPSAA1",
+                "CPSAA3",
+                "CC1",
+                "CCEC1",
+                "CCEC2"
+            ],
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar manifestaciones artísticas de diferentes épocas y culturas contextualizándolas, describiendo sus aspectos esenciales, valorando el proceso de creación del resultado final, y evidenciando una actitud de apertura, interés y respeto en su recepción."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Valorar críticamente los hábitos, los gustos y los referentes artísticos de diferentes épocas y culturas, reflexionando sobre su evolución y sobre su relación con los del presente."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Explorar las posibilidades expresivas de diferentes",
+            "description": "Explorar las posibilidades expresivas de diferentes técnicas gráfico-plásticas, empleando distintos medios, soportes, herramientas y lenguajes, para incorporarlas al repertorio personal de recursos y desarrollar el criterio de selección de las más adecuadas a cada necesidad o intención.",
+            "descriptors": [
+                "CD2",
+                "CPSAA1",
+                "CC1",
+                "CC3",
+                "CCEC3",
+                "CCEC4"
+            ],
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Participar, con iniciativa, confianza y creatividad, en la exploración de diferentes técnicas gráfico-plásticas, empleando herramientas, medios, soportes y lenguajes."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Elaborar producciones gráfico-plásticas de forma creativa, determinando las intenciones expresivas y seleccionando con corrección las herramientas, medios, soportes y lenguajes más adecuados de entre los que conforman el repertorio personal de recursos."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Explorar las posibilidades expresivas de diferentes medios,",
+            "description": "Explorar las posibilidades expresivas de diferentes medios, técnicas y formatos audiovisuales, decodificando sus lenguajes, identificando las herramientas y distinguiendo sus fines, para incorporarlos al repertorio personal de recursos y desarrollar el criterio de selección de los más adecuados a cada necesidad o intención.",
+            "descriptors": [
+                "CD5",
+                "CPSAA1",
+                "CPSAA3",
+                "CCEC3",
+                "CCEC4"
+            ],
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Participar, con iniciativa, confianza y creatividad, en la exploración de diferentes medios, técnicas y formatos audiovisuales, decodificando sus lenguajes, identificando las herramientas y distinguiendo sus fines."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Realizar producciones audiovisuales, individuales o colaborativas, asumiendo diferentes funciones; incorporando el uso de las tecnologías digitales con una intención expresiva; buscando un resultado final ajustado al proyecto preparado previamente; y seleccionando y empleando, con corrección y de forma creativa, las herramientas y medios disponibles más adecuados."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Crear producciones artísticas, realizadas con diferentes",
+            "description": "Crear producciones artísticas, realizadas con diferentes técnicas y herramientas, a partir de un motivo o intención previos, adaptando el diseño y el proceso a las necesidades e indicaciones de realización y teniendo en cuenta las características del público destinatario, para compartirlas y valorar las oportunidades que puedan derivarse de esta actividad.",
+            "descriptors": [
+                "CCL1",
+                "STEM3",
+                "CD3",
+                "CPSAA3",
+                "CPSAA5",
+                "CE3",
+                "CCEC4"
+            ],
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Crear un producto artístico, diseñando las fases del proceso y seleccionando las técnicas y herramientas más adecuadas para conseguir un resultado adaptado a una intención y a un público determinados."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Exponer el resultado final de la creación de un producto artístico, individual o grupal, poniendo en común y valorando críticamente el desarrollo de su elaboración, las dificultades encontradas, los procesos realizados y los logros alcanzados."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Identificar oportunidades relacionadas con el ámbito artístico, comprendiendo su valor añadido y expresando la opinión personal de forma razonada y respetuosa."
+                }
+            ]
+        }
+    ]
+}

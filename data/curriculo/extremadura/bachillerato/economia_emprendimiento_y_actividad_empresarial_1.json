@@ -1,0 +1,100 @@
+{
+    "community": "extremadura",
+    "stage": "bachillerato",
+    "decree": "Decreto 113\/2022, de 25 de agosto",
+    "subject": "economia_emprendimiento_y_actividad_empresarial",
+    "subject_name": "Economía, Emprendimiento y Actividad Empresarial",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "A nalizar de forma crítica y reflexiva las aportaciones de la ciencia",
+            "description": "A nalizar de forma crítica y reflexiva las aportaciones de la ciencia económica, valorando su interrelación con otras disciplinas, para entender la realidad económica desde una visión integral y actuar como ciudadanos responsables, autónomos y compro…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar críticamente las aportaciones de la economía relacionándolas con otras disciplinas para una visión integral."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Valorar su interrelación con otras disciplinas de modo que se adquiera una visión integral de la misma y se asuman responsabilidades y compromisos."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Comprender y valorar el comportamiento tanto individual (microeconómico) como",
+            "description": "Comprender y valorar el comportamiento tanto individual (microeconómico) como colectivo (macroeconómico) en la toma de decisiones económicas, desde un enfoque interdisciplinar, evaluando el problema de la escasez y sus efectos, para comprender los ca…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Interpretar, desde un enfoque interdisciplinar, los cambios económicos y sociales derivados de la escasez y proponer actuaciones consecuentes."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Entender los procesos de toma de decisiones en ambientes de certeza, riesgo o incertidumbre, y cómo los distintos estados de la naturaleza pueden afectar a dicha toma de decisiones."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Analizar los Objetivos de Desarrollo Sostenible (ODS) con ayuda de herramientas",
+            "description": "Analizar los Objetivos de Desarrollo Sostenible (ODS) con ayuda de herramientas económicas y empresariales, en casos referidos a situaciones reales, potenciando una actitud sensible y un comportamiento responsable que contribuya a dar respuesta a dic…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Explicar cómo los ODS se relacionan con los aprendizajes de economía mediante el estudio de casos, mostrando actitudes responsables."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Analizar problemas globales y locales y proponer soluciones a través de herramientas económicas y empresariales."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "I dentificar y valorar habilidades y competencias que caracterizan a las",
+            "description": "I dentificar y valorar habilidades y competencias que caracterizan a las personas emprendedoras dentro de la realidad actual, analizando las formas de afrontar los retos, para reconocer y potenciar las destrezas propias y aplicarlas a situaciones rea…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Identificar y potenciar las propias destrezas emprendedoras mediante el análisis de perfiles reales."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Aplicar las propias destrezas emprendedoras para afrontar retos cotidianos sencillos, demostrando iniciativa y resolución práctica."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Analizar la evolución de las estrategias empresariales, distinguiendo los",
+            "description": "Analizar la evolución de las estrategias empresariales, distinguiendo los nuevos modelos de negocio desarrollados por entidades vinculadas a diferentes ámbitos y sectores, reconociendo las tendencias, valorando con sentido crítico su actividad en la …",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Analizar tendencias y filosofía empresarial, evaluando críticamente modelos de negocio y su evolución."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Comparar modelos de negocio innovadores de distintos sectores evaluando sus posibilidades y limitaciones."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Analizar la transformación económica y social y sus consecuencias",
+            "description": "Analizar la transformación económica y social y sus consecuencias, reconociendo la importancia que tienen la innovación y la revolución digital en la actividad empresarial, para comprender las respuestas que las empresas ofrecen a los desafíos actual…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Analizar cómo las empresas responden a los desafíos actuales a partir de la transformación económica y social."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Propone soluciones a desafíos actuales analizando transformación económica y digital en empresas."
+                }
+            ]
+        }
+    ]
+}

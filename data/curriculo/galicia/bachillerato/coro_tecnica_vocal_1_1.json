@@ -1,0 +1,86 @@
+{
+    "community": "galicia",
+    "stage": "bachillerato",
+    "decree": "Decreto 157\/2022, de 15 de septiembre",
+    "subject": "coro_tecnica_vocal_1",
+    "subject_name": "Coro y Técnica Vocal I",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Escuchar y visionar de forma activa piezas vocales de distintos estilos,",
+            "description": "Escuchar y visionar de forma activa piezas vocales de distintos estilos, géneros y culturas, analizando los rasgos de estilo y las características de la interpretación, para desarrollar el criterio estético, estimular el hábito de escucha activa y am…",
+            "criterios": [
+                {
+                    "code": "CE1.1",
+                    "description": "Analizar piezas vocales explicando de manera razonada las cualidades que las hacen afines a un estilo, a un género o a una cultura, así como otras características de la interpretación y de la puesta en escena."
+                },
+                {
+                    "code": "CE1.2",
+                    "description": "Expresarse con corrección, usando un vocabulario musical específico sobre conceptos de lenguaje musical, aspectos vocales y corales, para realizar juicios de valor objetivos sobre piezas vocales sencillas e interpretaciones de diferentes épocas y estilos."
+                },
+                {
+                    "code": "CE1.3",
+                    "description": "Apreciar la importancia del silencio, la concentración y la atención como premisas básicas para realizar y trabajar la escucha activa."
+                },
+                {
+                    "code": "CE2.4",
+                    "description": "Expresarse con un vocabulario técnico apropiado en lo referido tanto al canto, a la técnica vocal como al lenguaje musical."
+                },
+                {
+                    "code": "CE3.1",
+                    "description": "Reconocer las intencionalidades de la práctica coral y el canto, tanto en la música de nuestra tradición occidental como en la de otras culturas, distinguiendo y valorando las características de sus lenguajes."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Expresarse vocal y corporalmente",
+            "description": "Expresarse vocal y corporalmente, de forma individual y colectiva, a través de la aplicación de diferentes técnicas y la realización de actividades de improvisación, para reforzar la autoestima y la autoconfianza y desarrollar la voz y el cuerpo como…",
+            "criterios": [
+                {
+                    "code": "CE2.2",
+                    "description": "Relacionar la interpretación con la expresión de sentimientos y emociones, aplicando técnicas vocales y reforzando la autoestima y la confianza en uno mismo."
+                },
+                {
+                    "code": "CE3.6",
+                    "description": "Reconocer la importancia de la improvisación grupal, percusión corporal, el desarrollo de la memoria y la utilización de diferentes técnicas coreográficas para crear un proyecto musical coral propio y original."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Interpretar piezas de diferentes estilos y géneros musicales, participando en distintas formaciones vocales",
+            "description": "Interpretar piezas de diferentes estilos y géneros musicales, participando en distintas formaciones vocales, para potenciar una comunicación artística rica y el desarrollo de valores colectivos. - La interpretación de piezas de diferentes repertorios…",
+            "criterios": [
+                {
+                    "code": "CE2.3",
+                    "description": "Participar en las actividades de técnica vocal, con actitud de respeto hacia las producciones de los demás, demostrando interés por mejorar, escucha activa y una expresión vocal y corporal adecuada, con especial atención a la calidad del sonido, precisión técnica y expresividad artística."
+                },
+                {
+                    "code": "CE3.2",
+                    "description": "Participar como intérprete de coro, demostrando eficacia, escucha activa y una expresión vocal y corporal adecuada al servicio del conjunto y a las directrices de la dirección, reconociendo las indicaciones, gestos básicos y pautas marcadas por la directora o el director."
+                },
+                {
+                    "code": "CE3.5",
+                    "description": "Valorar la práctica vocal de conjunto como forma de expresión musical y disfrute, utilizando fuentes musicales de notación convencional y no convencional como apoyo a la interpretación."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Participar en proyectos escénicos, realizando actuaciones y asumiendo tareas propias de la producción",
+            "description": "Participar en proyectos escénicos, realizando actuaciones y asumiendo tareas propias de la producción, para favorecer el crecimiento artístico personal, enriquecer el entorno cultural e identificar oportunidades de desarrollo personal, social, académ…",
+            "criterios": [
+                {
+                    "code": "CE3.3",
+                    "description": "Mostrar en la actuación una actitud escénica adecuada, cumpliendo las normas de comportamiento grupales y respetando al público y sus opiniones."
+                },
+                {
+                    "code": "CE3.4",
+                    "description": "Participar activamente en el montaje de proyectos escénicos con responsabilidad y conciencia de grupo, integrando de forma abierta los diferentes conocimientos adquiridos previamente sobre la voz y el canto, para crear proyectos innovadores que utilicen diversos soportes audiovisuales, relacionando inclusivamente las oportunidades artísticas actuales mediante el conocimiento de iniciativas musicales y su impacto social y profesional."
+                }
+            ]
+        }
+    ]
+}

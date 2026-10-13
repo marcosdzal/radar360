@@ -1,0 +1,109 @@
+{
+    "community": "extremadura",
+    "stage": "bachillerato",
+    "decree": "Decreto 113\/2022, de 25 de agosto",
+    "subject": "fundamentos_artisticos",
+    "subject_name": "Fundamentos Artísticos",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Interpretar los cambios en la concepción del arte y su función a lo largo de la",
+            "description": "Interpretar los cambios en la concepción del arte y su función a lo largo de la historia, analizando sus diferencias y evolución, y argumentando de forma abierta y respetuosa, desde su propia identidad, el valor social del patrimonio cultural y artís…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Explicar cómo la diversidad enriquece el arte analizando obras de distintas épocas y culturas en su contexto."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Argumentar la evolución del arte en la historia comparando significados entre culturas y analizando semejanzas y diferencias."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Diferenciar las diversas funciones del arte, analizando de manera desprejuiciada producciones artísticas en distintos contextos."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Explicar la función social del arte, profundizando con respeto en las singularidades del patrimonio cultural y artístico a través de obras de diferentes épocas y estilos."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "I dentificar los diferentes lenguajes y claves artísticas",
+            "description": "I dentificar los diferentes lenguajes y claves artísticas, aplicando métodos de análisis formal, funcional y semántico y alcanzando una conciencia sensible tanto a la percepción de obra artística como al deleite estético resultante. Cada estilo, tend…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Identificar las funciones del arte a lo largo de la historia analizando su evolución sin prejuicios a partir del estudio de obras de distintos estilos y épocas."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Explica singularidades de manifestaciones artísticas relacionándolas con su función de forma crítica y respetuosa."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Apreciar la expresividad y el poder comunicativo de diferentes obras artísticas",
+            "description": "Apreciar la expresividad y el poder comunicativo de diferentes obras artísticas realizadas en distintos medios y soportes, de cualquier estilo o periodo, identificando tanto las experiencias vitales propias y ajenas como el contexto social, geográfic…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Identifica los elementos de una obra y justifica su relación con la época, artista o movimiento."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Analizar obras artísticas describiendo forma, función y significado con vocabulario específico."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Valorar el lenguaje artístico como un recurso potenciador del crecimiento personal y la autoestima, mediante el análisis y la explicación de producciones artísticas de cualquier naturaleza, época y estilo."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Explicar las diferentes posibilidades expresivas del arte y su poder de transmisión de ideas, sentimientos y emociones, explicando obras de artistas de cualquier época y estilo, así como vinculándolas de manera constructiva a experiencias vitales propias o ajenas."
+                },
+                {
+                    "code": "3.5",
+                    "description": "Participar activamente en el análisis de obras artísticas de periodos y estilos diversos, conectando creativamente experiencias vitales propias y ajenas, con la forma, el significado y los procesos de creación de producciones artísticas concretas."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "G estionar sentimientos, emociones e ideas propias, interpretando creaciones",
+            "description": "G estionar sentimientos, emociones e ideas propias, interpretando creaciones artísticas, desarrollando la sensibilidad y el sentido crítico y valorando, sin prejuicios ni estereotipos, la diversidad de opiniones y percepciones ante las producciones a…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Analizar obras artísticas relacionándolas con su contexto social, geográfico e histórico y con otras épocas."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Comunicar conclusiones de investigaciones sobre obras artísticas, relacionándolas con su contexto y usando medios analógicos o digitales."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "P articipar en proyectos culturales y artísticos, individuales y colectivos,",
+            "description": "P articipar en proyectos culturales y artísticos, individuales y colectivos, con un uso sostenible de diferentes medios, soportes y técnicas artísticas, interrelacionando los estilos y corrientes artísticas vinculadas a la propuesta con la integració…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Explicar posibilidades expresivas del arte y su poder transmisor analizando interpretaciones diversas."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Analizar obras artísticas de distintos periodos conectándolas con vivencias personales y valorando su impacto en la creatividad y autoestima."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Tomar parte en las diferentes fases de un proyecto relacionado con el arte y la cultura, respondiendo activamente a la propuesta al comprender las oportunidades personales, sociales e inclusivas que el proceso le ofrece."
+                }
+            ]
+        }
+    ]
+}

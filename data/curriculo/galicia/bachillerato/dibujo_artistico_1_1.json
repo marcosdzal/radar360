@@ -1,0 +1,205 @@
+{
+    "community": "galicia",
+    "stage": "bachillerato",
+    "decree": "Decreto 157\/2022, de 15 de septiembre",
+    "subject": "dibujo_artistico_1",
+    "subject_name": "Dibujo Artístico I",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Comprender el dibujo como forma de conocimiento, comunicación y expresión,",
+            "description": "Comprender el dibujo como forma de conocimiento, comunicación y expresión, comparando el uso que se hace de él en manifestaciones culturales y artísticas de diferentes épocas, lugares y ámbitos disciplinares y valorando la diversidad de significados …",
+            "criterios": [
+                {
+                    "code": "CE1.1",
+                    "description": "Identificar el dibujo como forma de conocimiento, comunicación y expresión, reflexionando con iniciativa sobre su presencia en distintas manifestaciones culturales y artísticas y comparando de forma autónoma su uso en estas."
+                },
+                {
+                    "code": "CE1.2",
+                    "description": "Comparar las múltiples funciones del dibujo a través del análisis autónomo de su uso en producciones de distintos ámbitos disciplinares."
+                },
+                {
+                    "code": "CE1.3",
+                    "description": "Valorar la pluralidad cultural y artística relacionándola con la libertad de expresión, argumentando la opinión propia de forma activa, comprometida y respetuosa, y analizando los usos del dibujo en diversas manifestaciones artísticas."
+                },
+                {
+                    "code": "CE5.1",
+                    "description": "Comparar las múltiples funciones del dibujo y de la pintura digital a través del análisis autónomo de su uso en producciones de distintos ámbitos disciplinares."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Analizar con actitud crítica y reflexiva, utilizando la terminología específica",
+            "description": "Analizar con actitud crítica y reflexiva, utilizando la terminología específica adecuada, producciones plásticas de distintas épocas y estilos artísticos, reconociendo el lenguaje, las técnicas y los procedimientos, la función significativa y la expr…",
+            "criterios": [
+                {
+                    "code": "CE1.4",
+                    "description": "Analizar el lenguaje, las técnicas y los procedimientos del dibujo en diferentes propuestas plásticas, entendiendo los cambios que se produjeron en las tendencias a lo largo de la historia y utilizando la terminología específica más adecuada."
+                },
+                {
+                    "code": "CE1.5",
+                    "description": "Analizar distintas manifestaciones culturales y artísticas, comprendiendo la función que desempeña el dibujo en estas y valorando el enriquecimiento que suponen para la sociedad los retos creativos y estéticos."
+                },
+                {
+                    "code": "CE2.1",
+                    "description": "Analizar el lenguaje, los materiales, las técnicas y los procedimientos del dibujo en diferentes propuestas plásticas, entendiendo los cambios que se produjeron en su uso a lo largo de la historia y utilizando la terminología específica más adecuada."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Analizar, interpretar y representar la realidad, utilizando los recursos elementales y la sintaxis del dibujo",
+            "description": "Analizar, interpretar y representar la realidad, utilizando los recursos elementales y la sintaxis del dibujo, para ofrecer una visión propia de esa realidad, potenciar la sensibilidad y favorecer el desarrollo personal y artístico. - La acción de di…",
+            "criterios": [
+                {
+                    "code": "CE2.2",
+                    "description": "Experimentar con sensibilidad las posibilidades expresivas de los recursos elementales del dibujo (punto, línea, forma) y de su sintaxis, mejorando el proceso de creación gráfica."
+                },
+                {
+                    "code": "CE2.3",
+                    "description": "Analizar, interpretar y representar gráficamente la realidad mediante esbozos y croquis, utilizando las técnicas y herramientas adecuadas y desarrollando una expresión propia, espon tánea y creativa."
+                },
+                {
+                    "code": "CE3.1",
+                    "description": "Experimentar con sensibilidad las posibilidades expresivas de los recursos elementales del dibujo, la composición y los sistemas de ordenación en la sintaxis visual, mejorando el proceso de creación gráfica."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Experimentar con diferentes materiales, técnicas y soportes, incluido el propio",
+            "description": "Experimentar con diferentes materiales, técnicas y soportes, incluido el propio cuerpo, y analizar la importancia de este en las propuestas artísticas contemporáneas para descubrir el gesto del dibujo y la apropiación del espacio como medios de autoe…",
+            "criterios": [
+                {
+                    "code": "CE2.4",
+                    "description": "Aportar una huella y un gesto propios a la realización de dibujos combinando de manera adecuada el uso tradicional de diferentes materiales, soportes y técnicas, con una manipulación personal y creativa."
+                },
+                {
+                    "code": "CE3.2",
+                    "description": "Realizar composiciones bidimensionales, figurativas o abstractas, explorando la percepción y la ordenación del espacio e indagando sobre la representación del cuerpo humano y su posible utilización como soporte o como herramienta gráfica."
+                },
+                {
+                    "code": "CE5.2",
+                    "description": "Aportar una huella y un hacer propios a la realización de producciones gráficas, combinando el uso de las tecnologías y de las herramientas de edición digitales, de forma personal e innovadora."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Utilizar la práctica del dibujo como medio de expresión de ideas, opiniones,",
+            "description": "Utilizar la práctica del dibujo como medio de expresión de ideas, opiniones, sentimientos y emociones, investigando los referentes culturales de las nuevas creaciones como parte inherente a estas, para ampliar el repertorio artístico y enriquecer las…",
+            "criterios": [
+                {
+                    "code": "CE1.6",
+                    "description": "Identificar los referentes artísticos de una obra determinada, describiendo la influencia que ejercen y las relaciones que se establecen entre ellos y en diferentes ámbitos disciplinares."
+                },
+                {
+                    "code": "CE1.7",
+                    "description": "Expresar ideas, opiniones, sentimientos y emociones, a través de creaciones gráficas y dibujos propios, incorporando, de forma guiada, procedimientos o técnicas utilizados en referentes artísticos de interés para el alumnado."
+                },
+                {
+                    "code": "CE4.1",
+                    "description": "Identificar los referentes artísticos de una obra determinada con relación al uso de la luz y del color que se hace en ella, describiendo la influencia que ejercen y las relaciones que se establecen."
+                },
+                {
+                    "code": "CE4.2",
+                    "description": "Expresar ideas, sentimientos y emociones a través de creaciones gráficas y dibujos propios incorporando, de forma guiada, procedimientos o técnicas de claroscuro y color utilizados en referentes artísticos de interés para el alumnado."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Realizar producciones gráficas expresivas y creativas valorando la importancia",
+            "description": "Realizar producciones gráficas expresivas y creativas valorando la importancia de los elementos del lenguaje gráfico y su organización en la definición de un estilo personal, para progresar en la ejecución técnica y en las cualidades comunicativas y …",
+            "criterios": [
+                {
+                    "code": "CE2.5",
+                    "description": "Expresar, a través del trazo y del gesto del dibujo, una visión propia de la realidad o del mundo interior, experimentando con los elementos del lenguaje gráfico y con sus formas, signos, posibilidades expresivas y efectos visuales."
+                },
+                {
+                    "code": "CE3.3",
+                    "description": "Comprender y emplear con intenciones comunicativas o expresivas los mecanismos de la percepción visual, sus leyes y principios, así como la composición y la ordenación de elementos en el espacio mostrando interés en sus aplicaciones."
+                },
+                {
+                    "code": "CE4.3",
+                    "description": "Analizar y emplear con intenciones comunicativas o expresivas los mecanismos de la percepción visual referidos a la luz, al claroscuro y al color y sus leyes y principios, mostrando interés en sus aplicaciones."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Experimentar con las técnicas propias del dibujo identificando las",
+            "description": "Experimentar con las técnicas propias del dibujo identificando las herramientas, medios y soportes necesarios y analizando su posible impacto ambiental, para integrarlas de forma creativa y responsable en la realización de producciones gráficas. - Pa…",
+            "criterios": [
+                {
+                    "code": "CE2.6",
+                    "description": "Proponer distintas soluciones gráficas a una misma propuesta visual, utilizando diferentes niveles de iconicidad, identificando las herramientas, medios y soportes necesarios, y justificando razonada y respetuosamente la elección realizada."
+                },
+                {
+                    "code": "CE4.4",
+                    "description": "Seleccionar y utilizar con destreza las herramientas, medios y soportes más adecuados a la intención creativa empleando los valores expresivos del claroscuro y del color en una interpretación gráfica personal de la realidad."
+                },
+                {
+                    "code": "CE5.3",
+                    "description": "Seleccionar y utilizar con destreza las herramientas de edición propias de cada programa de pintura o dibujo digital más adecuadas a la intención creativa, en una interpretación gráfica personal de la realidad."
+                },
+                {
+                    "code": "CE5.4",
+                    "description": "Investigar de forma activa y abierta sobre la presencia de tecnologías digitales en referentes artísticos contemporáneos, integrándolas en el proceso creativo y expresivo propio."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Adaptar los conocimientos y las destrezas adquiridos desarrollando la retentiva",
+            "description": "Adaptar los conocimientos y las destrezas adquiridos desarrollando la retentiva y la memoria visual para responder con creatividad y eficacia a nuevos desafíos de representación gráfica. - La observación consciente del entorno para abstraer y selecci…",
+            "criterios": [
+                {
+                    "code": "CE2.7",
+                    "description": "Representar gráficamente el modelo elegido, seleccionando y abstrayendo sus características más representativas a partir del estudio y del análisis de este."
+                },
+                {
+                    "code": "CE2.8",
+                    "description": "Utilizar el encuadre, el encaje y la perspectiva en la resolución de problemas de representación gráfica, analizando tanto los diferentes volúmenes como el espacio que completa el conjunto."
+                },
+                {
+                    "code": "CE3.4",
+                    "description": "Representar gráficamente el espacio elegido, seleccionando y abstrayendo sus características más representativas a partir del estudio y del análisis de este."
+                },
+                {
+                    "code": "CE3.5",
+                    "description": "Utilizar el encuadre, el encaje y la perspectiva en la resolución de problemas de representación gráfica, analizando los diferentes volúmenes, sus proporciones y posición relativa y también el espacio que completa el conjunto."
+                },
+                {
+                    "code": "CE5.5",
+                    "description": "Representar gráficamente el modelo elegido mediante procedimientos de dibujo digital, seleccionando y abstrayendo sus características más representativas a partir del estudio y del análisis de este."
+                }
+            ]
+        },
+        {
+            "code": "CE9",
+            "name": "Crear proyectos gráficos colaborativos contribuyendo de forma creativa a su",
+            "description": "Crear proyectos gráficos colaborativos contribuyendo de forma creativa a su planificación y realización y adaptando el diseño y el proceso a las características propias de un ámbito disciplinar, para descubrir posibilidades de desarrollo académico y …",
+            "criterios": [
+                {
+                    "code": "CE6.1",
+                    "description": "Planificar proyectos gráficos colaborativos sencillos identificando el ámbito disciplinar en que se desarrollarán, organizando y distribuyendo las tareas de manera adecuada y determinando las diferentes fases del proyecto."
+                },
+                {
+                    "code": "CE6.2",
+                    "description": "Realizar proyectos gráficos colaborativos enmarcados en un ámbito disciplinar concreto utilizando con interés los valores expresivos del dibujo artístico y sus recursos."
+                },
+                {
+                    "code": "CE6.3",
+                    "description": "Analizar las dificultades surgidas en la planificación y realización de proyectos gráficos compartidos, entendiendo este proceso como un instrumento de mejora del resultado final."
+                },
+                {
+                    "code": "CE6.4",
+                    "description": "Identificar posibilidades de desarrollo académico y profesional relacionadas con el dibujo artístico, comprendiendo las oportunidades que ofrece y el valor añadido de la creatividad en los estudios y en el trabajo y expresando la opinión propia de forma razonada y respetuosa."
+                }
+            ]
+        }
+    ]
+}

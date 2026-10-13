@@ -1,0 +1,94 @@
+{
+    "community": "murcia",
+    "stage": "eso",
+    "decree": "",
+    "subject": "digitalizacion",
+    "subject_name": "Digitalización",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Identificar y resolver problemas técnicos sencillos, conectar y configurar dispositivos a redes domésticas",
+            "description": "Identificar y resolver problemas técnicos sencillos, conectar y configurar dispositivos a redes domésticas, aplicando los conocimientos de hardware y sistemas operativos para gestionar las herramientas e instalaciones informáticas y de comunicación d…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Configurar y conectar dispositivos a redes locales cableadas e inalámbricas, asegurando su correcto funcionamiento y comunicación mediante el conocimiento de los protocolos básicos."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Instalar un sistema operativo, preferiblemente en entornos virtuales, y personalizar su interfaz, usuarios y actualizaciones según requerimientos específicos de uso."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Solucionar fallos técnicos básicos en equipos informáticos mediante el análisis de sus componentes, aplicando un método lógico de diagnóstico y mejora del proceso."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Configurar el entorno personal de aprendizaje, interactuando y aprovechando los recursos del ámbito digital",
+            "description": "Configurar el entorno personal de aprendizaje, interactuando y aprovechando los recursos del ámbito digital, para optimizar y gestionar el aprendizaje permanente.",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Organizar y personalizar de forma autónoma las herramientas y recursos digitales propios para facilitar el estudio y la gestión del aprendizaje personal."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Localizar, filtrar y organizar información digital relevante de forma segura y crítica, utilizando herramientas de gestión de contenidos para su posterior uso y aprendizaje."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Diseñar y elaborar contenidos digitales originales o adaptados, utilizando herramientas adecuadas y respetando la propiedad intelectual para generar nuevos conocimientos de forma creativa."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Participar activamente en plataformas educativas y redes de colaboración, compartiendo contenidos de forma respetuosa y adecuada al contexto comunicativo digital."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Desarrollar hábitos que fomenten el bienestar digital aplicando medidas",
+            "description": "Desarrollar hábitos que fomenten el bienestar digital aplicando medidas preventivas y correctivas para proteger dispositivos, datos personales y la propia salud.",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Ajustar la privacidad en redes y entornos de trabajo para proteger los datos personales y gestionar de forma consciente la huella digital generada."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Mantener la seguridad de los dispositivos mediante la gestión de contraseñas robustas y la actualización periódica del software del sistema y herramientas de protección."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Reconocer amenazas digitales como el ciberacoso o el phishing y proponer soluciones adecuadas para proteger la salud física, mental y la seguridad de los datos."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Ejercer una ciudadanía digital crítica conociendo las posibles acciones que",
+            "description": "Ejercer una ciudadanía digital crítica conociendo las posibles acciones que realizar en la red, e identificando sus repercusiones para hacer un uso activo, responsable y ético de la tecnología.",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Utilizar herramientas digitales de forma ética y segura, respetando la propiedad intelectual, las licencias de autor y las normas de cortesía en entornos colaborativos."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Identificar beneficios de la administración y comercio electrónicos, reflexionando sobre las barreras de acceso y la brecha digital que afectan a diversos colectivos."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Analizar críticamente mensajes en medios digitales, identificando sesgos, intencionalidad y veracidad para valorar la libertad de expresión y la responsabilidad en la red."
+                },
+                {
+                    "code": "4.4",
+                    "description": "Evaluar el impacto ambiental y social de la tecnología, considerando la sostenibilidad, la accesibilidad universal y la reducción de la brecha digital en el entorno global."
+                }
+            ]
+        }
+    ]
+}

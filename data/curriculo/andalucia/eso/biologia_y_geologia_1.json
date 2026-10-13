@@ -1,0 +1,128 @@
+{
+    "community": "andalucia",
+    "stage": "eso",
+    "decree": "Real Decreto 217\/2022",
+    "subject": "biologia_y_geologia",
+    "subject_name": "Biología y Geología",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Interpretar y transmitir información y datos científicos, argumentando sobre ellos y utilizando diferentes formatos",
+            "description": "Interpretar y transmitir información y datos científicos, argumentando sobre ellos y utilizando diferentes formatos, para analizar conceptos y procesos de las ciencias biológicas y geológicas.",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Interpretar y analizar información científica en diversos formatos como gráficos, tablas o esquemas para extraer conclusiones razonadas sobre procesos biológicos y geológicos."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Comunicar información sobre procesos biológicos y geológicos de forma estructurada, empleando terminología científica precisa y diversos formatos como tablas, gráficas o modelos digitales."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Explicar procesos naturales mediante la creación de modelos y diagramas, aplicando las fases del diseño de ingeniería para resolver problemas o representar estructuras biológicas y geológicas."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Identificar, localizar y seleccionar información, contrastando su veracidad, organizándose y evaluándola críticamente",
+            "description": "Identificar, localizar y seleccionar información, contrastando su veracidad, organizándose y evaluándola críticamente, para resolver preguntas relacionadas con las ciencias biológicas y geológicas.",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Buscar y organizar información de fuentes fiables para responder preguntas sobre biología y geología, indicando siempre la procedencia de los datos utilizados."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Diferenciar información científica de bulos y pseudociencias en temas de biología y geología, manteniendo una postura crítica y fundamentada ante fuentes no fiables."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Analizar y reconocer el impacto social de la ciencia y el papel de colectivos históricamente invisibilizados, como las mujeres, en el avance del conocimiento científico."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Planificar y desarrollar proyectos de investigación, siguiendo los pasos de las",
+            "description": "Planificar y desarrollar proyectos de investigación, siguiendo los pasos de las metodologías científicas y cooperando, cuando sea necesario, para indagar en aspectos relacionados con las ciencias geológicas y biológicas.",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Formular preguntas investigables y proponer hipótesis coherentes sobre fenómenos naturales, prediciendo resultados que puedan comprobarse mediante la experimentación o la observación científica."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Diseñar experimentos sencillos para comprobar hipótesis sobre fenómenos naturales, definiendo los pasos a seguir, las variables necesarias y el método de recogida de datos."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Ejecutar experimentos sencillos en el laboratorio o campo, registrando datos numéricos o descriptivos mediante el uso correcto de herramientas científicas básicas."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Explicar el significado de los datos obtenidos en investigaciones científicas, empleando gráficas, tablas o cálculos para extraer conclusiones válidas sobre fenómenos naturales."
+                },
+                {
+                    "code": "3.5",
+                    "description": "Trabajar de forma coordinada en equipos de investigación científica, asumiendo roles responsables y respetando la diversidad e igualdad para alcanzar objetivos comunes eficientemente."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Utilizar el razonamiento y el pensamiento computacional, analizando",
+            "description": "Utilizar el razonamiento y el pensamiento computacional, analizando críticamente las respuestas y soluciones y reformulando el procedimiento, si fuera necesario, para resolver problemas o dar explicación a procesos de la vida cotidiana relacionados c…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Explicar procesos naturales o resolver problemas de biología y geología aplicando la lógica, el pensamiento computacional y el uso de herramientas digitales."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Evaluar la validez y coherencia de los resultados obtenidos al resolver problemas o investigaciones sobre procesos naturales, detectando posibles errores o incongruencias."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Analizar los efectos de determinadas acciones sobre el medioambiente y la",
+            "description": "Analizar los efectos de determinadas acciones sobre el medioambiente y la salud, basándose en los fundamentos de las ciencias biológicas y de la Tierra, para promover y adoptar hábitos que eviten o minimicen los impactos medioambientales negativos, s…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Reconocer cómo la actividad humana agrava riesgos naturales en entornos específicos, analizando factores geológicos, biológicos y sociales para proponer medidas preventivas."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Diseñar y aplicar propuestas concretas de hábitos sostenibles mediante el análisis crítico de las acciones cotidianas para reducir el impacto ambiental personal y colectivo."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Proponer y justificar hábitos saludables mediante el análisis crítico de las conductas diarias y el conocimiento del funcionamiento del cuerpo humano para mejorar el bienestar."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Analizar los elementos de un paisaje concreto valorándolo como patrimonio",
+            "description": "Analizar los elementos de un paisaje concreto valorándolo como patrimonio natural y utilizando conocimientos sobre geología y ciencias de la Tierra, para explicar su historia geológica, proponer acciones encaminadas a su protección e identificar posi…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Identificar los componentes de un paisaje local, explicando su valor como patrimonio natural y detectando factores que amenazan su conservación y equilibrio."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Identificar los componentes de un paisaje para explicar su formación, evaluar los impactos de la actividad humana y reconocer posibles riesgos geológicos asociados."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Identificar y analizar los riesgos geológicos y meteorológicos de un paisaje, vinculándolos con sus elementos físicos para proponer medidas preventivas básicas."
+                }
+            ]
+        }
+    ]
+}

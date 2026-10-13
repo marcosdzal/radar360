@@ -1,0 +1,94 @@
+{
+    "community": "baleares",
+    "stage": "eso",
+    "decree": "",
+    "subject": "digitalizacion_alt",
+    "subject_name": "Digitalització",
+    "grade": 4,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Identificar i resoldre problemes tecnics senzills, connectar i configurar",
+            "description": "identificar i resoldre problemes tecnics senzills, connectar i configurar dispositius a xarxes domèstiques, aplicant els coneixements de maquinari i sistemes operatius per gestionar les eines i instal·lacions informàtiques i de comunicació d'ús quoti…",
+            "criterios": [
+                {
+                    "code": "CA1.1",
+                    "description": "Connectar dispositius i gestionar xarxes locals aplicant els coneixements i processos associats a sistemes de comunicació amb fil i sense fil amb una actitud proactiva. - Assemblar dispositius de forma diligent com a sistemes de comunicació amb i sense fils. - Administrar xarxes locals."
+                },
+                {
+                    "code": "CA1.2",
+                    "description": "Instal·lar i mantenir sistemes operatius configurant les seves característiques en funció de les seves necessitats personals. - Estudiar les característiques bàsiques de diferents sistemes operatius. - Instal·lar sistemes operatius i realitzar-ne el manteniment. - Configurar els sistemes operatius segons les necessitats personals."
+                },
+                {
+                    "code": "CA1.3",
+                    "description": "Identificar i resoldre problemes tècnics senzills analitzant components i funcions dels dispositius digitals, avaluant les solucions de manera crítica i reformulant el procediment, en cas necessari. - Identificar problemes tècnics senzills. - Resoldre problemes mitjançant l'anàlisi dels components i de les funcions dels dispositius digitals. - Avaluar les solucions de manera crítica i reformular el procediment en cas necessari."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Configurar l'entorn personal d'aprenentatge interactuant i aprofitant els",
+            "description": "configurar l'entorn personal d'aprenentatge interactuant i aprofitant els recursos de l'àmbit digital per optimitzar i gestionar l'aprenentatge permanent. La presència d'elements tecnològics i mitjans digitals en les nostres vides és un fet que, prog…",
+            "criterios": [
+                {
+                    "code": "CA2.1",
+                    "description": "Gestionar l'aprenentatge en l'àmbit digital, configurant l'entorn personal d'aprenentatge mitjançant la integració de recursos digitals de manera autònoma. - Gestionar l'aprenentatge en l'àmbit digital. - Configurar l'entorn personal d'aprenentatge (EPA). - Integrar recursos digitals de manera autònoma."
+                },
+                {
+                    "code": "CA2.2",
+                    "description": "Cercar, seleccionar i arxivar informació en funció de les pròpies necessitats mitjançant les eines de l'entorn personal d'aprenentatge amb sentit crític i seguint normes bàsiques de seguretat a la xarxa. - Cercar i seleccionar informació rellevant per a les seves necessitats. - Utilitzar eines digitals de l'entorn personal amb sentit crític i seguint normes bàsiques de seguretat a la xarxa. - Emmagatzemar informació de manera organitzada assegurant-se que les dades es tracten de forma responsable i protegida."
+                },
+                {
+                    "code": "CA2.3",
+                    "description": "Crear, programar, integrar i reelaborar continguts digitals de manera individual o col·lectiva, seleccionant les eines més apropiades per generar nou coneixement i continguts digitals de manera creativa, respectant els drets d'autor i les llicències d'ús. - Dissenyar i crear continguts digitals, de manera creativa, a nivell individual o col·lectiu, utilitzant eines digitals adequades. - Integrar i adaptar continguts existents per generar nou contingut, respectant els drets d'autor i llicències d'ús."
+                },
+                {
+                    "code": "CA2.4",
+                    "description": "Interactuar en espais virtuals de comunicació i plataformes d'aprenentatge col·laboratiu, compartint i publicant informació i dades, adaptant-se a diferents audiències amb una actitud participativa i respectuosa. - Participar i compartir informació de forma activa amb altres usuaris a llocs de comunicació i d'aprenentatge virtuals. - Ajustar el contingut i la forma de la comunicació segons les característiques i necessitats del públic. - Fomentar el diàleg i la col·laboració amb una actitud basada en el respecte i la inclusió en entorns virtuals."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Desenvolupar habits que fomentin el benestar digital, aplicant mesures",
+            "description": "desenvolupar habits que fomentin el benestar digital, aplicant mesures preventives i correctives per protegir dispositius, dades personals i la pròpia salut. La competència fa referència a les mesures de seguretat que han d'adoptar-se per tenir cura …",
+            "criterios": [
+                {
+                    "code": "CA3.1",
+                    "description": "Protegir les dades personals i l'empremta digital generada a Internet i configurar les condicions de privacitat de les xarxes socials i espais virtuals de treball. - Configurar les opcions de privacitat a les xarxes socials i espais virtuals per protegir les dades personals. - Identificar i minimitzar l'impacte de la informació compartida en línia per controlar l'empremta digital."
+                },
+                {
+                    "code": "CA3.2",
+                    "description": "Configurar i actualitzar, contrasenyes, sistemes operatius i antivirus de manera periòdica en els diferents dispositius digitals d'ús habitual. - Configurar contrasenyes segures amb combinacions robustes i variades. - Actualitzar periòdicament les contrasenyes. - Mantenir els sistemes operatius actualitzats per corregir vulnerabilitats. - Instal·lar i actualitzar antivirus i realitzar escaneigs periòdics per protegir els dispositius digitals."
+                },
+                {
+                    "code": "CA3.3",
+                    "description": "Identificar i saber reaccionar davant situacions que representen una amenaça a la xarxa, per triar la millor solució entre diverses opcions, desenvolupar pràctiques saludables i segures i valorar el benestar físic i mental, tant personal com col·lectiu. - Identificar els principals riscs de la xarxa. - Reaccionar adequadament davant les amenaces digitals, triant solucions segures i eficaces. - Desenvolupar hàbits saludables en l'ús de les tecnologies per protegir el benestar físic i mental. - Promoure el respecte al benestar personal i col·lectiu en totes les accions digitals."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Exercir una ciutadania digital crítica i conèixer les possibles accions que es",
+            "description": "exercir una ciutadania digital crítica i conèixer les possibles accions que es poden dur a terme a la xarxa, identificant-ne les possibles repercussions, per fer un ús actiu, responsable i ètic de la tecnologia. La competència fa referència al coneix…",
+            "criterios": [
+                {
+                    "code": "CA4.1",
+                    "description": "Fer un ús ètic de les dades i les eines digitals, aplicant les normes d'etiqueta digital i respectant la privacitat i les llicències d'ús i propietat intel·lectual en la comunicació, col·laboració i participació activa en la xarxa. - Fomentar un ús ètic de les dades i eines digitals. - Aplicar les normes d'etiqueta digital en les interaccions en línia. - Respectar la privacitat i les llicències d'ús i de propietat intel·lectual. - Comunicar, col·laborar i participar de manera responsable i activa a la xarxa."
+                },
+                {
+                    "code": "CA4.2",
+                    "description": "Reconèixer les aportacions de les tecnologies digitals en les gestions administratives i el comerç electrònic, des de la consciència de la bretxa social d'accés, ús i aprofitament d'aquestes tecnologies per a diversos col·lectius. - Valorar la utilització de les tecnologies digitals en les gestions administratives i el comerç electrònic. - Prendre consciència de la bretxa social en l'accés, ús i aprofitament de les tecnologies digitals."
+                },
+                {
+                    "code": "CA4.3",
+                    "description": "Valorar la importància de l'oportunitat, facilitat i llibertat d'expressió que suposen els mitjans digitals connectats, analitzant de manera crítica els missatges que es reben i transmeten tenint en compte la seva objectivitat, ideologia, intencionalitat, biaixos i caducitat. - Valorar la importància de l'oportunitat, facilitat i llibertat d'expressió dels mitjans digitals connectats. - Analitzar de manera crítica els missatges rebuts i transmesos dels mitjans en xarxa. - Considerar l'objectivitat, ideologia, intencionalitat, biaixos i caducitat dels mitjans digitals connectats."
+                },
+                {
+                    "code": "CA4.4",
+                    "description": "Analitzar la necessitat i els beneficis globals d'un ús i desenvolupament ecològicament i social responsable de les tecnologies digitals, tenint en compte criteris d'accessibilitat, sostenibilitat i impacte. - Analitzar la necessitat d'un ús i desenvolupament responsable de les tecnologies digitals. - Avaluar els beneficis globals d'un ús i desenvolupament responsable de les tecnologies digitals. - Tenir en compte qüestions com l'accessibilitat, sostenibilitat i impacte en l'anàlisi de les tecnologies digitals."
+                }
+            ]
+        }
+    ]
+}

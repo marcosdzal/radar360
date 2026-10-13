@@ -1,0 +1,115 @@
+{
+    "community": "cataluna",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "geografia_e_historia_alt",
+    "subject_name": "Geografía",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Cercar, seleccionar i combinar informació sobre els reptes ecosocials actuals",
+            "description": "Cercar, seleccionar i combinar informació sobre els reptes ecosocials actuals de l'Estat espanyol, comparant fonts i analitzant-ne el nivell de fiabilitat, per desenvolupar el pensament crític i posicionar-se a favor dels objectius de desenvolupament…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Cuestionar modos de vida insostenibles analizando fuentes geográficas y argumentando la necesidad de acciones."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Debatir sobre retos naturales y sociales de España usando datos rigurosos y apoyo digital."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Descobrir i analitzar la complexitat de l'espai geogràfic català, amb els",
+            "description": "Descobrir i analitzar la complexitat de l'espai geogràfic català, amb els elements i dinàmiques que el configuren, per valorar els diferents paisatges rurals i urbans i proposar alternatives de gestió territorial, amb criteris de sostenibilitat, equi…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Valorar impactos humanos desde la sostenibilidad, reconociendo la complejidad sistémica del medio natural y las actividades humanas."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Analizar paisajes naturales y humanizados a partir de fuentes visuales, distinguiendo elementos geográficos e interpretando la influencia de factores físicos y humanos."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Identificar i caracteritzar els medis naturals catalans i espanyols,",
+            "description": "Identificar i caracteritzar els medis naturals catalans i espanyols, relacionantlos amb els europeus i mundials, i amb els paisatges a què han donat lloc, per valorar-ne el grau de preservació i d'equilibri ecològic.",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "El alumnado reflexiona sobre su percepción del espacio al localizar en mapas regiones geomorfológicas y bioclimáticas, comparando sus características y valorando su contribución a la sostenibilidad."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Comparar paisajes naturales de España y Europa, analizando su distribución, características y la relación humana con ellos."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Aplicar mètodes i tècniques pròpies de la geografia per localitzar i",
+            "description": "Aplicar mètodes i tècniques pròpies de la geografia per localitzar i interpretar fenòmens territorials i les seves interrelacions, plantejar investigacions, fer propostes d'actuacions i comunicar els resultats emprant el vocabulari pertinent.",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Usar la escala adecuada con TIG para localizar fenómenos, justificando métodos y delimitando regiones y áreas de transición."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Crear productos geográficos propios con TIG comunicando diagnósticos, hipótesis o conclusiones."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Interpretar la globalització com a context de l'evolució dels sistemes",
+            "description": "Interpretar la globalització com a context de l'evolució dels sistemes econòmics i els comportaments socials recents, investigant les seves relacions de causa i efecte, per promoure el respecte a la dignitat humana i al medi ambient com a base d'una …",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Valorar la dignidad humana analizando críticamente consecuencias de acciones sobre condiciones laborales y de vida en España y otros países, investigando relaciones económicas globalizadas y proponiendo soluciones."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Argumentar la necesidad de preservar el medio ambiente analizando impactos de producción, distribución y consumo, y proponer actuaciones de mejora a escala local y global."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Reflexionar críticament sobre la cohesió territorial i les injustícies socials",
+            "description": "Reflexionar críticament sobre la cohesió territorial i les injustícies socials en els àmbits català i espanyol, mitjançant l'anàlisi de la seva diversitat d'estructures socioeconòmiques, demogràfiques i paràmetres de gènere, per fer propostes d'acció…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Justifica la necesidad de compensar desigualdades territoriales e individuales mediante el análisis de causas y consecuencias pasadas y recientes."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Argumentar el origen de desequilibrios socioeconómicos analizando factores de localización en una sociedad terciarizada."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Mobilitzar i valorar coneixements geogràfics per aportar solucions innovadores",
+            "description": "Mobilitzar i valorar coneixements geogràfics per aportar solucions innovadores a contextos en transformació, millorar la vida de les persones i fomentar l'autoaprenentatge permanent.",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Reelabora conocimientos geográficos previos y nuevos para diagnosticar problemas y proponer soluciones innovadoras en contextos cambiantes."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Valorar el paper de la geografia en la resolució de problemes territorials, diagnosticant problemes i oportunitats i raonant possibles solucions."
+                }
+            ]
+        }
+    ]
+}

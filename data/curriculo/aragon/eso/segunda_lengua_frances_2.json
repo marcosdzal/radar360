@@ -1,0 +1,112 @@
+{
+    "community": "aragon",
+    "stage": "eso",
+    "decree": "Orden ECD\/1172\/2022, de 2 de agosto",
+    "subject": "segunda_lengua_frances",
+    "subject_name": "Segunda Lengua Extranjera: Francés",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Comprender e interpretar el sentido general y los detalles más relevantes de",
+            "description": "Comprender e interpretar el sentido general y los detalles más relevantes de textos expresados de forma clara y en la lengua estándar, buscando fuentes fiables y haciendo uso de estrategias como la inferencia de significados, para responder a necesid…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Comprender la idea principal y datos específicos de textos breves y sencillos en francés sobre temas cotidianos, personales o de ficción en diversos soportes."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Aplicar estrategias de comprensión para identificar ideas principales y detalles en textos cotidianos, apoyándose en elementos no verbales y búsqueda guiada de información."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Producir textos originales, de extensión media, sencillos y con una",
+            "description": "Producir textos originales, de extensión media, sencillos y con una organización clara, usando estrategias tales como la planificación, la compensación o la autorreparación, para expresar de forma creativa, adecuada y coherente mensajes relevantes y …",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Realizar exposiciones orales breves y sencillas sobre temas cotidianos, como descripciones o narraciones, usando apoyos visuales y estrategias de comunicación básicas en lengua francesa."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Redactar textos breves y sencillos en francés, con coherencia y adecuación, sobre temas cotidianos y personales, utilizando herramientas analógicas o digitales."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Planificar y redactar textos sencillos en francés, revisando el borrador con ayuda de herramientas digitales o diccionarios para asegurar que el mensaje sea comprensible y adecuado."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Interactuar con otras personas con creciente autonomía, usando estrategias de",
+            "description": "Interactuar con otras personas con creciente autonomía, usando estrategias de cooperación y empleando recursos analógicos y digitales, para responder a propósitos comunicativos concretos en intercambios respetuosos con las normas de cortesía.",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Participar en diálogos breves sobre temas cotidianos, utilizando estrategias de apoyo y manteniendo normas de cortesía y respeto en entornos analógicos o digitales."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Participar en intercambios comunicativos breves en francés, empleando estrategias para abrir, mantener y cerrar la conversación, respetando turnos y solicitando aclaraciones de forma guiada."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Mediar en situaciones cotidianas entre distintas lenguas, usando estrategias y",
+            "description": "Mediar en situaciones cotidianas entre distintas lenguas, usando estrategias y conocimientos sencillos orientados a explicar conceptos o simplificar mensajes, para transmitir información de manera eficaz, clara y responsable.",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Explicar y facilitar la comprensión de textos breves y conceptos sencillos en situaciones cotidianas, fomentando el entendimiento mutuo y el respeto por la diversidad lingüística."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Utilizar estrategias guiadas y recursos de apoyo para facilitar la comunicación y el entendimiento entre personas, simplificando mensajes o aclarando conceptos básicos en situaciones cotidianas."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Ampliar y usar los repertorios lingüísticos personales entre distintas lenguas,",
+            "description": "Ampliar y usar los repertorios lingüísticos personales entre distintas lenguas, reflexionando de forma crítica sobre su funcionamiento y tomando conciencia de las estrategias y los conocimientos propios, para mejorar la respuesta a necesidades comuni…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Identificar y explicar similitudes y diferencias gramaticales o léxicas entre el francés y otras lenguas conocidas para comprender mejor cómo funciona el idioma."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Aplicar estrategias de aprendizaje y herramientas digitales o analógicas, colaborando con otros para resolver problemas comunicativos y mejorar la competencia lingüística en francés."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Reconocer y anotar los avances y problemas en el aprendizaje de francés, aplicando estrategias de mejora mediante herramientas de autoevaluación y coevaluación guiadas."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Valorar críticamente y adecuarse a la diversidad lingüística, cultural y",
+            "description": "Valorar críticamente y adecuarse a la diversidad lingüística, cultural y artística a partir de la Lengua Extranjera, identificando y compartiendo las semejanzas y las diferencias entre lenguas y culturas, para actuar de forma empática y respetuosa en…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Participar con respeto en intercambios cotidianos, identificando la diversidad cultural francófona y rechazando estereotipos para fomentar una convivencia empática y sin prejuicios."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Reconocer y valorar la diversidad cultural y lingüística de los países francófonos, comparándola con la propia para fomentar el respeto y la convivencia democrática."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Explicar y valorar la diversidad cultural y lingüística francófona mediante comparaciones guiadas, fomentando el respeto, la igualdad y la convivencia democrática en el aula."
+                }
+            ]
+        }
+    ]
+}

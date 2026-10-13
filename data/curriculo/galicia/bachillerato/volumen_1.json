@@ -1,0 +1,94 @@
+{
+    "community": "galicia",
+    "stage": "bachillerato",
+    "decree": "Decreto 157\/2022, de 15 de septiembre",
+    "subject": "volumen",
+    "subject_name": "Volumen",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Identificar los fundamentos compositivos del lenguaje tridimensional en obras",
+            "description": "Identificar los fundamentos compositivos del lenguaje tridimensional en obras de diferentes épocas y culturas analizando sus aspectos formales y estructurales, así como los cánones de proporción y elementos compositivos empleados, para aplicarlos a p…",
+            "criterios": [
+                {
+                    "code": "CE1.1",
+                    "description": "Describir materiales, herramientas y técnicas de creación tridimensional aplicando la terminología específica de la materia."
+                },
+                {
+                    "code": "CE2.2",
+                    "description": "Describir formas, estructuras, proporciones y elementos compositivos tridimensionales aplicando la terminología específica de la materia."
+                },
+                {
+                    "code": "CE2.3",
+                    "description": "Explicar los cánones de proporción y los elementos compositivos de piezas tridimensionales de diferentes períodos artísticos dentro de su contexto histórico, diferenciando los aspectos decorativos de los estructurales."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Explorar las posibilidades plásticas y expresivas del lenguaje tridimensional",
+            "description": "Explorar las posibilidades plásticas y expresivas del lenguaje tridimensional partiendo del análisis de objetos y obras de diferentes artistas en las que se establezca una relación coherente entre la imagen y su contenido, para elaborar producciones …",
+            "criterios": [
+                {
+                    "code": "CE2.1",
+                    "description": "Estudiar los aspectos más notables de piezas volumétricas identificando las diferencias entre lo estructural y lo accesorio."
+                },
+                {
+                    "code": "CE2.4",
+                    "description": "Elaborar producciones volumétricas con una función comunicativa concreta, atendiendo a la relación entre imagen y contenido, así como entre forma, estructura y función comunicativa, con distintos niveles de iconicidad."
+                },
+                {
+                    "code": "CE3.1",
+                    "description": "Explicar las funciones comunicativas del lenguaje tridimensional en obras significativas de diferentes creadores, desde una perspectiva intercultural, inclusiva y de género, justificando, de manera argumentada, la relación establecida entre la forma y el contenido."
+                },
+                {
+                    "code": "CE3.3",
+                    "description": "Analizar los aspectos más notables de la configuración de esculturas y objetos cotidianos tridimensionales describiendo la relación entre su función comunicativa, su usabilidad y su nivel icónico."
+                },
+                {
+                    "code": "CE3.4",
+                    "description": "Analizar las diferentes fuentes de difusión de obras volumétricas, apreciando el respeto a la autoría y a los derechos de propiedad intelectual."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Realizar propuestas de composiciones tridimensionales, seleccionando las",
+            "description": "Realizar propuestas de composiciones tridimensionales, seleccionando las técnicas, las herramientas y los materiales de producción más adecuados, para resolver problemas de configuración espacial y apreciar las cualidades expresivas del lenguaje trid…",
+            "criterios": [
+                {
+                    "code": "CE1.2",
+                    "description": "Resolver de forma creativa problemas de configuración espacial a través de composiciones tridimensionales, seleccionando las técnicas, las herramientas y los materiales de realización más adecuados en función de los requisitos formales, funcionales, estéticos y expresivos."
+                },
+                {
+                    "code": "CE3.2",
+                    "description": "Describir las cualidades expresivas del lenguaje tridimensional en las composiciones tridimensionales propuestas justificando la selección de las técnicas, las herramientas y los materiales de realización más adecuados."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Elaborar proyectos individuales o colectivos adecuando los materiales y los",
+            "description": "Elaborar proyectos individuales o colectivos adecuando los materiales y los procedimientos a la finalidad estética y funcional de los objetos que se pretenden crear y aportando soluciones diversas y creativas a los retos expuestos durante la ejecució…",
+            "criterios": [
+                {
+                    "code": "CE4.1",
+                    "description": "Planificar proyectos tridimensionales organizando correctamente sus fases, distribuyendo de forma razonada las tareas, evaluando su viabilidad y sostenibilidad y seleccionando las técnicas, las herramientas y los materiales más adecuados a las intenciones expresivas, funcionales y comunicativas."
+                },
+                {
+                    "code": "CE4.2",
+                    "description": "Participar activamente en la realización de proyectos artísticos asumiendo diferentes funciones, valorando y respetando las aportaciones y las experiencias de los demás e identificando las oportunidades de desarrollo personal, social, académico y profesional que ofrece."
+                },
+                {
+                    "code": "CE4.3",
+                    "description": "Realizar proyectos individuales o colaborativos adecuando materiales y procedimientos a la finalidad estética y funcional de los objetos que se pretenden crear y aportando soluciones diversas y creativas a los retos expuestos durante la ejecución."
+                },
+                {
+                    "code": "CE4.4",
+                    "description": "Evaluar y presentar los resultados de proyectos tridimensionales analizando la relación entre los objetivos expuestos y el producto final obtenido, y explicando las posibles diferencias entre ellos."
+                }
+            ]
+        }
+    ]
+}

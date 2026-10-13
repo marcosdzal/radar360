@@ -1,0 +1,119 @@
+{
+    "community": "murcia",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "imagen_y_sonido",
+    "subject_name": "Imagen y Sonido",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Analizar críticamente los recursos expresivos, distinguiendo los tipos y la",
+            "description": "Analizar críticamente los recursos expresivos, distinguiendo los tipos y la intencionalidad comunicativa de los diferentes géneros, utilizados en las diversas producciones audiovisuales, relacionando las características funcionales y tipológicas con …",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Identificar y analizar las tipologías de género, así como la intencionalidad comunicativa y los códigos expresivos empleados en la realización de diferentes productos audiovisuales, a partir de su visionado y análisis crítico."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Valorar las consecuencias comunicativas de la utilización formal y expresiva de técnicas de creación de mensajes a partir del estudio de las características básicas de la imagen, en la resolución de diversas situaciones audiovisuales."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Analizar críticamente las características funcionales y tipológicas del",
+            "description": "Analizar críticamente las características funcionales y tipológicas del lenguaje audiovisual a lo largo de la historia y en diferentes campos y obras audiovisuales, aplicando Número 296 las técnicas de este tipo de lenguaje a situaciones extraídas de…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Analizar los elementos teóricos del montaje audiovisual para la valoración de la continuidad del mensaje narrativo de productos fílmicos."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Analizar los procedimientos de articulación del espacio-tiempo en el relato, así como las especificaciones técnicas básicas de realización audiovisual y de montaje."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Elaborar guiones literarios y técnicos, de manera que tengan una estructura",
+            "description": "Elaborar guiones literarios y técnicos, de manera que tengan una estructura narrativa coherente y relacionada con las personas a las que va dirigida, integrando las posibilidades expresivas del sonido y la imagen en un producto multimedia, audiovisua…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Valorar la importancia de la función expresiva de la imagen, el sonido y la música en el proceso de creación de guiones audiovisuales."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Emplear técnicas narrativas en los procesos de construcción del guion literario de una determinada secuencia siguiendo las fases estandarizadas en las producciones audiovisuales: determinación de la idea, documentación, argumental y tratamiento, desarrollando estrategias que permitan ampliar y Número 296 enriquecer el repertorio lingüístico individual y la transferencia entre lenguas."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Realizar la transformación de una secuencia dramática a la estructura propia de un guion técnico y un storyboard"
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Reconocer las cualidades técnicas de los distintos dispositivos de captación y",
+            "description": "Reconocer las cualidades técnicas de los distintos dispositivos de captación y reproducción audiovisual en grabaciones musicales, programas de radio y proyectos audiovisuales, a partir del análisis crítico de diversas piezas audiovisuales, justifican…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Comparar el proceso de captación de imágenes del ojo humano y de la percepción visual con la aplicación transferida a los sistemas de captación y reproducción visual."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Relacionar las especificaciones técnicas y las cualidades operativas del equipamiento de captación y producción con las diversas metodologías de montaje y edición en proyectos de cine, vídeo y televisión."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Grabar piezas audiovisuales aplicando técnicas de captación de imágenes",
+            "description": "Grabar piezas audiovisuales aplicando técnicas de captación de imágenes fotográficas y de vídeo para la realización de proyectos audiovisuales, mediante la elección de dispositivos de captura apropiados, que permitan componer mensajes sencillos a par…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Registrar con la cámara de vídeo y fotográfica las tomas, planos y secuencias introduciendo los ajustes necesarios de temperatura de color, exposición, resolución, sonido y los metadatos con la información necesaria para su identificación."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Reconocer las prestaciones del equipamiento técnico y del software propio de la",
+            "description": "Reconocer las prestaciones del equipamiento técnico y del software propio de la edición multimedia, identificando sus especificaciones y justificando sus aptitudes en relación con los requerimientos del medio y las necesidades de los proyectos.",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Justificar la utilización de determinados formatos de archivo de imagen, audio y vídeo para cámaras fotográficas, escáneres, micrófonos, líneas de audio y reproductores de vídeo, así como las características básicas y tipos de equipos y periféricos, adecuados a los proyectos multimedia."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Reconocer las prestaciones técnicas y operativas de las aplicaciones para el tratamiento de imágenes, animación 2D, edición de vídeo y autoría."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Editar piezas visuales aplicando las prestaciones más apropiadas del",
+            "description": "Editar piezas visuales aplicando las prestaciones más apropiadas del equipamiento técnico y del software propio de la edición multimedia en la realización y tratamiento digital de imágenes mediante técnicas de creación de secuencias dinámicas de gráf…",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Adaptar y ajustar las imágenes a las características técnicas del medio o soporte final, garantizando, en su caso, el registro espacio-temporal y la continuidad de las secuencias de imágenes fijas necesarias para la elaboración del material visual."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Configurar el proyecto de edición de gráficos e imágenes fijas o de edición no lineal, considerando el formato adecuado al material original y a la difusión que se pretende en el proyecto."
+                },
+                {
+                    "code": "7.3",
+                    "description": "Editar piezas de vídeo, fotografías, gráficos, rótulos y elementos sonoros en la línea de tiempo del programa de edición audiovisual, realizando transiciones entre los planos, elaborando subtítulos, armonizando el tono y sincronizando la duración de la imagen con el audio."
+                }
+            ]
+        }
+    ]
+}

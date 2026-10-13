@@ -1,0 +1,93 @@
+{
+    "community": "pais-vasco",
+    "stage": "eso",
+    "decree": "Decreto 77\/2023, de 30 de mayo",
+    "subject": "musica",
+    "subject_name": "Música",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Conocer la función que las distintas producciones musicales y escénicas han",
+            "description": "Conocer la función que las distintas producciones musicales y escénicas han tenido en el desarrollo del ser humano y su cultura, a través de la recepción activa y la reflexión crítica sobre su evolución, para entender cómo se convierten en el testimo…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Reconocer y describir las características sonoras y estilísticas de diversas obras musicales y dancísticas, mostrando respeto y curiosidad por la diversidad cultural."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Identificar y describir la utilidad y el propósito de obras musicales y danzas dentro de su marco histórico, social y cultural específico."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Reconocer las características más relevantes de diferentes manifestaciones",
+            "description": "Reconocer las características más relevantes de diferentes manifestaciones musicales y escénicas, analizando sus elementos e intenciones dentro de la sociedad, para desarrollar el pensamiento propio y la identidad cultural, manifestando interés y val…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Realizar improvisaciones guiadas individuales o grupales utilizando la voz, el cuerpo, instrumentos o tecnología para explorar recursos expresivos musicales y dancísticos."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Utilizar la improvisación musical o dancística para comunicar emociones y estados de ánimo, eligiendo conscientemente recursos técnicos aprendidos previamente en clase."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Analizar la relación entre las emociones y la expresión musical, a través de",
+            "description": "Analizar la relación entre las emociones y la expresión musical, a través de opiniones propias y ajenas e improvisaciones vocales o instrumentales y corporales, para desarrollar la creatividad y la actitud colaborativa.",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Identificar y comprender los elementos básicos de la notación musical en partituras sencillas, utilizando el análisis visual y el apoyo auditivo guiado."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Interpretar piezas musicales sencillas usando técnicas básicas de voz, instrumentos o cuerpo, memorizando la parte correspondiente y participando activamente en los ensayos colectivos."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Interpretar obras musicales o coreografías sencillas, de forma individual o colectiva, aplicando técnicas básicas y controlando la concentración y las emociones durante la ejecución pública."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Aplicar conocimientos musicales, habilidades y técnicas propias de la",
+            "description": "Aplicar conocimientos musicales, habilidades y técnicas propias de la interpretación musical, vocal, instrumental, de movimiento y danza, a través de la ejecución de propuestas musicales y escénicas, para explorar sus posibilidades creativas y expres…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Diseñar y ejecutar proyectos musicales o coreográficos, de forma individual o grupal, utilizando diversos instrumentos, el cuerpo y recursos tecnológicos de manera creativa."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Colaborar en la planificación y ejecución de proyectos musicales grupales, valorando el trabajo en equipo y reconociendo las posibilidades formativas y profesionales del ámbito artístico."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Aplicar técnicas de interpretación musical y de movimiento en audiciones y conciertos en el aula y fuera de ella, desarrollando la creatividad y el respeto hacia las demás personas."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Generar propuestas artístico-musicales y escénicas",
+            "description": "Generar propuestas artístico-musicales y escénicas, de forma individual o grupal, a través de la voz, de diferentes instrumentos, del cuerpo y del soporte de distintas herramientas tecnológicas para potenciar la creatividad e identificar de forma inc…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Crear propuestas artístico-musicales y escénicas, utilizando herramientas tecnológicas para el desarrollo de pro ductos audiovisuales, con actitud inclusiva, cohesión y criterios de sostenibilidad."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Elaborar composiciones vocales, instrumentales, coreo gráficas y multidisciplinares de forma individual y\/o colaborativa, mostrando respeto a la diversidad de ideas, emociones y sentimientos del grupo."
+                }
+            ]
+        }
+    ]
+}

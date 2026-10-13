@@ -1,0 +1,85 @@
+{
+    "community": "baleares",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "analisis_musical_1",
+    "subject_name": "Análisis Musical I",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Analitzar els elements musicals de diferents obres, amb l'escolta activa i",
+            "description": "Analitzar els elements musicals de diferents obres, amb l'escolta activa i l'estudi de partitures, per descriure'n les característiques i establir comparacions. La identificació, a través de l'anàlisi i a partir de l'escolta activa o de l'estudi de p…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar los elementos musicales de una obra mediante escucha activa y partitura para describir su función."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Describir las características musicales básicas de una obra mediante escucha activa y análisis de partitura, identificando sus elementos constitutivos."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Establir relacions entre els elements musicals d'una composició, a través de",
+            "description": "Establir relacions entre els elements musicals d'una composició, a través de l'anàlisi de la seva estructura i dels procediments compositius utilitzats, per associar l'obra amb un gènere, un estil i un context de creació. En el discurs musical s'esta…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Analizar obras musicales con ayuda docente, reconociendo estructura formal y procedimientos compositivos empleados."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Investigar el contexto histórico y autoral de obras analizadas, asociándolas con género, estilo y época."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Elaborar comentaris i crítiques musicals sobre les obres analitzades,",
+            "description": "Elaborar comentaris i crítiques musicals sobre les obres analitzades, utilitzant la terminologia adequada i consultant diferents fonts d'informació, per expressar judicis personals fonamentats i contribuir a la difusió del patrimoni musical a través …",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "El alumnado argumenta su opinión personal sobre obras analizadas usando vocabulario musical preciso y fundamentado."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Publicar reseñas musicales en medios analógicos y digitales respetando derechos de autor y propiedad intelectual."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Utilitzar els procediments compositius fonamentals i les tecnologies digitals,",
+            "description": "Utilitzar els procediments compositius fonamentals i les tecnologies digitals, emprant els elements i les estructures musicals més adequades, per crear obres senzilles i realitzar improvisacions. Comprendre la música a través de la seva visió analíti…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Interpretar patrones melódicos, rítmicos, armónicos y formales de obras analizadas mediante la voz, el cuerpo o instrumentos en proyectos grupales."
+                },
+                {
+                    "code": "4.2",
+                    "description": "El alumnado combina patrones melódicos, rítmicos, armónicos y formales previamente trabajados para crear ideas musicales nuevas."
+                },
+                {
+                    "code": "4.3",
+                    "description": "El alumnado, guiado por el docente, maneja tecnologías digitales para componer piezas musicales básicas."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Investigar sobre els usos de la música amb finalitats terapèutiques i en",
+            "description": "Investigar sobre els usos de la música amb finalitats terapèutiques i en combinació amb altres formes d'expressió artística, utilitzant diferents fonts d'informació i analitzant les característiques musicals de les obres, per entendre de quina manera…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Analizar las funciones de la música en contextos multidisciplinares y su efecto emocional en el espectador."
+                }
+            ]
+        }
+    ]
+}

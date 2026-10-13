@@ -1,0 +1,90 @@
+{
+    "community": "extremadura",
+    "stage": "bachillerato",
+    "decree": "Decreto 113\/2022, de 25 de agosto",
+    "subject": "geografia_e_historia_ciencias",
+    "subject_name": "Historia de la Música y de la Danza I",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "I dentificar las características técnicas y artísticas de la música y de la",
+            "description": "I dentificar las características técnicas y artísticas de la música y de la danza a través del análisis de las diversas fuentes de estudio disponibles reconociendo y apreciando la evolución de sus rasgos estilísticos y su función en un determinado co…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Conocer el origen de la IA, a qué campo de conocimiento pertenece, su vinculación con la inteligencia humana y animal y sus principales enfoques."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Analizar los módulos que conforman un sistema de IA como parte de un entorno con el que interactúa con agentes inteligentes que desarrollan funciones de forma autónoma."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Entender los fundamentos de la IA valorando la importancia de los datos en el aprendizaje automático y explicando las estrategias de aprendizaje."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Relacionar la música y la danza con otras formas de expresión artística,",
+            "description": "Relacionar la música y la danza con otras formas de expresión artística, vinculándolas con la evolución del pensamiento humano, comprendiendo el carácter interdisciplinar del arte y valorando la importancia de su conservación y difusión como patrimon…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Distinguir los distintos datos de entrada a un sistema inteligente, clasificándolos y describiendo sus características y la manera en que se codifican numéricamente."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Precisar las características de los datos de salida de un agente inteligente, su cantidad y su formato, teniendo en cuenta sus objetivos, el destinatario de los datos y el objetivo para el que ha sido diseñado."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Interpretar fragmentos o adaptaciones de diversas obras relevantes de la música",
+            "description": "Interpretar fragmentos o adaptaciones de diversas obras relevantes de la música y de la danza, a través de la dramatización y el empleo de la voz, el cuerpo y distintos instrumentos, comprendiendo el hecho artístico desde la propia experiencia. El co…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Emplear simulaciones preexistentes de sistemas inteligentes, de acceso libre, entendiendo el efecto sobre la salida de los distintos parámetros definitorios del modelo de aprendizaje máquina involucrado."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Aplicar modelos existentes de aprendizaje automático que resuelvan problemas de clasificación y regresión, variando sus parámetros e integrándolos en soluciones a proyectos más amplios."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Reconocer los problemas del sobreajuste y subajuste en sistemas de aprendizaje automático y proponer soluciones a los mismos, experimentando con la funcionalidad de sistemas inteligentes y haciendo uso de programación informática."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Implementar programas informáticos sencillos que desarrollen funcionalidades relacionadas con la IA, construidos a partir de árboles y grafos, utilizando entornos de programación textual o por bloques."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Investigar sobre los principales compositores, intérpretes y obras de la",
+            "description": "Investigar sobre los principales compositores, intérpretes y obras de la historia de la música y de la danza a través del uso de diversas fuentes de información, analizando las diferentes corrientes interpretativas y reflexionando sobre la riqueza de…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Analizar las consecuencias sociales del uso de la IA en cuestiones relacionadas con el respeto a la diversidad y con la ética."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Examinar la influencia y desafío de la privacidad que tiene el uso de la IA sobre los usuarios, proponiendo debilidades y fortalezas en cada ámbito."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Conocer las implicaciones legales del uso de sistemas autónomos e inteligentes."
+                },
+                {
+                    "code": "4.4",
+                    "description": "Considerar las normas éticas que permiten regular la actividad de sistemas inteligentes, razonando la necesidad y adecuación de la misma, teniendo en cuenta los derechos y libertades de la ciudadanía."
+                }
+            ]
+        }
+    ]
+}

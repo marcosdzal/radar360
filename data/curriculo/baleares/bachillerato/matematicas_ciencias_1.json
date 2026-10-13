@@ -1,0 +1,145 @@
+{
+    "community": "baleares",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "matematicas_ciencias",
+    "subject_name": "Matemáticas I",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Modelitzar i resoldre problemes de la vida quotidiana i de la ciencia i la",
+            "description": "modelitzar i resoldre problemes de la vida quotidiana i de la ciencia i la tecnologia aplicant diferents estratègies i formes de raonament per obtenir possibles solucions. La modelització i la resolució de problemes constitueixen un eix fonamental en…",
+            "criterios": [
+                {
+                    "code": "CA1.1",
+                    "description": "Emprar diferents estratègies i eines, incloses les digitals, que modelitzin i resolguin problemes de la vida quotidiana i de la ciència i la tecnologia, seleccionant la més adequada segons l'eficiència. Utilitzar estratègies per entendre els enunciats dels problemes (com separar les dades conegudes de les desconegudes, fer gràfics de la situació, simplificar el problema, etc.). Triar adequadament una estratègia per resoldre el problema (com dividir-lo en parts més petites, aplicar regles conegudes, etc.). Identificar les eines digitals adequades (calculadores, simuladors, fulls de càlcul, aplicacions específiques, etc.) per resoldre el problema plantejat. Comparar diferents estratègies i eines per veure quina resol millor el problema."
+                },
+                {
+                    "code": "CA1.2",
+                    "description": "Obtenir totes les solucions matemàtiques possibles de problemes de la vida quotidiana i de la ciència i la tecnologia, descrivint el procediment emprat. Utilitzar els mètodes i tècniques matemàtiques apropiades per trobar totes les solucions. Explicar de manera clara i detallada el procés seguit per arribar a cada solució."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Verificar la validesa de les possibles solucions d'un problema emprant el",
+            "description": "verificar la validesa de les possibles solucions d'un problema emprant el raonament i l'argumentació per contrastar-ne la idoneïtat. L'anàlisi de les solucions obtingudes en la resolució d'un problema potencia la reflexió crítica, el raonament i l'ar…",
+            "criterios": [
+                {
+                    "code": "CA2.1",
+                    "description": "Comprovar la validesa matemàtica de les solucions possibles d'un problema utilitzant el raonament i l'argumentació. Verificar que la solució compleix totes les condicions i restriccions establertes a l'enunciat del problema. Aplicar mètodes de comprovació matemàtica (per exemple: substitució de valors, mètodes gràfics i proves algebraiques). Analitzar la coherència i la lògica de la solució obtinguda. Justificar matemàticament el procés de resolució, explicant el raonament de cada pas important i argumentant l'elecció dels mètodes utilitzats."
+                },
+                {
+                    "code": "CA2.2",
+                    "description": "Seleccionar la solució més adequada d'un problema en funció del context (de sostenibilitat, de consum responsable, equitat, etc.) usant el raonament i l'argumentació. Identificar les característiques contextuals rellevants per al problema. Utilitzar el raonament lògic per determinar quina solució s'ajusta millor al context."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Formular o investigar conjectures o problemes, utilitzant el raonament,",
+            "description": "formular o investigar conjectures o problemes, utilitzant el raonament, l'argumentacio, la creativitat i l'ús d'eines tecnològiques, per generar nou coneixement matemàtic. La formulació de conjectures i la generació de problemes de contingut matemàti…",
+            "criterios": [
+                {
+                    "code": "CA3.1",
+                    "description": "Adquirir nou coneixement matemàtic a partir de la formulació de conjectures i problemes de forma guiada. Identificar patrons o relacions en situacions matemàtiques. Formular, de manera guiada, conjectures raonables a partir de la detecció de regularitats, anàlisi de dades, exploració de casos particulars, contraexemples, etc."
+                },
+                {
+                    "code": "CA3.2",
+                    "description": "Emprar eines tecnològiques adequades en la formulació o recerca de conjectures o problemes. Seleccionar i utilitzar programari matemàtic específic (calculadores, simuladors, fulls de càlcul, aplicacions específiques, etc.) per explorar relacions numèriques, algebraiques, estadístiques o geomètriques en conjectures o problemes. Utilitzar recursos en línia per investigar problemes similars o relacionats, buscant inspiració o mètodes de resolució."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Utilitzar el pensament computacional de manera eficac, modificant, creant i",
+            "description": "utilitzar el pensament computacional de manera eficac, modificant, creant i generalitzant algorismes que resolen problemes mitjançant l'ús de les matemàtiques per modelitzar i resoldre situacions de la vida quotidiana i de l'àmbit de la ciència i la …",
+            "criterios": [
+                {
+                    "code": "CA4.1",
+                    "description": "Interpretar, modelitzar i resoldre situacions problematitzades de la vida quotidiana i de la ciència i la tecnologia, utilitzant el pensament computacional, modificant i creant algorismes. Desenvolupar o adaptar algorismes que resolguin el problema modelitzat, utilitzant un raonament lògic i seqüencial. Implementar, provar i millorar els algorismes creats, utilitzant eines computacionals quan sigui necessari."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Establir, investigar i utilitzar connexions entre les diferents idees",
+            "description": "establir, investigar i utilitzar connexions entre les diferents idees matematiques establint vincles entre conceptes, procediments, arguments i models per donar significat i estructurar l'aprenentatge matemàtic. Establir connexions entre les diferent…",
+            "criterios": [
+                {
+                    "code": "CA5.1",
+                    "description": "Manifestar una visió matemàtica integrada, investigant i connectant les diferents idees matemàtiques. Identificar relacions entre diferents conceptes matemàtics. Explorar i comparar diferents representacions (numèrica, algebraica, gràfica) d'un mateix concepte matemàtic per comprendre'l de manera més profunda."
+                },
+                {
+                    "code": "CA5.2",
+                    "description": "Resoldre problemes en contextos matemàtics establint i aplicant connexions entre les diferents idees matemàtiques. Identificar quins conceptes i procediments matemàtics de diferents àrees són necessaris per resoldre un problema. Transferir mètodes i estratègies entre diferents àrees de les matemàtiques, reconeixent patrons i estructures comunes."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Descobrir els vincles de les matematiques amb altres arees de coneixement i",
+            "description": "descobrir els vincles de les matematiques amb altres arees de coneixement i aprofundir en les seves connexions, interrelacionant conceptes i procediments per modelitzar, resoldre problemes i desenvolupar la capacitat crítica, creativa i innovadora en…",
+            "criterios": [
+                {
+                    "code": "CA6.1",
+                    "description": "Resoldre problemes en situacions diverses utilitzant processos matemàtics, reflexionant, establint i aplicant connexions entre el món real, altres àrees de coneixement i les matemàtiques. Identificar elements o situacions del món real i d'altres disciplines que poden ser modelitzats matemàticament. Traduir problemes de contextos reals o d'altres àrees de coneixement al llenguatge matemàtic. Interpretar els resultats matemàtics en el context del problema i avaluar-ne la coherència."
+                },
+                {
+                    "code": "CA6.2",
+                    "description": "Analitzar l'aportació de les matemàtiques al progrés de la humanitat valorant i reflexionant sobre la seva contribució en la proposta de solucions a situacions complexes i als reptes científics i tecnològics que es plantegen en la societat. Identificar i descriure situacions de la ciència i la tecnologia resoltes mitjançant les matemàtiques. Analitzar com les matemàtiques han contribuït al progrés de la humanitat, modelitzant i resolent problemes científics i tecnològics."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Representar conceptes, procediments i informacio matematics seleccionant",
+            "description": "representar conceptes, procediments i informacio matematics seleccionant diferents tecnologies, per visualitzar idees i estructurar raonaments matemàtics. Les representacions de conceptes, procediments i informació matemàtica faciliten el raonament i…",
+            "criterios": [
+                {
+                    "code": "CA7.1",
+                    "description": "Representar idees matemàtiques estructurant diferents raonaments matemàtics i seleccionant les tecnologies més adequades. Escollir la tecnologia més adient per representar i explorar conceptes matemàtics específics. Crear visualitzacions efectives de processos matemàtics utilitzant eines digitals, facilitant la comprensió de conceptes abstractes o complexos."
+                },
+                {
+                    "code": "CA7.2",
+                    "description": "Seleccionar i utilitzar diverses formes de representació valorant la seva utilitat per compartir informació. Triar entre diferents formes de representació (verbal, numèrica, gràfica, algebraica) segons la naturalesa de la informació i l'objectiu de la comunicació. Transformar la informació entre diferents formes de representació, avaluant els avantatges i limitacions de cada una en el context donat. Crear representacions clares i efectives de dades i conceptes matemàtics que facilitin la comprensió i comunicació amb altres persones."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Comunicar les idees matematiques, de manera individual i col·lectiva, emprant",
+            "description": "comunicar les idees matematiques, de manera individual i col·lectiva, emprant el suport, la terminologia i el rigor apropiats, per organitzar i consolidar el pensament matemàtic. En la societat de la informació es fa cada dia més palesa la necessitat…",
+            "criterios": [
+                {
+                    "code": "CA8.1",
+                    "description": "Mostrar organització en comunicar les idees matemàtiques emprant el suport, la terminologia i el rigor apropiats. Estructurar de manera lògica i coherent l'exposició d'idees matemàtiques, establint una seqüència clara de conceptes i raonaments. Seleccionar els suports i formats més adequats per comunicar eficaçment diferents tipus de contingut matemàtic. Utilitzar la terminologia matemàtica específica de manera precisa i consistent."
+                },
+                {
+                    "code": "CA8.2",
+                    "description": "Reconèixer i emprar el llenguatge matemàtic en diferents contextos, comunicant la informació amb precisió i rigor. Interpretar i emprar correctament el llenguatge matemàtic en diversos contextos. Argumentar les afirmacions matemàtiques amb la precisió i el rigor exigibles a la corresponent etapa educativa."
+                }
+            ]
+        },
+        {
+            "code": "CE9",
+            "name": "Utilitzar destreses personals i socials, identificant i gestionant les propies",
+            "description": "utilitzar destreses personals i socials, identificant i gestionant les propies emocions respectant les dels altres i organitzant activament el treball en equips heterogenis, aprenent de l'error com a part del procés d'aprenentatge i afrontant situaci…",
+            "criterios": [
+                {
+                    "code": "CA9.1",
+                    "description": "Afrontar les situacions d'incertesa, identificant i gestionant emocions, acceptant i aprenent de l'error com a part del procés d'aprenentatge de les matemàtiques. Manejar les emocions associades a la incertesa o a l'error (com frustració o ansietat) de manera constructiva. Acceptar els errors com a part normal del procés d'aprenentatge i no com un obstacle. Analitzar els errors per entendre les causes i ajustar les estratègies de resolució en el futur."
+                },
+                {
+                    "code": "CA9.2",
+                    "description": "Mostrar una actitud positiva i perseverant, acceptant i aprenent de la crítica raonada en fer front a les diferents situacions d'aprenentatge de les matemàtiques. Mantenir una actitud oberta i optimista davant els reptes matemàtics. Continuar treballant en els problemes fins a trobar solucions, malgrat les dificultats. Acceptar la crítica constructiva de manera receptiva i utilitzar-la per millorar l'aprenentatge."
+                },
+                {
+                    "code": "CA9.3",
+                    "description": "Participar en tasques matemàtiques de manera activa en equips heterogenis, respectant les emocions i les experiències dels altres, escoltant el seu raonament, identificant les habilitats socials més propícies i fomentant el benestar grupal i les relacions saludables. Contribuir de manera significativa a les tasques matemàtiques en equip. Reconèixer i utilitzar habilitats socials útils per treballar en equip (com l'escolta activa, el respecte per les emocions, l'empatia, la paciència, la flexibilitat, etc.)."
+                }
+            ]
+        }
+    ]
+}

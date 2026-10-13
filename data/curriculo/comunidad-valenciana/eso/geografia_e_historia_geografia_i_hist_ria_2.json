@@ -1,0 +1,181 @@
+{
+    "community": "comunidad-valenciana",
+    "stage": "eso",
+    "decree": "Decreto 107\/2022, de 5 de agosto",
+    "subject": "geografia_e_historia_geografia_i_hist_ria",
+    "subject_name": "Geografia i Història",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Descriure i contextualitzar en el temps i l’espai els esdeveniments i els",
+            "description": "Descriure i contextualitzar en el temps i l’espai els esdeveniments i els processos més rellevants de la història pròpia i universal, identificant referents de l’evolució cap a la societat actual i valorant-ne la diversitat",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Construir un relat cronològicament ordenat i coherent sobre fets i personatges rellevants del passat i sobre la seua relació amb el present."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Reconéixer la diferent rellevància atorgada a uns fets històrics sobre uns altres en diferents moments del passat i en el present."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Manifestar interés i respecte per la diversitat històrica i cultural de les societats humanes. Criteris d'avaluació CE2. Buscar, identificar i seleccionar la informació referent a fets històrics, geogràfics i artístics a partir de diferents fonts documentals, i fer un tractament correcte quant a investigació, classificació, recollida, organització, crítica i respecte. SEGON CURS"
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Buscar, identificar i seleccionar la informació referent a fets històrics,",
+            "description": "Buscar, identificar i seleccionar la informació referent a fets històrics, geogràfics i artístics a partir de diferents fonts documentals, i fer un tractament correcte quant a investigació, classificació, recollida, organització, crítica i respecte",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Comparar la informació obtinguda amb les seues idees prèvies, i bandejar possibles prejudicis."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Seleccionar i utilitzar la informació més rellevant per a explicar determinats fets històrics, geogràfics i artístics que continguen diferents fonts documentals."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Identificar la informació que contenen diferents fonts documentals de fets històrics, geogràfics i artístics."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Formular i comunicar les seues pròpies conclusions sobre fets històrics, geogràfics i artístics, i representar-les d'una manera textual, gràfica o audiovisual. Criteris avaluació CE3. Explicar les nocions bàsiques de canvi i continuïtat en la història emprant una perspectiva causal i contextualitzada, reconéixer en el passat l'origen i l'evolució de les qüestions més rellevants del món actual i expressar judicis i opinions sobre el present i el futur. SEGON CURS"
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Explicar les nocions bàsiques de canvi i continuïtat en la història emprant una",
+            "description": "Explicar les nocions bàsiques de canvi i continuïtat en la història emprant una perspectiva causal i contextualitzada, reconéixer en el passat l’origen i l’evolució de les qüestions més rellevants del món actual i expressar judicis i opinions sobre e…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Reconéixer causes i conseqüències respecte dels fets i els processos històrics més rellevants de diferents èpoques."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Contextualitzar i valorar decisions històricament rellevants preses per persones representatives del passat, tant en el context propi com en altres contextos socials, polítics i culturals."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Produir opinions i manifestar actituds de tolerància i respecte cap a altres cultures i cosmovisions. Criteris avaluació CE4. Contrastar les identitats individuals amb les col·lectives, identificant les aportacions decisives en la seua construcció i reconeixent i valorant les actuacions de tolerància i respecte. SEGON CURS"
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Contrastar les identitats individuals amb les col·lectives, identificar les",
+            "description": "Contrastar les identitats individuals amb les col·lectives, identificar les aportacions decisives en la seua construcció, reconeixent i valorant les actuacions de tolerància i respecte",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Identificar els elements definitoris més significatius de les identitats individuals i col·lectives del propi entorn."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Expressar opinions de respecte i tolerància cap a altres identitats, tant individuals com col·lectives."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Mostrar actituds d'interés i respecte cap a altres identitats, tant individuals com col·lectives. Criteris d'avaluació CE5. Explicar les interrelacions econòmiques fonamentals entre els elements de l'espai físic i les activitats de les societats humanes, així com la seua repercussió en la sostenibilitat. SEGON CURS"
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Explicar les interrelacions econòmiques fonamentals entre els elements de",
+            "description": "Explicar les interrelacions econòmiques fonamentals entre els elements de l’espai físic i les activitats de les societats humanes, així com la seua repercussió en la sostenibilitat",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Situar les activitats econòmiques i els recursos naturals més importants en l'espai geogràfic."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Detectar els problemes territorials i mediambientals més importants, tant a escala global com local, i fer propostes amb criteris de sostenibilitat."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Identificar i descriure l'impacte sobre el territori de les principals activitats econòmiques, diferenciant entre les que són sostenibles i les que no ho són. Criteris d'avaluació CE6. Contrastar els principals models d'ocupació territorial d'organització política i econòmica que expliquen la desigualtat entre els éssers humans, tant a escala local com global. SEGON CURS"
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Contrastar els principals models d’ocupació territorial i d’organització",
+            "description": "Contrastar els principals models d’ocupació territorial i d’organització política i econòmica que expliquen la desigualtat entre els éssers humans, tant a escala local com global",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Identificar i localitzar els principals models d'organització territorial, política i econòmica."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Distingir les entitats polítiques i les formes d'organització econòmica més importants dins dels principals models d'organització territorial, política i econòmica, i explicar com incideixen en la vida quotidiana dels seus habitants."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Assenyalar els principals problemes territorials, polítics i econòmics, així com els agents socials que hi intervenen a escala local, regional, estatal i supraestatal. Criteris d'avaluació CE7. Donar arguments des d'una perspectiva crítica, fonamentada en coneixements històrics i la geografia sobre problemes socials rellevants, assumint valors democràtics i pronunciant-se en la defensa d'aquests. SEGON CURS"
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Donar arguments des d’una perspectiva crítica, fonamentada en coneixements",
+            "description": "Donar arguments des d’una perspectiva crítica, fonamentada en coneixements històrics i la geografia sobre problemes socials rellevants, assumir valors democràtics i pronunciar-se en la defensa d’aquests",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Identificar els problemes socials més rellevants de l'actualitat, utilitzant com a guia els Objectius de Desenvolupament Sostenible."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Establir relacions causals entre les accions humanes i l'origen dels problemes socials més rellevants de l'actualitat."
+                },
+                {
+                    "code": "7.3",
+                    "description": "Mostrar interés pels problemes socials més rellevants i proposar solucions a aquests fonamentades en sabers geogràfics i històrics. Criteris d'avaluació CE8. Promoure projectes cooperatius de convivència i participar-hi, prenent com a base la construcció històrica de la Unió Europea, que afavorisquen un entorn més just i solidari mitjançant l'aplicació de valors i procediments democràtics. SEGON CURS"
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Promoure projectes cooperatius de convivència i participar-hi, prenent com a",
+            "description": "Promoure projectes cooperatius de convivència i participar-hi, prenent com a base la construcció històrica de la Unió Europea, que afavorisquen un entorn més just i solidari mitjançant l’aplicació de valors i procediments democràtics",
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Participar en projectes cooperatius, assumint diversos rols amb responsabilitat i reconeixent les aportacions dels seus iguals."
+                },
+                {
+                    "code": "8.2",
+                    "description": "Denunciar les situacions injustes i d'exclusió en qualsevol àmbit, prenent com a exemple la història d'Europa."
+                },
+                {
+                    "code": "8.3",
+                    "description": "Aplicar els principis democràtics i el diàleg per a resoldre els conflictes. Criteris d'avaluació CE9. Identificar l'origen i reconéixer el valor del patrimoni cultural i natural, especialment dels elements geogràfics, històrics i artístics, tant a escala local com a escala global, i participar en l'elaboració i la difusió de propostes que n'afavorisquen la preservació i la valoració. SEGON CURS"
+                }
+            ]
+        },
+        {
+            "code": "CE9",
+            "name": "Identificar l’origen i reconéixer el valor del patrimoni cultural i natural,",
+            "description": "Identificar l’origen i reconéixer el valor del patrimoni cultural i natural, especialment dels elements geogràfics, històrics i artístics, tant a escala local com global, i participar en l’elaboració i la difusió de propostes que n’afavorisquen la pr…",
+            "criterios": [
+                {
+                    "code": "9.1",
+                    "description": "Identificar béns patrimonials històrics, geogràfics i artístics, tant a escala global com local."
+                },
+                {
+                    "code": "9.2",
+                    "description": "Elaborar treballs de síntesi sobre el patrimoni més pròxim que reconeguen la seua varietat i importància com a element identitari."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "community": "canarias",
+    "stage": "bachillerato",
+    "decree": "Decreto 73\/2023, de 13 de abril",
+    "subject": "cultura_audiovisual",
+    "subject_name": "Cultura Audiovisual",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "(c1) El desarrollo de esta competencia específica se centra en el análisis de",
+            "description": "(c1) El desarrollo de esta competencia específica se centra en el análisis de las imágenes fotográficas fijas y producciones audiovisuales de distintos estilos, formatos, géneros y culturas. Se pretende que el alumnado sea capaz de analizar, comparar…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "El alumnado explica los cambios históricos esenciales del lenguaje fotográfico y audiovisual valorando su evolución."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Analizar cualidades plásticas, formales y semánticas de fotografías y audiovisuales, identificando reglas y códigos."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "(c2) La competencia específica se centra en la necesidad de plantear con rigor",
+            "description": "(c2) La competencia específica se centra en la necesidad de plantear con rigor tanto ético como formal los procedimientos a aplicar en la elaboración de producciones audiovisuales individuales o colectivas, con la finalidad de comunicar y expresar op…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Diseñar producciones audiovisuales creativas que expresen ideas y sentimientos propios a partir de un tema, incorporando experiencias personales y otros medios."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Evaluar el rigor ético y formal de producciones audiovisuales mediante análisis crítico, identificando manipulación y respetando la propiedad intelectual."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "(c3) Esta competencia específica se refiere a la realización, la selección y el",
+            "description": "(c3) Esta competencia específica se refiere a la realización, la selección y el uso de las técnicas, herramientas y convenciones del lenguaje en la producción audiovisual. Para ello, se tienen en cuenta todos los aspectos que forman parte del proceso…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Organizar equipos de trabajo identificando habilidades y distribuyendo tareas para producciones audiovisuales colectivas."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Planificar una producción audiovisual justificando medios, habilidades y soluciones a imprevistos."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Evalúa la capacidad del alumnado para anticipar y resolver problemas imprevistos durante la producción audiovisual, mostrando flexibilidad en la búsqueda de soluciones."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "(c4) Esta competencia específica explica la necesidad de tener en cuenta el",
+            "description": "(c4) Esta competencia específica explica la necesidad de tener en cuenta el proceso de recepción de la obra, determinando el público destinatario. Para ello es necesario analizar las características de dicho público, atender al propósito de la obra y…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Justificar las decisiones técnicas y de lenguaje de una producción audiovisual en función del público destinatario."
+                },
+                {
+                    "code": "4.2",
+                    "description": "El alumnado selecciona canales de difusión para producciones audiovisuales, justificando su elección según el propósito y el público, con respeto a la propiedad intelectual."
+                }
+            ]
+        }
+    ]
+}

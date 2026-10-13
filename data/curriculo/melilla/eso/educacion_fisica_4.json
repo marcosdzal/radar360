@@ -1,0 +1,113 @@
+{
+    "community": "melilla",
+    "stage": "eso",
+    "decree": "Real Decreto 217\/2022",
+    "subject": "educacion_fisica",
+    "subject_name": "Educación Física",
+    "grade": 4,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Adoptar un estilo de vida activo y saludable, seleccionando e incorporando",
+            "description": "Adoptar un estilo de vida activo y saludable, seleccionando e incorporando intencionalmente actividades físicas y deportivas en las rutinas diarias a partir de un análisis crítico de los modelos corporales y del rechazo de las prácticas que carezcan …",
+            "criterios": [
+                {
+                    "code": "1.6",
+                    "description": "Analizar aplicaciones digitales de actividad física valorando sus beneficios y riesgos para un uso saludable."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Adaptar, con progresiva autonomía en su ejecución, las capacidades físicas,",
+            "description": "Adaptar, con progresiva autonomía en su ejecución, las capacidades físicas, perceptivo-motrices y coordinativas, así como las habilidades y destrezas motrices, aplicando procesos de percepción, decisión y ejecución adecuados a la lógica interna y a l…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Diseñar y ejecutar proyectos motores individuales o grupales, incorporando autoevaluación y coevaluación del proceso y resultado."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Actuar correctamente en juegos y deportes tomando decisiones anticipadas y adaptándose al contexto, reflexionando sobre los resultados."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Demostrar control corporal eficiente y creativo resolviendo problemas motores transferibles a su vida cotidiana."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Compartir espacios de práctica físico-deportiva con independencia de las",
+            "description": "Compartir espacios de práctica físico-deportiva con independencia de las diferencias culturales, sociales, de género y de habilidad, priorizando el respeto entre participantes y a las reglas sobre los resultados, adoptando una actitud crítica ante co…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Practica variedad de actividades motrices valorando la ética, evitando competitividad excesiva y mostrando deportividad en distintos roles."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Cooperar y asumir roles para lograr metas individuales y grupales en actividades motrices."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Utilizar habilidades sociales, diálogo y respeto a la diversidad en la práctica físico-deportiva, mostrando actitud crítica y compromiso activo contra estereotipos y violencia."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Practicar, analizar y valorar distintas manifestaciones de la cultura motriz",
+            "description": "Practicar, analizar y valorar distintas manifestaciones de la cultura motriz aprovechando las posibilidades y recursos expresivos que ofrecen el cuerpo y el movimiento y profundizando en las consecuencias del deporte como fenómeno social, analizando …",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Participa en juegos y expresiones motrices, valorando su origen y evolución cultural."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Analizar objetivamente deportes y actividades evitando estereotipos de género o capacidad y comportamientos sexistas."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Crear y representar composiciones de expresión corporal individuales o colectivas usando el cuerpo como herramienta expresiva."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Adoptar un estilo de vida sostenible y ecosocialmente responsable aplicando",
+            "description": "Adoptar un estilo de vida sostenible y ecosocialmente responsable aplicando medidas de seguridad individuales y colectivas en la práctica físico-deportiva según el entorno y desarrollando colaborativa y cooperativamente acciones de servicio a la comu…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Diseñar secuencias de actividad física personalizadas a partir de una autoevaluación inicial."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Aplicar con autonomía progresiva las rutinas de activación, esfuerzo, alimentación, postura, relajación e higiene en la práctica motriz."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Aplicar medidas preventivas antes, durante y después de la actividad física, reconociendo situaciones de riesgo para actuar de forma autónoma."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Aplicar protocolos de primeros auxilios ante accidentes durante la práctica física."
+                },
+                {
+                    "code": "1.5",
+                    "description": "Analiza prácticas y comportamientos que afectan a la salud y convivencia, evaluando su impacto y evitando su reproducción."
+                },
+                {
+                    "code": "5.1",
+                    "description": "Realizar actividades físicas en la naturaleza minimizando el impacto ambiental y siendo consciente de la huella ecológica."
+                },
+                {
+                    "code": "5.2",
+                    "description": "El alumnado realiza actividades físico-deportivas en entornos naturales y urbanos cumpliendo normas de seguridad individual y colectiva."
+                }
+            ]
+        }
+    ]
+}

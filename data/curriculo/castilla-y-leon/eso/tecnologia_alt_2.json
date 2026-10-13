@@ -1,0 +1,132 @@
+{
+    "community": "castilla-y-leon",
+    "stage": "eso",
+    "decree": "",
+    "subject": "tecnologia_alt",
+    "subject_name": "Tecnología",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Identificar y proponer problemas tecnológicos con iniciativa y creatividad,",
+            "description": "Identificar y proponer problemas tecnológicos con iniciativa y creatividad, estudiando las necesidades de su entorno próximo y aplicando estrategias y procesos colaborativos e iterativos relativos a proyectos, para idear y planificar soluciones de ma…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Detectar necesidades en el entorno cercano para proponer y organizar soluciones tecnológicas creativas y sostenibles que aporten un beneficio real a la comunidad local."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Gestionar proyectos técnicos en equipo, empleando métodos de planificación y revisión continua desde la idea inicial hasta la presentación del resultado final."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Planificar y organizar el trabajo en equipo para resolver un problema tecnológico, utilizando técnicas de investigación y herramientas colaborativas para proponer soluciones creativas."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Aplicar las diversas estrategias de resolución de circuitos de electrónica analógica y digital, aportando soluciones propias a proyectos reales planteados. (STEM1, STEM2, STEM3, CD3)."
+                },
+                {
+                    "code": "1.5",
+                    "description": "Conocer el funcionamiento de circuitos neumáticos básicos y entender su misión dentro de los sistemas robóticos, realizando montajes físicos o simulados. (STEM1, STEM2, STEM3, CD3)."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Aplicar de forma apropiada y segura distintas técnicas y conocimientos",
+            "description": "Aplicar de forma apropiada y segura distintas técnicas y conocimientos interdisciplinares, utilizando procedimientos y recursos tecnológicos y analizando el ciclo de vida de productos, para fabricar soluciones tecnológicas accesibles y sostenibles qu…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Analizar críticamente el diseño y ciclo de vida de un producto tecnológico, considerando su impacto social, ambiental y su accesibilidad universal."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Construir objetos tecnológicos mediante el uso de herramientas manuales, digitales y de diseño asistido, seleccionando los materiales y componentes técnicos más adecuados para cada solución."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Detectar necesidades en escalas territoriales diversas, desde lo global a lo local, aplicando técnicas de ideación siguiendo estrategias colaborativas o cooperativas de planteamiento de proyectos. (CD3, CPSAA4, CC4, CCEC4)."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Expresar, comunicar y difundir ideas, propuestas o soluciones tecnológicas en",
+            "description": "Expresar, comunicar y difundir ideas, propuestas o soluciones tecnológicas en diferentes foros de manera efectiva, usando un lenguaje inclusivo y no sexista, empleando los recursos disponibles y aplicando los elementos y técnicas necesarias, para int…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Comunicar ideas técnicas y colaborar en equipo usando herramientas digitales, simbología normalizada y vocabulario específico de forma asertiva y responsable."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Comunicar oralmente soluciones tecnológicas de forma estructurada, controlando el tiempo y el lenguaje, para transmitir ideas de manera inclusiva y profesional ante un público."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Difundir las producciones de acuerdo con el conocimiento de la diferente normativa relacionada con la simbología empleada, la expresión gráfica y la forma de representación de las diferentes partes de un proyecto o solución tecnológica ideada. (STEM4, CD3, CC3)."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Desarrollar soluciones automatizadas a problemas planteados",
+            "description": "Desarrollar soluciones automatizadas a problemas planteados, aplicando los conocimientos necesarios e incorporando tecnologías emergentes, para diseñar y construir sistemas de control programables y robóticos.",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Crear y programar prototipos robóticos o simulaciones capaces de ejecutar tareas autónomas integrando mecánica, electrónica y sistemas de control para resolver problemas técnicos."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Incorporar funciones de control digital, simulación o conectividad IoT en proyectos tecnológicos, analizando de forma crítica su utilidad y las implicaciones éticas de su uso."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Programar a través de ordenadores y dispositivos móviles, utilizando también adecuadamente espacios compartidos y discos virtuales, realizando la tarea de modo colaborativo. (CP2, CD2, CD5)."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Aprovechar y emplear de manera responsable las posibilidades de las",
+            "description": "Aprovechar y emplear de manera responsable las posibilidades de las herramientas digitales, adaptándolas a sus necesidades, configurándolas y aplicando conocimientos interdisciplinares, para la resolución de tareas de una manera más eficiente.",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Utilizar y configurar herramientas digitales de forma autónoma para completar tareas técnicas, optimizando el flujo de trabajo mediante la aplicación de conocimientos de diversas áreas."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Emplear artefactos propios de la fabricación digital, gestionando el software de edición y utilizando con propiedad las impresoras 3D y cortadoras láser. (CP2, STEM3, CD5, CPSAA5)."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Analizar procesos tecnológicos, teniendo en cuenta su impacto en la sociedad y",
+            "description": "Analizar procesos tecnológicos, teniendo en cuenta su impacto en la sociedad y el entorno y aplicando criterios de sostenibilidad y accesibilidad, para hacer un uso ético y ecosocialmente responsable de la tecnología.",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Seleccionar materiales y procesos de fabricación justificando su elección bajo criterios de sostenibilidad, accesibilidad y bajo impacto ambiental en proyectos tecnológicos."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Explicar las ventajas ambientales de la arquitectura bioclimática y el transporte sostenible, valorando cómo la tecnología ayuda a proteger el entorno y lograr el desarrollo sostenible."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Explicar los beneficios sociales de proyectos tecnológicos basados en comunidades abiertas, voluntariado o servicios a la comunidad, destacando su impacto positivo en la sociedad."
+                },
+                {
+                    "code": "6.4",
+                    "description": "Identificar y valorar la repercusión y los beneficios del desarrollo de proyectos tecnológicos de carácter social poniendo en valor elementos como comunidades abiertas, acciones de voluntariado o proyectos de servicio a la comunidad. (STEM5, CPSAA3, CC4)."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "community": "baleares",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "coro_tecnica_vocal_1",
+    "subject_name": "Coro y Técnica Vocal I",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Escoltar i visionar de manera activa peces vocals de diferents estils, gèneres",
+            "description": "Escoltar i visionar de manera activa peces vocals de diferents estils, gèneres i cultures, analitzar els trets d'estil i les característiques de la interpretació, per desenvolupar el criteri estètic, estimular l'hàbit d'escolta activa i ampliar les p…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar piezas vocales explicando por qué pertenecen a un estilo, género o cultura, y comentar la interpretación y puesta en escena."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Expressar-se vocalment i corporalment, de manera individual i col·lectiva, a",
+            "description": "Expressar-se vocalment i corporalment, de manera individual i col·lectiva, a través de l'aplicació de diferents tècniques i la realització d'activitats d'improvisació, per reforçar l'autoestima i l'autoconfiança i desenvolupar la veu i el cos com a i…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Realizar ejercicios e improvisaciones vocales con técnicas sanas, reforzando autoestima y autoconfianza."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Interpretar peces de diferents estils i gèneres musicals, participant en",
+            "description": "Interpretar peces de diferents estils i gèneres musicals, participant en diferents formacions vocals, per potenciar la comunicació artística rica i el desenvolupament de valors col·lectius. La interpretació de peces de diferents repertoris, expressat…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Interpretar piezas en coro mostrando eficacia, escucha activa y expresión vocal y corporal adecuada al conjunto."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Participar en projectes escènics, amb actuacions i tasques pròpies de la",
+            "description": "Participar en projectes escènics, amb actuacions i tasques pròpies de la producció, per afavorir el creixement artístic personal, enriquir l'entorn cultural i identificar oportunitats de desenvolupament personal, social, acadèmic o professional. El d…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Mostrar durante la actuación una actitud escénica adecuada y respeto por el público."
+                },
+                {
+                    "code": "4.2",
+                    "description": "El alumnado colabora activamente en el montaje de proyectos escénicos mostrando responsabilidad y trabajo en equipo."
+                }
+            ]
+        }
+    ]
+}

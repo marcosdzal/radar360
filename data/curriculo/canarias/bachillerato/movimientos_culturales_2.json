@@ -1,0 +1,109 @@
+{
+    "community": "canarias",
+    "stage": "bachillerato",
+    "decree": "Decreto 73\/2023, de 13 de abril",
+    "subject": "movimientos_culturales",
+    "subject_name": "Movimientos Culturales y Artísticos",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "(c1) Esta competencia específica aborda el conocimiento de los movimientos",
+            "description": "(c1) Esta competencia específica aborda el conocimiento de los movimientos culturales y artísticos y su relación con el momento histórico en el que surgen, identificando sus semejanzas y diferencias. Para ello el alumnado ha de analizar las produccio…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Identificar y relacionar aspectos singulares de obras vanguardistas y actuales con su contexto y tradición."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Relacionar manifestaciones artísticas de diferentes disciplinas para identificar rasgos comunes de una época."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Investigar el papel de los movimientos culturales como motores de cambio social usando fuentes fiables."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "(c2) La competencia específica se centra en las formas de participación activa",
+            "description": "(c2) La competencia específica se centra en las formas de participación activa del alumnado para la conservación del patrimonio.",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Explica la importancia de conservar y difundir el patrimonio artístico y cultural."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Explicar la repercusión social del arte analizando ejemplos de implicación de creadores y efectos en la sociedad."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Analizar la diversidad cultural y la libre expresión en manifestaciones artísticas, incluyendo obras de mujeres y culturas no occidentales."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Elaborar proyectos de investigación individuales o colectivos que muestren implicación personal sobre la libre expresión artística y sus límites, analizando casos concretos."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "(c3) Esta competencia específica introduce al alumnado en la identificación y",
+            "description": "(c3) Esta competencia específica introduce al alumnado en la identificación y conocimiento de los lenguajes y valores artísticos. Lo hace estableciendo relaciones entre diversos lenguajes culturales y artísticos con el fin de descubrir y comprender s…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Identificar y explicar las características de producciones artísticas analizando sus lenguajes y códigos."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Comparar manifestaciones culturales desde las vanguardias hasta la actualidad identificando referentes comunes en temas, lenguajes o intencionalidades."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Debatir sobre propuestas culturales y artísticas desde las vanguardias hasta hoy, intercambiando opiniones y sentimientos con juicios estéticos argumentados."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Debatir sobre diferentes propuestas culturales y artísticas, intercambiando las opiniones y los sentimientos experimentados, e incorporando juicios de valor vinculados a la apreciación estética de las obras de manera argumentada, constructiva y respetuosa."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "(c4) La competencia específica profundiza en las personas creadoras y la",
+            "description": "(c4) La competencia específica profundiza en las personas creadoras y la búsqueda incesante de construir nuevas formas de expresión, reivindicando la superación de las técnicas, de los límites tradicionales y la necesidad de avanzar hacia el futuro c…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Defender con argumentos cómo los nuevos lenguajes y tecnologías han influido en el arte y la cultura recientes, analizando críticamente producciones y valorando la innovación."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Evaluar el impacto social y económico del arte y la cultura, reflexionando sobre las oportunidades personales y profesionales que generan."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Identificar diversos ámbitos y espacios culturales actuales y analizar cómo condicionan las manifestaciones artísticas."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "(c5) En esta competencia específica se hace referencia a la certeza de que toda",
+            "description": "(c5) En esta competencia específica se hace referencia a la certeza de que toda manifestación cultural y artística constituye un testimonio de la condición humana. Por ello, se busca que el alumnado comprenda el papel de los movimientos culturales y …",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Observar manifestaciones artísticas actuales reconociendo su valor expresivo y social."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Explicar impactos ambientales, sociales y económicos del arte y proponer alternativas alineadas con los ODS."
+                }
+            ]
+        }
+    ]
+}

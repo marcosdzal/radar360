@@ -1,0 +1,244 @@
+{
+    "community": "galicia",
+    "stage": "bachillerato",
+    "decree": "Decreto 157\/2022, de 15 de septiembre",
+    "subject": "biologia_y_geologia_geologia_y_ciencias_ambientales",
+    "subject_name": "Geología y Ciencias Ambientales",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Interpretar y transmitir con precisión información y datos extraídos de trabajos científicos",
+            "description": "Interpretar y transmitir con precisión información y datos extraídos de trabajos científicos, para analizar conceptos, procesos, métodos, experimentos o resultados relacionados con las ciencias geológicas y ambientales. - Las ciencias geológicas y am…",
+            "criterios": [
+                {
+                    "code": "CE1.1",
+                    "description": "Analizar críticamente conceptos y procesos relacionados con los saberes de la geología y de las ciencias ambientales seleccionando e interpretando información en diversos formatos, como mapas (topográficos, hidrográficos, hidrogeológicos, geológicos, de vegetación...), cortes, modelos, diagramas de flujo u otros."
+                },
+                {
+                    "code": "CE1.2",
+                    "description": "Comunicar informaciones u opiniones razonadas relacionadas con los saberes de la geología y de las ciencias ambientales, transmitiéndolas de forma clara y rigurosa, y utilizando el vocabulario y los formatos adecuados, como mapas (topográficos, hidrográficos, hidrogeológicos, geológicos, de vegetación...), cortes, modelos, diagramas de flujo u otros, y respondiendo con precisión las cuestiones que puedan surgir durante la exposición."
+                },
+                {
+                    "code": "CE1.3",
+                    "description": "Realizar discusiones científicas sobre aspectos relacionados con los saberes de la geología y de las ciencias ambientales, considerando los puntos fuertes y débiles de diferentes posturas de forma razonada y con actitud receptiva y respetuosa ante la opinión de los demás."
+                },
+                {
+                    "code": "CE1.5",
+                    "description": "Contrastar y justificar la veracidad de la información relacionada con los saberes de la geología y de las ciencias ambientales, utilizando fuentes fiables, aportando datos y adoptando una actitud crítica y escéptica hacia informaciones sin una base científica, como pseudociencias, teorías conspiradoras, creencias infundadas, noticias falsas..."
+                },
+                {
+                    "code": "CE2.3",
+                    "description": "Explicar las principales estructuras geológicas derivadas de la tectónica de placas relacionándolas con los bordes y zonas de intraplaca y las causas que explican el movimiento."
+                },
+                {
+                    "code": "CE2.4",
+                    "description": "Reconocer la influencia del ciclo de Wilson sobre la disposición de los continentes y los principales episodios orogénicos a través de mapas geológicos, modelos o figuras."
+                },
+                {
+                    "code": "CE2.5",
+                    "description": "Clasificar pliegues y fallas identificando sus elementos geométricos y la relación entre el esfuerzo y la deformación que los producen."
+                },
+                {
+                    "code": "CE3.1",
+                    "description": "Comprender los diferentes tipos de meteorización analizando la influencia de los factores condicionantes."
+                },
+                {
+                    "code": "CE3.2",
+                    "description": "Describir los procesos edafogenéticos identificando las características de los suelos."
+                },
+                {
+                    "code": "CE3.4",
+                    "description": "Explicar la acción geomorfológica de los agentes geológicos externos a través de los mecanismos de erosión, transporte y sedimentación que genera cada uno de ellos."
+                },
+                {
+                    "code": "CE4.1",
+                    "description": "Reconocer la materia mineral analizando las características generales de los minerales."
+                },
+                {
+                    "code": "CE4.2",
+                    "description": "Diferenciar la materia cristalina de la materia amorfa, comprendiendo el proceso de cristalización y los principios básicos de la cristalografía."
+                },
+                {
+                    "code": "CE4.3",
+                    "description": "Clasificar e identificar los principales minerales empleando un criterio químico-estructural y sus propiedades."
+                },
+                {
+                    "code": "CE5.1",
+                    "description": "Comprender el origen de las rocas ígneas a través de los procesos magmáticos."
+                },
+                {
+                    "code": "CE5.2",
+                    "description": "Describir la formación de las rocas metamórficas reconociendo los principios del metamorfismo."
+                },
+                {
+                    "code": "CE5.3",
+                    "description": "Explicar el origen de las rocas sedimentarias relacionando los procesos y los ambientes sedimentarios."
+                },
+                {
+                    "code": "CE5.4",
+                    "description": "Clasificar las rocas ígneas, metamórficas y sedimentarias empleando criterios químicos, mineralógicos, estructurales y\/o composicionales."
+                },
+                {
+                    "code": "CE5.5",
+                    "description": "Identificar, a través de diferentes métodos, las principales rocas mediante su mineralogía, textura y origen."
+                },
+                {
+                    "code": "CE5.8",
+                    "description": "Describir la formación y la evolución de las rocas relacionando el magmatismo, el metamorfismo y la sedimentación con la teoría de la tectónica de placas."
+                },
+                {
+                    "code": "CE6.1",
+                    "description": "Identificar la composición, estructura y funciones de la atmósfera y de la hidrosfera relacionándolas con su importancia para el origen y la evolución de la vida."
+                },
+                {
+                    "code": "CE6.2",
+                    "description": "Explicar la dinámica de la atmósfera y de la hidrosfera a través de figuras y\/o diagramas."
+                },
+                {
+                    "code": "CE6.3",
+                    "description": "Reconocer la distribución del agua en la Tierra relacionándola con el ciclo hidrológico."
+                },
+                {
+                    "code": "CE6.5",
+                    "description": "Comprender la dinámica hídrica de las aguas subterráneas analizando la hidrogeología de los acuíferos y describiendo los impactos de su uso y la explotación sostenible."
+                },
+                {
+                    "code": "CE7.4",
+                    "description": "Identificar los recursos de la biosfera relacionándolos con sus aplicaciones en la vida cotidiana."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Localizar y utilizar fuentes fiables identificando, seleccionando y organizando",
+            "description": "Localizar y utilizar fuentes fiables identificando, seleccionando y organizando información, evaluándola críticamente y contrastando su veracidad, para resolver preguntas expuestas de forma autónoma y crear contenidos relacionados con las ciencias ge…",
+            "criterios": [
+                {
+                    "code": "CE1.4",
+                    "description": "Exponer y resolver cuestiones y crear contenidos relacionados con los saberes de la geología y de las ciencias ambientales localizando y citando fuentes de forma adecuada, seleccionando, organizando y analizando críticamente la información."
+                },
+                {
+                    "code": "CE2.1",
+                    "description": "Describir la estructura interna de la Tierra interpretando y contrastando la información que aportan los diferentes métodos de estudio."
+                },
+                {
+                    "code": "CE3.3",
+                    "description": "Reconocer los suelos de Galicia seleccionando e interpretando información en herramientas digitales, mapas e imágenes."
+                },
+                {
+                    "code": "CE3.6",
+                    "description": "Investigar sobre la geomorfología de Galicia relacionando los agentes geológicos y la modelación del relieve próximo."
+                },
+                {
+                    "code": "CE6.4",
+                    "description": "Analizar los principales procesos de contaminación del aire y del agua, describiendo sus causas y sus consecuencias sobre el medio ambiente."
+                },
+                {
+                    "code": "CE7.2",
+                    "description": "Investigar los recursos geológicos de Galicia relacionando los minerales y las rocas del territorio con su interés económico y empleando herramientas digitales u otras fuentes."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Analizar críticamente resultados de trabajos de investigación o divulgación",
+            "description": "Analizar críticamente resultados de trabajos de investigación o divulgación relacionados con las ciencias geológicas y ambientales, comprobando si siguen correctamente los pasos de los métodos científicos para evaluar la fiabilidad de sus conclusione…",
+            "criterios": [
+                {
+                    "code": "CE1.6",
+                    "description": "Evaluar la fiabilidad de las conclusiones de un trabajo de investigación o divulgación científica relacionado con los saberes de la geología y de las ciencias ambientales, de acuerdo con la interpretación de los resultados obtenidos."
+                },
+                {
+                    "code": "CE1.8",
+                    "description": "Argumentar, utilizando ejemplos concretos, sobre la contribución de la ciencia a la sociedad y la labor de las personas dedicadas a ella, destacando el papel de las mujeres y entendiendo la investigación como una labor colectiva e interdisciplinar en constante evolución, influida por el contexto político y social y por los recursos económicos."
+                },
+                {
+                    "code": "CE2.2",
+                    "description": "Valorar los avances tecnológicos y científicos que permitieron llegar a la teoría de la tectónica de placas integrando las pruebas que la avalan."
+                },
+                {
+                    "code": "CE6.6",
+                    "description": "Argumentar que los avances científicos y tecnológicos permiten mejorar la calidad del aire y del agua."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Exponer y resolver problemas buscando y utilizando las estrategias adecuadas,",
+            "description": "Exponer y resolver problemas buscando y utilizando las estrategias adecuadas, analizando críticamente las soluciones y reformulando el procedimiento, si fuera necesario, para explicar fenómenos relacionados con las ciencias geológicas y ambientales. …",
+            "criterios": [
+                {
+                    "code": "CE4.4",
+                    "description": "Explicar fenómenos relacionados con los saberes de la mineralogía a través del planteamiento y resolución de problemas, buscando y utilizando las estrategias y recursos adecuados (diagramas, modelos, figuras...)."
+                },
+                {
+                    "code": "CE4.5",
+                    "description": "Analizar críticamente la solución a un problema relacionado con los saberes de la mineralogía y replantear los procedimientos utilizados o conclusiones si dicha solución no fuera viable o ante nuevos datos aportados o encontrados con posterioridad."
+                },
+                {
+                    "code": "CE5.6",
+                    "description": "Explicar fenómenos relacionados con los saberes de la petrología a través del planteamiento y resolución de problemas, buscando y utilizando las estrategias y los recursos adecuados (diagramas, modelos, figuras...)."
+                },
+                {
+                    "code": "CE5.7",
+                    "description": "Analizar críticamente la solución a un problema relacionado con los saberes de la petrología y replantear los procedimientos utilizados o conclusiones si dicha solución no fuera viable o ante nuevos datos aportados o encontrados con posterioridad."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Analizar los impactos de determinadas acciones sobre el medio ambiente o la",
+            "description": "Analizar los impactos de determinadas acciones sobre el medio ambiente o la disponibilidad de recursos a través de observaciones de campo y de información en diferentes formatos y basándose en fundamentos científicos para promover y adoptar estilos d…",
+            "criterios": [
+                {
+                    "code": "CE6.7",
+                    "description": "Relacionar el impacto de la explotación de determinados recursos con el deterioro ambiental, argumentando sobre la importancia de su consumo y el aprovechamiento responsable."
+                },
+                {
+                    "code": "CE7.1",
+                    "description": "Reconocer la utilidad que tienen los recursos geológicos a través de sus aplicaciones en la vida cotidiana."
+                },
+                {
+                    "code": "CE7.3",
+                    "description": "Describir la importancia de los recursos hídricos valorando su explotación, tratamiento eficaz y gestión sostenible."
+                },
+                {
+                    "code": "CE7.5",
+                    "description": "Promover y adoptar hábitos de vida sostenibles a partir del análisis de los diferentes tipos de recursos geológicos y de la biosfera, analizando y valorando sus posibles usos."
+                },
+                {
+                    "code": "CE7.6",
+                    "description": "Relacionar el impacto de la explotación de determinados recursos con el deterioro ambiental y social argumentando sobre la importancia de su extracción, uso y aprovechamiento responsables."
+                },
+                {
+                    "code": "CE7.7",
+                    "description": "Argumentar sobre la importancia de la prevención y gestión de los residuos valorando su disminución, valorización, transformación y eliminación, y reconociendo las limitaciones del medio ambiente como su sumidero natural."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Identificar y analizar los elementos geológicos del relieve a partir de",
+            "description": "Identificar y analizar los elementos geológicos del relieve a partir de observaciones de campo o de información en diferentes formatos para explicar fenómenos, reconstruir la historia geológica, hacer predicciones e identificar posibles riesgos geoló…",
+            "criterios": [
+                {
+                    "code": "CE1.7",
+                    "description": "Deducir y explicar la historia geológica de un área determinada identificando y analizando sus elementos geológicos a partir de información en diferentes formatos (fotografías, cortes, mapas geológicos...) y empleando los principios geológicos básicos, la escala de tiempo geológico, discontinuidades estratigráficas y el contenido paleontológico."
+                },
+                {
+                    "code": "CE2.6",
+                    "description": "Realizar predicciones sobre riesgos geológicos internos en un área determinada, analizando la influencia de diferentes factores sobre ellos, y proponer acciones para prevenir o minimizar sus posibles efectos negativos."
+                },
+                {
+                    "code": "CE3.5",
+                    "description": "Comprender el modelado del relieve identificando los factores condicionantes, procesos y formas geomorfológicas características de cada medio."
+                },
+                {
+                    "code": "CE3.7",
+                    "description": "Realizar predicciones sobre riesgos geológicos externos en un área determinada, analizando la influencia de diferentes factores sobre ellos, y proponer acciones para prevenir o minimizar sus posibles efectos negativos."
+                }
+            ]
+        }
+    ]
+}

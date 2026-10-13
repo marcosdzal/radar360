@@ -1,0 +1,114 @@
+{
+    "community": "galicia",
+    "stage": "bachillerato",
+    "decree": "Decreto 157\/2022, de 15 de septiembre",
+    "subject": "dibujo_tecnico_2",
+    "subject_name": "Dibujo Técnico II",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Interpretar elementos o conjuntos arquitectónicos y de ingeniería, empleando",
+            "description": "Interpretar elementos o conjuntos arquitectónicos y de ingeniería, empleando recursos asociados a la percepción, estudio, construcción e investigación de formas para analizar las estructuras geométricas y los elementos técnicos utilizados.",
+            "criterios": [
+                {
+                    "code": "CE1.1",
+                    "description": "Analizar la evolución de las estructuras geométricas y de los elementos técnicos en la arquitectura y en la ingeniería contemporáneas, valorando la influencia del progreso tecnológico y de las técnicas digitales de representación y modelado en los campos de la arquitectura y de la ingeniería."
+                },
+                {
+                    "code": "CE4.1",
+                    "description": "Analizar la evolución de las estructuras geométricas y de los elementos técnicos en la arquitectura y en la ingeniería contemporáneas, valorando la influencia del progreso tecnológico y de las técnicas digitales de representación y modelado en los campos de la arquitectura y de la ingeniería."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Utilizar razonamientos inductivos, deductivos y lógicos en problemas de índole gráficomatemáticos",
+            "description": "Utilizar razonamientos inductivos, deductivos y lógicos en problemas de índole gráficomatemáticos, aplicando fundamentos de la geometría plana para resolver gráficamente operaciones matemáticas, relaciones, construcciones y transformaciones.",
+            "criterios": [
+                {
+                    "code": "CE1.2",
+                    "description": "Construir figuras planas aplicando transformaciones geométricas y valorando su utilidad en los sistemas de representación."
+                },
+                {
+                    "code": "CE1.3",
+                    "description": "Resolver tangencias aplicando los conceptos de potencia con una actitud de rigor en la ejecución."
+                },
+                {
+                    "code": "CE1.4",
+                    "description": "Trazar curvas cónicas y sus rectas tangentes aplicando propiedades y métodos de construcción, y mostrando interés por la precisión."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Desarrollar la visión espacial, utilizando la geometría descriptiva en",
+            "description": "Desarrollar la visión espacial, utilizando la geometría descriptiva en proyectos sencillos, considerando la importancia del dibujo en arquitectura e ingenierías para resolver problemas e interpretar y recrear gráficamente la realidad tridimensional s…",
+            "criterios": [
+                {
+                    "code": "CE1.5",
+                    "description": "Valorar el rigor gráfico del proceso, la claridad, la precisión y el proceso de resolución y construcción gráfica."
+                },
+                {
+                    "code": "CE2.1",
+                    "description": "Valorar el rigor gráfico del proceso, la claridad, la precisión y el proceso de resolución y construcción gráfica."
+                },
+                {
+                    "code": "CE2.2",
+                    "description": "Resolver problemas geométricos mediante abatimiento, giros y cambios de plano, reflexionando sobre los métodos utilizados y los resultados obtenidos."
+                },
+                {
+                    "code": "CE2.3",
+                    "description": "Representar cuerpos geométricos y de revolución aplicando los fundamentos del sistema diédrico."
+                },
+                {
+                    "code": "CE2.4",
+                    "description": "Recrear la realidad tridimensional mediante la representación de sólidos en perspectivas axonométricas y cónica, aplicando los conocimientos específicos de dichos sistemas de representación."
+                },
+                {
+                    "code": "CE2.5",
+                    "description": "Resolver problemas geométricos y de representación mediante el sistema de planos acotados."
+                },
+                {
+                    "code": "CE3.1",
+                    "description": "Resolver problemas geométricos mediante abatimiento, giros y cambios de plano, reflexionando sobre su utilidad en la obtención de cortes, secciones y roturas."
+                },
+                {
+                    "code": "CE3.2",
+                    "description": "Representar cuerpos geométricos y de revolución aplicando los fundamentos del sistema diédrico para generar vistas normalizadas."
+                },
+                {
+                    "code": "CE3.3",
+                    "description": "Recrear la realidad tridimensional mediante la representación de sólidos en perspectivas axonométricas normalizadas, aplicando los conocimientos específicos de dicho sistema de representación."
+                },
+                {
+                    "code": "CE3.4",
+                    "description": "Valorar el rigor gráfico del proceso, la claridad, la precisión y el proceso de resolución y construcción gráfica."
+                },
+                {
+                    "code": "CE3.5",
+                    "description": "Desarrollar proyectos gráficos sencillos mediante el sistema de planos acotados."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Formalizar y definir diseños técnicos aplicando las normas UNE e ISO de manera",
+            "description": "Formalizar y definir diseños técnicos aplicando las normas UNE e ISO de manera apropiada, valorando la importancia que tiene el croquis para documentar gráficamente proyectos arquitectónicos e ingenieriles.",
+            "criterios": [
+                {
+                    "code": "CE3.6",
+                    "description": "Elaborar la documentación gráfica apropiada a proyectos de diferentes campos, formalizando y definiendo diseños técnicos empleando croquis y planos conforme a la normativa UNE e ISO."
+                },
+                {
+                    "code": "CE4.2",
+                    "description": "Elaborar mediante aplicaciones CAD la documentación gráfica apropiada a proyectos de diferentes campos, formalizando y definiendo diseños técnicos conforme a la normativa UNE e ISO."
+                },
+                {
+                    "code": "CE4.3",
+                    "description": "Integrar el soporte digital en la representación de objetos y construcciones mediante aplicaciones CAD valorando las posibilidades que estas herramientas aportan al dibujo y al trabajo colaborativo."
+                }
+            ]
+        }
+    ]
+}

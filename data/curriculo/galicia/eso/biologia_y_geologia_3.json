@@ -1,0 +1,193 @@
+{
+    "community": "galicia",
+    "stage": "eso",
+    "decree": "Decreto 156\/2022, de 15 de septiembre",
+    "subject": "biologia_y_geologia",
+    "subject_name": "Biología y Geología",
+    "grade": 3,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Interpretar y transmitir información y datos científicos argumentando sobre",
+            "description": "Interpretar y transmitir información y datos científicos argumentando sobre ellos y utilizando diferentes formatos para analizar conceptos y procesos de las ciencias biológicas y geológicas. - El desarrollo científico rara vez es fruto del trabajo de…",
+            "criterios": [
+                {
+                    "code": "CE1.1",
+                    "description": "Analizar y explicar conceptos y procesos biológicos y geológicos interpretando la información obtenida en diferentes formatos (modelos, gráficos, tablas, diagramas, fórmulas, esquemas, símbolos, páginas web...), manteniendo una actitud crítica y llegando a conclusiones fundamentadas."
+                },
+                {
+                    "code": "CE1.2",
+                    "description": "Resolver cuestiones sobre biología y geología localizando, seleccionando y organizando información mediante la citación y el uso correctos de distintas fuentes."
+                },
+                {
+                    "code": "CE1.3",
+                    "description": "Exponer preguntas e hipótesis e intentar realizar predicciones sobre fenómenos biológicos o geológicos que puedan ser respondidas o contrastadas utilizando métodos científicos."
+                },
+                {
+                    "code": "CE1.4",
+                    "description": "Reconocer la información sobre temas biológicos y geológicos con base científica distinguiéndola de pseudociencias, bulos, teorías conspiradoras y creencias infundadas... y manteniendo una actitud escéptica ante estos."
+                },
+                {
+                    "code": "CE1.5",
+                    "description": "Diseñar y realizar la experimentación, la toma de datos y el análisis de fenómenos biológicos y geológicos de modo que permitan responder preguntas concretas y contrastar una hipótesis expuesta."
+                },
+                {
+                    "code": "CE1.6",
+                    "description": "Presentar las conclusiones del proyecto de investigación mediante las herramientas digitales y el formato adecuado (tablas, gráficos, informes...) interpretando los resultados y la información obtenida a través de la experimentación y de la observación de campo."
+                },
+                {
+                    "code": "CE1.7",
+                    "description": "Cooperar dentro de un proyecto científico asumiendo responsablemente una función concreta, utilizando espacios virtuales cuando sea necesario, respetando la diversidad y la igualdad de género y favoreciendo la inclusión."
+                },
+                {
+                    "code": "CE1.8",
+                    "description": "Valorar la contribución de la ciencia a la sociedad y la labor de personas dedicadas a ella con independencia de su etnia, sexo o cultura, destacando y reconociendo el papel de las mujeres científicas y entendiendo la investigación como una labor colectiva e interdisciplinar en constante evolución."
+                },
+                {
+                    "code": "CE2.1",
+                    "description": "Clasificar los riesgos empleando como criterio las causas naturales que los producen."
+                },
+                {
+                    "code": "CE2.3",
+                    "description": "Explicar el origen y la distribución de la actividad sísmica y volcánica en la Tierra y los tipos de erupciones volcánicas, integrándolas con la teoría de la tectónica de placas."
+                },
+                {
+                    "code": "CE3.1",
+                    "description": "Analizar y comprender la información sobre procesos biológicos o trabajos científicos transmitiéndola de forma clara y utilizando la terminología y el formato adecuados."
+                },
+                {
+                    "code": "CE3.2",
+                    "description": "Reconocer la célula como la unidad estructural y funcional de los seres vivos a través del conocimiento de los postulados de la teoría celular."
+                },
+                {
+                    "code": "CE3.3",
+                    "description": "Diferenciar las estructuras básicas de los diferentes tipos de células utilizando diferentes estrategias de observación y comparación y relacionándolas con sus funciones."
+                },
+                {
+                    "code": "CE3.4",
+                    "description": "Describir los virus como formas acelulares causantes de algunas patologías en los humanos."
+                },
+                {
+                    "code": "CE4.3",
+                    "description": "Identificar los aparatos y sistemas que participan en la función de nutrición."
+                },
+                {
+                    "code": "CE4.4",
+                    "description": "Reflexionar sobre la importancia de la alimentación y de la nutrición para el buen funcionamiento del organismo reconociendo las diferencias entre alimentación y nutrición y diferenciando los nutrientes y sus funciones básicas."
+                },
+                {
+                    "code": "CE4.5",
+                    "description": "Explicar los procesos fundamentales de la nutrición relacionándolos con las estructuras de los aparatos y de los sistemas que intervienen en ella."
+                },
+                {
+                    "code": "CE4.6",
+                    "description": "Reconocer los órganos, aparatos y sistemas que intervienen en la función de relación estableciendo las diferencias y las funciones de cada uno y describiendo los principales procesos, órganos y estructura implicadas."
+                },
+                {
+                    "code": "CE4.7",
+                    "description": "Comprender la relación funcional entre el sistema nervioso y el sistema endócrino."
+                },
+                {
+                    "code": "CE4.8",
+                    "description": "Reconocer los procesos de la reproducción humana identificando las estructuras del aparato reproductor y endócrino implicadas."
+                },
+                {
+                    "code": "CE6.1",
+                    "description": "Analizar conceptos y procesos relacionados con la salud y con la enfermedad interpretando información en diferentes formatos (modelos, gráficos, tablas, diagramas, fórmulas, esquemas, símbolos, páginas web…), manteniendo una actitud crítica y obteniendo conclusiones fundamentadas."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Identificar, localizar y seleccionar información, contrastando su veracidad,",
+            "description": "Identificar, localizar y seleccionar información, contrastando su veracidad, organizándola y evaluándola críticamente para resolver preguntas relacionadas con las ciencias biológicas y geológicas. - La investigación científica, la participación activ…",
+            "criterios": [
+                {
+                    "code": "CE2.5",
+                    "description": "Localizar las áreas con riesgo sísmico en Galicia seleccionando información mediante el uso correcto de diferentes fuentes."
+                },
+                {
+                    "code": "CE4.9",
+                    "description": "Reflexionar sobre la reproducción y la sexualidad valorando su propia sexualidad y la de las personas de su entorno."
+                },
+                {
+                    "code": "CE5.1",
+                    "description": "Resolver cuestiones relacionadas con hábitos de vida saludables localizando, seleccionando y organizando información mediante la citación y el uso correctos de distintas fuentes."
+                },
+                {
+                    "code": "CE5.2",
+                    "description": "Reconocer la información con base científica sobre cuestiones relacionadas con la salud humana distinguiéndola de pseudociencias, boatos, teorías conspiradoras y creencias infundadas... y manteniendo una actitud escéptica ante estos."
+                },
+                {
+                    "code": "CE6.2",
+                    "description": "Reconocer la información con base científica en relación con la salud y con la enfermedad distinguiéndola de pseudociencias, boatos, teorías conspiradoras y creencias infundadas... y manteniendo una actitud escéptica ante estos."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Utilizar el razonamiento y el pensamiento computacional, analizando",
+            "description": "Utilizar el razonamiento y el pensamiento computacional, analizando críticamente las respuestas y soluciones y replanteando el procedimiento, si es necesario, para resolver problemas o dar explicación a procesos de la vida cotidiana relacionados con …",
+            "criterios": [
+                {
+                    "code": "CE4.1",
+                    "description": "Resolver problemas o explicar procesos biológicos utilizando conocimientos, datos e información proporcionados, el razonamiento lógico, el pensamiento computacional o recursos digitales."
+                },
+                {
+                    "code": "CE4.2",
+                    "description": "Analizar críticamente la solución a un problema sobre fenómenos biológicos."
+                },
+                {
+                    "code": "CE5.3",
+                    "description": "Analizar críticamente la solución a un problema relacionado con la alimentación saludable, con las drogas y con la sexualidad."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Analizar los efectos de determinadas acciones sobre el medio ambiente y la",
+            "description": "Analizar los efectos de determinadas acciones sobre el medio ambiente y la salud basándose en los fundamentos de las ciencias biológicas y de la Tierra para promover y adoptar hábitos que eviten o minimicen los impactos ambientales negativos, que sea…",
+            "criterios": [
+                {
+                    "code": "CE5.4",
+                    "description": "Reflexionar sobre la importancia de la adquisición de hábitos y estilos de vida saludables como método de prevención de dolencias ejemplificando con situaciones próximas al alumnado."
+                },
+                {
+                    "code": "CE5.5",
+                    "description": "Analizar la importancia de una buena alimentación y actividad física percibiéndolos como hábitos saludables para el individuo y la sociedad."
+                },
+                {
+                    "code": "CE5.6",
+                    "description": "Reconocer el sexo y la sexualidad desde la perspectiva de la igualdad entre hombres y mujeres y respetando la diversidad sexual."
+                },
+                {
+                    "code": "CE5.7",
+                    "description": "Reconocer las drogas (incluidas las de curso legal) considerándolas como causa de perjuicios no solo para las personas que las consumen, sino también para las que están en su entorno próximo."
+                },
+                {
+                    "code": "CE6.3",
+                    "description": "Comparar las enfermedades infecciosas y no infecciosas identificando las medidas de prevención y los tratamientos que existen hasta el momento."
+                },
+                {
+                    "code": "CE6.4",
+                    "description": "Analizar el funcionamiento y las estructuras que comprende el sistema inmunitario reconociendo su papel en la prevención y superación de las enfermedades infecciosas."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Analizar los elementos de un paisaje concreto valorándolo como patrimonio",
+            "description": "Analizar los elementos de un paisaje concreto valorándolo como patrimonio natural y utilizando conocimientos sobre geología y ciencias de la Tierra para explicar su historia geológica, proponer acciones encaminadas a su protección e identificar posib…",
+            "criterios": [
+                {
+                    "code": "CE2.2",
+                    "description": "Analizar los riesgos naturales a través de los factores de riesgo valorando la importancia de las medidas de predicción y prevención."
+                },
+                {
+                    "code": "CE2.4",
+                    "description": "Valorar la importancia del análisis del riesgo sísmico y volcánico y las medidas de predicción y prevención para minimizar sus efectos, buscando y aportando ejemplos."
+                }
+            ]
+        }
+    ]
+}

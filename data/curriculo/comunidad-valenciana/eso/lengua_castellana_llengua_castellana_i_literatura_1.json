@@ -1,0 +1,221 @@
+{
+    "community": "comunidad-valenciana",
+    "stage": "eso",
+    "decree": "Decreto 107\/2022, de 5 de agosto",
+    "subject": "lengua_castellana_llengua_castellana_i_literatura",
+    "subject_name": "Llengua Castellana i Literatura",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Multilingüisme i interculturalitat Descriure i apreciar la diversitat",
+            "description": "Multilingüisme i interculturalitat Descriure i apreciar la diversitat lingüística i cultural de la Comunitat Valenciana, d’Espanya i del món, per mitjà del reconeixement de les llengües de l’alumnat i de la realitat multilingüe i intercultural de l’e…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Identificar i valorar les llengües d'Espanya i del món, i les varietats lingüístiques de les dues llengües oficials de la Comunitat Valenciana, identificant nocions bàsiques de les llengües i contrastant característiques en discursos orals, escrits i multimodals."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Mostrar interés per l'ús del valencià en les diferents situacions comunicatives de l'àmbit personal, social i educatiu, i valorar la seua importància com a llengua pròpia del territori."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Mostrar interés i respecte per les varietats lingüístiques, contrastant algunes de les seues característiques en diferents contextos d'ús i identificant expressions d'ús habitual i menys habitual."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Identificar prejudicis i estereotips lingüístics a partir de l'observació de la diversitat lingüística de l'entorn, amb una actitud de respecte i valoració de la riquesa cultural, lingüística i dialectal."
+                },
+                {
+                    "code": "1.5",
+                    "description": "Reflexionar i exemplificar, amb certa autonomia, aspectes del funcionament de les llengües, a partir de l'observació, la comparació entre aquestes i la manipulació de paraules, oracions i textos de distintes llengües, fent ús del metallenguatge."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Comprensió oral i multimodal Comprendre, interpretar i valorar, de manera",
+            "description": "Comprensió oral i multimodal Comprendre, interpretar i valorar, de manera autònoma, textos orals i multimodals propis dels àmbits personal, social, educatiu i professional, per mitjà de l’escolta activa, aplicant estratègies de comprensió oral, refle…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Escoltar de manera activa, interpretar i valorar, amb progressiva autonomia, textos orals i multimodals de gèneres, tipologies i registres diferents, propis de l'àmbit personal, social i educatiu, reflexionant sobre el contingut i la forma, i avaluant-ne la qualitat i la fiabilitat, així com la idoneïtat del canal utilitzat."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Interpretar el sentit global i les idees principals i secundàries de textos orals i multimodals de coneixements ajustats a diferents àmbits del coneixement."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Extraure i interpretar informació (explícita i implícita) dels textos orals i multimodals, i dels elements no verbals, i valorar el propòsit del text i la intenció de l'emissor."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Comprensió escrita i multimodal Comprendre, interpretar i valorar, de manera",
+            "description": "Comprensió escrita i multimodal Comprendre, interpretar i valorar, de manera autònoma, textos escrits i multimodals propis dels àmbits personal, social, educatiu i professional, per mitjà de la lectura de textos, aplicant estratègies de comprensió es…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Llegir, interpretar i valorar, amb progressiva autonomia, textos escrits i multimodals de gèneres, tipologies i registres diferents propis de l'àmbit personal, social i educatiu, per mitjà de l'anàlisi dels elements formals i de contingut propis del nivell educatiu, i avaluant-ne la qualitat i fiabilitat, així com la idoneïtat del canal utilitzat i l'eficàcia dels procediments comunicatius emprats."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Aplicar, amb progressiva autonomia, tot tipus d'estratègies per a comprendre el sentit global i la informació específica, distingir les idees principals de les secundàries, obtindre informació literal, interpretar informació explícita i implícita i valorar el propòsit de diferents textos i la intenció de l'emissor."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Identificar les tipologies textuals i els gèneres discursius, i reconéixer l'estructura i algunes de les característiques lingüístiques específiques de cada tipus de text."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Localitzar, seleccionar i contrastar informació procedent de diferents fonts, avaluant-ne la fiabilitat i pertinença, en diferents textos multimodals en mitjans digitals, amb progressiva autonomia, de l'àmbit personal, social i educatiu."
+                },
+                {
+                    "code": "3.5",
+                    "description": "Aplicar, amb progressiva autonomia, tot tipus d'estratègies per a la cerca, selecció, gestió i edició de la informació, en diferents textos multimodals, per a coneixements de manera responsable, contrastar la informació de fonts de caràcter general, atenent el context i la intenció comunicativa, i utilitzar-la citant-ne les fonts."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Expressió oral Produir missatges orals amb coherència, cohesió i adequació,",
+            "description": "Expressió oral Produir missatges orals amb coherència, cohesió i adequació, fluïdesa i correcció, per mitjà de diferents suports i situacions de comunicació de l’àmbit familiar, social, educatiu o professional",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Produir, amb progressiva autonomia, discursos orals sobre diferents àmbits del coneixement, ajustats a la comunicativa i als gèneres discursius de l'àmbit personal, social i educatiu, amb adequació i coherència, fent ús de connectors i aportant el seu propi punt de vista."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Produir discursos orals amb una pronunciació correcta i una entonació adequada, utilitzant els elements prosòdics i els recursos no verbals adequats que reforcen el discurs i utilitzant diferents suports audiovisuals."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Efectuar produccions orals amb un registre estàndard, un llenguatge no discriminatori i un vocabulari precís i ajustat a la norma, mostrant un bon domini lingüístic i morfosintàctic i reflexionant sobre la llengua i el seu ús."
+                },
+                {
+                    "code": "4.4",
+                    "description": "Seleccionar i contrastar informació procedent de diferents fonts, de manera progressivament autònoma, sobre temes de l'àmbit personal, social i educatiu, avaluant-ne la fiabilitat, i compartir oralment els resultats adoptant un punt de vista personal i respectuós amb la propietat intel·lectual."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Expressió escrita i multimodal Produir textos escrits i multimodals coherents,",
+            "description": "Expressió escrita i multimodal Produir textos escrits i multimodals coherents, cohesionats, adequats i correctes emprant estratègies de planificació, textualització, revisió i edició",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Produir, amb progressiva autonomia, textos escrits i multimodals de gèneres discursius de l'àmbit personal, social i educatiu que responguen a la situació comunicativa amb adequació, coherència, cohesió i correcció, utilitzant elements de cohesió variats."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Utilitzar un llenguatge no discriminatori i detectar, de manera progressivament autònoma, els possibles usos manipuladors de la llengua durant el procés de composició escrita."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Utilitzar, durant el procés d'escriptura, de manera reflexiva i amb ajuda puntual del professorat, i incorporant progressivament metallenguatge, els coneixements lingüístics, textuals i discursius necessaris en la situació d'aprenentatge."
+                },
+                {
+                    "code": "5.4",
+                    "description": "Planificar, textualitzar, revisar i editar, amb progressiva autonomia, durant el procés d'escriptura, mitjançant gradualment complexes."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Interacció oral, escrita i multimodal Interactuar de manera oral, escrita i multimodal",
+            "description": "Interacció oral, escrita i multimodal Interactuar de manera oral, escrita i multimodal, de forma progressivament autònoma, per mitjà de textos de complexitat creixent dels àmbits personal, social, educatiu i professional, utilitzant un llenguatge no …",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Interactuar oralment, amb progressiva autonomia, sobre coneixements ajustats a la situació comunicativa de l'àmbit personal, social i educatiu, per mitjà de diferents suports, aplicant l'escolta activa i utilitzant un vocabulari precís i no discriminatori, la cortesia lingüística, l'etiqueta digital i els recursos no verbals que faciliten la construcció d'un discurs consensuat."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Identificar i rebutjar, amb ajuda puntual, els usos discriminatoris i manipuladors de la llengua, a partir de la reflexió i l'anàlisi dels elements verbals i no verbals utilitzats en el discurs."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Utilitzar, amb ajuda puntual, estratègies per a la gestió dialogada de conflictes en l'àmbit personal, educatiu i social."
+                },
+                {
+                    "code": "6.4",
+                    "description": "Interactuar en textos escrits i multimodals de manera asíncrona i síncrona amb progressiva autonomia, mostrant empatia i respecte per les diferents necessitats, idees i motivacions dels interlocutors, utilitzant estratègies per a expressar missatges cohesionats, coherents i adequats amb un vocabulari precís i no discriminatori."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Mediació oral, escrita i multimodal Mediar entre interlocutors aplicant",
+            "description": "Mediació oral, escrita i multimodal Mediar entre interlocutors aplicant estratègies d’adaptació, simplificació i reformulació del llenguatge per a processar i transmetre informació més elaborada en situacions comunicatives d’àmbit personal, social i …",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Mostrar interés per participar en la solució de problemes de comprensió recíproca entre parlants de llengües o varietats lingüístiques diferents, sobre assumptes diversos de l'àmbit personal, social i educatiu."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Comprendre, comunicar i descriure textos de complexitat mitjana en diferents suports, o explicar conceptes, de manera oral o escrita, combinant el seu repertori lingüístic (L1-L1, L1-L2, L2-L1)."
+                },
+                {
+                    "code": "7.3",
+                    "description": "Seleccionar i aplicar, de manera progressivament autònoma, estratègies de simplificació i adaptació de la llengua, que faciliten la comprensió i expressió oral i escrita de la informació en diferents llengües del seu repertori lingüístic (L1-L1, L1-L2, L2-L1)."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Lectura autònoma Llegir obres i textos de caràcter divers i de complexitat",
+            "description": "Lectura autònoma Llegir obres i textos de caràcter divers i de complexitat progressiva, seleccionats amb autonomia, i reflexionar sobre el perfil lector que es va configurant",
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Llegir obres diverses i textos escrits i multimodals de l'àmbit personal, social i educatiu, seleccionant, amb progressiva autonomia, els que millor s'ajusten en cada moment vital als seus gustos, interessos i necessitats personals."
+                },
+                {
+                    "code": "8.2",
+                    "description": "Deixar constància del propi itinerari lector i de les experiències lectores."
+                },
+                {
+                    "code": "8.3",
+                    "description": "Compartir les experiències de lectura, en suports diversos, participant en comunitats lectores en l'àmbit educatiu i social, i relacionant el sentit de l'obra amb la pròpia experiència biogràfica i lectora."
+                }
+            ]
+        },
+        {
+            "code": "CE9",
+            "name": "Competència literària Llegir i produir textos literaris, contextualitzats en la",
+            "description": "Competència literària Llegir i produir textos literaris, contextualitzats en la cultura i la societat, com a font de plaer i de coneixement",
+            "criterios": [
+                {
+                    "code": "9.1",
+                    "description": "Llegir i escoltar fragments literaris i obres completes, amb progressiva autonomia i en contextos socioculturals pròxims, tenint en compte els interessos de l'alumne."
+                },
+                {
+                    "code": "9.2",
+                    "description": "Interpretar la informació rellevant dels textos literaris, de les obres completes, i aportar conclusions de manera reflexiva."
+                },
+                {
+                    "code": "9.3",
+                    "description": "Establir, de manera guiada, vincles entre els textos llegits i altres textos escrits, orals o multimodals, o bé amb altres manifestacions artístiques en funció de temes, tòpics, estructures, llenguatge i valors ètics o estètics, mostrant, a més, implicació i resposta personal del lector en la lectura."
+                },
+                {
+                    "code": "9.4",
+                    "description": "Expressar opinió sobre textos i obres literàries, utilitzant alguns recursos retòrics i el metallenguatge literari, amb suport puntual del professorat."
+                },
+                {
+                    "code": "9.5",
+                    "description": "Crear textos literaris senzills dels gèneres bàsics (contes, dramatitzacions, poemes, cançons) aplicant els recursos literaris bàsics adequats, amb progressiva autonomia."
+                },
+                {
+                    "code": "9.6",
+                    "description": "Participar en manifestacions literàries, recitals i representacions teatrals partint de models. CURRÍCULUM DE LES MATÈRIES OPTATIVES D'EDUCACIÓ SECUNDÀRIA OBLIGATÒRIA CURRÍCULO DE LAS MATERIAS OPTATIVAS DE EDUCACIÓN SECUNDARIA OBLIGATORIA"
+                }
+            ]
+        }
+    ]
+}

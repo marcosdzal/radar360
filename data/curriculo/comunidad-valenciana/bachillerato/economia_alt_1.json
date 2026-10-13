@@ -1,0 +1,140 @@
+{
+    "community": "comunidad-valenciana",
+    "stage": "bachillerato",
+    "decree": "Decreto 108\/2022, de 5 de agosto",
+    "subject": "economia_alt",
+    "subject_name": "Economía",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Argumentar la importància d’adoptar decisions responsables en l’àmbit econòmic,",
+            "description": "Argumentar la importància d’adoptar decisions responsables en l’àmbit econòmic, analitzar-ne la repercussió en els diferents sectors i comparar solucions alternatives que ofereixen els diferents sistemes en el marc dels processos de globalització i i…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar la repercusión de decisiones económicas, valorar la integración y comparar sistemas para comprender la realidad actual."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Identificar las causas de la escasez y comparar distintas estrategias económicas, justificando cuál es más eficiente."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Analizar los procesos individuales y colectivos en la toma de decisiones económicas y su impacto social."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Utilitzar correctament la terminologia econòmica adaptada al nivell educatiu en activitats orals i escrites de l’àmbit personal, acadèmic, social o professional, en les diferents llengües del currículum, i utilitzar un llenguatge no discriminatori"
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Identificar i analitzar el funcionament del mercat, analitzar-ne les fallades,",
+            "description": "Identificar i analitzar el funcionament del mercat, analitzar-ne les fallades, interpretar la repercussió d’aquestes en l’entorn i argumentar el paper de l’Estat per a afrontar-les",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Valorar los efectos de fallos del mercado microeconómicos y aplicar ese análisis a la toma de decisiones."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Explica el funcionamiento del mercado analizando oferta, demanda, precios y tipos de mercado."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Analizar críticamente los fallos del mercado, evaluar sus consecuencias y reflexionar sobre soluciones."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Descriure les funcions de l’Estat en l’economia relacionant la seua actuació amb les fallades del mercat a partir de fets, successos o esdeveniments concrets"
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Identificar i comparar el paper dels diferents agents econòmics en el flux",
+            "description": "Identificar i comparar el paper dels diferents agents econòmics en el flux circular de la renda, i reconéixer i valorar els beneficis i costos que aquest flux genera, l’impacte que té en el desenvolupament econòmic i la seua relació amb el benestar d…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Valorar críticamente el papel de los agentes económicos en el flujo circular de la renta y su contribución al desarrollo y bienestar."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Diferencia costes y beneficios de los agentes en el flujo circular y analiza su impacto en desarrollo y bienestar."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Analitzar el paper de l’Estat per mitjà de diferents polítiques econòmiques i reflexionar sobre l’impacte econòmic i social"
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Analitzar el funcionament bàsic del sistema financer descrivint els efectes",
+            "description": "Analitzar el funcionament bàsic del sistema financer descrivint els efectes sobre l’economia real, distingint els factors que intervenen en les decisions financeres relacionades amb la inversió, l’estalvi, els productes financers i la cerca de fonts …",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Analiza el sistema financiero y la política monetaria, valorando sus efectos en la economía real y en las decisiones financieras personales."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Planificar y gestionar finanzas personales usando conocimientos del sistema financiero, valorando su impacto en la economía real."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Conectar el análisis del sistema financiero con las decisiones financieras personales cotidianas."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Identificar les principals amenaces i oportunitats a què s’enfronta actualment",
+            "description": "Identificar les principals amenaces i oportunitats a què s’enfronta actualment l’economia, analitzar l’impacte de la globalització econòmica, la nova economia i la revolució digital i proposar iniciatives relacionades amb l’entorn més pròxim que fome…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Propone iniciativas que fomentan equidad, justicia y sostenibilidad, analizando críticamente los impactos de la globalización, nueva economía y revolución digital."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Analizar críticamente los retos económicos actuales y proponer iniciativas equitativas y sostenibles."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Reforçar l’autoestima, la creativitat i el sentit de pertinença i analitzar les oportunitats que la globalització ofereix per mitjà d’exemples concrets de l’àmbit personal i social"
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Investigar i interpretar fets, successos o esdeveniments concrets de",
+            "description": "Investigar i interpretar fets, successos o esdeveniments concrets de l’actualitat econòmica utilitzant eines de l’anàlisi econòmica i tenint en compte els factors psicològics, socials, cognitius, emocionals i mediambientals més rellevants que condici…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "El alumnado diseña propuestas de solución a problemas económicos reales usando herramientas de análisis económico y considerando factores individuales y colectivos."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Avaluar l’estructura del mercat de treball i la relació que té amb l’educació i la formació, i analitzar de manera especial la desocupació i la seua evolució, així com les diferents opcions de polítiques per a afrontar-la, a partir de l’estudi de casos i comentaris de text"
+                },
+                {
+                    "code": "6.3",
+                    "description": "Analitzar la importància dels indicadors macroeconòmics com a mesura de desenvolupament d’una economia i la cerca de nous indicadors alternatius més ajustats al manteniment de l’estat de benestar per mitjà de l’estudi de dades objectives"
+                },
+                {
+                    "code": "6.4",
+                    "description": "Comparar els nous models de comerç internacional generats a partir de la revolució tecnològica i digital, i avaluar l’impacte en els processos d’integració existents per mitjà de fonts d’informació en diferents idiomes"
+                },
+                {
+                    "code": "6.5",
+                    "description": "Distingir les diferents teories que expliquen la inflació i els efectes que té sobre els consumidors, les empreses i l’economia en general, i analitzar els diferents tipus de política monetària valorant-ne l’impacte econòmic i social, per mitjà de la interpretació de dades i gràfics"
+                }
+            ]
+        }
+    ]
+}

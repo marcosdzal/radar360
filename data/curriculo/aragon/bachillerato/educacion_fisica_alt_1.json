@@ -1,0 +1,101 @@
+{
+    "community": "aragon",
+    "stage": "bachillerato",
+    "decree": "Orden ECD\/1112\/2022, de 18 de julio",
+    "subject": "educacion_fisica_alt",
+    "subject_name": "Educación Física",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Adaptar autónomamente la motricidad para resolver situaciones motrices según la",
+            "description": "Adaptar autónomamente la motricidad para resolver situaciones motrices según la lógica interna de las mismas (capacidades físicas, perceptivo-motrices y coordinativas, así como las habilidades y destrezas motrices específicas de algunas modalidades p…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Planifica, elabora y aplica un programa personal de actividad física para mejorar o mantener la salud, evaluando los resultados."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Aplicar autónomamente procesos de activación, autorregulación, alimentación, postura y relajación, reflexionando sobre su vínculo con futuros estudios o profesiones."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Aplica medidas de prevención de lesiones y primeros auxilios, identificando transferencias al ámbito profesional."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Analizar críticamente estereotipos corporales y conductas de riesgo en la información recibida, aplicando criterios científicos."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Analizar críticamente e indagar acerca de las prácticas y manifestaciones",
+            "description": "Analizar críticamente e indagar acerca de las prácticas y manifestaciones culturales vinculadas con la motricidad según su origen y su evolución desde la perspectiva de género y de los intereses económicos, políticos y sociales que hayan condicionado…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Gestionar autónomamente proyectos motores, resolviendo imprevistos y ajustándose a objetivos de forma creativa y eficiente."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Resuelve autónomamente situaciones de oposición\/colaboración ajustando estrategias a cambios en el juego."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Difundir y promover nuevas prácticas motrices, compartiendo espacios de",
+            "description": "Difundir y promover nuevas prácticas motrices, compartiendo espacios de actividad físico-deportiva con independencia de las diferencias culturales, sociales, de género y de habilidad, priorizando el respeto hacia los participantes y a las reglas sobr…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Diseñar y dirigir actividades motrices valorando su aplicación profesional y beneficios personales y sociales."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Cooperar mostrando iniciativa en proyectos motrices y resolver imprevistos de forma coordinada."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Mediar en conflictos y establecer relaciones de respeto durante prácticas motrices, aplicando estrategias de prevención y posicionándose críticamente ante la discriminación."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Implementar un estilo de vida sostenible y comprometido con la conservación y mejora del entorno",
+            "description": "Implementar un estilo de vida sostenible y comprometido con la conservación y mejora del entorno, organizando y desarrollando acciones de servicio a la comunidad vinculadas a la actividad física y al deporte, y asumiendo responsabilidades en la segur…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Analizar el origen y evolución de manifestaciones motrices, rechazando componentes contrarios a valores inclusivos."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Crear y representar composiciones corporales expresivas individuales o colectivas con o sin música."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Interiorizar un estilo de vida activo y saludable, planificando responsable y",
+            "description": "Interiorizar un estilo de vida activo y saludable, planificando responsable y conscientemente su actividad física a partir de la autoevaluación personal basada en información constatable, y llevándola a la práctica de manera consecuente, para satisfa…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Participar en actividades físicas en entornos naturales minimizando el impacto ambiental y contribuyendo a su conservación."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Organizar y practicar actividades físicas seguras en espacios naturales y urbanos."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Planificar, elaborar y poner en práctica de manera autónoma un programa personal de actividad física dirigido a la mejora o al mantenimiento de la salud, basado en información constatable, aplicando los diferentes sistemas de desarrollo de las capacidades físicas y motrices implicadas (inteligencia motriz), y respetando la propia realidad e identidad corporal, evaluando los resultados obtenidos."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "community": "comunidad-valenciana",
+    "stage": "bachillerato",
+    "decree": "Decreto 108\/2022, de 5 de agosto",
+    "subject": "educacion_fisica_alt",
+    "subject_name": "Educació Física",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Planificar i posar en pràctica un programa saludable d’activitat física i",
+            "description": "Planificar i posar en pràctica un programa saludable d’activitat física i esportiva adequat a les característiques personals i dirigit al benestar físic, mental i social",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Planificar, elaborar y poner en práctica de manera autónoma un programa personal de actividad física dirigido a la mejora o al mantenimiento de la salud, aplicando los diferentes sistemas de desarrollo de las capacidades físicas implicadas, según las necesidades e intereses individuales y respetando la propia realidad e identidad corporal, evaluando los resultados obtenidos."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Incorporar de forma autónoma, y según sus preferencias personales, los procesos de activación corporal, autorregulación y dosificación del esfuerzo, alimentación saludable, educación postural y relajación e higiene durante la práctica de actividades motrices,"
+                },
+                {
+                    "code": "1.3",
+                    "description": "Conocer y aplicar de manera responsable y autónoma medidas específicas para la prevención de lesiones antes, durante y después de la actividad física, así como para la aplicación de primeros auxilios ante situaciones de emergencia o accidente, identificando las posibles transferencias que estos conocimientos tienen al ámbito profesional y ocupacional."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Actuar de forma crítica, comprometida y responsable ante los estereotipos sociales asociados al ámbito de lo corporal y los comportamientos que pongan en riesgo la salud, aplicando con autonomía e independencia criterios científicos de validez, fiabilidad y objetividad a la información recibida."
+                },
+                {
+                    "code": "1.5",
+                    "description": "Emplear de manera autónoma aplicaciones y dispositivos digitales relacionados con la gestión de la actividad física, respetando la privacidad y las medidas básicas de seguridad vinculadas a la difusión pública de datos personales."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Dissenyar, practicar i dirigir diferents situacions físicoesportives, adequant",
+            "description": "Dissenyar, practicar i dirigir diferents situacions físicoesportives, adequant el nivell de les habilitats i aplicant els elements tècnics, tàctics i reglamentaris adients",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Desarrollar proyectos motores de carácter individual, cooperativo o colaborativo, gestionando autónomamente cualquier imprevisto o situación que pueda ir surgiendo a lo largo del proceso de forma eficiente, creativa y ajustada a los objetivos que se pretendan alcanzar."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Solucionar de forma autónoma situaciones de oposición, colaboración o colaboración-oposición en contextos deportivos o recreativos con fluidez, precisión y control, aplicando de manera automática procesos de percepción, decisión y ejecución en contextos reales o simulados de actuación y adaptando las estrategias a las condiciones cambiantes que se producen en la práctica."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Identificar, analizar y comprender los factores clave que condicionan la intervención de los componentes cualitativos y cuantitativos de la motricidad en la realización de gestos técnicos o situaciones motrices variadas, identificando errores comunes y proponiendo soluciones a los mismos."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Dissenyar, planificar i desenvolupar projectes de naturalesa",
+            "description": "Dissenyar, planificar i desenvolupar projectes de naturalesa artisticoexpressiva amb l’ús del cos i el moviment com a elements comunicatius de la cultura motriu",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Organizar y practicar diversas actividades motrices, valorando su potencial como posible salida profesional y analizando sus beneficios desde la perspectiva de la salud, el disfrute, la autosuperación y las posibilidades de interacción social, adoptando actitudes de interés, esfuerzo, liderazgo y empatía al asumir y desempeñar distintos roles relacionados con ellas."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Cooperar o colaborar mostrando iniciativa durante el desarrollo de proyectos y producciones motrices, solventando de forma coordinada cualquier imprevisto o situación que pueda ir surgiendo a lo largo del proceso."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Establecer mecanismos de relación y entendimiento con el resto de participantes durante el desarrollo de diversas prácticas motrices con autonomía, haciendo uso efectivo de habilidades sociales de diálogo en la resolución de conflictos y respeto ante la diversidad, ya sea de género, afectivo-sexual, de origen nacional, étnico, socio-económica o de competencia motriz, y posicionándose activa, reflexiva y críticamente frente a los estereotipos, las actuaciones discriminatorias y la violencia, así como conocer las estrategias para la prevención, la detección precoz y el abordaje de las mismas."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Adoptar un estil de vida saludable i sostenible aplicant principis d’ètica",
+            "description": "Adoptar un estil de vida saludable i sostenible aplicant principis d’ètica ambiental i seguretat per a transformar l’entorn",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Comprender y contextualizar la influencia cultural y social de las manifestaciones motrices más relevantes en el panorama actual, analizando sus orígenes y su evolución hasta la actualidad y rechazando aquellos componentes que no se ajusten a los valores de una sociedad abierta, inclusiva, diversa e igualitaria."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Crear y representar composiciones corporales individuales o colectivas, con y sin base musical, aplicando con precisión, idoneidad y coordinación escénica las técnicas expresivas más apropiadas a cada composición para representarlas ante sus compañeros y compañeras u otros miembros de la comunidad."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Identificar oportunitats personals, acadèmiques i laborals relacionades amb",
+            "description": "Identificar oportunitats personals, acadèmiques i laborals relacionades amb l’activitat física, l’esport i l’oci actiu a partir d’experiències personals i mitjançant l’ús de la tecnologia",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Promover y participar en actividades físico-deportivas en entornos naturales terrestres o acuáticos, interactuando con el entorno de manera sostenible, minimizando el impacto ambiental que estas puedan producir, reduciendo al máximo su huella ecológica y desarrollando actuaciones dirigidas a la conservación y mejora de las condiciones de los espacios en los que se desarrollen."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Practicar y organizar actividades físico-deportivas en el medio natural y urbano, asumiendo responsabilidades y aplicando normas de seguridad individuales y colectivas para prever y controlar los riesgos intrínsecos a la propia actividad derivados de la utilización de los equipamientos, el entorno o la propia actuación de los participantes."
+                }
+            ]
+        }
+    ]
+}

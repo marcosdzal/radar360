@@ -1,0 +1,100 @@
+{
+    "community": "canarias",
+    "stage": "bachillerato",
+    "decree": "Decreto 73\/2023, de 13 de abril",
+    "subject": "ingles",
+    "subject_name": "Lengua Extranjera II",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "(c1) La competencia específica de comprensión supone recibir y procesar información",
+            "description": "(c1) La competencia específica de comprensión supone recibir y procesar información. En la etapa de Bachillerato se desglosa en tres criterios de evaluación y se desarrolla a partir de textos orales, escritos y multimodales sobre temas de relevancia …",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Extraer y analizar ideas principales, detalles e implicaciones de textos complejos orales, escritos y multimodales."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Interpretar y valorar críticamente textos complejos (académicos y mediáticos) identificando intención, rasgos discursivos y matices como la ironía."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Seleccionar y aplicar estrategias de comprensión para extraer información, inferir significados y contrastar información veraz en textos."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "(c2) La competencia específica de producción se aborda desde tres criterios de",
+            "description": "(c2) La competencia específica de producción se aborda desde tres criterios de evaluación y engloba tanto la expresión oral como la escrita y la multimodal, así como sus estrategias asociadas. En esta etapa, la producción supone la redacción y la exp…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Expresarse oralmente con fluidez, claridad y adecuación sobre temas personales o de interés público."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Producir textos detallados y complejos usando diversas fuentes, justificando opiniones y evitando el plagio."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Componer textos bien estructurados y adecuados al contexto, usando estrategias de planificación, producción y revisión."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "(c3) La competencia específica de interacción implica a dos o más participantes en la construcción de un discurso",
+            "description": "(c3) La competencia específica de interacción implica a dos o más participantes en la construcción de un discurso. Se considera el origen del lenguaje y comprende funciones interpersonales, cooperativas y transaccionales. En la interacción con otras …",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Planificar y participar en interacciones orales y digitales, colaborando con empatía y argumentación convincente."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Seleccionar y usar estrategias comunicativas de forma espontánea y eficaz para gestionar interacciones respetuosas."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "(c4) La competencia de mediación consiste en explicar y facilitar la",
+            "description": "(c4) La competencia de mediación consiste en explicar y facilitar la comprensión de mensajes o textos a partir de estrategias como la reformulación, de manera oral, escrita o multimodal. En la mediación, el alumnado debe actuar como agente social enc…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Interpreta y explica textos diversos respetando la diversidad lingüística y resolviendo problemas de comprensión entre interlocutores."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Aplicar estrategias de mediación para explicar y simplificar mensajes, adaptándose al contexto y usando apoyos físicos o digitales."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "(c5) La competencia específica de plurilingüismo comprende un único criterio de",
+            "description": "(c5) La competencia específica de plurilingüismo comprende un único criterio de evaluación, y se basa en el uso del repertorio lingüístico y la reflexión sobre el funcionamiento de la lengua. El enfoque plurilingüe parte del hecho de que las experien…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Compara y contrasta lenguas, reflexiona sobre su funcionamiento y establece relaciones entre ellas."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "(c6) La competencia intercultural está definida en un único criterio de evaluación",
+            "description": "(c6) La competencia intercultural está definida en un único criterio de evaluación. Esta propone experimentar la diversidad lingüística, cultural y artística de la sociedad, analizándola, valorándola críticamente y beneficiándose de ella. En la etapa…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Actúa con empatía y respeto en contextos interculturales, rechazando estereotipos y resolviendo barreras comunicativas."
+                }
+            ]
+        }
+    ]
+}

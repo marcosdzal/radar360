@@ -1,0 +1,62 @@
+{
+    "community": "baleares",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "coro_tecnica_vocal_2",
+    "subject_name": "Coro y Técnica Vocal II",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Escoltar i visionar de manera activa peces vocals de diferents estils, gèneres",
+            "description": "Escoltar i visionar de manera activa peces vocals de diferents estils, gèneres i cultures, analitzar els trets d'estil i les característiques de la interpretació, per desenvolupar el criteri estètic, estimular l'hàbit d'escolta activa i ampliar les p…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar piezas vocales justificando su pertenencia a un estilo, género o cultura y los rasgos de interpretación y puesta en escena."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Explicar la relación entre texto y música mediante análisis del texto y de la curva de tensiones en obras vocales."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Expressar-se vocalment i corporalment, de manera individual i col·lectiva, a",
+            "description": "Expressar-se vocalment i corporalment, de manera individual i col·lectiva, a través de l'aplicació de diferents tècniques i la realització d'activitats d'improvisació, per reforçar l'autoestima i l'autoconfiança i desenvolupar la veu i el cos com a i…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "El alumnado aplica técnicas vocales y corporales sanas en ejercicios e improvisaciones para potenciar la escucha activa y la capacidad vocal, reforzando autoestima y autoconfianza."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Interpretar peces de diferents estils i gèneres musicals, participant en",
+            "description": "Interpretar peces de diferents estils i gèneres musicals, participant en diferents formacions vocals, per potenciar la comunicació artística rica i el desenvolupament de valors col·lectius. La interpretació de peces de diferents repertoris, expressat…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Participa en el coro mostrando eficacia, escucha activa, precisión técnica y expresión vocal y corporal adecuadas al conjunto."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Participar en projectes escènics, amb actuacions i tasques pròpies de la",
+            "description": "Participar en projectes escènics, amb actuacions i tasques pròpies de la producció, per afavorir el creixement artístic personal, enriquir l'entorn cultural i identificar oportunitats de desenvolupament personal, social, acadèmic o professional. El d…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Comunicar actitud escénica y respeto al público durante la actuación."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Participar en el montaje escénico asumiendo funciones de producción y reflexionando sobre oportunidades de desarrollo personal, social, académico o profesional."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "community": "madrid",
+    "stage": "eso",
+    "decree": "Decreto 65/2022, de 20 de julio",
+    "subject": "digitalizacion",
+    "subject_name": "Digitalización",
+    "grade": 4,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Identificar y resolver problemas técnicos sencillos,",
+            "description": "Identificar y resolver problemas técnicos sencillos, conectar y configurar ordenadores y dispositivos móviles a redes domésticas, aplicando los conocimientos de hardware y sistemas operativos para gestionar las herramientas e instalaciones informáticas y de comunicación de uso cotidiano.",
+            "descriptors": [
+                "STEM1",
+                "STEM2",
+                "CD4",
+                "CD5",
+                "CPSAA1",
+                "CPSAA5",
+                "CE3"
+            ],
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Conectar dispositivos y gestionar redes locales aplicando los conocimientos y procesos asociados a sistemas de comunicación alámbrica e inalámbrica con una actitud proactiva."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Instalar y mantener sistemas operativos configurando sus características en función de sus necesidades personales."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Identificar y resolver problemas técnicos sencillos analizando componentes y funciones de los dispositivos digitales, evaluando las soluciones de manera crítica y reformulando el procedimiento, en caso necesario."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Configurar el entorno personal de aprendizaje,",
+            "description": "Configurar el entorno personal de aprendizaje, interactuando y aprovechando los recursos del ámbito digital, para optimizar y gestionar el aprendizaje permanente.",
+            "descriptors": [
+                "CD1",
+                "CD2",
+                "CD3",
+                "CPSAA1",
+                "CPSAA4",
+                "CPSAA5",
+                "CE3"
+            ],
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Gestionar el aprendizaje en el ámbito digital, configurando el entorno personal de aprendizaje mediante la integración de recursos digitales de manera autónoma."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Buscar, seleccionar y archivar información relevante y fiable en función de sus necesidades haciendo uso de las herramientas del entorno personal de aprendizaje con sentido crítico y siguiendo normas básicas de seguridad en la red."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Crear, programar, integrar y reelaborar contenidos digitales de forma individual o colectiva, seleccionando las herramientas más apropiadas para generar nuevo conocimiento y contenidos digitales de manera creativa, respetando derechos de autor y licencias de uso."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Interactuar en espacios virtuales de comunicación y plataformas de aprendizaje colaborativo, haciendo uso de herramientas colaborativas, compartiendo y publicando información y datos, adaptándose a diferentes audiencias con una actitud participativa y respetuosa."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Desarrollar hábitos que fomenten el bienestar digital",
+            "description": "Desarrollar hábitos que fomenten el bienestar digital aplicando medidas preventivas y correctivas, para proteger dispositivos, datos personales y la propia salud.",
+            "descriptors": [
+                "CCL3",
+                "STEM5",
+                "CD1",
+                "CD4",
+                "CPSAA2",
+                "CPSAA5",
+                "CC2",
+                "CC3"
+            ],
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Proteger los datos personales y la huella digital generada en internet, configurando las condiciones de privacidad de las redes sociales y espacios virtuales de trabajo."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Configurar y actualizar, contraseñas, sistemas operativos, antivirus y copias de seguridad de forma periódica en los distintos dispositivos digitales de uso habitual."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Identificar y saber reaccionar ante situaciones que representan una amenaza en la red escogiendo la mejor solución entre diversas opciones, desarrollando prácticas saludables y seguras, y valorando el bienestar físico y mental, tanto personal como colectivo."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Valorar la importancia creciente de la ciberseguridad."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Ejercer una ciudadanía digital crítica conociendo las",
+            "description": "Ejercer una ciudadanía digital crítica conociendo las posibles acciones que realizar en la red, e identificando sus repercusiones, para hacer un uso activo, responsable y ético de la tecnología.",
+            "descriptors": [
+                "CD3",
+                "CD4",
+                "CPSAA1",
+                "CC1",
+                "CC2",
+                "CC3",
+                "CC4",
+                "CE1"
+            ],
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Hacer un uso ético de los datos y las herramientas digitales, aplicando las normas de etiqueta digital y respetando la privacidad y las licencias de uso y propiedad intelectual en la comunicación, colaboración y participación activa en la red."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Reconocer las aportaciones de las tecnologías digitales en las gestiones administrativas y el comercio electrónico, siendo consciente de la brecha social de acceso, uso y aprovechamiento de dichas tecnologías para diversos colectivos."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Valorar la importancia de la oportunidad, facilidad y libertad de expresión que suponen los medios digitales conectados, analizando de forma crítica los mensajes que se reciben y transmiten teniendo en cuenta su objetividad, ideología, intencionalidad, sesgos y caducidad."
+                },
+                {
+                    "code": "4.4",
+                    "description": "Analizar la necesidad y los beneficios globales de un uso y desarrollo responsable de las tecnologías digitales, teniendo en cuenta criterios de accesibilidad, sostenibilidad e impacto."
+                },
+                {
+                    "code": "4.5",
+                    "description": "Conocer cómo autentificar la identidad en el mundo digital, seleccionando los medios más adecuados en función del entorno en que deba practicarse."
+                }
+            ]
+        }
+    ]
+}

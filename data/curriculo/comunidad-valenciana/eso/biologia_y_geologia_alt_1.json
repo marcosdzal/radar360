@@ -1,0 +1,291 @@
+{
+    "community": "comunidad-valenciana",
+    "stage": "eso",
+    "decree": "Decreto 107\/2022, de 5 de agosto",
+    "subject": "biologia_y_geologia_alt",
+    "subject_name": "Biologia i Geologia",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Resoldre problemes científics abordables en l’àmbit escolar a partir de",
+            "description": "Resoldre problemes científics abordables en l’àmbit escolar a partir de treballs d’investigació de caràcter experimental",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Aplicar correctament les normes de seguretat pròpies del treball experimental"
+                },
+                {
+                    "code": "1.2",
+                    "description": "Observar fets, formular preguntes investigables i emetre hipòtesis comprovables científicament"
+                },
+                {
+                    "code": "1.3",
+                    "description": "Fer cerques d'informació i recollida de dades, atenent criteris de validesa, qualitat i fiabilitat de les fonts (3r curs) de manera guiada"
+                },
+                {
+                    "code": "1.4",
+                    "description": "Dissenyar experiments per a comprovar hipòtesis i obtindre resultats que les validen o refuten seguint les pautes del treball científic"
+                },
+                {
+                    "code": "1.5",
+                    "description": "Elaborar informes senzills de les investigacions realitzades"
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Analitzar situacions problemàtiques reals utilitzant la lògica científica i",
+            "description": "Analitzar situacions problemàtiques reals utilitzant la lògica científica i explorant les possibles conseqüències de les solucions proposades per a afrontar-les",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Utilitzar encertadament les eines informàtiques necessàries per al seu treball de manera guiada"
+                },
+                {
+                    "code": "2.2",
+                    "description": "Analitzar críticament la solució proposada a un problema senzill en funció dels sabers bàsics que es mobilitzen"
+                },
+                {
+                    "code": "2.3",
+                    "description": "Utilitzar el coneixement científic adquirit per a interpretar els fenòmens que ocorren al seu voltant"
+                },
+                {
+                    "code": "2.4",
+                    "description": "Triar l'eina informàtica adequada per a presentar els resultats dels seus treballs de manera autònoma"
+                },
+                {
+                    "code": "2.5",
+                    "description": "Construir explicacions que relacionen els fets i conceptes indicant les seues limitacions i mobilitzant coneixements complexos"
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Utilitzar el coneixement científic com a instrument del pensament crític,",
+            "description": "Utilitzar el coneixement científic com a instrument del pensament crític, interpretant i comunicant missatges científics, desenvolupant argumentacions i accedint a fonts fiables, per a distingir la informació contrastada de les notícies falses i opin…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Identificar hipòtesi, proves i conclusions en un discurs per a distingir adequadament una opinió d'una afirmació basada en proves amb base científica"
+                },
+                {
+                    "code": "3.2",
+                    "description": "Conéixer algunes fonts que s'ajusten als criteris d'objectivitat, revisió i fiabilitat que caracteritzen la ciència a les quals acudir per a recaptar informació"
+                },
+                {
+                    "code": "3.3",
+                    "description": "Comunicar-se, de manera oral i escrita, utilitzant el llenguatge científic per a participar en intercanvis o en debats, interpretant o produint missatges científics de nivell bàsic"
+                },
+                {
+                    "code": "3.4",
+                    "description": "Utilitzar fonts d'informació variada per a construir les seues argumentacions (textos escrits, àudios, gràfics, infografies, vídeos) amb un grau baix de complexitat"
+                },
+                {
+                    "code": "3.5",
+                    "description": "Utilitzar fonts d'informació variada per a construir les seues argumentacions (textos escrits, àudios, gràfiques, infografies, vídeos) amb un grau mitjà de complexitat"
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Justificar la validesa del model científic com a producte dinàmic que es va",
+            "description": "Justificar la validesa del model científic com a producte dinàmic que es va revisant i reconstruint sota la influència del context social i històric, atenent la importància de la ciència en l’avanç de les societats, així com els riscos d’un ús inadeq…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Aportar exemples d'utilització positiva i negativa del coneixement científic"
+                },
+                {
+                    "code": "4.2",
+                    "description": "Utilitzar un llenguatge inclusiu en els treballs coneixent exemples de les aportacions de les dones i de les diferents cultures a la ciència"
+                },
+                {
+                    "code": "4.3",
+                    "description": "Aportar exemples de canvis patits per les teories científiques amb el temps"
+                },
+                {
+                    "code": "4.4",
+                    "description": "Assenyalar alguns dels avanços tecnològics que han facilitat desenvolupament de la ciència"
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Adoptar hàbits de vida saludable basats en el coneixement del funcionament del",
+            "description": "Adoptar hàbits de vida saludable basats en el coneixement del funcionament del propi cos, i dels perills de l’ús i l’abús de determinades pràctiques i del consum d’algunes substàncies",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Explicar adequadament requeriments ha de complir una dieta sana, equilibrada i sostenible"
+                },
+                {
+                    "code": "5.2",
+                    "description": "Procurar-se una alimentació consumint productes sans i de proximitat"
+                },
+                {
+                    "code": "5.3",
+                    "description": "Explicar les conseqüències que es generen a causa de la ignorància dels hàbits saludables"
+                },
+                {
+                    "code": "5.4",
+                    "description": "Explicar la importància de les mesures preventives contra les infeccions, incloent-hi la vacunació, sobre la base dels coneixements sobre el funcionament del sistema immunitari"
+                },
+                {
+                    "code": "5.5",
+                    "description": "Demostrar coneixement de les mesures preventives adequades a l'hora de mantindre relacions sexuals per a previndre malalties de transmissió sexual o embarassos no desitjats"
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Identificar i acceptar la sexualitat personal, i respectar la varietat",
+            "description": "Identificar i acceptar la sexualitat personal, i respectar la varietat d’identitats de gènere i d’orientacions sexuals existents, sobre la base del coneixement del cos humà i del propi cos",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Explicar de manera adequada les diferències entre els conceptes de reproducció, sexe, gènere i orientació sexual"
+                },
+                {
+                    "code": "6.2",
+                    "description": "Respectar i defensar amb arguments totes les possibles opcions de manifestació de la sexualitat"
+                },
+                {
+                    "code": "6.3",
+                    "description": "En les relacions interpersonals, mostrar respecte a l'hora de decidir els passos que cal fer en cada moment i respectar els canvis d'opinió que puguen sorgir en aquest sentit"
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Actuar amb responsabilitat i participar activament en la conservació de totes",
+            "description": "Actuar amb responsabilitat i participar activament en la conservació de totes les formes de vida i del planeta sobre la base del coneixement dels sistemes biològics i geològics",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Respectar totes les formes de vida, i ser capaços d'explicar la dependència de l'ésser humà de la resta d'éssers vius"
+                },
+                {
+                    "code": "7.2",
+                    "description": "Identificar i valorar alguns indicadors de la incidència de l'activitat humana sobre els fenòmens geològics externs i d'aquests sobre la vida en la Terra"
+                },
+                {
+                    "code": "7.3",
+                    "description": "Preveure algunes de les possibles conseqüències dels fenòmens del nostre planeta a partir de dades obtingudes mitjançant mètodes fiables conegudes, i valorar la importància del paper de la ciència en aquestes previsions"
+                },
+                {
+                    "code": "7.4",
+                    "description": "Classificar correctament, pel que fa al regne, diferents organismes en funció de les seues característiques més destacables"
+                },
+                {
+                    "code": "7.5",
+                    "description": "Argumentar sobre la necessitat de conservar totes les formes de vida"
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Utilitzar el coneixement geològic bàsic sobre el funcionament del planeta Terra",
+            "description": "Utilitzar el coneixement geològic bàsic sobre el funcionament del planeta Terra com a sistema, amb la finalitat d’analitzar el seu impacte sobre les poblacions i proposar i valorar actuacions de previsió i intervenció",
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Explicar els trets més generals del relleu a conseqüència dels processos geològics"
+                },
+                {
+                    "code": "8.2",
+                    "description": "Analitzar i identificar algunes de les principals interaccions entre la humanitat i el planeta"
+                },
+                {
+                    "code": "8.3",
+                    "description": "Argumentar la necessitat de l'ús sostenible dels recursos"
+                },
+                {
+                    "code": "8.4",
+                    "description": "Buscar i seleccionar informació rellevant sobre alguns dels processos que afecten la Terra, i formular preguntes pertinents sobre aquest i valorar si determinades evidències confirmen o no una conclusió determinada"
+                },
+                {
+                    "code": "8.5",
+                    "description": "Valorar la importància dels principis geològics bàsics i els procediments més elementals i usuals de la geologia per a construir el coneixement científic sobre la Terra."
+                },
+                {
+                    "code": "8.6",
+                    "description": "Analitzar un fenomen geològic identificantne els components, les relacions entre aquests i el seu funcionament com a sistema no reductible a aquests components i relacions separadament"
+                }
+            ]
+        },
+        {
+            "code": "CE9",
+            "name": "Analitzar i interpretar les principals fites de la història del planeta Terra i",
+            "description": "Analitzar i interpretar les principals fites de la història del planeta Terra i els principals processos evolutius dels sistemes naturals, atenent les magnituds del temps geològic implicades",
+            "criterios": [
+                {
+                    "code": "9.1",
+                    "description": "Apreciar la magnitud del temps geològic en comparació amb l'històric, i tots dos amb la duració de la vida d'un individu, i distingir les diferents escales en què ocorren els fenòmens geològics, històrics i personals"
+                },
+                {
+                    "code": "9.2",
+                    "description": "Reconéixer evidències dels canvis en el registre de la Terra, identificar-los i situar-los en un eix cronològic"
+                },
+                {
+                    "code": "9.3",
+                    "description": "Argumentar i valorar la importància del coneixement dels fenòmens naturals del passat per a entendre el present"
+                },
+                {
+                    "code": "9.4",
+                    "description": "Justificar la biodiversitat com a resultat del procés de selecció natural"
+                },
+                {
+                    "code": "9.5",
+                    "description": "Justificar els canvis geològics com a resultats dels processos geològics externs i interns i identificar les causes que els originen (Tectònica de Plaques i agents geològics externs)"
+                }
+            ]
+        },
+        {
+            "code": "CE0",
+            "name": "Adoptar hàbits de comportament en l’activitat quotidiana responsables amb",
+            "description": "Adoptar hàbits de comportament en l’activitat quotidiana responsables amb l’entorn, aplicant criteris científics i evitant o minimitzant l’impacte mediambiental",
+            "criterios": [
+                {
+                    "code": "10.1",
+                    "description": "Interpretar dades tècniques al voltant dels problemes que origina l'acció humana sobre el seu entorn i l'emergència climàtica"
+                },
+                {
+                    "code": "10.2",
+                    "description": "Ser capaç de descriure les conseqüències per a les poblacions humanes de processos com la destrucció de biodiversitat, la desertització i, associada a aquesta, la migració climàtica"
+                },
+                {
+                    "code": "10.3",
+                    "description": "Adoptar hàbits respectuosos per al medi que generen la menor quantitat de residus possible o que són susceptibles de ser reciclats"
+                },
+                {
+                    "code": "10.4",
+                    "description": "Reduir el consum de recursos en l'àmbit personal i en els seus hàbits diaris"
+                },
+                {
+                    "code": "10.5",
+                    "description": "Explicar correctament els factors més significatius responsables de la situació d'emergència climàtica que pateix el planeta"
+                }
+            ]
+        },
+        {
+            "code": "CE1",
+            "name": "Proposar solucions realistes basades en el coneixement científic davant de",
+            "description": "Proposar solucions realistes basades en el coneixement científic davant de problemes de naturalesa ecosocial a escala local i global, argumentar-ne la idoneïtat i actuar en conseqüència",
+            "criterios": [
+                {
+                    "code": "11.1",
+                    "description": "Diagnosticar problemes presents en el seu entorn pròxim relacionats amb el medi"
+                },
+                {
+                    "code": "11.2",
+                    "description": "Proposar accions de conscienciació i reivindicatives en relació amb els problemes ambientals, utilitzant el procediment adequat per a això amb ajuda del professorat"
+                },
+                {
+                    "code": "11.3",
+                    "description": "Associar situacions de problemes de tipus social, com ara la immigració massiva, a l'alteració dels ecosistemes d'origen humà, com ara la sobreexplotació de recursos o la desertificació BIOLOGIA I GEOLOGIA. ADDENDA PER AL 4T CURS DE L'ESO"
+                }
+            ]
+        }
+    ]
+}

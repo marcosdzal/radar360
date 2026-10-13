@@ -1,0 +1,169 @@
+{
+    "community": "madrid",
+    "stage": "eso",
+    "decree": "Decreto 65/2022, de 20 de julio",
+    "subject": "ingles",
+    "subject_name": "Lengua Extranjera",
+    "grade": 3,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Comprender e interpretar el sentido general y los detalles",
+            "description": "Comprender e interpretar el sentido general y los detalles más relevantes de textos expresados de forma clara y en la lengua estándar, buscando fuentes fiables y haciendo uso de estrategias como la inferencia de significados, para responder a necesidades comunicativas concretas.",
+            "descriptors": [
+                "CCL2",
+                "CCL3",
+                "CP1",
+                "CP2",
+                "STEM1",
+                "CD1",
+                "CPSAA5",
+                "CCEC2"
+            ],
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Extraer y analizar el sentido global y las ideas principales, y seleccionar información pertinente de textos orales, escritos y multimodales sobre temas cotidianos, de relevancia personal o de interés público próximos a la experiencia del alumnado, expresados de forma clara y en la lengua estándar a través de diversos soportes."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Interpretar y valorar el contenido y los rasgos discursivos de textos progresivamente más complejos propios de los ámbitos de las relaciones interpersonales, de los medios de comunicación social y del aprendizaje, así como de textos literarios adecuados al nivel de madurez del alumnado."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Seleccionar, organizar y aplicar las estrategias y conocimientos más adecuados en cada situación comunicativa para comprender el sentido general, la información esencial y los detalles más relevantes de los textos; inferir significados e interpretar elementos no verbales; y buscar, seleccionar y gestionar información veraz."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Producir textos originales, de extensión media, sencillos y",
+            "description": "Producir textos originales, de extensión media, sencillos y con una organización clara, usando estrategias tales como la planificación, la compensación o la autorreparación, para expresar de forma creativa, adecuada y coherente mensajes relevantes y responder a propósitos comunicativos concretos.",
+            "descriptors": [
+                "CCL1",
+                "CP1",
+                "CP2",
+                "STEM1",
+                "CD2",
+                "CPSAA5",
+                "CE1",
+                "CCEC3"
+            ],
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Expresar oralmente textos sencillos, estructurados, comprensibles, coherentes y adecuados a la situación comunicativa sobre asuntos cotidianos, de relevancia personal o de interés público próximo a la experiencia del alumnado, con el fin de describir, narrar, argumentar e informar, en diferentes soportes, utilizando recursos verbales y no verbales, así como estrategias de planificación, control, compensación y cooperación."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Redactar y difundir textos de extensión media con aceptable claridad, coherencia, cohesión, corrección y adecuación a la situación comunicativa propuesta, a la tipología textual y a las herramientas analógicas y digitales utilizadas sobre asuntos cotidianos, de relevancia personal o de interés público próximos a la experiencia del alumnado, respetando la propiedad intelectual y evitando el plagio."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Seleccionar, organizar y aplicar conocimientos y estrategias sencillas para planificar, producir, revisar y cooperar en la elaboración de textos coherentes, cohesionados y adecuados a las intenciones comunicativas, las características contextuales, los aspectos socioculturales y la tipología textual, usando los recursos físicos o digitales más adecuados en función de la tarea y de las necesidades del interlocutor potencial a quien se dirige el texto."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Interactuar con otras personas con creciente autonomía,",
+            "description": "Interactuar con otras personas con creciente autonomía, usando estrategias de cooperación y empleando recursos analógicos y digitales, para responder a propósitos comunicativos concretos en intercambios respetuosos con las normas de cortesía.",
+            "descriptors": [
+                "CCL5",
+                "CP1",
+                "CP2",
+                "STEM1",
+                "CPSAA3",
+                "CC3"
+            ],
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Planificar, participar y colaborar activamente, a través de diversos soportes, en situaciones interactivas sobre temas cotidianos, de relevancia personal o de interés público cercanos a la experiencia del alumnado, mostrando iniciativa, empatía y respeto por la cortesía lingüística y la etiqueta digital, así como por las diferentes necesidades, ideas, inquietudes, iniciativas y motivaciones de los interlocutores."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Seleccionar, organizar y utilizar estrategias adecuadas sencillas para iniciar, mantener y terminar la comunicación, tomar y ceder la palabra, solicitar y formular aclaraciones y explicaciones, reformular, comparar y contrastar, resumir, colaborar, debatir, resolver problemas y gestionar situaciones comprometidas."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Mediar en situaciones cotidianas entre distintas lenguas,",
+            "description": "Mediar en situaciones cotidianas entre distintas lenguas, usando estrategias y conocimientos sencillos orientados a explicar conceptos o simplificar mensajes, para transmitir información de manera eficaz, clara y responsable.",
+            "descriptors": [
+                "CCL5",
+                "CP1",
+                "CP2",
+                "CP3",
+                "STEM1",
+                "CPSAA1",
+                "CPSAA3",
+                "CCEC1"
+            ],
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Inferir y explicar textos, conceptos y comunicaciones breves y sencillas en situaciones en las que atender a la diversidad, mostrando respeto y empatía por los interlocutores y por las lenguas empleadas y participando en la solución de problemas de intercomprensión y de entendimiento en el entorno, apoyándose en diversos recursos y soportes."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Aplicar estrategias simples que ayuden a crear puentes, faciliten la comunicación y sirvan para explicar y simplificar textos, conceptos y mensajes, y que sean adecuadas a las intenciones comunicativas, las características contextuales y la tipología textual, usando recursos y apoyos físicos o digitales en función de las necesidades de cada momento."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Ampliar y usar los repertorios lingüísticos personales",
+            "description": "Ampliar y usar los repertorios lingüísticos personales entre distintas lenguas, reflexionando de forma crítica sobre su funcionamiento y tomando conciencia de las estrategias y conocimientos propios, para mejorar la respuesta a necesidades comunicativas concretas.",
+            "descriptors": [
+                "CP2",
+                "STEM1",
+                "CPSAA1",
+                "CPSAA5",
+                "CD2"
+            ],
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Comparar y argumentar las semejanzas y diferencias entre distintas lenguas reflexionando de manera guiada sobre su funcionamiento."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Utilizar de forma creativa y guiada estrategias y conocimientos de mejora de la capacidad de comunicar y de aprender la lengua extranjera con apoyo de otros participantes y de soportes analógicos y digitales."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Registrar y reflexionar sobre los progresos y dificultades de aprendizaje de la lengua extranjera seleccionando las estrategias más eficaces para superar esas dificultades y consolidar el aprendizaje, realizando actividades de planificación del propio aprendizaje, autoevaluación y coevaluación, como las propuestas en el Portfolio Europeo de las Lenguas (PEL) o en un diario de aprendizaje, haciendo esos progresos y dificultades explícitos y compartiéndolos."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Valorar críticamente y adecuarse a la diversidad",
+            "description": "Valorar críticamente y adecuarse a la diversidad lingüística, cultural y artística a partir de la lengua extranjera, identificando y compartiendo las semejanzas y las diferencias entre lenguas y culturas, para actuar de forma empática y respetuosa en situaciones interculturales.",
+            "descriptors": [
+                "CCL5",
+                "CP3",
+                "CPSAA1",
+                "CPSAA3",
+                "CC3",
+                "CCEC1"
+            ],
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Actuar de forma adecuada, empática y respetuosa en situaciones interculturales, construyendo vínculos entre las diferentes lenguas y culturas, rechazando cualquier tipo de discriminación, prejuicio y estereotipo en contextos comunicativos cotidianos y proponiendo vías de solución sencillas a aquellos factores socioculturales que dificulten la comunicación."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Valorar críticamente en relación con los derechos humanos y adecuarse a la diversidad lingüística, cultural y artística propia de países donde se habla la lengua extranjera, favoreciendo, dentro de sus posibilidades, el desarrollo de una cultura compartida y una ciudadanía comprometida con la sostenibilidad y los valores democráticos."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Aplicar de forma guiada estrategias para defender y apreciar la diversidad lingüística, cultural y artística atendiendo a valores democráticos y respetando los principios de justicia, equidad e igualdad."
+                }
+            ]
+        }
+    ]
+}

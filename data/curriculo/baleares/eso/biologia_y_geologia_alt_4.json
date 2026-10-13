@@ -1,0 +1,112 @@
+{
+    "community": "baleares",
+    "stage": "eso",
+    "decree": "",
+    "subject": "biologia_y_geologia_alt",
+    "subject_name": "Biologia i Geologia",
+    "grade": 4,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Interpretar i transmetre informacio i dades cientifiques, argumentant sobre",
+            "description": "interpretar i transmetre informacio i dades cientifiques, argumentant sobre ells i utilitzant diferents formats, per analitzar conceptes i processos de les ciències biològiques i geològiques. El desenvolupament científic poques vegades és fruit del t…",
+            "criterios": [
+                {
+                    "code": "CA1.1",
+                    "description": "Analitzar conceptes i processos biològics i geològics interpretant informació en diferents formats (models, gràfics, taules, diagrames, fórmules, esquemes, símbols, pàgines web...), mantenint una actitud crítica, obtenint conclusions i formant opinions pròpies fonamentades. - Investigar conceptes i processos biològics i geològics. - Interpretar informació relacionada amb la biologia i geologia presentada en diferents formats científics (models, gràfics, taules, diagrames, fórmules, esquemes, etc.). - Mantenir una actitud crítica i obtenir conclusions formant opinions pròpies fonamentades."
+                },
+                {
+                    "code": "CA1.2",
+                    "description": "Transmetre opinions pròpies fonamentades i informació sobre biologia i geologia de forma clara i rigorosa, facilitant-ne la comprensió i anàlisi mitjançant l'ús de la terminologia i el format adequats (models, gràfics, taules, vídeos, informes, diagrames, fórmules, esquemes, símbols, continguts digitals, etc.). - Comunicar de forma raonada en llenguatge oral i\/o escrit, opinions pròpies fonamentades i informació sobre processos biològics i geològics de manera clara i comprensible. - Utilitzar la terminologia i formats adequats (models, gràfics, taules, vídeos, informes, diagrames, fórmules, esquemes, símbols, continguts digitals, etc.) en la transmissió d'informació."
+                },
+                {
+                    "code": "CA1.3",
+                    "description": "Analitzar i explicar fenòmens biològics i geològics representant-los mitjançant el disseny i la realització de models i diagrames i utilitzant, quan sigui necessari, els passos del disseny d'enginyeria (identificació del problema, exploració, disseny, creació, avaluació i millora). - Investigar i explicar fenòmens biològics i geològics representant-los mitjançant models o diagrames. - Utilitzar, en cas necessari, les etapes de disseny en l'àmbit de l'enginyeria."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Identificar, localitzar i seleccionar informacio, contrastant-ne la veracitat,",
+            "description": "identificar, localitzar i seleccionar informacio, contrastant-ne la veracitat, organitzant-la i avaluant-la críticament per resoldre preguntes relacionades amb les ciències biològiques i geològiques. La recerca científica, la participació activa en l…",
+            "criterios": [
+                {
+                    "code": "CA2.1",
+                    "description": "Resoldre qüestions i aprofundir en aspectes biològics i geològics localitzant, seleccionant, organitzant i analitzant críticament la informació de diferents fonts i citant-les amb respecte per la propietat intel·lectual. - Localitzar i citar fonts de manera adequada. - Examinar la qualitat de la informació a partir dels coneixements propis de la matèria. - Aprofundir en el coneixement de la biologia i la geologia seleccionant diferents fonts d'informació. - Resoldre qüestions relacionades amb la biologia i la geologia."
+                },
+                {
+                    "code": "CA2.2",
+                    "description": "Contrastar la veracitat de la informació sobre temes biològics i geològics o treballs científics, utilitzant fonts fiables i adoptant una actitud crítica i escèptica cap a informacions sense una base científica com pseudociències, teories conspiratòries, creences sense fonamentació, faules, etc. - Identificar informació científica sobre temes relacionats amb la biologia i la geologia. - Distingir la informació científica fonamentada d'altres com dades pseudocientífiques, faules, teories conspiratòries o creences infundades. - Mantenir una actitud escèptica davant de la informació rebuda."
+                },
+                {
+                    "code": "CA2.3",
+                    "description": "Valorar la contribució de la ciència a la societat i la labor dels científics, destacant el paper de la dona i entenent la investigació com una tasca col·lectiva i interdisciplinar en constant evolució influïda per el context polític i els recursos econòmics. - Valorar les aportacions de la ciència a la societat i la tasca dels científics, independentment de la seva ètnia, sexe o cultura. - Reconèixer i destacar el paper de les dones en la ciència al llarg de la història. - Percebre la ciència i la investigació científica com una tasca col·lectiva, interdisciplinar i en constant evolució influïda pel context polític i els recursos econòmics."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Planificar i desenvolupar projectes de recerca, seguint els passos de les",
+            "description": "planificar i desenvolupar projectes de recerca, seguint els passos de les metodologies científiques i cooperant quan sigui necessari per indagar en aspectes relacionats amb les ciències geològiques i biològiques. Els mètodes científics són el sistema…",
+            "criterios": [
+                {
+                    "code": "CA3.1",
+                    "description": "Plantejar preguntes i hipòtesis que puguin ser respostes o contrastades utilitzant mètodes científics en l'explicació de fenòmens biològics i geològics i realitzar-ne prediccions. - Plantejar preguntes i hipòtesis sobre fenòmens biològics o geològics que puguin ser respostes o contrastades utilitzant mètodes científics. - Realitzar prediccions sobre fenòmens biològics i geològics i comprovar-ne la adequació."
+                },
+                {
+                    "code": "CA3.2",
+                    "description": "Dissenyar l'experimentació, la presa de dades i l'anàlisi de fenòmens biològics i geològics de manera que permetin respondre preguntes concretes i contrastar una hipòtesi plantejada evitant biaixos. - Planificar experiments o simulacions per explicar fenòmens biològics o geològics i respondre preguntes concretes. - Recollir i organitzar les dades obtingudes durant el procés d'experimentació. - Contrastar una hipòtesi evitant biaixos."
+                },
+                {
+                    "code": "CA3.3",
+                    "description": "Realitzar experiments i prendre dades quantitatives o qualitatives sobre fenòmens biològics i geològics utilitzant els instruments, eines o tècniques adequades amb correcció i precisió. - Realitzar experiments que permetin entendre fenòmens biològics i geològics. - Utilitzar els instruments, eines i tècniques adequats amb correcció. - Recollir i organitzar correctament les dades, tant qualitatives com quantitatives, obtingudes durant l'experiment, de forma correcta i amb el format adequat."
+                },
+                {
+                    "code": "CA3.4",
+                    "description": "Interpretar i analitzar els resultats obtinguts en un projecte de recerca utilitzant, quan sigui necessari, eines matemàtiques i tecnològiques per obtenir conclusions raonades i fonamentades o valorar la impossibilitat de fer-ho. - Examinar els resultats obtinguts en un projecte de recerca. - Seleccionar i utilitzar les eines d'anàlisi adequades en funció del tipus de projecte. - Establir conclusions fonamentades en els conceptes propis de la matèria. - Deduir la impossibilitat d'extreure'n conclusions i valorar la modificació del procediment d'experimentació."
+                },
+                {
+                    "code": "CA3.5",
+                    "description": "Cooperar i col·laborar en les diferents fases d'un projecte científic per treballar amb major eficiència, valorant la importància de la cooperació en la recerca, respectant la diversitat i la igualtat de gènere, i afavorint la inclusió. - Treballar en equips col·laboratius en un projecte científic per aconseguir una major eficiència. - Valorar la importància de la cooperació per aconseguir millors resultats. - Respectar la diversitat i la igualtat de gènere. - Afavorir activament la inclusió."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Utilitzar el raonament i el pensament computacional, analitzant criticament les",
+            "description": "utilitzar el raonament i el pensament computacional, analitzant criticament les respostes i solucions i reformulant el procediment, si fos necessari, per resoldre problemes o donar explicació a processos de la vida quotidiana relacionats amb la biolo…",
+            "criterios": [
+                {
+                    "code": "CA4.1",
+                    "description": "Resoldre problemes o donar explicació a processos biològics o geològics utilitzant coneixements, dades i informació proporcionats pels docents, el raonament lògic, el pensament computacional o els recursos digitals."
+                },
+                {
+                    "code": "CA4.2",
+                    "description": "Analitzar críticament la solució a un problema sobre fenòmens biològics i geològics, canviant els procediments utilitzats o les conclusions si aquesta solució no fos viable o davant noves dades aportades amb posterioritat. - Examinar críticament si la solució obtinguda a un problema és l'adequada i\/o l'esperada. - Proposar, de forma fonamentada, esmenes o variacions als procediments o conclusions si la solució no és viable o si apareixen noves dades."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Analitzar els efectes de determinades accions sobre el medi ambient i la salut,",
+            "description": "analitzar els efectes de determinades accions sobre el medi ambient i la salut, basant-se en els fonaments de les ciències biològiques i de la Terra, per promoure i adoptar hàbits que evitin o minimitzin els impactes mediambientals negatius, siguin c…",
+            "criterios": [
+                {
+                    "code": "CA5.1",
+                    "description": "Identificar els possibles riscs naturals potenciats per determinades accions humanes sobre una zona geogràfica concreta, tenint en compte les seves característiques litològiques, relleu, vegetació i factors socioeconòmics."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Analitzar els elements d'un paisatge concret valorant-los com a patrimoni",
+            "description": "analitzar els elements d'un paisatge concret valorant-los com a patrimoni natural i utilitzant coneixements sobre geologia i ciències de la Terra per explicar la seva història geològica, proposar accions encaminades a la seva protecció i identificar …",
+            "criterios": [
+                {
+                    "code": "CA6.1",
+                    "description": "Deduir i explicar la història geològica d'un relleu identificant els seus elements més rellevants a partir de talls, mapes o altres sistemes d'informació geològica i utilitzant el raonament, els principis geològics bàsics (horitzontalitat, superposició, actualisme…) i les teories geològiques més rellevants."
+                }
+            ]
+        }
+    ]
+}

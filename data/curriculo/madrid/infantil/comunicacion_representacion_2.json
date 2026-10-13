@@ -1,0 +1,150 @@
+{
+    "community": "madrid",
+    "stage": "infantil",
+    "decree": "Decreto 36/2022, de 8 de junio",
+    "subject": "comunicacion_representacion",
+    "subject_name": "Comunicación y representación de la realidad",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Manifestar interés por interactuar en situaciones cotidianas",
+            "description": "Manifestar interés por interactuar en situaciones cotidianas y el uso de su repertorio comunicativo, para expresar sus necesidades e intenciones.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Participar de manera espontánea y respetuosa con las diferencias individuales en situaciones comunicativas de complejidad."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Ajustar su repertorio comunicativo a las propuestas, a los interlocutores y al contexto, indagando en las posibilidades expresivas de los diferentes lenguajes."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Participar en situaciones de uso de diferentes lenguas, mostrando interés y curiosidad por las mismas."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Interactuar con distintos medios digitales."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Interpretar y comprender mensajes y representaciones",
+            "description": "Interpretar y comprender mensajes y representaciones apoyándose en conocimientos y recursos de su propia experiencia para responder a las demandas del entorno.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Interpretar de forma eficaz los mensajes e intenciones comunicativas de los demás."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Interpretar los mensajes transmitidos mediante representaciones o manifestaciones artísticas reconociendo la intencionalidad del emisor y mostrando una actitud curiosa y responsable."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Mostrar interés por conocer y comprender mensajes muy sencillos en lengua extranjera relacionados con rutinas y situaciones cotidianas."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Producir mensajes de manera eficaz y creativa",
+            "description": "Producir mensajes de manera eficaz, personal y creativa utilizando diferentes lenguajes, descubriendo los códigos de cada uno de ellos.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Hacer un uso funcional del lenguaje oral aumentando su repertorio lingüístico y construyendo un discurso organizado y coherente."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Utilizar el lenguaje oral como instrumento regulador de la acción en las interacciones con los demás con seguridad y confianza."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Evocar y expresar espontáneamente ideas a través del relato oral."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Elaborar creaciones plásticas explorando y utilizando diferentes materiales y técnicas, y participando activamente en el trabajo en grupo cuando se precise."
+                },
+                {
+                    "code": "3.5",
+                    "description": "Interpretar propuestas dramáticas y musicales, utilizando y explorando diferentes instrumentos, recursos o técnicas."
+                },
+                {
+                    "code": "3.6",
+                    "description": "Ajustar armónicamente su movimiento al de los demás y al espacio como forma de expresión corporal libre, manifestando interés e iniciativa."
+                },
+                {
+                    "code": "3.7",
+                    "description": "Expresarse de manera creativa, utilizando diversas herramientas o aplicaciones."
+                },
+                {
+                    "code": "3.8",
+                    "description": "Adquirir y utilizar, de manera gradual y acorde al nivel madurativo, vocabulario y expresiones sencillas en lengua extranjera relacionadas con rutinas y situaciones habituales de comunicación."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Participar en actividades con textos escritos",
+            "description": "Participar por iniciativa propia en actividades relacionadas con textos escritos, mostrando interés y curiosidad.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Mostrar interés por comunicarse a través de códigos escritos, convencionales o no, valorando su función comunicativa."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Identificar, de manera acompañada, alguna de las características textuales y paratextuales mediante la indagación en cualquier tipo de textos."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Recurrir a la biblioteca como fuente de información y disfrute, respetando sus normas de uso."
+                },
+                {
+                    "code": "4.4",
+                    "description": "Mostrar interés por participar en actividades que favorezcan la iniciación al desarrollo perceptivo-motriz de la escritura."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Valorar las diferentes lenguas y manifestaciones culturales",
+            "description": "Valorar las diferentes lenguas presentes en su entorno, así como otras manifestaciones culturales.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Relacionarse con normalidad en la variedad lingüística y cultural de su entorno."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Participar en interacciones comunicativas en lengua extranjera iniciándose en el uso de normas socialmente establecidas para comenzar, mantener y terminar una conversación relacionadas con rutinas y situaciones cotidianas."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Participar en actividades de aproximación a la literatura infantil, explorando y apreciando la belleza del lenguaje literario."
+                },
+                {
+                    "code": "5.4",
+                    "description": "Mostrar una actitud positiva durante la aproximación a textos literarios en lengua extranjera tales como cuentos, pequeños poemas, leyendas…"
+                },
+                {
+                    "code": "5.5",
+                    "description": "Expresar emociones, ideas y pensamientos a través de manifestaciones artísticas y culturales, disfrutando del proceso creativo."
+                },
+                {
+                    "code": "5.6",
+                    "description": "Expresar gustos, preferencias y opiniones sobre distintas manifestaciones artísticas, explicando las emociones que produce su disfrute."
+                }
+            ]
+        }
+    ]
+}

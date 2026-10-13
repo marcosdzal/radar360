@@ -1,0 +1,103 @@
+{
+    "community": "la-rioja",
+    "stage": "bachillerato",
+    "decree": "Decreto 22\/2022, de 27 de julio",
+    "subject": "oratoria_bach",
+    "subject_name": "Oratoria",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "- Reconocer y valorar la importancia de la oratoria en el marco de la sociedad",
+            "description": "- Reconocer y valorar la importancia de la oratoria en el marco de la sociedad contemporánea a través del análisis de discursos orales y escritos procedentes de la historia de la retórica, así como de otras manifestaciones culturales, para crear prod…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Comprender las características de los géneros retóricos y partes de la oratoria, así como su evolución e influencias, estableciendo vínculos entre concepciones diversas e insertando las producciones discursivas en su contexto filosófico, histórico político y social. Producir y evaluar discursos orales y escritos propios demostrando un uso correcto de las normas y pautas lógicas, las 1.2. figuras retóricas y las estrategias argumentativas."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "- Poner la práctica de la oratoria al servicio de los valores éticos que",
+            "description": "- Poner la práctica de la oratoria al servicio de los valores éticos que caracterizan a las sociedades democráticas, empleando para ello recursos analógicos y digitales, a fin de incentivar interacciones basadas en la tolerancia, la igualdad y el len…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Promover el contraste e intercambio de ideas y el ejercicio de una ciudadanía activa y democrática a través del ejercicio de la participación en actividades grupales y del diálogo racional, respetuoso, abierto, constructivo y comprometido con la verdad, acerca de cuestiones y problemas de actualidad relevantes. Emplear las estrategias de la retórica y de la oratoria de manera ética y honesta, reconociendo las debilidades del 2.2. razonamiento propio y valorando las aportaciones del razonamiento ajeno."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "- Seleccionar y contrastar información procedente de múltiples fuentes",
+            "description": "- Seleccionar y contrastar información procedente de múltiples fuentes, evaluando su pertinencia y fiabilidad en función de las intenciones persuasivas del discurso y evitando los riesgos de manipulación y desinformación, insertando con ello los proc…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Seleccionar las fuentes documentales más adecuadas analizando de manera crítica la información para extraer contenidos e ideas variadas relacionadas con el tema del discurso."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Organizar los datos para su tratamiento haciendo uso de las técnicas de trabajo intelectual."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "- Organizar y estructurar razonamientos propios basados en argumentos con",
+            "description": "- Organizar y estructurar razonamientos propios basados en argumentos con coherencia, corrección y adecuación, estableciendo diálogos con actitud cooperativa basados en los principios de caridad y honestidad intelectual con la voluntad de alcanzar un…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Identificar la estructura argumentativa de discursos orales y escritos, señalando la tesis, las ideas principales y los argumentos, así como otros momentos discursivos de forma explícita y razonada. Utilizar la teoría de la argumentación adecuadamente en la construcción de discursos de creación propia, utilizando 4.2. argumentos y estructuras argumentativas válidas y evitando intencionadamente falacias, paralogismos y antinomias."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Organizar los contenidos del discurso propio en una estructura clara y eficaz, con una introducción, un desarrollo y una conclusión coherentes con el cuerpo del discurso."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "- Transmitir oralmente, de manera comprensible y en diferentes formatos la intención comunicativa del discurso",
+            "description": "- Transmitir oralmente, de manera comprensible y en diferentes formatos la intención comunicativa del discurso, reconociendo la naturaleza performativa de los actos discursivos, tendiendo con ello puentes de entendimiento y comprensión entre la perso…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Exponer textos oralmente con corrección y buena pronunciación, haciendo uso de un ritmo de elocución natural, empleando las pausas, los silencios y los cambios de tono y de ritmo de manera significativa."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Transmitir con claridad el mensaje del discurso resultando convincente ante un auditorio concreto, utilizando equilibradamente los contenidos subjetivos y objetivos del discurso."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "- Desarrollar y aplicar estrategias mnemotécnicas para la memorización de",
+            "description": "- Desarrollar y aplicar estrategias mnemotécnicas para la memorización de discursos con creciente autonomía a través de estrategias variadas que fomenten el crecimiento personal, con el objetivo de apropiarse de los elementos emocionales del discurso…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Desarrollar estrategias mnemotécnicas del discurso a partir de secuencias pequeñas hasta dar con el texto completo dejando lugar a la espontaneidad y la improvisación."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "- Declamar discursos propios convincentemente ante una audiencia concreta y con",
+            "description": "- Declamar discursos propios convincentemente ante una audiencia concreta y con un fin determinado aplicando los principios elocutivos de la oratoria, contribuyendo con ello a desarrollar las habilidades personales y sociales imprescindibles para el …",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Presentar ante una audiencia un discurso propio en un contexto controlado como síntesis del proceso holístico de búsqueda de información, estructuración argumentativa de contenidos y elocución del discurso. Utilizar el lenguaje no verbal adecuadamente, prestando atención a elementos tales como la posición del cuerpo, la 7.2. gestualidad y la gestión del espacio."
+                },
+                {
+                    "code": "7.3",
+                    "description": "Manifestar seguridad, confianza y serenidad en la declamación del discurso propio."
+                }
+            ]
+        }
+    ]
+}

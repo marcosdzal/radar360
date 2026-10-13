@@ -1,0 +1,147 @@
+{
+    "community": "andalucia",
+    "stage": "bachillerato",
+    "decree": "Real Decreto 217\/2022",
+    "subject": "geografia_e_historia_alt",
+    "subject_name": "Geografía",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Reconocer los retos ecosociales actuales y futuros de España y Andalucía,",
+            "description": "Reconocer los retos ecosociales actuales y futuros de España y Andalucía, debatiendo desde la perspectiva geográfica sobre los mensajes recibidos por canales oficiales e informales y desarrollando el pensamiento crítico para transformar patrones de c…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Cuestionar modos de vida insostenibles analizando fuentes geográficas y argumentando la necesidad de acciones."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Debatir sobre retos naturales y sociales de España usando datos rigurosos y apoyo digital."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Identificar problemas económicos, sociales y ambientales, a nivel local, valorando las responsabilidades personales y proponiendo actuaciones propias y directas."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Comprender la complejidad del espacio geográfico mediante la interpretación de",
+            "description": "Comprender la complejidad del espacio geográfico mediante la interpretación de fuentes de información visuales para apreciar la riqueza de los paisajes naturales y humanizados, tomar conciencia del concepto de paisaje como resultado cultural y valora…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Valorar impactos humanos desde la sostenibilidad, reconociendo la complejidad sistémica del medio natural y las actividades humanas."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Analizar paisajes naturales y humanizados a partir de fuentes visuales, distinguiendo elementos geográficos e interpretando la influencia de factores físicos y humanos."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Extraer información de paisajes naturales y humanizados, analizando fuentes visuales, distinguiendo elementos geográficos e interpretando la influencia e interrelaciones de factores físicos y humanos."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Analizar la diversidad natural de Andalucía, España y su singularidad",
+            "description": "Analizar la diversidad natural de Andalucía, España y su singularidad geográfica dentro de Europa a través de la comparación de características comunes y específicas del relieve, el clima, la hidrografía y la biodiversidad para reflexionar sobre la p…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "El alumnado reflexiona sobre su percepción del espacio al localizar en mapas regiones geomorfológicas y bioclimáticas, comparando sus características y valorando su contribución a la sostenibilidad."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Comparar paisajes naturales de España y Europa, analizando su distribución, características y la relación humana con ellos."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Analizar e interpretar la diversidad hídrica de la península ibérica, identificando los diversos regímenes hídricos existentes, valorando y debatiendo su importancia ecológica y el aprovechamiento que se realiza de los recursos hídricos en nuestro país."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Identificar la diversidad y singularidad de paisajes naturales, comparando su distribución, características y contrastes a escala autonómica, de España y de Europa, así como formas humanas de relación con esos entornos."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Aplicar las Tecnologías de la Información Geográfica (TIG), métodos y técnicas",
+            "description": "Aplicar las Tecnologías de la Información Geográfica (TIG), métodos y técnicas propios o de ciencias afines, localizando fenómenos naturales y humanos, y argumentando con rigor sus límites o categorías para resolver eficientemente el problema de la e…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Usar la escala adecuada con TIG para localizar fenómenos, justificando métodos y delimitando regiones y áreas de transición."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Crear productos geográficos propios con TIG comunicando diagnósticos, hipótesis o conclusiones."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Crear productos propios individuales o en grupo con fines explicativos comunicando diagnósticos, proponiendo hipótesis o conclusiones, y aplicando las TIG."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Asumir la globalización como contexto que enmarca la evolución de los sistemas",
+            "description": "Asumir la globalización como contexto que enmarca la evolución de los sistemas económicos y los comportamientos sociales recientes, investigando sus relaciones de causa y efecto, creando productos propios que demuestren la interconexión y la interdep…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Valorar la dignidad humana analizando críticamente consecuencias de acciones sobre condiciones laborales y de vida en España y otros países, investigando relaciones económicas globalizadas y proponiendo soluciones."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Argumentar la necesidad de preservar el medio ambiente analizando impactos de producción, distribución y consumo, y proponer actuaciones de mejora a escala local y global."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Expresar la necesidad de preservar el medio natural indagando sobre los impactos de los modos de producción, distribución y consumo a escala local y global, y proponiendo actuaciones de mejora."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Explicar de forma crítica los desequilibrios territoriales de España y de su estructura sociolaboral y demográfica",
+            "description": "Explicar de forma crítica los desequilibrios territoriales de España y de su estructura sociolaboral y demográfica, reconociendo los procesos y las decisiones, locales y globales, que han contribuido a las desigualdades presentes, para reforzar la co…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Justifica la necesidad de compensar desigualdades territoriales e individuales mediante el análisis de causas y consecuencias pasadas y recientes."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Argumentar el origen de desequilibrios socioeconómicos analizando factores de localización en una sociedad terciarizada."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Situar en el contexto cercano ejemplos de desequilibrios identificando su origen."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Movilizar conocimientos previos, nuevos y de otros campos del saber al abordar",
+            "description": "Movilizar conocimientos previos, nuevos y de otros campos del saber al abordar situaciones del pasado, del presente o del futuro, mediante el estudio de las interacciones que configuran la relación de las actividades humanas con el espacio, reorienta…",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Reelabora conocimientos geográficos previos y nuevos para diagnosticar problemas y proponer soluciones innovadoras en contextos cambiantes."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Reflexionar sobre el conflicto generado entre espacio natural y actividad antrópica, analizando, debatiendo y exponiendo en grupo, a partir de argumentos diferentes."
+                },
+                {
+                    "code": "7.3",
+                    "description": "Documentar la actual organización territorial del Estado Español, tomando como base la evolución histórica y la Constitución de 1978, analizando, debatiendo y exponiendo en grupo la información extraída de distintas fuentes y recursos, sobre las causas de los desequilibrios y contrastes territoriales, así como sus posibles mecanismos correctores."
+                }
+            ]
+        }
+    ]
+}

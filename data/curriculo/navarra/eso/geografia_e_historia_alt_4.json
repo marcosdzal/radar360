@@ -1,0 +1,157 @@
+{
+    "community": "navarra",
+    "stage": "eso",
+    "decree": "Real Decreto 217\/2022",
+    "subject": "geografia_e_historia_alt",
+    "subject_name": "Geografía",
+    "grade": 4,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Buscar, seleccionar, tratar y organizar información sobre temas relevantes del",
+            "description": "Buscar, seleccionar, tratar y organizar información sobre temas relevantes del presente y del pasado, usando críticamente fuentes históricas y geográficas, para adquirir conocimientos, elaborar y expresar contenidos en varios formatos.",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Elaborar contenidos propios en distintos formatos, mediante aplicaciones y estrategias de recogida y representación de datos más complejas, usando y contrastando críticamente fuentes fiables, tanto analógicas como digitales, del presente y de la historia contemporánea, identificando la desinformación y la manipulación"
+                },
+                {
+                    "code": "1.2",
+                    "description": "Establecer conexiones y relaciones entre los conocimientos e informaciones adquiridos, elaborando síntesis interpretativas y explicativas, mediante informes, estudios o dosieres informativos, que reflejen un dominio y consolidación de los contenidos tratados"
+                },
+                {
+                    "code": "1.3",
+                    "description": "Transferir adecuadamente la información y el conocimiento por medio de narraciones, pósteres, presentaciones, exposiciones orales, medios audiovisuales y otros productos"
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Indagar, argumentar y elaborar productos propios sobre problemas geográficos,",
+            "description": "Indagar, argumentar y elaborar productos propios sobre problemas geográficos, históricos y sociales que resulten relevantes en la actualidad, desde lo local a lo global, para desarrollar un pensamiento crítico, respetuoso con las diferencias, que con…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Generar productos originales y creativos mediante la reelaboración de conocimientos previos a través de herramientas de investigación que permitan explicar problemas presentes y pasados de la humanidad a distintas escalas temporales y espaciales, de lo local a lo global, utilizando conceptos, situaciones y datos relevantes"
+                },
+                {
+                    "code": "2.4",
+                    "description": "Producir y expresar juicios y argumentos personales y críticos de forma abierta y respetuosa, haciendo patente la propia identidad y enriqueciendo el acervo común en el contexto del mundo actual, sus retos y sus conflictos desde una perspectiva sistémica y global"
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Conocer los principales desafíos a los que se han enfrentado distintas",
+            "description": "Conocer los principales desafíos a los que se han enfrentado distintas sociedades a lo largo del tiempo, identificando las causas y consecuencias de los cambios producidos y los problemas a los que se enfrentan en la actualidad, mediante el desarroll…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Entender y afrontar, desde un enfoque ecosocial, problemas y desafíos pasados, actuales o futuros de las sociedades contemporáneas teniendo en cuenta sus relaciones de interdependencia y ecodependencia"
+                },
+                {
+                    "code": "3.2",
+                    "description": "Utilizar secuencias cronológicas complejas en las que identificar, comparar y relacionar hechos y procesos en diferentes períodos y lugares históricos (simultaneidad, duración, causalidad), utilizando términos y conceptos específicos del ámbito de la Historia y de la Geografía"
+                },
+                {
+                    "code": "3.3",
+                    "description": "Analizar procesos de cambio histórico y comparar casos de la historia y la geografía a través del uso de fuentes de información diversas, teniendo en cuenta las transformaciones de corta y larga duración (coyuntura y estructura), las continuidades y permanencias en diferentes períodos y lugares"
+                },
+                {
+                    "code": "3.6",
+                    "description": "Conocer los Objetivos de Desarrollo Sostenible, realizando propuestas que contribuyan a su logro, aplicando métodos y proyectos de investigación e incidiendo en el uso de mapas y otras representaciones gráficas, así como de medios accesibles de interpretación de imágenes"
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Identificar y analizar los elementos del paisaje y su articulación en sistemas",
+            "description": "Identificar y analizar los elementos del paisaje y su articulación en sistemas complejos naturales, rurales y urbanos, así como su evolución en el tiempo, interpretando las causas de las transformaciones y valorando el grado de equilibrio existente e…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Identificar los elementos del entorno y comprender su funcionamiento como un sistema complejo por medio del análisis multicausal de sus relaciones naturales y humanas, presentes y pasadas, valorando el grado de conservación y de equilibrio dinámico"
+                },
+                {
+                    "code": "4.2",
+                    "description": "Idear y adoptar, cuando sea posible, comportamientos y acciones que contribuyan a la conservación y mejora del entorno natural, rural y urbano, a través del respeto a todos los seres vivos, mostrando comportamientos orientados al logro de un desarrollo sostenible de dichos entornos, y defendiendo el acceso universal, justo y equitativo a los recursos que nos ofrece el planeta"
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Analizar de forma crítica planteamientos históricos y geográficos explicando la",
+            "description": "Analizar de forma crítica planteamientos históricos y geográficos explicando la construcción de los sistemas democráticos y los principios constitucionales que rigen la vida en comunidad, así como asumiendo los deberes y derechos propios de nuestro m…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Conocer, valorar y ejercitar responsabilidades, derechos y deberes y actuar en favor de su desarrollo y afirmación, a través del conocimiento de nuestro ordenamiento jurídico y constitucional, de la comprensión y puesta en valor de nuestra memoria democrática y de los aspectos fundamentales que la conforman, de la contribución de las mujeres y hombres a la misma y la defensa de nuestros valores constitucionales"
+                },
+                {
+                    "code": "5.2",
+                    "description": "Reconocer movimientos y causas que generen una conciencia solidaria, promuevan la cohesión social, y trabajen para la eliminación de la desigualdad, especialmente la motivada por cuestión de género, y para el pleno desarrollo de la ciudadanía, mediante la movilización de conocimientos y estrategias de participación, trabajo en equipo, mediación y resolución pacífica de conflictos"
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Comprender los procesos geográficos, históricos y culturales que han conformado",
+            "description": "Comprender los procesos geográficos, históricos y culturales que han conformado la realidad multicultural en la que vivimos, conociendo y difundiendo la historia y cultura de las minorías étnicas presentes en nuestro país y valorando la aportación de…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Rechazar actitudes discriminatorias y reconocer la riqueza de la diversidad, a partir del análisis de la relación entre los aspectos geográficos, históricos, ecosociales y culturales que han conformado la sociedad globalizada y multicultural actual, y del conocimiento de la aportación de los movimientos en defensa de los derechos de las minorías y en favor de la inclusión y la igualdad real, especialmente de las mujeres y de otros colectivos discriminados"
+                },
+                {
+                    "code": "6.4",
+                    "description": "Contribuir al bienestar individual y colectivo a través del diseño, exposición y puesta en práctica de iniciativas orientadas a promover un compromiso activo con los valores comunes, la mejora del entorno y el servicio a la comunidad"
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Identificar los fundamentos que sostienen las diversas identidades propias y",
+            "description": "Identificar los fundamentos que sostienen las diversas identidades propias y las ajenas, a través del conocimiento y puesta en valor del patrimonio material e inmaterial que compartimos para conservarlo y respetar los sentimientos de pertenencia, así…",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Reconocer los rasgos que van conformando la identidad propia y de las demás personas, la riqueza de las identidades múltiples en relación con distintas escalas espaciales, a través de la investigación y el análisis de sus fundamentos geográficos, históricos, artísticos, ideológicos y lingüísticos, y el reconocimiento de sus expresiones culturales"
+                },
+                {
+                    "code": "7.2",
+                    "description": "Conocer y contribuir a conservar el patrimonio material e inmaterial común, respetando los sentimientos de pertenencia y adoptando compromisos con principios y acciones orientadas a la cohesión y la solidaridad territorial de la comunidad política, los valores del europeísmo y de la Declaración Universal de los Derechos Humanos"
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Tomar conciencia del papel de los ciclos demográficos, el ciclo vital, las",
+            "description": "Tomar conciencia del papel de los ciclos demográficos, el ciclo vital, las formas de vida y las relaciones intergeneracionales y de dependencia en la sociedad actual y su evolución a lo largo del tiempo, analizándolas de forma crítica, para promover …",
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Reconocer las iniciativas de la sociedad civil, reflejadas en asociaciones y entidades sociales, adoptando actitudes de participación y transformación en el ámbito local y comunitario, especialmente en el ámbito de las relaciones intergeneracionales"
+                },
+                {
+                    "code": "8.2",
+                    "description": "Adoptar un papel activo y comprometido con el entorno, de acuerdo con aptitudes, aspiraciones, intereses y valores propios, a partir del análisis crítico de la realidad económica, de la distribución y gestión del trabajo, y la adopción de hábitos responsables, saludables, sostenibles y respetuosos con la dignidad humana y la de otros seres vivos, así como de la reflexión ética ante los usos de la tecnología y la gestión del tiempo libre"
+                }
+            ]
+        },
+        {
+            "code": "CE9",
+            "name": "Conocer y valorar la importancia de la seguridad integral ciudadana en la",
+            "description": "Conocer y valorar la importancia de la seguridad integral ciudadana en la cultura de convivencia nacional e internacional, reconociendo la contribución del Estado, sus instituciones y otras entidades sociales a la ciudadanía global, a la paz, a la co…",
+            "criterios": [
+                {
+                    "code": "9.1",
+                    "description": "Contribuir a la consecución de un mundo más seguro, justo, solidario y sostenible, a través del análisis de los principales conflictos del presente y el reconocimiento de las instituciones del Estado, y de las asociaciones civiles que garantizan la seguridad integral y la convivencia social, así como de los compromisos internacionales de nuestro país en favor de la paz, la seguridad, la cooperación, la sostenibilidad, los valores democráticos y los Objetivos de Desarrollo Sostenible"
+                },
+                {
+                    "code": "9.2",
+                    "description": "Interpretar y explicar de forma argumentada la conexión de España con los grandes procesos históricos de la época contemporánea, valorando lo que han supuesto para su evolución y señalando las aportaciones de sus habitantes a lo largo de la historia, así como las aportaciones del Estado y sus instituciones a la cultura europea y mundial"
+                }
+            ]
+        }
+    ]
+}

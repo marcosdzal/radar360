@@ -45,7 +45,11 @@ function local_sentinel_myprofile_navigation(\core_user\output\myprofile\tree $t
         return;
     }
 
-    $url  = new \moodle_url('/local/sentinel/student_report.php', ['userid' => $user->id]);
+    $params = ['userid' => $user->id];
+    if (!empty($course->id) && $course->id != SITEID) {
+        $params['courseid'] = $course->id;
+    }
+    $url  = new \moodle_url('/local/sentinel/student_report.php', $params);
 
     // Crear categoría propia bajo 'reports' si no existe ya.
     $category = new \core_user\output\myprofile\category(
@@ -85,7 +89,11 @@ function local_sentinel_extend_navigation_user(\navigation_node $nav, \stdClass 
         return;
     }
 
-    $url = new \moodle_url('/local/sentinel/student_report.php', ['userid' => $user->id]);
+    $params = ['userid' => $user->id];
+    if (!empty($course->id) && $course->id != SITEID) {
+        $params['courseid'] = $course->id;
+    }
+    $url = new \moodle_url('/local/sentinel/student_report.php', $params);
     $nav->add(
         get_string('report:title', 'local_sentinel'),
         $url,

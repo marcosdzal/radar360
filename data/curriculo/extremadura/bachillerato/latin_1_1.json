@@ -1,0 +1,155 @@
+{
+    "community": "extremadura",
+    "stage": "bachillerato",
+    "decree": "Decreto 113\/2022, de 25 de agosto",
+    "subject": "latin_1",
+    "subject_name": "Latín I",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "L eer de forma comprensiva o, en su caso, interpretar textos latinos no",
+            "description": "L eer de forma comprensiva o, en su caso, interpretar textos latinos no demasiado complejos, analizando las unidades lingüísticas y reflexionando sobre ellas mediante la comparación con la lengua de enseñanza y con otras lenguas del repertorio indivi…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Traduce textos latinos con corrección y justifica la traducción identificando elementos lingüísticos."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Seleccionar autónomamente el significado correcto de palabras polisémicas en latín justificando la elección con el contexto y herramientas de traducción."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Revisar y corregir traducciones propias y ajenas, justificando cambios con terminología lingüística."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Lee directamente textos latinos sencillos identificando unidades lingüísticas básicas y comparándolas con su repertorio lingüístico."
+                },
+                {
+                    "code": "1.5",
+                    "description": "Planificar y reflexionar sobre el propio aprendizaje del latín mediante autoevaluación y coevaluación, usando diario o portfolio."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Distinguir los formantes latinos y explicar los cambios que hayan tenido lugar",
+            "description": "Distinguir los formantes latinos y explicar los cambios que hayan tenido lugar a lo largo del tiempo, comparándolos con los de la lengua de enseñanza y otras lenguas del repertorio individual, para deducir el significado etimológico del léxico conoci…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Deducir el significado etimológico de términos aplicando estrategias de reconocimiento de formantes latinos y cambios lingüísticos."
+                },
+                {
+                    "code": "2.2",
+                    "description": "El alumnado explica cambios fonéticos, morfológicos o semánticos del latín a las lenguas de enseñanza, comparando con otras lenguas."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Explica la relación del latín con lenguas modernas analizando elementos comunes de origen griego y usando su repertorio lingüístico."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Identificar prejuicios lingüísticos en ejemplos dados y valorar la diversidad dialectal."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "L eer, comentar e interpretar textos latinos de diferentes géneros y épocas,",
+            "description": "L eer, comentar e interpretar textos latinos de diferentes géneros y épocas, asumiendo el proceso creativo como complejo e inseparable del contexto histórico, social y político y de sus influencias artísticas, para identificar su genealogía y su apor…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Interpretar y comentar textos latinos guiados aplicando análisis y reflexión personal para desarrollar sensibilidad estética y hábito lector."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Comparar fragmentos latinos con obras posteriores, identificando géneros, temas y tópicos desde un enfoque intertextual guiado."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Identificar y definir palabras latinas clave (imperium, natura, civis, paterfamilias) en textos variados, combinando léxico y cultura."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Crear textos literarios propios basados en la lectura de obras latinas."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Analizar las características de la civilización latina en el ámbito personal,",
+            "description": "Analizar las características de la civilización latina en el ámbito personal, religioso y sociopolítico, utilizando conocimientos sobre el mundo romano y comparando críticamente el presente y el pasado, para valorar las aportaciones del mundo clásico…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Comparar instituciones, costumbres y modos de vida romanos con los actuales, valorando cambios y derechos humanos."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Debatir sobre el legado romano usando estrategias retóricas y mediando entre posturas."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Investigar sobre el legado romano analizando fuentes y valorando su fiabilidad."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Valorar críticamente el patrimonio histórico, arqueológico, artístico y",
+            "description": "Valorar críticamente el patrimonio histórico, arqueológico, artístico y cultural heredado de la civilización latina, interesándose por su sostenibilidad y reconociéndolo como producto de la creación humana y como testimonio de la historia, para expli…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Explicar cómo el legado latino inspira creaciones culturales posteriores a partir del análisis de obras dadas."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Investiga guiadamente un elemento del patrimonio latino, actuando con respeto y conciencia de su conservación."
+                },
+                {
+                    "code": "5.3",
+                    "description": "El alumnado explora el legado romano local, reflexiona sobre sus usos y presenta ejemplos de pervivencia clásica en soportes variados."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Reconocer e interpretar las ideas principales y las líneas argumentales básicas",
+            "description": "Reconocer e interpretar las ideas principales y las líneas argumentales básicas de textos latinos, haciendo uso de estrategias de inferencia y comprobación de significados. La comprensión supone recibir y procesar información, movilizando los conocim…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Interpretar el sentido global y la información específica y explícita de textos latinos de dificultad básica, orales, escritos y multimodales en contextos comunicativos."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Aplicar estrategias sencillas y conocimientos más adecuados en contextos comunicativos y así comprender el sentido general, la información esencial y los detalles más relevantes de los textos."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "P roducir textos sencillos, tanto orales como escritos, e interactuar",
+            "description": "P roducir textos sencillos, tanto orales como escritos, e interactuar activamente empleando con corrección esquemas básicos de la lengua latina, a fin de expresar ideas y argumentos de forma creativa, adecuada y coherente, de acuerdo con propósitos c…",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Producir de forma oral o escrita textos breves sencillos en latín, estructurados de forma comprensible en contextos comunicativos."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Participar en latín en situaciones interactivas breves y sencillas, apoyándose en recursos tales como la repetición, el ritmo pausado y el lenguaje no verbal, y mostrando empatía y respeto tanto en soporte físico como digital."
+                },
+                {
+                    "code": "7.3",
+                    "description": "Producir mediante retroversión textos sencillos utilizando las estructuras básicas de la lengua latina."
+                }
+            ]
+        }
+    ]
+}

@@ -16,25 +16,23 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['pluginname']          = 'Sentinel';
+$string['pluginname']          = 'Radar 360';
 $string['gradecategory']       = 'Categoría de calificación';
 $string['rubric_row_id']       = 'Fila de rúbrica';
-$string['activities_category'] = 'Actividades (Sentinel)';
-
 // Capacidades.
-$string['sentinel:managephotos'] = 'Gestionar fotos de alumnos (Sentinel)';
+$string['sentinel:managephotos'] = 'Gestionar fotos de alumnos (Radar 360)';
 
 // Categorías del libro de calificaciones creadas por el plugin.
-$string['activities_category'] = 'Actividades (Sentinel)';
+$string['activities_category'] = 'Actividades (Radar 360)';
 $string['rubric_category']     = 'Nota de Rúbrica';
 
 // Editor de rúbrica.
-$string['rubriceditor:label']     = '📌 Competencia Específica (Sentinel):';
-$string['rubriceditor:tooltip']   = 'Asignar este criterio a una Competencia Específica del libro de calificaciones';
+$string['rubriceditor:label']     = '📌 Criterio de evaluación (Radar 360):';
+$string['rubriceditor:tooltip']   = 'Asignar esta fila de rúbrica a un criterio de evaluación del libro de calificaciones';
 $string['rubriceditor:unassigned']= '— Sin asignar —';
 $string['rubriceditor:pending']   = '💾 Se guardará al publicar';
 $string['rubriceditor:neterror']  = '❌ Error de red';
-$string['rubriceditor:header']    = 'CE (Sentinel)';
+$string['rubriceditor:header']    = 'CE (Radar 360)';
 
 // Widget de foto de alumno.
 $string['photo:delete']      = 'Eliminar foto';
@@ -67,8 +65,9 @@ $string['settings:drawerpersist']             = 'Mantener estado del menú later
 $string['settings:drawerpersist_desc']        = 'Recuerda si el menú de navegación lateral estaba abierto o cerrado y lo restaura al cambiar de página.';
 
 // Capacidades nuevas.
-$string['sentinel:viewstudentreport'] = 'Ver informe de perfil de salida de un alumno (Sentinel)';
-$string['sentinel:managedescriptors'] = 'Gestionar asignación CE → descriptores (Sentinel)';
+$string['sentinel:viewstudentreport'] = 'Ver informe de perfil de salida de un alumno (Radar 360)';
+$string['sentinel:managedescriptors'] = 'Gestionar asignación CE → descriptores (Radar 360)';
+$string['sentinel:communicate']       = 'Crear y gestionar comunicaciones a familias (Radar 360)';
 
 // Informe de perfil de salida.
 $string['report:title']              = 'Perfil de salida';
@@ -108,10 +107,24 @@ $string['report:evolution']          = 'Evolución';
 $string['report:comm_nth']           = '{$a}.ª comunicación';
 $string['report:level_legend_title'] = 'Niveles de desempeño';
 
+// Pestañas de vista.
+$string['report:tab_group_key']     = 'Competencias clave';
+$string['report:tab_group_specific'] = 'Competencias específicas';
+$string['report:tab_diana']         = 'Diana';
+$string['report:tab_grid']          = 'Tarjetas';
+$string['report:tab_subject_diana'] = 'Diana';
+$string['report:tab_subject_grid']  = 'Tarjetas';
+$string['report:subject_grade']   = 'Nota de la materia';
+$string['report:select_course']   = 'Selecciona materia';
+$string['report:ce_criteria']     = 'criterios';
+$string['report:ce_criterion']    = 'criterio';
+$string['report:no_ce_data']      = 'No hay competencias específicas configuradas en esta materia.';
+$string['report:view_detail']     = 'Ver detalle';
+
 // Administración: mapeo criterio de evaluación → descriptores.
-$string['mapdesc:title']             = 'Asignar descriptores a criterios de evaluación';
-$string['mapdesc:navlink']           = 'Sentinel – Descriptores';
-$string['mapdesc:intro']             = 'Para cada criterio de evaluación del libro de calificaciones, selecciona qué descriptores del perfil de salida (LOMLOE) trabaja. Sentinel vinculará automáticamente las calificaciones de rúbrica a los descriptores correctos comparando el nombre del criterio de rúbrica con las entradas manuales del libro de calificaciones.';
+$string['mapdesc:title']             = 'Vinculación de criterios de evaluación a descriptores operativos';
+$string['mapdesc:navlink']           = 'Vinculación criterios ev. / descriptores';
+$string['mapdesc:intro']             = 'Las vinculaciones entre criterios de evaluación y descriptores operativos del perfil de salida aparecen preconfiguradas de acuerdo con la normativa curricular vigente. Si lo considera necesario, puede ajustar estas asignaciones para adaptarlas a la programación didáctica de su materia.';
 $string['mapdesc:save']              = 'Guardar cambios';
 $string['mapdesc:saved']             = 'Asignaciones guardadas correctamente.';
 $string['mapdesc:nocriteria']        = 'No se encontraron criterios de evaluación en el libro de calificaciones. Crea subcategorías de nivel 3 (criterio) dentro de las competencias específicas en el libro de calificaciones de cada materia.';
@@ -119,13 +132,21 @@ $string['mapdesc:course']            = 'Materia';
 $string['mapdesc:activity']          = 'Actividad';
 $string['mapdesc:criterion']         = 'Criterio de evaluación';
 $string['mapdesc:descriptors']       = 'Descriptores vinculados';
+$string['mapdesc:legend_normativa']  = 'Vinculado por normativa';
+$string['mapdesc:legend_manual']     = 'Vinculado manualmente';
 
 // Administración: periodos de comunicación.
 $string['periods:title']             = 'Comunicaciones a familias';
 $string['periods:intro']             = 'Define las fechas de comunicación de calificaciones a las familias. El informe de perfil de salida permite filtrar por estos periodos.';
 $string['periods:saved']             = 'Comunicación añadida correctamente.';
 $string['periods:deleted']           = 'Comunicación eliminada.';
-$string['periods:navlink']           = 'Sentinel – Comunicaciones';
+$string['periods:navlink']           = 'Radar 360 – Comunicaciones';
+
+// Currículo.
+$string['settings:heading_curriculum']    = 'Currículo (LOMLOE)';
+$string['settings:community']             = 'Comunidad Autónoma';
+$string['settings:community_desc']        = 'Comunidad autónoma del centro educativo. Todos los cursos usarán la normativa de esta comunidad.';
+$string['settings:community_none']        = '— Sin configurar —';
 
 // Ajustes (nuevas entradas).
 $string['settings:heading_descriptors']   = 'Perfil de salida (LOMLOE)';
@@ -133,10 +154,10 @@ $string['settings:mapdescriptors']        = 'Asignar descriptores a criterios';
 $string['settings:managedescriptors_link']= 'Ir a la página de asignación';
 
 // Privacy API.
-$string['privacy:metadata:local_sentinel_student_photo']              = 'Sentinel almacena fotografías personalizadas de alumnos subidas por el profesorado.';
+$string['privacy:metadata:local_sentinel_student_photo']              = 'Radar 360 almacena fotografías personalizadas de alumnos subidas por el profesorado.';
 $string['privacy:metadata:local_sentinel_student_photo:studentid']    = 'Identificador del alumno al que pertenece la fotografía.';
 $string['privacy:metadata:local_sentinel_student_photo:uploaderid']   = 'Identificador del profesor que subió la fotografía.';
 $string['privacy:metadata:local_sentinel_student_photo:timemodified'] = 'Fecha y hora de la última modificación de la fotografía.';
-$string['privacy:metadata:core_files']                                = 'Sentinel almacena el fichero de imagen en el sistema de ficheros de Moodle.';
+$string['privacy:metadata:core_files']                                = 'Radar 360 almacena el fichero de imagen en el sistema de ficheros de Moodle.';
 $string['privacy:studentphoto']                                       = 'Fotografía del alumno';
 $string['privacy:uploadedphotos']                                     = 'Fotografías subidas como profesor';

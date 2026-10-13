@@ -1,0 +1,148 @@
+{
+    "community": "castilla-y-leon",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "fund_admin_gestion",
+    "subject_name": "Fundamentos de Administración y Gestión",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Identificar los principales aspectos de la innovación",
+            "description": "Identificar los principales aspectos de la innovación, reconociendo el papel fundamental que desempeña en el proceso emprendedor y aplicando técnicas como la observación y la hibridación, para desarrollar un proyecto empresarial. Durante las últimas …",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Relacionar distintos aspectos de la innovación con el desarrollo sostenible y la calidad de vida, proponiendo diferentes ideas de negocio. (CD3, CC4, CE1)"
+                },
+                {
+                    "code": "1.2",
+                    "description": "Analizar la información económica del sector empresarial en el que se situará la empresa partiendo de ella para iniciar su proyecto empresarial. (CCL3, STEM4, CD1, CD3, CPSAA4, CE1)"
+                },
+                {
+                    "code": "1.3",
+                    "description": "Seleccionar una idea de negocio, valorando y argumentando de forma técnica la elección. (CCL3, CD3, CE1, CE3)"
+                },
+                {
+                    "code": "1.4",
+                    "description": "Identificar proyectos innovadores de emprendimiento social, analizando las consecuencias que tienen en el desarrollo de la economía local y en el bienestar de la sociedad. (CCL3, CD1, CD3, CPSAA4, CC4, CE1, CE3)"
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Identificar y ser consciente de las principales decisiones que debe tomar el",
+            "description": "Identificar y ser consciente de las principales decisiones que debe tomar el promotor de un proyecto empresarial, conociendo las posibles consecuencias de cada una de ellas, para aplicarlas a su propuesta de negocio.",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Valorar las capacidades del promotor del proyecto, teniéndolas en cuenta para ser un buen emprendedor. (CD1, CE2)"
+                },
+                {
+                    "code": "2.2",
+                    "description": "Analizar la viabilidad económica del proyecto, poniéndola en práctica en su propio proyecto de empresa. (CCL3, STEM1, STEM4, CD3, CE2)"
+                },
+                {
+                    "code": "2.3",
+                    "description": "Decidir la ubicación y la dimensión ideal de la empresa estudiando el entorno local. (CD1, CD3, CPSAA4, CE3)"
+                },
+                {
+                    "code": "2.4",
+                    "description": "Ser conscientes de la responsabilidad social, de la empresa en la toma de decisiones, conociendo las consecuencias de llevar adelante el proyecto empresarial. (CD3, CPSAA4, CC2, CE3)"
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Reconocer e identificar las principales áreas funcionales del proyecto",
+            "description": "Reconocer e identificar las principales áreas funcionales del proyecto empresarial, analizando la organización interna de la empresa, la forma jurídica de su constitución, los recursos necesarios, los principales departamentos, así como el funcionami…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Identificar las diferentes áreas funcionales del proyecto empresarial desarrollando la idea de negocio y valorando la importancia de cada una de ellas dentro de la empresa. (CE3)"
+                },
+                {
+                    "code": "3.2",
+                    "description": "Analizar estrategias de economía circular, aplicándolas al diseño de productos servicios a ofrecer como consecuencia de su proyecto empresarial. (CCL3, CD1, CD3, CPSAA4, CC2, CE3)"
+                },
+                {
+                    "code": "3.3",
+                    "description": "Aplicar diferentes herramientas administrativas y contables, realizando ejercicios prácticos relacionados con la empresa. (STEM1, STEM4)"
+                },
+                {
+                    "code": "3.4",
+                    "description": "Conocer las distintas fuentes de financiación empresarial, así como sus ventajas e inconvenientes, recabando información sobre las mismas. (CCL3, STEM1, STEM4, CD1, CD3, CPSAA4, CE3)"
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Identificar y aplicar las principales normas básicas de fiscalidad y",
+            "description": "Identificar y aplicar las principales normas básicas de fiscalidad y contabilidad empresarial, realizando supuestos básicos y reconociendo la responsabilidad de la empresa, para que el alumnado comprenda y sea capaz de realizar el proceso contable bá…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Conocer e identificar los conceptos básicos de los principales impuestos en la economía española profundizando en los que afectan a las empresas. (CD1, CPSAA4, CC2)"
+                },
+                {
+                    "code": "4.2",
+                    "description": "Valorar la importancia de la responsabilidad fiscal, observando y estudiando tanto las consecuencias positivas que tiene, como las negativas de su carencia. (CCL3, CD1, CD3, CPSAA4, CC2)"
+                },
+                {
+                    "code": "4.3",
+                    "description": "Analizar el impacto y la repercusión de la tributación empresarial valorando cómo influye en la economía de su entorno. (CCL3, CD1, CPSAA4, CC2)"
+                },
+                {
+                    "code": "4.4",
+                    "description": "Realizar supuestos prácticos sencillos del ciclo contable y de análisis de las cuentas anuales, aplicando la normativa contable y valorando la situación patrimonial, económica y financiera de la empresa. (STEM1)"
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Reconocer y desarrollar las habilidades básicas que debe tener un individuo en",
+            "description": "Reconocer y desarrollar las habilidades básicas que debe tener un individuo en un proceso de comunicación escrita y oral, haciendo uso de ellas en presentaciones eficaces y de alto impacto, para dar a conocer sus propios proyectos de empresa.",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Identificar las partes del proceso de comunicación escrita y oral, reconociendo los elementos que aportan información al proceso. (CCL1)"
+                },
+                {
+                    "code": "5.2",
+                    "description": "Desarrollar habilidades básicas para realizar simulaciones de procesos de comunicación efectiva en una empresa, poniéndolas en práctica al desarrollar su proyecto empresarial. (CCL1, CCL3, CD2, CD4, CPSAA1.1, CCEC1)"
+                },
+                {
+                    "code": "5.3",
+                    "description": "Reconocer los elementos de la narrativa de un proyecto, aplicándolos a potenciar la imagen de marca la empresa. (CCL1, CCL3, CD1, CD2, CD3, CD4)"
+                },
+                {
+                    "code": "5.4",
+                    "description": "Realizar presentaciones efectivas de una idea de negocio utilizando herramientas TIC. (CCL1, CCL3, CD1, CD2, CD3, CD4, CE3, CCEC3.1)"
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Reflexionar sobre el sentido, alcance, diferenciación y efectos externos del",
+            "description": "Reflexionar sobre el sentido, alcance, diferenciación y efectos externos del proyecto emprendedor, concretando y analizando acciones locales de economía colaborativa y circular y empleando instrumentos de calidad diferenciada, como denominaciones de …",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Analizar, de forma crítica y constructiva, el contexto local de una propuesta emprendedora, valorando los efectos de la transformación económica y social de su entorno más cercano, y fomentando iniciativas socialmente responsables. (CCL3, CPSAA4, CC4, CE1, CE2, CE3)"
+                },
+                {
+                    "code": "6.2",
+                    "description": "Proponer alternativas y nuevas soluciones a retos que respondan al interés colectivo, reconociendo la importancia de la economía circular. ("
+                },
+                {
+                    "code": "6.3",
+                    "description": "Generar actitudes sensibles y comportamientos responsables, estableciendo correspondencias entre la iniciativa emprendedora desarrollada y la economía local. (CD2, CPSAA4, CC4, CE1, CE2, CE3)"
+                },
+                {
+                    "code": "6.4",
+                    "description": "Comprender y aplicar formas de calidad diferenciada, desarrolladas por la administración pública, útiles para poner en valor iniciativas emprendedoras singulares y sostenibles unidas a un contexto local, aplicándolas al producto o servicio de su proyecto de empresa. (STEM3, CD2, CPSAA4, CE1, CE2)"
+                }
+            ]
+        }
+    ]
+}

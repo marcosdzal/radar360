@@ -1,0 +1,120 @@
+{
+    "community": "canarias",
+    "stage": "bachillerato",
+    "decree": "Decreto 73\/2023, de 13 de abril",
+    "subject": "quimica",
+    "subject_name": "Química",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "(c1) El desarrollo de la competencia específica implica usar los procedimientos",
+            "description": "(c1) El desarrollo de la competencia específica implica usar los procedimientos científicos para descifrar los fenómenos que ocurren en la naturaleza y darles una explicación plausible a partir de las leyes científicas que los rigen.",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Identificar y explicar la relevancia de hitos químicos y su impacto en el progreso científico, económico y la sostenibilidad ambiental de la sociedad actual."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Explicar detalladamente procesos químicos del entorno y las propiedades de la materia, utilizando el conocimiento científico para comprender fenómenos ambientales y cotidianos."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "(c2) La competencia específica pretende que el alumnado no solo aprenda química",
+            "description": "(c2) La competencia específica pretende que el alumnado no solo aprenda química a través de las leyes y teorías propias de la materia, sino a través del contacto con situaciones cotidianas y con las preguntas que surgen de la observación de la realid…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Relacionar principios químicos con problemas actuales analizando su comunicación en medios o experiencia cotidiana."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Explicar la relevancia de la química en los ámbitos social, económico y ético, analizando su impacto real en problemas actuales y su influencia global."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Utilizar las leyes químicas para predecir resultados experimentales y explicar procesos industriales o fenómenos naturales mediante argumentos científicos razonados."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "(c3) Esta competencia específica formará al alumnado en la utilización correcta",
+            "description": "(c3) Esta competencia específica formará al alumnado en la utilización correcta de las normas de la IUPAC para nombrar y formular, así como las herramientas matemáticas que se refieren a ecuaciones y operaciones o los sistemas de unidades y las conve…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Nombrar y formular sustancias químicas orgánicas e inorgánicas aplicando las normas internacionales de la IUPAC para asegurar una comunicación científica precisa y estandarizada."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Aplicar cálculos matemáticos y herramientas operativas con precisión para resolver problemas químicos, asegurando el uso correcto de unidades y la coherencia en los resultados obtenidos."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Aplicar normas de seguridad y protocolos de gestión de residuos en el laboratorio, interpretando correctamente pictogramas y códigos de comunicación para un trabajo experimental seguro."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "(c4) El desarrollo de la competencia específica desea desestigmatizar los",
+            "description": "(c4) El desarrollo de la competencia específica desea desestigmatizar los productos químicos y la química en general mediante la alfabetización científica y eliminar falsas ideas, como que son perjudiciales para la salud y el medioambiente.",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Identificar y justificar la presencia de sustancias químicas en productos cotidianos, explicando cómo sus propiedades y reacciones químicas aportan beneficios específicos a la sociedad y al entorno."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Defender mediante leyes químicas que los riesgos ambientales o sanitarios derivan de la gestión negligente de las sustancias y no de la propia naturaleza de la ciencia."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Argumentar científicamente los beneficios de productos químicos específicos y su impacto positivo en el desarrollo social, contrarrestando prejuicios infundados sobre la química."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "(c5) El desarrollo de la competencia específica persigue que el alumnado se",
+            "description": "(c5) El desarrollo de la competencia específica persigue que el alumnado se habitúe desde esta etapa a trabajar de acuerdo a los principios básicos que se ponen en práctica en las ciencias experimentales, con especial atención al trabajo en equipo, y…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Identificar y explicar cómo la colaboración entre diferentes disciplinas científicas y la integración de sus leyes fundamentales impulsan los avances en la química actual."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Analizar cómo el método científico en química fomenta el pensamiento crítico y la autonomía intelectual mediante la resolución de problemas y el análisis de evidencias."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Resolver problemas químicos complejos mediante el trabajo colaborativo, integrando diversas perspectivas y asumiendo responsabilidades individuales para alcanzar una solución común y sostenible."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "(c6) Por último, la competencia específica pone de manifiesto que para",
+            "description": "(c6) Por último, la competencia específica pone de manifiesto que para comprender profundamente los conceptos fundamentales de la química hay que conocer las leyes y teorías de otros campos de la ciencia relacionados con ella y viceversa; es necesari…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Justificar los principios químicos fundamentales integrando leyes físicas y teorías de otras ciencias mediante el análisis de resultados experimentales y procesos de investigación científica."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Relacionar contenidos de otras ciencias con leyes y teorías químicas para extraer conclusiones interdisciplinares."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Resolver problemas químicos aplicando modelos matemáticos y herramientas tecnológicas para vincular los resultados teóricos con fenómenos observados en la naturaleza o el laboratorio."
+                }
+            ]
+        }
+    ]
+}

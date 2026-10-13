@@ -1,0 +1,155 @@
+{
+    "community": "baleares",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "tecnologia_ingenieria_2",
+    "subject_name": "Tecnología e Ingeniería II",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Coneixer les bases geografiques, historiques i culturals que han configurat el",
+            "description": "coneixer les bases geografiques, historiques i culturals que han configurat el territori de la Unió Europea, analitzant fonts documentals en distints formats, per entendre, assumir i promoure postures en consonància amb els valors que caracteritzen l…",
+            "criterios": [
+                {
+                    "code": "CA1.1",
+                    "description": "Desenvolupar projectes de recerca i innovació amb la finalitat de crear i millorar productes de manera contínua, utilitzant models de gestió cooperatius i flexibles. Desenvolupar projectes de recerca i innovació amb la finalitat de crear i millorar productes de manera contínua. Utilitzar models de gestió cooperatius i flexibles."
+                },
+                {
+                    "code": "CA1.2",
+                    "description": "Comunicar i difondre de manera clara i comprensible projectes elaborats i presentar-los amb la documentació tècnica necessària. Publicitar de manera clara i comprensible projectes elaborats i presentar-los amb la documentació tècnica necessària."
+                },
+                {
+                    "code": "CA1.3",
+                    "description": "Perseverar en la consecució d'objectius en situacions d'incertesa, identificant i gestionant emocions, acceptant i aprenent de la crítica raonada i utilitzant l'error com a part del procés d'aprenentatge Plantejar situacions i hipòtesis diferents per la consecució d'objectius en un projecte definit. Gestionar la consecució d'objectius i les emocions desencadenades. Identificar situacions crítiques d'un avantprojecte o un projecte final. Concebre l'error com a part de la millora continua en el procés d'aprenentatge."
+                },
+                {
+                    "code": "CA1.4",
+                    "description": "Comprendre i explicar la importància de la conservació del medi natural europeu, reconèixer les amenaces que l'afecten i les conseqüències de la degradació per a la biodiversitat i la qualitat de vida de la població."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Descriure les principals fites de la construccio de la unio europea, destacant",
+            "description": "descriure les principals fites de la construccio de la unio europea, destacant els fets, els moments històrics i les persones que han estat fonamentals en el seu disseny i planificació fent especial menció als diferents tractats, a la incorporació de…",
+            "criterios": [
+                {
+                    "code": "CA2.1",
+                    "description": "Analitzar la idoneïtat dels materials tècnics en la fabricació de productes sostenibles i de qualitat, estudiant-ne l'estructura interna, les propietats, els tractaments de modificació i la millora de les seves propietats. Analitzar l'estructura interna dels materials i la relació amb les seves propietats. Determinar les característiques dels materials a partir dels diferents tipus d'assaigs. Seleccionar els tractaments més adients per a millorar les característiques dels diferents materials en funció de la seva utilitat o les seves millors propietats."
+                },
+                {
+                    "code": "CA2.2",
+                    "description": "Elaborar informes senzills d'avaluació d'impacte ambiental de manera fonamentada y estructurada. Elaborar informes d'impacte ambiental senzills, de forma estructurada i ben fonamentats. Avaluar els efectes sobre el medi ambient. Identificar els efectes de tots els materials utilitzats en la producció dels projectes sobre el medi ambient o les persones."
+                },
+                {
+                    "code": "CA2.3",
+                    "description": "Explicar el procés de construcció de la Unió Europea, destacant les fites i dificultats més significatives i identificant les persones més influents que participaren en la materialització del projecte comunitari, com també els símbols oficials que la identifiquen."
+                },
+                {
+                    "code": "CA2.4",
+                    "description": "Sintetitzar el procés d'adhesió d'Espanya a la Unió Europea, a partir de l'arribada de la democràcia, valorant els reptes que s'assumiren des del punt de vista social, polític i econòmic."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Analitzar l'estructura i funcionament de la unio europea, des dels seus origens",
+            "description": "analitzar l'estructura i funcionament de la unio europea, des dels seus origens fins el present, identificant els reptes, les dificultats i les oportunitats que s'han plantejat en la seva història per comprendre la rellevància del projecte de constru…",
+            "criterios": [
+                {
+                    "code": "CA3.1",
+                    "description": "Resoldre problemes associats a les diferents fases del desenvolupament i gestió d'un projecte (disseny, simulació i muntatge i presentació), utilitzant les eines adequades de què proveeixen les aplicacions digitals."
+                },
+                {
+                    "code": "CA3.2",
+                    "description": "Entendre i analitzar de forma crítica el funcionament, competències i processos de presa de decisió de les distintes institucions i organismes que estructuren la Unió Europea, especialment el Parlament Europeu com a fòrum de participació i representació ciutadana."
+                },
+                {
+                    "code": "CA3.3",
+                    "description": "Descobrir i relacionar principis teòrics o propostes científiques de diferents disciplines."
+                },
+                {
+                    "code": "CA3.4",
+                    "description": "Aplicar el mètode científic en les recerques de tipus experimental com també els mètodes propis del desenvolupament de projectes tecnològics."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Coneixer les principals politiques de la unio europea, analitzant amb esperit",
+            "description": "coneixer les principals politiques de la unio europea, analitzant amb esperit critic, la seva relació amb estats no membres i altres organismes internacionals, per valorar-ne la importància i comprendre la seva necessitat, en els contextos europeu, n…",
+            "criterios": [
+                {
+                    "code": "CA4.1",
+                    "description": "Calcular i muntar estructures senzilles, estudiant els tipus de càrregues a les quals es puguin veure sotmeses i la seva estabilitat. Calcular estructures senzilles, estudiant els tipus de càrregues a les quals es puguin veure sotmeses. Muntar o simular estructures simples. Determinar el grau d'estabilitat de l'estructura."
+                },
+                {
+                    "code": "CA4.2",
+                    "description": "Analitzar les màquines tèrmiques: màquines frigorífiques, bombes de calor i motors tèrmics, comprenent-ne el seu funcionament i realitzant simulacions i càlculs bàsics sobre l'eficiència que tenen. Analitzar les màquines tèrmiques: motors tèrmics, màquines frigorífiques i bombes de calor. Analitzar el funcionament dels motors tèrmics. Calcular cicles tèrmics a fi de valorar l'eficiència de màquines i motors tèrmics. Simular el funcionament de màquines i motors tèrmics."
+                },
+                {
+                    "code": "CA4.3",
+                    "description": "Interpretar i solucionar esquemes de sistemes pneumàtics i hidràulics, a través de muntatges o simulacions, comprenent i documentant el funcionament de cadascun dels elements i del sistema íntegrament. Analitzar circuits pneumàtics i hidràulics mitjançant simulacions o muntatges físics. Dissenyar circuits pneumàtics i hidràulics per donar solucions a situacions concretes. Descriure com funcionen els elements d'un circuit pneumàtic i hidràulic per separat i també el sistema en conjunt. Documentar detalladament el funcionament dels elements d'un circuit pneumàtic i hidràulic per separat i també el sistema en conjunt per facilitar el manteniment i la resolució de problemes futurs."
+                },
+                {
+                    "code": "CA4.4",
+                    "description": "Interpretar i resoldre circuits de corrent altern, mitjançant muntatges o simulacions, identificant-ne els elements i comprenent el funcionament. Identificar els diferents elements d'un circuit de corrent alterna (CA). Analitzar el funcionament dels diferents elements elèctrics mitjançant muntatges físics o simulacions. Determinar la contribució de cada element al funcionament global del circuit. Resoldre matemàticament circuits de CA."
+                },
+                {
+                    "code": "CA4.5",
+                    "description": "Experimentar i dissenyar circuits combinacionals i seqüencials físics i simulats aplicant fonaments de l'electrònica digital i compredre'n el seu funcionament en el disseny de solucions tecnològiques. Experimentar i dissenyar circuits d'electrònica digital combinacionals i seqüencials que poden incloure tant components físics com simulats. Utilitzar els principis bàsics de l'electrònica digital per assegurar que els circuits funcionin correctament. Determinar la contribució de cada element al conjunt i valorar la utilitat dels circuits en aplicacions tecnològiques concretes."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Cercar, seleccionar, tractar i organitzar informacio i continguts rellevants",
+            "description": "cercar, seleccionar, tractar i organitzar informacio i continguts rellevants per exercir en la vida diària com a ciutadans i ciutadanes europees, d'Espanya i de les Illes Balears, utilitzant diferents fonts i mitjans digitals, amb finalitats laborals…",
+            "criterios": [
+                {
+                    "code": "CA5.1",
+                    "description": "Comprendre i simular el funcionament dels processos tecnològics basats en sistemes automàtics de llaç obert i tancat, aplicant tècniques de simplificació i analitzant-ne l'estabilitat. Definir, identificar i classificar els sistemes automàtics i els elements que els formen. Distingir i analitzar el funcionament del control en llaç obert i tancat. Definir i modelitzar els sistemes de control, utilitzant tècniques com els diagrames de blocs o les funcions de transferència, entre d'altres. Emprar diferents mètodes per a la simplificació de sistemes de control. Determinar l'estabilitat dels sistemes de control senzills."
+                },
+                {
+                    "code": "CA5.2",
+                    "description": "Conèixer i avaluar sistemes informàtics emergents i les implicacions que tenen en la seguretat de les dades, analitzant models existents. Avaluar i tenir un pensament crític d'aquests sistemes informàtics emergents com també de la seguretat de les dades. Analitzar models existents."
+                },
+                {
+                    "code": "CA5.3",
+                    "description": "Analitzar l'evolució del paper de la dona a Europa, valorant críticament la situació real d'igualtat entre ciutadans i ciutadanes europeus, a més de les accions en favor de l'emancipació de la dona i del moviment feminista, com a fites essencials en el desplegament de la democràcia."
+                },
+                {
+                    "code": "CA5.4",
+                    "description": "Valorar el concepte de ciutadania europea i analitzar els drets fonamentals reconeguts en els Tractats de la Unió i en la Carta dels Drets Fonamentals així com els deures que se'n deriven, entenent-los com a base essencial dels valors democràtics."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Explicar i debatre els principals desafiaments presents i futurs que ha",
+            "description": "explicar i debatre els principals desafiaments presents i futurs que ha d'abordar la unio Europea, consultant fonts hemerogràfiques tradicionals o digitals i contrastant la informació, per valorar els sistemes polítics basats en la dignitat humana, l…",
+            "criterios": [
+                {
+                    "code": "CA6.1",
+                    "description": "Analitzar els diferents sistemes d'enginyeria des del punt de vista de la responsabilitat social i la sostenibilitat, estudiant les característiques d'eficiència energètica associades als materials i als processos de fabricació. Analitzar els diferents sistemes d'enginyeria per aconseguir un món més sostenible, resilient i equitatiu, promovent que aquests sistemes siguin innovadors, inclusius, i responsables davant el canvi climàtic, l'urbanisme i el medi ambient. Determinar les característiques d'eficiència energètica dels diferents materials com també dels processos de fabricació per aconseguir que siguin més sostenibles S'estableixen els criteris d'avaluació (CA) de cada una de les competències específiques (CE), juntament amb aclariments orientatius per desenvolupar-los."
+                },
+                {
+                    "code": "CA6.2",
+                    "description": "Valorar mitjançant fonts d'informació fiable i contrastada el paper de la Unió Europea en els diversos conflictes internacionals existents i en defensa dels drets fonamentals."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Interpretar a traves de dades oficials el paper d'espanya i de la comunitat",
+            "description": "interpretar a traves de dades oficials el paper d'espanya i de la comunitat autonoma de les Illes Balears en la Unió Europea, evidenciant la influència que ha tengut en les transformacions de les recents dècades sobre la ciutadania i indicant la rela…",
+            "criterios": [
+                {
+                    "code": "CA7.1",
+                    "description": "Reflexionar sobre el que ha aportat la Unió Europea a Espanya i a la Comunitat Autònoma de les Illes Balears, utilitzant dades oficials, exposant en públic las conclusions amb la finalitat d'interioritzar conceptes com regió insular, cohesió social i convergència econòmica."
+                }
+            ]
+        }
+    ]
+}

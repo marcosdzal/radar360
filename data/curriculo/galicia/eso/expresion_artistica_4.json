@@ -1,0 +1,106 @@
+{
+    "community": "galicia",
+    "stage": "eso",
+    "decree": "Decreto 156\/2022, de 15 de septiembre",
+    "subject": "expresion_artistica",
+    "subject_name": "Expresión Artística",
+    "grade": 4,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Analizar manifestaciones artísticas, contextualizándolas, describiendo sus",
+            "description": "Analizar manifestaciones artísticas, contextualizándolas, describiendo sus aspectos esenciales y valorando el proceso de creación y el resultado final, para educar la mirada, alimentar el imaginario, reforzar la confianza y ampliar las posibilidades …",
+            "criterios": [
+                {
+                    "code": "CE1.1",
+                    "description": "Analizar manifestaciones artísticas de diferentes épocas y culturas, contextualizándolas, describiendo sus aspectos esenciales, valorando el proceso de creación y el resultado final y evidenciando una actitud de apertura, interés y respeto en su recepción."
+                },
+                {
+                    "code": "CE1.2",
+                    "description": "Valorar críticamente los hábitos, los gustos y los referentes artísticos de diferentes épocas y culturas, a través de diferentes producciones gráfico-plásticas, reflexionando sobre su evolución y sobre su relación con los del presente."
+                },
+                {
+                    "code": "CE2.1",
+                    "description": "Valorar críticamente los hábitos, los gustos y los referentes artísticos de diferentes épocas y culturas, a través de producciones visuales, audiovisuales y multimedia, reflexionando sobre su evolución y sobre su relación con los del presente."
+                },
+                {
+                    "code": "CE3.4",
+                    "description": "Analizar el resultado final de la creación de un producto de creación gráfica de tipo técnico, individual o grupal, poniendo en común y valorando críticamente el desarrollo de su elaboración, las dificultades encontradas, los progresos realizados y los logros alcanzados"
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Explorar las posibilidades expresivas de diferentes técnicas gráfico-plásticas,",
+            "description": "Explorar las posibilidades expresivas de diferentes técnicas gráfico-plásticas, empleando distintos medios, soportes, herramientas y lenguajes, para incorporarlas al repertorio personal de recursos y desarrollar el criterio de selección de las más ad…",
+            "criterios": [
+                {
+                    "code": "CE1.3",
+                    "description": "Participar, con iniciativa, confianza y creatividad en la exploración de diferentes técnicas gráfico-plásticas, empleando herramientas, medios, soportes y lenguajes diversos."
+                },
+                {
+                    "code": "CE1.4",
+                    "description": "Elaborar producciones gráfico-plásticas de forma creativa, determinando las intenciones expresivas y seleccionando con corrección las herramientas, medios, soportes y lenguajes más adecuados de entre los que conforman el repertorio personal de recursos."
+                },
+                {
+                    "code": "CE2.2",
+                    "description": "Elaborar producciones visuales, audiovisuales y multimedia de forma creativa, determinando las intenciones expresivas, seleccionando y empleando con corrección las herramientas, medios, soportes y lenguajes más adecuados de entre los que conforman el repertorio personal de recursos."
+                },
+                {
+                    "code": "CE3.1",
+                    "description": "Participar con iniciativa, confianza y rigor en la exploración del lenguaje gráfico de tipo técnico empleando distintas herramientas."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Explorar las posibilidades expresivas de diferentes medios, técnicas y formatos",
+            "description": "Explorar las posibilidades expresivas de diferentes medios, técnicas y formatos audiovisuales, descodificando sus lenguajes, identificando las herramientas y distinguiendo sus fines, para incorporarlos al repertorio personal de recursos y desarrollar…",
+            "criterios": [
+                {
+                    "code": "CE2.3",
+                    "description": "Participar, con iniciativa, confianza y creatividad, en la exploración de diferentes medios, técnicas y formatos audiovisuales, descodificando sus lenguajes, identificando las herramientas y distinguiendo sus fines."
+                },
+                {
+                    "code": "CE2.4",
+                    "description": "Realizar producciones audiovisuales, individuales o colaborativas asumiendo diferentes funciones, incorporando el uso de las tecnologías digitales con una intención expresiva, buscando un resultado final ajustado al proyecto preparado previamente y seleccionando y empleando, con corrección y de forma creativa, las herramientas y medios disponibles más adecuados."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Crear producciones artísticas y técnicas, individuales o grupales, realizadas",
+            "description": "Crear producciones artísticas y técnicas, individuales o grupales, realizadas con diferentes técnicas y herramientas, incluido el propio cuerpo, a partir de un motivo o intención previos, adaptando el diseño y el proceso a las necesidades e indicacio…",
+            "criterios": [
+                {
+                    "code": "CE1.5",
+                    "description": "Crear un producto artístico individual o grupal, de forma colaborativa y abierta, diseñando las fases del proceso y seleccionando las técnicas y herramientas más adecuadas para conseguir un resultado adaptado a una intención y a un público determinados."
+                },
+                {
+                    "code": "CE1.6",
+                    "description": "Exponer el resultado final de la creación de un producto artístico, individual o grupal, poniendo en común y valorando críticamente el desarrollo de su elaboración, las dificultades encontradas, los progresos realizados y los logros alcanzados."
+                },
+                {
+                    "code": "CE2.5",
+                    "description": "Crear un producto visual, audiovisual o multimedia, individual o grupal, de forma colaborativa y abierta, diseñando las fases del proceso y seleccionando las técnicas y herramientas más adecuadas para conseguir un resultado adaptado a una intención y a un público determinados."
+                },
+                {
+                    "code": "CE2.6",
+                    "description": "Exponer el resultado final de la creación de un producto visual, audiovisual o multimedia, individual o grupal, poniendo en común y valorando críticamente el desarrollo de su elaboración, las dificultades encontradas, los progresos realizados y los logros alcanzados."
+                },
+                {
+                    "code": "CE2.7",
+                    "description": "Identificar oportunidades de desarrollo personal, social, académico o profesional relacionadas con el ámbito visual, audiovisual o multimedia, comprendiendo su valor añadido y expresando la opinión personal de forma razonada y respetuosa."
+                },
+                {
+                    "code": "CE3.2",
+                    "description": "Elaborar producciones gráficas de tipo técnico con interés por la corrección, determinando las intenciones comunicativas y seleccionando las herramientas, medios, soportes y lenguajes más adecuados de entre los que conforman el repertorio personal de recursos."
+                },
+                {
+                    "code": "CE3.3",
+                    "description": "Valorar el rigor del proceso de creación gráfica, la claridad, la precisión y el proceso de resolución y construcción gráfica."
+                }
+            ]
+        }
+    ]
+}

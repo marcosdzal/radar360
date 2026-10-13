@@ -1,0 +1,152 @@
+{
+    "community": "galicia",
+    "stage": "bachillerato",
+    "decree": "Decreto 157\/2022, de 15 de septiembre",
+    "subject": "fisica",
+    "subject_name": "Física",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Utilizar las teorías, principios y leyes que rigen los procesos físicos más",
+            "description": "Utilizar las teorías, principios y leyes que rigen los procesos físicos más importantes, considerando su base experimental y su descripción teórica y desarrollo matemático en la resolución de problemas, para reconocer la física como una ciencia relev…",
+            "criterios": [
+                {
+                    "code": "CE2.1",
+                    "description": "Reconocer la relevancia de la física de los sistemas gravitacionales en el desarrollo de la ciencia, en la tecnología, en la economía, en la sociedad y en la sostenibilidad ambiental, empleando adecuadamente los fundamentos científicos apropiados."
+                },
+                {
+                    "code": "CE2.2",
+                    "description": "Resolver problemas de gravitación newtoniana de manera analítica y experimental virtual, utilizando principios, leyes y teorías de la física."
+                },
+                {
+                    "code": "CE3.1",
+                    "description": "Reconocer la relevancia del electromagnetismo clásico en el desarrollo de la ciencia, de la tecnología, de la economía, de la sociedad y de la sostenibilidad ambiental, empleando adecuadamente los fundamentos científicos apropiados."
+                },
+                {
+                    "code": "CE3.2",
+                    "description": "Resolver problemas de electromagnetismo clásico de manera experimental y analítica, utilizando principios, leyes y teorías de la física."
+                },
+                {
+                    "code": "CE4.1",
+                    "description": "Resolver problemas sobre osciladores armónicos, física ondulatoria y óptica geométrica de manera experimental y analítica utilizando principios, leyes y teorías de la física."
+                },
+                {
+                    "code": "CE5.1",
+                    "description": "Reconocer la relevancia de la física relativista y de la física cuántica en el desarrollo de la ciencia, de la tecnología, de la economía, de la sociedad y de la sostenibilidad ambiental empleando adecuadamente los fundamentos científicos apropiados."
+                },
+                {
+                    "code": "CE5.2",
+                    "description": "Resolver problemas de física moderna de manera experimental, real o virtual, y analítica utilizando principios, leyes y teorías de la física."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Adoptar los modelos, teorías y leyes aceptados de la física como base de",
+            "description": "Adoptar los modelos, teorías y leyes aceptados de la física como base de estudio de los sistemas naturales y predecir su evolución para inferir soluciones generales a los problemas cotidianos relacionados con las aplicaciones prácticas demandadas por…",
+            "criterios": [
+                {
+                    "code": "CE1.7",
+                    "description": "Inferir soluciones a problemas generales a partir del análisis de situaciones particulares y de las variables de que dependen."
+                },
+                {
+                    "code": "CE2.3",
+                    "description": "Analizar y comprender la evolución de los sistemas de cuerpos en interacción gravitacional, utilizando modelos, leyes y teorías de la gravitación newtoniana."
+                },
+                {
+                    "code": "CE3.3",
+                    "description": "Analizar y comprender la evolución de los sistemas de partículas cargadas utilizando modelos, leyes y teorías del electromagnetismo clásico."
+                },
+                {
+                    "code": "CE3.4",
+                    "description": "Conocer aplicaciones prácticas y productos útiles para la sociedad en el ámbito tecnológico, industrial y biosanitario, analizándolos con base en los modelos, en las leyes y en las teorías del electromagnetismo clásico."
+                },
+                {
+                    "code": "CE4.2",
+                    "description": "Analizar y comprender la evolución de sistemas naturales mecánicos oscilantes, utilizando modelos, leyes y teorías de la física ondulatoria y de osciladores armónicos."
+                },
+                {
+                    "code": "CE4.3",
+                    "description": "Conocer aplicaciones prácticas y productos útiles para la sociedad en el ámbito tecnológico, industrial y biosanitario, analizándolos con base en los modelos, en las leyes y en las teorías de la física ondulatoria y de los osciladores armónicos, así como de la óptica."
+                },
+                {
+                    "code": "CE5.3",
+                    "description": "Conocer aplicaciones prácticas y productos útiles para la sociedad en el ámbito tecnológico, industrial y biosanitario, analizándolos con base en los modelos, en las leyes y en las teorías de la física moderna."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Utilizar el lenguaje de la física con la formulación matemática de sus principios y leyes, magnitudes, unidades, etc",
+            "description": "Utilizar el lenguaje de la física con la formulación matemática de sus principios y leyes, magnitudes, unidades, etc. para establecer una comunicación adecuada entre diferentes comunidades científicas y como una herramienta fundamental en la investig…",
+            "criterios": [
+                {
+                    "code": "CE1.1",
+                    "description": "Utilizar de manera rigurosa las unidades de las variables físicas en diferentes sistemas de unidades, empleando correctamente su notación y sus equivalencias, así como la elaboración e interpretación adecuada de gráficas que relacionan variables físicas, posibilitando una comunicación efectiva con toda la comunidad científica."
+                },
+                {
+                    "code": "CE1.2",
+                    "description": "Expresar de forma adecuada los resultados, argumentando las soluciones obtenidas en la resolución de los ejercicios y problemas que se formulan, bien sea a través de situaciones reales o ideales."
+                },
+                {
+                    "code": "CE3.5",
+                    "description": "Aplicar los principios, leyes y teorías científicas en el análisis crítico de procesos electromagnéticos del entorno, como los observados y los publicados en distintos medios de comunicación, analizando, comprendiendo y explicando las causas que los producen."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Utilizar de forma autónoma, eficiente, crítica y responsable recursos en",
+            "description": "Utilizar de forma autónoma, eficiente, crítica y responsable recursos en distintos formatos, plataformas digitales de información y de comunicación en el trabajo individual y colectivo, para el fomento de la creatividad mediante la producción y el in…",
+            "criterios": [
+                {
+                    "code": "CE1.3",
+                    "description": "Consultar, elaborar e intercambiar materiales científicos y divulgativos en distintos formatos con otros miembros del entorno de aprendizaje, utilizando de manera autónoma y eficiente plataformas digitales."
+                },
+                {
+                    "code": "CE1.4",
+                    "description": "Usar de manera crítica, ética y responsable medios de comunicación digitales y tradicionales como modo de enriquecer el aprendizaje y el trabajo individual y colectivo."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Aplicar técnicas de trabajo y de indagación propias de la física, así como la",
+            "description": "Aplicar técnicas de trabajo y de indagación propias de la física, así como la experimentación, el razonamiento lógico-matemático y la cooperación, en la resolución de problemas y la interpretación de situaciones relacionadas con esta ciencia para pon…",
+            "criterios": [
+                {
+                    "code": "CE1.5",
+                    "description": "Obtener relaciones entre variables físicas, midiendo y tratando los datos experimentales, determinando los errores y utilizando sistemas de representación gráfica."
+                },
+                {
+                    "code": "CE1.6",
+                    "description": "Reproducir en laboratorios, reales o virtuales, determinados procesos físicos modificando las variables que los condicionan, considerando los principios, leyes o teorías implicados, generando el correspondiente informe con formato adecuado e incluyendo argumentaciones, conclusiones, tablas de datos, gráficas y referencias bibliográficas."
+                },
+                {
+                    "code": "CE5.4",
+                    "description": "Valorar la física debatiendo de manera fundamentada sobre sus avances y la implicación en la sociedad desde el punto de vista de la ética y de la sostenibilidad."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Reconocer y analizar el carácter multidisciplinar de la física, considerando su",
+            "description": "Reconocer y analizar el carácter multidisciplinar de la física, considerando su relevante recorrido histórico y sus contribuciones al avance del conocimiento científico como un proceso en continua evolución e innovación, para establecer unas bases de…",
+            "criterios": [
+                {
+                    "code": "CE2.4",
+                    "description": "Identificar los principales avances científicos relacionados con la gravitación newtoniana que contribuyeron al desarrollo de la física y, en consecuencia, a la formulación de las leyes y teorías aceptadas actualmente en el conjunto de las disciplinas científicas, como las fases para el entendimiento de las metodologías de la ciencia, su evolución constante y su universalidad."
+                },
+                {
+                    "code": "CE5.5",
+                    "description": "Identificar los principales avances científicos relacionados con la física moderna que contribuyeron a la formulación de las leyes y de las teorías aceptadas actualmente en el conjunto de las disciplinas científicas, como las fases para el entendimiento de las metodologías de la ciencia, su evolución constante y su universalidad."
+                },
+                {
+                    "code": "CE5.6",
+                    "description": "Reconocer el carácter multidisciplinar de la ciencia y las contribuciones de unas disciplinas en otras, estableciendo relaciones entre la física y la química, la biología, la geología o las matemáticas."
+                }
+            ]
+        }
+    ]
+}

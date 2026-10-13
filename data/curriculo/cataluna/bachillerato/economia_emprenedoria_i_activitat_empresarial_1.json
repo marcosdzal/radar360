@@ -1,0 +1,104 @@
+{
+    "community": "cataluna",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "economia_emprenedoria_i_activitat_empresarial",
+    "subject_name": "Economia, Emprenedoria i Activitat Empresarial",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Analitzar i reflexionar sobre les aportacions de la ciència econòmica i la",
+            "description": "Analitzar i reflexionar sobre les aportacions de la ciència econòmica i la interrelació amb altres disciplines, de manera crítica, per entendre la realitat del món des d'una visió integral i actuar com a ciutadans responsables, autònoms i compromesos…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Incorporar les aportacions de la ciència econòmica i d’altres disciplines interrelacionades per fer propostes de resolució a reptes del món global com a ciutadà responsable, autònom i compromès."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Utilitzar models de la ciència econòmica per a l’anàlisi de la realitat, sent conscients de les seves limitacions."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Caracteritzar les funcions dels diferents agents en el sistema econòmic de mercat, mostrant-ne les interrelacions."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Contrastar la presa de decisions econòmiques, individuals i col·lectives, amb",
+            "description": "Contrastar la presa de decisions econòmiques, individuals i col·lectives, amb un enfocament interdisciplinari, reflexionant sobre el problema de l'escassetat i els seus efectes, per comprendre els canvis econòmics i socials que se'n deriven i actuar …",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Identificar els rols que assumeixen els diferents agents en el sistema econòmic, la interdependència de les seves decisions i els efectes en el medi ambient."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Reflexionar i posicionar-se sobre les desigualtats que l’escassetat genera en l’accés als recursos i en la distribució de la riquesa al món."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Relacionar els objectius de desenvolupament sostenible amb el desenvolupament",
+            "description": "Relacionar els objectius de desenvolupament sostenible amb el desenvolupament econòmic i social, emprant eines econòmiques i empresarials, per donar resposta als reptes actuals com a ciutadà responsable i proactiu.",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Relacionar casos reals amb els objectius de desenvolupament sostenible proposant solucions solidàries i responsables."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Prendre consciència dels problemes mundials analitzant-los mitjançant eines econòmiques i empresarials."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Identificar i valorar les habilitats i les competències emprenedores, així com",
+            "description": "Identificar i valorar les habilitats i les competències emprenedores, així com la forma d'afrontar reptes, analitzant el perfil de l'emprenedor actual, per aplicarles a situacions reals de la vida.",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Reconèixer i valorar habilitats i competències de persones emprenedores reals, per potenciar les pròpies."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Aplicar destreses emprenedores per afrontar reptes de la vida quotidiana."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Interpretar les estratègies empresarials i els nous models de negoci de",
+            "description": "Interpretar les estratègies empresarials i els nous models de negoci de diferents àmbits i sectors, per reconèixer i valorar, amb sentit crític, l'activitat de l'empresa a la societat actual.",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Analitzar, amb esperit crític, l’evolució de les estratègies empresarials així com els models de negoci posant en valor la seva contribució a la societat."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Comparar models de negoci de diferents àmbits i sectors, analitzant-ne les possibilitats i les limitacions en el mercat."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Reconèixer la importància de la innovació i la revolució digital en l'activitat",
+            "description": "Reconèixer la importància de la innovació i la revolució digital en l'activitat empresarial, analitzant la transformació econòmica i social, per interpretar i valorar les respostes de les empreses en una economia globalitzada.",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Comprendre les respostes que ofereixen les empreses als desafiaments actuals, analitzant la transformació econòmica i social que està experimentant la societat."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Proposar solucions emprenedores sostenibles, reconeixent la importància de la innovació i la revolució digital en un món globalitzat."
+                }
+            ]
+        }
+    ]
+}

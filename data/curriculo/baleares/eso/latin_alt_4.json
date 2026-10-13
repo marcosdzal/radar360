@@ -1,0 +1,109 @@
+{
+    "community": "baleares",
+    "stage": "eso",
+    "decree": "",
+    "subject": "latin_alt",
+    "subject_name": "Latín",
+    "grade": 4,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Valorar el paper de la civilització llatina en l'origen de la identitat",
+            "description": "Valorar el paper de la civilització llatina en l'origen de la identitat europea, comparant i reconeixent les semblances i diferències entre llengües i cultures, per analitzar críticament el present. La valoració del paper de la civilització llatina c…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Comparar productos culturales actuales con los de la Antigüedad latina para analizar su significado e influencia."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Comparar críticamente costumbres romanas y actuales usando fuentes latinas."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Identificar periodos, acontecimientos y personajes romanos vinculándolos con el presente."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Conèixer els aspectes bàsics de la llengua llatina, comparant-la amb les",
+            "description": "Conèixer els aspectes bàsics de la llengua llatina, comparant-la amb les llengües d'ensenyament i amb altres llengües del repertori individual dels alumnes, per valorar els trets comuns i apreciar la diversitat lingüística com a mostra de riquesa cul…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Compara lenguas a partir del latín, explica semejanzas y diferencias, y valora la diversidad lingüística como riqueza cultural."
+                },
+                {
+                    "code": "2.2",
+                    "description": "El alumnado deduce el significado de términos latinos empleando sus conocimientos de otras lenguas de su repertorio."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Amplía el léxico y mejora la expresión oral y escrita al aplicar latinismos y locuciones latinas de manera coherente."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Producir definiciones etimológicas de términos cotidianos, científicos y técnicos, reconociendo elementos latinos y estableciendo relaciones semánticas."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Llegir i interpretar texts llatins, assumint l'aproximació als texts com un",
+            "description": "Llegir i interpretar texts llatins, assumint l'aproximació als texts com un procés dinàmic i prenent consciència dels coneixements i experiències pròpies, per identificar-ne el caràcter clàssic i fonamental. La lectura de texts llatins pertanyents a …",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Explica el carácter clásico y humanista de obras latinas con vocabulario y expresión adecuados."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Identificar ideas principales y secundarias de un texto latino, contextualizándolo con referencias históricas, sociales, políticas o religiosas."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Interpretar críticamente textos latinos conectándolos con la sociedad actual y valorando su influencia."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Comprendre texts originals llatins, traduint del llatí a la llengua",
+            "description": "Comprendre texts originals llatins, traduint del llatí a la llengua d'ensenyament i desenvolupant estratègies d'accés al significat d'un enunciat senzill en llengua llatina, per aconseguir i justificar la traducció pròpia d'un passatge. La traducció …",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Analizar y comparar elementos morfosintácticos y léxicos básicos del latín y la lengua familiar."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Traducir textos latinos breves y justificar la traducción, estableciendo la correspondencia entre análisis y versión."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Producir oraciones simples en latín mediante retroversión, usando estructuras latinas."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Descobrir, conèixer i valorar el patrimoni cultural, arqueològic i artístic",
+            "description": "Descobrir, conèixer i valorar el patrimoni cultural, arqueològic i artístic romà, apreciantlo i reconeixent-lo com a producte de la creació humana i com a testimoniatge de la història, per identificar les fonts d'inspiració i distingir els processos …",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Explicar elementos de la civilización latina, especialmente mitología, y reconocerlos como inspiración en el arte y la literatura."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Identificar las huellas de la romanización en el patrimonio local y valorar los procesos de preservación para la sostenibilidad."
+                },
+                {
+                    "code": "5.3",
+                    "description": "El alumno investiga el legado romano y expone conclusiones, seleccionando y contrastando información de fuentes fiables."
+                }
+            ]
+        }
+    ]
+}

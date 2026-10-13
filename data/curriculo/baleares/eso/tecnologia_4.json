@@ -1,0 +1,104 @@
+{
+    "community": "baleares",
+    "stage": "eso",
+    "decree": "",
+    "subject": "tecnologia",
+    "subject_name": "Tecnología",
+    "grade": 4,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Identificar i proposar problemes tecnològics amb iniciativa i creativitat,",
+            "description": "Identificar i proposar problemes tecnològics amb iniciativa i creativitat, estudiant les necessitats de l'entorn pròxim i aplicant estratègies i processos col·laboratius i iteratius relatius a projectes, per idear i planificar solucions de manera efi…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "El alumnado identifica necesidades del entorno y diseña soluciones tecnológicas emprendedoras que aporten valor a la comunidad."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Aplicar estrategias colaborativas e iterativas en proyectos, desde la ideación hasta la difusión de la solución."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Gestionar creativamente el proyecto aplicando estrategias colaborativas y métodos de investigación para idear soluciones eficientes e innovadoras."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Aplicar de manera apropiada i segura diferents tècniques i coneixements",
+            "description": "Aplicar de manera apropiada i segura diferents tècniques i coneixements interdisciplinaris, utilitzant procediments i recursos tecnològics i analitzant el cicle de vida de productes per fabricar solucions tecnològiques accessibles i sostenibles que d…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Analizar el diseño de un producto evaluando su demanda, evolución y fin de ciclo de vida con criterio ético."
+                },
+                {
+                    "code": "2.2",
+                    "description": "El alumnado fabrica productos tecnológicos usando diseño asistido y técnicas manuales, mecánicas y digitales con materiales adecuados."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Expressar, comunicar i difondre idees, propostes o solucions tecnològiques en",
+            "description": "Expressar, comunicar i difondre idees, propostes o solucions tecnològiques en diferents fòrums de manera efectiva, usant un llenguatge inclusiu i no sexista, emprant els recursos disponibles i aplicant els elements i tècniques necessàries per interca…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Intercambiar información técnica y fomentar el trabajo en equipo usando herramientas digitales y vocabulario específico."
+                },
+                {
+                    "code": "3.2",
+                    "description": "El alumno presenta y difunde soluciones tecnológicas oralmente, usando entonación, expresión, gestión del tiempo y lenguaje inclusivo."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Desenvolupar solucions automatitzades a problemes plantejats aplicant els",
+            "description": "Desenvolupar solucions automatitzades a problemes plantejats aplicant els coneixements necessaris i incorporant tecnologies emergents per dissenyar i construir sistemes de control programables i robòtics.",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Diseñar y construir un sistema automático o robot que realice tareas autónomas aplicando conocimientos técnicos interdisciplinares."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Aplicar tecnologías digitales emergentes (IoT, big data, IA) en sistemas técnicos con criterio ético."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Aprofitar i emprar de manera responsable les possibilitats de les eines",
+            "description": "Aprofitar i emprar de manera responsable les possibilitats de les eines digitals, adaptantles a les seves necessitats, configurant-les i aplicant coneixements interdisciplinaris per a la resolució de tasques d'una manera més eficient. La integració d…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Usar y configurar herramientas digitales de forma autónoma para resolver tareas eficientes con conocimientos interdisciplinares."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Analitzar processos tecnològics, tenint-ne en compte l'impacte en la societat i",
+            "description": "Analitzar processos tecnològics, tenint-ne en compte l'impacte en la societat i l'entorn i aplicant criteris de sostenibilitat i accessibilitat, per fer un ús ètic i responsable, des del punt de vista ecològic i social, de la tecnologia. La tecnologi…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Aplicar criterios de sostenibilidad y accesibilidad en el diseño y fabricación de productos tecnológicos."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Analizar beneficios de arquitectura bioclimática y ecotransporte en el cuidado ambiental, valorando la contribución tecnológica al desarrollo sostenible."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Valorar el impacto social de proyectos tecnológicos desarrollados en comunidades abiertas o voluntariado."
+                }
+            ]
+        }
+    ]
+}

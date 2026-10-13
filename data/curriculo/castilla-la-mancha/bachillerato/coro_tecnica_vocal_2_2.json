@@ -1,0 +1,135 @@
+{
+    "community": "castilla-la-mancha",
+    "stage": "bachillerato",
+    "decree": "Decreto 83\/2022, de 12 de julio",
+    "subject": "coro_tecnica_vocal_2",
+    "subject_name": "Coro y Técnica Vocal II",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Comprender y conocer los aspectos esenciales de las distintas manifestaciones",
+            "description": "Comprender y conocer los aspectos esenciales de las distintas manifestaciones de la imagen fotográfica fija y de la expresión audiovisual, observando y reflexionando conscientemente sobre la importancia de su legado histórico como una riqueza univers…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar piezas vocales justificando su pertenencia a un estilo, género o cultura y los rasgos de interpretación y puesta en escena."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Explicar la relación entre texto y música mediante análisis del texto y de la curva de tensiones en obras vocales."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Comprender la necesidad de proteger los derechos de las imágenes, los audios y las producciones audiovisuales y\/o artísticas, tanto propias como ajenas, utilizando entornos seguros, respetando la propie derechos de autor."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Desarrollar la capacidad de observación y análisis de las diferentes propuestas",
+            "description": "Desarrollar la capacidad de observación y análisis de las diferentes propuestas visuales y audiovisuales, analizando y reconociendo los mensajes recibidos a través de ellas, en los diferentes contextos en los que se producen y valorándolas, de forma …",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "El alumnado aplica técnicas vocales y corporales sanas en ejercicios e improvisaciones para potenciar la escucha activa y la capacidad vocal, reforzando autoestima y autoconfianza."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Analizar y destacar tanto las diferencias como las similitudes que existen entre los múltiples tipos de narraciones audiovisuales creados en diferentes sociedades y culturas, relacio su propia identidad cultural y audiovisual, comprendiendo, además, las interrelaciones e influencias compartidas."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Diseñar y planificar, de manera eficaz y ordenada, un proyecto o una producción",
+            "description": "Diseñar y planificar, de manera eficaz y ordenada, un proyecto o una producción audiovisual, poniendo en práctica las destrezas y los lenguajes propios de la fotografía y el audiovisual, para aprender a expresarse y desarrollar las habilidades tanto …",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Participa en el coro mostrando eficacia, escucha activa, precisión técnica y expresión vocal y corporal adecuadas al conjunto."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Diseñar y planificar, utilizando métodos de trabajo pautados, produc con rigor ético y formal, la expresión audiovisual como una herramienta para explorar el entorno y poder expresarse."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Comprender las dificultades y retos afrontados en la creación de distintos",
+            "description": "Comprender las dificultades y retos afrontados en la creación de distintos proyectos o producciones audiovisuales, analizando sus cualidades plásticas, estéticas y semánticas, empleando sus distintos lenguajes y elementos técnicos, para desarrollar u…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Comunicar actitud escénica y respeto al público durante la actuación."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Participar en el montaje escénico asumiendo funciones de producción y reflexionando sobre oportunidades de desarrollo personal, social, académico o profesional."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Conectar las interpretaciones vocales con otras artes y disciplinas, diseñando proyectos artísticos innovadores y creativos que utilicen, entre otros recursos, las herramientas digitales."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Utilizar la creación audiovisual como un medio para expresar ideas, opiniones y sentimientos",
+            "description": "Utilizar la creación audiovisual como un medio para expresar ideas, opiniones y sentimientos, de forma creativa y personal, pudiendo emplear incluso su propia presencia en la imagen como recurso comunicativo en algunos casos, para poder expresar y co…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Utilizar el lenguaje audiovisual como un medio para manifestar su singularidad, afianzar el conocimiento de sí mismo y generar autoconfianza, a través de la experimentación y la innovación en el proceso de la producción audiovisual."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Representar las propias ideas, opiniones y sentimientos en producci temas personales, empleando la expresión audiovisual como herramienta de exploración de sí mismo y del entorno."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Desarrollar, en distintas producciones audiovisuales, procesos de trabajo en equipos inclusivos y incorporando en su ejecución tanto las experiencias personales como el respeto y la comprensión del otro."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Realizar, de forma individual o colectiva, distintas producciones",
+            "description": "Realizar, de forma individual o colectiva, distintas producciones audiovisuales, utilizando las principales técnicas, recursos y convenciones del lenguaje audiovisual, identificando los equipos necesarios e incorporando las posibilidades que ofrecen …",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Analizar las técnicas, recursos y convenciones del lenguaje audiovisual en diferentes creaciones, ide los equipos necesarios y extrayendo de ello un aprendizaje para el crecimiento creativo."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Ejecutar las diferentes fases del proceso de creación en una producción artística audiovisual, evaluando su sostenibilidad y determinando, de manera justificada, los medios, técnicas y habilidades necesarios para hacerlo."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Realizar una producción audiovisual, individual o colectivamente, abierta y colaborativa, utilizando correctamente y de forma creativa tanto los medios como las habilidades necesarios, buscando un resultado final ajustado al proyecto planificado y reduciendo, en la medida de lo posible, su impacto medioambiental."
+                },
+                {
+                    "code": "6.4",
+                    "description": "Comprender la importancia del trabajo colaborativo en el desarrollo de un equipo equilibrado, expresando la opinión personal de forma crítica y respetuosa, así como valorando las aportaciones los demás."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Evaluar, de forma crítica, tanto el proceso de creación, ya sea propio o",
+            "description": "Evaluar, de forma crítica, tanto el proceso de creación, ya sea propio o colaborativo, como el resultado final de producciones audiovisuales, mediante su exposición pública, reflexionando, de forma abierta y respetuosa, sobre las distintas reacciones…",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Exponer el resultado final de una creación artística y\/o audiovisual, compartiendo el desarrollo de su elaboración, las dificultades enc ontradas, los progresos realizados y la valoración de los logros alcanzados."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Analizar y evaluar, de forma conjunta, las creaciones artísticas y audiovisuales presentadas de manera abierta y respetuosa, considerando tanto las opiniones positivas como l para el crecimiento artístico."
+                }
+            ]
+        }
+    ]
+}

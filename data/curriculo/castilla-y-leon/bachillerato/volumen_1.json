@@ -1,0 +1,94 @@
+{
+    "community": "castilla-y-leon",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "volumen",
+    "subject_name": "Volumen",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE4",
+            "name": "Ejes relacionados entre sí",
+            "description": "ejes relacionados entre sí. La primera competencia aporta herramientas para el desarrollo cultural y de comunicación, facilitando la compresión e identificación del lenguaje tridimensional, e incitando a la reflexión a través del análisis de las prod…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Planificar proyectos tridimensionales detallando fases, tareas, viabilidad, sostenibilidad y selección de técnicas y materiales."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Elaborar activamente proyectos artísticos asumiendo roles diversos, respetando aportaciones y reconociendo oportunidades."
+                },
+                {
+                    "code": "4.3",
+                    "description": "El alumnado elabora proyectos volumétricos ajustando materiales y procesos a criterios estéticos y funcionales, resolviendo creativamente los imprevistos."
+                },
+                {
+                    "code": "4.4",
+                    "description": "Evaluar y presentar el resultado de un proyecto tridimensional contrastando objetivos y producto final, explicando las diferencias."
+                },
+                {
+                    "code": "4.5",
+                    "description": "Fomentar el pensamiento divergente y creativo a través de la exploración y la experimentación de las propuestas planteadas, promoviendo la consideración de diferentes líneas de trabajo, con actitud receptiva a las distintas opiniones. (CCL3, STEM2, STEM3, CPSAA3.1, CCEC4.1, CCEC4.2)"
+                }
+            ]
+        },
+        {
+            "code": "CE1",
+            "name": "Identificar los fundamentos compositivos del lenguaje tridimensional en obras",
+            "description": "Identificar los fundamentos compositivos del lenguaje tridimensional en obras de diferentes épocas y culturas, analizando sus aspectos formales y estructurales, así como los cánones de proporción y elementos compositivos empleados, para aplicarlos a …",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar elementos formales y estructurales de obras volumétricas, identificando técnicas, materiales y composición, con perspectiva de género e intercultural."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Explicar cánones de proporción y elementos compositivos de piezas tridimensionales históricas, diferenciando aspectos decorativos de estructurales."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Explicar elementos tridimensionales usando terminología específica del volumen."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Analizar los lenguajes y elementos técnicos y plásticos de obras tridimensionales, aportando un criterio propio en la percepción de sus características y particularidades y disfrutando de su recepción. (CCL3, STEM2, CD1, CPSAA4, CCEC1, CCEC2)"
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Explorar las posibilidades plásticas y expresivas del lenguaje tridimensional,",
+            "description": "Explorar las posibilidades plásticas y expresivas del lenguaje tridimensional, partiendo del análisis de obras de diferentes artistas en las que se establezca una relación coherente entre la imagen y su contenido, para elaborar producciones tridimens…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Analizar obras tridimensionales distinguiendo estructura y accesorio, y relacionar función comunicativa con nivel icónico."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Explicar y justificar la relación entre imagen y contenido en obras tridimensionales, identificando sus funciones comunicativas."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Elaborar obras volumétricas para una función comunicativa, relacionando imagen y contenido, y considerando forma, estructura e iconicidad."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Realizar propuestas de composiciones tridimensionales, seleccionando las",
+            "description": "Realizar propuestas de composiciones tridimensionales, seleccionando las técnicas, las herramientas y los materiales de realización más adecuados, para resolver problemas de configuración espacial y apreciar las cualidades expresivas del lenguaje tri…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Resolver problemas espaciales con composiciones 3D eligiendo técnicas, herramientas y materiales según requisitos."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Explica y justifica las cualidades expresivas del lenguaje tridimensional, así como la elección de técnicas, herramientas y materiales en composiciones 3D."
+                }
+            ]
+        }
+    ]
+}

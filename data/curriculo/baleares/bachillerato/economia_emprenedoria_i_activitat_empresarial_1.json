@@ -1,0 +1,92 @@
+{
+    "community": "baleares",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "economia_emprenedoria_i_activitat_empresarial",
+    "subject_name": "Economia, Emprenedoria i Activitat Empresarial",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Analitzar de manera critica i reflexiva les aportacions de la ciencia economica",
+            "description": "analitzar de manera critica i reflexiva les aportacions de la ciencia economica i valorar la seva interrelació amb altres disciplines, per entendre la realitat des d'una visió integral i actuar com a ciutadans responsables, autònoms i compromesos. La…",
+            "criterios": [
+                {
+                    "code": "CA1.1",
+                    "description": "Entendre la realitat partint de l'anàlisi crítica i reflexiva sobre les aportacions que ofereix la ciència econòmica, valorar-ne la interrelació amb altres disciplines i adquirir una visió integral d'aquesta que afavoreixi l'assumpció de responsabilitats i compromisos. Comprendre la influència de l'economia en situacions concretes i en altres disciplines com la política, el medi ambient o la societat. Reflexionar sobre les conseqüències d'algunes accions econòmiques, com ara la desigualtat o el canvi climàtic i valorar les solucions proposades. Plantejar alternatives o projectes que promoguin el desenvolupament sostenible o la igualtat econòmica."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Analitzar, des d'un enfocament interdisciplinari, el comportament tant",
+            "description": "analitzar, des d'un enfocament interdisciplinari, el comportament tant individual com col·lectiu en la presa de decisions econòmiques, avaluant el problema de l'escassetat i els seus efectes, per comprendre els canvis econòmics i socials derivats d'a…",
+            "criterios": [
+                {
+                    "code": "CA2.1",
+                    "description": "Comprendre els canvis econòmics i socials des d'una anàlisi interdisciplinària sobre el comportament humà en el procés de presa de decisions i avaluant el problema de l'escassetat i els seus efectes, estimulant a l'alumne a actuar en conseqüència. Comprendre la influència del problema de l'escassetat i d'altres factors socials i culturals en les decisions econòmiques. Valorar críticament les respostes humanes davant l'escassetat, proposant alternatives per millorar la gestió de recursos limitats. Dissenyar solucions per a problemes socials derivats de l'escassetat que siguin sostenibles i responsables."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Establir correspondencies entre els objectius de desenvolupament sostenible i",
+            "description": "establir correspondencies entre els objectius de desenvolupament sostenible i els aprenentatges adquirits a través de l'estudi de casos, analitzant-los amb ajuda d'eines econòmiques i empresarials per generar una actitud sensible i un comportament re…",
+            "criterios": [
+                {
+                    "code": "CA3.1",
+                    "description": "Mostrar actituds sensibles i comportaments responsables i proactius que contribueixin a donar resposta als reptes actuals a partir de l'estudi de casos reals establint correspondències entre la realitat i els aprenentatges adquirits. Relacionar els coneixements teòrics amb la realitat, reconeixent la seva aplicabilitat per a la comprensió dels problemes actuals. Desenvolupar un esperit crític que permeti valorar solucions passades i actuals a problemes globals i locals Proposar iniciatives o accions concretes que responguin a reptes reals, aplicant els coneixements adquirits i tenint en compte les necessitats de la comunitat i el context global."
+                },
+                {
+                    "code": "CA3.2",
+                    "description": "Prendre consciència dels problemes globals i locals, analitzant-los a través d'eines econòmiques i empresarials i aportant possibles solucions. Comprendre l'efecte de factors com l'oferta, la demanda, la globalització, els recursos i la sostenibilitat sobre els problemes globals i locals. Valorar la idoneïtat de diferents solucions a un problema analitzat, en base a dades, principis econòmics i criteris basats en la sostenibilitat, viabilitat i impacte social. Proposar solucions concretes i creatives per als problemes globals i locals analitzats, integrant conceptes d'economia i empresa."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Identificar i valorar habilitats i competencies que caracteritzen als",
+            "description": "identificar i valorar habilitats i competencies que caracteritzen als emprenedors en de la realitat actual, analitzar-ne els perfils i la manera d'afrontar els reptes, per reconèixer i potenciar les destreses emprenedores pròpies i aplicar-les a situ…",
+            "criterios": [
+                {
+                    "code": "CA4.1",
+                    "description": "Reconèixer i potenciar les destreses emprenedores pròpies, identificant i valorant prèviament les habilitats que posseeixen emprenedors pròxims i analitzant les seves competències a l'hora d'afrontar els reptes que se'ls presenten. Descompondre les actituds i habilitats d'un\/a emprenedor\/a en components clau com la gestió del risc, la planificació estratègica o la innovació. Reflexionar sobre les pròpies habilitats emprenedores, comparant-les amb les observades en altres persones i valorant la possibilitat i procés de millora. Aplicar el coneixement adquirit per traçar una estratègia de desenvolupament personal i professional basat en les habilitats detectades i les àrees de millora identificades."
+                },
+                {
+                    "code": "CA4.2",
+                    "description": "Afrontar reptes senzills de la vida quotidiana aplicant les destreses pròpies que caracteritzen a una persona emprenedora. Reconèixer els factors que intervenen en un problema senzill, com la gestió del temps o la priorització de tasques i analitzar la influència de les habilitats emprenedores en la seva resolució. Valorar les diferents alternatives per afrontar un repte quotidià, considerant l'eficàcia i l'eficiència de cada opció per determinar-ne la millor. Implementar solucions pràctiques i estructurades davant d'un repte concret de la vida quotidiana utilitzant habilitats com la innovació i la resolució creativa de problemes."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Comprendre les estrategies empresarials, analitzar-ne l'evolucio i distingir",
+            "description": "comprendre les estrategies empresarials, analitzar-ne l'evolucio i distingir els nous models de negoci desenvolupats per entitats vinculades a diferents àmbits i sectors, per identificar la filosofia de les empreses, reconèixer les tendències i posar…",
+            "criterios": [
+                {
+                    "code": "CA5.1",
+                    "description": "Reconèixer les tendències i identificar la filosofia de les empreses comprenent les estratègies empresarials dutes a terme per aquestes i analitzant la seva evolució, com també els models de negoci desenvolupats posant en valor, amb sentit crític, la seva activitat empresarial. Comprendre les dinàmiques empresarials, incloent-hi les que predominen en l'àmbit de les Illes Balears, desglossant components com els objectius, els valors, el màrqueting i la responsabilitat social corporativa. Valorar críticament les decisions empresarials atenent a criteris de sostenibilitat, responsabilitat i innovació, en relació amb les tendències del mercat i els models de negoci. Crear una estratègia empresarial millorada o un model de negoci innovador basant-se en l'anàlisi de les tendències i les necessitats del mercat."
+                },
+                {
+                    "code": "CA5.2",
+                    "description": "Distingir els nous models de negoci desenvolupats per empreses pertanyents a diversos sectors i àmbits analitzant les seves possibilitats i limitacions. Reconèixer els components principals dels nous models de negoci i analitzar la seva resposta a les necessitats del mercat. Avaluar l'impacte d'aquests models des d'una perspectiva econòmica, social i ambiental. Desenvolupar una proposta de millora o adaptació d'un model de negoci existent, basantse en l'anàlisi de les seves possibilitats i limitacions."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Analitzar la transformacio economica i social i les seves consequencies i",
+            "description": "analitzar la transformacio economica i social i les seves consequencies i reconeixer la importància que tenen la innovació i la revolució digital en l'activitat empresarial, per comprendre les respostes que les empreses ofereixen als desafiaments act…",
+            "criterios": [
+                {
+                    "code": "CA6.1",
+                    "description": "Comprendre les respostes que ofereixen les empreses als desafiaments actuals, analitzant la transformació econòmica i social que està experimentant la societat. Analitzar els factors que influeixen en les decisions empresarials, com ara la sostenibilitat, la transformació digital, els canvis en els hàbits de consum, o les crisis globals. Avaluar l'efecte de les estratègies empresarials en l'adaptació als canvis socials i econòmics i les seves implicacions per al futur de l'economia global i local. Dissenyar solucions innovadores perquè les empreses s'adaptin als canvis futurs en l'economia i la societat."
+                },
+                {
+                    "code": "CA6.2",
+                    "description": "Proposar alternatives i noves solucions als desafiaments actuals, analitzant els efectes de la transformació econòmica i social i reconeixent la importància que té la innovació i revolució digital en l'activitat empresarial. Analitzar els efectes de la transformació digital, econòmica i social sobre els models de negoci i les empreses. Proposar diferents alternatives a una empresa tradicional per adaptar-se a la revolució digital en la seva activitat. Proposar solucions noves i creatives que integrin la digitalització i la innovació en els models de negoci per afrontar els desafiaments."
+                }
+            ]
+        }
+    ]
+}

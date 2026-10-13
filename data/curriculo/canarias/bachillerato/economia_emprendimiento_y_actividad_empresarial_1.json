@@ -1,0 +1,92 @@
+{
+    "community": "canarias",
+    "stage": "bachillerato",
+    "decree": "Decreto 73\/2023, de 13 de abril",
+    "subject": "economia_emprendimiento_y_actividad_empresarial",
+    "subject_name": "Economía, Emprendimiento y Actividad Empresarial",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "(c1) De este modo, en el desarrollo de los criterios de evaluación se ahondará",
+            "description": "(c1) De este modo, en el desarrollo de los criterios de evaluación se ahondará en el análisis de la realidad social empleando las diferentes perspectivas del análisis económico, mediante el estudio del homo economicus y el enfoque de la teoría genera…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar críticamente las aportaciones de la economía relacionándolas con otras disciplinas para una visión integral."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "(c2) La competencia específica desarrolla aprendizajes relativos al",
+            "description": "(c2) La competencia específica desarrolla aprendizajes relativos al comportamiento individual y de la sociedad a la hora de tomar decisiones económicas que se encuentren condicionadas por el problema de la escasez. La puesta en práctica de los princi…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Interpretar, desde un enfoque interdisciplinar, los cambios económicos y sociales derivados de la escasez y proponer actuaciones consecuentes."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "(c3) El desarrollo de esta competencia específica contribuirá a que el alumnado",
+            "description": "(c3) El desarrollo de esta competencia específica contribuirá a que el alumnado tome conciencia de cómo los desafíos mundiales del siglo XXI afectan a toda la sociedad, repercutiendo en su entorno más inmediato, de forma personal, económica y profesi…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Explicar cómo los ODS se relacionan con los aprendizajes de economía mediante el estudio de casos, mostrando actitudes responsables."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Analizar problemas globales y locales y proponer soluciones a través de herramientas económicas y empresariales."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "(c4) En esta competencia específica se aborda la evaluación de las distintas",
+            "description": "(c4) En esta competencia específica se aborda la evaluación de las distintas dimensiones del perfil de la persona emprendedora, favoreciendo la reflexión en el alumnado de Bachillerato sobre la adquisición y potenciación, mediante el adecuado entrena…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Identificar y potenciar las propias destrezas emprendedoras mediante el análisis de perfiles reales."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Aplicar las propias destrezas emprendedoras para afrontar retos cotidianos sencillos, demostrando iniciativa y resolución práctica."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "(c5) La competencia específica prepara al alumnado para ser consciente de la",
+            "description": "(c5) La competencia específica prepara al alumnado para ser consciente de la importancia de prestar atención a los cambios en el entorno y para comprender las oportunidades que el desarrollo de nuevos modelos de negocio brinda a las empresas en el pr…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Analizar tendencias y filosofía empresarial, evaluando críticamente modelos de negocio y su evolución."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Comparar modelos de negocio innovadores de distintos sectores evaluando sus posibilidades y limitaciones."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "(c6) El objetivo de las sociedades de incrementar el nivel de vida de la",
+            "description": "(c6) El objetivo de las sociedades de incrementar el nivel de vida de la ciudadanía y que este sea sostenible y perdurable en el tiempo necesita de la exploración y el entendimiento de las respuestas de las empresas a la adaptación de las nuevas nece…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Analizar cómo las empresas responden a los desafíos actuales a partir de la transformación económica y social."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Propone soluciones a desafíos actuales analizando transformación económica y digital en empresas."
+                }
+            ]
+        }
+    ]
+}

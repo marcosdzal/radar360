@@ -1,0 +1,74 @@
+{
+    "community": "madrid",
+    "stage": "bachillerato",
+    "decree": "Decreto 64\/2022, de 20 de julio",
+    "subject": "coro_tecnica_vocal_1",
+    "subject_name": "Coro y Técnica Vocal I",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Escuchar y visionar piezas vocales de distintos estilos, géneros y culturas,",
+            "description": "Escuchar y visionar piezas vocales de distintos estilos, géneros y culturas, analizando los rasgos de estilo y las características de la interpretación, para desarrollar el criterio estético, estimular el hábito de escucha y ampliar las posibilidades…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar piezas vocales explicando por qué pertenecen a un estilo, género o cultura, y comentar la interpretación y puesta en escena."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Apreciar las características definen una obra vocal y relacionarlas con la intencionalidad (real o posible) de su autor."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Argumentar de forma respetuosa, diferentes propuestas musicales vocales, defendiendo el valor social de la difusión del patrimonio cultural y artístico de cualquier época."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Expresarse vocal y corporalmente",
+            "description": "Expresarse vocal y corporalmente, de forma individual y en grupo, a través de la aplicación de diferentes técnicas y la realización de actividades de improvisación, para reforzar la autoestima y la autoconfianza y desarrollar la voz y el cuerpo como …",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Realizar ejercicios e improvisaciones vocales con técnicas sanas, reforzando autoestima y autoconfianza."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Experimentar las posibilidades técnicas e interpretativas de la voz, participando de forma activa y creativa, explorando las diferentes posibilidades de interpretación que permite cada obra."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Interpretar piezas de diferentes estilos y géneros musicales, participando en distintas formaciones vocales",
+            "description": "Interpretar piezas de diferentes estilos y géneros musicales, participando en distintas formaciones vocales, para potenciar una comunicación artística rica y desarrollo de valores de grupo.",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Interpretar piezas en coro mostrando eficacia, escucha activa y expresión vocal y corporal adecuada al conjunto."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Desarrollar las posibilidades interpretativas de la voz participando activamente e identificando las potencialidades propias en papeles tan diferentes como el de intérprete, director o participando en diferentes agrupaciones y estilos."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Participar en proyectos escénicos, realizando actuaciones y asumiendo tareas propias de la producción",
+            "description": "Participar en proyectos escénicos, realizando actuaciones y asumiendo tareas propias de la producción, para favorecer el crecimiento artístico personal, enriquecer el entorno cultural e identificar oportunidades de desarrollo personal, social, académ…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Mostrar durante la actuación una actitud escénica adecuada y respeto por el público."
+                },
+                {
+                    "code": "4.2",
+                    "description": "El alumnado colabora activamente en el montaje de proyectos escénicos mostrando responsabilidad y trabajo en equipo."
+                }
+            ]
+        }
+    ]
+}

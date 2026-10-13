@@ -1,0 +1,100 @@
+{
+    "community": "canarias",
+    "stage": "eso",
+    "decree": "Decreto 30\/2023, de 16 de marzo",
+    "subject": "ingles",
+    "subject_name": "Lengua Extranjera",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "(c1) La competencia específica de comprensión se caracteriza por comprender e",
+            "description": "(c1) La competencia específica de comprensión se caracteriza por comprender e interpretar textos orales, escritos y multimodales. La comprensión, como destreza fundamental en la adquisición y aprendizaje de cualquier lengua extranjera, implica, en es…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Identificar información pertinente, interpretar el sentido global, las ideas principales y el contenido de textos orales breves y sencillos sobre temas frecuentes y cotidianos, de relevancia personal y próximos a su experiencia, expresados de forma clara y sencilla a través de diversos soportes, utilizando una o más lenguas, además de las familiares, con el fin de construir conocimiento y responder a necesidades comunicativas concretas."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Identificar información pertinente, interpretar el sentido global, las ideas principales y el contenido de textos escritos, breves y sencillos sobre temas frecuentes y cotidianos, de relevancia personal y próximos a su experiencia, expresados de forma clara a través de diversos soportes, así como de textos literarios adaptados al nivel de madurez del alumnado, aplicando criterios de validez y utilizando una o más lenguas, además de las familiares, con el fin de construir conocimiento y responder a necesidades comunicativas concretas."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Aplicar de manera guiada los conocimientos y las estrategias elementales más adecuadas en cada situación comunicativa, para comprender el sentido general, la información esencial y los detalles más relevantes de los textos, interpretar elementos no verbales, así como realizar búsquedas para seleccionar información y enriquecer su repertorio lingüístico individual."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "(c2) La competencia específica de producción engloba tanto la expresión oral y escrita, como la multimodal",
+            "description": "(c2) La competencia específica de producción engloba tanto la expresión oral y escrita, como la multimodal. Las actividades vinculadas con la producción de textos cumplen funciones importantes en los ámbitos personal, social, educativo y profesional.…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Expresar oralmente y de forma guiada textos breves, sencillos, estructurados, comprensibles y adecuados a la situación comunicativa que versen sobre asuntos cotidianos de relevancia e interés para el alumnado, en diferentes soportes, haciéndolo de forma creativa y mostrando empatía y aprecio por las producciones de los demás, con el fin de describir, narrar e informar sobre temas concretos."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Organizar y redactar de forma guiada textos propios, sencillos, breves y comprensibles, con claridad, coherencia, cohesión y adecuación a la situación comunicativa propuesta, que versen sobre asuntos cotidianos y frecuentes de relevancia para el alumnado y que sean próximos a su experiencia, siguiendo pautas establecidas, haciéndolo de forma creativa y mostrando empatía y aprecio por las producciones de los demás, a través de herramientas analógicas y digitales, con el fin de responder a propósitos comunicativos concretos."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Seleccionar y aplicar de forma guiada conocimientos y estrategias elementales en la elaboración de textos comprensibles, coherentes y adecuados a las intenciones comunicativas, a las características contextuales y a la tipología textual, haciendo uso de su repertorio lingüístico individual, con ayuda de los recursos físicos o digitales más adecuados en función de la tarea y las necesidades de cada momento, teniendo en cuenta el contexto y la persona a quien va dirigido el texto, para planificar, producir, revisar y seguir progresando en el proceso de aprendizaje."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "(c3) La competencia específica de interacción implica la negociación de",
+            "description": "(c3) La competencia específica de interacción implica la negociación de significado entre dos o más personas para construir un discurso.",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Planificar y participar de manera guiada en situaciones interactivas, orales y escritas, breves y sencillas, que versen sobre temas cotidianos, de relevancia personal y cercanos a su experiencia, haciendo uso de la cortesía lingüística y mostrando iniciativa, empatía y respeto por las diferentes necesidades, ideas, inquietudes y motivaciones de los interlocutores y las interlocutoras, con el fin de responder a propósitos comunicativos concretos y establecer vínculos personales."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Seleccionar y utilizar, de forma guiada y en entornos próximos, estrategias elementales que le permitan, haciendo uso de su repertorio lingüístico, iniciar, mantener y terminar la comunicación, tomar y ceder la palabra y solicitar y ofrecer aclaraciones y explicaciones, con el fin de desenvolverse de manera simple pero efectiva en situaciones interactivas sencillas en la lengua extranjera a través de diferentes soportes."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "(c4) La competencia de mediación explicita y facilita la comprensión de",
+            "description": "(c4) La competencia de mediación explicita y facilita la comprensión de mensajes o textos a partir de estrategias como la reformulación, de manera oral o escrita. Este proceso facilita el desarrollo del pensamiento estratégico, ya que permite elegir …",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Comprender y explicar textos, conceptos y comunicaciones muy breves y sencillas, de manera guiada, de forma oral o escrita, en situaciones cotidianas del ámbito personal, social y educativo, mostrando empatía por los interlocutores y las interlocutoras y respeto por las lenguas empleadas, apoyándose en diversos recursos y soportes, para así construir conocimiento y transmitir información de manera clara."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Aplicar, de forma guiada y con una aceptable gestión emocional, estrategias elementales que ayuden a crear puentes y faciliten la comprensión y producción de información y la comunicación, adecuadas a las intenciones comunicativas, haciendo uso de su repertorio lingüístico y usando recursos y apoyos físicos o digitales en función de las necesidades de cada momento, con la finalidad de explicar y simplificar textos, conceptos y mensajes."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "(c5) La competencia específica de plurilingüismo se basa en el uso del",
+            "description": "(c5) La competencia específica de plurilingüismo se basa en el uso del repertorio lingüístico y la reflexión sobre el funcionamiento de la lengua. En la Educación Secundaria Obligatoria el alumnado profundiza en esa reflexión sobre las lenguas y esta…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Identificar y registrar, siguiendo modelos, los progresos y dificultades de aprendizaje más destacados de la lengua extranjera con apoyo de otros participantes y de soportes analógicos y digitales, seleccionando de forma guiada las estrategias más eficaces en las actividades de autoevaluación y coevaluación, como las que se proponen en el Portfolio Europeo de las Lenguas (PEL) o en diarios de aprendizaje, así como comparar y contrastar siguiendo pautas las semejanzas y diferencias entre distintas lenguas, reflexionando de manera progresivamente autónoma sobre aspectos relevantes de su funcionamiento, de modo que se produzca una transferencia de conocimientos y estrategias a diferentes contextos sociales cotidianos y próximos que le permita ampliar su repertorio lingüístico individual, superar las adversidades y progresar en su aprendizaje en la lengua extranjera."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "(c6) La competencia intercultural supone experimentar la diversidad",
+            "description": "(c6) La competencia intercultural supone experimentar la diversidad lingüística, cultural y artística de la sociedad, analizándola y beneficiándose de ella. La conciencia de la diversidad proporciona la posibilidad de relacionar distintas culturas. A…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Valorar de forma empática y respetuosa la diversidad lingüística, cultural y artística propia de Canarias y de países donde se habla la lengua extranjera, aplicando estrategias básicas de manera guiada en situaciones comunicativas, interculturales, sencillas, cotidianas, con resiliencia, construyendo vínculos entre el patrimonio canario y el de otras culturas y favoreciendo el desarrollo de una cultura compartida y una ciudadanía comprometida con la sostenibilidad, para afrontar las diferencias morales o culturales con actitud dialogante, argumentativa, respetuosa y opuesta a cualquier tipo de discriminación o violencia."
+                }
+            ]
+        }
+    ]
+}

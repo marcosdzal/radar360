@@ -1,0 +1,109 @@
+{
+    "community": "la-rioja",
+    "stage": "eso",
+    "decree": "Decreto 21\/2022, de 13 de julio",
+    "subject": "latin",
+    "subject_name": "Latín",
+    "grade": 4,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Valorar el papel de la civilización latina en el origen de la identidad",
+            "description": "Valorar el papel de la civilización latina en el origen de la identidad europea, comparando y reconociendo las semejanzas y diferencias entre lenguas y culturas, para analizar críticamente el presente.",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Comparar productos culturales actuales con los de la Antigüedad latina para analizar su significado e influencia."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Comparar críticamente costumbres romanas y actuales usando fuentes latinas."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Identificar periodos, acontecimientos y personajes romanos vinculándolos con el presente."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Conocer los aspectos básicos de la lengua latina, comparándola con las lenguas",
+            "description": "Conocer los aspectos básicos de la lengua latina, comparándola con las lenguas de enseñanza y con otras lenguas del repertorio individual del alumnado, para valorar los rasgos comunes y apreciar la diversidad lingüística como muestra de riqueza cultu…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Compara lenguas a partir del latín, explica semejanzas y diferencias, y valora la diversidad lingüística como riqueza cultural."
+                },
+                {
+                    "code": "2.2",
+                    "description": "El alumnado deduce el significado de términos latinos empleando sus conocimientos de otras lenguas de su repertorio."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Amplía el léxico y mejora la expresión oral y escrita al aplicar latinismos y locuciones latinas de manera coherente."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Producir definiciones etimológicas de términos cotidianos, científicos y técnicos, reconociendo elementos latinos y estableciendo relaciones semánticas."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Leer e interpretar textos latinos, asumiendo la aproximación a los textos como",
+            "description": "Leer e interpretar textos latinos, asumiendo la aproximación a los textos como un proceso dinámico y tomando conciencia de los conocimientos y experiencias propias, para identificar su carácter clásico y fundamental.",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Explica el carácter clásico y humanista de obras latinas con vocabulario y expresión adecuados."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Identificar ideas principales y secundarias de un texto latino, contextualizándolo con referencias históricas, sociales, políticas o religiosas."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Interpretar críticamente textos latinos conectándolos con la sociedad actual y valorando su influencia."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Comprender textos originales latinos, traduciendo del latín a la lengua de",
+            "description": "Comprender textos originales latinos, traduciendo del latín a la lengua de enseñanza y desarrollando estrategias de acceso al significado de un enunciado sencillo en lengua latina, para alcanzar y justificar la traducción propia de un pasaje.",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Analizar y comparar elementos morfosintácticos y léxicos básicos del latín y la lengua familiar."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Traducir textos latinos breves y justificar la traducción, estableciendo la correspondencia entre análisis y versión."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Producir oraciones simples en latín mediante retroversión, usando estructuras latinas."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Descubrir, conocer y valorar el patrimonio cultural, arqueológico y artístico",
+            "description": "Descubrir, conocer y valorar el patrimonio cultural, arqueológico y artístico romano, apreciándolo y reconociéndolo como producto de la creación humana y como testimonio de la historia, para identificar las fuentes de inspiración y distinguir los pro…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Explicar elementos de la civilización latina, especialmente mitología, y reconocerlos como inspiración en el arte y la literatura."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Identificar las huellas de la romanización en el patrimonio local y valorar los procesos de preservación para la sostenibilidad."
+                },
+                {
+                    "code": "5.3",
+                    "description": "El alumno investiga el legado romano y expone conclusiones, seleccionando y contrastando información de fuentes fiables."
+                }
+            ]
+        }
+    ]
+}

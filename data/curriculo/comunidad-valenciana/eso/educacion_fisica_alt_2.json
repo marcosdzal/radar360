@@ -1,0 +1,113 @@
+{
+    "community": "comunidad-valenciana",
+    "stage": "eso",
+    "decree": "Decreto 107\/2022, de 5 de agosto",
+    "subject": "educacion_fisica_alt",
+    "subject_name": "Educació Física",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Integrar un estil de vida actiu mitjançant la pràctica de l’activitat física i",
+            "description": "Integrar un estil de vida actiu mitjançant la pràctica de l’activitat física i esportiva autoregulada i l’establiment de connexions entre els hàbits de comportament quotidians i el benestar físic i mental",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Utilitzar els recursos del seu entorn relacionats amb l'activitat física, l'alimentació i el benestar personal, aplicant propostes bàsiques de millora de la salut física, mental i social."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Aplicar els coneixements anatomicofisiològics adquirits a la creació d'un pla de manteniment i millora de la condició física personal."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Relacionar l'estil de vida actiu amb els efectes positius sobre la salut i la imatge personal amb les activitats fisicoesportives, identificant les conductes de risc."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Resoldre amb èxit diferents reptes i situacions motrius a través de propostes",
+            "description": "Resoldre amb èxit diferents reptes i situacions motrius a través de propostes físiques i esportives específiques aplicant les tècniques, tàctiques i estratègies de joc adients",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Participar activament col·laborar en jocs i activitats fisicoesportives practicant el respecte, la tolerància i el treball en equip."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Resoldre amb èxit situacions reals de competició i cooperació senzilles a través de l'aplicació d'habilitats motrius específiques i d'estratègies."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Reconèixer els aspectes culturals i socials que envolten el fenomen esportiu prenent consciència dels seus valors positius i dels aspectes que generen desigualtat en diferents contextos d'actuació."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Participar en processos de creació de naturalesa artisticoexpressiva mitjançant",
+            "description": "Participar en processos de creació de naturalesa artisticoexpressiva mitjançant l’ús del cos, el gest i el moviment com a mitjans d’autoconeixement per a expressar idees i sentiments",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Crear situacions comunicatives amb el gest, el cos i el moviment corporal, mitjançant models i amb creativitat."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Produir moviments creatius amb suport musical, combinant ritmes i segment corporals i mostrant fluïdesa, desinhibició i autoconfiança."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Crear i participar en muntatges artístics col·lectius comunicant idees, sentiments i emocions."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Interaccionar de manera sostenible amb el patrimoni natural i cultural",
+            "description": "Interaccionar de manera sostenible amb el patrimoni natural i cultural mitjançant activitats físiques i artisticoexpressives",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Col·laborar en l'organització i disseny d'activitats fisicoesportives inclusives respectuoses amb el medi ambient, tenint en compte el paisatge i la toponímia de l'entorn."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Conéixer i practicar tècniques i procediments de primers auxilis i protocols de seguretat i d'autoprotecció personal inclosa la RCP."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Participar en les activitats artisticoexpressives de l'entorn natural i urbà, valorar la diversitat personal i cultural."
+                },
+                {
+                    "code": "4.4",
+                    "description": "Implementar de manera col·laborativa amb la comunitat educativa mesures relacionades amb la mobilitat, el reciclatge i l'alimentació per a promoure un centre sostenible."
+                },
+                {
+                    "code": "4.5",
+                    "description": "Reconèixer el valor cultural de la Pilota valenciana mitjançant la pràctica i els element socials que envolten aquest esport."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Seleccionar i fer un ús crític i segur de les tecnologies de la informació i la",
+            "description": "Seleccionar i fer un ús crític i segur de les tecnologies de la informació i la comunicació com a facilitadores de l’activitat física i d’una vida activa i saludable",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Emprar recursos tecnològics relacionats amb l'activitat, l'esport i la salut i utilitzar diverses fonts d'informació i tecnologia en funció de la seua eficiència per a la resolució de situacions quotidianes."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Conèixer fonts d'informació i de contingut digital rellevants i fiables, relacionades amb els sabers de la matèria, emprant estratègies de recerca i organització de la informació."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Elaborar col·laborativament continguts digitals senzills relacionats amb l'activitat física i la salut, integrant la informació de manera crítica."
+                }
+            ]
+        }
+    ]
+}

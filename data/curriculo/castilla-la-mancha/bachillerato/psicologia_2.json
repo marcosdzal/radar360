@@ -1,0 +1,100 @@
+{
+    "community": "castilla-la-mancha",
+    "stage": "bachillerato",
+    "decree": "Decreto 83\/2022, de 12 de julio",
+    "subject": "psicologia",
+    "subject_name": "Psicología",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Conocer y valorar la importancia de la psicología como ciencia, analizando sus",
+            "description": "Conocer y valorar la importancia de la psicología como ciencia, analizando sus principales corrientes a lo largo de su historia, a través de sus teorías y autores, para tomar conciencia de la evolución psicológica del ser humano.",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Identificar la dimensión teórica y práctica de la psicología: sus objetivos, características, ramas y técnicas de investigación, relacionándola, como ciencia multidisciplinar, con otras cuyo fin es la comprensión de los fenómenos humanos, como la filosofía, la biología, la antropología y la eco"
+                },
+                {
+                    "code": "1.2",
+                    "description": "Reconocer y expresar las aportaciones más importantes de la psicología, desde sus inicios hasta la actualidad, identificando los principales problemas planteados y las soluciones aportadas por las diferentes corrientes psicológicas y realizando un análisis crítico de textos breves, significativos, de contenido psicológico."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Conocer y describir los condicionamientos biológicos de nuestro psiquismo,",
+            "description": "Conocer y describir los condicionamientos biológicos de nuestro psiquismo, identificando y distinguiendo los elementos que lo componen, para descubrir los fundamentos biológicos del comportamiento humano. Sin duda, la estructura y funcionamiento del …",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Analizar y apreciar la importancia de la organización del sistema nervioso central y periférico, distinguiendo la localización de sus distintos elementos y las funciones que determinan la conducta de los individuos."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Investigar y resumir la influencia del sistema endocrino sobre el cerebro y los comportamientos derivados de ello, valorando la importancia de la relación entre ambos."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Comprender y reconocer la importancia de la salud mental, analizando los",
+            "description": "Comprender y reconocer la importancia de la salud mental, analizando los diversos tipos de trastornos mentales y sus distintas terapias, con especial atención a los más presentes en la actualidad, para tomar conciencia de su importancia y poder así a…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Comprender, reconocer y reflexionar sobre la complejidad que implica definir qué es un trastorno mental, describiendo algunos de los factores genéticos, ambientales y evolutivos implicados, además de las perspectivas psicopatológicas y sus métodos de estudio."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Entender y valorar las diferentes técnicas actuales de investigación del cerebro y su impacto en el avance científico, relacionándolos con la explicación de la conducta y con la superación de algunos trastornos y enfermedades mentales."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Adquirir conocimiento de uno mismo y de las propias potencialidades, mediante",
+            "description": "Adquirir conocimiento de uno mismo y de las propias potencialidades, mediante el estudio y la comprensión de los procesos psíquicos, para emprender con éxito las tareas personales y sociales.",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Describir y comprender los procesos cognitivos básicos y superiores, explicando y apreciando la relevancia que tienen en el conocimiento del individuo y de la realidad."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Conocer, respetar y valorar otros modos de pensar, sentir y actuar, comparando",
+            "description": "Conocer, respetar y valorar otros modos de pensar, sentir y actuar, comparando los distintos tipos de personalidad, en sus diversos contextos, para tomar conciencia de la diversidad y fomentar un comportamiento tolerante ante la misma.",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Comprender y valorar la importancia de los distintos tipos de personalidad, eliminando prejuicios y estereotipos, de forma crítica, con el fin de fomentar el respeto y la tolerancia ante la diversidad."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Conocer la importancia que, en el desarrollo del concienciando de la igualdad entre géneros y la necesidad de que las relaciones sexuales estén basadas en el respeto, la libertad, la diversidad y el consentimiento mutuo."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Entender y describir las relaciones establecidas en el trabajo, en la salud laboral y en distintos tipos de organizaciones, valorando su importancia en el desarrollo de la personalidad."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Comprender el comportamiento humano en el contexto social, siendo conscientes",
+            "description": "Comprender el comportamiento humano en el contexto social, siendo conscientes de la diversidad de maneras en que se ha desarrollado y manifestado a lo largo de la historia, para así mostrar que el ser humano es eminentemente un ser social, permeable …",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Conocer y valorar los procesos psicológicos de las masas, su naturaleza, características y pautas de comportamiento, valorando su influencia tanto en la conducta individual como en la social."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Analizar críticamente la influencia en nuestras vidas de distintos factores, incluidos los procedentes de las redes sociales, apreciando sus consecuencias tanto en las ideas como en los comportamientos."
+                }
+            ]
+        }
+    ]
+}

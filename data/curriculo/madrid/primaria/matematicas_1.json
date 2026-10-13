@@ -1,0 +1,142 @@
+{
+    "community": "madrid",
+    "stage": "primaria",
+    "decree": "Decreto 61/2022, de 13 de julio",
+    "subject": "matematicas",
+    "subject_name": "Matemáticas",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Interpretar situaciones de la vida cotidiana proporcionando",
+            "description": "Interpretar situaciones de la vida cotidiana proporcionando una representación matemática de las mismas mediante conceptos, herramientas y estrategias, para analizar la información más relevante.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Comprender las preguntas planteadas a través de diferentes estrategias o herramientas, reconociendo la información contenida en problemas de la vida cotidiana."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Proporcionar ejemplos de representaciones de situaciones problematizadas sencillas, con recursos manipulativos y gráficos que ayuden en la resolución de un problema de la vida cotidiana."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Resolver situaciones problematizadas, aplicando diferentes",
+            "description": "Resolver situaciones problematizadas, aplicando diferentes técnicas, estrategias y formas de razonamiento, para explorar distintas maneras de proceder, obtener soluciones y asegurar su validez desde un punto de vista formal y en relación con el contexto planteado.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Emplear algunas estrategias adecuadas en la resolución de problemas."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Obtener posibles soluciones a problemas de forma guiada, aplicando estrategias básicas de resolución."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Describir verbalmente la idoneidad de las soluciones de un problema a partir de las preguntas previamente planteadas."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Explorar, formular y comprobar conjeturas sencillas o",
+            "description": "Explorar, formular y comprobar conjeturas sencillas o plantear problemas de tipo matemático en situaciones basadas en la vida cotidiana, de forma guiada, reconociendo el valor del razonamiento y la argumentación, para contrastar su validez, adquirir e integrar nuevo conocimiento.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Realizar conjeturas matemáticas sencillas, identificando patrones, propiedades y relaciones de forma guiada."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Dar ejemplos de problemas a partir de situaciones cotidianas que se resuelven matemáticamente."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Utilizar el pensamiento computacional, organizando datos,",
+            "description": "Utilizar el pensamiento computacional, organizando datos, descomponiendo en partes, reconociendo patrones, generalizando e interpretando, modificando y creando algoritmos de forma guiada, para modelizar y automatizar situaciones de la vida cotidiana.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Describir rutinas y actividades sencillas de la vida cotidiana que se realicen paso a paso, utilizando principios básicos del pensamiento computacional de forma guiada."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Emplear herramientas tecnológicas adecuadas, de forma guiada, en el proceso de resolución de problemas."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Reconocer y utilizar conexiones entre las diferentes ideas",
+            "description": "Reconocer y utilizar conexiones entre las diferentes ideas matemáticas, así como identificar las matemáticas implicadas en otras áreas o en la vida cotidiana, relacionando conceptos y procedimientos, para interpretar situaciones y contextos diversos.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Reconocer conexiones entre los diferentes elementos matemáticos, aplicando conocimientos y experiencias propios."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Reconocer las matemáticas presentes en la vida cotidiana y en otras áreas, estableciendo conexiones sencillas entre ellas."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Comunicar y representar, de forma individual y grupal,",
+            "description": "Comunicar y representar, de forma individual y grupal, conceptos, procedimientos y resultados matemáticos, utilizando el lenguaje oral, escrito y gráfico, y la terminología apropiados, para dar significado y permanencia a las ideas matemáticas.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Reconocer lenguaje matemático sencillo presente en la vida cotidiana adquiriendo vocabulario específico básico."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Explicar ideas y procesos matemáticos sencillos, los pasos seguidos en la resolución de un problema o los resultados matemáticos, de forma verbal o gráfica."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Desarrollar destrezas personales que ayuden a enfrentarse a",
+            "description": "Desarrollar destrezas personales que ayuden a enfrentarse a retos matemáticos, fomentando la confianza en las propias posibilidades, aceptando el error como parte del proceso de aprendizaje y adaptándose a las situaciones de incertidumbre, para mejorar la constancia y disfrutar en el aprendizaje de las matemáticas.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Reconocer las destrezas personales propias al abordar retos matemáticos, pidiendo ayuda solo cuando sea necesario."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Expresar actitudes positivas ante retos matemáticos, valorando el error, como una oportunidad de aprendizaje."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Desarrollar destrezas sociales, reconociendo y respetando a",
+            "description": "Desarrollar destrezas sociales, reconociendo y respetando a los compañeros y participar en equipos de trabajo para fomentar un adecuado desarrollo personal y social.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Participar respetuosamente en el trabajo en equipo, estableciendo relaciones saludables basadas en el respeto, la libertad, la igualdad y la resolución pacífica de conflictos."
+                },
+                {
+                    "code": "8.2",
+                    "description": "Aceptar la tarea y el rol asignado en el trabajo en equipo, cumpliendo con las responsabilidades individuales y contribuyendo a la consecución de los objetivos del grupo."
+                }
+            ]
+        }
+    ]
+}

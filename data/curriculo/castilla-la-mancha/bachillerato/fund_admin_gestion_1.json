@@ -1,0 +1,101 @@
+{
+    "community": "castilla-la-mancha",
+    "stage": "bachillerato",
+    "decree": "Decreto 83\/2022, de 12 de julio",
+    "subject": "fund_admin_gestion",
+    "subject_name": "Fundamentos de Administración y Gestión",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Identificar la importancia de la cultura emprendedora y de la innovación como",
+            "description": "Identificar la importancia de la cultura emprendedora y de la innovación como elementos necesarios para garantizar el desarrollo sostenible de un país y la competitividad de su economía, analizando el papel fundamental que desempeña el proceso empren…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Apreciar el impacto que han tenido la innovación y la actividad e calidad de vida, analizando, para ello, casos reales concretos."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Generar ideas innovadoras para el desarrollo de proyectos de emprendimiento social, utilizando técnicas específicas que permitan suscitar ideas propias."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Desarrollar un proyecto empresarial propio, identificando, tanto las decisiones",
+            "description": "Desarrollar un proyecto empresarial propio, identificando, tanto las decisiones más relevantes que debe tomar el promotor como las principales áreas de desarrollo dentro de la función directiva, para dar respuesta a retos empresariales, en un entorno…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Realizar una autovaloración de las capacidades relacionadas con el emprendimiento, como son: la creatividad, el liderazgo, las habilidades sociales, el autocontrol, la empatía, el emprendimiento, la tolerancia, hacer frente a la frustración y a los fracasos o resiliencia, mediante pruebas específicas."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Plantear y desarrollar un proyecto empresarial propio que dé respuesta a retos empresariales, locales o globales, haciendo uso de las fuentes de información pertinentes."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Identificar las diferentes áreas funcionales del proyecto empresarial, desarrollando la idea de empresa como sistema y valorando la importancia de esas áreas dentro de ella."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Evaluar la viabilidad del proyecto empresarial, tanto a nivel local como global, utilizando estudios de mercado y seleccionando fuentes de financiación."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Identificar y saber aplicar las principales normas básicas de contabilidad y",
+            "description": "Identificar y saber aplicar las principales normas básicas de contabilidad y fiscalidad empresarial, analizando y realizando supuestos básicos de ambas, valorando la importancia de exponer una información veraz y de realizar una aportación justa a lo…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Identificar la terminología básica fiscal, analizando, en diferentes documentos tributarios, tanto nacionales como autonómicos, el funcionamiento básico de los impuestos."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Comprender el impacto y repercusión de la tributación empresarial en la economía del entorno, valorando la importancia de contribuir a los fondos públicos."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Evaluar la situación patrimonial, económica y financiera de una empresa, haciendo uso de supuestos prácticos y aplicando los criterios más relevantes a su propio proyecto empresarial."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Reconocer el impacto social y ecológico que conlleva la actividad empresarial,",
+            "description": "Reconocer el impacto social y ecológico que conlleva la actividad empresarial, tanto local como global, analizando y concretando los distintos mecanismos existentes que ayudan a minimizarlo, con el fin de desarrollar una conciencia vinculada con la p…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Analizar, de forma crítica y constructiva, el contexto local de una propue efectos de la transformación económica, social y medioambiental que derivan de ella."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Tomar conciencia de la responsabilidad social, laboral y medioambiental de la empresa, llevando a cabo las decisiones adecuadas en su propio proyecto empresarial."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Identificar nuevas formas de entender la economía, analizando modelos de experiencias empresariales novedosas y sostenibles, tanto en el ámbito local como global."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Reconocer y desarrollar las habilidades propias de la comunicación oral y",
+            "description": "Reconocer y desarrollar las habilidades propias de la comunicación oral y escrita en la elaboración y exposición de un proyecto de empresa, realizando, preferiblemente con medios digitales, presentaciones eficaces, para dar a conocer ideas y solucion…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Desarrollar habilidades bá sicas de comunicación, identificando las partes del proceso comunicativo y poniéndolas en práctica dentro del propio proyecto empresarial."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Conocer y utilizar herramientas digitales para la elaboración y presentación del proyecto empresarial, reconociendo su eficacia y repercusión en la proyección de la empresa."
+                }
+            ]
+        }
+    ]
+}

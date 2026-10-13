@@ -1,0 +1,161 @@
+{
+    "community": "canarias",
+    "stage": "eso",
+    "decree": "Decreto 30\/2023, de 16 de marzo",
+    "subject": "geografia_e_historia",
+    "subject_name": "Geografía e Historia",
+    "grade": 3,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "º y 2.º de la ESO y veintidós para 3.º ESO",
+            "description": "º y 2.º de la ESO y veintidós para 3.º ESO. En 4.º de la ESO hay siete competencias específicas, que se concretan en diecinueve criterios de evaluación.",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Investigar y organizar información histórica o geográfica relevante para crear productos propios como esquemas o tablas, demostrando capacidad de síntesis y selección de fuentes."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Analizar y comparar fuentes históricas primarias y secundarias para construir argumentos razonados sobre hechos ocurridos desde la Prehistoria hasta la Edad Moderna."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Comunicar conocimientos históricos y geográficos de forma estructurada utilizando diversos soportes y formatos, adaptando el lenguaje al tipo de producto realizado."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "(c2) La competencia específica 2 aborda la investigación, la argumentación y la",
+            "description": "(c2) La competencia específica 2 aborda la investigación, la argumentación y la creación de productos propios sobre los principales problemas y retos a los que se enfrenta la humanidad. Lo hará con pensamiento crítico, buscando contribuir a la constr…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Investigar y analizar problemas sociales actuales de forma crítica, reconociendo su impacto en la sociedad y proponiendo soluciones o compromisos ciudadanos concretos."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Analizar problemas actuales utilizando datos geográficos e históricos, comparando diferentes fuentes de información para construir una opinión crítica y fundamentada."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "(c3) La competencia específica 3 aborda el conocimiento histórico, que tendrá",
+            "description": "(c3) La competencia específica 3 aborda el conocimiento histórico, que tendrá como principal producto el desarrollo de proyectos, tanto individuales como cooperativos, fomentando la puesta en acción de estrategias y habilidades para el análisis y la …",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Investigar problemas históricos o geográficos actuales mediante proyectos, utilizando fuentes diversas para crear productos que demuestren la comprensión de los fenómenos estudiados."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Analizar las crisis y transformaciones históricas de la humanidad, determinando sus causas y efectos para comprender cómo han moldeado los desafíos sociales y ambientales actuales."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Crear mapas, gráficos y recursos visuales para organizar y comunicar datos geográficos e históricos de manera precisa y comprensible."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "(c4) La competencia específica 4 hace referencia a la geografía, a la",
+            "description": "(c4) La competencia específica 4 hace referencia a la geografía, a la identificación de elementos del paisaje y su análisis, fundamentándose en la explicación multicausal de las transformaciones y en la asunción de una actitud responsable en la conse…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Analizar paisajes identificando elementos naturales y humanos, explicando cómo interactúan entre sí para comprender el entorno como un sistema complejo y dinámico."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Analizar cómo la acción humana y el crecimiento demográfico transforman el paisaje, evaluando la sostenibilidad del uso de recursos y los conflictos territoriales generados."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Proponer y justificar medidas concretas para proteger el medio natural y urbano, fomentando hábitos sostenibles y el uso responsable de los recursos."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "(c5) La competencia específica 5 refiere los procesos históricos o geográficos,",
+            "description": "(c5) La competencia específica 5 refiere los procesos históricos o geográficos, desde una perspectiva crítica y democrática, basada en los derechos y deberes dentro de la comunidad, a través de las constituciones, que suponen el actual modelo de conv…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Explicar la evolución de las formas de organización social y política a lo largo de la historia, analizando cómo se ha regulado la convivencia humana."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Identificar y explicar sistemas políticos anteriores a la Edad Contemporánea, como la democracia ateniense, que sirvieron de base para los derechos y libertades actuales."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "(c6) La competencia específica 6 se estructura en el conocimiento y la",
+            "description": "(c6) La competencia específica 6 se estructura en el conocimiento y la comprensión de procesos geográficos, históricos o culturales, destacando la multiculturalidad, la diversidad y la igualdad como ejes de los saberes, que supone el reconocimiento d…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Localizar cronológica y espacialmente diversas civilizaciones, analizando sus rasgos culturales e institucionales para explicar su legado y la formación de sociedades multiculturales actuales."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Analizar las estructuras de poder y desigualdad histórica que marginaron a mujeres y minorías, identificando los mecanismos de control social y sus consecuencias."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Reconocer y defender la diversidad cultural mediante argumentos razonados, rechazando activamente estereotipos y comportamientos discriminatorios en contextos sociales e históricos actuales."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "(c7) La competencia específica 7 se enlaza con la anterior por el conocimiento",
+            "description": "(c7) La competencia específica 7 se enlaza con la anterior por el conocimiento y la identificación de elementos culturales y de diversidad, pero desde un enfoque de valores universales de cohesión y solidaridad entre territorios, donde deben comprend…",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Analizar los elementos geográficos, históricos y culturales que conforman las identidades individuales y colectivas en diferentes escalas, valorando la diversidad y las expresiones culturales compartidas."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Explicar el origen histórico de las identidades en España y analizar su uso actual para fomentar el respeto a la diversidad y la convivencia."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "(c8) La competencia específica 8 se fundamenta en el desarrollo personal del",
+            "description": "(c8) La competencia específica 8 se fundamenta en el desarrollo personal del alumnado, tomando conciencia del papel de los ciclos demográficos, las formas de vida y las relaciones intergeneracionales y de dependencia en la sociedad actual y su evoluc…",
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Analizar las tendencias y ciclos demográficos actuales en España y el mundo para identificar retos sociales como el envejecimiento, la despoblación y los movimientos migratorios."
+                },
+                {
+                    "code": "8.2",
+                    "description": "Analizar la evolución histórica del ciclo vital y el reparto de tareas domésticas por género, asumiendo responsabilidades sociales y valorando el intercambio entre generaciones."
+                },
+                {
+                    "code": "8.3",
+                    "description": "Comparar estilos de vida tradicionales y saludables\/sostenibles, analizando comportamientos respetuosos."
+                }
+            ]
+        },
+        {
+            "code": "CE9",
+            "name": "(c9) Por último, la competencia específica 9 se basa en el conocimiento y la",
+            "description": "(c9) Por último, la competencia específica 9 se basa en el conocimiento y la valoración del papel de la cultura española y, por consiguiente, canaria, las culturas europea y mundial, incluyendo sus dimensiones de cooperación, desarrollo sostenible y …",
+            "criterios": [
+                {
+                    "code": "9.1",
+                    "description": "Analizar la vinculación de la historia de España con procesos globales desde la Edad Antigua hasta la Moderna, destacando su legado y evolución histórica."
+                }
+            ]
+        }
+    ]
+}

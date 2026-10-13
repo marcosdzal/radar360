@@ -1,0 +1,248 @@
+{
+    "community": "comunidad-valenciana",
+    "stage": "eso",
+    "decree": "Decreto 107\/2022, de 5 de agosto",
+    "subject": "fisica_y_quimica_fisica_y_quimica",
+    "subject_name": "Física y Química",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Resolver problemas científicos abordables en el ámbito escolar a partir de",
+            "description": "Resolver problemas científicos abordables en el ámbito escolar a partir de trabajos de investigación de carácter experimental.",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Explicar fenómenos del entorno mediante leyes científicas, comunicando los resultados de forma argumentada a través de diferentes formatos y soportes digitales o analógicos."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Resolver problemas científicos aplicando leyes y teorías, justificando los pasos seguidos y expresando los resultados con las unidades de medida correctas."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Identificar problemas reales del entorno que requieran soluciones científicas, proponiendo iniciativas basadas en la física y la química y analizando su impacto social."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Analizar la base fisicoquímica de los procesos cognitivos y emocionales, vinculando la neuroquímica con la conducta y el aprendizaje en el entorno cotidiano."
+                },
+                {
+                    "code": "1.5",
+                    "description": "Comprobar que se cumple la ley de conservación de la masa en experiencias de carácter práctico."
+                },
+                {
+                    "code": "1.6",
+                    "description": "Realizar experiencias en las que se produzcan reacciones químicas de distintos tipos (descomposición, precipitación, síntesis, combustión, neutralización), identificando reactivos y productos por sus diferentes propiedades características, y, en el caso de las reacciones ácido- base, utilizando la escala de pH para identificar el carácter ácido o básico de las sustancias implicadas."
+                },
+                {
+                    "code": "1.7",
+                    "description": "Realizar experiencias sencillas preparación de disoluciones, describiendo el procedimiento seguido y el material utilizado, determinando la concentración."
+                },
+                {
+                    "code": "1.8",
+                    "description": "Resolver situaciones problemáticas relacionadas con el movimiento de los cuerpos en situaciones cotidianas."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Analizar y resolver situaciones problemáticas del ámbito de la Física y la",
+            "description": "Analizar y resolver situaciones problemáticas del ámbito de la Física y la Química utilizando la lógica científica y alternando las estrategias del trabajo individual con el trabajo en equipo.",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Aplicar el método científico para investigar fenómenos naturales mediante preguntas, hipótesis y experimentación, distinguiendo claramente entre explicaciones basadas en evidencias y afirmaciones pseudocientíficas."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Diseñar y seleccionar estrategias de investigación o experimentos adecuados para validar o rechazar hipótesis científicas basadas en preguntas sobre fenómenos naturales."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Diseñar experimentos y proponer hipótesis fundamentadas en leyes científicas para resolver problemas o comprobar fenómenos observados en el entorno cotidiano o de laboratorio."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Expresar, utilizando el lenguaje matemático adecuado a su nivel, el procedimiento que se ha seguido en la resolución de un problema"
+                },
+                {
+                    "code": "2.5",
+                    "description": "Comprobar e interpretar las soluciones encontradas."
+                },
+                {
+                    "code": "2.6",
+                    "description": "Participar en equipos de trabajo para resolver los problemas planteados asumiendo diversos roles con eficacia y responsabilidad."
+                },
+                {
+                    "code": "2.7",
+                    "description": "que será más abierta y compleja en el tercer curso"
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Utilizar el conocimiento científico como instrumento del pensamiento crítico,",
+            "description": "Utilizar el conocimiento científico como instrumento del pensamiento crítico, interpretando y comunicando mensajes científicos, desarrollando argumentaciones y accediendo a fuentes fiables, para distinguir la información contrastada de los bulos y op…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Interpretar y comunicar información de procesos fisicoquímicos analizando datos en diversos formatos, como tablas o gráficas, para extraer conclusiones y resolver problemas científicos."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Aplicar correctamente las normas de nomenclatura IUPAC, el sistema internacional de unidades y herramientas matemáticas básicas para resolver problemas y comunicar resultados científicos con rigor."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Justificar la validez del modelo científico como producto dinámico que se va",
+            "description": "Justificar la validez del modelo científico como producto dinámico que se va revisando y reconstruyendo bajo la influencia del contexto social e histórico, atendiendo la importancia de la ciencia en el avance de las sociedades, así como a los riesgos…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Emplear herramientas digitales y bibliográficas para investigar contenidos científicos de forma autónoma, colaborando con respeto y evaluando críticamente las aportaciones del grupo."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Seleccionar información científica de fuentes fiables, tanto digitales como analógicas, para elaborar contenidos propios que favorezcan el aprendizaje individual y del grupo."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Reconocer y valorar la contribución de mujeres y grupos diversos a la ciencia, utilizando entornos digitales para promover la igualdad y el respeto en el trabajo colaborativo."
+                },
+                {
+                    "code": "4.4",
+                    "description": "Describir las dificultades para establecer una clasificación de los elementos químicos y explicar la clasificación de Mendeleiev, su originalidad y sus limitaciones."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Analizar algunos fenómenos naturales y predecir su comportamiento utilizando",
+            "description": "Analizar algunos fenómenos naturales y predecir su comportamiento utilizando modelos de Física y Química para poder identificarlos, caracterizarlos y explicar otros fenómenos nuevos.",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Participar en equipos de trabajo para resolver problemas científicos de forma ética y cooperativa, fomentando la igualdad y la eficiencia en el laboratorio o aula."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Desarrollar proyectos científicos guiados que aporten soluciones a problemas sociales o ambientales, aplicando el método científico para generar un impacto positivo en su entorno."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Utilizar el modelo de interacción para explicar los cambios en la velocidad de los cuerpos o sus deformaciones."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Utilizar adecuadamente el lenguaje científico propio de la Física y la Química",
+            "description": "Utilizar adecuadamente el lenguaje científico propio de la Física y la Química en la interpretación y transmisión de información.",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Analizar la evolución histórica de la ciencia y sus descubrimientos, destacando la contribución de hombres y mujeres y el impacto social, tecnológico y ambiental resultante."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Identificar necesidades tecnológicas y ambientales del entorno, analizando cómo la ciencia ofrece soluciones sostenibles y el papel fundamental de la participación ciudadana en este proceso."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Escribir textos descriptivos y explicativos propios del área en diversos formatos y soportes, cuidando sus aspectos formales, aplicando las normas de corrección ortográfica y gramatical, para transmitir de forma organizada sus conocimientos con un lenguaje no discriminatorio."
+                },
+                {
+                    "code": "6.4",
+                    "description": "Expresar oralmente textos previamente planificados, propios del área, en exposiciones de corta duración, para transmitir de forma organizada sus conocimientos con un lenguaje no discriminatorio."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Interpretar correctamente la información presentada en diferentes formatos de",
+            "description": "Interpretar correctamente la información presentada en diferentes formatos de representación gráfica y simbólica utilizados habitualmente en la Física y la Química.",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Reconocer la importancia normalización del sistema de unidades y utilizar adecuadamente las medidas del sistema internacional."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Realizar cambios de unidades de masa, longitud, superficie y volumen."
+                },
+                {
+                    "code": "7.3",
+                    "description": "Construir tablas de parejas de valores masa-volumen de sustancias sólidas y líquidas. Construir los gráficos representativos. Predecir e interpretar representaciones V =f(T); P = f(V); P = f(T)."
+                },
+                {
+                    "code": "7.4",
+                    "description": "Reconocer el significado de fórmula química empleando símbolos químicos. Distinguir entre el uso de fórmulas químicas cuando se utilizan para representar moléculas y cuando se utilizan para representar estructuras cristalinas o poliméricas."
+                },
+                {
+                    "code": "7.5",
+                    "description": "Interpretar las curvas de solubilidad de distintas sustancias."
+                },
+                {
+                    "code": "7.6",
+                    "description": "Construir e interpretar gráficos espacio-tiempo y velocidad-tiempo en casos de aceleración constante."
+                }
+            ]
+        },
+        {
+            "code": "CE9",
+            "name": "Identificar y caracterizar las sustancias a partir de sus propiedades físicas",
+            "description": "Identificar y caracterizar las sustancias a partir de sus propiedades físicas para relacionar los materiales de nuestro entorno con el uso que se hace de ellos.",
+            "criterios": [
+                {
+                    "code": "9.1",
+                    "description": "Utilizar las propiedades características de las sustancias para proponer métodos de separación de mezclas, describiendo el material de laboratorio adecuado."
+                },
+                {
+                    "code": "9.2",
+                    "description": "Clasificar materiales por propiedades, relacionando las propiedades de los materiales de nuestro entorno con el uso que se hace de ellos."
+                },
+                {
+                    "code": "9.3",
+                    "description": "Comparar las densidades de distintas sustancias (sólidos, líquidos y gases)."
+                },
+                {
+                    "code": "9.4",
+                    "description": "Distinguir entre sistemas materiales de uso cotidiano para clasificarlos en sustancias puras y mezclas, diferenciando entre sus distintos tipos."
+                }
+            ]
+        },
+        {
+            "code": "CE0",
+            "name": "Caracterizar los cambios químicos como transformación de unas sustancias en otras diferentes",
+            "description": "Caracterizar los cambios químicos como transformación de unas sustancias en otras diferentes, reconociendo la importancia de las transformaciones químicas en actividades y procesos cotidianos.",
+            "criterios": [
+                {
+                    "code": "10.1",
+                    "description": "Reconocer situaciones de la vida cotidiana en las que se producen reacciones químicas y predecir cómo la influencia de ciertos factores puede servir para controlar estos procesos, ralentizándolos o acelerándolos para solucionar problemas que afectan a nuestra calidad de vida."
+                },
+                {
+                    "code": "10.2",
+                    "description": "Describir reacciones de interés industrial y los usos de los productos obtenidos, así como las reacciones de combustión, para justificar su importancia en la producción de energía eléctrica y otras reacciones de importancia biológica o industrial."
+                }
+            ]
+        },
+        {
+            "code": "CE1",
+            "name": "Identificar las interacciones como causa de las transformaciones que tienen",
+            "description": "Identificar las interacciones como causa de las transformaciones que tienen lugar en nuestro entorno físico para poder intervenir en el mismo, modificando las condiciones que nos permitan una mejora en nuestras condiciones de vida.",
+            "criterios": [
+                {
+                    "code": "11.1",
+                    "description": "Reconocer las distintas fuerzas que aparecen en la naturaleza y los distintos fenómenos asociados a ellas."
+                },
+                {
+                    "code": "11.2",
+                    "description": "Relacionar las fuerzas con los efectos que producen y comprobar esta relación experimentalmente, registrando los resultados en tablas y representaciones gráficas."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "community": "aragon",
+    "stage": "bachillerato",
+    "decree": "Orden ECD\/1112\/2022, de 18 de julio",
+    "subject": "proyectos_artisticos",
+    "subject_name": "Proyectos Artísticos",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE5",
+            "name": "Tratar correctamente la documentación de un proyecto artístico, seleccionando",
+            "description": "Tratar correctamente la documentación de un proyecto artístico, seleccionando las fuentes más adecuadas, elaborando los documentos necesarios, registrando el proceso creativo y archivando adecuadamente todo el material, para dejar constancia de las d…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Seleccionar fuentes diversas y justificar su utilidad teórica, informativa o inspiradora para el proyecto."
+                },
+                {
+                    "code": "5.2",
+                    "description": "El alumnado elabora la documentación de un proyecto artístico empleando modelos y aplicaciones adecuadas."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Registrar las fases del proyecto evaluando reflexivamente el proceso propio."
+                },
+                {
+                    "code": "5.4",
+                    "description": "Archivar la documentación del proyecto garantizando su acceso y recuperación."
+                }
+            ]
+        },
+        {
+            "code": "CE1",
+            "name": "Manejar los factores históricos y de contexto de la investigación científica",
+            "description": "Manejar los factores históricos y de contexto de la investigación científica demostrando dominio sobre la aplicabilidad del proceso de investigación en la resolución de situaciones y problemas propios de la realidad presente, pasada y futura. Una asi…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "El alumnado genera y perfecciona ideas de proyecto mediante consulta de fuentes, elaboración de bocetos y maquetas, y experimentación con técnicas artísticas."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Seleccionar y justificar una propuesta de proyecto considerando relevancia artística, viabilidad, sostenibilidad y adecuación al marco de recepción."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Pensar, diseñar y justificar un proyecto de investigación especificando los",
+            "description": "Pensar, diseñar y justificar un proyecto de investigación especificando los métodos, el enfoque y el tipo de investigación con sus respectivos marcos teóricos y contextuales. La asimilación de conceptos, saberes y teorías se consolida cuando a la com…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Planificar un proyecto artístico organizando fases, evaluando sostenibilidad y ajustando a plazos, espacio y presupuesto."
+                },
+                {
+                    "code": "2.2",
+                    "description": "El alumnado propone soluciones creativas para organizar un proyecto artístico optimizando recursos."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Conocer y aplicar las herramientas metodológicas de la investigación",
+            "description": "Conocer y aplicar las herramientas metodológicas de la investigación desarrollando un proyecto en el que se diferencien las fases, elementos, técnicas y recursos propios del proceso. El conocimiento de las herramientas metodológicas conduce a mayores…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Participar activamente en proyectos artísticos asumiendo funciones y seleccionando espacios, técnicas, medios y soportes."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Explicar razonadamente la intención y los efectos esperados del proyecto artístico en el entorno."
+                },
+                {
+                    "code": "3.3",
+                    "description": "El alumnado justifica sus decisiones de ejecución vinculándolas con la intención y los efectos buscados."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Identificar y valorar oportunidades artísticas y expresar una opinión crítica y respetuosa sobre su valor añadido."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Plantear, elaborar y comunicar informes de investigación reflejando los",
+            "description": "Plantear, elaborar y comunicar informes de investigación reflejando los resultados del proceso con coherencia formal y de contenidos. Todo proceso de investigación requiere de la comunicación de sus resultados, puesto que representa la aportación a l…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Compartir las fases del proyecto mediante diversos medios, recogiendo críticas y sugerencias del público para mejorar el resultado y su impacto."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Valora críticas y aportaciones, e incorpora justificadamente las que mejoran el proyecto y su impacto social."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Evaluar la repercusión del proyecto mediante análisis de feedback del público y logro de intención inicial."
+                }
+            ]
+        }
+    ]
+}

@@ -45,12 +45,12 @@ const categorySort = (a, b) => a._i - b._i;
 
 // Module-level UI strings — overridden by PHP-passed strings at init time.
 var _S = {
-    label:      '📌 Competencia Específica (Sentinel):',
-    tooltip:    'Asignar este criterio a una Competencia Específica del libro de calificaciones',
+    label:      '📌 Criterio de evaluación (Radar 360):',
+    tooltip:    'Asignar esta fila de rúbrica a un criterio de evaluación del libro de calificaciones',
     unassigned: '— Sin asignar —',
     pending:    '💾 Se guardará al publicar',
     neterror:   '❌ Error de red',
-    header:     'CE (Sentinel)',
+    header:     'CE (Radar 360)',
 };
 
 // Versión corta para el desplegable de edición (espacio reducido).
@@ -140,12 +140,20 @@ const injectSelect = (row, categories, mappings, ajaxUrl, sesskey) => {
     blank.textContent = _S.unassigned;
     select.appendChild(blank);
 
+    let currentGroup = null;
     categories.map((c, i) => ({...c, _i: i})).sort(categorySort).forEach(cat => {
-        const opt = document.createElement('option');
-        opt.value = cat.id;
-        opt.textContent = shortLabel(cat.name);
-        opt.title = cat.name;
-        select.appendChild(opt);
+        if (cat.depth === 2) {
+            currentGroup = document.createElement('optgroup');
+            currentGroup.label = shortLabel(cat.name);
+            currentGroup.title = cat.name;
+            select.appendChild(currentGroup);
+        } else {
+            const opt = document.createElement('option');
+            opt.value = cat.id;
+            opt.textContent = shortLabel(cat.name);
+            opt.title = cat.name;
+            (currentGroup || select).appendChild(opt);
+        }
     });
 
     // Pre-select: real mapping for saved rows, localStorage for draft rows.

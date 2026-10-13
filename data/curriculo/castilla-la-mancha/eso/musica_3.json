@@ -1,0 +1,93 @@
+{
+    "community": "castilla-la-mancha",
+    "stage": "eso",
+    "decree": "Decreto 82\/2022, de 12 de julio",
+    "subject": "musica",
+    "subject_name": "Música",
+    "grade": 3,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Analizar obras de diferentes épocas y culturas, identificando sus principales",
+            "description": "Analizar obras de diferentes épocas y culturas, identificando sus principales rasgos estilísticos y estableciendo relaciones con su contexto, para valorar el patrimonio musical y dancístico como fuente de disfrute y enriquecimiento personal.",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analiza obras musicales y dancísticas identificando sus principales rasgos estilísticos y muestra una actitud de apertura, interés y respeto durante la escucha o visionado."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Explicar funciones de obras musicales\/dancísticas relacionándolas con su contexto histórico, social y cultural."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Explorar las posibilidades expresivas de diferentes técnicas musicales y",
+            "description": "Explorar las posibilidades expresivas de diferentes técnicas musicales y dancísticas, a través de actividades de interpretación e improvisación, para incorporarlas al repertorio personal de recursos y desarrollar el criterio de selección de las técni…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Crear improvisaciones pautadas con voz, cuerpo, instrumentos o tecnología para explorar técnicas musicales y dancísticas básicas."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Expresar ideas, sentimientos y emociones en improvisaciones pautadas seleccionando técnicas adecuadas del repertorio personal."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Construir, controlar y simular sistemas automáticos y robots que sean capaces de realizar tareas de forma autónoma, buscando la solución más adecuada, haciendo una selección de los materiales y componentes necesarios, además de respetando las normas de seguridad y salud en su construcción."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Aplicar el pensamiento computacional en la robótica, como herramienta de solución y mejora a problemas planteados, valorando su repercusión en el entorno."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Interpretar piezas musicales y dancísticas, gestionando adecuadamente las",
+            "description": "Interpretar piezas musicales y dancísticas, gestionando adecuadamente las emociones y empleando diversas estrategias y técnicas vocales, corporales o instrumentales, para ampliar las posibilidades de expresión personal o grupal.",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Lee partituras sencillas e identifica elementos básicos del lenguaje musical con guía."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Aplica técnicas básicas de interpretación vocal, corporal o instrumental usando estrategias de memorización y valorando los ensayos como espacios de escucha y aprendizaje."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Crear propuestas artístico-musicales",
+            "description": "Crear propuestas artístico-musicales, de forma individual o grupal, empleando la voz, el cuerpo, instrumentos musicales y herramientas tecnológicas, para potenciar la creatividad e identificar oportunidades de desarrollo personal, social, académico y…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Planificar y crear propuestas musicales y dancísticas individuales o grupales con medios analógicos y digitales."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Participar activamente en la planificación y ejecución de propuestas musicales en grupo, valorando las contribuciones y descubriendo oportunidades de desarrollo."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Investigar y descubrir las posibilidades que nos brindan las diferentes",
+            "description": "Investigar y descubrir las posibilidades que nos brindan las diferentes tecnologías emergentes en relación con el desarrollo sostenible, utilizando distintas fuentes de información, preferiblemente digitales y aplicando dichas tecnologías en el desar…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Buscar y localizar documentación sobre las nuevas tecnologías emergentes utilizando diversas fuentes, seleccionándola adecuadamente y obteniendo información fiable y contrastada."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Investigar e identificar, con sentido crítico y ético, las alternativas que ofrece el uso de las tecnologías emergentes en el desarrollo de soluciones de automatización de procesos, analizando las repercusiones en el entorno que nos rodea."
+                }
+            ]
+        }
+    ]
+}

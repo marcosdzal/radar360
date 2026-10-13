@@ -1,0 +1,197 @@
+{
+    "community": "galicia",
+    "stage": "eso",
+    "decree": "Decreto 156\/2022, de 15 de septiembre",
+    "subject": "tecnologia",
+    "subject_name": "Tecnología y Digitalización",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Buscar y seleccionar la información adecuada proveniente de diversas fuentes, de manera crítica y segura",
+            "description": "Buscar y seleccionar la información adecuada proveniente de diversas fuentes, de manera crítica y segura, aplicando procesos de investigación, métodos de análisis de productos y experimentando con herramientas de simulación, para definir problemas te…",
+            "criterios": [
+                {
+                    "code": "CE1.1",
+                    "description": "Definir problemas o necesidades expuestas buscando y contrastando información procedente de diferentes fuentes de manera crítica y segura y evaluando su fiabilidad y pertinencia."
+                },
+                {
+                    "code": "CE1.2",
+                    "description": "Comprender y examinar objetos tecnológicos sencillos de uso habitual a través del análisis de objetos y sistemas, empleando el método científico y utilizando herramientas de simulación en la construcción de conocimiento."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Abordar problemas tecnológicos con autonomía y actitud creativa",
+            "description": "Abordar problemas tecnológicos con autonomía y actitud creativa, aplicando conocimientos interdisciplinarios y trabajando de forma cooperativa y colaborativa, para diseñar y planificar soluciones a un problema o necesidad de forma eficaz, innovadora …",
+            "criterios": [
+                {
+                    "code": "CE2.1",
+                    "description": "Idear y diseñar soluciones eficaces, innovadoras y sostenibles a problemas definidos, aplicando conceptos, técnicas y procedimientos interdisciplinares, así como criterios de sostenibilidad, con actitud emprendedora, perseverante y creativa."
+                },
+                {
+                    "code": "CE2.2",
+                    "description": "Seleccionar, planificar y organizar los materiales y herramientas, así como las tareas necesarias para la construcción de una solución a un problema expuesto, trabajando individualmente o en grupo de manera cooperativa y colaboradora."
+                },
+                {
+                    "code": "CE3.1",
+                    "description": "Identificar, valorar y mostrar interés por los principales problemas que afectan a la sociedad, adoptando una posición crítica y proactiva hacia ellos."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Aplicar de forma apropiada y segura distintas técnicas y conocimientos",
+            "description": "Aplicar de forma apropiada y segura distintas técnicas y conocimientos interdisciplinarios utilizando operadores, sistemas tecnológicos y herramientas, teniendo en cuenta la planificación y el diseño previo para construir o fabricar soluciones tecnol…",
+            "criterios": [
+                {
+                    "code": "CE2.3",
+                    "description": "Analizar procesos de cambio histórico de relevancia a través del uso de diferentes fuentes de información, teniendo en cuenta las continuidades y permanencias en diferentes períodos y lugares."
+                },
+                {
+                    "code": "CE2.4",
+                    "description": "Identificar e interpretar la conexión de España y Galicia con los grandes procesos históricos (de las épocas medieval y moderna), valorando lo que supusieron para su evolución y señalando las aportaciones de sus habitantes a lo largo de la historia."
+                },
+                {
+                    "code": "CE3.2",
+                    "description": "Adquirir y construir conocimiento relevante del mundo actual y de la historia, a través de procesos inductivos, de la investigación y del trabajo por proyectos, retos o problemas, mediante la elaboración de productos que reflejen la comprensión de los fenómenos y problemas abordados."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Describir, representar e intercambiar ideas o soluciones a problemas",
+            "description": "Describir, representar e intercambiar ideas o soluciones a problemas tecnológicos o digitales, utilizando medios de representación, simbología y vocabulario idóneos, así como los instrumentos y los recursos disponibles, y valorando la utilidad de las…",
+            "criterios": [
+                {
+                    "code": "CE1.3",
+                    "description": "Valorar el grado de sostenibilidad y de equilibrio de los diferentes espacios y desde distintas escalas y analizar su transformación y degradación a través del tiempo por la acción humana en la explotación de los recursos, su relación con la evolución de la población y las estrategias desarrolladas para su control y dominio y los conflictos que provocó."
+                },
+                {
+                    "code": "CE1.4",
+                    "description": "Argumentar la necesidad de acciones de defensa, protección, conservación y mejora del entorno natural, rural y urbano a través de propuestas e iniciativas que reflejen compromisos y conductas en favor de la sostenibilidad y del reparto justo y solidario de los recursos."
+                },
+                {
+                    "code": "CE5.1",
+                    "description": "Representar y comunicar el proceso de creación de un producto desde su diseño hasta su difusión, elaborando documentación técnica y gráfica con la ayuda de herramientas digitales y empleando los formatos y el vocabulario técnico idóneos, de manera colaborativa, tanto presencialmente como en remoto."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Desarrollar algoritmos y aplicaciones informáticas en distintos entornos",
+            "description": "Desarrollar algoritmos y aplicaciones informáticas en distintos entornos, aplicando los principios del pensamiento computacional e incorporando las tecnologías emergentes, para crear soluciones a problemas concretos, automatizar procesos y aplicarlos…",
+            "criterios": [
+                {
+                    "code": "CE3.3",
+                    "description": "Señalar y explicar aquellas experiencias históricas más destacables, y anteriores a la época contemporánea, en las que se logró establecer sistemas políticos que favorecieron el ejercicio de derechos y libertades de los individuos y de la colectividad, considerándolas como antecedentes de las posteriores conquistas democráticas y referentes históricos de las libertades actuales."
+                },
+                {
+                    "code": "CE3.4",
+                    "description": "Mostrar actitudes pacíficas y respetuosas y asumir las normas como marco necesario para la convivencia, demostrando capacidad crítica e identificando y respondiendo de manera asertiva ante las situaciones de injusticia y desigualdad."
+                },
+                {
+                    "code": "CE4.1",
+                    "description": "Describir, interpretar y diseñar soluciones a problemas informáticos y\/o retos de robótica, aplicando los elementos y las técnicas de programación de manera creativa."
+                },
+                {
+                    "code": "CE4.2",
+                    "description": "Programar aplicaciones sencillas para distintos dispositivos (ordenadores, dispositivos móviles y otros) empleando los elementos de programación de manera apropiada y aplicando herramientas de edición y módulos de inteligencia artificial que añadan funcionalidades."
+                },
+                {
+                    "code": "CE4.3",
+                    "description": "Automatizar procesos, máquinas y sistemas, con la posibilidad de conexión a internet, mediante el análisis y la programación de robots y sistemas de control."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Comprender los fundamentos del funcionamiento de los dispositivos y",
+            "description": "Comprender los fundamentos del funcionamiento de los dispositivos y aplicaciones habituales de su entorno digital de aprendizaje, analizando sus componentes y funciones y ajustándolos a sus necesidades para hacer un uso más eficiente y seguro de los …",
+            "criterios": [
+                {
+                    "code": "CE1.5",
+                    "description": "Valorar la diversidad social y cultural, argumentando e interviniendo en favor de la inclusión, así como rechazando y actuando en contra de cualquier actitud o comportamiento discriminatorio basado en estereotipos."
+                },
+                {
+                    "code": "CE2.5",
+                    "description": "Reconocer las desigualdades sociales existentes en épocas pasadas y los mecanismos de dominación y control que se aplicaron, identificando aquellos grupos que se vieron sometidos y silenciados, destacando la presencia de mujeres y de personajes pertenecientes a otros colectivos discriminados."
+                },
+                {
+                    "code": "CE3.5",
+                    "description": "Valorar la diversidad social y cultural, argumentando e interviniendo en favor de la inclusión, así como rechazando y actuando en contra de cualquier actitud o comportamiento discriminatorio basado en estereotipos."
+                },
+                {
+                    "code": "CE5.2",
+                    "description": "Hacer un uso eficiente y seguro de los dispositivos digitales de uso cotidiano en la resolución de problemas sencillos conociendo los riesgos y adoptando medidas de seguridad para la protección de datos y equipos."
+                },
+                {
+                    "code": "CE5.3",
+                    "description": "Crear contenidos, elaborar materiales configurando correctamente las herramientas digitales habituales del entorno de aprendizaje, ajustándolas a sus necesidades y respetando los derechos de autor y la etiqueta digital."
+                },
+                {
+                    "code": "CE5.4",
+                    "description": "Organizar la información de manera estructurada aplicando técnicas de almacenamiento seguro."
+                },
+                {
+                    "code": "CE5.5",
+                    "description": "Adoptar medidas preventivas para la protección de los dispositivos, de los datos y de la salud personal, identificando problemas y riesgos relacionados con el uso de la tecnología y haciendo un análisis ético y crítico."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Hacer un uso responsable y ético de la tecnología, mostrando interés por un",
+            "description": "Hacer un uso responsable y ético de la tecnología, mostrando interés por un desarrollo sostenible, identificando sus repercusiones y valorando la contribución de las tecnologías emergentes para identificar las aportaciones y el impacto del desarrollo…",
+            "criterios": [
+                {
+                    "code": "CE2.6",
+                    "description": "Relacionar las culturas y civilizaciones que se desarrollaron a lo largo de la historia medieval y moderna con las diversas identidades colectivas que se fueron construyendo hasta la actualidad, reflexionando sobre los múltiples significados que adoptan y las aportaciones de cada una de ellas a la cultura humana universal."
+                },
+                {
+                    "code": "CE2.7",
+                    "description": "Identificar el origen histórico de distintas identidades colectivas que se desarrollaron en España y Galicia, interpretando el uso que se hizo de ellas y mostrando una actitud de respeto y tolerancia hacia los diferentes sentidos de pertenencia, promoviendo la solidaridad y la cohesión social."
+                },
+                {
+                    "code": "CE2.8",
+                    "description": "Valorar, proteger y conservar el patrimonio artístico, histórico y cultural como fundamento de la identidad colectiva local, autonómica, nacional, europea y universal, considerándolo un bien para el disfrute recreativo y cultural y un recurso para el desarrollo de los pueblos."
+                },
+                {
+                    "code": "CE3.6",
+                    "description": "Señalar los fundamentos de la idea de Europa a través de las diferentes experiencias históricas del pasado e identificar el legado histórico, institucional, artístico y cultural como patrimonio común de la ciudadanía europea."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Tomar conciencia del papel de los ciclos demográficos, el ciclo vital, las",
+            "description": "Tomar conciencia del papel de los ciclos demográficos, el ciclo vital, las formas de vida y las relaciones intergeneracionales y de dependencia en la sociedad actual y su evolución a lo largo del tiempo, analizándolas de forma crítica, para promover …",
+            "criterios": [
+                {
+                    "code": "CE1.6",
+                    "description": "Conocer e interpretar los comportamientos demográficos de la población, los cambios que experimentó y sus ciclos, identificando y analizando los principales problemas y retos a los que nos enfrentamos en el mundo y en España y Galicia."
+                },
+                {
+                    "code": "CE3.7",
+                    "description": "Tomar conciencia del ciclo vital y analizar como cambiaron sus características, necesidades y obligaciones en distintos momentos históricos, así como las raíces de la distribución por motivos de género del trabajo doméstico, asumiendo las responsabilidades y compromisos propios de la edad en el ámbito familiar, en el entorno escolar y en la comunidad, y valorando la riqueza que aportan las relaciones intergeneracionales."
+                }
+            ]
+        },
+        {
+            "code": "CE9",
+            "name": "Conocer y valorar la importancia de la seguridad integral ciudadana en la",
+            "description": "Conocer y valorar la importancia de la seguridad integral ciudadana en la cultura de convivencia nacional e internacional, reconociendo la contribución del Estado, sus instituciones y otras entidades sociales a la ciudadanía global, a la paz, a la co…",
+            "criterios": [
+                {
+                    "code": "CE1.7",
+                    "description": "Interpretar desde la perspectiva del desarrollo sostenible y de la ciudadanía global los principales desafíos del mundo actual, expresando la importancia de implicarse en la búsqueda de soluciones y en el modo de concretarlos desde su capacidad de acción tanto local como global, valorando la contribución del Estado, sus instituciones y las asociaciones civiles en programas y misión dirigidos por organismos nacionales e internacionales para el logro de la paz, la seguridad integral, la convivencia social y la cooperación entre los pueblos."
+                },
+                {
+                    "code": "CE3.8",
+                    "description": "Contribuir a la consecución de un mundo más seguro, justo, solidario y sostenible, a través del análisis de los principales conflictos del presente y el reconocimiento de las instituciones del Estado, y de las asociaciones civiles que garantizan la seguridad integral y la convivencia social, así como de los compromisos internacionales de nuestro país en favor de la paz, la seguridad, la cooperación, la sostenibilidad, los valores democráticos y los objetivos de desarrollo sostenible."
+                }
+            ]
+        }
+    ]
+}

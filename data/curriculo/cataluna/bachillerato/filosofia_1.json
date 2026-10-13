@@ -1,0 +1,108 @@
+{
+    "community": "cataluna",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "filosofia",
+    "subject_name": "Filosofía",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Avaluar i generar arguments a partir de l'anàlisi formal i informal, per",
+            "description": "Avaluar i generar arguments a partir de l'anàlisi formal i informal, per produir i valorar discursos orals i escrits de forma rigorosa, evitar dogmatismes, biaixos i fal·làcies i distingir els sabers que aporten certesa a l'hora de sostenir opinions …",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analiza la radicalidad de problemas filosóficos reformulándolos a partir de textos y otras expresiones culturales."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Produir rigorosament arguments, aplicant normes lògiques, retòriques i argumentatives, i detectant i evitant maneres dogmàtiques, fal·laces i esbiaixades per exposar les pròpies opinions i idees, tant oralment com per escrit."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Distingir entre els sabers que aporten certesa i aquells que no, a partir de la identificació"
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Interpretar, generar i comunicar qüestions filosòfiques a partir de la selecció",
+            "description": "Interpretar, generar i comunicar qüestions filosòfiques a partir de la selecció i l'anàlisi rigorosa de fonts per produir i transmetre judicis i tesis personals i desenvolupar una actitud indagadora, autònoma, rigorosa i creativa en l'àmbit de la ref…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Aplicar procedimientos básicos de investigación filosófica: identificar fuentes fiables, buscar, organizar, analizar, interpretar, evaluar, producir y comunicar información."
+                },
+                {
+                    "code": "2.2",
+                    "description": "El alumnado elabora y comunica un producto filosófico original (investigación, disertación o comentario) demostrando actitud indagadora y autónoma."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Reconèixer i aplicar les normes de l'argumentació i del diàleg filosòfic, en",
+            "description": "Reconèixer i aplicar les normes de l'argumentació i del diàleg filosòfic, en diferents suports i activitats, per expressar-se amb rigor argumentatiu i desenvolupar el diàleg respectuós i constructiu amb els altres.",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Producir y evaluar discursos argumentativos orales y escritos sobre problemas filosóficos aplicando normas lógicas y retóricas."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Detectar y explicar falacias y sesgos en argumentos para evitar dogmatismos y opiniones sesgadas."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Aplicar principios de cooperación, verdad y pluralidad al argumentar, evitando dogmatismo y discriminación."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Reconèixer com els problemes filosòfics s'han plantejat en les diferents",
+            "description": "Reconèixer com els problemes filosòfics s'han plantejat en les diferents èpoques i les autores i els autors, i comparar-ho, a partir de l'anàlisi i la interpretació de textos i altres formes d'expressió filosòfica i cultural, per reconèixer la radica…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Participar en diálogos filosóficos respetuosos y críticos para contrastar ideas y ejercer ciudadanía activa."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Valorar la radicalitat i la transcendència dels problemes filosòfics mitjançant el"
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Avaluar de manera global, sistèmica i transdisciplinària problemes ètics i",
+            "description": "Avaluar de manera global, sistèmica i transdisciplinària problemes ètics i polítics fonamentals i d'actualitat analitzant-los filosòficament per poder tractar-los de manera creativa i prendre una posició.",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Analizar tesis filosóficas opuestas y elaborar una posición compleja y no dogmática."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Explica y compara distintas teorías filosóficas como parte de un diálogo abierto y dinámico."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Desenvolupar la sensibilitat i la comprensió crítica de l'art i altres",
+            "description": "Desenvolupar la sensibilitat i la comprensió crítica de l'art i altres manifestacions amb valor estètic a partir de les principals idees filosòfiques sobre la bellesa i la creació artística per contribuir a l'educació estètica.",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Analizar ideas filosóficas en textos diversos y relacionarlas con experiencias y acontecimientos actuales."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Aplica y analiza críticamente ideas filosóficas de pensadores clave en contextos de indagación."
+                }
+            ]
+        }
+    ]
+}

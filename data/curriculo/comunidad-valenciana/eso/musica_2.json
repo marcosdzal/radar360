@@ -1,0 +1,109 @@
+{
+    "community": "comunidad-valenciana",
+    "stage": "eso",
+    "decree": "Decreto 107\/2022, de 5 de agosto",
+    "subject": "musica",
+    "subject_name": "Música",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Analitzar propostes musicals, corporals i multidisciplinàries de diferents",
+            "description": "Analitzar propostes musicals, corporals i multidisciplinàries de diferents èpoques i estils per mitjà de la percepció activa, relacionant els elements estructurals i tècnics, amb sentit crític i valorant la diversitat cultural que representen. 2.1.1.…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Reconocer y describir las características sonoras y estéticas de piezas musicales de diversos periodos históricos y culturas mediante la escucha atenta y respetuosa."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Explicar la función social y cultural de obras musicales y de danza, vinculándolas razonadamente con su contexto histórico y mostrando respeto por la diversidad."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Comparar manifestaciones musicales y dancísticas de distintas épocas para identificar su influencia y pervivencia en los estilos y géneros musicales actuales."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Relacionar els elements, les característiques i les representacions gràfiques",
+            "description": "Relacionar els elements, les característiques i les representacions gràfiques del so, els instruments i la veu a partir de l'anàlisi auditiva i visual amb el plantejament de solucions a les agressions acústiques de l'entorn. 2.2.1. Descripció de la c…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Improvisar de forma creativa y guiada utilizando la voz, el cuerpo, instrumentos o tecnología para explorar diversas técnicas expresivas musicales y de danza."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Improvisar de forma pautada empleando recursos musicales y dancísticos para comunicar emociones o ideas, eligiendo las técnicas más adecuadas al propósito expresivo."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Aplicar solucions a les agressions acústiques de l'entorn pròxim mitjançant l'anàlisi, la reflexió i la sensibilització."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Construir propostes musicals basades en la interpretació, la improvisació i",
+            "description": "Construir propostes musicals basades en la interpretació, la improvisació i l'experimentació a partir de les possibilitats expressives i comunicatives del so, el cos i els mitjans digitals mitjançant processos individuals i col·lectius. 2.3.1. Descri…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Interpretar partituras de baja complejidad reconociendo sus elementos técnicos básicos, como figuras y notas, contando con el apoyo del docente o de grabaciones de audio."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Interpretar piezas musicales o danzas sencillas aplicando técnicas básicas de voz o instrumentos, memorizando la obra y mostrando una actitud constructiva en los ensayos."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Interpretar obras musicales o danzas sencillas de forma individual y grupal, controlando los nervios y manteniendo la atención durante la ejecución técnica."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Expressar idees, sentiments i emocions sobre les propostes realitzades, mostrant respecte davant de les manifestacions realitzades."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Crear projectes musicals i interdisciplinaris mitjançant el disseny, la",
+            "description": "Crear projectes musicals i interdisciplinaris mitjançant el disseny, la planificació i l'execució experimentant amb diferents rols, desenvolupant la capacitat crítica, amb una valoració tant el procés com el resultat. 2.4.1. Descripció de la competèn…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Diseñar y realizar proyectos musicales o coreográficos, de forma individual o grupal, utilizando diversos instrumentos, la voz y herramientas tecnológicas para expresar ideas creativas."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Participar en la creación y ejecución de proyectos musicales grupales, colaborando activamente en los ensayos y valorando el trabajo en equipo para el crecimiento personal."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Aplicar els coneixements adquirits en diferents disciplines en la creació de projectes artístics, mostrant interés i iniciativa."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Aplicar recursos digitals a l'escolta, la interpretació, la investigació, la",
+            "description": "Aplicar recursos digitals a l'escolta, la interpretació, la investigació, la creació i la difusió de produccions musicals, adoptant una actitud responsable i d'acord amb la normativa vigent. 2.5.1. Descripció de la competència 5. En la societat actua…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Seleccionar informació i recursos en diferents aplicacions, webs i plataformes digitals de manera contrastada, valorant la informació que presenten de manera crítica i responsable."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Utilitzar recursos digitals i de les TIC per a l'edició, la gravació i la reproducció del so i la imatge, així com en els processos de percepció, interpretació, investigació, creació i difusió dels projectes musicals i interdisciplinaris realitzats."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Exercir un consum digital responsable en les diferents fases dels projectes artístics, respectant les llicències d'ús i la normativa vigent de protecció de dades i autoria."
+                }
+            ]
+        }
+    ]
+}

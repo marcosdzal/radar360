@@ -157,6 +157,7 @@ function xmldb_local_sentinel_upgrade($oldversion) {
         $table->add_field('id', XMLDB_TYPE_INTEGER, '10', null, XMLDB_NOTNULL, XMLDB_SEQUENCE);
         $table->add_field('grade_category_id', XMLDB_TYPE_INTEGER, '10', null, XMLDB_NOTNULL);
         $table->add_field('descriptorcode', XMLDB_TYPE_CHAR, '10', null, XMLDB_NOTNULL);
+        $table->add_field('source', XMLDB_TYPE_CHAR, '10', null, XMLDB_NOTNULL, null, 'manual');
         $table->add_key('primary', XMLDB_KEY_PRIMARY, ['id']);
         $table->add_key('uq_cat_descriptor', XMLDB_KEY_UNIQUE, ['grade_category_id', 'descriptorcode']);
         $table->add_index('ix_grade_category_id', XMLDB_INDEX_NOTUNIQUE, ['grade_category_id']);
@@ -167,7 +168,69 @@ function xmldb_local_sentinel_upgrade($oldversion) {
         upgrade_plugin_savepoint(true, 2024010207, 'local', 'sentinel');
     }
 
+    if ($oldversion < 2024010208) {
+        // Register new capabilities before creating the role that uses them.
+        update_capabilities('local_sentinel');
+        sentinel_create_tutor_role();
+        upgrade_plugin_savepoint(true, 2024010208, 'local', 'sentinel');
+    }
+
+    if ($oldversion < 2024010212) {
+        $DB->execute(
+            "UPDATE {grade_categories} SET fullname = ? WHERE fullname = ?",
+            ['Actividades (Radar 360)', 'Actividades (Sentinel)']
+        );
+        upgrade_plugin_savepoint(true, 2024010212, 'local', 'sentinel');
+    }
+
+    if ($oldversion < 2024010227) {
+        $table = new xmldb_table('local_sentinel_cat_descriptor');
+        $field = new xmldb_field('source', XMLDB_TYPE_CHAR, '10', null, XMLDB_NOTNULL, null, 'manual');
+        if (!$dbman->field_exists($table, $field)) {
+            $dbman->add_field($table, $field);
+        }
+        upgrade_plugin_savepoint(true, 2024010227, 'local', 'sentinel');
+    }
+
     return true;
+}
+
+/**
+ * Creates the "Tutor" role based on the teacher archetype, with Sentinel
+ * capabilities enabled and grading capabilities prevented.
+ *
+ * A Tutor can view the full competency report, upload photos and manage
+ * communication periods. They can see all grades but cannot grade unless
+ * they also hold the Teacher role in that course (ALLOW overrides PREVENT).
+ */
+function sentinel_create_tutor_role(): void {
+    global $DB;
+
+    if ($DB->record_exists('role', ['shortname' => 'tutor'])) {
+        return;
+    }
+
+    $roleid = create_role(
+        'Tutor',
+        'tutor',
+        'Tutor del grupo: puede ver el perfil competencial completo del alumnado, gestionar fotos y comunicaciones a familias, pero solo califica en los cursos donde también es profesor.',
+        'teacher'
+    );
+
+    set_role_contextlevels($roleid, [CONTEXT_COURSE, CONTEXT_SYSTEM]);
+
+    $sysctxid = \context_system::instance()->id;
+
+    // Sentinel capabilities — ALLOW.
+    assign_capability('local/sentinel:viewstudentreport', CAP_ALLOW, $roleid, $sysctxid, true);
+    assign_capability('local/sentinel:managephotos',      CAP_ALLOW, $roleid, $sysctxid, true);
+    assign_capability('local/sentinel:communicate',       CAP_ALLOW, $roleid, $sysctxid, true);
+
+    // Prevent grading so a pure Tutor cannot grade.
+    // If the user also has the Teacher role, its ALLOW overrides this PREVENT.
+    assign_capability('mod/assign:grade',    CAP_PREVENT, $roleid, $sysctxid, true);
+    assign_capability('moodle/grade:edit',   CAP_PREVENT, $roleid, $sysctxid, true);
+    assign_capability('moodle/grade:manage', CAP_PREVENT, $roleid, $sysctxid, true);
 }
 
 /**

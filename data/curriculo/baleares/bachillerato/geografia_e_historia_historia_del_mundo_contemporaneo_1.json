@@ -1,0 +1,134 @@
+{
+    "community": "baleares",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "geografia_e_historia_historia_del_mundo_contemporaneo",
+    "subject_name": "Historia del Mundo Contemporáneo",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Reconèixer els moviments, accions i transformacions històriques que han",
+            "description": "Reconèixer els moviments, accions i transformacions històriques que han contribuït al fiançament de la llibertat en el món contemporani, a través de l'estudi comparat de casos i l'ús correcte de termes i conceptes històrics, per valorar els assolimen…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar cómo los sistemas democráticos actuales son resultado no lineal de procesos históricos."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Analizar conceptos de revolución y cambio mediante estudio comparado de revoluciones burguesas y socialistas."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Prendre consciència del grau de violència, barbàrie i destrucció dels",
+            "description": "Prendre consciència del grau de violència, barbàrie i destrucció dels conflictes de l'Edat Contemporània, a través de l'ús de fonts històriques fiables, la lectura de textos historiogràfics i l'elaboració d'arguments propis que previnguin la manipula…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Analizar la violencia en conflictos contemporáneos usando fuentes fiables y argumentar sobre el papel de las instituciones de paz."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Analiza conflictos civiles contemporáneos mediante textos historiográficos y elabora juicios argumentados sobre memoria histórica y justicia universal."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Identificar la desigualtat com un dels principals problemes de les societats",
+            "description": "Identificar la desigualtat com un dels principals problemes de les societats contemporànies, reconeixent les experiències històriques de determinats col·lectius, emprant l'anàlisi multicausal i valorant el paper transformador del subjecte en la histò…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Descriure l'evolució dels conceptes d'igualtat i de ciutadania en la història contemporània i les seves derivacions socials i polítiques, a través de l'anàlisi multicausal dels principals sistemes polítics i socials dels segles XIX i XX, identificant les desigualtats i la concentració del poder en determinats grups socials."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Analizar condiciones laborales y conflictividad mediante movimientos obreros, valorando la acción colectiva y el sujeto histórico."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Analizar la evolución del estado social mediante el estudio crítico de noticias y datos estadísticos."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Comprendre la importància de les identitats col·lectives en la configuració",
+            "description": "Comprendre la importància de les identitats col·lectives en la configuració social, política i cultural del món contemporani, utilitzant el pensament històric, els seus conceptes i mètodes, per analitzar críticament com s'han construït i conformat a …",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Analizar críticamente la construcción histórica de identidades colectivas, respetando la pluralidad y valorando el legado cultural."
+                },
+                {
+                    "code": "4.2",
+                    "description": "El alumnado elabora argumentos propios sobre la construcción de identidades colectivas mediante el análisis crítico de fuentes."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Identificar i reconèixer els principals reptes del segle XXI a través de",
+            "description": "Identificar i reconèixer els principals reptes del segle XXI a través de processos avançats de cerca, selecció i tractament de la informació, el contrast i la lectura crítica de fonts, per entendre el fenomen històric de la globalització, la seva rep…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Analizar críticamente la globalización contrastando fuentes para evitar desinformación y proponer compromisos ecosociales."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Analizar retos del siglo XXI y su origen histórico, argumentando la necesidad de comportamientos ecosocialmente responsables."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Valorar el significat històric de la idea de progrés i les seves repercussions",
+            "description": "Valorar el significat històric de la idea de progrés i les seves repercussions socials, ambientals i territorials en el món contemporani, a través de l'ús de mètodes quantitatius i de l'anàlisi multifactorial del desenvolupament econòmic, els ritmes …",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Argumentar sobre el progreso y sus consecuencias sociales, ambientales y territoriales usando datos y gráficos, defendiendo comportamientos sostenibles."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Compara sistemas económicos contemporáneos y justifica la necesidad de acceso universal a recursos básicos."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Interpretar la funció que han exercit el pensament i les ideologies en la",
+            "description": "Interpretar la funció que han exercit el pensament i les ideologies en la transformació de la realitat des dels orígens de l'Edat Contemporània fins a l'actualitat, a través de l'aproximació a la historiografia i als debats sobre temes clau de la his…",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Argumentar y debatir sobre el papel de las ideologías en la historia contemporánea usando fuentes variadas."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Evaluar críticamente temas históricos y actuales mediante corrientes historiográficas y usos de la historia, desde la ética de la DUDH."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Descriure i analitzar els canvis i permanències que s'han produït en la",
+            "description": "Descriure i analitzar els canvis i permanències que s'han produït en la societat contemporània, els comportaments demogràfics, les maneres de vida i el cicle vital, prestant especial interès a la situació de la dona, als rols de gènere i d'edat, als …",
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Analizar cambios y permanencias demográficas, de género y lucha por la dignidad en la sociedad contemporánea mediante proyectos de investigación."
+                },
+                {
+                    "code": "8.2",
+                    "description": "Contrastar el papel relegado de la mujer en la historia contemporánea, identificando a protagonistas anónimas y el impacto de los movimientos feministas en la igualdad y corresponsabilidad."
+                }
+            ]
+        }
+    ]
+}

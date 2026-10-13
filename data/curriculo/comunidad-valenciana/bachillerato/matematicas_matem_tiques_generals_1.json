@@ -1,0 +1,182 @@
+{
+    "community": "comunidad-valenciana",
+    "stage": "bachillerato",
+    "decree": "Decreto 108\/2022, de 5 de agosto",
+    "subject": "matematicas_matem_tiques_generals",
+    "subject_name": "Matemàtiques Generals",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Resoldre problemes relacionats amb situacions reals d’importància social,",
+            "description": "Resoldre problemes relacionats amb situacions reals d’importància social, cultural o científica, utilitzant estratègies formals que permeten la generalització de conceptes i l’abstracció de les solucions, i comprovant la seua validesa",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Extraure i interpretar la informació necessària de l enunciat de problemes relacionats amb la vida quotidiana i dels àmbits cultural, social i científic, estructurant el procés de resolució atenent criteris d eficàcia i senzillesa."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Resoldre problemes relacionats amb els desafiaments del segle XXI, implementant les estratègies formals que siguen necessàries per a la seua resolució, mobilitzant de manera adequada i justificada els conceptes, procediments i actituds implicats."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Revisar, validar o rectificar les solucions o conclusions obtingudes, emprant aplicacions de geometria dinàmica, càlcul numèric o simbòlic per a simular els processos de resolució, i facilitant la interpretació i validació de resultats."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Analitzar críticament els procediments de resolució seguits i aprendre dels errors comesos, incorporant alternatives i transferint-les a altres problemes similars, sistematitzant i generalitzant el procés de resolució. 5.2. Competència 2. Explorar, formular i generalitzar conjectures i propietats matemàtiques, fent demostracions senzilles i simulacions amb suport d eines tecnològiques, i reconeixent, connectant i integrant els procediments i estructures implicats en el raonament."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Explorar, formular i generalitzar conjectures i propietats matemàtiques, fent",
+            "description": "Explorar, formular i generalitzar conjectures i propietats matemàtiques, fent demostracions senzilles i simulacions amb suport d’eines tecnològiques, i reconeixent, connectant i integrant els procediments i les estructures implicats en el raonament",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Establir connexions entre situacions rellevants del segle XXI i conceptes matemàtics abstractes a partir del plantejament de preguntes i la formulació d hipòtesis."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Usar analogies, patrons, contraexemples o altres estratègies per a confirmar o descartar hipòtesis i conjectures que permeten aprofundir en situacions rellevants dels àmbits social, cultural i científic."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Connectar diferents conceptes i procediments matemàtics argumentant el raonament emprat."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Usar de manera adequada diferents eines tecnològiques que faciliten la interpretació de propietats matemàtiques."
+                },
+                {
+                    "code": "2.5",
+                    "description": "Generalitzar alguns arguments per a fer demostracions senzilles sobre algunes propietats fonamentals. 5.3. Competència 3. Modelitzar situacions reals i fenòmens rellevants per a la societat, investigant i construint connexions amb altres àrees del coneixement, i integrant de manera interdisciplinària conceptes i procediments matemàtics i extramatemàtics."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Modelitzar situacions reals i fenòmens rellevants per a la societat,",
+            "description": "Modelitzar situacions reals i fenòmens rellevants per a la societat, investigant i construint connexions amb altres àrees del coneixement, i integrant de manera interdisciplinària conceptes i procediments matemàtics i extramatemàtics",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Establir i aplicar de manera adequada les connexions entre els sabers propis de les matemàtiques i els d altres disciplines, buscant, formalitzant o quantificant les variables i les relacions que intervenen sobre situacions concretes susceptibles de ser modelitzades."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Assumir hipòtesis sobre aspectes desconeguts o no determinats i realitzar simplificacions que permeten estructurar i elaborar un model d una situació real."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Obtindre la solució o resultats a partir del model matemàtic d una situació interdisciplinària real, i interpretar els resultats validant-los i contrastant-los amb la situació real."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Realitzar inferències sobre les propietats més rellevants de fenòmens reals a partir de la seua modelització matemàtica."
+                },
+                {
+                    "code": "3.5",
+                    "description": "Usar eines TIC per a elaborar models matemàtics de fenòmens reals, fer simulacions, realitzar prediccions i prendre decisions. 5.4. Competència 4. Dissenyar, modificar i implementar algorismes computacionals emprant eines tecnològiques, per a organitzar dades i modelitzar de manera eficient situacions reals i fenòmens que faciliten la resolució de problemes i desafiaments rellevants per a la societat."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Dissenyar, modificar i implementar algorismes computacionals emprant eines",
+            "description": "Dissenyar, modificar i implementar algorismes computacionals emprant eines tecnològiques, per a organitzar dades i modelitzar de manera eficient situacions reals i fenòmens que faciliten la resolució de problemes i desafiaments rellevants per a la so…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Analitzar i interpretar els elements necessaris per a la implementació de l algorisme de resolució d un problema donat, ordenant, classificant i organitzant les dades amb un llenguatge adequat."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Triar les estratègies adequades per a la correcta resolució de problemes o demostració de propietats, descomponent i estructurant les seues parts mitjançant algorismes, i analitzant les diferents opcions que es plantegen."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Crear i editar continguts digitals que faciliten la resolució i comprensió de problemes, emprant quan calga la calculadora i els fulls de càlcul. 5.5. Competència 5. Manejar amb precisió el simbolisme matemàtic, fent transformacions i conversions entre tot tipus de representacions que permeten estructurar els raonaments i processos matemàtics implicats en situacions rellevants per a la societat."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Manejar amb precisió el simbolisme matemàtic, fent transformacions i",
+            "description": "Manejar amb precisió el simbolisme matemàtic, fent transformacions i conversions entre tot tipus de representacions que permeten estructurar els raonaments i processos matemàtics implicats en situacions rellevants per a la societat",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Seleccionar el simbolisme adequat per a descriure matemàticament situacions relacionades amb els reptes del segle XXI o rellevants en els àmbits científic, cultural o social."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Usar de manera adequada la terminologia conceptual i les formes de representació simbòliques que resulten necessàries per a formalitzar amb precisió els conceptes matemàtics."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Realitzar conversions entre les representacions simbòliques que permeten estructurar els raonaments i processos matemàtics implicats en situacions rellevants dels àmbits científic, cultural i social, així com en els desafiaments del segle XXI. 5.6. Competència 6. Comunicar i intercanviar idees matemàtiques utilitzant el suport, la terminologia i el rigor adequats, per a argumentar amb claredat i de manera estructurada sobre característiques, conceptes, procediments i resultats en els quals les matemàtiques tenen un paper rellevant."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Comunicar i intercanviar idees matemàtiques usant el suport, la terminologia i",
+            "description": "Comunicar i intercanviar idees matemàtiques usant el suport, la terminologia i el rigor adequats, per a argumentar amb claredat i de manera estructurada sobre característiques, conceptes, procediments i resultats en els quals les matemàtiques tenen u…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Interpretar i produir correctament missatges amb i sobre matemàtiques, debatent i intercanviant idees i enriquint el discurs amb les idees dels altres o l ús de les eines TIC."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Comunicar idees matemàtiques recorrent al coneixement de conceptes, procediments i al llenguatge matemàtic de manera estructurada."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Utilitzar formes d expressió matemàtica precises i rigoroses per a comunicar significats i matisos ajustats a les característiques pròpies dels contextos de comunicació. 5.7. Competència 7. Conéixer i valorar la contribució de les matemàtiques a la cultura, identificant i contextualitzant les seues aportacions al llarg de la història, i reconeixent la seua utilitat i el seu interés per a explorar i interaccionar amb la realitat, i la seua importància en els avanços significatius per a la societat."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Conéixer i valorar la contribució de les matemàtiques a la cultura,",
+            "description": "Conéixer i valorar la contribució de les matemàtiques a la cultura, identificant i contextualitzant les seues aportacions al llarg de la història, i reconeixent la seua utilitat i el seu interés per a explorar i interaccionar amb la realitat, i la se…",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Identificar i descriure el contingut matemàtic present en situacions reals i, en particular, en fenòmens rellevants dels àmbits cultural, social i científic."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Valorar la importància del desenvolupament de les matemàtiques com a eina per a l avanç de la humanitat al llarg de la història."
+                },
+                {
+                    "code": "7.3",
+                    "description": "Valorar les matemàtiques com a vehicle per a la resolució de problemes relacionats amb els desafiaments del segle XXI. 5.8. Competència 8. Gestionar i regular les emocions, creences i actituds implicades en els processos matemàtics, de manera individual i col·lectiva, assumint amb confiança la incertesa, les dificultats i els errors que aquests processos comporten, i regular l atenció per a perseverar en els processos d aprenentatge i adaptar-los amb èxit a situacions diverses."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Gestionar i regular les emocions, creences i actituds implicades en els",
+            "description": "Gestionar i regular les emocions, creences i actituds implicades en els processos matemàtics, de manera individual i col·lectiva, assumint amb confiança la incertesa, les dificultats i els errors que aquests processos comporten, i regulant l’atenció …",
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Regular les emocions, actituds i processos cognitius propis implicats en enfrontar-se a situacions d aprenentatge complexes relacionades amb les matemàtiques."
+                },
+                {
+                    "code": "8.2",
+                    "description": "Mostrar una disposició favorable cap a l aprenentatge de les matemàtiques i cap a les pròpies capacitats tant en el treball individual com col·laboratiu."
+                },
+                {
+                    "code": "8.3",
+                    "description": "Abordar els errors com a oportunitats d aprenentatge i desenvolupar un ús flexible i adaptable dels processos matemàtics per a evitar el bloqueig en situacions problemàtiques i millorar el treball en equip."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "community": "castilla-y-leon",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "coro_tecnica_vocal_1",
+    "subject_name": "Coro y Técnica Vocal I",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "1.1 Analizar piezas vocales explicando de manera razonada las cualidades que",
+            "description": "1.1 Analizar piezas vocales explicando de manera razonada las cualidades que las hacen afines a un estilo, a un género o a una cultura, así como otras características de la interpretación y de la puesta en escena. (CCLC1, CCLC2, CP3, CD1, CPSAA1.1, C…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar piezas vocales explicando por qué pertenecen a un estilo, género o cultura, y comentar la interpretación y puesta en escena."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Valorar la influencia e importancia de la música vocal a lo largo de la historia y en la actualidad, analizando críticamente su relación con la cultura y la sociedad. ("
+                },
+                {
+                    "code": "1.3",
+                    "description": "Atender activamente a manifestaciones musicales con intervenciones vocales, diferenciando géneros y estilos, mostrando interés por ampliar sus gustos y enriquecer la interpretación. (CCL1, CPSAA1.1, CC3, CCEC1, CCEC2, CCEC3.1)"
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "2.1 Realizar ejercicios e improvisaciones, adecuadas a su nivel",
+            "description": "2.1 Realizar ejercicios e improvisaciones, adecuadas a su nivel, para el desarrollo de la escucha activa y de la capacidad vocal, aplicando técnicas vocales y corporales sanas, y reforzando la autoestima y la autoconfianza. (CCL2, CCL5, CPSAA2, CPSAA…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Realizar ejercicios e improvisaciones vocales con técnicas sanas, reforzando autoestima y autoconfianza."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Experimentar las posibilidades interpretativas de la voz y del cuerpo, valorando la importancia de los hábitos corporales y de la técnica vocal. CPSAA2, CPSAA3.1, CE2, CCEC3.2)"
+                },
+                {
+                    "code": "2.3",
+                    "description": "Valorar la práctica vocal y corporal como forma de expresión musical y disfrute, y como instrumento de comunicación, utilizando fuentes musicales de notación convencional y no convencional como apoyo a la interpretación. CPSAA3.1, CC1, CC3, CE2, CCEC3.1)"
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "3.1 Participar como intérprete de coro, demostrando eficacia, escucha activa y",
+            "description": "3.1 Participar como intérprete de coro, demostrando eficacia, escucha activa y una expresión vocal y corporal adecuada al servicio del conjunto y a las directrices de la dirección. (CCL2, CP1, CPSAA1.1, CPSAA1.3, CE2, CCEC1, CCEC3.2, CCEC4.2) 3.2 Int…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Interpretar piezas en coro mostrando eficacia, escucha activa y expresión vocal y corporal adecuada al conjunto."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Interpretar diferentes piezas vocales de forma colaborativa produciendo una calidad de sonido adecuada con precisión técnica y expresividad artística. CPSAA1.1, CPSAA3.1, CCEC3.1, CCEC3.2, CCEC4.2)"
+                },
+                {
+                    "code": "3.3",
+                    "description": "Demostrar el grado de desarrollo de la capacidad de escucha polifónica, valorando la propia voz y la del conjunto. (CPSAA1.1, CPSAA3.1, CC1, CE2, CCEC3.2)"
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "4.1 Mostrar, en la actuación, una actitud escénica adecuada y respeto por el público",
+            "description": "4.1 Mostrar, en la actuación, una actitud escénica adecuada y respeto por el público. (CPSAA1.1, CPSAA1.2, CE1, CCEC3.1) 4.2 Participar activamente en el montaje de proyectos escénicos con responsabilidad y conciencia de grupo. (CCL3, STEM3, CD3, CD4…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Mostrar durante la actuación una actitud escénica adecuada y respeto por el público."
+                },
+                {
+                    "code": "4.2",
+                    "description": "El alumnado colabora activamente en el montaje de proyectos escénicos mostrando responsabilidad y trabajo en equipo."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Integrar de forma abierta los diferentes conocimientos adquiridos previamente sobre la voz y el canto para crear proyectos innovadores que utilicen diversos soportes audiovisuales. (CCL3, STEM3, CD3, CD4, CD5, CPSAA1.1, CC3, CE1, CCEC4.1, CCEC4.2)"
+                },
+                {
+                    "code": "4.4",
+                    "description": "Relacionar inclusivamente las oportunidades artísticas actuales mediante el conocimiento de iniciativas musicales y su impacto social y económico. CPSAA1.1, CPSAA1.2, CC3, CE1, CCEC3.1)"
+                },
+                {
+                    "code": "4.5",
+                    "description": "Apreciar los beneficios que tiene la interpretación del canto coral para la educación general, considerándolo un acto social en todas las culturas. CPSAA1.2, CC3, CE1, CCEC3.1)"
+                }
+            ]
+        }
+    ]
+}

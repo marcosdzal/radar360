@@ -1,0 +1,112 @@
+{
+    "community": "baleares",
+    "stage": "eso",
+    "decree": "",
+    "subject": "fisica_y_quimica_fisica_y_quimica",
+    "subject_name": "Física y Química",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Comprendre i relacionar els motius pels quals ocorren els principals fenòmens",
+            "description": "Comprendre i relacionar els motius pels quals ocorren els principals fenòmens fisicoquímics de l'entorn, explicant-los en termes de les lleis i teories científiques adequades per resoldre problemes, amb la finalitat d'aplicar-les per millorar la real…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Explicar fenómenos del entorno mediante leyes científicas, comunicando los resultados de forma argumentada a través de diferentes formatos y soportes digitales o analógicos."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Resolver problemas científicos aplicando leyes y teorías, justificando los pasos seguidos y expresando los resultados con las unidades de medida correctas."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Identificar problemas reales del entorno que requieran soluciones científicas, proponiendo iniciativas basadas en la física y la química y analizando su impacto social."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Expressar les observacions realitzades pels alumnes en forma de preguntes,",
+            "description": "Expressar les observacions realitzades pels alumnes en forma de preguntes, formulant hipòtesis per explicar-les i demostrant aquestes hipòtesis a través de l'experimentació científica, la indagació i la cerca d'evidències, per desenvolupar els raonam…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Aplicar el método científico para investigar fenómenos naturales mediante preguntas, hipótesis y experimentación, distinguiendo claramente entre explicaciones basadas en evidencias y afirmaciones pseudocientíficas."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Diseñar y seleccionar estrategias de investigación o experimentos adecuados para validar o rechazar hipótesis científicas basadas en preguntas sobre fenómenos naturales."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Diseñar experimentos y proponer hipótesis fundamentadas en leyes científicas para resolver problemas o comprobar fenómenos observados en el entorno cotidiano o de laboratorio."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Manejar amb desimboltura les regles i normes bàsiques de la física i la química",
+            "description": "Manejar amb desimboltura les regles i normes bàsiques de la física i la química en referència al llenguatge de la IUPAC, al llenguatge matemàtic, a l'ús d'unitats de mesura correctes, a l'ús segur del laboratori i a la interpretació i producció de da…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Interpretar y comunicar información de procesos fisicoquímicos analizando datos en diversos formatos, como tablas o gráficas, para extraer conclusiones y resolver problemas científicos."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Aplicar correctamente las normas de nomenclatura IUPAC, el sistema internacional de unidades y herramientas matemáticas básicas para resolver problemas y comunicar resultados científicos con rigor."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Aplicar las normas de seguridad, higiene y cuidado del material en el laboratorio para realizar un trabajo experimental seguro, responsable y sostenible."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Utilitzar de manera crítica, eficient i segura plataformes digitals i recursos",
+            "description": "Utilitzar de manera crítica, eficient i segura plataformes digitals i recursos variats, tant per al treball individual com en equip, per fomentar la creativitat, el desenvolupament personal i l'aprenentatge individual i social, mitjançant la consulta…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Emplear herramientas digitales y bibliográficas para investigar contenidos científicos de forma autónoma, colaborando con respeto y evaluando críticamente las aportaciones del grupo."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Seleccionar información científica de fuentes fiables, tanto digitales como analógicas, para elaborar contenidos propios que favorezcan el aprendizaje individual y del grupo."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Utilitzar les estratègies pròpies del treball col·laboratiu que permetin",
+            "description": "Utilitzar les estratègies pròpies del treball col·laboratiu que permetin potenciar el creixement entre iguals com a base emprenedora d'una comunitat científica crítica, ètica i eficient, per comprendre la importància de la ciència en la millora de la…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Participar en equipos de trabajo para resolver problemas científicos de forma ética y cooperativa, fomentando la igualdad y la eficiencia en el laboratorio o aula."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Desarrollar proyectos científicos guiados que aporten soluciones a problemas sociales o ambientales, aplicando el método científico para generar un impacto positivo en su entorno."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Comprendre i valorar la ciència com una construcció col·lectiva en continu",
+            "description": "Comprendre i valorar la ciència com una construcció col·lectiva en continu canvi i evolució, en la qual no sols participen les persones que s'hi dediquen, sinó que també requereix d'una interacció amb la resta de la societat, per obtenir resultats qu…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Analizar la evolución histórica de la ciencia y sus descubrimientos, destacando la contribución de hombres y mujeres y el impacto social, tecnológico y ambiental resultante."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Identificar necesidades tecnológicas y ambientales del entorno, analizando cómo la ciencia ofrece soluciones sostenibles y el papel fundamental de la participación ciudadana en este proceso."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "community": "baleares",
+    "stage": "eso",
+    "decree": "",
+    "subject": "latin_llati",
+    "subject_name": "Llatí",
+    "grade": 4,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Valorar el paper de la civilitzacio llatina en l'origen de la identitat",
+            "description": "valorar el paper de la civilitzacio llatina en l'origen de la identitat europea, comparant i reconeixent les semblances i diferències entre llengües i cultures, per analitzar críticament el present. La valoració del paper de la civilització llatina c…",
+            "criterios": [
+                {
+                    "code": "CA1.1",
+                    "description": "Descriure el significat de productes culturals del present, en el context dels desenvolupaments culturals a Europa, comparant les semblances i diferències amb l'antiguitat llatina. - Descriure el significat de productes culturals actuals dins l'àmbit europeu i la seva relació amb la Roma antiga. - Reconèixer les semblances i diferències entre l'Europa actual i l'antiguitat romana."
+                },
+                {
+                    "code": "CA1.2",
+                    "description": "Valorar de manera crítica les formes de vida, costums i actituds de la societat romana en comparació amb els de les nostres societats a partir del contingut de fonts llatines en diferents suports. - Entendre els trets que caracteritzen les maneres de vida, costums i actituds de la societat romana mitjançant la lectura i anàlisi de fonts antigues en diferents suports. - Analitzar els trets principals de la societat romana comparant-los amb els de les nostres societats. - Valorar, amb esperit crític, el modus vivendi i els trets de la societat romana en comparació amb la nostra societat."
+                },
+                {
+                    "code": "CA1.3",
+                    "description": "Identificar els períodes de la història de Roma, els esdeveniments i personatges, com també els aspectes de la civilització romana en el seu context històric, relacionant les dades amb referents actuals i aplicant els coneixements adquirits. - Identificar els principals períodes de la història de Roma relacionant-los amb els principals fets i llegendes que s'hi esdevenen. - Explicar els principals personatges llegendaris i històrics de l'antiga Roma relacionant-los amb el període que varen viure. - Reconèixer la petjada de diferents aspectes de la civilització romana en referents actuals."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Coneixer els aspectes basics de la llengua llatina, comparant-la amb les",
+            "description": "coneixer els aspectes basics de la llengua llatina, comparant-la amb les llengues d'ensenyament i amb altres llengües del repertori individual dels alumnes, per valorar els trets comuns i apreciar la diversitat lingüística com a mostra de riquesa cul…",
+            "criterios": [
+                {
+                    "code": "CA2.1",
+                    "description": "Valorar críticament i adequar-se a la diversitat lingüística i cultural a què dona origen el llatí, identificant i explicant semblances i diferències entre els elements lingüístics de l'entorn, relacionant-los amb els de la pròpia cultura i desenvolupant una cultura compartida i una ciutadania compromesa amb els valors democràtics. - Reconèixer i valorar la diversitat lingüística i cultural que prové del llatí, identificant i explicant semblances i diferències entre les llengües modernes conegudes i la pròpia cultura. - Desenvolupar un compromís amb els valors democràtics."
+                },
+                {
+                    "code": "CA2.2",
+                    "description": "Inferir significats de termes llatins aplicant els coneixements lèxics i fonètics d'altres llengües del repertori individual. - Deduir el significat de paraules llatines utilitzant els coneixements ja adquirits i les llengües conegudes pels alumnes."
+                },
+                {
+                    "code": "CA2.3",
+                    "description": "Ampliar el cabal lèxic i millorar l'expressió oral i escrita, incorporant llatinismes i locucions usuals d'origen llatí de manera coherent. - Ampliar el vocabulari i millorar l'expressió oral i escrita, incorporant llatinismes i locucions llatines."
+                },
+                {
+                    "code": "CA2.4",
+                    "description": "Produir definicions etimològiques de termes quotidians, científics i tècnics, reconeixent els elements llatins en diferents contexts lingüístics i establint, si escau, la relació semàntica entre un terme patrimonial i un cultisme. - Definir etimològicament paraules d'ús comú, científiques i tècniques, identificant les arrels llatines en cultismes i mots patrimonials. - Identificar y analitzar la relació semàntica entre paraules d'una mateixa arrel llatina que han evolucionat en vies diferents, doblets."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Llegir i interpretar texts llatins, assumint l'aproximacio als texts com un",
+            "description": "llegir i interpretar texts llatins, assumint l'aproximacio als texts com un proces dinamic i prenent consciència dels coneixements i experiències pròpies, per identificar-ne el caràcter clàssic i fonamental. La lectura de texts llatins pertanyents a …",
+            "criterios": [
+                {
+                    "code": "CA3.1",
+                    "description": "Explicar de manera oral, escrita o multimodal, el caràcter clàssic i humanista de les diverses manifestacions literàries i artístiques de la civilització llatina utilitzant un vocabulari correcte i una expressió adequada. - Explicar, oralment i\/o per escrit, perquè una obra artística o literària ha esdevingut clàssica (la seva perdurabilitat, influència en la cultura occidental, valors universals) i fonamental (la seva importància en la història literària i cultural), utilitzant un vocabulari correcte i una expressió adequada."
+                },
+                {
+                    "code": "CA3.2",
+                    "description": "Reconèixer el sentit global i les idees principals i secundàries d'un text, contextualitzant-lo i identificant les referències històriques, socials, polítiques o religioses que s'hi esmenten, i servint-se de coneixements sobre personatges i esdeveniments històrics ja estudiats. - Identificar el sentit general i les idees principals i secundàries d'un text, contextualitzant-lo en el seu moment històric i reconeixent referències socials, polítiques o religioses amb l'ajuda dels coneixements previs sobre personatges i esdeveniments històrics."
+                },
+                {
+                    "code": "CA3.3",
+                    "description": "Interpretar de manera crítica el contingut de texts llatins de dificultat adequada, atès el context en el qual es van produir, connectant-los amb l'experiència pròpia i valorant com contribueixen a entendre les maneres de vida, costums i actituds de la nostra societat. - Interpretar un text llatí de dificultat adequada, situant-lo en el seu context històric i connectant-lo amb l'experiència pròpia, reflexionant sobre la influència del món clàssic en la societat contemporània."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Comprendre texts originals llatins, traduint del llati a la llengua",
+            "description": "comprendre texts originals llatins, traduint del llati a la llengua d'ensenyament i desenvolupant estratègies d'accés al significat d'un enunciat senzill en llengua llatina, per aconseguir i justificar la traducció pròpia d'un passatge.",
+            "criterios": [
+                {
+                    "code": "CA4.1",
+                    "description": "Analitzar els aspectes morfològics, sintàctics i lèxics elementals de la llengua llatina, identificant-los i comparant-los amb els de la llengua familiar. - Analitzar els aspectes morfològics, sintàctics i lèxics de les unitats elementals de la llengua llatina. - Identificar els aspectes morfològics, sintàctics i lèxics elementals en texts breus i senzills en llengua llatina. - Comparar els aspectes morfològics, sintàctics i lèxics elementals del llatí amb els de la llengua de l'ensenyament de l'alumne."
+                },
+                {
+                    "code": "CA4.2",
+                    "description": "Traduir texts breus i senzills amb termes adequats i expressió correcta en la llengua d'ensenyament, justificant la traducció i manifestant la correspondència entre l'anàlisi i la versió realitzada. - Realitzar traduccions a la llengua de l'ensenyament de l'alumne a partir de texts breus i senzills en llengua llatina. - Realitzar les traduccions amb termes adequats, correcció ortogràfica i expressiva. - Ser conscient de la correspondència que hi ha entre l'anàlisi morfològica, sintàctica i lèxica d'un text i la seva traducció. - Justificar la traducció pròpia mitjançant la correspondència entre l'anàlisi i la versió realitzades."
+                },
+                {
+                    "code": "CA4.3",
+                    "description": "Produir mitjançant retroversió d'oracions simples utilitzant les estructures pròpies de la llengua llatina. - Produir oracions simples en llengua llatina correctes gramaticalment, morfològica, sintàctica i lèxica."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Descobrir, coneixer i valorar el patrimoni cultural, arqueologic i artistic",
+            "description": "descobrir, coneixer i valorar el patrimoni cultural, arqueologic i artistic roma, apreciantlo i reconeixent-lo com a producte de la creació humana i com a testimoniatge de la història, per identificar les fonts d'inspiració i distingir els processos …",
+            "criterios": [
+                {
+                    "code": "CA5.1",
+                    "description": "Explicar els elements de la civilització llatina, especialment els relacionats amb la mitologia clàssica, identificant-los com a font d'inspiració de manifestacions literàries i artístiques. - Explicar els trets característics de la civilització romana. - Identificar i explicar la iconografia grecoromana en obres artístiques de disciplines diverses al llarg de la tradició clàssica. - Identificar i explicar els principals elements de la literatura llatina al llarg de la tradició clàssica."
+                },
+                {
+                    "code": "CA5.2",
+                    "description": "Reconèixer les petjades de la romanització en el patrimoni cultural i arqueològic de l'entorn, identificant els processos de preservació, conservació i restauració com un aspecte fonamental d'una ciutadania compromesa amb la sostenibilitat ambiental i la cura del seu llegat. - Explicar el procés de romanització, especialment a les Illes Balears. - Identificar el patrimoni cultural i arqueològic de l'entorn dels alumnes i els processos de preservació, conservació i restauració. - Reconèixer el llegat material i immaterial als entorns dels alumnes i argumentar la rellevància de la seva cura i protecció."
+                },
+                {
+                    "code": "CA5.3",
+                    "description": "Exposar de manera oral, escrita o multimodal les conclusions obtingudes a partir de la recerca, individual o col·lectiva, del llegat material i immaterial de la civilització romana i la seva pervivència en el present a través de suports analògics i digitals, seleccionant informació, contrastant-la i organitzant-la a partir de criteris de validesa, qualitat i fiabilitat. - Investigar col·lectivament o individual el llegat material i immaterial de la civilització romana. - Exposar els resultats i conclusions de la recerca amb suports i mitjans diversos: de manera oral, escrita o multimodal. - Seleccionar la informació de fonts adequades, contrastant-la i organitzant-la a partir de criteris de validesa, qualitat i fiabilitat, i reconèixer-ne l'autoria."
+                }
+            ]
+        }
+    ]
+}

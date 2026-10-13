@@ -1,0 +1,63 @@
+{
+    "community": "baleares",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "geografia_e_historia_hist_ria_i_cultura_de_les_illes_balears",
+    "subject_name": "Història i Cultura de les Illes Balears",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Cercar, seleccionar i utilitzar fonts historiques, arqueologiques, artistiques",
+            "description": "cercar, seleccionar i utilitzar fonts historiques, arqueologiques, artistiques i culturals de naturalesa diversa que es puguin fer servir per aconseguir el coneixement integral i transversal de la història local. El coneixement, estudis i reflexió so…",
+            "criterios": [
+                {
+                    "code": "CA1.1",
+                    "description": "Generar materials propis de tipologia diversa que facilitin la transferència dels continguts de la història més propera. - Generar materials didàctics diversos que ajudin a la transmissió de continguts històrics. - Promoure la inclusió de la visió global i local que abasti totes les perspectives històriques."
+                },
+                {
+                    "code": "CA1.2",
+                    "description": "Aportar, esgrimir i transferir arguments sobre els fets històrics de les Illes Balears, des dels primers pobladors fins al món contemporani, tractant la comprensió crítica i obertament fonamentada de les fonts històriques. - Aportar arguments sòlids i ben fonamentats sobre els esdeveniments històrics de les Illes Balears, basant-se en fonts verificades. Transferir arguments a través de diferents formats comunicatius (oral, escrit, audiovisual) i traduir la comprensió teòrica de les fonts en explicacions clares i coherents. - Incorporar la perspectiva crítica en l'anàlisi dels fets històrics, oferint una interpretació fonamentada i contrastada de les fonts."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Comprendre i coneixer les causes i les consequencies dels diferents processos",
+            "description": "comprendre i coneixer les causes i les consequencies dels diferents processos historics i culturals que, al llarg del temps, han configurat les característiques singulars de la història i la cultura de les Illes Balears amb l'observança especial de l…",
+            "criterios": [
+                {
+                    "code": "CA2.1",
+                    "description": "Transferir i argumentar de manera objectiva i constructiva les problemàtiques actuals relacionades amb les Illes Balears i els possibles fonaments històrics que hi participin. Transferir de manera objectiva i crítica els reptes actuals de les Illes Balears, argumentar com estan arrelats en processos històrics i proposar-ne solucions. - Explicar les connexions entre passat i present per fonamentar els reptes contemporanis en una base històrica sòlida."
+                },
+                {
+                    "code": "CA2.2",
+                    "description": "Fer ús de la terminologia i dels conceptes propis relacionats amb la cultura, la història, les ciències socials i humanes, mitjançant les produccions orals, escrites o audiovisuals facilitadores de més coneixement i compressió dels fets històrics. Utilitzar la terminologia històrica i social amb precisió i rigor, tant en produccions orals com escrites. Dominar els conceptes propis de la història, les ciències socials i les ciències humanes per facilitar més comprensió dels fets històrics. - Aplicar aquests termes correctament en el context d'anàlisi històrica i cultural, assegurant la comunicació clara i precisa."
+                },
+                {
+                    "code": "CA2.3",
+                    "description": "Elaboració d'informes, dossiers informatius, fulletons i materials que facilitin la transferència del saber històric i cultural de les Illes Balears. - Elaborar informes, dossiers, fulletons i altres materials que ajudin a transferir el coneixement històric i cultural de les Illes Balears. Desenvolupar habilitats de síntesi i comunicació escrita per difondre aquest coneixement de manera accessible i comprensible per al públic general."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Coneixer les arrels col·lectives propies per valorar les particularitats de les",
+            "description": "coneixer les arrels col·lectives propies per valorar les particularitats de les expressions històriques, arqueològiques i patrimonials. Procurar l'interès i el respecte per les semblances particulars, les compartides i les sinergies establertes al ll…",
+            "criterios": [
+                {
+                    "code": "CA3.1",
+                    "description": "Identificar les principals característiques de les diverses identitats insulars i territorials de la història i la cultura de les Illes Balears i valorar els principals reptes als quals s'enfronta l'arxipèlag. - Identificar les principals característiques històriques i culturals de les diferents illes de les Illes Balears. Valorar els reptes territorials que les comunitats insulars han afrontat, considerant les causes històriques."
+                },
+                {
+                    "code": "CA3.2",
+                    "description": "Interrelacionar els diferents espais geogràfics i cronològics de la història i la cultura de les Illes Balears, interpretant correctament les aportacions de cada espai històric concret des de les perspectives de curta, mitjana i llarga durada. - Interrelacionar els diferents espais geogràfics i cronològics de la història de les Illes Balears per entendre com cada període històric contribueix a la construcció de la identitat territorial. - Interpretar les aportacions de cada espai històric concret en funció de la durada temporal, valorant els efectes de cada etapa històrica."
+                },
+                {
+                    "code": "CA3.3",
+                    "description": "Valorar les diferents etapes i processos històrics en relació amb les ruptures, els canvis i les continuïtats existents al llarg de la història. - Valorar les etapes històriques tenint en compte les ruptures, els canvis i les continuïtats al llarg del temps i de l'espai. Analitzar l'efecte dels moments de trencament radical en els diferents períodes de la història, així com també dels elements de continuïtat i evolució. - Distingir entre canvis profunds i superficials i reconèixer les permanències que configuren una societat."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "community": "andalucia",
+    "stage": "bachillerato",
+    "decree": "Real Decreto 217\/2022",
+    "subject": "fund_admin_gestion",
+    "subject_name": "Fundamentos de Administración y Gestión",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Identificar las dimensiones de la innovación y sus modalidades, analizando sus",
+            "description": "Identificar las dimensiones de la innovación y sus modalidades, analizando sus aportaciones históricas y actuales a la mejora del bienestar social y las contribuciones de personas, empresas y organizaciones sociales innovadoras, para garantizar el de…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Investigar sobre proyectos innovadores de emprendimiento empresarial y social, valorando las capacidades innatas y adquiridas de sus promotores y su impacto en el desarrollo sostenible de su entorno."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Analizar necesidades del entorno y recopilar la información económica del sector de actividad empresarial en el que se situará la empresa o los indicadores sociales que justifican la necesidad de una organización social."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Participar activamente en la aplicación de técnicas de exploración creativa de ideas innovadoras comprendiendo las etapas del proceso y valorando su relevancia."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Seleccionar una idea de negocio, valorando y argumentando de forma técnica la elección."
+                },
+                {
+                    "code": "1.5",
+                    "description": "Analizar la viabilidad económica de un proyecto estableciendo un plan de tesorería y una previsión inicial de modalidades de financiación."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Describir las principales áreas funcionales de una empresa o de una",
+            "description": "Describir las principales áreas funcionales de una empresa o de una organización social y llevar a cabo simulaciones de las actividades que permiten planificar, organizar, gestionar y evaluar diferentes tareas relacionadas con el desarrollo de un pro…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Identificar las diferentes áreas funcionales del proyecto empresarial para desarrollar la idea de negocio y valorar la importancia de cada una de ellas dentro de la empresa."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Implementar diferentes técnicas de prototipado en el producto y\/o servicio a ofrecer en el proyecto empresarial."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Aplicar diferentes técnicas de gestión específicas de las áreas funcionales del proyecto para la planificación de la producción, la gestión del aprovisionamiento y la valoración de las existencias, el estudio de los mercados, la organización de las actividades y la selección y gestión de los recursos humanos."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Recabar y exponer información sobre diferentes fuentes de financiación, así como sus ventajas e inconvenientes."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Identificar y aplicar normas reguladoras de las actividades de las empresas y",
+            "description": "Identificar y aplicar normas reguladoras de las actividades de las empresas y las organizaciones, realizando supuestos básicos de redacción de estatutos y contratos sociales, así como de registro de operaciones contables, fiscales y laborales, con el…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Conocer e identificar los conceptos básicos de los principales tributos en la economía española."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Valorar la importancia de la responsabilidad fiscal, así como de una apropiada educación fiscal."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Realizar supuestos sencillos de registro contable de operaciones de diferentes áreas funcionales, comprendiendo las etapas del ciclo contable y redactando sus documentos situación patrimonial, económica y financiera de la empresa."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Redactar e interpretar documentos frecuentes de empresas y organizaciones como contratos de compraventa o alquiler y estatutos sociales, contratos laborales o nóminas."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Reconocer y desarrollar las habilidades básicas de las personas para el trabajo",
+            "description": "Reconocer y desarrollar las habilidades básicas de las personas para el trabajo en equipo y para llevar a cabo la comunicación de ideas, empleando soportes diversos con el fin de contribuir al desarrollo de un proyecto emprendedor y a la difusión de …",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Detectar habilidades y desplegar herramientas para la mejora de relaciones en los equipos de trabajo."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Realizar simulaciones para aplicar diferentes técnicas de resolución de conflictos en los equipos de trabajo."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Identificar las partes del proceso de comunicación escrita y oral reconociendo, elementos de la comunicación no verbal que aporten información al proceso."
+                },
+                {
+                    "code": "4.4",
+                    "description": "Desarrollar habilidades básicas para realizar simulaciones de procesos de comunicación efectiva en una empresa."
+                },
+                {
+                    "code": "4.5",
+                    "description": "Emplear herramientas digitales y creativas visuales de diferente tipo para diseñar la propuesta de valor y para realizar presentaciones de diferentes etapas del proyecto ante un auditorio, interactuando con sus integrantes."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Reflexionar sobre el sentido, alcance, diferenciación y efectos que el del",
+            "description": "Reflexionar sobre el sentido, alcance, diferenciación y efectos que el del proyecto emprendedor desarrollado tiene en el entorno, concretando las formas de contribuir a su mejora con acciones específicas de economía colaborativa y economía circular q…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Analizar, de forma crítica y constructiva, el contexto local de una propuesta emprendedora, valorando sus efectos en la transformación económica y social de su entorno y fomentando iniciativas socialmente responsables."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Proponer alternativas y nuevas soluciones a retos personales, empresariales y sociales, reconociendo la importancia de la economía circular, y aplicando las destrezas propias que caracterizan a una persona emprendedora."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Diseñar y aplicar indicadores de calidad para evaluar proyectos emprendedores, considerando su originalidad, su viabilidad y su impacto económico y social en los contextos local y global."
+                }
+            ]
+        }
+    ]
+}

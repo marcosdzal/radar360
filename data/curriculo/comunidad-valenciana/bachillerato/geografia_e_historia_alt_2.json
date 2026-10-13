@@ -1,0 +1,171 @@
+{
+    "community": "comunidad-valenciana",
+    "stage": "bachillerato",
+    "decree": "Decreto 108\/2022, de 5 de agosto",
+    "subject": "geografia_e_historia_alt",
+    "subject_name": "Geografía",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Analitzar mitjançant mètodes i tècniques geogràfiques les principals",
+            "description": "Analitzar mitjançant mètodes i tècniques geogràfiques les principals repercussions territorials relatives als reptes ecosocials més importants que afronta Espanya i contrastar-los amb els discursos oficials i no oficials que els aborden, identificant…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Cuestionar modos de vida insostenibles analizando fuentes geográficas y argumentando la necesidad de acciones."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Debatir sobre retos naturales y sociales de España usando datos rigurosos y apoyo digital."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Identificar patrons i hàbits de consum insostenibles que deterioren de manera significativa l espai geogràfic espanyol, utilitzant procediments i dades geogràfiques."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Utilitzar arguments en defensa de l ús social sostenible i responsable dels recursos, basant-se en procediments i dades geogràfiques. 5.2."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Explicar l’espai geogràfic com a sistema a partir de l’anàlisi de fonts",
+            "description": "Explicar l’espai geogràfic com a sistema a partir de l’anàlisi de fonts d’informació visuals, contrastant els paisatges naturals respecte dels humanitzats i argumentant la necessitat de la sostenibilitat com a principi rector de les interaccions entr…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Valorar impactos humanos desde la sostenibilidad, reconociendo la complejidad sistémica del medio natural y las actividades humanas."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Analizar paisajes naturales y humanizados a partir de fuentes visuales, distinguiendo elementos geográficos e interpretando la influencia de factores físicos y humanos."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Explicar les repercussions en l espai geogràfic de l acció antròpica a partir del contrast entre paisatge humanitzat i paisatge natural."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Argumentar la necessitat de la sostenibilitat com a principi ineludible en les interaccions entre els grups humans i el medi ambient. 5.3."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Descriure la diversitat natural d’Espanya i confrontar-la amb el context",
+            "description": "Descriure la diversitat natural d’Espanya i confrontar-la amb el context europeu, a través de les característiques distintives de relleu, clima, hidrografia i biodiversitat",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "El alumnado reflexiona sobre su percepción del espacio al localizar en mapas regiones geomorfológicas y bioclimáticas, comparando sus características y valorando su contribución a la sostenibilidad."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Comparar paisajes naturales de España y Europa, analizando su distribución, características y la relación humana con ellos."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Descriure sintèticament la diversitat natural de les principals regions naturals d Europa a través de les característiques més destacades de relleu, clima, hidrografia i biodiversitat."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Confrontar les característiques de relleu, clima, hidrografia i biodiversitat de les regions naturals d Espanya amb les del context europeu. 5.4."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Localitzar i delimitar l’escala de fenòmens físics i humans de diferent tipus,",
+            "description": "Localitzar i delimitar l’escala de fenòmens físics i humans de diferent tipus, utilitzant mètodes i tècniques de la Geografia, especialment les tecnologies de la informació geogràfica TIG , així com de ciències afins, en l’anàlisi de l’espai geogràfi…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Usar la escala adecuada con TIG para localizar fenómenos, justificando métodos y delimitando regiones y áreas de transición."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Crear productos geográficos propios con TIG comunicando diagnósticos, hipótesis o conclusiones."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Analitzar l espai utilitzant mètodes i tècniques de la Geografia, especialment les tecnologies de la informació geogràfica TIG, i de ciències afins"
+                },
+                {
+                    "code": "4.4",
+                    "description": "Realitzar propostes d actuació territorial a partir d anàlisi de l espai realitzat mitjançant mètodes i tècniques de la Geografia, especialment les tecnologies de la informació geogràfica TIG, i de ciències afins. 5.5."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Elaborar i exposar treballs que analitzen les dinàmiques globalitzadores que",
+            "description": "Elaborar i exposar treballs que analitzen les dinàmiques globalitzadores que determinen les relacions socioeconòmiques i culturals mundials i les seues repercussions en el territori, promovent la dignitat humana i el respecte al medi ambient com a fo…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Valorar la dignidad humana analizando críticamente consecuencias de acciones sobre condiciones laborales y de vida en España y otros países, investigando relaciones económicas globalizadas y proponiendo soluciones."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Argumentar la necesidad de preservar el medio ambiente analizando impactos de producción, distribución y consumo, y proponer actuaciones de mejora a escala local y global."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Argumentar en favor de la dignitat humana a partir de treballs que analitzen les dinàmiques globalitzadores que determinen les relacions socioecòmiques i culturals mundials i les repercussions en el territori."
+                },
+                {
+                    "code": "5.4",
+                    "description": "Argumentar en favor del respecte al medi ambient a partir de treballs que analitzen les dinàmiques globalitzadores que determinen les relacions socioecòmiques i culturals mundials i les repercussions en el territori. 5.6."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Explicar els desequilibris territorials d’Espanya i de la seua estructura",
+            "description": "Explicar els desequilibris territorials d’Espanya i de la seua estructura demogràfica i sociolaboral, amb especial atenció als processos i decisions que els han generats, així com a les principals mesures i polítiques de cooperació i cohesió per a af…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Justifica la necesidad de compensar desigualdades territoriales e individuales mediante el análisis de causas y consecuencias pasadas y recientes."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Argumentar el origen de desequilibrios socioeconómicos analizando factores de localización en una sociedad terciarizada."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Identificar, descriure i valorar les principals mesures i polítiques europees de cooperació i cohesió que afronten els desequilibris territorials, amb especial atenció a la repercussió a Espanya."
+                },
+                {
+                    "code": "6.4",
+                    "description": "Identificar i descriure les repercussions de les principals mesures i polítiques de cooperació i cohesió tant nacionals com europees sobre els desequilibris territorials i de l estructura demogràfica i sociolaboral d Espanya. 5.7."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Participar en l’elaboració de projectes en equip que analitzen i proposen",
+            "description": "Participar en l’elaboració de projectes en equip que analitzen i proposen solucions viables a situacions problemàtiques que afecten l’espai geogràfic pròxim, detallant les mesures i accions correctores i planificant la posada en pràctica d’aquests pr…",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Reelabora conocimientos geográficos previos y nuevos para diagnosticar problemas y proponer soluciones innovadoras en contextos cambiantes."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Participar en l elaboració de projectes en equip que proposen solucions viables a situacions problemàtiques que afecten l espai geogràfic pròxim."
+                },
+                {
+                    "code": "7.3",
+                    "description": "Dissenyar i planificar el procediment de posada en pràctica de les mesures correctores i possibles solucions a situacions problemàtiques que afecten l'espai geogràfic pròxim."
+                },
+                {
+                    "code": "7.4",
+                    "description": "Exposar de forma argumentada les mesures correctores i les solucions proposades per a abordar situacions problemàtiques que afecten l espai geogràfic pròxim."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "community": "comunidad-valenciana",
+    "stage": "bachillerato",
+    "decree": "Decreto 108\/2022, de 5 de agosto",
+    "subject": "cultura_audiovisual",
+    "subject_name": "Cultura Audiovisual",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Analizar imágenes fotográficas fijas y producciones audiovisuales de distintos estilos, formatos, géneros y culturas",
+            "description": "Analizar imágenes fotográficas fijas y producciones audiovisuales de distintos estilos, formatos, géneros y culturas, reconociendo sus cualidades plásticas, formales y semánticas y reflexionando sobre la historia de ambos medios, para desarrollar el …",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "El alumnado explica los cambios históricos esenciales del lenguaje fotográfico y audiovisual valorando su evolución."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Analizar cualidades plásticas, formales y semánticas de fotografías y audiovisuales, identificando reglas y códigos."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Justificar interpretaciones personales del patrimonio fotográfico y audiovisual usando un criterio estético propio."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Elaborar producciones audiovisuales individuales o colectivas, empleando la",
+            "description": "Elaborar producciones audiovisuales individuales o colectivas, empleando la propia presencia en la imagen y la banda de sonido y evaluando el rigor ético y formal de los",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Diseñar producciones audiovisuales creativas que expresen ideas y sentimientos propios a partir de un tema, incorporando experiencias personales y otros medios."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Evaluar el rigor ético y formal de producciones audiovisuales mediante análisis crítico, identificando manipulación y respetando la propiedad intelectual."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Producir obras audiovisuales creativas con presencia propia y rigor ético."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Seleccionar y utilizar las técnicas, herramientas y convenciones del lenguaje y",
+            "description": "Seleccionar y utilizar las técnicas, herramientas y convenciones del lenguaje y la producción audiovisual, teniendo en cuenta todos sus aspectos (guion, planificación, interpretación, grabación, edición, etc.), para realizar creaciones audiovisuales …",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Organizar equipos de trabajo identificando habilidades y distribuyendo tareas para producciones audiovisuales colectivas."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Planificar una producción audiovisual justificando medios, habilidades y soluciones a imprevistos."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Evalúa la capacidad del alumnado para anticipar y resolver problemas imprevistos durante la producción audiovisual, mostrando flexibilidad en la búsqueda de soluciones."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Producir creaciones audiovisuales en equipo aplicando técnicas y lenguaje, valorando el trabajo colaborativo para ajustarse al proyecto previo."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Determinar el público destinatario de una producción audiovisual, analizando",
+            "description": "Determinar el público destinatario de una producción audiovisual, analizando sus características y atendiendo al propósito de la obra, para adoptar el lenguaje, el formato y los medios técnicos más adecuados y seleccionar las vías de difusión más opo…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Justificar las decisiones técnicas y de lenguaje de una producción audiovisual en función del público destinatario."
+                },
+                {
+                    "code": "4.2",
+                    "description": "El alumnado selecciona canales de difusión para producciones audiovisuales, justificando su elección según el propósito y el público, con respeto a la propiedad intelectual."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Analizar la recepción de producciones audiovisuales evaluando la adecuación del lenguaje, formato, medios y vías de difusión."
+                }
+            ]
+        }
+    ]
+}

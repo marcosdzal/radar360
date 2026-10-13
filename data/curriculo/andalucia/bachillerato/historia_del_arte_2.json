@@ -1,0 +1,158 @@
+{
+    "community": "andalucia",
+    "stage": "bachillerato",
+    "decree": "Real Decreto 217\/2022",
+    "subject": "historia_del_arte",
+    "subject_name": "Historia del Arte",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Identificar diferentes concepciones del arte a lo largo de la historia,",
+            "description": "Identificar diferentes concepciones del arte a lo largo de la historia, seleccionando y analizando información diversa de forma crítica, para valorar la diversidad de manifestaciones artísticas como producto de la creatividad humana y fomentar el res…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Investigar y debatir sobre las distintas definiciones de arte a través del tiempo, analizando obras específicas para comprender la evolución del concepto artístico y su diversidad."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Especificar las variaciones en la definición de los conceptos artísticos fundamentales con el fin de comprender la naturaleza histórica de los mismos mediante el recurso de la comparación de textos y documentos gráficos de cada época."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Reconocer los diversos lenguajes artísticos como una forma de comunicación y",
+            "description": "Reconocer los diversos lenguajes artísticos como una forma de comunicación y expresión de ideas, deseos y emociones, utilizando con corrección la terminología y el vocabulario específico de la materia, para expresar con coherencia y fluidez sus propi…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Expresar juicios personales argumentados sobre obras de arte, empleando terminología técnica con fluidez y respetando las opiniones ajenas en un contexto de comunicación estética."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Interpretar y explicar con orden y claridad el conjunto de sensaciones, ideas y juicios propios -mensaje-, que son comunicados por la obra de arte -emisor-, al espectador - receptor-, para evidenciar la especial naturaleza del acto comunicativo artístico, justificándolos en relación con los principales rasgos formales ofrecidos por el objeto."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Elaborar y expresar con coherencia y fluidez juicios y emociones propios acerca de las obras de arte y mostrar respeto y empatía por los juicios y expresiones de los demás, utilizando la terminología y el vocabulario específico de la materia y demostrando un conocimiento básico de diversos lenguajes artísticos aprendidos."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Distinguir las distintas funciones del arte a lo largo de la historia,",
+            "description": "Distinguir las distintas funciones del arte a lo largo de la historia, analizando la dimensión religiosa, ideológica, política, social, económica, expresiva y propiamente estética de la obra de arte, de su producción y su percepción, para promover un…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Identificar y explicar las diversas funciones (política, religiosa, estética, etc.) de una obra de arte, valorando su impacto social y su propósito original."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Contrastar el modo en que una función principal ordena y jerarquiza al resto de funciones secundarias en épocas diferentes, con el fin de demostrar la naturaleza histórica cambiante de estos sistemas, mediante argumentos extraídos de las circunstancias históricas y la cultura de cada época."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Identificar y caracterizar los principales movimientos artísticos a lo largo de la historia",
+            "description": "Identificar y caracterizar los principales movimientos artísticos a lo largo de la historia, reconociendo las relaciones de influencia, préstamo, continuidad y ruptura que se producen entre ellos, para comprender los mecanismos que rigen la evolución…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Explicar las características y el contexto de los movimientos artísticos, analizando su función social y evolución cronológica para comprender su importancia histórica."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Analizar comparativamente obras de arte de distintos periodos para explicar cómo evolucionan los estilos mediante influencias, continuidades o rupturas estéticas e ideológicas."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Reconocer los mecanismos que rigen la evolución de la Historia del Arte a partir del análisis comparativo de obras de diversas épocas y de la explicación de las relaciones de influencia, préstamos, continuidad y ruptura que se producen entre estilos, autores y movimientos."
+                },
+                {
+                    "code": "4.4",
+                    "description": "Especificar la intervención del artista como motor principal de dichos mecanismos de evolución con la intención de conceptualizar la categoría histórica de genio y analizar la relación que este establece con el entorno social y cultural, mediante el análisis de grupos de obras de un mismo autor, época o lugar."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Identificar y contextualizar espacial y temporalmente las más relevantes",
+            "description": "Identificar y contextualizar espacial y temporalmente las más relevantes manifestaciones y personalidades artísticas, analizando su entorno social, político y cultural, y sus aspectos biográficos, para valorar las obras y a sus artistas como expresió…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Realizar comentarios de obras de arte integrando el análisis formal con su contexto histórico, funciones originales y trascendencia social, política y cultural de la época."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Analizar la vida y obra de artistas relevantes mediante reseñas biográficas que expliquen cómo sus vivencias influyen en el significado y valor de sus creaciones."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Determinar el modo en que la obra de arte puede actuar como documento histórico, para resaltar su valor como testimonio del pasado, utilizando textos y documentos de la época a la que pertenece como apoyo y referencia de los datos que es capaz de aportar."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Conocer y valorar el patrimonio artístico en el ámbito local, autonómico",
+            "description": "Conocer y valorar el patrimonio artístico en el ámbito local, autonómico andaluz, nacional y mundial, analizando ejemplos concretos de su aprovechamiento y sus funciones, para contribuir a su conservación, su uso comprometido a favor de la consecució…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Analizar los procesos de gestión, conservación y difusión del patrimonio artístico, evaluando el impacto de la actividad humana y la importancia de su uso sostenible."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Analizar cómo las obras de arte y el patrimonio construyen la identidad personal y colectiva mediante el estudio de la autorrepresentación y la simbología grupal."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Identificar y relacionar las principales figuras de la Historia del Arte procedentes de las minorías y de las diferentes sensibilidades étnico-religiosas que han integrado e integran la sociedad andaluza (arabomusulmanes, judíos, gitanos, y otros), dando visibilidad a los artistas de los grupos minoritarios, analizando el contexto político, social y cultural en el que desarrollaron su producción artística y reconociendo su esfuerzo por hacerse valer en ese contexto."
+                },
+                {
+                    "code": "6.4",
+                    "description": "Conocer y analizar críticamente la imagen que se ha dado de las minorías en la Historia del Arte, mediante el análisis comparativo de obras de distintas épocas y culturas en las que estén representados los grupos minoritarios (arabo-musulmán, judeo-sefardí o gitano)."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Distinguir y describir los cambios estéticos y los diferentes cánones de",
+            "description": "Distinguir y describir los cambios estéticos y los diferentes cánones de belleza a lo largo de la Historia del Arte, realizando análisis comparativos entre obras de diversos estilos, épocas y lugares, para formarse una imagen ajustada de sí mismo y c…",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Analizar y comparar la evolución de los cánones estéticos en la historia del arte para desarrollar una visión crítica sobre la belleza y la diversidad cultural."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Analizar el concepto de belleza materializado en la obra, a partir de los diversos intentos de teorización y definición que se han producido a lo largo de la Historia del Arte y con la intención de comprender qué diferentes visiones de la realidad comporta la adopción de una formulación absoluta o relativa de dicho concepto."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Integrar la perspectiva de género en el estudio de la Historia del Arte,",
+            "description": "Integrar la perspectiva de género en el estudio de la Historia del Arte, analizando el papel que ha ocupado la mujer y la imagen que de ella se ha dado en los diferentes estilos y movimientos artísticos, para visibilizar a las artistas y promover la …",
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Identificar y analizar la obra de mujeres artistas a lo largo de la historia, vinculando su producción con su contexto histórico y las dificultades de género."
+                },
+                {
+                    "code": "8.2",
+                    "description": "Analizar la evolución de la imagen femenina y sus roles en el arte mediante la comparación crítica de obras de diferentes periodos y contextos culturales."
+                },
+                {
+                    "code": "8.3",
+                    "description": "Advertir el modo en que el arte ha sido utilizado como expresión de las diferentes sensibilidades e identidades sexuales y de género a lo largo de la historia, para comprender el valor de la práctica artística como instrumento de avance en la visibilización, igualdad y respeto, a través de la definición, argumentación y expresión de criterios propios, partiendo del análisis de la biografía del artista o de la propia temática de la obra en consonancia con el contexto histórico."
+                }
+            ]
+        }
+    ]
+}

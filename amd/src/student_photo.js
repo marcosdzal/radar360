@@ -23,6 +23,10 @@
 define([], function() {
     'use strict';
 
+    function appendUserId(base, uid) {
+        return base + (base.indexOf('?') === -1 ? '?' : '&') + 'userid=' + uid;
+    }
+
     // ── Toast notification ────────────────────────────────────────────────────
 
     function showToast(msg, isError) {
@@ -95,8 +99,7 @@ define([], function() {
      */
     function buildWidget(studentid, photoUrl, uploadUrl, sesskey) {
         var wrap = document.createElement('div');
-        // margin-top/right give room for the absolute-positioned delete button (top:-6px, right:-6px).
-        wrap.style.cssText = 'position:relative;display:inline-block;vertical-align:middle;margin-left:8px;margin-top:8px;margin-right:8px;overflow:visible;';
+        wrap.style.cssText = 'position:relative;display:inline-block;vertical-align:middle;margin:0 8px;overflow:visible;';
 
         // Circle container
         var circle = document.createElement('div');
@@ -137,19 +140,21 @@ define([], function() {
             ].join(';');
             camOverlay.innerHTML = '<span style="font-size:22px;color:#fff;">&#128247;</span>';
 
-            // Delete button (only when photo exists)
+            // Delete button — hidden by default, shown on hover
             delBtn = document.createElement('button');
             delBtn.type = 'button';
             delBtn.title = _S.delphoto;
             delBtn.innerHTML = '&times;';
+            delBtn.dataset.hasPhoto = currentUrl ? '1' : '';
             delBtn.style.cssText = [
-                'position:absolute', 'top:-6px', 'right:-6px',
+                'position:absolute', 'top:-4px', 'right:-4px',
                 'width:18px', 'height:18px', 'border-radius:50%',
                 'background:#e74c3c', 'color:#fff', 'border:none',
-                'font-size:12px', 'line-height:1', 'cursor:pointer',
-                'display:' + (currentUrl ? 'flex' : 'none'),
-                'align-items:center', 'justify-content:center',
-                'z-index:2', 'padding:0'
+                'font-size:14px', 'line-height:18px', 'text-align:center',
+                'cursor:pointer', 'display:none',
+                'z-index:2', 'padding:0',
+                'opacity:0', 'transition:opacity 0.2s',
+                'box-shadow:0 1px 3px rgba(0,0,0,.3)'
             ].join(';');
 
             // Hidden file input
@@ -186,7 +191,7 @@ define([], function() {
                             photoImg.src = currentUrl;
                             photoImg.style.display = 'block';
                             placeholder.style.display = 'none';
-                            delBtn.style.display = 'flex';
+                            delBtn.dataset.hasPhoto = '1';
                             showToast('Foto actualizada', false);
                         } else {
                             showToast('Error: ' + (data.error || 'desconocido'), true);
@@ -216,6 +221,7 @@ define([], function() {
                             photoImg.style.display = 'none';
                             photoImg.src = '';
                             placeholder.style.display = 'flex';
+                            delBtn.dataset.hasPhoto = '';
                             delBtn.style.display = 'none';
                             showToast('Foto eliminada', false);
                         } else {
@@ -227,6 +233,20 @@ define([], function() {
         }
 
         // ── Event handlers (view-only, always active) ─────────────────────────
+
+        // Delete button: show/hide on wrap hover (wrap includes circle + delBtn).
+        wrap.addEventListener('mouseenter', function() {
+            if (delBtn && delBtn.dataset.hasPhoto) {
+                delBtn.style.display = 'block';
+                delBtn.style.opacity = '1';
+            }
+        });
+        wrap.addEventListener('mouseleave', function() {
+            if (delBtn) {
+                delBtn.style.opacity = '0';
+                setTimeout(function() { if (delBtn.style.opacity === '0') { delBtn.style.display = 'none'; } }, 200);
+            }
+        });
 
         var hoverPopup = null;
         circle.addEventListener('mouseenter', function() {
@@ -327,14 +347,16 @@ define([], function() {
             delBtn.type = 'button';
             delBtn.title = _S.delphoto;
             delBtn.innerHTML = '&times;';
+            delBtn.dataset.hasPhoto = currentUrl ? '1' : '';
             delBtn.style.cssText = [
-                'position:absolute', 'top:-5px', 'right:-5px',
+                'position:absolute', 'top:-3px', 'right:-3px',
                 'width:14px', 'height:14px', 'border-radius:50%',
                 'background:#e74c3c', 'color:#fff', 'border:none',
-                'font-size:10px', 'line-height:1', 'cursor:pointer',
-                'display:' + (currentUrl ? 'flex' : 'none'),
-                'align-items:center', 'justify-content:center',
-                'z-index:2', 'padding:0'
+                'font-size:11px', 'line-height:14px', 'text-align:center',
+                'cursor:pointer', 'display:none',
+                'z-index:2', 'padding:0',
+                'opacity:0', 'transition:opacity 0.2s',
+                'box-shadow:0 1px 3px rgba(0,0,0,.3)'
             ].join(';');
 
             fileInput = document.createElement('input');
@@ -368,7 +390,7 @@ define([], function() {
                             photoImg.src = currentUrl;
                             photoImg.style.display = 'block';
                             placeholder.style.display = 'none';
-                            delBtn.style.display = 'flex';
+                            delBtn.dataset.hasPhoto = '1';
                             showToast('Foto actualizada', false);
                         } else {
                             showToast('Error: ' + (data.error || 'desconocido'), true);
@@ -397,6 +419,7 @@ define([], function() {
                             photoImg.style.display = 'none';
                             photoImg.src = '';
                             placeholder.style.display = 'flex';
+                            delBtn.dataset.hasPhoto = '';
                             delBtn.style.display = 'none';
                             showToast('Foto eliminada', false);
                         } else {
@@ -406,6 +429,20 @@ define([], function() {
                     .catch(function(err) { showToast('Error al eliminar: ' + err.message, true); });
             });
         }
+
+        // Delete button: show/hide on wrap hover.
+        wrap.addEventListener('mouseenter', function() {
+            if (delBtn && delBtn.dataset.hasPhoto) {
+                delBtn.style.display = 'block';
+                delBtn.style.opacity = '1';
+            }
+        });
+        wrap.addEventListener('mouseleave', function() {
+            if (delBtn) {
+                delBtn.style.opacity = '0';
+                setTimeout(function() { if (delBtn.style.opacity === '0') { delBtn.style.display = 'none'; } }, 200);
+            }
+        });
 
         // Hover preview popup (always available for view)
         var hoverPopup = null;
@@ -473,7 +510,7 @@ define([], function() {
      * @param {string}      uploadUrl
      * @param {string}      sesskey
      */
-    function initGrading(photoMap, uploadUrl, sesskey) {
+    function initGrading(photoMap, uploadUrl, sesskey, radarMap, reportBaseUrl) {
         // Moodle renderiza [data-region="user-info"] con una plantilla mustache:
         //   <h4><a href="..."><img class="img-rounded" height="40"> Nombre <em>email</em></a></h4>
         // El panel se recarga en cada cambio de alumno vía el evento jQuery "user-changed".
@@ -493,9 +530,9 @@ define([], function() {
             var photoUrl = Object.prototype.hasOwnProperty.call(photoMap, userid)
                 ? photoMap[userid] : null;
 
-            var thumb = buildThumbnail(userid, photoUrl, uploadUrl, sesskey, 44);
+            var thumb = buildThumbnail(userid, photoUrl, uploadUrl, sesskey, 36);
             thumb.className = 'sentinel-grading-photo';
-            thumb.style.marginRight = '6px';
+            thumb.style.marginRight = '4px';
             thumb.style.flexShrink  = '0';
             thumb.style.verticalAlign = 'middle';
 
@@ -505,6 +542,20 @@ define([], function() {
                 anchor.insertBefore(thumb, moodleAvatar);
             } else {
                 anchor.insertBefore(thumb, anchor.firstChild);
+            }
+
+            // Mini diana.
+            if (radarMap && radarMap[userid]) {
+                var mc = document.createElement('canvas');
+                mc.width = 144;
+                mc.height = 144;
+                mc.className = 'sentinel-grading-photo';
+                mc.style.cssText = 'width:36px;height:36px;vertical-align:middle;margin-right:4px;flex-shrink:0;';
+                anchor.insertBefore(mc, thumb.nextSibling);
+                drawMiniRadar(mc, radarMap[userid]);
+                if (reportBaseUrl) {
+                    makeDianaClickable(mc, appendUserId(reportBaseUrl, userid), radarMap[userid]);
+                }
             }
             return true;
         };
@@ -551,7 +602,7 @@ define([], function() {
      * @param {string}                       uploadUrl
      * @param {string}                       sesskey
      */
-    function initParticipants(studentPhotoMap, uploadUrl, sesskey) {
+    function initParticipants(studentPhotoMap, uploadUrl, sesskey, radarMap, reportBaseUrl) {
         // Match both /user/view.php (course context) and /user/profile.php (site/admin context).
         var USER_LINK_SEL = 'a[href*="/user/view.php"], a[href*="/user/profile.php"]';
 
@@ -584,6 +635,19 @@ define([], function() {
                 link.parentNode.insertBefore(thumb, prev);
             } else {
                 link.parentNode.insertBefore(thumb, link);
+            }
+
+            // Mini diana.
+            if (radarMap && radarMap[uid]) {
+                var mc = document.createElement('canvas');
+                mc.width = 160;
+                mc.height = 160;
+                mc.style.cssText = 'width:40px;height:40px;vertical-align:middle;margin-right:4px;display:inline-block;';
+                link.parentNode.insertBefore(mc, link);
+                drawMiniRadar(mc, radarMap[uid]);
+                if (reportBaseUrl) {
+                    makeDianaClickable(mc, appendUserId(reportBaseUrl, uid), radarMap[uid]);
+                }
             }
         };
 
@@ -624,7 +688,152 @@ define([], function() {
      * @param {string}                       uploadUrl
      * @param {string}                       sesskey
      */
-    function initGraderReport(studentPhotoMap, uploadUrl, sesskey) {
+    function drawMiniRadar(canvas, m) {
+        var w = canvas.width, h = canvas.height;
+        var cx = w / 2, cy = h / 2;
+        var S = w / 192;
+        var maxR = Math.min(cx, cy) - 8 * S;
+        var n = m.v.length;
+        var ctx = canvas.getContext('2d');
+        ctx.clearRect(0, 0, w, h);
+
+        var angle = function(i) { return (Math.PI * 2 * i / n) - Math.PI / 2; };
+        var pointXY = function(i, val) {
+            var r = (val / 10) * maxR;
+            return { x: cx + Math.cos(angle(i)) * r, y: cy + Math.sin(angle(i)) * r };
+        };
+
+        // Grid polygons (octagon-style).
+        for (var g = 2; g <= 10; g += 2) {
+            ctx.strokeStyle = (g === 10) ? '#b0b5be' : '#e5e7eb';
+            ctx.lineWidth = ((g === 10) ? 1 : 0.5) * S;
+            ctx.beginPath();
+            for (var gi = 0; gi < n; gi++) {
+                var gp = pointXY(gi, g);
+                if (gi === 0) { ctx.moveTo(gp.x, gp.y); } else { ctx.lineTo(gp.x, gp.y); }
+            }
+            ctx.closePath();
+            ctx.stroke();
+        }
+        // Angle lines.
+        ctx.strokeStyle = '#e5e7eb';
+        ctx.lineWidth = 0.5 * S;
+        for (var i = 0; i < n; i++) {
+            var ep = pointXY(i, 10);
+            ctx.beginPath();
+            ctx.moveTo(cx, cy);
+            ctx.lineTo(ep.x, ep.y);
+            ctx.stroke();
+        }
+
+        // Colored sector fill — each competency gets its own color region.
+        var mOcc = m.occ || [];
+        var maxO = 1;
+        for (var i = 0; i < mOcc.length; i++) { if (mOcc[i] > maxO) { maxO = mOcc[i]; } }
+
+        for (var i = 0; i < n; i++) {
+            var prevI = (i - 1 + n) % n;
+            var nextI = (i + 1) % n;
+            var pPrev = pointXY(prevI, m.v[prevI] || 0);
+            var pCurr = pointXY(i, m.v[i] || 0);
+            var pNext = pointXY(nextI, m.v[nextI] || 0);
+            var midL = { x: (pPrev.x + pCurr.x) / 2, y: (pPrev.y + pCurr.y) / 2 };
+            var midR = { x: (pCurr.x + pNext.x) / 2, y: (pCurr.y + pNext.y) / 2 };
+            ctx.beginPath();
+            ctx.moveTo(cx, cy);
+            ctx.lineTo(midL.x, midL.y);
+            ctx.lineTo(pCurr.x, pCurr.y);
+            ctx.lineTo(midR.x, midR.y);
+            ctx.closePath();
+            ctx.fillStyle = m.c[i] || '#666';
+            ctx.globalAlpha = 0.05 + 0.10 * ((mOcc[i] || 0) / maxO);
+            ctx.fill();
+            ctx.strokeStyle = '#fff';
+            ctx.globalAlpha = 0.5;
+            ctx.lineWidth = 0.5 * S;
+            ctx.stroke();
+        }
+        ctx.globalAlpha = 1;
+
+        // Data polygon border.
+        ctx.beginPath();
+        for (var i = 0; i < n; i++) {
+            var p = pointXY(i, m.v[i] || 0);
+            if (i === 0) { ctx.moveTo(p.x, p.y); } else { ctx.lineTo(p.x, p.y); }
+        }
+        ctx.closePath();
+        ctx.strokeStyle = '#94a3b8';
+        ctx.lineWidth = 1 * S;
+        ctx.stroke();
+
+        // Points + donut rings.
+        var tc = m.tc || 0;
+        for (var i = 0; i < n; i++) {
+            var p = pointXY(i, m.v[i] || 0);
+            var pr = (1.5 + Math.round(((mOcc[i] || 0) / maxO) * 2.5)) * S;
+            var color = m.c[i] || '#666';
+
+            // Donut.
+            if (tc > 0) {
+                var outerR = pr + 2.5 * S;
+                var innerR = outerR - 1.5 * S;
+                var segAngle = (Math.PI * 2) / tc;
+                var gap = tc > 6 ? 0.04 : 0.08;
+                var co = (m.co[i] || []).slice().sort(function(a, b) { return b - a; });
+                var mxC = 1;
+                for (var j = 0; j < co.length; j++) { if (co[j] > mxC) { mxC = co[j]; } }
+                for (var s = 0; s < tc; s++) {
+                    var a0 = -Math.PI / 2 + s * segAngle + gap;
+                    var a1 = -Math.PI / 2 + (s + 1) * segAngle - gap;
+                    ctx.beginPath();
+                    ctx.arc(p.x, p.y, outerR, a0, a1);
+                    ctx.arc(p.x, p.y, innerR, a1, a0, true);
+                    ctx.closePath();
+                    var v = co[s] || 0;
+                    if (v > 0) {
+                        ctx.fillStyle = color;
+                        ctx.globalAlpha = 0.3 + 0.65 * (v / mxC);
+                    } else {
+                        ctx.fillStyle = '#d1d5db';
+                        ctx.globalAlpha = 0.3;
+                    }
+                    ctx.fill();
+                }
+                ctx.globalAlpha = 1;
+            }
+
+            // Point.
+            ctx.beginPath();
+            ctx.arc(p.x, p.y, pr, 0, Math.PI * 2);
+            ctx.fillStyle = color;
+            ctx.fill();
+            ctx.strokeStyle = '#fff';
+            ctx.lineWidth = 0.5 * S;
+            ctx.stroke();
+        }
+    }
+
+    function makeDianaClickable(canvas, url, radarData) {
+        canvas.style.cursor = 'pointer';
+        var tip = 'Perfil competencial';
+        if (radarData && radarData.v) {
+            var sum = 0, cnt = 0;
+            for (var i = 0; i < radarData.v.length; i++) {
+                if (radarData.v[i] > 0) { sum += radarData.v[i]; cnt++; }
+            }
+            if (cnt > 0) {
+                tip += ' · Media: ' + (sum / cnt).toFixed(1);
+            }
+        }
+        canvas.title = tip;
+        canvas.addEventListener('click', function(e) {
+            e.stopPropagation();
+            e.preventDefault();
+            window.location.href = url;
+        });
+    }
+
+    function initGraderReport(studentPhotoMap, uploadUrl, sesskey, radarMap, reportBaseUrl) {
         var STORAGE_KEY = 'sentinel_grader_photos_visible';
 
         var run = function() {
@@ -701,6 +910,21 @@ define([], function() {
                 // Insert before the link inside the name cell.
                 link.parentNode.insertBefore(thumb, link);
                 photoWrappers.push(thumb);
+
+                // Mini diana.
+                if (radarMap && radarMap[uid]) {
+                    var mc = document.createElement('canvas');
+                    mc.width = 192;
+                    mc.height = 192;
+                    mc.style.cssText = 'width:48px;height:48px;vertical-align:middle;margin-right:4px;display:inline-block;';
+                    mc.className = 'sentinel-photo-wrap sentinel-mini-diana';
+                    link.parentNode.insertBefore(mc, link);
+                    photoWrappers.push(mc);
+                    drawMiniRadar(mc, radarMap[uid]);
+                    if (reportBaseUrl) {
+                        makeDianaClickable(mc, appendUserId(reportBaseUrl, uid), radarMap[uid]);
+                    }
+                }
             });
 
             // ── Toggle visibility ─────────────────────────────────────────────
@@ -736,7 +960,7 @@ define([], function() {
      * @param {string}      uploadUrl
      * @param {string}      sesskey
      */
-    function initUserProfile(studentid, photoUrl, uploadUrl, sesskey, gradeBadge, strings) {
+    function initUserProfile(studentid, photoUrl, uploadUrl, sesskey, gradeBadge, strings, miniRadar, reportUrl) {
         if (strings) { Object.assign(_S, strings); }
         var DEFAULT_SIZE = 100; // px — fallback si no se detecta avatar Moodle
 
@@ -784,31 +1008,65 @@ define([], function() {
             }
             widget.style.cssText += 'vertical-align:middle;align-self:center;';
 
-            // Badge con la nota final del curso
+            // Badge con la nota final del curso — se insertará junto al nombre
+            var _gradeBadgeEl = null;
             if (gradeBadge && gradeBadge.value !== null && gradeBadge.value !== undefined) {
-                widget.style.display      = 'inline-flex';
-                widget.style.flexDirection = 'column';
-                widget.style.alignItems   = 'center';
-                var badge = document.createElement('a');
-                badge.href = gradeBadge.url || '#';
-                badge.textContent = gradeBadge.value;
-                badge.title = _S.gradetooltip;
-                badge.style.cssText = [
+                var pct = gradeBadge.max > 0 ? gradeBadge.value / gradeBadge.max : 0;
+                var hue = Math.round(pct * 120);
+                _gradeBadgeEl = document.createElement('a');
+                _gradeBadgeEl.href = gradeBadge.url || '#';
+                _gradeBadgeEl.textContent = gradeBadge.value;
+                _gradeBadgeEl.title = _S.gradetooltip;
+                _gradeBadgeEl.className = 'sentinel-profile-grade';
+                _gradeBadgeEl.style.cssText = [
                     'display:inline-block',
-                    'background:#1a7f3c',
+                    'background:hsl(' + hue + ',65%,36%)',
                     'color:#fff',
                     'font-weight:700',
                     'padding:2px 10px',
                     'border-radius:12px',
-                    'font-size:0.8em',
-                    'margin-top:6px',
+                    'font-size:0.55em',
+                    'margin-left:8px',
                     'text-decoration:none',
                     'white-space:nowrap',
                     'box-shadow:0 1px 3px rgba(0,0,0,0.25)',
                     'cursor:pointer',
+                    'vertical-align:middle',
                 ].join(';');
-                widget.appendChild(badge);
             }
+
+            // Mini diana canvas (se inserta junto al widget si hay datos).
+            var radarCanvas = null;
+            if (miniRadar) {
+                radarCanvas = document.createElement('canvas');
+                radarCanvas.width = SIZE * 4;
+                radarCanvas.height = SIZE * 4;
+                radarCanvas.className = 'sentinel-profile-photo';
+                radarCanvas.style.cssText = 'width:' + SIZE + 'px;height:' + SIZE + 'px;flex-shrink:0;align-self:center;';
+                drawMiniRadar(radarCanvas, miniRadar);
+                if (reportUrl) {
+                    makeDianaClickable(radarCanvas, reportUrl, miniRadar);
+                }
+            }
+
+            var insertAfterWidget = function(parent) {
+                if (radarCanvas) {
+                    parent.insertBefore(radarCanvas, widget.nextSibling);
+                }
+            };
+
+            // Inserta el badge junto al nombre del alumno.
+            var placeBadgeNextToName = function() {
+                if (!_gradeBadgeEl) { return; }
+                var heading = document.querySelector('.page-header-headings h2') ||
+                              document.querySelector('.page-header-headings h1') ||
+                              document.querySelector('#page-header h2');
+                if (heading && !heading.querySelector('.sentinel-profile-grade')) {
+                    heading.appendChild(_gradeBadgeEl);
+                }
+            };
+
+            var hideMoodleAvatar = function() {};
 
             // Caso 1: perfil estándar de Moodle (página /user/profile.php o perfil propio).
             var anchor = document.querySelector('.myprofileitem.picture') ||
@@ -820,13 +1078,20 @@ define([], function() {
                 anchor.style.gap        = '12px';
                 anchor.style.flexWrap   = 'wrap';
                 anchor.insertBefore(widget, anchor.firstChild);
+                insertAfterWidget(anchor);
+                hideMoodleAvatar(anchor);
+                placeBadgeNextToName();
                 return true;
             }
 
             // Caso 2: perfil dentro de un curso (Boost 4.x usa .page-header-image).
             var headerImg = document.querySelector('.page-header-image');
             if (headerImg) {
-                headerImg.parentNode.insertBefore(widget, headerImg);
+                var headerParent = headerImg.parentNode;
+                headerParent.insertBefore(widget, headerImg);
+                insertAfterWidget(headerParent);
+                hideMoodleAvatar(headerParent);
+                placeBadgeNextToName();
                 return true;
             }
 
@@ -840,19 +1105,30 @@ define([], function() {
                 anchor.style.gap        = '12px';
                 anchor.style.flexWrap   = 'wrap';
                 anchor.insertBefore(widget, img);
+                insertAfterWidget(anchor);
+                hideMoodleAvatar(anchor);
+                placeBadgeNextToName();
                 return true;
             }
 
-            // Caso 4: avatar de iniciales (span.userinitials) — informe general y otras páginas
-            // que no usan .page-header-image pero sí muestran iniciales del alumno.
-            // Acotar al contenido principal para no capturar el avatar del profesor en la navbar.
+            // Caso 4: avatar de iniciales (span.userinitials).
             var mainContent = document.querySelector('#page-content') ||
                               document.querySelector('[role="main"]') ||
                               document.body;
             var initialsEl = mainContent.querySelector('.userinitials');
             if (initialsEl) {
-                var avatarWrap = initialsEl.closest('.page-header-image') || initialsEl.parentNode;
-                avatarWrap.parentNode.insertBefore(widget, avatarWrap);
+                var avatarWrap = initialsEl.closest('.page-header-image')
+                              || initialsEl.closest('.page-header-headings')
+                              || initialsEl.parentNode;
+                var container = avatarWrap.parentNode;
+                container.style.display    = 'flex';
+                container.style.alignItems = 'center';
+                container.style.gap        = '12px';
+                container.style.flexWrap   = 'wrap';
+                container.insertBefore(widget, avatarWrap);
+                insertAfterWidget(container);
+                hideMoodleAvatar(container);
+                placeBadgeNextToName();
                 return true;
             }
 

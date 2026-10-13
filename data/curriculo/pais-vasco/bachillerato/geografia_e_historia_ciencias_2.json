@@ -1,0 +1,73 @@
+{
+    "community": "pais-vasco",
+    "stage": "bachillerato",
+    "decree": "Decreto 82\/2023, de 13 de junio",
+    "subject": "geografia_e_historia_ciencias",
+    "subject_name": "Historia de la Música y de la Danza II",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Conocer y valorar obras de arte pictóricas, a través de la observación de distintas manifestaciones artísticas",
+            "description": "Conocer y valorar obras de arte pictóricas, a través de la observación de distintas manifestaciones artísticas, para poder relacionarlas con el contexto social, histórico y cultural y entender la necesidad de la conservación del patrimonio.",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Relacionar las diferentes técnicas y estilos de pintura con el contexto social, histórico y cultural, mediante la observación desprejuiciada de obras de arte."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Reconocer producciones de diferentes épocas y contextos valorando el enriquecimiento que supone la diversidad cultural y artística de las diferentes técnicas y estilos pictóricos,así como la importancia de su conservación."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Investigar y analizar obras de arte pictóricas teniendo en cuenta los diversos",
+            "description": "Investigar y analizar obras de arte pictóricas teniendo en cuenta los diversos movimientos y períodos de la historia del arte, para desarrollar la recepción y el deleite estético y comprender la intención y el sentido de estas propuestas utilizando c…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Analizar producciones artísticas, para fomentar el deleite estético en un contexto diverso y multicultural, estableciendo metodologías variadas de acercamiento y estudio."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Participar activamente en la recepción de producciones pictóricas, investigando en sus procesos de creación",
+            "description": "Participar activamente en la recepción de producciones pictóricas, investigando en sus procesos de creación, para desarrollar la capacidad de distinguir su grado de sostenibilidad y su impacto medioambiental. Mediante el conocimiento, la investigació…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Descubrir con interés los diferentes procedimientos, materiales e instrumentos que intervienen en el proceso de creación pictórica, aplicando procedimientos de observación, búsqueda y selección de información y analizando su sostenibilidad e impacto medioambiental."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Clasificar las diferentes técnicas de pintura, ateniéndose al contexto histórico, comunicativo y expresivo de las mismas, mediante el estudio, sin ideas preconcebidas, de obras de arte de los periodos y artistas más relevantes."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Desarrollar la capacidad de expresión por medio de la experimentación con",
+            "description": "Desarrollar la capacidad de expresión por medio de la experimentación con distintos materiales, utensilios y técnicas para desarrollar la autonomía, creatividad e imaginación personal y construir un sentido crítico en un clima de autoestima y de conf…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Experimentar de manera creativa con los diferentes medios del lenguaje pictórico, desarrollando la capacidad de ex presión personal y autónoma, mediante la creación de producciones artísticas motivadas por propuestas tanto libres como orientadas. 4.2.Improvisar de manera creativa e imaginativa, con las diferentes técnicas pictóricas en un proyecto individual, constru yendo el sentido crítico y desarrollando la autoestima que potencia el crecimiento personal."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Realizar producciones artísticas, tanto individuales como colectivas, adecuando",
+            "description": "Realizar producciones artísticas, tanto individuales como colectivas, adecuando los recursos y valorando la calidad de la ejecución, para expresar ideas, opiniones y sentimientos y establecer un discurso empático hacia el trabajo propio y ajeno.",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Seleccionar creativamente los recursos adecuados para cada situación expresiva y comunicativa, aplicándolos en la realización de producciones plásticas con un motivo determinado. 5.2.Resolver con destreza y dominio técnico propuestas artísticas individuales y colectivas con temáticas concretas."
+                }
+            ]
+        }
+    ]
+}

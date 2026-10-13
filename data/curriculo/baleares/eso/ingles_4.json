@@ -1,0 +1,116 @@
+{
+    "community": "baleares",
+    "stage": "eso",
+    "decree": "",
+    "subject": "ingles",
+    "subject_name": "Llengua Estrangera",
+    "grade": 4,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Comprendre i interpretar el sentit general i els detalls mes rellevants de",
+            "description": "comprendre i interpretar el sentit general i els detalls mes rellevants de texts expressats de manera clara i en la llengua estàndard, cercant fonts fiables i fent ús d'estratègies com la inferència de significats, per respondre a necessitats comunic…",
+            "criterios": [
+                {
+                    "code": "CA1.1",
+                    "description": "Extreure i analitzar el sentit global i les idees principals, i seleccionar informació pertinent de texts orals, escrits i multimodals sobre temes quotidians, de rellevància personal o d’interès públic pròxims a l’experiència dels alumnes, expressats de manera clara i en la llengua estàndard a través de diversos suports. Extreure i analitzar el sentit global de texts escrits, orals i multimodals, breus i senzills en llengua estàndard, captant, per exemple, el missatge principal, el propòsit de l’autor i el context general. Seleccionar informació rellevant de texts escrits, orals i multimodals, breus i senzills, en llengua estàndard per respondre preguntes concretes. Extreure informació explícita i implícita de texts multimodals en llengua estàndard sobre aspectes de la vida quotidiana, d’actualitat, tals com notícies adaptades o infografies amb informació visual i textual. Entendre texts sobre temes quotidians (p. ex., plans de cap de setmana o diàlegs entre companys), de rellevància personal (p. ex., texts acadèmics relacionats amb el seu aprenentatge o narratives d’interès juvenil) o d’interès públic pròxims a la seva experiència (p. ex., notícies i articles d’actualitat adaptats, vídeos sobre temes del seu interès o cartells i tríptics)."
+                },
+                {
+                    "code": "CA1.2",
+                    "description": "Interpretar i valorar el contingut i els trets discursius de texts progressivament més complexos propis dels àmbits de les relacions interpersonals, dels mitjans de comunicació social i de l’aprenentatge, com també de texts literaris adequats al nivell de maduresa dels alumnes. Interpretar i valorar texts més complexos propis dels àmbits de les relacions interpersonals, dels mitjans de comunicació social i de l’aprenentatge, com també de texts literaris adequats al nivell de maduresa dels alumnes. Inferir informació implícita a partir de pistes contextuals, distingint entre fets i opinions en texts senzills. Expressar una opinió personal breu, relacionant el contingut amb coneixements previs i justificant de forma senzilla els arguments. Identificar estructures discursives més complexes (p. ex., seqüència, causa-efecte, concessió), en texts informatius i descriptius senzills. Valorar, de manera més elaborada, si el llenguatge i l’estructura del text són adequats i compleixen el seu propòsit."
+                },
+                {
+                    "code": "CA1.3",
+                    "description": "Seleccionar, organitzar i aplicar les estratègies i coneixements més adequats en cada situació comunicativa per comprendre el sentit general, la informació essencial i els detalls més rellevants dels texts; inferir significats i interpretar elements no verbals; i cercar, seleccionar i gestionar informació veraç. Seleccionar, de forma més autònoma, les estratègies adequades segons el tipus de text i la situació comunicativa, decidint si utilitzar una lectura analítica o crítica en un text d’opinió, per exemple. Sintetitzar informació de diverses fonts amb formats més avançats, com taules comparatives, presentant diferències entre dos texts en un esquema visual, per exemple. Aplicar estratègies complexes, com per exemple, connectar idees entre diferents paràgrafs, inferir implicacions generals d’un text, relacionar informació d’un article amb dades annexes o identificar un patró de comparació en un text sobre avantatges i desavantatges. Identificar intencions més complexes com ironia o sarcasme en texts moderadament formals, deduint, per exemple, el significat implícit d’un anunci publicitari. Analitzar elements visuals complexos, com gràfics comparatius o diagrames i contrastar-los amb el contingut textual, identificant, per exemple, discrepàncies entre un text i un gràfic. Cercar, seleccionar i comparar informació de diferents fonts (p. ex., informació procedent de fonts acadèmiques envers blogs), avaluant-ne la fiabilitat. estratègies com ara la planificació, la compensació o l’autoreparació, per expressar de manera creativa, adequada i coherent missatges rellevants i respondre a propòsits comunicatius concrets."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Produir texts originals, d'extensio mitjana, senzills i amb una organitzacio",
+            "description": "produir texts originals, d'extensio mitjana, senzills i amb una organitzacio clara, usant estratègies com ara la planificació, la compensació o l'autoreparació, per expressar de manera creativa, adequada i coherent, missatges rellevants i respondre a…",
+            "criterios": [
+                {
+                    "code": "CA2.1",
+                    "description": "Expressar oralment texts senzills, estructurats, comprensibles, coherents i adequats a la situació comunicativa, sobre assumptes quotidians de rellevància personal o d’interès públic pròxim a l’experiència dels alumnes, amb la finalitat de descriure’ls, narrar-los, informar-ne i proporcionarne arguments, en diferents suports, utilitzant recursos verbals i no verbals, i estratègies de planificació, control, compensació i cooperació. Descriure, narrar, informar i argumentar oralment sobre assumptes quotidians, de rellevància personal o d’interès públic pròxim a l’alumne. Seleccionar i utilitzar un registre adequat al context i a l’audiència, diferenciant entre registres formals i informals. Comunicar oralment texts senzills, estructurats, comprensibles, coherents i adequats a la situació comunicativa. Utilitzar suports analògics o digitals de manera efectiva (p. ex., presentacions multimèdia o infografies) per comunicar missatges orals estructurats. Utilitzar recursos verbals i no verbals com l’entonació, el volum, la pronunciació, el llenguatge corporal o el contacte visual. - Utilitzar estratègies de planificació i de control més avançades, a més de les estratègies de compensació, utilitzant paràfrasis senzilles, sinònims, i eines de cooperació com respectar el torn de paraula i confirmar-ne la comprensió."
+                },
+                {
+                    "code": "CA2.2",
+                    "description": "Redactar i difondre texts d’extensió mitjana amb acceptable claredat, coherència, cohesió, correcció i adequació a la situació comunicativa proposada, a la tipologia textual i a les eines analògiques i digitals utilitzades sobre assumptes quotidians, de rellevància personal o d’interès públic pròxims a la seva experiència, respectant la propietat intel·lectual i evitant el plagi. Redactar texts originals d’extensió mitjana, sobre temes personals, educatius o públics com una carta formal o una opinió sobre un tema conegut. Estructurar els texts amb correcció i claredat, emprant connectors més avançats per cohesionar les idees. Presentar i compartir texts utilitzant eines digitals avançades amb elements visuals i multimèdia (p. ex., gràfics, imatges, vídeos). Respectar les produccions dels altres, evitant el plagi i citant fonts de forma adequada. Utilitzar correctament el repertori lingüístic amb precisió i flexibilitat, incorporant lèxic més ric i precís per abordar temes d’interès públic o acadèmic. Adequar els texts al propòsit comunicatiu i a la tipologia textual (descriptiva, expositiva, argumentativa, narrativa)."
+                },
+                {
+                    "code": "CA2.3",
+                    "description": "Seleccionar, organitzar i aplicar coneixements i estratègies per planificar, produir, revisar i cooperar en l’elaboració de texts coherents, cohesionats i adequats a les intencions comunicatives, les característiques contextuals, els aspectes socioculturals i la tipologia textual, usant els recursos físics o digitals més adequats en funció de la tasca i de les necessitats de l’interlocutor potencial a qui es dirigeix el text. Estratègies de planificació: Investigar i seleccionar informació de diverses fonts per redactar texts funcionals com articles d’opinió o queixes. Adaptar el contingut, el llenguatge i el to al destinatari i al context (p. ex., una opinió formal en una carta dirigida a l’ajuntament). Organitzar la informació amb una estructura argumentativa (introducció amb tesi, desenvolupament amb arguments, conclusió). Estratègies de producció: Organitzar la informació de manera lògica i estructurar el text amb una seqüència clara (introducció, desenvolupament, conclusió) emprant connectors i sinònims per millorar-ne la fluïdesa i evitar repeticions. Presentar els textos de manera ordenada i adequada al context comunicatiu, utilitzant elements visuals (gràfics, imatges, esquemes) per reforçar el missatge, estructurant el contingut de forma cohesionada (títols, subtítols, enumeracions) i adaptant el format a la tipologia textual (ex. treballs acadèmics, presentacions digitals). Començar a incorporar lèxic especialitzat i expressions formals o acadèmiques en texts expositius i argumentatius, adaptant-se a diferents registres. Participar en debats orals sobre temes d’interès general (p. ex. avantatges i desavantatges de l’ús del mòbil) o redactar texts col·laboratius (articles d’opinió). Utilitzar, amb progressiva autonomia, eines analògiques i digitals adequades, com diccionaris més complets, correctors gramaticals i eines digitals, per col·laborar, o recursos audiovisuals, per reforçar les produccions orals (p. ex., presentacions multimèdia amb suport visual o gràfic). Estratègies de revisió: Revisar, de manera més autònoma, identificant errors de claredat i coherència, emprant estratègies de coavaluació i l’autoavaluació."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Interactuar amb altres persones amb creixent autonomia, usant estrategies de",
+            "description": "interactuar amb altres persones amb creixent autonomia, usant estrategies de cooperació i emprant recursos analògics i digitals, per respondre a propòsits comunicatius concrets en intercanvis respectuosos amb les normes de cortesia. La interacció imp…",
+            "criterios": [
+                {
+                    "code": "CA3.1",
+                    "description": "Planificar, participar i col·laborar activament, a través de diversos suports, en situacions interactives sobre temes quotidians, de rellevància personal o d’interès públic pròxims a l’experiència dels alumnes, tot mostrant iniciativa, empatia i respecte per la cortesia lingüística, l’etiqueta digital, i les diferents necessitats, idees, inquietuds, iniciatives i motivacions dels interlocutors. Planificar i participar en interaccions sobre temes quotidians, personals o d’interès públic que siguin pròxims a les seves experiències. Col·laborar activament en interaccions, negociant idees o assumint responsabilitats específiques. Emprar diversos suports com videoconferències, aplicacions educatives o xats, respectant les normes d’etiqueta digital. Utilitzar estratègies per gestionar malentesos (p. ex. demanar aclariments, reformular idees). Desenvolupar interaccions breus en què es respectin les fórmules de cortesia. Mostrar respecte i empatia per les necessitats, idees, inquietuds, iniciatives i motivacions dels interlocutors."
+                },
+                {
+                    "code": "CA3.2",
+                    "description": "Seleccionar, organitzar i utilitzar estratègies adequades per iniciar, mantenir i acabar la comunicació, prendre i cedir la paraula, sol·licitar i formular aclariments i explicacions, reformular, comparar i contrastar, resumir, col·laborar, debatre, resoldre problemes i gestionar situacions compromeses. Iniciar, mantenir i acabar la comunicació, de manera progressivament autònoma, en situacions cada vegada de més complexitat. Participar en discussions senzilles, expressar idees pròpies amb respecte i comparar opcions utilitzant justificacions bàsiques. Iniciar i mantenir converses senzilles sobre temes quotidians, respectant el torn de paraula i fent ús d’expressions bàsiques per demanar aclariments o col·laborar. Resumir i reformular la informació més rellevant en interaccions senzilles, adaptant el llenguatge a les característiques del context comunicatiu. coneixements senzills orientats a explicar conceptes o simplificar missatges, per transmetre informació de manera eficaç, clara i responsable."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Mediar, en situacions quotidianes, entre diferents llengues, usant estrategies",
+            "description": "mediar, en situacions quotidianes, entre diferents llengues, usant estrategies i coneixements senzills orientats a explicar conceptes o simplificar missatges, per transmetre informació de manera eficaç, clara i responsable. La mediació és l'activitat…",
+            "criterios": [
+                {
+                    "code": "CA4.1",
+                    "description": "Inferir i explicar texts, conceptes i comunicacions breus i senzilles en situacions en les quals atendre la diversitat, mostrant respecte i empatia pels interlocutors i per les llengües emprades, i participant en la solució de problemes d’intercomprensió i d’enteniment en el seu entorn, basant-se en diversos recursos i suports. Resumir informació clau de texts curts (per exemple, correus electrònics o fullets) i transmetre-la de manera senzilla, utilitzant esquemes o presentacions visuals per organitzar la informació. Col·laborar amb altres per estructurar idees senzilles i resoldre problemes senzills utilitzant recursos visuals. Participar en interaccions senzilles per ajudar a superar confusions culturals o lingüístiques bàsiques entre interlocutors, mostrant respecte i estima pels interlocutors i per les llengües emprades. Adaptar la comunicació a les necessitats i contexts dels interlocutors, respectant les seves perspectives culturals i lingüístiques i mostrant empatia en situacions senzilles."
+                },
+                {
+                    "code": "CA4.2",
+                    "description": "Aplicar estratègies que ajudin a crear ponts, facilitin la comunicació i serveixin per explicar i simplificar texts, conceptes i missatges, i que siguin adequades a les intencions comunicatives, les característiques contextuals i la tipologia textual, usant recursos i suports físics o digitals en funció de les necessitats de cada moment. Aplicar estratègies per comunicar texts, conceptes i missatges breus i adequar-los al propòsit comunicatiu com informar o descriure. Utilitzar eines visuals o digitals (infografies, línies de temps, etc.) per estructurar texts i missatges senzills i clars. Adequar els missatges a les intencions comunicatives com informar, descriure, persuadir o entretenir i adaptar-los a la tipologia textual (narrativa, descripció, argumentació) i al context sociocultural. de manera crítica sobre el seu funcionament i prenent consciència de les estratègies i coneixements propis, per millorar la resposta a necessitats comunicatives concretes."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Ampliar i usar els repertoris linguistics personals entre diferents llengues,",
+            "description": "ampliar i usar els repertoris linguistics personals entre diferents llengues, reflexionant de manera crítica sobre el seu funcionament i prenent consciència de les estratègies i coneixements propis, per millorar la resposta a necessitats comunicative…",
+            "criterios": [
+                {
+                    "code": "CA5.1",
+                    "description": "Comparar i argumentar les semblances i diferències entre diferents llengües reflexionant, de manera progressivament autònoma, sobre el seu funcionament. Comparar i explicar, de forma senzilla però argumentada, les semblances i diferències entre llengües (p. ex. les estructures lingüístiques i usos més freqüents). Aplicar estratègies de transferència lingüística per produir estructures més complexes en la llengua estrangera, com les oracions subordinades. Aplicar estratègies d’autocorrecció i revisió per minimitzar errors per interferència lingüística, mostrant major autonomia."
+                },
+                {
+                    "code": "CA5.2",
+                    "description": "Utilitzar de manera creativa estratègies i coneixements de millora de la capacitat de comunicar i d’aprendre la llengua estrangera amb suport d’altres participants i de suports analògics i digitals. Seleccionar i combinar de manera creativa i autònoma diferents recursos i eines per a l’aprenentatge. Participar en intercanvis de comunicació més complexos com la participació activa en projectes col·laboratius. Analitzar el progrés i adaptar les estratègies d’aprenentatge a les pròpies necessitats."
+                },
+                {
+                    "code": "CA5.3",
+                    "description": "Registrar i analitzar els progressos i dificultats d’aprenentatge de la llengua estrangera seleccionant les estratègies més eficaces per superar aquestes dificultats i consolidar l’aprenentatge, realitzant activitats de planificació del propi aprenentatge, autoavaluació i coavaluació, com les propostes en el Portafoli Europeu de les Llengües (PEL) o en un diari d’aprenentatge, fent aquests progressos i dificultats explícits i compartint-los. Registrar i analitzar, de manera autònoma, els progressos i dificultats en l’aprenentatge, mantenint registres detallats en eines com el PEL o diaris d’aprenentatge digitals. Seleccionar i implementar estratègies efectives per superar les dificultats i consolidar l’aprenentatge, com l’ús de tècniques avançades d’estudi, assistència a tallers de reforç o pràctiques d’immersió lingüística. Participar en activitats de planificació avançada del propi aprenentatge, com dissenyar projectes personals relacionats amb la llengua estrangera o establir objectius a llarg termini. Realitzar autoavaluacions i coavaluacions crítiques, participant en debats sobre criteris d’avaluació i proposant millores en els processos d’aprenentatge col·lectius. Comunicar, de manera detallada, els progressos i dificultats (p. ex., elaborant portafolis digitals o presentacions multimèdia que mostrin el desenvolupament competencial), compartint-los amb la comunitat educativa. la llengua estrangera, identificant i compartint les semblances i les diferències entre llengües i cultures, per actuar de manera empàtica i respectuosa en situacions interculturals."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Valorar criticament i adequar-se a la diversitat linguistica, cultural i",
+            "description": "valorar criticament i adequar-se a la diversitat linguistica, cultural i artistica a partir de la llengua estrangera, identificant i compartint les semblances i les diferències entre llengües i cultures, per actuar de manera empàtica i respectuosa en…",
+            "criterios": [
+                {
+                    "code": "CA6.1",
+                    "description": "Actuar de manera adequada, empàtica i respectuosa en situacions interculturals, construint vincles entre les diferents llengües i cultures, rebutjant qualsevol tipus de discriminació, prejudici i\/o estereotip en contexts comunicatius quotidians i proposant vies de solució a aquells factors socioculturals que dificultin la comunicació. Mostrar una actitud empàtica en interaccions interculturals, intentant comprendre les perspectives i necessitats de persones d’altres cultures. Respectar i valorar les diferències lingüístiques i culturals com a part del diàleg intercultural, evitant imposar visions pròpies. Rebutjar qualsevol discriminació, prejudici o estereotip durant la comunicació diària. Proposar solucions senzilles per millorar la comunicació quan hi hagi dificultats socioculturals."
+                },
+                {
+                    "code": "CA6.2",
+                    "description": "Valorar, críticament, en relació amb els drets humans i adequar-se a la diversitat lingüística, cultural i artística pròpia de països on es parla la llengua estrangera, afavorint el desenvolupament d’una cultura compartida i una ciutadania compromesa amb la sostenibilitat i els valors democràtics. Explicar les diferències i semblances en les cultures dels diferents països, mostrant respecte davant les diferents perspectives. Adaptar-se a diferents entorns culturals i lingüístics amb una perspectiva inclusiva, mediant en malentesos culturals entre companys. Participar en converses sobre temes culturals d’interès comú per afavorir la creació d’una cultura compartida i el respecte envers els valors democràtics i els drets humans. Proposar accions sostenibles inspirades en pràctiques de les diferents cultures."
+                },
+                {
+                    "code": "CA6.3",
+                    "description": "Aplicar estratègies per defensar i apreciar la diversitat lingüística, cultural i artística, atenent a valors ecosocials i democràtics i respectant els principis de justícia, equitat i igualtat. Participar activament en activitats interculturals (debats, activitats o projectes) que promoguin la diversitat lingüística, cultural i artística a més dels valors ecosocials (solidaritat, equitat, justícia social, sostenibilitat, inclusió, etc.). Mostrar una actitud proactiva en la defensa de la diversitat en contexts interculturals, considerant la seva importància per a una societat equitativa. Demostrar una comprensió de la diversitat cultural en situacions complexes, relacionant-la amb els valors socials."
+                }
+            ]
+        }
+    ]
+}

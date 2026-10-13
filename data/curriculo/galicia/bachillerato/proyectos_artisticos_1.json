@@ -1,0 +1,121 @@
+{
+    "community": "galicia",
+    "stage": "bachillerato",
+    "decree": "Decreto 157\/2022, de 15 de septiembre",
+    "subject": "proyectos_artisticos",
+    "subject_name": "Proyectos Artísticos",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Generar y perfeccionar ideas de proyecto consultando distintas fuentes,",
+            "description": "Generar y perfeccionar ideas de proyecto consultando distintas fuentes, experimentando con técnicas y estrategias creativas, elaborando bocetos y maquetas y valorando críticamente la relevancia artística, la viabilidad y la sostenibilidad de esas ide…",
+            "criterios": [
+                {
+                    "code": "CE1.1",
+                    "description": "Generar y perfeccionar ideas de proyecto consultando distintas fuentes, elaborando bocetos y maquetas y experimentando con las técnicas y estrategias artísticas más adecuadas en cada caso."
+                },
+                {
+                    "code": "CE2.1",
+                    "description": "Generar y perfeccionar ideas de proyecto consultando distintas fuentes, elaborando bocetos y maquetas y experimentando con las técnicas y estrategias artísticas más adecuadas en cada caso."
+                },
+                {
+                    "code": "CE2.2",
+                    "description": "Seleccionar una propuesta concreta para un proyecto, justificando su relevancia artística, su viabilidad, su sostenibilidad y su adecuación a la intención con la que fue concebida y a las características del marco de recepción previsto."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Planificar adecuadamente las fases y el proceso de trabajo de un proyecto",
+            "description": "Planificar adecuadamente las fases y el proceso de trabajo de un proyecto artístico considerando los recursos disponibles y evaluando su sostenibilidad, para conseguir un resultado ajustado a los plazos, a las características del espacio y, en su cas…",
+            "criterios": [
+                {
+                    "code": "CE1.2",
+                    "description": "Proponer soluciones creativas en la organización de un proyecto artístico buscando el máximo aprovechamiento de los recursos disponibles."
+                },
+                {
+                    "code": "CE2.3",
+                    "description": "Establecer el plan de trabajo de un proyecto artístico organizando correctamente sus fases, evaluando su sostenibilidad y ajustándolo a los plazos, a las características del espacio y, en su caso, al presupuesto previsto."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Realizar proyectos artísticos, individuales o colectivos, asumiendo diferentes",
+            "description": "Realizar proyectos artísticos, individuales o colectivos, asumiendo diferentes funciones, seleccionando espacios, técnicas, medios y soportes e identificando oportunidades de desarrollo personal, social, académico y profesional, para expresar una int…",
+            "criterios": [
+                {
+                    "code": "CE1.3",
+                    "description": "Participar activamente en la realización de proyectos artísticos, individuales o colectivos, asumiendo diferentes funciones y seleccionando los espacios, las técnicas, los medios y los soportes más adecuados."
+                },
+                {
+                    "code": "CE1.4",
+                    "description": "Identificar oportunidades de desarrollo personal, social, académico o profesional, relacionadas con el ámbito artístico, comprendiendo su valor añadido y expresando la opinión personal de forma crítica y respetuosa."
+                },
+                {
+                    "code": "CE2.4",
+                    "description": "Participar activamente en la realización de proyectos artísticos, individuales o colectivos, asumiendo diferentes funciones y seleccionando los espacios, las técnicas, los medios y los soportes más adecuados."
+                },
+                {
+                    "code": "CE2.5",
+                    "description": "Explicar, de forma razonada, la intención expresiva o funcional de un proyecto artístico, detallando los efectos que se espera que este tenga en el entorno."
+                },
+                {
+                    "code": "CE2.6",
+                    "description": "Argumentar las decisiones relativas a la ejecución del proyecto, asegurando la coherencia de estas decisiones con la intención expresiva o funcional y con los efectos esperados."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Compartir, con actitud abierta y respetuosa, las distintas fases del proyecto",
+            "description": "Compartir, con actitud abierta y respetuosa, las distintas fases del proyecto intercambiando ideas, comentarios y opiniones con diversas personas, incluido el público receptor, para evaluar la marcha del proyecto, incorporar aportaciones de mejora y …",
+            "criterios": [
+                {
+                    "code": "CE1.5",
+                    "description": "Compartir, a través de diversos medios y soportes, las distintas fases del proyecto, poniéndolo en relación con el resultado final esperado y solicitando, de manera abierta y respetuosa, las críticas, los comentarios y las aportaciones de mejora formuladas por distintas personas, incluido el público receptor."
+                },
+                {
+                    "code": "CE1.6",
+                    "description": "Valorar las críticas, los comentarios y las aportaciones de mejora recibidas, incorporando de manera justificada aquellas que redunden en beneficio del proyecto y de su repercusión en el entorno."
+                },
+                {
+                    "code": "CE2.7",
+                    "description": "Compartir, a través de diversos medios y soportes, las distintas fases del proyecto, poniéndolo en relación con el resultado final esperado y solicitando, de manera abierta y respetuosa, las críticas, los comentarios y las aportaciones."
+                },
+                {
+                    "code": "CE2.8",
+                    "description": "Evaluar la repercusión que el proyecto ha tenido en el entorno, considerando las valoraciones del público receptor y analizando el logro de la intención inicial expuesta, así como la pertinencia de las soluciones puestas en práctica ante las dificultades afrontadas a lo largo del proceso."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Tratar correctamente la documentación de un proyecto artístico seleccionando",
+            "description": "Tratar correctamente la documentación de un proyecto artístico seleccionando las fuentes más adecuadas, elaborando los documentos necesarios, registrando el proceso creativo y archivando adecuadamente todo el material, para dejar constancia de las di…",
+            "criterios": [
+                {
+                    "code": "CE1.7",
+                    "description": "Seleccionar diversas fuentes para la elaboración del proyecto, justificando su utilidad teórica, informativa o inspiradora."
+                },
+                {
+                    "code": "CE1.8",
+                    "description": "Elaborar la documentación necesaria para desarrollar un proyecto artístico, considerando las posibilidades de aplicación y ajustándose a los modelos más adecuados."
+                },
+                {
+                    "code": "CE1.9",
+                    "description": "Archivar correctamente la documentación, garantizando la accesibilidad y la facilidad de su recuperación."
+                },
+                {
+                    "code": "CE2.9",
+                    "description": "Elaborar la documentación necesaria para desarrollar un proyecto artístico, considerando las posibilidades de aplicación y ajustándose a los modelos más adecuados."
+                },
+                {
+                    "code": "CE2.10",
+                    "description": "Registrar las distintas fases del proyecto adoptando un enfoque reflexivo y de autoevaluación."
+                }
+            ]
+        }
+    ]
+}

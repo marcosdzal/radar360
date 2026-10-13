@@ -1,0 +1,73 @@
+{
+    "community": "canarias",
+    "stage": "bachillerato",
+    "decree": "Decreto 73\/2023, de 13 de abril",
+    "subject": "lenguaje_practica_musical",
+    "subject_name": "Lenguaje y Práctica Musical",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "(c1) La importancia de esta competencia específica radica en la oportunidad que",
+            "description": "(c1) La importancia de esta competencia específica radica en la oportunidad que ofrece al alumnado para desarrollar estrategias de atención y escucha activa.",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Explicar los parámetros musicales de una obra mediante escucha activa y vocabulario técnico adecuado."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "(c2) Esta competencia específica permitirá profundizar en el conocimiento de",
+            "description": "(c2) Esta competencia específica permitirá profundizar en el conocimiento de los elementos del lenguaje musical, a través de su descripción y comparación en tareas de análisis de partituras. A su vez se vincularán estos elementos con su representació…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Describir los elementos musicales de partituras convencionales y no convencionales de distintas épocas."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "(c3) La competencia específica se define en dos criterios de evaluación, que se",
+            "description": "(c3) La competencia específica se define en dos criterios de evaluación, que se centran en el desarrollo de habilidades expresivas y creativas. Las dinámicas de interpretación permitirán desarrollar y aplicar técnicas vocales, instrumentales y coreog…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Leer e interpretar partituras sencillas de forma autónoma, con o sin apoyo auditivo."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Interpretar fragmentos musicales sencillos desde la partitura, de forma individual o colectiva, usando voz, cuerpo o instrumentos."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "(c4) Esta competencia específica, desarrollada en dos criterios de evaluación,",
+            "description": "(c4) Esta competencia específica, desarrollada en dos criterios de evaluación, aborda aprendizajes relativos a la planificación y desarrollo de proyectos artísticos. A través del primer criterio se propondrán situaciones en las que el alumnado podrá …",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Planificar y desarrollar un proyecto musical en grupo seleccionando o creando materiales a partir de los aprendizajes."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Asume distintos roles en proyectos musicales colaborativos, valora las aportaciones del grupo y detecta oportunidades de desarrollo personal, social, académico y profesional."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "(c5) La competencia específica, concretada en un único criterio de evaluación,",
+            "description": "(c5) La competencia específica, concretada en un único criterio de evaluación, ofrece la posibilidad de experimentar las opciones que ofrecen las herramientas digitales para la edición de partituras, la grabación y edición de sonido y la planificació…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "El alumnado elabora proyectos musicales empleando herramientas digitales de edición, sonido y audiovisual."
+                }
+            ]
+        }
+    ]
+}

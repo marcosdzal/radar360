@@ -1,0 +1,188 @@
+{
+    "community": "cataluna",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "ingles",
+    "subject_name": "Llengua Estrangera II",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Identificar els aspectes bàsics de la llengua grega, distingir i analitzar les",
+            "description": "Identificar els aspectes bàsics de la llengua grega, distingir i analitzar les unitats lingüístiques i reflexionar-hi mitjançant la comparació amb la llengua d'ensenyament i amb altres llengües del repertori individual de l'alumnat, per traduir i int…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Actuar de manera adequada, empàtica i respectuosa en situacions interculturals, construint vincles entre les diferents llengües i cultures, avaluant i rebutjant qualsevol tipus de discriminació, prejudici i estereotip, i proposant contrastadament vies de solució als factors socioculturals que dificultin la comunicació."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Valorar críticament la diversitat lingüística, cultural i artística pròpia de països on es parla la llengua estrangera, en relació amb els drets humans, i adequar-s’hi a partir de situacions que afavoreixin, fomentin i justifiquin el desenvolupament d’una ciutadania compromesa amb la sostenibilitat i els valors democràtics."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Distingir els ètims i formants grecs presents en el lèxic d'ús quotidià,",
+            "description": "Distingir els ètims i formants grecs presents en el lèxic d'ús quotidià, identificant els canvis semàntics que hagin tingut lloc i establint una comparació amb la llengua d'ensenyament i altres llengües del repertori individual de l'alumnat, per dedu…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Extreure i analitzar les idees principals, la informació detallada i les implicacions generals de textos orals i multimodals d’una certa longitud i complexos, formals i informals, sobre temes de rellevància personal o d’interès públic, tant concrets com abstractes, expressats de forma clara i en la llengua estàndard o en varietats freqüents, fins i tot en entorns moderadament sorollosos, per mitjà de diversos suports."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Interpretar i valorar de manera crítica el contingut, la intenció, els trets discursius i certs matisos, com ara la ironia o l’ús estètic de la llengua, de textos d’una certa longitud i complexitat sobre una àmplia varietat de temes de rellevància personal o d’interès social."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Seleccionar, organitzar i aplicar les estratègies i els coneixements que permetin comprendre la informació global i específica, i distingir la intenció implícita i explícita dels textos, mitjançant la inferència de significats i la interpretació d’elements no verbals, així com la cerca, la selecció, la comprovació i el contrast, i la reformulació d’informació veraç."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Interpretar i valorar, amb sentit crític, textos grecs de diferents gèneres i",
+            "description": "Interpretar i valorar, amb sentit crític, textos grecs de diferents gèneres i èpoques, assumint el procés creatiu com a complex i inseparable del context històric, social i polític i de les seves influències artístiques, per identificar-ne la genealo…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Expressar oralment amb suficient fluïdesa, facilitat i naturalitat, evitant errors importants i utilitzant registres adequats, diversos tipus de textos clars, coherents, detallats i adequats a l’interlocutor i al propòsit comunicatiu sobre assumptes de rellevància personal o d’interès social, coneguts per l’alumnat, que permetin descriure, narrar, argumentar i informar, en diferents suports, utilitzant recursos verbals i no verbals, i també utilitzar estratègies de planificació, control, compensació i cooperació."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Planificar, participar i col·laborar assertivament i activament, mitjançant diversos suports, sobre temes quotidians, de rellevància personal o d’interès social pròxims a la seva experiència, mostrant iniciativa, empatia i respecte per la cortesia lingüística i l’etiqueta digital i per les diferents necessitats, idees, inquietuds, iniciatives i motivacions dels interlocutors, expressant idees i opinions amb precisió i argumentant de forma convincent."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Seleccionar, organitzar i utilitzar, de forma eficaç, espontània i en diferents entorns, estratègies adequades per iniciar, mantenir i acabar la comunicació, prendre i cedir la paraula amb amabilitat, ajustar la pròpia contribució a la dels interlocutors percebent les seves reaccions, sol·licitar i formular aclariments i explicacions, reformular, comparar i contrastar, resumir, col·laborar, debatre, resoldre problemes i gestionar situacions compromeses."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Analitzar i percebre les característiques de la civilització grega en l'àmbit",
+            "description": "Analitzar i percebre les característiques de la civilització grega en l'àmbit personal —individual i col·lectiu— religiós i sociopolític, adquirint coneixements sobre el món hel·lènic i comparant críticament el present i el passat, per valorar les ap…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Extreure i analitzar les idees principals, la informació detallada i les implicacions generals de textos escrits i multimodals d’una certa longitud i complexos, formals i informals, sobre temes de rellevància personal o d’interès social, concrets i abstractes, expressats de forma clara i en la llengua estàndard o en varietats freqüents, mitjançant suports diversos."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Interpretar i valorar de manera crítica el contingut, la intenció, els trets discursius i certs matisos, com ara la ironia o l’ús estètic de la llengua, de textos d’una certa longitud i complexitat, incloent-hi els literaris, sobre una àmplia varietat de temes de rellevància personal o d’interès públic."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Seleccionar, organitzar i aplicar les estratègies i els coneixements que permetin comprendre el sentit general, la informació essencial i els detalls més rellevants, i distingir la intenció implícita i explícita dels textos, mitjançant la inferència de significats, així com la cerca, la selecció, la comprovació i el contrast d’informació veraç."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Valorar críticament el patrimoni històric, arqueològic, artístic i cultural",
+            "description": "Valorar críticament el patrimoni històric, arqueològic, artístic i cultural heretat de la civilització grega, promovent-ne la sostenibilitat i reconeixent-lo com a producte de la creació humana i com a testimoni de la història, per explicar el llegat…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Redactar i difondre textos detallats de creixent extensió, ben estructurats i d’una certa complexitat, adequats a la situació comunicativa, a la tipologia textual i a les eines analògiques i digitals utilitzades, evitant errors importants i reformulant, sintetitzant i organitzant, de manera coherent i cohesionada, informació i idees de diverses fonts i justificant les opinions pròpies sobre assumptes de rellevància personal o d’interès social coneguts per l’alumnat, respectant la propietat intel·lectual i evitant el plagi."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Seleccionar, organitzar i aplicar coneixements i estratègies de planificació, producció i revisió que permetin redactar textos ben estructurats i adequats a les intencions comunicatives, a les característiques contextuals, als aspectes socioculturals i a la tipologia textual, usant els recursos analògics o digitals més adequats en funció de la tasca i dels interlocutors reals o potencials."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Planificar, participar i col·laborar assertivament i activament, per mitjà de diversos suports, en situacions interactives sobre temes quotidians, de rellevància personal o d’interès social propers a la seva experiència, mostrant iniciativa, empatia i respecte per la cortesia lingüística i l’etiqueta digital, i per les diferents necessitats, idees, inquietuds, iniciatives i motivacions dels interlocutors, expressant idees i opinions amb precisió i argumentant de forma convincent."
+                },
+                {
+                    "code": "5.4",
+                    "description": "Seleccionar, organitzar i utilitzar, de forma eficaç, espontània i en diferents entorns, estratègies adequades per iniciar, mantenir i acabar la comunicació, prendre i cedir la paraula amb amabilitat, ajustar la pròpia contribució a la dels interlocutors percebent-ne les reaccions, sol·licitar i formular aclariments i explicacions, reformular, comparar i contrastar, resumir, col·laborar, debatre, resoldre problemes i gestionar situacions compromeses, en interaccions escrites síncrones i asíncrones."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Seleccionar, contrastar i inferir informació procedent de diferents fonts de",
+            "description": "Seleccionar, contrastar i inferir informació procedent de diferents fonts de manera autònoma, avaluant-ne la fiabilitat i la pertinència en funció dels objectius de lectura i evitant els riscos de manipulació i desinformació, i integrar aquesta infor…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Elaborar treballs d’investigació de manera autònoma, en diferents suports, sobre diversos temes d’interès acadèmic, personal o social que impliquin localitzar, seleccionar i contrastar informació procedent de diferents fonts, amb una atenció especial a la gestió de l’emmagatzematge i de la recuperació, i també a l’avaluació de la fiabilitat i la pertinència; organitzar-la i integrar-la en esquemes propis, i reelaborar-la i comunicar-la de manera creativa, adoptant un punt de vista crític, personal i respectuós amb la propietat intel·lectual."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Avaluar la veracitat de notícies i informacions, amb especial atenció a les xarxes socials i a altres entorns digitals, seguint pautes d’anàlisi, contrast i verificació, fent ús de les eines adequades, mantenint una actitud crítica davant els possibles biaixos de la informació i autoregulant-se’n en l’ús."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Adoptar hàbits d’ús crític, segur, sostenible i saludable de les tecnologies digitals en relació amb la cerca i la comunicació de la informació."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Seleccionar i llegir de manera autònoma obres rellevants de la literatura en",
+            "description": "Seleccionar i llegir de manera autònoma obres rellevants de la literatura en llengua estrangera com a font de plaer i coneixement, configurant un itinerari lector que s'enriqueixi progressivament quant a diversitat, complexitat i qualitat de les obre…",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Triar i llegir de manera autònoma obres rellevants, incloent-hi assaig literari i obres actuals que estableixin connexions amb la tradició, i deixar constància del progrés de l’itinerari lector i cultural personal mitjançant l’explicació argumentada dels criteris de selecció de les lectures, de les formes d’accés a la cultura literària i de l’experiència de lectura."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Compartir l’experiència lectora utilitzant un metallenguatge específic i elaborar una interpretació i una indagació personal establint vincles argumentats amb altres obres i altres experiències artístiques i culturals."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Mediar entre diferents llengües o varietats dialectals, fent servir estratègies",
+            "description": "Mediar entre diferents llengües o varietats dialectals, fent servir estratègies i coneixements eficaços orientats a explicar, reformular conceptes i opinions o simplificar missatges de manera autònoma, per transmetre informació de manera eficient, cl…",
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Explicar, interpretar i avaluar textos, conceptes i comunicacions en situacions de comunicació de diversitat lingüística, social i cultural, mostrant respecte i empatia pels interlocutors i per les llengües emprades, i participant en la solució de problemes d’intercomprensió i d’entesa, a partir de diversos recursos i suports."
+                },
+                {
+                    "code": "8.2",
+                    "description": "Aplicar estratègies que ajudin a crear ponts, facilitin la comunicació i serveixin per explicar i simplificar textos, conceptes i missatges, i que siguin adequades a les intencions comunicatives, a les característiques contextuals, als aspectes socioculturals i a la tipologia textual, usant recursos i suports físics o digitals en funció de la tasca i del coneixement previ dels interessos i de les idees dels interlocutors."
+                }
+            ]
+        },
+        {
+            "code": "CE9",
+            "name": "Ampliar i usar els repertoris lingüístics personals entre diferents llengües i",
+            "description": "Ampliar i usar els repertoris lingüístics personals entre diferents llengües i varietats dialectals, reflexionant de manera crítica sobre el seu funcionament, i fent explícits i compartint les estratègies i els coneixements propis, per millorar la re…",
+            "criterios": [
+                {
+                    "code": "9.1",
+                    "description": "Comparar i contrastar les similituds i diferències entre diferents llengües, reflexionant de manera sistemàtica sobre el seu funcionament i establint relacions entre aquestes."
+                },
+                {
+                    "code": "9.2",
+                    "description": "Utilitzar amb iniciativa i de forma creativa estratègies i coneixements de millora de la seva capacitat de comunicar i aprendre la llengua estrangera, amb suport o sense d’altres interlocutors i de suports analògics i digitals."
+                },
+                {
+                    "code": "9.3",
+                    "description": "Reflexionar sobre els progressos i les dificultats d’aprenentatge de la llengua estrangera, seleccionant les estratègies més adequades i eficaces per superar aquestes dificultats i consolidar-ne l’aprenentatge, duent a terme activitats de planificació del propi aprenentatge, d’autoavaluació i de coavaluació, fent aquests progressos i dificultats explícits i compartint-los."
+                }
+            ]
+        },
+        {
+            "code": "CE0",
+            "name": "Posar les pràctiques comunicatives al servei de la convivència democràtica, de",
+            "description": "Posar les pràctiques comunicatives al servei de la convivència democràtica, de la resolució dialogada dels conflictes i de la igualtat de drets de totes les persones, utilitzant un llenguatge no discriminatori i refusant els abusos de poder mitjançan…",
+            "criterios": [
+                {
+                    "code": "10.1",
+                    "description": "Identificar i rebutjar els usos discriminatoris de la llengua, els abusos de poder mitjançant la paraula i els usos manipuladors del llenguatge a partir de la reflexió i l’anàlisi dels elements lingüístics, textuals i discursius utilitzats, i dels elements no verbals que regeixen la comunicació entre les persones."
+                },
+                {
+                    "code": "10.2",
+                    "description": "Utilitzar estratègies per a la resolució dialogada dels conflictes i per a la recerca de consensos, tant en l’àmbit personal com educatiu i social."
+                }
+            ]
+        }
+    ]
+}

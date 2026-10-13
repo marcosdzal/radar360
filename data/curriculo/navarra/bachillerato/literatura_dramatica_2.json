@@ -1,0 +1,55 @@
+{
+    "community": "navarra",
+    "stage": "bachillerato",
+    "decree": "Real Decreto 217\/2022",
+    "subject": "literatura_dramatica",
+    "subject_name": "Literatura Dramática",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE3",
+            "name": "Establecer vínculos entre obras dramáticas de diferentes épocas, contextos y lenguajes artísticos",
+            "description": "Establecer vínculos entre obras dramáticas de diferentes épocas, contextos y lenguajes artísticos, para constatar la existencia de universales temáticos, tipologías de personajes y cauces formales recurrentes a lo largo de la historia, y para reconoc…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Comparar textos teatrales entre sí o con adaptaciones, argumentando oralmente semejanzas y diferencias temáticas, formales y valores éticos\/estéticos."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Elaborar un proyecto de investigación que vincule obras dramáticas con sus puestas en escena u otras manifestaciones artísticas, mostrando respuesta personal."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Crear una exposición multimodal que contextualice las obras y ofrezca una visión global de la literatura dramática universal."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Emplear las capacidades expresivas y creativas necesarias para la recreación o",
+            "description": "Emplear las capacidades expresivas y creativas necesarias para la recreación o creación de textos dramáticos, utilizando los elementos que configuran el género, así como diferentes técnicas, para componer la acción dramática, el diseño de personajes …",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Crear textos teatrales originales aplicando las convenciones del género (diálogo, acotaciones) y elementos escénicos."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Participar en la construcción de un canon literario dramático universal que",
+            "description": "Participar en la construcción de un canon literario dramático universal que integre la perspectiva de experiencia de las mujeres a través de la lectura, el visionado o la asistencia a obras teatrales de escritoras o de personajes femeninos esenciales…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Investigar sobre autoras, personajes femeninos u obras no occidentales para desarrollar una mirada crítica y diversa del canon dramático."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Elaborar comentarios críticos o participar en debates sobre obras teatrales incorporando perspectiva de género y cuestionando el canon occidental."
+                }
+            ]
+        }
+    ]
+}

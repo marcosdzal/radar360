@@ -1,0 +1,100 @@
+{
+    "community": "galicia",
+    "stage": "bachillerato",
+    "decree": "Decreto 157\/2022, de 15 de septiembre",
+    "subject": "lenguaje_practica_musical",
+    "subject_name": "Lenguaje y Práctica Musical",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Cultivar la escucha activa, desarrollando estrategias de atención",
+            "description": "Cultivar la escucha activa, desarrollando estrategias de atención, para reconocer y describir con un vocabulario adecuado los elementos que forman parte de una obra y para reflexionar sobre aspectos subjetivos y emocionales inherentes a la percepción…",
+            "criterios": [
+                {
+                    "code": "CE1.1",
+                    "description": "Reconocer y describir los diferentes parámetros del sonido y elementos musicales de una obra (rítmicos, melódicos, armónicos, tímbricos, formales, etc.), aplicando estrategias de escucha activa y de lectura analítica de partituras, y utilizando un vocabulario específico adecuado."
+                },
+                {
+                    "code": "CE1.2",
+                    "description": "Describir las sensaciones que genera la música y su posible vinculación con las características de la obra y el contexto en que fue creada, reflexionando y extrayendo conclusiones sobre aspectos subjetivos inherentes a la escucha musical."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Identificar los elementos musicales de obras de diferentes estilos y épocas,",
+            "description": "Identificar los elementos musicales de obras de diferentes estilos y épocas, analizando y comparando partituras con diversas grafías, para describir sus características y reflexionar sobre los factores que afectan a la evolución de la notación musica…",
+            "criterios": [
+                {
+                    "code": "CE1.3",
+                    "description": "Describir las principales características de los elementos musicales (melodía, ritmo, armonía, timbre, etc.) presentes en partituras con grafía convencional y no convencional de obras o fragmentos de distintos estilos y épocas, identificando y analizando sus elementos."
+                },
+                {
+                    "code": "CE1.4",
+                    "description": "Comparar la representación de los elementos musicales en partituras con diferente grafía, reflexionando sobre los factores que inciden en la evolución de la notación musical."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Aplicar estrategias de interpretación musical y coreográfica, utilizando la",
+            "description": "Aplicar estrategias de interpretación musical y coreográfica, utilizando la lectura como medio de aproximación a la obra y adquiriendo de forma progresiva habilidades de decodificación e integración del lenguaje musical, para realizar improvisaciones…",
+            "criterios": [
+                {
+                    "code": "CE2.1",
+                    "description": "Leer con autonomía partituras sencillas, atendiendo a los signos de representación de los parámetros del sonido, con o sin apoyo de la audición, y reconocer auditivamente y transcribir los elementos básicos de la música."
+                },
+                {
+                    "code": "CE2.2",
+                    "description": "Ejecutar fragmentos musicales y coreográficos sencillos, de forma individual o colectiva, a través de la voz, del cuerpo o de instrumentos musicales, atendiendo a las indicaciones de la partitura."
+                },
+                {
+                    "code": "CE2.3",
+                    "description": "Desarrollar habilidades técnicas para la interpretación vocal, instrumental y coreográfica, utilizando los ensayos como espacios de escucha y de aprendizaje y aplicando estrategias de memorización musical."
+                },
+                {
+                    "code": "CE2.4",
+                    "description": "Generar ideas musicales o coreográficas sencillas utilizando diferentes instrumentos, la voz o el cuerpo, en improvisaciones libres o dirigidas."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Realizar proyectos musicales colaborativos, planificando e implementando sus",
+            "description": "Realizar proyectos musicales colaborativos, planificando e implementando sus fases y asumiendo funciones diversas dentro del grupo, para favorecer procesos creativos e identificar oportunidades de desarrollo personal, social, académico y profesional.…",
+            "criterios": [
+                {
+                    "code": "CE2.5",
+                    "description": "Planificar y desarrollar proyectos musicales colaborativos con base en materiales conocidos o nuevos y en los conocimientos adquiridos, asumiendo diferentes funciones en todas las fases del proyecto con participación activa, valorando las aportaciones de todos los integrantes del grupo y descubriendo oportunidades de desarrollo personal, social, académico y profesional."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Emplear las posibilidades que ofrecen las tecnologías digitales en el ámbito",
+            "description": "Emplear las posibilidades que ofrecen las tecnologías digitales en el ámbito musical utilizando herramientas de procesamiento del sonido, de producción audiovisual y de edición de partituras, para desarrollar procesos de escritura, creación y difusió…",
+            "criterios": [
+                {
+                    "code": "CE2.6",
+                    "description": "Desarrollar proyectos musicales poniendo en práctica los aprendizajes adquiridos y utilizando herramientas de edición de partituras, de procesamiento del sonido y de producción audiovisual."
+                },
+                {
+                    "code": "CE2.7",
+                    "description": "Difundir producciones musicales y audiovisuales a través de plataformas digitales, utilizando entornos seguros y respetando la propiedad intelectual y los derechos de autor."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Interpretar un repertorio de obras musicales en formación orquestal",
+            "description": "Interpretar un repertorio de obras musicales en formación orquestal (instrumentos Orff u otros) o vocal con o sin acompañamiento instrumental, aplicando los conocimientos adquiridos en relación con el lenguaje musical y con las técnicas básicas de in…",
+            "criterios": [
+                {
+                    "code": "CE2.8",
+                    "description": "Interpretar un repertorio de obras musicales de diferentes estilos y épocas en formación orquestal o vocal, con o sin acompañamiento instrumental, aplicando los conocimientos adquiridos en relación con el lenguaje musical y con las técnicas básicas de interpretación."
+                }
+            ]
+        }
+    ]
+}

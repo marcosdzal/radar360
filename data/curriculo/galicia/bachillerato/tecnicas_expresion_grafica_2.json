@@ -1,0 +1,149 @@
+{
+    "community": "galicia",
+    "stage": "bachillerato",
+    "decree": "Decreto 157\/2022, de 15 de septiembre",
+    "subject": "tecnicas_expresion_grafica",
+    "subject_name": "Técnicas de Expresión Gráfico-Plástica",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Analizar obras gráfico-plásticas valorando sus aspectos formales, comparando",
+            "description": "Analizar obras gráfico-plásticas valorando sus aspectos formales, comparando las técnicas, materiales y procedimientos empleados en su ejecución y conservación, y reflexionando sobre su posible impacto ambiental para conformar un marco personal de re…",
+            "criterios": [
+                {
+                    "code": "CE1.1",
+                    "description": "Analizar obras gráfico-plásticas de distintos tipos y épocas identificando los elementos del lenguaje, materiales, técnicas y procedimientos utilizados, valorando sus efectos expresivos e incorporando juicios de valor estético a partir del estudio de sus aspectos formales."
+                },
+                {
+                    "code": "CE1.2",
+                    "description": "Comparar los elementos, técnicas y procedimientos empleados en distintas producciones gráfico-plásticas identificando diferencias y aspectos comunes y estableciendo relaciones entre ellos."
+                },
+                {
+                    "code": "CE1.3",
+                    "description": "Valorar críticamente la sostenibilidad y el impacto ambiental de los procedimientos y materiales utilizados en la creación gráfico-plástica en distintos momentos históricos, proponiendo alternativas respetuosas con el medio ambiente."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Utilizar los distintos elementos y procedimientos propios del lenguaje",
+            "description": "Utilizar los distintos elementos y procedimientos propios del lenguaje gráfico-plástico, manifestando dominio técnico y experimentando de manera creativa e innovadora con sus posibilidades y combinaciones, para desarrollar una capacidad de expresión …",
+            "criterios": [
+                {
+                    "code": "CE2.1",
+                    "description": "Seleccionar creativamente los recursos de dibujo adecuados en función de la situación expresiva o de la intencionalidad del desempeño solicitado."
+                },
+                {
+                    "code": "CE2.2",
+                    "description": "Utilizar de manera creativa y autónoma las técnicas, materiales y procedimientos de dibujo en la resolución de distintas necesidades expresivas y comunicativas, incidiendo en el rigor en la ejecución y en la sostenibilidad del producto final."
+                },
+                {
+                    "code": "CE3.1",
+                    "description": "Seleccionar creativamente los recursos pictóricos adecuados en función de la situación expresiva o de la intencionalidad del desempeño solicitado."
+                },
+                {
+                    "code": "CE3.2",
+                    "description": "Utilizar de manera creativa y autónoma las técnicas, materiales y procedimientos de pintura en la resolución de distintas necesidades expresivas y comunicativas, incidiendo en el rigor en la ejecución y en la sostenibilidad del producto final."
+                },
+                {
+                    "code": "CE4.1",
+                    "description": "Seleccionar creativamente los recursos de grabado y estampación adecuados en función de la situación expresiva o de la intencionalidad del desempeño solicitado."
+                },
+                {
+                    "code": "CE4.2",
+                    "description": "Utilizar de manera creativa y autónoma las técnicas, materiales y procedimientos básicos de grabado y estampación en la resolución de distintas necesidades expresivas y comunicativas, incidiendo en el rigor, en la ejecución y en la sostenibilidad del producto final."
+                },
+                {
+                    "code": "CE5.1",
+                    "description": "Seleccionar creativamente los recursos gráfico-plásticos adecuados en función de la situación expresiva o de la intencionalidad del desempeño solicitado."
+                },
+                {
+                    "code": "CE5.2",
+                    "description": "Utilizar de manera creativa y autónoma técnicas alternativas y mixtas y sus correspondientes materiales y procedimientos en la resolución de distintas necesidades expresivas y comunicativas, incidiendo en el rigor en la ejecución y en la sostenibilidad del producto final."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Planificar el proceso de realización individual y colectiva de obras",
+            "description": "Planificar el proceso de realización individual y colectiva de obras gráfico-plásticas valorando las posibilidades que ofrecen las distintas técnicas, materiales y procedimientos, así como su adecuación a una determinada propuesta, para responder con…",
+            "criterios": [
+                {
+                    "code": "CE6.2",
+                    "description": "Planificar el proceso completo de realización de obras gráfico-plásticas variadas, individuales o colectivas, estableciendo las fases de realización y argumentando la selección de las técnicas, materiales, procedimientos y lenguajes más adecuados en función de las distintas intenciones comunicativas o creativas."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Desarrollar proyectos gráfico-plásticos individuales y colaborativos,",
+            "description": "Desarrollar proyectos gráfico-plásticos individuales y colaborativos, utilizando con destreza diversos materiales, técnicas y procedimientos, para integrar el proceso creativo y responder de manera eficaz, sostenible y creativa a unos objetivos de de…",
+            "criterios": [
+                {
+                    "code": "CE2.3",
+                    "description": "Expresar ideas, opiniones y sentimientos mediante la creación de producciones gráficoplásticas individuales y colaborativas de distintos tipos alrededor de distintos motivos o planteamientos, aplicando con solvencia y dominio técnico los distintos procedimientos de dibujo."
+                },
+                {
+                    "code": "CE2.4",
+                    "description": "Realizar composiciones gráfico-plásticas individuales o colaborativas con técnicas de dibujo integrando el uso de materiales reciclados cuando sea posible y aplicando criterios de inclusión y sostenibilidad."
+                },
+                {
+                    "code": "CE3.3",
+                    "description": "Expresar ideas, opiniones y sentimientos mediante la creación de producciones gráficoplásticas individuales y colaborativas de distintos tipos, alrededor de distintos motivos o planteamientos, aplicando con solvencia y dominio técnico los distintos procedimientos de pintura."
+                },
+                {
+                    "code": "CE3.4",
+                    "description": "Realizar composiciones gráfico-plásticas individuales o colaborativas utilizando técnicas pictóricas, integrando el uso de materiales reciclados cuando sea posible y aplicando criterios de inclusión y sostenibilidad."
+                },
+                {
+                    "code": "CE4.3",
+                    "description": "Expresar ideas, opiniones y sentimientos mediante la creación de producciones gráficoplásticas individuales y colaborativas de distintos tipos, alrededor de distintos motivos o planteamientos, aplicando con solvencia y dominio técnico los procedimientos de grabado y estampación básicos."
+                },
+                {
+                    "code": "CE4.4",
+                    "description": "Realizar obras individuales o colaborativas, mediante procedimientos de grabado y estampación, integrando el uso de materiales reciclados cuando sea posible y aplicando criterios de inclusión y sostenibilidad."
+                },
+                {
+                    "code": "CE5.3",
+                    "description": "Expresar ideas, opiniones y sentimientos mediante la creación de producciones gráficoplásticas individuales y colaborativas de distintos tipos, alrededor de diversos motivos o planteamientos, aplicando con solvencia y dominio técnico distintos procedimientos y técnicas mixtas y alternativas."
+                },
+                {
+                    "code": "CE5.4",
+                    "description": "Interactuar coordinada y colaborativamente en el desarrollo de producciones gráficoplásticas colectivas manifestando una actitud respetuosa, creativa y conciliadora cuando se produzcan diferencias de opinión entre los miembros del grupo."
+                },
+                {
+                    "code": "CE5.5",
+                    "description": "Realizar composiciones gráfico-plásticas individuales o colaborativas, con técnicas mixtas y alternativas, integrando el uso de materiales reciclados cuando sea posible y aplicando criterios de inclusión y sostenibilidad."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Evaluar los productos gráfico-plásticos propios y ajenos, valorando su posible impacto social y cultural",
+            "description": "Evaluar los productos gráfico-plásticos propios y ajenos, valorando su posible impacto social y cultural, para potenciar una actitud crítica y responsable que favorezca el desarrollo personal y profesional en el campo de la expresión gráfico-plástica…",
+            "criterios": [
+                {
+                    "code": "CE1.4",
+                    "description": "Contextualizar críticamente la perspectiva inclusiva, intercultural y de género en las producciones gráfico-plásticas."
+                },
+                {
+                    "code": "CE1.5",
+                    "description": "Valorar la protección de la propiedad intelectual de las obras gráfico-plásticas a través de diferentes canales de difusión y del conocimiento de la legislación que les afecta."
+                },
+                {
+                    "code": "CE6.1",
+                    "description": "Evaluar diferentes productos gráfico-plásticos argumentando, con la terminología específica, el grado de adecuación a la intención prevista de los lenguajes, técnicas, materiales y procedimientos utilizados, valorando el rigor y la calidad de la ejecución, así como aspectos relacionados con la sostenibilidad y con la propiedad intelectual."
+                },
+                {
+                    "code": "CE6.3",
+                    "description": "Planificar de manera adecuada la organización de las fases y de los equipos de trabajo en las propuestas colaborativas, identificando las habilidades requeridas en cada caso y repartiendo y asumiendo las tareas con criterio."
+                },
+                {
+                    "code": "CE6.4",
+                    "description": "Identificar y valorar las oportunidades de desarrollo personal y profesional que se derivan del conocimiento de las técnicas de expresión gráfico-plástica."
+                }
+            ]
+        }
+    ]
+}

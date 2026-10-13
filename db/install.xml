@@ -71,6 +71,7 @@
         <FIELD NAME="id" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="true"/>
         <FIELD NAME="grade_category_id" TYPE="int" LENGTH="10" NOTNULL="true" COMMENT="grade_categories.id (the CE-level category)"/>
         <FIELD NAME="descriptorcode" TYPE="char" LENGTH="10" NOTNULL="true" COMMENT="local_sentinel_descriptor.code"/>
+        <FIELD NAME="source" TYPE="char" LENGTH="10" NOTNULL="true" DEFAULT="manual" COMMENT="normativa or manual"/>
       </FIELDS>
       <KEYS>
         <KEY NAME="primary" TYPE="primary" FIELDS="id"/>

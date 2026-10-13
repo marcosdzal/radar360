@@ -1,0 +1,66 @@
+{
+    "community": "canarias",
+    "stage": "eso",
+    "decree": "Decreto 30\/2023, de 16 de marzo",
+    "subject": "musica",
+    "subject_name": "Música",
+    "grade": 4,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "(c1) Esta competencia específica se centra en el desarrollo de las capacidades",
+            "description": "(c1) Esta competencia específica se centra en el desarrollo de las capacidades perceptivas del alumnado, generando espacios de escucha y visionado activo para la adquisición de habilidades vinculadas al análisis y para el acercamiento y la valoración…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Identifica rasgos estilísticos de obras musicales y danzas, mostrando respeto e interés."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Explicar funciones de obras musicales y dancísticas vinculándolas a su contexto histórico, social y cultural con actitud abierta."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "(c2) Esta competencia específica permitirá evidenciar el papel de la Música, y",
+            "description": "(c2) Esta competencia específica permitirá evidenciar el papel de la Música, y el arte en general, como transmisora de ideas, sentimientos y emociones. La improvisación será el elemento central de este bloque competencial, a través de la cual se expe…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Participar con iniciativa y creatividad en la exploración de técnicas musicales y dancísticas básicas mediante improvisaciones pautadas, usando voz, cuerpo, instrumentos o tecnología."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Comunicar ideas y emociones mediante improvisaciones, seleccionando técnicas del repertorio personal."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "(c3) Dado el carácter práctico de la materia y su contribución a la formación",
+            "description": "(c3) Dado el carácter práctico de la materia y su contribución a la formación holística del alumnado a través de una música vivenciada, esta competencia específica es especialmente importante al estar enfocada hacia la práctica interpretativa y la am…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Leer partituras sencillas e identificar con ayuda los elementos básicos del lenguaje musical (notas, ritmo, dinámica, etc.)."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Aplicar técnicas básicas de interpretación vocal, instrumental o corporal usando estrategias de memorización y valorando los ensayos."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "(c4) Esta competencia específica permitirá activar los conocimientos, recursos",
+            "description": "(c4) Esta competencia específica permitirá activar los conocimientos, recursos y habilidades adquiridos en la materia para potenciar la creatividad del alumnado. Facilitará el desarrollo de proyectos cooperativos de creación artística y la interpreta…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Planificar y desarrollar creativamente propuestas musicales y dancísticas, individuales o grupales, con medios analógicos y digitales."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "community": "extremadura",
+    "stage": "eso",
+    "decree": "Decreto 110\/2022, de 22 de agosto",
+    "subject": "fisica_y_quimica",
+    "subject_name": "Física y Química",
+    "grade": 4,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "R esolver problemas con el fin de mejorar la realidad cercana y la calidad de",
+            "description": "R esolver problemas con el fin de mejorar la realidad cercana y la calidad de vida en general, interpretando los motivos por los que ocurren los principales fenómenos fisicoquímicos del entorno y explicándolos en términos de las leyes y teorías cient…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Explicar fenómenos del día a día aplicando leyes científicas y comunicando las conclusiones de forma argumentada mediante distintos formatos y soportes digitales o analógicos."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Resolver problemas numéricos y conceptuales de física y química aplicando leyes científicas, justificando el procedimiento seguido y expresando los resultados con sus unidades correspondientes."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Identificar problemas reales del entorno cercano y proponer soluciones basadas en la física y la química, evaluando su impacto social y ambiental para mejorar la comunidad."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Formular preguntas e hipótesis, a partir de observaciones realizadas en el",
+            "description": "Formular preguntas e hipótesis, a partir de observaciones realizadas en el entorno, explicándolas y demostrándolas mediante la experimentación científica, la indagación y la búsqueda de evidencias así como desarrollando los razonamientos propios del …",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Aplicar el método científico para investigar fenómenos naturales, planteando preguntas contrastables y distinguiendo explicaciones basadas en evidencias de aquellas que carecen de rigor científico o son pseudociencias."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Diseñar planes de investigación y experimentos adecuados para comprobar hipótesis científicas, seleccionando las técnicas y herramientas necesarias para obtener resultados válidos y conclusiones ajustadas."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Diseñar experimentos y formular hipótesis fundamentadas en leyes científicas para resolver problemas planteados, asegurando la coherencia entre la teoría y el procedimiento propuesto."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Aplicar las leyes y teorías científicas más importantes para validar hipótesis de manera informada y coherente con el conocimiento científico existente y diseñar los procedimientos experimentales o deductivos necesarios para resolverlas y analizar las conclusiones críticamente."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Manejar con soltura las reglas y normas básicas de la física y la química en lo",
+            "description": "Manejar con soltura las reglas y normas básicas de la física y la química en lo referente al lenguaje de la IUPAC, al lenguaje matemático, al empleo de unidades de medida correctas, al uso seguro del laboratorio y a la interpretación y producción de …",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Interpretar y comunicar información sobre procesos fisicoquímicos mediante el análisis de datos en diversos formatos como tablas, gráficas o esquemas para resolver problemas científicos."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Aplicar correctamente la nomenclatura IUPAC, el sistema internacional de unidades y las herramientas matemáticas básicas para resolver problemas y comunicar resultados científicos con precisión."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Aplicar las normas de seguridad, higiene y sostenibilidad en el laboratorio de física y química para garantizar un trabajo seguro y el cuidado del entorno."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "U tilizar de forma crítica y eficiente plataformas tecnológicas y recursos",
+            "description": "U tilizar de forma crítica y eficiente plataformas tecnológicas y recursos variados tanto para el trabajo individual como en equipo, fomentando la creatividad, el desarrollo personal y el aprendizaje individual y social, a través de la consulta de in…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Emplear herramientas digitales y tradicionales de forma autónoma y colaborativa, fomentando la comunicación respetuosa y el análisis crítico de las aportaciones del grupo en tareas científicas."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Seleccionar fuentes de información fiables y utilizar herramientas digitales o tradicionales para crear contenidos científicos que favorezcan el aprendizaje individual y del grupo."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Crear materiales en distintos formatos, potenciando los de libre disposición, para su uso en plataformas tecnológicas variadas incrementando la creatividad, el desarrollo personal y el aprendizaje individual y social."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Utilizar las estrategias de trabajo colaborativo que permitan potenciar la",
+            "description": "Utilizar las estrategias de trabajo colaborativo que permitan potenciar la ayuda entre iguales como base emprendedora de una comunidad científica crítica, ética y eficiente, valorando la importancia de la ciencia para la mejora de la sociedad, así co…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Colaborar de forma constructiva y equitativa en tareas de equipo, asumiendo roles específicos para alcanzar objetivos científicos comunes con eficiencia y respeto."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Diseñar y ejecutar proyectos científicos guiados orientados a resolver problemas sociales o ambientales, aportando soluciones de valor para la comunidad y el entorno."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "P ercibir la ciencia como una construcción colectiva en continuo cambio y",
+            "description": "P ercibir la ciencia como una construcción colectiva en continuo cambio y evolución, en la que no solo participa la comunidad científica, sino que también requiere de interacción con el resto de la sociedad, obteniendo soluciones que repercutan en el…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Analizar la evolución histórica de descubrimientos científicos realizados por hombres y mujeres, evaluando su impacto en el desarrollo tecnológico, social y medioambiental actual."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Identificar problemas sociales, ambientales o tecnológicos del entorno cercano y explicar cómo la ciencia aporta soluciones sostenibles mediante la participación ciudadana."
+                }
+            ]
+        }
+    ]
+}

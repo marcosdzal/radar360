@@ -1,0 +1,82 @@
+{
+    "community": "extremadura",
+    "stage": "bachillerato",
+    "decree": "Decreto 113\/2022, de 25 de agosto",
+    "subject": "dibujo_artistico_2",
+    "subject_name": "Dibujo Artístico II",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "D esarrollar una formación técnica sólida analizando todo tipo de obra gráfica",
+            "description": "D esarrollar una formación técnica sólida analizando todo tipo de obra gráfica y aportando comprensión sobre la diversidad cultural y artística, y propiciar el deseo de conservar y promover el patrimonio, además de enriquecimiento personal y disfrute…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Comparar el uso del dibujo en distintas manifestaciones culturales y artísticas, valorándolo como herramienta de expresión."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Explicar autónomamente las múltiples funciones del dibujo analizando su uso en diferentes disciplinas."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Utilizar el dibujo como un medio de expresión de ideas, opiniones,",
+            "description": "Utilizar el dibujo como un medio de expresión de ideas, opiniones, sentimientos y emociones, experimentando con el uso de diferentes materiales, técnicas y soportes, tanto tradicionales como digitales, aprendiendo de las propuestas artísticas de otr…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Analizar producciones plásticas identificando lenguaje, técnicas, función y expresividad con terminología específica."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Explica con argumentos por qué se usa el dibujo para expresar y transmitir significados en obras culturales y artísticas."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Apreciar la acción de dibujar como una exploración del espacio exterior e interior del ser humano, materializando en los dibujos sentimientos y emociones y tomando como punto de partida la propia voluntad y la necesidad tanto de definir un trazo y un estilo propios como de crear en libertad, defendiendo los derechos propios y ajenos. Competencia específica 3."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "R esponder con interés, creatividad y eficacia ante nuevos desafíos de",
+            "description": "R esponder con interés, creatividad y eficacia ante nuevos desafíos de representación gráfica, adaptando los conocimientos y destrezas adquiridos, desarrollando la retentiva visual y describiendo así no solo lo que vemos sino también lo que pensa…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Crear bocetos personales a partir de la observación y la imaginación, usando expresión libre."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Analizar, interpretar y representar la realidad mediante obras gráficas explorando formas y texturas con destreza."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "D iseñar proyectos gráficos, individuales o colaborativos",
+            "description": "D iseñar proyectos gráficos, individuales o colaborativos, de forma creativa, con una actitud positiva y respetuosa en su planificación y coevaluación, valorando el enriquecimiento que suponen las propuestas compartidas, adaptando el diseño y el …",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Crear dibujos experimentando con materiales, técnicas, soportes y el cuerpo humano como recurso expresivo."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Crear representaciones del espacio tridimensional experimentando con materiales y técnicas para lograr efectos perspectivos."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Analizar el papel del cuerpo humano en el arte contemporáneo a través del estudio de materiales, técnicas y soportes."
+                },
+                {
+                    "code": "4.4",
+                    "description": "Exponer, de forma inclusiva, el resultado final de la creación de un proyecto gráfico, individual o grupal, explicando cómo se han aplicado los valores expresivos del dibujo artístico y sus recursos."
+                }
+            ]
+        }
+    ]
+}

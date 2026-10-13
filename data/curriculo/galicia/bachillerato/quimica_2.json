@@ -1,0 +1,164 @@
+{
+    "community": "galicia",
+    "stage": "bachillerato",
+    "decree": "Decreto 157\/2022, de 15 de septiembre",
+    "subject": "quimica",
+    "subject_name": "Química",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Comprender, describir y aplicar los fundamentos de los procesos químicos más",
+            "description": "Comprender, describir y aplicar los fundamentos de los procesos químicos más importantes atendiendo a su base experimental y a los fenómenos que describen, para reconocer el papel relevante de la química en el desarrollo de la sociedad. - La química,…",
+            "criterios": [
+                {
+                    "code": "CE1.1",
+                    "description": "Identificar la importancia de la química y sus conexiones con otras áreas en el desarrollo de la sociedad, el progreso de la ciencia, la tecnología, la economía y el desarrollo sostenible respetuoso con el medio ambiente, identificando los avances en el campo de la química que han sido fundamentales en estos aspectos."
+                },
+                {
+                    "code": "CE1.2",
+                    "description": "Reconocer la naturaleza experimental e interdisciplinaria de la química y su influencia en la investigación científica y en los ámbitos económico y laboral actuales, considerando los hechos empíricos y sus aplicaciones en otros campos del conocimiento y la actividad humana."
+                },
+                {
+                    "code": "CE2.1",
+                    "description": "Describir los principales procesos químicos que suceden en el entorno y las propiedades de los sistemas materiales a partir de los conocimientos, destrezas y actitudes propios de las distintas ramas de la química."
+                },
+                {
+                    "code": "CE3.1",
+                    "description": "Describir las principales reacciones químicas que suceden en el entorno y las propiedades de los sistemas materiales a partir de los conocimientos, destrezas y actitudes propios de las distintas ramas de la química."
+                },
+                {
+                    "code": "CE4.1",
+                    "description": "Describir los principales procesos de química orgánica que suceden en el entorno y las propiedades de los sistemas materiales, a partir de los conocimientos, destrezas y actitudes propios de las distintas ramas de la química."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Adoptar los modelos y leyes de la química aceptados como base de estudio de las propiedades de los sistemas materiales",
+            "description": "Adoptar los modelos y leyes de la química aceptados como base de estudio de las propiedades de los sistemas materiales, para inferir soluciones generales a los problemas cotidianos relacionados con las aplicaciones prácticas de la química y sus reper…",
+            "criterios": [
+                {
+                    "code": "CE1.3",
+                    "description": "Reconocer y argumentar que las bases de la química constituyen un cuerpo de conocimiento imprescindible en un marco contextual de estudio y discusión de cuestiones significativas en los ámbitos social, económico, político y ético, identificando la presencia e influencia de estas bases en dichos ámbitos."
+                },
+                {
+                    "code": "CE1.4",
+                    "description": "Aplicar de manera informada, coherente y razonada los modelos y leyes de la química, explicando y prediciendo las consecuencias de experimentos, fenómenos naturales, procesos industriales y descubrimientos científicos."
+                },
+                {
+                    "code": "CE3.2",
+                    "description": "Relacionar los principios de la ciencia química con los principales problemas de la actualidad asociados al desarrollo de la ciencia y la tecnología, analizando cómo se tratan a través de los medios de comunicación o son observados en la experiencia cotidiana."
+                },
+                {
+                    "code": "CE4.2",
+                    "description": "Relacionar los principios de la ciencia química con los principales problemas de la actualidad asociados al desarrollo de la ciencia y de la tecnología, en los que tenga relevancia la química orgánica, analizando cómo se tratan a través de los medios de comunicación o son observados en la experiencia cotidiana."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Utilizar con corrección los códigos del lenguaje químico (nomenclatura química, unidades, ecuaciones, etc.)",
+            "description": "Utilizar con corrección los códigos del lenguaje químico (nomenclatura química, unidades, ecuaciones, etc.), aplicando sus reglas específicas, para emplearlos como base de una comunicación adecuada entre diferentes comunidades científicas y como herr…",
+            "criterios": [
+                {
+                    "code": "CE3.3",
+                    "description": "Utilizar correctamente las normas de nomenclatura de la IUPAC como base de un lenguaje universal para la química que permita una comunicación efectiva en toda la comunidad científica, aplicando estas normas al reconocimiento y escritura de fórmulas y nombres de diferentes especies químicas."
+                },
+                {
+                    "code": "CE3.4",
+                    "description": "Emplear con rigor herramientas matemáticas para apoyar el desarrollo del pensamiento científico que se alcanza con el estudio de la química, aplicando estas herramientas en la resolución de problemas usando ecuaciones, unidades, operaciones, etc."
+                },
+                {
+                    "code": "CE3.5",
+                    "description": "Respetar las normas de seguridad relacionadas con la manipulación de sustancias químicas en el laboratorio y en otros entornos, así como los procedimientos para la correcta gestión y eliminación de los residuos, utilizando correctamente los códigos de comunicación característicos de la química."
+                },
+                {
+                    "code": "CE4.3",
+                    "description": "Utilizar correctamente las normas de nomenclatura de la química orgánica de la IUPAC como base de un lenguaje universal para la química que permita una comunicación efectiva en toda la comunidad científica, aplicando estas normas al reconocimiento y escritura de fórmulas y nombres de diferentes especies químicas orgánicas."
+                },
+                {
+                    "code": "CE4.4",
+                    "description": "Respetar las normas de seguridad relacionadas con la manipulación de sustancias químicas en el laboratorio y en otros entornos, así como los procedimientos para la correcta gestión y eliminación de los residuos, utilizando correctamente los códigos de comunicación característicos de la química orgánica."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Reconocer la importancia del uso responsable de los productos y procesos",
+            "description": "Reconocer la importancia del uso responsable de los productos y procesos químicos, elaborando argumentos informados sobre la influencia positiva que la química tiene sobre la sociedad actual, para contribuir a superar las connotaciones negativas que …",
+            "criterios": [
+                {
+                    "code": "CE1.5",
+                    "description": "Argumentar de manera informada, aplicando las teorías y leyes de la química, que los efectos negativos de determinadas sustancias en el medio ambiente y en la salud se deben al mal uso que se hace de eses productos o negligencia, y no a la ciencia química en sí."
+                },
+                {
+                    "code": "CE1.6",
+                    "description": "Explicar, empleando los conocimientos científicos adecuados, cuáles son los beneficios de los numerosos productos de la tecnología química y cómo su empleo y aplicación han contribuido al progreso de la sociedad."
+                },
+                {
+                    "code": "CE2.2",
+                    "description": "Analizar la composición química de los sistemas materiales que se encuentran en el entorno más próximo, en el medio natural y en el entorno industrial y tecnológico, demostrando que sus propiedades, aplicaciones y beneficios están basados en los principios de la química."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Aplicar técnicas de trabajo propias de las ciencias experimentales y el",
+            "description": "Aplicar técnicas de trabajo propias de las ciencias experimentales y el razonamiento lógico-matemático en la resolución de problemas de química y en la interpretación de situaciones relacionadas, valorando la importancia de la cooperación, para poner…",
+            "criterios": [
+                {
+                    "code": "CE1.7",
+                    "description": "Reconocer la importante contribución en la química del trabajo colaborativo entre especialistas de diferentes disciplinas científicas, poniendo de relieve las conexiones entre las leyes y teorías propias de cada una de ellas."
+                },
+                {
+                    "code": "CE1.8",
+                    "description": "Reconocer la aportación de la química al desarrollo del pensamiento científico y a la autonomía de pensamiento crítico a través de la puesta en práctica de las metodologías de trabajo propias de las disciplinas científicas."
+                },
+                {
+                    "code": "CE1.9",
+                    "description": "Estudiar realidades vinculadas a la química y proponer soluciones a situaciones problemáticas relacionadas con esta ciencia, reconociendo la importancia de la contribución de cada participante del equipo y la diversidad de pensamiento, y consolidando habilidades sociales positivas en el seno de equipos de trabajo."
+                },
+                {
+                    "code": "CE3.6",
+                    "description": "Representar y visualizar de forma eficiente los conceptos de química que presenten mayores dificultades utilizando herramientas digitales y recursos variados, incluidas experiencias de laboratorio real y virtual."
+                },
+                {
+                    "code": "CE4.5",
+                    "description": "Representar y visualizar de forma eficiente los conceptos de química orgánica que presenten mayores dificultades, utilizando herramientas digitales y recursos variados, incluidas experiencias de laboratorio real y virtual."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Reconocer y analizar la química como un área de conocimiento multidisciplinario",
+            "description": "Reconocer y analizar la química como un área de conocimiento multidisciplinario y versátil, poniendo de manifiesto las relaciones con otras ciencias y campos de conocimiento, para realizar a través de ella una aproximación holística al conocimiento c…",
+            "criterios": [
+                {
+                    "code": "CE2.3",
+                    "description": "Explicar y razonar los conceptos fundamentales que se encuentran en la base de la química aplicando los conceptos, leyes y teorías de otras disciplinas científicas (especialmente de la física) a través de la experimentación y la indagación."
+                },
+                {
+                    "code": "CE2.4",
+                    "description": "Solucionar problemas y cuestiones que son característicos de la química utilizando las herramientas previstas por las matemáticas y la tecnología, reconociendo así la relación entre los fenómenos experimentales y naturales y los conceptos propios de esta disciplina."
+                },
+                {
+                    "code": "CE3.7",
+                    "description": "Deducir ideas fundamentales de otras disciplinas científicas (por ejemplo, la biología o la tecnología) por medio de la relación entre sus contenidos básicos y las leyes y teorías que son propias de la química."
+                },
+                {
+                    "code": "CE3.8",
+                    "description": "Solucionar problemas y cuestiones que son característicos de las reacciones químicas utilizando las herramientas provistas por las matemáticas y la tecnología, reconociendo así la relación entre los fenómenos experimentales y naturales y los conceptos propios de esta disciplina."
+                },
+                {
+                    "code": "CE4.6",
+                    "description": "Deducir ideas fundamentales de otras disciplinas científicas (por ejemplo, la biología o la tecnología) por medio de la relación entre sus contenidos básicos y las leyes y teorías que son propias de la química orgánica."
+                },
+                {
+                    "code": "CE4.7",
+                    "description": "Solucionar problemas y cuestiones que son característicos de la química orgánica utilizando las herramientas provistas por las matemáticas y la tecnología, reconociendo así la relación entre los fenómenos experimentales y naturales y los conceptos propios de esta disciplina."
+                }
+            ]
+        }
+    ]
+}

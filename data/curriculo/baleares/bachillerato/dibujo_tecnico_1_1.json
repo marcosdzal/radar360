@@ -1,0 +1,97 @@
+{
+    "community": "baleares",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "dibujo_tecnico_1",
+    "subject_name": "Dibujo Técnico I",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Observar, analitzar i valorar la presència de la geometria en la naturalesa,",
+            "description": "Observar, analitzar i valorar la presència de la geometria en la naturalesa, l'entorn construït i l'art, identificant-ne les estructures geomètriques, elements i codis, amb una actitud proactiva d'apreciació i gaudi, per explicar-ne l'origen, funció …",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar la relación histórica entre matemáticas y dibujo geométrico, valorando su importancia en arquitectura e ingeniería con perspectiva de género y diversidad cultural, empleando vocabulario técnico y artístico."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Dibuixar formes poligonals i resoldre tangències bàsiques i simetries aplicades al disseny de formes i valorar la importància de la neteja i la precisió en el traçat. Dibuixar formes poligonals bàsiques de manera precisa i neta. Resoldre casos elementals de tangències aplicats al disseny bidimensional amb precisió i netedat. Identificar i representar exercicis de simetria en el disseny de formes, tant al disseny gràfic com al de teixits i al d'objectes i tenir cura de la precisió i la netedat en els resultats."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Desenvolupar propostes gràfiques i de disseny, tant amb el dibuix a mà alçada",
+            "description": "Desenvolupar propostes gràfiques i de disseny, tant amb el dibuix a mà alçada com amb els materials propis del dibuix tècnic i elaborar traçats, composicions i transformacions geomètriques en el pla de manera intuïtiva i raonada, per incorporar aques…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Resolver gráficamente operaciones matemáticas y transformaciones geométricas usando conceptos de geometría plana."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Dibujar polígonos usando sus propiedades geométricas con precisión y limpieza."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Comprendre i interpretar l'espai i els objectes tridimensionals, analitzar i",
+            "description": "Comprendre i interpretar l'espai i els objectes tridimensionals, analitzar i valorar la seva presència en les representacions artístiques, seleccionar i utilitzar el sistema de representació més adequat per aplicar-lo a la realització d'il·lustracion…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Representar puntos, rectas y planos en sistema diédrico, determinando su posición relativa y distancias."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Identificar y describir figuras planas en sistemas axonométricos explicando su función como representación espacial."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Representación e interpretación de elementos básicos en sistema de planos acotados aplicando sus fundamentos."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Representar objetos tridimensionales sobre el plano aplicando las reglas de la perspectiva cónica."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Analitzar, definir formalment o visualitzar idees, aplicar-hi les normes",
+            "description": "Analitzar, definir formalment o visualitzar idees, aplicar-hi les normes fonamentals UNE i ISO per interpretar i representar objectes i espais, com també documentar projectes de disseny.",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "El alumnado dibuja las vistas normalizadas de objetos sencillos, aplicando escalas y formatos según normas UNE e ISO."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Aplicar el croquis y el esbozo como herramientas de reflexión para explorar alternativas en procesos de trabajo."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Integrar i aprofitar les possibilitats que ofereixen les eines digitals,",
+            "description": "Integrar i aprofitar les possibilitats que ofereixen les eines digitals, seleccionant i utilitzant programes i aplicacions específiques de dibuix vectorial 2D i de modelatge 3D per desenvolupar processos de creació artística personal o de disseny.",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "El alumnado crea figuras planas y 3D con software de dibujo vectorial, aplicando herramientas y técnicas propias del CAD."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Diseñar virtualmente piezas 3D mediante operaciones booleanas entre primitivas para presentar proyectos en grupo."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Editar obres de referència i creacions artístiques senzilles amb eines de dibuix digital en 2D i 3D. -"
+                }
+            ]
+        }
+    ]
+}

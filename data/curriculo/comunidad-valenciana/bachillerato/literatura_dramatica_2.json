@@ -1,0 +1,82 @@
+{
+    "community": "comunidad-valenciana",
+    "stage": "bachillerato",
+    "decree": "Decreto 108\/2022, de 5 de agosto",
+    "subject": "literatura_dramatica",
+    "subject_name": "Literatura Dramática",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Llegir, analitzar i interpretar obres clàssiques de la literatura dramàtica",
+            "description": "Llegir, analitzar i interpretar obres clàssiques de la literatura dramàtica universal utilitzant un metallenguatge apropiat i atenent tant els elements formals com els simbòlics, i també les relacions de les obres amb els seus contextos de producció …",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Explica y argumenta la interpretación de obras teatrales analizando sus elementos, contexto y tradición, con metalenguaje y juicios estéticos."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Interpretar en voz alta y en grupo fragmentos teatrales, poniendo énfasis en la configuración de escenas, emociones y elementos prosódicos."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Apreciar i argumentar el valor patrimonial i la diversitat cultural que es manifesta en les obres literàries del cànon de la literatura dramàtica universal"
+                },
+                {
+                    "code": "1.4",
+                    "description": "Compartir, amb acompanyament docent, les experiències de lectura interpretativa i analítica en suports diversos i utilitzant el metallenguatge literari adequat, tot relacionant les obres llegides amb la pròpia experiència biogràfica, lectora i cultural"
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Llegir, analitzar i relacionar obres clàssiques de la literatura dramàtica",
+            "description": "Llegir, analitzar i relacionar obres clàssiques de la literatura dramàtica universal amb altres obres literàries i artístiques de diferents èpoques, autors, gèneres i llenguatges artístics",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Interpretar obras dramáticas atendiendo a aspectos temáticos, de género, estructura y estilo, y conectándolas con otras experiencias artísticas."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Seleccionar de forma autónoma diversas formas de acceso a la literatura dramática para enriquecer la identidad lectora y teatral."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Llegir, analitzar críticament i valorar de manera argumentada clàssics de la",
+            "description": "Llegir, analitzar críticament i valorar de manera argumentada clàssics de la literatura dramàtica universal tenint en compte el sistema de valors ètics i estètics inscrits en les obres",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Comparar textos teatrales entre sí o con adaptaciones, argumentando oralmente semejanzas y diferencias temáticas, formales y valores éticos\/estéticos."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Elaborar un proyecto de investigación que vincule obras dramáticas con sus puestas en escena u otras manifestaciones artísticas, mostrando respuesta personal."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Crear una exposición multimodal que contextualice las obras y ofrezca una visión global de la literatura dramática universal."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Produir textos dramàtics i participar en manifestacions o produccions",
+            "description": "Produir textos dramàtics i participar en manifestacions o produccions escèniques de manera individual i col·lectiva, partint de models d’autors i d’autores de la literatura dramàtica universal",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Crear textos teatrales originales aplicando las convenciones del género (diálogo, acotaciones) y elementos escénicos."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Participar de manera activa, constructiva i col·laborativa en projectes d’escriptura creativa i en propostes escèniques relacionades amb les obres de la literatura dramàtica universal com a mitjà d’expressió de les vivències personals i de la pròpia visió del món"
+                }
+            ]
+        }
+    ]
+}

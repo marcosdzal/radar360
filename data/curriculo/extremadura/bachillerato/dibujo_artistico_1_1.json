@@ -1,0 +1,94 @@
+{
+    "community": "extremadura",
+    "stage": "bachillerato",
+    "decree": "Decreto 113\/2022, de 25 de agosto",
+    "subject": "dibujo_artistico_1",
+    "subject_name": "Dibujo Artístico I",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "D esarrollar una formación técnica sólida analizando todo tipo de obra gráfica",
+            "description": "D esarrollar una formación técnica sólida analizando todo tipo de obra gráfica y aportando comprensión sobre la diversidad cultural y artística, y propiciar el deseo de conservar y promover el patrimonio, además de enriquecimiento personal y disfrute…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Compara el uso del dibujo en distintas manifestaciones culturales y artísticas, reflexionando autónomamente."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Compara autónomamente las funciones del dibujo analizando su uso en producciones de distintas disciplinas."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Relacionar diversidad cultural y libertad de expresión argumentando opinión propia y analizando usos del dibujo."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Explorar los lenguajes y elementos plásticos de diferentes propuestas artísticas, incluyendo las contemporáneas, entendiendo los cambios que se han producido en las tendencias a lo largo de la historia y utilizando correctamente la terminología adecuada, así como valorando los retos creativos y estéticos que suponen toda producción cultural y artística."
+                },
+                {
+                    "code": "1.5",
+                    "description": "Conocer los mecanismos de la percepción visual, sus leyes y principios, así como la composición y la ordenación de elementos en el espacio, mostrando interés en sus aplicaciones y empleándolos con intenciones comunicativas o expresivas. Competencia específica 2."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Utilizar el dibujo como un medio de expresión de ideas, opiniones,",
+            "description": "Utilizar el dibujo como un medio de expresión de ideas, opiniones, sentimientos y emociones, experimentando con el uso de diferentes materiales, técnicas y soportes, tanto tradicionales como digitales, aprendiendo de las propuestas artísticas de otr…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Analizar dibujos de distintas épocas identificando lenguaje, técnicas y procedimientos, y explicando cambios históricos con terminología adecuada."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Analizar producciones culturales comprendiendo el papel del dibujo y valorando su aporte social y estético."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Utilizar la práctica creativa para comunicar y expresar de forma abierta sus ideas, sentimientos y emociones, descubriendo la acción de dibujar como un enfrentamiento personal con la realidad y con uno mismo, reconociendo el dibujo artístico como medio autónomo de expresión y comunicación y defendiendo tanto la libertad creadora como la defensa de los derechos humanos y la protección del medioambiente. Competencia específica 3."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "R esponder con interés, creatividad y eficacia ante nuevos desafíos de",
+            "description": "R esponder con interés, creatividad y eficacia ante nuevos desafíos de representación gráfica, adaptando los conocimientos y destrezas adquiridos, desarrollando la retentiva visual y describiendo así no solo lo que vemos sino también lo que pensa…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Explora y valora las posibilidades expresivas de punto, línea y forma y su sintaxis para mejorar la creación gráfica."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Analizar, interpretar y representar gráficamente la realidad mediante esbozos, desarrollando una expresión propia, espontánea y creativa."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "D iseñar proyectos gráficos, individuales o colaborativos",
+            "description": "D iseñar proyectos gráficos, individuales o colaborativos, de forma creativa, con una actitud positiva y respetuosa en su planificación y coevaluación, valorando el enriquecimiento que suponen las propuestas compartidas, adaptando el diseño y el …",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Crear dibujos con un estilo personal combinando técnicas tradicionales y manipulación propia."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Realizar composiciones bidimensionales explorando la percepción espacial y el cuerpo humano como soporte o herramienta gráfica."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Identificar diferentes ejemplos de profesiones relacionadas con el dibujo artístico, comprendiendo las oportunidades que ofrecen y el valor añadido de la creatividad en el trabajo, así como expresando su opinión de forma razonada y respetuosa."
+                },
+                {
+                    "code": "4.4",
+                    "description": "Realizar un proyecto gráfico, individual o grupal, enmarcado en un ámbito disciplinar concreto, utilizando con interés los valores expresivos del dibujo artístico y de sus recursos."
+                }
+            ]
+        }
+    ]
+}

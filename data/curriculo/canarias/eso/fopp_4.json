@@ -1,0 +1,101 @@
+{
+    "community": "canarias",
+    "stage": "eso",
+    "decree": "Decreto 30\/2023, de 16 de marzo",
+    "subject": "fopp",
+    "subject_name": "Formación y Orientación Personal y Profesional",
+    "grade": 4,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "(c1) A través de esta competencia el alumnado comprenderá los diferentes",
+            "description": "(c1) A través de esta competencia el alumnado comprenderá los diferentes procesos implicados en la conducta y desarrollará estrategias de gestión emocional y de aprendizaje para emplearlas adecuadamente en los procesos de motivación, razonamiento, ap…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Aplicar estrategias de aprendizaje y gestión emocional para mejorar el desempeño personal, social y académico y controlar acciones."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Aplicar los procesos cognitivos y emocionales del aprendizaje para desarrollar estrategias que mejoren la adquisición de conocimientos y destrezas."
+                },
+                {
+                    "code": "1.3",
+                    "description": "El alumnado analiza el papel de las emociones en el aprendizaje y desarrolla estrategias para mejorarlo."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Analizar la relación entre cognición, motivación, aprendizaje y gestión emocional con la conducta propia y ajena usando fundamentos teóricos."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "(c2) A través de esta competencia específica el alumnado comprenderá que las",
+            "description": "(c2) A través de esta competencia específica el alumnado comprenderá que las personas pasan, a lo largo de la vida, por cambios físicos, cognitivos, psicológicos y sociales que condicionan sus decisiones, comportamientos y reacciones dentro de un con…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Afrontar retos identificando cualidades propias y ajenas y analizando factores del desarrollo."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Analizar las características del desarrollo evolutivo en los planos físico, cognitivo, social, emocional y sexual, comprendiendo cómo conforman la madurez."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Identificar cualidades propias y ajenas, reflexionando sobre potenciar las que ayudan a afrontar retos y la transición a la vida adulta."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "(c3) A través de esta competencia específica el alumnado adquirirá",
+            "description": "(c3) A través de esta competencia específica el alumnado adquirirá conocimientos acerca del individuo, las sociedades y la cultura. Además, se promoverán actitudes de respeto y empatía ante la realidad transcultural y el pluralismo social, fomentando…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Reflexionar de manera crítica sobre la condición humana, la sociedad y la cultura a partir del conocimiento que proporcionan las ciencias humanas y sociales para presentar ideas y soluciones innovadoras, éticas y sostenibles utilizando estrategias ágiles de planificación."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Analizar la diversidad personal, social y cultural desde múltiples perspectivas, mostrando empatía, respeto y valorando la equidad."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "(c4) A través de esta competencia específica el alumnado tomará conciencia de",
+            "description": "(c4) A través de esta competencia específica el alumnado tomará conciencia de cómo la cultura y la sociedad aportan modelos y referentes que condicionan las percepciones, actitudes, interpretaciones y respuestas ante los acontecimientos y situaciones…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Aplicar estrategias y habilidades para adaptarse a nuevos grupos y contextos, basándose en conocimientos sociales y antropológicos."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Analizar cómo factores personales y socioculturales configuran la personalidad desde una perspectiva comparada."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Valorar la diversidad como elemento enriquecedor desde el respeto, la inclusión y la igualdad real entre hombres y mujeres."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "(c5) A través de esta competencia específica el alumnado será capaz de diseñar",
+            "description": "(c5) A través de esta competencia específica el alumnado será capaz de diseñar un proyecto personal, académico y profesional propio partiendo de las oportunidades académicas y profesionales que ofrece el entorno, considerando sus características pers…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Elabora un proyecto personal, académico y profesional y una aproximación a un plan de búsqueda activa de empleo."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Identificar y valorar oportunidades académicas y profesionales del entorno según intereses personales."
+                }
+            ]
+        }
+    ]
+}

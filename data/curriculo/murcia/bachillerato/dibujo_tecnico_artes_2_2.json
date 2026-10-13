@@ -1,0 +1,106 @@
+{
+    "community": "murcia",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "dibujo_tecnico_artes_2",
+    "subject_name": "Dibujo Técnico Aplicado a las Artes Plásticas y al Diseño II",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Investigar la configuración más adecuada de los equipos informáticos,",
+            "description": "Investigar la configuración más adecuada de los equipos informáticos, instalando y utilizando el software más apropiado para cada aplicación.",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar y justificar el uso de estructuras y proporciones geométricas en obras artísticas o de diseño, determinando su función compositiva y comunicativa."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Conocer y comprender la sintaxis y la semántica de las construcciones de un lenguaje de programación."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Realizar programas de aplicación en un lenguaje de programación determinado, aplicándolos a la solución de problemas reales."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Utilizar entornos de programación para diseñar programas que resuelvan problemas concretos."
+                },
+                {
+                    "code": "1.5",
+                    "description": "Depurar programas informáticos, optimizándolos para su aplicación."
+                },
+                {
+                    "code": "1.6",
+                    "description": "Analizar la importancia que el aseguramiento de la información posee en la sociedad del conocimiento valorando las repercusiones de tipo económico, social o personal."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Utilizar aplicaciones informáticas de escritorio o web, como instrumentos de",
+            "description": "Utilizar aplicaciones informáticas de escritorio o web, como instrumentos de resolución de problemas específicos y aplicaciones de uso concreto. En el desarrollo de esta competencia específica se estudiará el conjunto de comandos, instrucciones, prog…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Crear composiciones modulares y teselaciones mediante el uso de transformaciones geométricas planas, integrando precisión técnica y creatividad en el diseño de superficies."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Crear composiciones gráficas originales aplicando trazados geométricos de tangencias, enlaces y curvas cónicas para resolver problemas de diseño artístico o funcional."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Interconectar aplicación o sitio web con fuente de datos."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Desplegar, depurar y poner en producción sitios y aplicaciones orientadas a web en entornos locales, internet o en cloud."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Analizar las principales topologías que se utilizan para clasificar las redes de ordenadores",
+            "description": "Analizar las principales topologías que se utilizan para clasificar las redes de ordenadores. Describir los distintos niveles del modelo OSI (Open Systems Interconnection Model) y su función en una red informática.",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Representar objetos tridimensionales con elementos curvos utilizando los sistemas axonométricos, asegurando la correcta construcción de elipses y arcos en los planos isométrico y de caballera."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Diseñar y representar espacios tridimensionales o escenografías mediante perspectiva cónica, integrando el estudio de luces y sombras y analizando críticamente el resultado final."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Explotar y analizar, a través de lenguajes, estándares de consulta y herramientas específicas normalizadas o de desarrollo propio, la información y datos."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Conectar los almacenes de datos a programas de creación propia para persistencia de información y posterior explotación."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Utilizar y describir las características de las herramientas relacionadas con",
+            "description": "Utilizar y describir las características de las herramientas relacionadas con la web social, elaborando y publicando contenidos, integrando información textual, gráfica y multimedia teniendo en cuenta a quién va dirigido, así como el objetivo que se …",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Proyectar, de manera individual o en grupo, un diseño sencillo, comunicando de manera clara e inequívoca su forma y dimensiones mediante el uso de la normalización, aplicando estrategias y destrezas que agilicen el trabajo colaborativo."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Elaborar y publicar contenidos en la web integrando información textual, gráfica y multimedia teniendo en cuenta el destinatario y el objetivo que se pretende conseguir, reconociendo diferentes perfiles lingüísticos."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Analizar y utilizar las posibilidades que nos ofrecen las tecnologías basadas en la web 2.0 y sucesivos desarrollos, aplicándolas al desarrollo de trabajos colaborativos."
+                }
+            ]
+        }
+    ]
+}

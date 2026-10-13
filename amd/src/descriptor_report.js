@@ -124,14 +124,85 @@ define([], function() {
         document.querySelectorAll('.sentinel-panel').forEach(function(p) {
             p.classList.remove('active');
         });
+        document.querySelectorAll('.sn-view-pane').forEach(function(p) {
+            p.classList.remove('active');
+        });
     }
 
     // ── Public navigation (window-scoped for PHP onclick handlers) ────────────
 
+    var _lastViewTab = 'diana';
+    try { _lastViewTab = localStorage.getItem('sentinel_view_tab') || 'diana'; } catch(e) {}
+
+    window.sentinelViewTab = function(tab) {
+        // Verify the target pane exists; fall back to 'diana' if not.
+        var pane = document.getElementById('sentinel-pane-' + tab);
+        if (!pane) { tab = 'diana'; }
+        _lastViewTab = tab;
+        try { localStorage.setItem('sentinel_view_tab', tab); } catch(e) {}
+        var btns = document.querySelectorAll('.sn-view-tab');
+        btns.forEach(function(t) {
+            var btnTab = t.getAttribute('data-tab');
+            t.classList.toggle('active', btnTab === tab);
+        });
+        document.querySelectorAll('.sn-view-pane').forEach(function(p) { p.classList.remove('active'); });
+        document.querySelectorAll('.sentinel-panel').forEach(function(p) { p.classList.remove('active'); });
+        var pane = document.getElementById('sentinel-pane-' + tab);
+        if (pane) { pane.classList.add('active'); }
+        // Highlight the active group + background tint.
+        var isSpecific = (tab === 'subject-diana' || tab === 'subject-grid');
+        document.querySelectorAll('.sn-tab-group').forEach(function(g) {
+            g.classList.remove('sn-group-active-key', 'sn-group-active-specific');
+            if (g.dataset.group === 'key' && !isSpecific) {
+                g.classList.add('sn-group-active-key');
+            } else if (g.dataset.group === 'specific' && isSpecific) {
+                g.classList.add('sn-group-active-specific');
+            }
+        });
+        var report = document.querySelector('.sentinel-report');
+        if (report) {
+            report.classList.remove('sn-bg-key', 'sn-bg-specific');
+            report.classList.add(isSpecific ? 'sn-bg-specific' : 'sn-bg-key');
+        }
+        // Restore L1 panels for the grid tabs.
+        if (tab === 'grid') {
+            var l1 = document.getElementById('sentinel-l1');
+            if (l1) { l1.classList.add('active'); }
+        }
+        if (tab === 'subject-grid') {
+            var ceL1 = document.getElementById('sentinel-ce-l1');
+            if (ceL1) { ceL1.classList.add('active'); }
+        }
+        if (tab === 'diana' && window.sentinelRedrawRadar) {
+            setTimeout(window.sentinelRedrawRadar, 50);
+        }
+        if (tab === 'subject-diana' && window.sentinelDrawSubjectRadar) {
+            setTimeout(window.sentinelDrawSubjectRadar, 50);
+        }
+        bcRestore();
+    };
+
+    function highlightGroup(group) {
+        document.querySelectorAll('.sn-tab-group').forEach(function(g) {
+            g.classList.remove('sn-group-active-key', 'sn-group-active-specific');
+            if (g.dataset.group === 'key' && group === 'key') {
+                g.classList.add('sn-group-active-key');
+            } else if (g.dataset.group === 'specific' && group === 'specific') {
+                g.classList.add('sn-group-active-specific');
+            }
+        });
+    }
+
     window.sentinelShowArea = function(areaCode) {
         hideAll();
+        highlightGroup('key');
         var panel = document.getElementById('sentinel-l2-' + areaCode);
         if (panel) {
+            var back = panel.querySelector('.sn-back-link');
+            if (back) {
+                back.textContent = _lastViewTab === 'diana'
+                    ? '← Volver a Competencias Clave (Diana)' : '← Volver a Competencias Clave (Tarjetas)';
+            }
             panel.classList.add('active');
             panel.scrollIntoView({behavior: 'smooth', block: 'start'});
             bcSetTrail([{label: areaLabel(areaCode)}]);
@@ -140,6 +211,7 @@ define([], function() {
 
     window.sentinelShowDescriptor = function(descCode) {
         hideAll();
+        highlightGroup('key');
         var panel = document.getElementById('sentinel-l3-' + descCode);
         if (panel) {
             panel.classList.add('active');
@@ -154,17 +226,88 @@ define([], function() {
 
     window.sentinelBack = function(panelId) {
         hideAll();
-        var panel = document.getElementById('sentinel-' + panelId);
+        if (panelId === 'l1') {
+            sentinelViewTab(_lastViewTab);
+            bcRestore();
+        } else {
+            var panel = document.getElementById('sentinel-' + panelId);
+            if (panel) {
+                panel.classList.add('active');
+                panel.scrollIntoView({behavior: 'smooth', block: 'start'});
+            }
+            if (panelId.indexOf('l2-') === 0) {
+                var ac = panelId.slice(3);
+                bcSetTrail([{label: areaLabel(ac)}]);
+            }
+        }
+    };
+
+    // ── CE (subject) navigation ─────────────────────────────────────────────
+
+    function ceLabel(ceIdx) {
+        var panel = document.getElementById('sentinel-ce-l2-' + ceIdx);
+        if (!panel) { return 'CE' + (ceIdx + 1); }
+        var lbl = panel.dataset.ceLabel || '';
+        var name = panel.dataset.ceName || '';
+        if (!name) { return lbl; }
+        var full = lbl + ' – ' + name;
+        return full.length > 60 ? full.substring(0, 57) + '…' : full;
+    }
+
+    window.sentinelShowCE = function(ceIdx) {
+        hideAll();
+        highlightGroup('specific');
+        var panel = document.getElementById('sentinel-ce-l2-' + ceIdx);
+        if (panel) {
+            var back = panel.querySelector('.sn-back-link');
+            if (back) {
+                back.textContent = _lastViewTab === 'subject-diana'
+                    ? '← Volver a Competencias Específicas (Diana)' : '← Volver a Competencias Específicas (Tarjetas)';
+            }
+            panel.classList.add('active');
+            panel.scrollIntoView({behavior: 'smooth', block: 'start'});
+            bcSetTrail([{label: ceLabel(ceIdx)}]);
+        }
+    };
+
+    window.sentinelCEBack = function() {
+        hideAll();
+        var backTab = (_lastViewTab === 'subject-diana' || _lastViewTab === 'subject-grid')
+            ? _lastViewTab : 'subject-grid';
+        sentinelViewTab(backTab);
+        bcRestore();
+    };
+
+    window.sentinelShowCECrit = function(ceIdx, critIdx) {
+        hideAll();
+        highlightGroup('specific');
+        var panel = document.getElementById('sentinel-ce-l3-' + ceIdx + '-' + critIdx);
         if (panel) {
             panel.classList.add('active');
             panel.scrollIntoView({behavior: 'smooth', block: 'start'});
+            var critName = panel.dataset.critName || panel.getAttribute('data-crit-name') || '';
+            if (critName.length > 50) { critName = critName.substring(0, 47) + '…'; }
+            bcSetTrail([
+                {label: ceLabel(ceIdx), onclick: function() { window.sentinelShowCE(ceIdx); }},
+                {label: critName || ('Criterio ' + (critIdx + 1))}
+            ]);
         }
-        if (panelId === 'l1') {
-            bcRestore();
-        } else if (panelId.indexOf('l2-') === 0) {
-            var ac = panelId.slice(3);
-            bcSetTrail([{label: areaLabel(ac)}]);
+    };
+
+    window.sentinelCECritBack = function(ceIdx) {
+        hideAll();
+        var panel = document.getElementById('sentinel-ce-l2-' + ceIdx);
+        if (panel) {
+            panel.classList.add('active');
+            panel.scrollIntoView({behavior: 'smooth', block: 'start'});
+            bcSetTrail([{label: ceLabel(ceIdx)}]);
         }
+    };
+
+    window.sentinelChangeCourse = function(courseid) {
+        var url = new URL(window.location.href);
+        url.searchParams.set('courseid', courseid);
+        window.location.href = url.toString();
     };
 
     // ── Init ──────────────────────────────────────────────────────────────────
@@ -177,8 +320,10 @@ define([], function() {
             }
             initBreadcrumb();
 
+            sentinelViewTab(_lastViewTab);
+
             // Keyboard: Enter/Space activa tarjetas.
-            var sel = '.sentinel-area-card, .sentinel-desc-card:not(.sentinel-desc-unworked), [data-descriptor]';
+            var sel = '.sentinel-area-card, .sentinel-desc-card:not(.sentinel-desc-unworked), .sn-ce-card, [data-descriptor]';
             document.querySelectorAll(sel).forEach(function(el) {
                 el.addEventListener('keydown', function(e) {
                     if (e.key === 'Enter' || e.key === ' ') {

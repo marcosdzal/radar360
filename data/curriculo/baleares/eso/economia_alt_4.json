@@ -1,0 +1,143 @@
+{
+    "community": "baleares",
+    "stage": "eso",
+    "decree": "",
+    "subject": "economia_alt",
+    "subject_name": "Economia i Emprenedoria",
+    "grade": 4,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Analitzar i valorar les fortaleses i febleses, propies i dels altres,",
+            "description": "analitzar i valorar les fortaleses i febleses, propies i dels altres, reflexionant sobre les aptituds i gestionant de manera eficaç les emocions i les destreses necessàries per adaptar-se a entorns canviants i dissenyar un projecte personal que gener…",
+            "criterios": [
+                {
+                    "code": "CA1.1",
+                    "description": "Adaptar-se a entorns complexos i crear un projecte personal original i generador de valor, partint de la valoració crítica sobre les pròpies aptituds i les possibilitats creatives, posant l'accent en les fortaleses i febleses i aconseguint progressivament el control conscient de les emocions. - Adaptar-se a entorns canviants i complexos. - Crear un projecte original i generador de valor. - Formular una valoració crítica de les pròpies aptituds i possibilitats creatives. - Visualitzar les fortaleses i febleses personals. - Aconseguir progressivament el control conscient de les emocions durant el procés creatiu."
+                },
+                {
+                    "code": "CA1.2",
+                    "description": "Utilitzar estratègies d'anàlisi raonada de les fortaleses i febleses personals i de la iniciativa i creativitat pròpia i dels altres. - Utilitzar estratègies d'anàlisi raonada per avaluar les fortaleses i febleses personals. - Utilitzar estratègies d'anàlisi raonada per valorar la iniciativa i creativitat pròpia i dels altres."
+                },
+                {
+                    "code": "CA1.3",
+                    "description": "Gestionar de manera eficaç les emocions i destreses personals, promovent i desenvolupant actituds creatives. - Gestionar de manera eficaç les emocions i destreses personals. - Promoure i desenvolupar actituds creatives."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Utilitzar estratègies de conformació d’equips, innovació àgil i habilitats",
+            "description": "utilitzar estratègies de conformació d’equips, innovació àgil i habilitats socials de comunicació, aplicant-les amb autonomia i motivació a les dinàmiques de treball en diferents contexts, per constituir equips eficaços i descobrir el valor de cooper…",
+            "criterios": [
+                {
+                    "code": "CA2.1",
+                    "description": "Constituir equips de treball basats en principis d'equitat, coeducació i igualtat entre homes i dones, actitud participativa i visualització de metes comunes, utilitzant estratègies que facilitin la identificació i optimització dels recursos humans necessaris que condueixin a la consecució del repte proposat. - Crear equips de treball amb un enfocament d'equitat, basat en els principis de la coeducació i la igualtat efectiva entre gèneres. - Fomentar una actitud participativa entre tots els membres de l'equip. - Visualitzar metes comunes per garantir la cohesió del grup. - Desenvolupar estratègies per identificar i optimitzar els recursos humans necessaris que condueixin a la consecució del repte proposat."
+                },
+                {
+                    "code": "CA2.2",
+                    "description": "Posar en pràctica habilitats socials, de comunicació oberta, de motivació, de lideratge i de cooperació i innovació àgil, tant de manera presencial com a distància, en diferents contexts de treball en equip. - Desenvolupar habilitats socials en contexts de treball en equip. - Fomentar una comunicació oberta entre els membres de l'equip. - Desenvolupar habilitats de motivació i lideratge per a la cohesió del grup. - Millorar la cooperació i la innovació àgil tant de presencialment com a distància."
+                },
+                {
+                    "code": "CA2.3",
+                    "description": "Valorar i respectar les aportacions dels altres en les diferents dinàmiques de treball i fases del procés dut a terme, respectant les decisions preses de manera col·lectiva. - Valorar les aportacions dels altres en les dinàmiques de treball. - Respectar les decisions preses de manera col·lectiva. - Reconèixer la importància de les diferents fases del procés en el treball en equip."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Elaborar, amb sentit etic i solidari, idees i solucions innovadores i",
+            "description": "elaborar, amb sentit etic i solidari, idees i solucions innovadores i sostenibles que donin resposta a les necessitats locals i globals detectades, utilitzant metodologies àgils d'ideació i analitzant tant els seus punts forts i febles com l'impacte …",
+            "criterios": [
+                {
+                    "code": "CA3.1",
+                    "description": "Preservar i tenir cura del medi natural, social, cultural i artístic a partir de propostes i actuacions locals i globals que promoguin el desenvolupament sostenible, amb visió creativa, emprenedora i compromesa. - Preservar el medi natural i cultural mitjançant propostes sostenibles. - Tenir cura del medi social i artístic a través d'actuacions locals i globals. - Promoure el desenvolupament sostenible amb una visió creativa. - Adoptar una actitud emprenedora i compromesa envers la preservació i cura del medi natural, social, cultural i artístic."
+                },
+                {
+                    "code": "CA3.2",
+                    "description": "Superar els reptes proposats a partir d'idees i solucions innovadores i sostenibles, avaluantne els avantatges i inconvenients, com també l'impacte que poguessin generar a nivell personal i en el context al qual s'adrecen. - Afrontar els reptes proposats amb idees innovadores i sostenibles. - Avaluar els avantatges i inconvenients de les solucions proposades. - Estimar l'impacte potencial de les solucions a nivell personal. - Visualitzar l'impacte de les solucions en el context al qual s'adrecen."
+                },
+                {
+                    "code": "CA3.3",
+                    "description": "Aplicar metodologies àgils seguint els criteris i pautes establerts en el procés de construcció d'idees creatives i sostenibles que facilitin la superació dels reptes plantejats i l'obtenció de solucions a les necessitats detectades amb sentit ètic i solidari. - Aplicar metodologies àgils en la construcció d'idees creatives i sostenibles. - Afrontar la superació dels reptes plantejats amb solucions adequades. - Promoure el sentit ètic i solidari en les solucions obtingudes."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Seleccionar i reunir els recursos disponibles en el proces de desenvolupament",
+            "description": "seleccionar i reunir els recursos disponibles en el proces de desenvolupament de la idea o solució creativa proposada, incloent-hi els mitjans de producció i les fonts financeres i aplicant-ne estratègies de captació per posar en marxa el projecte qu…",
+            "criterios": [
+                {
+                    "code": "CA4.1",
+                    "description": "Posar en marxa un projecte viable que faci real una solució emprenedora, seleccionant i reunint els recursos materials, immaterials i digitals disponibles en el procés d'ideació creativa. - Dissenyar un projecte viable que implementi una solució emprenedora. - Seleccionar els recursos materials, immaterials i digitals més rellevants per al procés d'ideació creativa. - Reunir els recursos disponibles que facilitin el procés d'ideació creativa."
+                },
+                {
+                    "code": "CA4.2",
+                    "description": "Utilitzar amb autonomia estratègies de captació i gestió de recursos coneixent-ne les característiques i aplicant-les al procés de conversió d'idees i solucions en accions. - Utilitzar estratègies de captació de recursos amb autonomia. - Gestionar recursos coneixent-ne les característiques. - Aplicar les estratègies al procés de conversió d'idees i solucions en accions."
+                },
+                {
+                    "code": "CA4.3",
+                    "description": "Reunir, analitzar i seleccionar amb criteris propis els recursos disponibles, planificant-ne amb coherència l'organització, distribució, ús i optimització. - Reunir amb criteris propis els recursos disponibles. - Planificar l'organització, distribució, ús i optimització dels recursos d'un projecte."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Presentar i exposar idees i solucions creatives, utilitzant estrategies",
+            "description": "presentar i exposar idees i solucions creatives, utilitzant estrategies comunicatives agils i valorant la importància d'una comunicació efectiva i respectuosa, per transmetre missatges convincents adequats al context i als objectius concrets de cada …",
+            "criterios": [
+                {
+                    "code": "CA5.1",
+                    "description": "Validar les idees i solucions presentades mitjançant missatges convincents i adequats al context i objectius concrets, utilitzant estratègies comunicatives àgils adients per a cada situació comunicativa. - Validar les idees i solucions presentades segons els objectius i el context. - Compondre missatges convincents i adequats per transmetre les idees i solucions. - Adaptar les estratègies comunicatives segons les característiques de cada situació. - Seleccionar tècniques de comunicació àgils per afavorir la comprensió i l'impacte del missatge."
+                },
+                {
+                    "code": "CA5.2",
+                    "description": "Presentar i exposar, amb claredat i coherència, les idees i solucions creatives, valorant la importància de mantenir una comunicació eficaç i respectuosa al llarg de tot el procés. - Defensar les idees i solucions creatives amb claredat i coherència en la informació. - Valorar la importància de mantenir una comunicació eficaç. - Demostrar una comunicació respectuosa al llarg del procés."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Comprendre aspectes basics de l'economia i les finances, valorant criticament",
+            "description": "comprendre aspectes basics de l'economia i les finances, valorant criticament el problema de l'escassetat de recursos i la necessitat de triar, com també els principis d'interacció social des del punt de vista econòmic per relacionar aquests aspectes…",
+            "criterios": [
+                {
+                    "code": "CA6.1",
+                    "description": "Desenvolupar una idea o solució emprenedora a partir dels coneixements, destreses i actituds adquirits des de l'àmbit de l'economia i les finances, relacionant-los entre ells i amb els recursos necessaris i disponibles per desenvolupar-la. - Desenvolupar una idea o solució emprenedora basada en coneixements d'economia i finances. - Aplicar les destreses adquirides per facilitar el desenvolupament de la solució. - Combinar la relació entre els coneixements, recursos necessaris i recursos disponibles."
+                },
+                {
+                    "code": "CA6.2",
+                    "description": "Conèixer àmpliament i comprendre amb precisió els coneixements, destreses i actituds necessaris de l'àmbit econòmic i financer aplicant-los amb coherència a situacions, activitats o projectes concrets. - Explicar amb precisió els coneixements, destreses i actituds necessaris de l'àmbit econòmic i financer. - Transferir amb coherència aquests coneixements, destreses i actituds a situacions, activitats o projectes concrets."
+                },
+                {
+                    "code": "CA6.3",
+                    "description": "Afrontar els reptes de manera eficaç, equitativa i sostenible, en diferents contexts i situacions, reals o simulades, transferint els sabers econòmics i financers necessaris. - Identificar els reptes en contexts diversos, en situacions simulades o reals. - Posar en pràctica estratègies per afrontar reptes econòmics de manera eficaç, equitativa i sostenible."
+                },
+                {
+                    "code": "CA6.4",
+                    "description": "Valorar críticament el problema econòmic de l'escassetat de recursos i la necessitat de triar, com també els principis d'interacció social des del punt de vista econòmic, aprofitant aquest coneixement en l'afrontament eficaç de reptes. - Valorar críticament el problema de l'escassetat de recursos i la necessitat de fer eleccions econòmiques. - Aplicar els principis d'interacció social des d'una perspectiva econòmica per afrontar reptes de manera eficaç."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Construir i analitzar de manera cooperativa, autonoma i agil prototips",
+            "description": "construir i analitzar de manera cooperativa, autonoma i agil prototips innovadors i sostenibles, aplicant estratègies eficaces de disseny i execució, avaluant totes les fases del procés de manera crítica i ètica, validant els resultats obtinguts per …",
+            "criterios": [
+                {
+                    "code": "CA7.1",
+                    "description": "Valorar la contribució del prototip final, tant a l'aprenentatge com al desenvolupament personal i col·lectiu, avaluant de manera crítica i ètica totes les fases del procés dut a terme, com també l'adequació de les estratègies emprades per construir-lo. - Valorar la contribució del procés de realització del prototip final a l'aprenentatge i al desenvolupament personal i col·lectiu. - Secundar de manera crítica i ètica totes les fases del procés. - Valorar l'adequació de les estratègies emprades en la construcció del prototip."
+                },
+                {
+                    "code": "CA7.2",
+                    "description": "Analitzar, de manera crítica, el procés de disseny i execució dut a terme en la realització dels prototips, establint comparacions entre l'efectivitat, la viabilitat i l'adequació assolida en els processos i els resultats obtinguts. - Examinar de manera crítica el procés de disseny i execució dels prototips creats. - Comparar l'efectivitat, la viabilitat i l'adequació entre els processos i els resultats obtinguts."
+                },
+                {
+                    "code": "CA7.3",
+                    "description": "Utilitzar estratègies eficaces de disseny i execució seleccionant aquelles que facilitin la construcció del prototip final de manera àgil, cooperativa i autònoma. - Dissenyar estratègies eficaces en el disseny i execució del prototip final. - Seleccionar estratègies que facilitin una construcció àgil, cooperativa i autònoma."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "community": "canarias",
+    "stage": "bachillerato",
+    "decree": "Decreto 73\/2023, de 13 de abril",
+    "subject": "dibujo_tecnico_1",
+    "subject_name": "Dibujo Técnico I",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "(c1) La competencia específica se centra en el desarrollo de aprendizajes",
+            "description": "(c1) La competencia específica se centra en el desarrollo de aprendizajes relativos a las obras de arquitectura y de ingeniería de todos los tiempos, incluidas las vanguardias arquitectónicas y las últimas tendencias, no solo por el papel que desempe…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar la relación histórica entre matemáticas y dibujo geométrico, valorando su importancia en arquitectura e ingeniería con perspectiva de género y diversidad cultural, empleando vocabulario técnico y artístico."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "(c2) La competencia específica se encamina hacia el desarrollo de aprendizajes",
+            "description": "(c2) La competencia específica se encamina hacia el desarrollo de aprendizajes relativos al estudio de la geometría plana aplicada al dibujo arquitectónico e ingenieril a través de conceptos, propiedades, relaciones y construcciones fundamentales. Pr…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Resolver gráficamente operaciones matemáticas y transformaciones geométricas usando conceptos de geometría plana."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Dibujar polígonos usando sus propiedades geométricas con precisión y limpieza."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Resolver gráficamente tangencias y curvas aplicando propiedades con rigor."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "(c3) La competencia específica se fundamenta en el desarrollo de aprendizajes",
+            "description": "(c3) La competencia específica se fundamenta en el desarrollo de aprendizajes relativos a los sistemas de representación derivados de la geometría descriptiva, que son necesarios en todos los procesos constructivos para determinar, a partir de su rep…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Representar puntos, rectas y planos en sistema diédrico, determinando su posición relativa y distancias."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Identificar y describir figuras planas en sistemas axonométricos explicando su función como representación espacial."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Representación e interpretación de elementos básicos en sistema de planos acotados aplicando sus fundamentos."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Representar objetos tridimensionales sobre el plano aplicando las reglas de la perspectiva cónica."
+                },
+                {
+                    "code": "3.5",
+                    "description": "Valorar el rigor gráfico, claridad y precisión en el proceso de resolución y construcción gráfica."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "(c4) La competencia específica hace referencia a los aprendizajes relativos al",
+            "description": "(c4) La competencia específica hace referencia a los aprendizajes relativos al dibujo normalizado como principal vehículo de comunicación entre los distintos agentes del proceso constructivo, posibilitando desde una primera expresión de posibles solu…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "El alumnado dibuja las vistas normalizadas de objetos sencillos, aplicando escalas y formatos según normas UNE e ISO."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Aplicar el croquis y el esbozo como herramientas de reflexión para explorar alternativas en procesos de trabajo."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "(c5) La competencia específica analiza el desarrollo de aprendizajes relativos",
+            "description": "(c5) La competencia específica analiza el desarrollo de aprendizajes relativos a las soluciones gráficas que aportan los sistemas CAD utilizados, actualmente, en los procesos de creación de proyectos de ingeniería o arquitectura. Atendiendo a esta re…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "El alumnado crea figuras planas y 3D con software de dibujo vectorial, aplicando herramientas y técnicas propias del CAD."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Diseñar virtualmente piezas 3D mediante operaciones booleanas entre primitivas para presentar proyectos en grupo."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "community": "madrid",
+    "stage": "bachillerato",
+    "decree": "Decreto 64\/2022, de 20 de julio",
+    "subject": "dibujo_tecnico_1",
+    "subject_name": "Dibujo Técnico I",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Interpretar elementos o conjuntos arquitectónicos y de ingeniería, empleando",
+            "description": "Interpretar elementos o conjuntos arquitectónicos y de ingeniería, empleando recursos asociados a la percepción, estudio, construcción e investigación de formas para analizar las estructuras geométricas y los elementos técnicos utilizados.",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar la relación histórica entre matemáticas y dibujo geométrico, valorando su importancia en arquitectura e ingeniería con perspectiva de género y diversidad cultural, empleando vocabulario técnico y artístico."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Identificar las relaciones geométricas entre las partes de una producción arquitectónica o de ingeniería y fomentar su disfrute para contribuir a su apreciación estética y conservación."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Utilizar razonamientos inductivos, deductivos y lógicos en problemas de índole gráficomatemáticos",
+            "description": "Utilizar razonamientos inductivos, deductivos y lógicos en problemas de índole gráficomatemáticos, aplicando fundamentos de la geometría plana para resolver gráficamente operaciones matemáticas, relaciones, construcciones y transformaciones. .",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Resolver gráficamente operaciones matemáticas y transformaciones geométricas usando conceptos de geometría plana."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Dibujar polígonos usando sus propiedades geométricas con precisión y limpieza."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Resolver gráficamente tangencias y curvas aplicando propiedades con rigor."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Trazar gráficamente construcciones poligonales basándose en sus propiedades, y mostrando interés por la precisión, claridad y limpieza."
+                },
+                {
+                    "code": "2.5",
+                    "description": "Comprender el concepto de proporcionalidad y semejanza de figuras y construir escalas gráficas con precisión."
+                },
+                {
+                    "code": "2.6",
+                    "description": "Comprender las propiedades de las transformaciones geométricas (giro, traslación, homotecia, homología y afinidad) y su aplicación para la resolución de problemas geométricos y representación de figuras planas."
+                },
+                {
+                    "code": "2.7",
+                    "description": "Resolver gráficamente tangencias y trazar curvas técnicas, aplicando sus propiedades con rigor en su ejecución."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Desarrollar la visión espacial, utilizando la geometría descriptiva en",
+            "description": "Desarrollar la visión espacial, utilizando la geometría descriptiva en proyectos sencillos, considerando la importancia del dibujo en arquitectura e ingenierías para resolver problemas e interpretar y recrear gráficamente la realidad tridimensional s…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Representar puntos, rectas y planos en sistema diédrico, determinando su posición relativa y distancias."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Identificar y describir figuras planas en sistemas axonométricos explicando su función como representación espacial."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Representación e interpretación de elementos básicos en sistema de planos acotados aplicando sus fundamentos."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Representar objetos tridimensionales sobre el plano aplicando las reglas de la perspectiva cónica."
+                },
+                {
+                    "code": "3.5",
+                    "description": "Valorar el rigor gráfico, claridad y precisión en el proceso de resolución y construcción gráfica."
+                },
+                {
+                    "code": "3.6",
+                    "description": "Dibujar en sistemas axonométricos con el coeficiente de reducción correspondiente, figuras tridimensionales a partir de sus proyecciones ortogonales y practicar secciones planas de las mismas."
+                },
+                {
+                    "code": "3.7",
+                    "description": "Representar e interpretar elementos básicos en el sistema de planos acotados haciendo uso de sus fundamentos e identificando sus principales aplicaciones."
+                },
+                {
+                    "code": "3.8",
+                    "description": "Dibujar elementos en el espacio empleando el sistema cónico con posiciones relativas que ofrezcan perspectivas frontal y oblicua, a partir del entorno o de sus proyecciones ortogonales, conociendo los elementos que definen el sistema."
+                },
+                {
+                    "code": "3.9",
+                    "description": "Valorar el rigor gráfico del proceso; la claridad, la precisión y el proceso de resolución y construcción gráfica."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Formalizar y definir diseños técnicos aplicando las normas UNE e ISO de manera",
+            "description": "Formalizar y definir diseños técnicos aplicando las normas UNE e ISO de manera apropiada, valorando la importancia que tiene el croquis para documentar gráficamente proyectos arquitectónicos y de ingeniería.",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "El alumnado dibuja las vistas normalizadas de objetos sencillos, aplicando escalas y formatos según normas UNE e ISO."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Aplicar el croquis y el esbozo como herramientas de reflexión para explorar alternativas en procesos de trabajo."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Utilizar el croquis y el eto como elementos de reflexión en la aproximación e indagación de alternativas y soluciones a los procesos de trabajo."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Investigar, experimentar y representar digitalmente elementos, planos y",
+            "description": "Investigar, experimentar y representar digitalmente elementos, planos y esquemas técnicos mediante el uso de programas específicos CAD de manera individual o grupal, apreciando su uso en las profesiones actuales, para virtualizar objetos y espacios e…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "El alumnado crea figuras planas y 3D con software de dibujo vectorial, aplicando herramientas y técnicas propias del CAD."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Diseñar virtualmente piezas 3D mediante operaciones booleanas entre primitivas para presentar proyectos en grupo."
+                }
+            ]
+        }
+    ]
+}

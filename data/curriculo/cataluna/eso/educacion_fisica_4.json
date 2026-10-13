@@ -1,0 +1,117 @@
+{
+    "community": "cataluna",
+    "stage": "eso",
+    "decree": "",
+    "subject": "educacion_fisica",
+    "subject_name": "Educació Física",
+    "grade": 4,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Adquirir un estil de ida actiu i saludable incorporant la pràctica d'activitats",
+            "description": "Adquirir un estil de ida actiu i saludable incorporant la pràctica d'activitats físiques i d'hàbits beneficiosos per a la contribució del benestar físic, mental i social",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Planificar la pràctica d’activitat física orientada a un estil de vida actiu i saludable."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Dissenyar un pla de treball de la condició física en relació amb la salut d’acord a les necessitats individuals."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Aplicar hàbits saludables (alimentació i hidratació, descans, educació postural, relaxació i higiene) valorant la millora integral de la salut."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Aplicar els protocols d’actuació de prevenció i intervenció en accidents i tècniques de primers auxilis."
+                },
+                {
+                    "code": "1.5",
+                    "description": "Aplicar els recursos digitals en la planificació de l’activitat física i l’adquisició d’hàbits saludables."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Aplicar la tècnica, la tàctica i l'estratègia inculades amb els ocs i els",
+            "description": "Aplicar la tècnica, la tàctica i l'estratègia inculades amb els ocs i els esports per a la resolució de situacions motrius",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Executar habilitats motrius específiques i tècniques en reptes, formes jugades i joc real."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Resoldre situacions motrius variades de jocs o esports aplicant habilitats tècniques, tàctiques i estratègiques."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Organitzar esdeveniments o competicions esportives gestionant tots els aspectes essencials per a un funcionament adequat."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Tilit ar els recursos expressius com a mit à de relació, comunicació i",
+            "description": "tilit ar els recursos expressius com a mit à de relació, comunicació i integració social per a l'autoconeixement",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Escenificar produccions artisticoexpressives utilitzant diferents tècniques d’expressió corporal."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Crear composicions individuals o col·lectives amb i sense base musical."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Elaborar composicions artístiques integrant tècniques de circ."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Planificar activitats físiques a l'entorn de manera sostenible i segura per a",
+            "description": "Planificar activitats físiques a l'entorn de manera sostenible i segura per a l'ocupació i gaudi del temps de lleure",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Realitzar activitat física en el medi natural i urbà desenvolupant actuacions per a la seva conservació."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Organitzar activitats fisicoesportives en el medi natural i urbà aplicant normes de seguretat i utilitzant l’equipament, eines i tècniques adequades."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Gestionar la pròpia activitat física aprofitant les possibilitats del medi natural i urbà."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Adquirir actituds, valors i habilitats socials en la pràctica d'activitat",
+            "description": "Adquirir actituds, valors i habilitats socials en la pràctica d'activitat física i esporti a per a la millora de la con i ència i la cohesió social",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Aplicar els valors positius de l’esport en les activitats físiques i esportives valorant el joc per davant del resultat."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Aplicar estratègies per a l’autoregulació emocional durant la pràctica d’activitat física i esportiva."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Utilitzar habilitats socials en la resolució de conflictes fomentant la convivència i la cohesió social."
+                },
+                {
+                    "code": "5.4",
+                    "description": "Mostrar una actitud crítica davant dels estereotips i les actuacions discriminatòries de la societat en l’àmbit de l’activitat física i l’esport."
+                }
+            ]
+        }
+    ]
+}

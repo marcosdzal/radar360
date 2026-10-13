@@ -1,0 +1,176 @@
+{
+    "community": "baleares",
+    "stage": "eso",
+    "decree": "",
+    "subject": "matematicas",
+    "subject_name": "Matemáticas",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Interpretar, modelitzar i resoldre problemes de la vida quotidiana i propis de",
+            "description": "Interpretar, modelitzar i resoldre problemes de la vida quotidiana i propis de les matemàtiques, aplicant diferents estratègies i formes de raonament, per explorar diferents maneres de conducta i obtenir possibles solucions. La resolució de problemes…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Identificar y organizar los datos relevantes de un problema cotidiano, estableciendo conexiones entre ellos para comprender qué se pide resolver exactamente."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Seleccionar y utilizar técnicas matemáticas como tablas, esquemas o tanteo para abordar y resolver problemas de la vida cotidiana o puramente numéricos."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Resolver problemas matemáticos de forma efectiva, integrando conocimientos previos y utilizando calculadoras o software específico para alcanzar y verificar resultados correctos."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Analitzar les solucions d'un problema usant diferents tècniques i eines,",
+            "description": "Analitzar les solucions d'un problema usant diferents tècniques i eines, avaluant les respostes obtingudes, per verificar-ne la validesa i idoneïtat des d'un punt de vista matemàtic i la repercussió global. L'anàlisi de les solucions obtingudes en la…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Verificar si los resultados obtenidos en un problema son correctos mediante pruebas matemáticas, como la sustitución en ecuaciones o la coherencia con el enunciado."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Verificar si los resultados de un problema son lógicos en su contexto y analizar su impacto social, ambiental o ético de forma razonada."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Formular i comprovar conjectures senzilles o plantejar problemes de manera",
+            "description": "Formular i comprovar conjectures senzilles o plantejar problemes de manera autònoma, reconeixent el valor del raonament i l'argumentació, per generar nou coneixement. El raonament i el pensament analític incrementen la percepció de patrons, estructur…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Identificar y proponer reglas generales en series numéricas o geométricas sencillas, verificando su cumplimiento mediante la observación de regularidades y propiedades matemáticas básicas."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Diseñar versiones nuevas de un problema matemático variando sus datos iniciales para analizar cómo afectan estos cambios a la solución final obtenida."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Utilizar software matemático y calculadoras para investigar patrones, verificar hipótesis y resolver problemas de forma dinámica y eficiente."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Utilitzar els principis del pensament computacional organitzant dades,",
+            "description": "Utilitzar els principis del pensament computacional organitzant dades, descomponent en parts, reconeixent patrons, interpretant, modificant i creant algorismes per modelitzar situacions i resoldre problemes de manera eficaç. El pensament computaciona…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Identificar regularidades, estructurar información y dividir problemas complejos en tareas sencillas para facilitar su resolución lógica y algorítmica en contextos matemáticos."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Interpretar y ajustar secuencias de pasos o diagramas de flujo para dar solución a problemas matemáticos, asegurando que el proceso sea lógico y funcional."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Reconèixer i utilitzar connexions entre els diferents elements matemàtics",
+            "description": "Reconèixer i utilitzar connexions entre els diferents elements matemàtics interconnectant conceptes i procediments per desenvolupar una visió de les matemàtiques com un tot integrat. La connexió entre els diferents conceptes, procediments i idees mat…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Identificar y aplicar vínculos entre distintos bloques matemáticos, como aritmética y geometría, para resolver situaciones de forma integrada y no compartimentada."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Relacionar distintos bloques de contenidos matemáticos, como aritmética y geometría, para resolver problemas complejos utilizando estrategias y conocimientos adquiridos anteriormente."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Identificar les matemàtiques implicades en altres matèries i en situacions",
+            "description": "Identificar les matemàtiques implicades en altres matèries i en situacions reals, susceptibles de ser tractades en termes matemàtics, interrelacionant conceptes i procediments per aplicar-les en situacions diverses. Reconèixer i utilitzar la connexió…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Identificar y describir elementos matemáticos en situaciones cotidianas o de otras materias, aplicando procesos de investigación como medir, clasificar o predecir para conectar la realidad con las matemáticas."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Reconocer y aplicar conceptos matemáticos para resolver problemas prácticos vinculados a otras áreas del conocimiento, como las ciencias naturales o la geografía."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Explicar ejemplos concretos sobre cómo los descubrimientos matemáticos han impulsado el desarrollo tecnológico, científico y social a lo largo de la historia y en la actualidad."
+                },
+                {
+                    "code": "6.4",
+                    "description": "Comprendre la realitat de les Illes Balears a partir de l'estudi de problemes matemàtics contextualitzats. Conèixer els elements científics i matemàtics propis de la història i cultura de les illes Balears (per exemple: sistemes de pesos i mesures, matemàtiques d'edificis emblemàtics, etc.)."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Representar, de manera individual i col·lectiva, conceptes, procediments,",
+            "description": "Representar, de manera individual i col·lectiva, conceptes, procediments, informació i resultats matemàtics usant diferents tecnologies, per visualitzar idees i estructurar processos matemàtics. La manera de representar idees, conceptes i procediment…",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Expresar ideas y resultados matemáticos mediante diversos formatos y herramientas digitales para organizar el razonamiento y facilitar la comunicación de hallazgos."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Crear esquemas, tablas o gráficos que faciliten la comprensión y el diseño de estrategias para resolver problemas matemáticos de forma organizada."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Comunicar de manera individual i col·lectiva conceptes, procediments i",
+            "description": "Comunicar de manera individual i col·lectiva conceptes, procediments i arguments matemàtics usant llenguatge oral, escrit o gràfic, utilitzant la terminologia matemàtica apropiada, per donar significat i coherència a les idees matemàtiques. La comuni…",
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Expresar ideas y procesos matemáticos con precisión técnica, usando soportes físicos o digitales para explicar razonamientos y conclusiones de forma estructurada."
+                },
+                {
+                    "code": "8.2",
+                    "description": "Expresar situaciones de la vida diaria utilizando términos y símbolos matemáticos precisos para comunicar mensajes con rigor y claridad técnica."
+                }
+            ]
+        },
+        {
+            "code": "CE9",
+            "name": "Desenvolupar destreses personals, identificant i gestionant emocions, posant en",
+            "description": "Desenvolupar destreses personals, identificant i gestionant emocions, posant en pràctica estratègies d'acceptació de l'error com a part del procés d'aprenentatge i adaptant-se davant situacions d'incertesa, per millorar la perseverança en la consecuc…",
+            "criterios": [
+                {
+                    "code": "9.1",
+                    "description": "Identificar y regular las emociones ante retos matemáticos, fortaleciendo la confianza personal y manteniendo una actitud positiva frente a la resolución de problemas complejos."
+                },
+                {
+                    "code": "9.2",
+                    "description": "Mantener una actitud positiva ante retos matemáticos, persistiendo en la resolución de problemas y aceptando correcciones constructivas para mejorar el proceso de aprendizaje."
+                }
+            ]
+        },
+        {
+            "code": "CE0",
+            "name": "Desenvolupar destreses socials reconeixent i respectant les emocions i",
+            "description": "Desenvolupar destreses socials reconeixent i respectant les emocions i experiències dels altres, participant activament i reflexivament en projectes en equips heterogenis amb rols assignats per construir una identitat positiva com a estudiant de mate…",
+            "criterios": [
+                {
+                    "code": "10.1",
+                    "description": "Trabajar en equipo de forma respetuosa y crítica, asumiendo roles y comunicándose eficazmente para resolver problemas matemáticos de manera conjunta y equitativa."
+                },
+                {
+                    "code": "10.2",
+                    "description": "Colaborar activamente en grupos de trabajo, asumiendo responsabilidades individuales y respetando las aportaciones de los demás para fomentar un ambiente de aprendizaje saludable."
+                }
+            ]
+        }
+    ]
+}

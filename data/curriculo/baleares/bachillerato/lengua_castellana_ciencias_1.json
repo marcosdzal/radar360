@@ -1,0 +1,164 @@
+{
+    "community": "baleares",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "lengua_castellana_ciencias",
+    "subject_name": "Lengua Castellana y Literatura I",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Reconèixer, valorar i explicar la diversitat lingüística del món, les famílies",
+            "description": "Reconèixer, valorar i explicar la diversitat lingüística del món, les famílies de llengües i la seva evolució (naixement, vida i mort) i les polítiques que tenen a veure amb aquestes situacions; tot partint del fet de conèixer la situació lingüística…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Valorar la diversidad lingüística de España comparando lenguas y dialectos."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Refutar prejuicios lingüísticos mediante la reflexión sobre el contacto entre lenguas y la investigación de derechos lingüísticos."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Comprendre i interpretar textos orals i multimodals, amb especial atenció als",
+            "description": "Comprendre i interpretar textos orals i multimodals, amb especial atenció als textos acadèmics i dels mitjans de comunicació, recollint el sentit general i la informació més rellevant, identificant el punt de vista i la intenció de l'emissor i valora…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Identificar estructura, información relevante e intención del emisor en textos orales y multimodales complejos, analizando la interacción de códigos."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Evaluar la calidad y fiabilidad de textos orales y multimodales complejos, analizando forma, contenido y eficacia comunicativa."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Produir textos orals i multimodals, amb atenció preferent a textos de caràcter",
+            "description": "Produir textos orals i multimodals, amb atenció preferent a textos de caràcter acadèmic, amb rigor, fluïdesa, coherència, cohesió, correcció i el registre adequat, ateses les convencions pròpies dels diferents gèneres discursius i participar en inter…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Producir exposiciones y argumentaciones orales formales sobre temas académicos y sociales con rigor, fluidez y coherencia."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Participar activamente en interacciones orales formales e informales, mostrando escucha activa, cooperación y cortesía lingüística en trabajos en equipo."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Comprendre, interpretar i valorar textos escrits, amb sentit crític i diferents",
+            "description": "Comprendre, interpretar i valorar textos escrits, amb sentit crític i diferents propòsits de lectura, amb especial atenció a textos acadèmics i dels mitjans de comunicació, reconeixent el sentit global i les idees principals i secundàries, integrant …",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Analizar textos especializados (académicos y mediáticos) extrayendo sentido global, estructura, información relevante e intención del emisor mediante inferencias."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Evaluar críticamente la calidad, fiabilidad y eficacia comunicativa de textos complejos, considerando forma, contenido y canal."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Produir textos escrits i multimodals coherents, cohesionats, adequats i",
+            "description": "Produir textos escrits i multimodals coherents, cohesionats, adequats i correctes, amb atenció especial als gèneres discursius de l'àmbit acadèmic, per construir coneixement i respondre de manera informada, eficaç i creativa a demandes comunicatives …",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Elaborar textos académicos con planificación, redacción y revisión individual o grupal, asegurando coherencia, cohesión y registro adecuado."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Aplicar procedimientos discursivos, lingüísticos y estilísticos para enriquecer textos escritos con precisión y corrección."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Seleccionar i contrastar informació procedent de diferents fonts, avaluant-ne",
+            "description": "Seleccionar i contrastar informació procedent de diferents fonts, avaluant-ne la fiabilitat i pertinència en funció dels objectius de lectura i evitant els riscs de manipulació i desinformació i integrar-la i transformar-la en coneixement per comunic…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Elaborar trabajos de investigación autónoma seleccionando y contrastando fuentes, evaluando su fiabilidad y comunicando con creatividad y respeto a la propiedad intelectual."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Evalúa la veracidad de noticias digitales mediante contraste crítico y herramientas de verificación."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Seleccionar i llegir de manera autònoma obres rellevants de la literatura",
+            "description": "Seleccionar i llegir de manera autònoma obres rellevants de la literatura contemporània com a font de plaer i coneixement, configurant un itinerari lector que s'enriqueixi progressivament quant a diversitat, complexitat i qualitat de les obres i comp…",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Explica con argumentos la selección de lecturas, el acceso a la cultura literaria y la experiencia lectora."
+                },
+                {
+                    "code": "7.2",
+                    "description": "El alumnado comunica su experiencia lectora usando metalenguaje y vinculando la obra con otras creaciones."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Llegir, interpretar i valorar obres rellevants de la literatura catalana,",
+            "description": "Llegir, interpretar i valorar obres rellevants de la literatura catalana, utilitzant un metallenguatge específic i mobilitzant l'experiència biogràfica i els coneixements literaris i culturals per establir vincles entre textos diversos a fi de confor…",
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Explicar y argumentar la interpretación de obras literarias mediante análisis interno y externo usando metalenguaje y juicios estéticos."
+                },
+                {
+                    "code": "8.2",
+                    "description": "El alumnado produce un proyecto de investigación que relaciona clásicos con otras manifestaciones artísticas y expresa su respuesta personal."
+                },
+                {
+                    "code": "8.3",
+                    "description": "Crear textos literarios propios aplicando conscientemente convenciones de género y estilo a partir de lecturas modelo."
+                }
+            ]
+        },
+        {
+            "code": "CE9",
+            "name": "Consolidar i aprofundir en el coneixement explícit i sistemàtic sobre",
+            "description": "Consolidar i aprofundir en el coneixement explícit i sistemàtic sobre l'estructura de la llengua i els seus usos i reflexionar de manera autònoma sobre les eleccions lingüístiques i discursives, amb la terminologia adequada, per desenvolupar la consc…",
+            "criterios": [
+                {
+                    "code": "9.1",
+                    "description": "Revisar textos propios argumentando los cambios con metalenguaje y corregir problemas de comprensión lectora."
+                },
+                {
+                    "code": "9.2",
+                    "description": "Explicar y argumentar cómo el propósito del emisor condiciona sus elecciones lingüísticas y cómo afectan al receptor, usando metalenguaje."
+                },
+                {
+                    "code": "9.3",
+                    "description": "Investiga aspectos del funcionamiento de la lengua, formula hipótesis, generaliza y presenta resultados usando terminología lingüística."
+                }
+            ]
+        },
+        {
+            "code": "CE0",
+            "name": "Posar les pràctiques comunicatives al servei de la convivència democràtica, la",
+            "description": "Posar les pràctiques comunicatives al servei de la convivència democràtica, la resolució dialogada dels conflictes i la igualtat de drets de totes les persones, utilitzant un llenguatge no discriminatori i bandejant els abusos de poder a través de la…",
+            "criterios": [
+                {
+                    "code": "10.1",
+                    "description": "Analizar y eliminar usos discriminatorios y manipuladores del lenguaje mediante el análisis crítico de elementos lingüísticos y discursivos."
+                }
+            ]
+        }
+    ]
+}

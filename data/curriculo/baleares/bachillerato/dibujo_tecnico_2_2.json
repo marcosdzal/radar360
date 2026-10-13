@@ -1,0 +1,105 @@
+{
+    "community": "baleares",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "dibujo_tecnico_2",
+    "subject_name": "Dibujo Técnico II",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Observar, analitzar i valorar la presència de la geometria en la naturalesa,",
+            "description": "Observar, analitzar i valorar la presència de la geometria en la naturalesa, l'entorn construït i l'art, identificant-ne les estructures geomètriques, elements i codis, amb una actitud proactiva d'apreciació i gaudi, per explicar-ne l'origen, funció …",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar cómo la tecnología y las herramientas digitales han transformado el diseño de estructuras geométricas en la arquitectura e ingeniería contemporáneas."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Localitzar la presència de mòduls i patrons geomètrics presents en els entorns natural, artístic i arquitectònic, argumentant la seva rellevància estètica i artística."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Argumentar la necessitat de l'ús de la geometria en els diferents contextos artístics i històrics, considerant-ne la transcendència en els processos de disseny vinculats a la creació artística i el patrimoni. -"
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Desenvolupar propostes gràfiques i de disseny, tant amb el dibuix a mà alçada",
+            "description": "Desenvolupar propostes gràfiques i de disseny, tant amb el dibuix a mà alçada com amb els materials propis del dibuix tècnic i elaborar traçats, composicions i transformacions geomètriques en el pla de manera intuïtiva i raonada, per incorporar aques…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Aplicar transformaciones geométricas como homología, afinidad e inversión para resolver y construir figuras planas complejas, analizando su aplicación en los sistemas de representación."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Resolver problemas complejos de tangencias entre circunferencias y rectas utilizando los conceptos de eje radical, centro radical y potencia de un punto."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Resolver trazados de elipses, parábolas e hipérbolas y sus rectas tangentes, aplicando sus propiedades métricas y definiciones como lugares geométricos con rigor y precisión técnica."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Comprendre i interpretar l'espai i els objectes tridimensionals, analitzar i",
+            "description": "Comprendre i interpretar l'espai i els objectes tridimensionals, analitzar i valorar la seva presència en les representacions artístiques, seleccionar i utilitzar el sistema de representació més adequat per aplicar-lo a la realització d'il·lustracion…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Aplicar métodos auxiliares como abatimientos, giros y cambios de plano para resolver problemas métricos y de representación en el sistema diédrico, justificando el procedimiento."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Dibujar poliedros y superficies de revolución en sistema diédrico, aplicando proyecciones para definir su forma y posición espacial con precisión técnica."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Analitzar, definir formalment o visualitzar idees, aplicar-hi les normes",
+            "description": "Analitzar, definir formalment o visualitzar idees, aplicar-hi les normes fonamentals UNE i ISO per interpretar i representar objectes i espais, com també documentar projectes de disseny.",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Crear documentación técnica completa mediante croquis y planos normalizados (UNE\/ISO), definiendo con precisión diseños arquitectónicos o industriales para su correcta ejecución."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Utilitzar les normes UNE i ISO en el procés d'acotació de peces, incloent en la seva representació les seccions i trencaments."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Representar de manera normalitzada croquis o projectes, utilitzant les normes UNE i ISO amb rigor i comunicant de manera clara les dimensions d'objectes i espais."
+                },
+                {
+                    "code": "4.4",
+                    "description": "Documentar de manera normalitzada projectes de disseny seguint les normes UNE i ISO amb rigor."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Integrar i aprofitar les possibilitats que ofereixen les eines digitals,",
+            "description": "Integrar i aprofitar les possibilitats que ofereixen les eines digitals, seleccionant i utilitzant programes i aplicacions específiques de dibuix vectorial 2D i de modelatge 3D per desenvolupar processos de creació artística personal o de disseny.",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Utilizar aplicaciones de diseño asistido por ordenador (CAD) para crear representaciones técnicas precisas, aprovechando las funciones de edición digital y el trabajo en red."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Realitzar i presentar projectes, aprofitant les possibilitats que les eines de dibuix vectorial aporten als camps del disseny i l'art."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Introduir innovacions en les representacions de creacions artístiques individuals i col·lectives utilitzant eines de dibuix digital en 2D i 3D."
+                }
+            ]
+        }
+    ]
+}

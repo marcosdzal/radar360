@@ -1,0 +1,116 @@
+{
+    "community": "extremadura",
+    "stage": "bachillerato",
+    "decree": "Decreto 113\/2022, de 25 de agosto",
+    "subject": "ciencias_generales",
+    "subject_name": "Ciencias Generales",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Responder a cuestiones sobre procesos y fenómenos físicos, químicos, biológicos",
+            "description": "Responder a cuestiones sobre procesos y fenómenos físicos, químicos, biológicos y geológicos, utilizando con precisión materiales e instrumentos adecuados, y aplicando metodologías propias de la ciencia. Para conseguir una alfabetización científica b…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Formular y responder preguntas científicas basadas en procesos observados, aplicando las pautas de la metodología científica."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Comparar hipótesis mediante experimentos presenciales o virtuales, cumpliendo las normas de seguridad."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Comunicar resultados experimentales usando recursos adecuados y ética básica."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Adquirir una visión integral del funcionamiento del medio natural utilizando",
+            "description": "Adquirir una visión integral del funcionamiento del medio natural utilizando los principios, leyes y teorías científicas correctas, y analizando los fenómenos y componentes del entorno. El desarrollo de la competencia científica tiene como base esenc…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Explicar fenómenos naturales representándolos mediante gráficas, modelos u otros formatos."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Explicar fenómenos cotidianos del entorno aplicando principios, leyes y teorías de las ciencias naturales de forma integrada."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Analizar fenómenos fisicoquímicos relevantes utilizando leyes y teorías científicas para explicar su funcionamiento."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Explicar los elementos y procesos básicos de la biosfera y geosfera empleando fundamentos científicos."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Argumentar sobre la importancia de los estilos de vida sostenibles y saludables, basándose en fundamentos científicos",
+            "description": "Argumentar sobre la importancia de los estilos de vida sostenibles y saludables, basándose en fundamentos científicos, para adoptarlos y promoverlos en su entorno. Actualmente, uno de los retos más importantes a los que se enfrenta la humanidad es la…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Argumentar y promover hábitos sostenibles y saludables fundamentados científicamente, valorando su importancia para el desarrollo sostenible."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Elaborar y promover hábitos saludables justificándolos con fisiología humana."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Adoptar y promover hábitos saludables (dieta equilibrada, rechazo al consumo de drogas, ejercicio físico, higiene del sueño, posturas adecuadas…) y valorar su importancia, utilizando los fundamentos de la fisiología humana."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Resolver problemas relacionados con las ciencias experimentales mediante la",
+            "description": "Resolver problemas relacionados con las ciencias experimentales mediante la búsqueda y selección de estrategias y herramientas, aplicando el pensamiento científico y los razonamientos lógico-matemáticos. El razonamiento es una herramienta esencial en…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Resolver problemas de ciencias experimentales usando pensamiento científico y estrategias matemáticas, buscando alternativas cuando sea necesario."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Analizar críticamente una solución científica y modificarla si es necesario ante nuevos datos o inviabilidad."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Concebir la ciencia como un proceso colectivo e interdisciplinar en continua",
+            "description": "Concebir la ciencia como un proceso colectivo e interdisciplinar en continua construcción, analizando la contribución de esta y de las personas que se dedican a ella, con perspectiva de género y valorando su papel esencial en el progreso de la socied…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Analizar la interrelación e interdependencia de las disciplinas científicas como un conocimiento global."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Valorar la relevancia de la ciencia en la sociedad y el papel de los investigadores."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Utilizar recursos variados, con sentido crítico y ético, buscando y",
+            "description": "Utilizar recursos variados, con sentido crítico y ético, buscando y seleccionando información contrastada y estableciendo además colaboraciones en el desarrollo de los proyectos científicos. La comunicación y la colaboración son componentes inherente…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Evaluar información científica de diversas fuentes, contrastando y seleccionando contenidos relevantes."
+                },
+                {
+                    "code": "6.2",
+                    "description": "El alumnado establece colaboraciones usando recursos necesarios en proyectos científicos o resolución de problemas."
+                }
+            ]
+        }
+    ]
+}

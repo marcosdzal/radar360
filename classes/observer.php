@@ -198,7 +198,7 @@ class observer {
         $sentinel_cat = $DB->get_record_select(
             'grade_categories',
             "courseid = :cid AND depth = 2 AND fullname = :name",
-            ['cid' => $courseid, 'name' => 'Actividades (Sentinel)'],
+            ['cid' => $courseid, 'name' => get_string('activities_category', 'local_sentinel')],
             'id'
         );
         $rubric_cat = $sentinel_cat ? $DB->get_record_select(

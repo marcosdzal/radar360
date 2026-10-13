@@ -1,0 +1,125 @@
+{
+    "community": "castilla-y-leon",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "dibujo_tecnico_artes_1",
+    "subject_name": "Dibujo Técnico Aplicado a las Artes Plásticas y al Diseño I",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "1.1 Reconocer diferentes tipos de estructuras, formas y relaciones geométricas",
+            "description": "1.1 Reconocer diferentes tipos de estructuras, formas y relaciones geométricas en la naturaleza, el entorno, el arte, en la arquitectura y el diseño, analizando su función y valorando la importancia dentro del contexto histórico. (CCL1, CCL3, STEM1, …",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar formas y relaciones geométricas en distintos contextos (naturaleza, entorno, arte, diseño) explicando su función y valor histórico."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Analizar las principales formas y construcciones geométricas del entorno, comprendiendo las estructuras que los articulan y ordenan. (CCL2, STEM1, STEM2, CD1, CC1)"
+                },
+                {
+                    "code": "1.3",
+                    "description": "Conocer el mundo exterior y beneficiarse en su desarrollo cognitivo y personal, ejercitando la inteligencia y la observación. (STEM2, CC1)"
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "2.1 Dibujar formas poligonales sencillas en el plano y resolver tangencias",
+            "description": "2.1 Dibujar formas poligonales sencillas en el plano y resolver tangencias básicas y simetrías aplicadas al diseño de formas, analizando las tangencias valorando la importancia de la limpieza y la precisión en el trazado. (STEM1, STEM2, CD2, CD3, CPS…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Resolver tangencias y simetrías poligonales aplicadas al diseño, valorando la limpieza y precisión del trazado."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Realizar estudios y esbozos a mano alzada del natural, identificando la geometría de las formas, para transmitir ideas y emociones."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Transmitir ideas, sentimientos y emociones mediante la realización de estudios, esbozos y apuntes del natural a mano alzada, identificando la geometría interna y externa de las formas, apreciando su importancia en el dibujo y respetando la proporción, el orden y el equilibrio entre los elementos que la forman. STEM1, STEM2, CD2, CD3, CPSAA1.1, CE3, CCEC3.1, CCEC3.2, CCEC4.1, CCEC4.2)"
+                },
+                {
+                    "code": "2.4",
+                    "description": "Comprender las características de las transformaciones geométricas elementales (giro, traslación homotecia y afinidad), y aplicarlas en la resolución de problemas geométricos, analizando en distintos diseños de módulos los diferentes movimientos en el plano. (STEM1, STEM2, CD2, CD3, CE3, CCEC3.1, CCEC4.1, CCEC4.2)"
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "3.1 Diferenciar las características de los distintos sistemas de",
+            "description": "3.1 Diferenciar las características de los distintos sistemas de representación, distinguiendo los sistemas de medida de los sistemas perspectivos, seleccionando en cada caso el sistema más apropiado a la finalidad de la representación. (STEM1, STEM2…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Compara las características de los sistemas de representación y selecciona el más adecuado según la finalidad de la representación."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Elaborar las vistas diédricas (alzado, planta y perfil) de objetos sencillos, aplicando correctamente el sistema de proyección ortogonal."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Diseñar envases sencillos representándolos en perspectiva isométrica o caballera y reflexionar sobre el proceso y resultado."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Aplicar la perspectiva cónica para dibujar ilustraciones o viñetas de espacios, objetos o personas desde distintos puntos de vista."
+                },
+                {
+                    "code": "3.5",
+                    "description": "Diseñar envases sencillos, representándolos en perspectiva isométrica o caballera aplicando diferentes recursos gráficos o informáticos en función del tipo de producto que se quiere realizar y de las finalidades del mismo, reflexionando sobre el proceso realizado y el resultado obtenido. (STEM1, STEM2, STEM3, STEM4, CD3, CPSAA1.1, CPSAA5, CE3, CCEC3.1, CCEC4.1, CCEC4.2)"
+                },
+                {
+                    "code": "3.6",
+                    "description": "Representar perspectivas cónicas de formas tridimensionales a partir de espacios del entorno o definidas por sus proyecciones ortogonales, valorando el método seleccionado, considerando la orientación de las caras principales respecto al plano de cuadro y la repercusión de la posición del punto de vista sobre el resultado final. (STEM1, STEM2, STEM3, STEM4, CD3, CE3, CCEC3.1, CCEC4.1, CCEC4.2)"
+                },
+                {
+                    "code": "3.7",
+                    "description": "Dibujar ilustraciones o viñetas aplicando las técnicas de la perspectiva cónica en la representación de espacios, objetos o personas desde distintos puntos de vista, desarrollando la visión espacial y el trazado a mano alzada. (STEM1, STEM2, STEM3, STEM4, CD3, CPSAA1.1, CE3, CCEC3.1, CCEC4.1, CCEC4.2)"
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "4.1 Realizar bocetos y croquis como elementos de reflexión e indagación de",
+            "description": "4.1 Realizar bocetos y croquis como elementos de reflexión e indagación de alternativas a las necesidades del proyecto, conforme a la norma UNE ISO, comunicando la forma y dimensiones de objetos, proponiendo ideas creativas y resolviendo problemas co…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Realizar esbozos y croquis normalizados según UNE\/ISO para comunicar ideas y resolver problemas de diseño."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Aplicar las normas nacionales, europeas e internacionales, relacionándolas con los principios generales de representación, formatos, escalas, acotación y métodos de proyección ortográficos y axonométricos. (STEM1, STEM4, CD1, CD2, CE3, CCEC4.1, CCEC4.2)"
+                },
+                {
+                    "code": "4.3",
+                    "description": "Documentar gráficamente objetos sencillos mediante sus vistas acotadas aplicando la normativa UNE e ISO en la utilización de sintaxis, escalas y formatos, valorando la importancia de usar un lenguaje técnico común. (STEM1, STEM4, CD1, CD2, CE3, CCEC4.1, CCEC4.2)"
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "5.1 Adquirir destrezas en el manejo de herramientas y técnicas de dibujo",
+            "description": "5.1 Adquirir destrezas en el manejo de herramientas y técnicas de dibujo vectorial en 2D, aplicándolos a la realización de proyectos de diseño. (STEM3, STEM4, CD1, CD2, CD3, CD5, CPSAA5, CE3, CCEC3.1, CCEC4.1, CCEC4.2) 5.2 Iniciarse en el modelado en…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Aplicar herramientas de dibujo vectorial 2D en la realización de proyectos de diseño."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Diseñar y modelar esculturas o instalaciones en 3D valorando su utilidad creativa."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Realizar la exportación e importación de archivos de diseños personales, preparándolos adecuadamente para su impresión. (STEM3, STEM4, CD1, CD2, CD3, CD5, CE3, CCEC3.1, CCEC4.1, CCEC4.2)"
+                }
+            ]
+        }
+    ]
+}

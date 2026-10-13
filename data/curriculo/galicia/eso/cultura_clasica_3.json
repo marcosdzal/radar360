@@ -1,0 +1,172 @@
+{
+    "community": "galicia",
+    "stage": "eso",
+    "decree": "Decreto 156\/2022, de 15 de septiembre",
+    "subject": "cultura_clasica",
+    "subject_name": "Cultura Clásica",
+    "grade": 3,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Describir el mundo grecorromano desde las facetas geográfica e histórica,",
+            "description": "Describir el mundo grecorromano desde las facetas geográfica e histórica, localizándolo en el espacio y en el tiempo mediante el uso de la cartografía y los ejes cronológicos para que sirva de punto de partida del resto de conocimientos. - Se pretend…",
+            "criterios": [
+                {
+                    "code": "CE1.1",
+                    "description": "Describir los marcos geográficos en que se desarrollan las civilizaciones griega y romana a lo largo de su historia."
+                },
+                {
+                    "code": "CE1.2",
+                    "description": "Localizar en un mapa en soporte papel y digital hitos geográficos y enclaves concretos relevantes para el conocimiento de las civilizaciones griega y romana."
+                },
+                {
+                    "code": "CE1.3",
+                    "description": "Identificar, describir y explicar el marco histórico y las etapas en que se desarrollan las civilizaciones griega y romana."
+                },
+                {
+                    "code": "CE1.4",
+                    "description": "Identificar las principales características de cada período de la historia de Grecia y Roma, el papel que desempeñan sus protagonistas y saber situar en un eje cronológico hechos históricos."
+                },
+                {
+                    "code": "CE1.5",
+                    "description": "Identificar las características fundamentales de la romanización de Hispania y Gallaecia."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Reconocer las influencias de la mitología clásica analizando la literatura, el",
+            "description": "Reconocer las influencias de la mitología clásica analizando la literatura, el cine, el teatro, la publicidad, el arte en general e incluso aspectos de la vida cotidiana, para entender el origen de esos elementos heredados y usarlos correctamente. - …",
+            "criterios": [
+                {
+                    "code": "CE2.1",
+                    "description": "Identificar los principales dioses y diosas de la mitología grecolatina."
+                },
+                {
+                    "code": "CE2.2",
+                    "description": "Reconocer los mitos y los héroes grecolatinos y las heroínas grecolatinas y establecer semejanzas y diferencias con los mitos y los héroes y las heroínas de otras culturas y los actuales. Orígenes y funciones."
+                },
+                {
+                    "code": "CE2.3",
+                    "description": "Comparar las características de la religiosidad y de la religión griega con las actuales."
+                },
+                {
+                    "code": "CE2.4",
+                    "description": "Describir los fundamentos de la religiosidad romana y distinguir la religión oficial de las manifestaciones del culto privado."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Identificar de manera general etapas y estilos a través de obras destacables",
+            "description": "Identificar de manera general etapas y estilos a través de obras destacables del arte grecolatino para reconocer e interpretar esos elementos en ejemplos de otras épocas o movimientos artísticos y culturales. - El arte grecorromano y sus obras más im…",
+            "criterios": [
+                {
+                    "code": "CE3.1",
+                    "description": "Distinguir las características fundamentales del arte clásico y relacionar manifestaciones artísticas actuales con sus modelos clásicos."
+                },
+                {
+                    "code": "CE3.2",
+                    "description": "Identificar las características más destacables de la arquitectura grecorromana en relación con los edificios más singulares."
+                },
+                {
+                    "code": "CE3.3",
+                    "description": "Reconocer las manifestaciones escultóricas del arte griega y romana a lo largo de la Antigüedad e identificar su temática en obras representativas."
+                },
+                {
+                    "code": "CE3.4",
+                    "description": "Diferenciar las creaciones urbanísticas romanas de las otras épocas, así como su red viaria, haciendo hincapié en el entorno del alumnado."
+                },
+                {
+                    "code": "CE3.5",
+                    "description": "Saber localizar los principales monumentos clásicos del patrimonio español y europeo."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Reconocer los elementos presentes del pasado grecolatino en aspectos actuales",
+            "description": "Reconocer los elementos presentes del pasado grecolatino en aspectos actuales tales como la política, los usos y costumbres de la sociedad, la situación de la mujer, el derecho, la educación y las formas de ocio, estableciendo comparaciones para comp…",
+            "criterios": [
+                {
+                    "code": "CE4.1",
+                    "description": "Identificar las características de las principales formas de organización política presentes en el mundo clásico, y establecer semejanzas y diferencias entre ellas y con los sistemas políticos actuales."
+                },
+                {
+                    "code": "CE4.2",
+                    "description": "Distinguir las características y la evolución de las clases sociales en Grecia y Roma."
+                },
+                {
+                    "code": "CE4.3",
+                    "description": "Describir la composición de la familia y los papeles asignados a sus miembros."
+                },
+                {
+                    "code": "CE4.4",
+                    "description": "Conocer los rasgos más destacables de la vida cotidiana en Grecia y Roma."
+                },
+                {
+                    "code": "CE4.5",
+                    "description": "Identificar las principales formas de ocio de la Antigüedad y compararlas con las actuales."
+                },
+                {
+                    "code": "CE4.6",
+                    "description": "Relacionar y establecer semejanzas y diferencias entre las manifestaciones deportivas de la Grecia clásica y las actuales."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Tomar conciencia del valor de las lenguas clásicas, a través de su perspectiva",
+            "description": "Tomar conciencia del valor de las lenguas clásicas, a través de su perspectiva etimológica y como elemento transmisor de las civilizaciones griega y romana, para no olvidar que fueron lenguas vivas y que, en alguna medida, siguen siéndolo. - Se procu…",
+            "criterios": [
+                {
+                    "code": "CE5.1",
+                    "description": "Distinguir diversos tipos de escritura, comprender sus funciones y el origen del alfabeto y de los tipos de sistemas de escritura usados en la actualidad y reconocer la presencia de elementos de los alfabetos griego y latino en los alfabetos actuales."
+                },
+                {
+                    "code": "CE5.2",
+                    "description": "Identificar el origen común de las lenguas indoeuropeas, distinguir las lenguas europeas romances de las no romances y reconocer el origen grecolatino del léxico de las lenguas de España y de otras lenguas modernas."
+                },
+                {
+                    "code": "CE5.3",
+                    "description": "Distinguir e identificar latinismos, cultismos, semicultismos y términos patrimoniales y hacer evoluciones desde el latín al gallego y al castellano, teniendo en cuenta los fenómenos fonéticos."
+                },
+                {
+                    "code": "CE5.4",
+                    "description": "Utilizar con propiedad terminología científico-técnica de origen grecolatina y constatar el influjo de las lenguas clásicas en lenguas no derivadas de ellas."
+                },
+                {
+                    "code": "CE5.5",
+                    "description": "Identificar las principales características de los géneros literarios grecolatinos, su influencia en la literatura posterior y los hitos esenciales de las literaturas griega y latina como base literaria de la cultura europea y occidental."
+                },
+                {
+                    "code": "CE5.6",
+                    "description": "Usar las fórmulas de saludo y presentación en latín y griego y fraseología básica del aula."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Apreciar el mundo grecorromano mediante la investigación de su herencia actual",
+            "description": "Apreciar el mundo grecorromano mediante la investigación de su herencia actual de forma que se respete y valore lo que representa el legado y el patrimonio del mundo clásico y el deber como ciudadanos que tenemos de preservarlo y transmitirlo a la po…",
+            "criterios": [
+                {
+                    "code": "CE6.1",
+                    "description": "Reconocer la presencia de la civilización clásica en las artes y en la organización social y política."
+                },
+                {
+                    "code": "CE6.2",
+                    "description": "Conocer la perduración de la mitología y los temas legendarios en las manifestaciones artísticas actuales."
+                },
+                {
+                    "code": "CE6.3",
+                    "description": "Identificar los aspectos más importantes de la historia de Grecia y Roma y su presencia en nuestro país y reconocer las huellas de la cultura romana en diversos aspectos de la civilización actual."
+                },
+                {
+                    "code": "CE6.4",
+                    "description": "Investigar sobre la perduración de la civilización clásica en el entorno, utilizando las tecnologías de la información y de la comunicación."
+                }
+            ]
+        }
+    ]
+}

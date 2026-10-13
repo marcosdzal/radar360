@@ -1,0 +1,96 @@
+{
+    "community": "navarra",
+    "stage": "bachillerato",
+    "decree": "Real Decreto 217\/2022",
+    "subject": "geografia_e_historia_alt",
+    "subject_name": "Geografía",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE2",
+            "name": "Comprender la complejidad del espacio geográfico, mediante la interpretación de fuentes de información visuales",
+            "description": "Comprender la complejidad del espacio geográfico, mediante la interpretación de fuentes de información visuales, para apreciar la riqueza de los paisajes naturales y humanizados y valorar la sostenibilidad como principio de las relaciones entre los e…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Valorar impactos humanos desde la sostenibilidad, reconociendo la complejidad sistémica del medio natural y las actividades humanas."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Analizar paisajes naturales y humanizados a partir de fuentes visuales, distinguiendo elementos geográficos e interpretando la influencia de factores físicos y humanos."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Analizar la diversidad natural de España y su singularidad geográfica dentro de",
+            "description": "Analizar la diversidad natural de España y su singularidad geográfica dentro de Europa, a través de la comparación de características comunes y específicas del relieve, el clima, la hidrografía y la biodiversidad, para reflexionar sobre la percepción…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "El alumnado reflexiona sobre su percepción del espacio al localizar en mapas regiones geomorfológicas y bioclimáticas, comparando sus características y valorando su contribución a la sostenibilidad."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Comparar paisajes naturales de España y Europa, analizando su distribución, características y la relación humana con ellos."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Aplicar las Tecnologías de la Información Geográfica (TIG), métodos y técnicas",
+            "description": "Aplicar las Tecnologías de la Información Geográfica (TIG), métodos y técnicas propios o de ciencias afines, localizando fenómenos naturales y humanos, y argumentando con rigor sus límites o categorías, para resolver eficientemente el problema de la …",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Usar la escala adecuada con TIG para localizar fenómenos, justificando métodos y delimitando regiones y áreas de transición."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Crear productos geográficos propios con TIG comunicando diagnósticos, hipótesis o conclusiones."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Asumir la globalización como contexto que enmarca la evolución de los sistemas",
+            "description": "Asumir la globalización como contexto que enmarca la evolución de los sistemas económicos y los comportamientos sociales recientes, investigando sus relaciones de causa y efecto y creando productos propios que demuestren la interconexión y la interde…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Valorar la dignidad humana analizando críticamente consecuencias de acciones sobre condiciones laborales y de vida en España y otros países, investigando relaciones económicas globalizadas y proponiendo soluciones."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Argumentar la necesidad de preservar el medio ambiente analizando impactos de producción, distribución y consumo, y proponer actuaciones de mejora a escala local y global."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Explicar de forma crítica los desequilibrios territoriales de España y de su estructura sociolaboral y demográfica",
+            "description": "Explicar de forma crítica los desequilibrios territoriales de España y de su estructura sociolaboral y demográfica, reconociendo los procesos y las decisiones que han contribuido a las desigualdades presentes, para reforzar la conciencia de solidarid…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Justifica la necesidad de compensar desigualdades territoriales e individuales mediante el análisis de causas y consecuencias pasadas y recientes."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Argumentar el origen de desequilibrios socioeconómicos analizando factores de localización en una sociedad terciarizada."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Movilizar conocimientos previos, nuevos y de otros campos del saber al abordar",
+            "description": "Movilizar conocimientos previos, nuevos y de otros campos del saber al abordar situaciones del pasado, del presente o del futuro, reorientando eficazmente decisiones y estrategias de trabajo individual o en equipo, para aportar soluciones innovadoras…",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Reelabora conocimientos geográficos previos y nuevos para diagnosticar problemas y proponer soluciones innovadoras en contextos cambiantes."
+                }
+            ]
+        }
+    ]
+}

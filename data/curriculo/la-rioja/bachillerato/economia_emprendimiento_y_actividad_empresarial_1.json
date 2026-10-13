@@ -1,0 +1,84 @@
+{
+    "community": "la-rioja",
+    "stage": "bachillerato",
+    "decree": "Decreto 22\/2022, de 27 de julio",
+    "subject": "economia_emprendimiento_y_actividad_empresarial",
+    "subject_name": "Economía, Emprendimiento y Actividad Empresarial",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Analizar de forma crítica y reflexiva las aportaciones de la ciencia económica,",
+            "description": "Analizar de forma crítica y reflexiva las aportaciones de la ciencia económica, valorando su interrelación con otras disciplinas, para entender la realidad desde una visión integral y actuar como ciudadanos responsables, autónomos y comprometidos.",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar críticamente las aportaciones de la economía relacionándolas con otras disciplinas para una visión integral."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Analizar, desde un enfoque interdisciplinar, el comportamiento tanto individual",
+            "description": "Analizar, desde un enfoque interdisciplinar, el comportamiento tanto individual como colectivo en la toma de decisiones económicas, evaluando el problema de la escasez y sus efectos, para comprender los cambios económicos y sociales derivados de dich…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Interpretar, desde un enfoque interdisciplinar, los cambios económicos y sociales derivados de la escasez y proponer actuaciones consecuentes."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Establecer correspondencias entre los Objetivos de Desarrollo Sostenible y los",
+            "description": "Establecer correspondencias entre los Objetivos de Desarrollo Sostenible y los aprendizajes adquiridos a través del estudio de casos reales, analizándolos con ayuda de herramientas económicas y empresariales para generar una actitud sensible y un com…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Explicar cómo los ODS se relacionan con los aprendizajes de economía mediante el estudio de casos, mostrando actitudes responsables."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Analizar problemas globales y locales y proponer soluciones a través de herramientas económicas y empresariales."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Identificar y valorar habilidades y competencias que caracterizan a las",
+            "description": "Identificar y valorar habilidades y competencias que caracterizan a las personas emprendedoras dentro de la realidad actual, analizando sus perfiles y su forma de afrontar los retos, para reconocer y potenciar las destrezas emprendedoras propias y ap…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Identificar y potenciar las propias destrezas emprendedoras mediante el análisis de perfiles reales."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Comprender las estrategias empresariales, analizando su evolución y",
+            "description": "Comprender las estrategias empresariales, analizando su evolución y distinguiendo los nuevos modelos de negocio desarrollados por entidades vinculadas a diferentes ámbitos y sectores, para identificar la filosofía de las empresas, reconocer las tende…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Analizar tendencias y filosofía empresarial, evaluando críticamente modelos de negocio y su evolución."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Analizar la transformación económica y social y sus consecuencias",
+            "description": "Analizar la transformación económica y social y sus consecuencias, reconociendo la importancia que tienen la innovación y la revolución digital en la actividad empresarial, para comprender las respuestas que las empresas ofrecen a los desafíos actual…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Analizar cómo las empresas responden a los desafíos actuales a partir de la transformación económica y social."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Propone soluciones a desafíos actuales analizando transformación económica y digital en empresas."
+                }
+            ]
+        }
+    ]
+}

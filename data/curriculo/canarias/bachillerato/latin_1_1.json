@@ -1,0 +1,93 @@
+{
+    "community": "canarias",
+    "stage": "bachillerato",
+    "decree": "Decreto 73\/2023, de 13 de abril",
+    "subject": "latin_1",
+    "subject_name": "Latín I",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "(c1) La traducción constituye el núcleo del proceso de aprendizaje de las lenguas clásicas",
+            "description": "(c1) La traducción constituye el núcleo del proceso de aprendizaje de las lenguas clásicas. Con este fin, se propone una progresión del aprendizaje para conducir al alumnado hacia el conocimiento esencial de la morfología, la sintaxis y el léxico de …",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Traduce textos latinos con corrección y justifica la traducción identificando elementos lingüísticos."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Seleccionar autónomamente el significado correcto de palabras polisémicas en latín justificando la elección con el contexto y herramientas de traducción."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Revisar y corregir traducciones propias y ajenas, justificando cambios con terminología lingüística."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Lee directamente textos latinos sencillos identificando unidades lingüísticas básicas y comparándolas con su repertorio lingüístico."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "(c2) Esta competencia específica hace referencia a la enseñanza de la lengua latina desde un enfoque plurilingüe",
+            "description": "(c2) Esta competencia específica hace referencia a la enseñanza de la lengua latina desde un enfoque plurilingüe. A través de ella, se promueve que el alumnado active su repertorio lingüístico individual, relacionando las lenguas que lo componen e id…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Deducir el significado etimológico de términos aplicando estrategias de reconocimiento de formantes latinos y cambios lingüísticos."
+                },
+                {
+                    "code": "2.2",
+                    "description": "El alumnado explica cambios fonéticos, morfológicos o semánticos del latín a las lenguas de enseñanza, comparando con otras lenguas."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "(c3) La lectura, la interpretación y el comentario de textos latinos",
+            "description": "(c3) La lectura, la interpretación y el comentario de textos latinos pertenecientes a diferentes géneros y épocas conforman esta competencia específica, constituyendo uno de los pilares de Latín I y II, y es imprescindible para que el alumnado tome c…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Interpretar y comentar textos latinos guiados aplicando análisis y reflexión personal para desarrollar sensibilidad estética y hábito lector."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Comparar fragmentos latinos con obras posteriores, identificando géneros, temas y tópicos desde un enfoque intertextual guiado."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "(c4) Esta competencia específica se vertebra en torno a tres ámbitos: el",
+            "description": "(c4) Esta competencia específica se vertebra en torno a tres ámbitos: el personal, que incluye aspectos tales como los vínculos familiares y las características de las diferentes etapas de la vida de las personas en el mundo antiguo o el respeto a la…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Comparar instituciones, costumbres y modos de vida romanos con los actuales, valorando cambios y derechos humanos."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Debatir sobre el legado romano usando estrategias retóricas y mediando entre posturas."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "(c5) El patrimonio cultural, tal y como señala la UNESCO, es a la vez un",
+            "description": "(c5) El patrimonio cultural, tal y como señala la UNESCO, es a la vez un producto y un proceso que suministra a las sociedades un caudal de recursos que se heredan del pasado, se crean en el presente y se transmiten a las generaciones futuras. Sobre …",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Explicar cómo el legado latino inspira creaciones culturales posteriores a partir del análisis de obras dadas."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Investiga guiadamente un elemento del patrimonio latino, actuando con respeto y conciencia de su conservación."
+                }
+            ]
+        }
+    ]
+}

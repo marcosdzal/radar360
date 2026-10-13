@@ -1,0 +1,54 @@
+{
+    "community": "canarias",
+    "stage": "bachillerato",
+    "decree": "Decreto 73\/2023, de 13 de abril",
+    "subject": "coro_tecnica_vocal_1",
+    "subject_name": "Coro y Técnica Vocal I",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "(c1) A través de esta competencia específica se ofrece al alumnado la",
+            "description": "(c1) A través de esta competencia específica se ofrece al alumnado la oportunidad de profundizar en las intenciones expresivas del canto y descubrir los modos en que el lenguaje corporal acompaña a la interpretación y a la puesta en escena. La escuch…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar piezas vocales explicando por qué pertenecen a un estilo, género o cultura, y comentar la interpretación y puesta en escena."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "(c2) Esta competencia específica permitirá al alumnado adquirir y aplicar",
+            "description": "(c2) Esta competencia específica permitirá al alumnado adquirir y aplicar habilidades y técnicas vocales y corporales, explorar su propia voz y reconocer su propio sonido y el de las demás personas del coro, favoreciendo así la ampliación de su capac…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Realizar ejercicios e improvisaciones vocales con técnicas sanas, reforzando autoestima y autoconfianza."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "(c3) La presente competencia específica se centra en la interpretación de",
+            "description": "(c3) La presente competencia específica se centra en la interpretación de repertorio vocal diverso, favoreciendo el desarrollo del sentido de pertenencia y la asunción de responsabilidades individuales para la consecución de un objetivo colectivo.",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Interpretar piezas en coro mostrando eficacia, escucha activa y expresión vocal y corporal adecuada al conjunto."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "(c4) Esta competencia específica aborda aprendizajes vinculados a la",
+            "description": "(c4) Esta competencia específica aborda aprendizajes vinculados a la participación en proyectos escénicos y la asunción de funciones propias de la producción, aspectos que se concretan en un criterio de evaluación para los dos cursos de la etapa. Ser…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Mostrar durante la actuación una actitud escénica adecuada y respeto por el público."
+                }
+            ]
+        }
+    ]
+}

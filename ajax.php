@@ -61,8 +61,11 @@ if ($action === 'rubric_summary') {
             exit;
         }
         $crit = $DB->get_record('gradingform_rubric_criteria', ['id' => $map->rubric_row_id], 'definitionid');
+        if (!$crit) { echo json_encode(['success' => true, 'rows' => []]); exit; }
         $def  = $DB->get_record('grading_definitions', ['id' => $crit->definitionid], 'areaid');
+        if (!$def) { echo json_encode(['success' => true, 'rows' => []]); exit; }
         $area = $DB->get_record('grading_areas', ['id' => $def->areaid], 'contextid');
+        if (!$area) { echo json_encode(['success' => true, 'rows' => []]); exit; }
         $ctx  = context::instance_by_id($area->contextid);
         if (!($ctx instanceof context_module)) {
             echo json_encode(['success' => true, 'rows' => []]);
@@ -140,7 +143,7 @@ if ($action === 'create_period') {
         exit;
     }
 
-    if (!has_capability('moodle/grade:viewall', context_course::instance($courseid))) {
+    if (!has_capability('local/sentinel:communicate', context_course::instance($courseid))) {
         http_response_code(403);
         echo json_encode(['success' => false, 'error' => 'Sin permiso para crear comunicaciones']);
         exit;
@@ -160,7 +163,10 @@ if ($action === 'create_period') {
         exit;
     }
 
-    $max = (int)$DB->get_field_sql('SELECT COALESCE(MAX(sortorder),0) FROM {local_sentinel_period}');
+    $max = (int)$DB->get_field_sql(
+        'SELECT COALESCE(MAX(sortorder),0) FROM {local_sentinel_period} WHERE courseid = :cid OR courseid = 0',
+        ['cid' => $courseid]
+    );
     $id = $DB->insert_record('local_sentinel_period', (object)[
         'courseid'   => $courseid,
         'sortorder'  => $max + 1,
@@ -172,6 +178,65 @@ if ($action === 'create_period') {
     exit;
 }
 
+// ── Acción: catálogo de currículos disponibles ──────────────────────────────────
+if ($action === 'curriculum_catalog') {
+    $courseid = required_param('courseid', PARAM_INT);
+    if (!has_capability('local/sentinel:managedescriptors', context_course::instance($courseid))) {
+        http_response_code(403);
+        echo json_encode(['success' => false, 'error' => 'Sin permisos para gestionar el currículo.']);
+        exit;
+    }
+
+    $catalog = \local_sentinel\curriculum_manager::get_catalog();
+    $applied = \local_sentinel\curriculum_manager::get_applied($courseid);
+    $locked  = \local_sentinel\curriculum_manager::course_has_grades($courseid);
+
+    $community_id = get_config('local_sentinel', 'community');
+    $community_info = null;
+    if ($community_id && !empty($catalog['communities'])) {
+        foreach ($catalog['communities'] as $c) {
+            if ($c['id'] === $community_id) {
+                $community_info = $c;
+                break;
+            }
+        }
+        if ($community_info) {
+            $catalog['communities'] = [$community_info];
+        }
+    }
+
+    echo json_encode([
+        'success'   => true,
+        'catalog'   => $catalog,
+        'applied'   => $applied,
+        'locked'    => $locked,
+        'community' => $community_id ?: null,
+    ]);
+    exit;
+}
+
+// ── Acción: aplicar currículo a un curso ────────────────────────────────────────
+if ($action === 'apply_curriculum') {
+    $courseid  = required_param('courseid',  PARAM_INT);
+    $community = required_param('community', PARAM_ALPHANUMEXT);
+    $stage     = required_param('stage',     PARAM_ALPHANUMEXT);
+    $subject   = required_param('subject',   PARAM_ALPHANUMEXT);
+    $grade     = required_param('grade',     PARAM_INT);
+
+    if (!has_capability('local/sentinel:managedescriptors', context_course::instance($courseid))) {
+        http_response_code(403);
+        echo json_encode(['success' => false, 'error' => 'Sin permisos para aplicar el currículo.']);
+        exit;
+    }
+
+    $result = \local_sentinel\curriculum_manager::apply($courseid, $community, $stage, $subject, $grade);
+    if (!$result['success']) {
+        http_response_code(400);
+    }
+    echo json_encode($result);
+    exit;
+}
+
 // ── Acción por defecto: guardar mapeo rubric_row → grade_category ─────────────
 $rubric_row_id     = required_param('rubric_row_id',     PARAM_INT);
 $grade_category_id = required_param('grade_category_id', PARAM_INT);
@@ -180,20 +245,40 @@ $grade_category_id = required_param('grade_category_id', PARAM_INT);
 
 $criterion = $DB->get_record('gradingform_rubric_criteria', ['id' => $rubric_row_id]);
 if (!$criterion) {
+    http_response_code(400);
     echo json_encode(['success' => false, 'error' => 'invalid_criterion']);
     exit;
 }
 
-if ($grade_category_id !== 0 && !$DB->record_exists('grade_categories', ['id' => $grade_category_id])) {
-    echo json_encode(['success' => false, 'error' => 'invalid_category']);
-    exit;
+if ($grade_category_id !== 0) {
+    $target_cat = $DB->get_record('grade_categories', ['id' => $grade_category_id], 'id, depth');
+    if (!$target_cat) {
+        http_response_code(400);
+        echo json_encode(['success' => false, 'error' => 'invalid_category']);
+        exit;
+    }
+    if ((int)$target_cat->depth < 3) {
+        http_response_code(400);
+        echo json_encode(['success' => false, 'error' => 'Solo se puede asignar a criterios de evaluación (subcategorías), no a competencias específicas.']);
+        exit;
+    }
 }
 
 // ── Resolve course and existing mapping ──────────────────────────────────────
 
 $definition = $DB->get_record('grading_definitions', ['id' => $criterion->definitionid], 'id, areaid');
-$area       = $DB->get_record('grading_areas',       ['id' => $definition->areaid],      'id, contextid');
-$context    = context::instance_by_id($area->contextid);
+if (!$definition) {
+    http_response_code(400);
+    echo json_encode(['success' => false, 'error' => 'grading_definition_not_found']);
+    exit;
+}
+$area = $DB->get_record('grading_areas', ['id' => $definition->areaid], 'id, contextid');
+if (!$area) {
+    http_response_code(400);
+    echo json_encode(['success' => false, 'error' => 'grading_area_not_found']);
+    exit;
+}
+$context = context::instance_by_id($area->contextid);
 $courseid   = $context->get_course_context()->instanceid;
 
 // Only users who can manage grades in this course may create/update mappings.
@@ -302,7 +387,7 @@ function sentinel_sync_activity_visibility(object $criterion, object $area, int 
     }
 
     // Find or create the "Actividades (Sentinel)" container category at root level.
-    $sentinel_cat_name = 'Actividades (Sentinel)';
+    $sentinel_cat_name = get_string('activities_category', 'local_sentinel');
     $sentinel_cat = $DB->get_record_select(
         'grade_categories',
         "courseid = :cid AND depth = 2 AND fullname = :name",
@@ -461,3 +546,4 @@ if ($grade_category_id === 0) {
 sentinel_sync_activity_visibility($criterion, $area, $courseid);
 
 echo json_encode(['success' => true]);
+exit;

@@ -1,0 +1,78 @@
+{
+    "community": "murcia",
+    "stage": "eso",
+    "decree": "",
+    "subject": "musica",
+    "subject_name": "Música",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Analizar obras de diferentes épocas y culturas, identificando sus principales",
+            "description": "Analizar obras de diferentes épocas y culturas, identificando sus principales rasgos estilísticos y estableciendo relaciones con su contexto, para valorar el patrimonio musical y dancístico como fuente de disfrute y enriquecimiento personal.",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Reconocer y describir las características sonoras y estéticas de piezas musicales de diversos periodos históricos y culturas mediante la escucha atenta y respetuosa."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Explicar la función social y cultural de obras musicales y de danza, vinculándolas razonadamente con su contexto histórico y mostrando respeto por la diversidad."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Comparar manifestaciones musicales y dancísticas de distintas épocas para identificar su influencia y pervivencia en los estilos y géneros musicales actuales."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Explorar las posibilidades expresivas de diferentes técnicas musicales y",
+            "description": "Explorar las posibilidades expresivas de diferentes técnicas musicales y dancísticas, a través de actividades de improvisación, para incorporarlas al repertorio personal de recursos y desarrollar el criterio de selección de las técnicas más adecuadas…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Improvisar de forma creativa y guiada utilizando la voz, el cuerpo, instrumentos o tecnología para explorar diversas técnicas expresivas musicales y de danza."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Improvisar de forma pautada empleando recursos musicales y dancísticos para comunicar emociones o ideas, eligiendo las técnicas más adecuadas al propósito expresivo."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Interpretar piezas musicales y dancísticas, gestionando adecuadamente las",
+            "description": "Interpretar piezas musicales y dancísticas, gestionando adecuadamente las emociones y empleando diversas estrategias y técnicas vocales, corporales o instrumentales, para ampliar las posibilidades de expresión personal. La interpretación individual o…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Interpretar partituras de baja complejidad reconociendo sus elementos técnicos básicos, como figuras y notas, contando con el apoyo del docente o de grabaciones de audio."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Interpretar piezas musicales o danzas sencillas aplicando técnicas básicas de voz o instrumentos, memorizando la obra y mostrando una actitud constructiva en los ensayos."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Interpretar obras musicales o danzas sencillas de forma individual y grupal, controlando los nervios y manteniendo la atención durante la ejecución técnica."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Crear propuestas artístico-musicales, empleando la voz, el cuerpo, instrumentos musicales y herramientas tecnológicas",
+            "description": "Crear propuestas artístico-musicales, empleando la voz, el cuerpo, instrumentos musicales y herramientas tecnológicas, para potenciar la creatividad e identificar oportunidades de desarrollo personal, social, académico y profesional.",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Diseñar y realizar proyectos musicales o coreográficos, de forma individual o grupal, utilizando diversos instrumentos, la voz y herramientas tecnológicas para expresar ideas creativas."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Participar en la creación y ejecución de proyectos musicales grupales, colaborando activamente en los ensayos y valorando el trabajo en equipo para el crecimiento personal."
+                }
+            ]
+        }
+    ]
+}

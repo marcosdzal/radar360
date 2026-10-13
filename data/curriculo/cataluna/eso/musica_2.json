@@ -1,0 +1,106 @@
+{
+    "community": "cataluna",
+    "stage": "eso",
+    "decree": "",
+    "subject": "musica",
+    "subject_name": "Música",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Analitzar produccions musicals a través de l'escolta activa, la identificació",
+            "description": "Analitzar produccions musicals a través de l'escolta activa, la identificació d'elements i la reflexió per entendre'n l'e olució i funcions dins la cultura",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Reconocer y describir las características sonoras y estéticas de piezas musicales de diversos periodos históricos y culturas mediante la escucha atenta y respetuosa."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Explicar la función social y cultural de obras musicales y de danza, vinculándolas razonadamente con su contexto histórico y mostrando respeto por la diversidad."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Comparar manifestaciones musicales y dancísticas de distintas épocas para identificar su influencia y pervivencia en los estilos y géneros musicales actuales."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Mostrar conductes que evidenciïn autonomia moral en un context social amb gran diversitat d’interessos."
+                },
+                {
+                    "code": "1.5",
+                    "description": "Mostrar una actitud responsable, respectuosa i assertiva amb relació a problemàtiques diverses i riscos derivats de l’ús acrític i de l’abús de les xarxes socials, com a factors de prevenció de situacions de ciberassetjament entre iguals i en el context educatiu."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Expressar se musicalment a través d'impro isacions ocals o instrumentals tenint",
+            "description": "Expressar se musicalment a través d'impro isacions ocals o instrumentals tenint en compte les emocions que pro oquen i per desenvolupar la creativitat amb una actitud col·laborati a",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Improvisar de forma creativa y guiada utilizando la voz, el cuerpo, instrumentos o tecnología para explorar diversas técnicas expresivas musicales y de danza."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Improvisar de forma pautada empleando recursos musicales y dancísticos para comunicar emociones o ideas, eligiendo las técnicas más adecuadas al propósito expresivo."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Manifestar actituds alineades amb valors com la justícia, la pau i el rebuig a la violència, la solidaritat i el respecte per les minories i les diferents identitats humanes i personals en el seu entorn."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Analitzar el paper de les institucions públiques, dels organismes internacionals i les organitzacions no governamentals en la promoció de la pau, la solidaritat i la cooperació entre nacions a través del diàleg argumentatiu."
+                },
+                {
+                    "code": "2.5",
+                    "description": "Reflexionar sobre la defensa d’una efectiva igualtat de gènere i sobre el problema de la violència contra les dones i la conducta sexista, a través de l’anàlisi de les mesures de prevenció de la desigualtat, la violència i la discriminació per raó de gènere i orientació sexual."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Interpretar a través de la eu, els instruments i la dansa per explorar les",
+            "description": "Interpretar a través de la eu, els instruments i la dansa per explorar les possibilitats creatives, expressi es i emocionals i desenvolupar l'autoestima",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Interpretar partituras de baja complejidad reconociendo sus elementos técnicos básicos, como figuras y notas, contando con el apoyo del docente o de grabaciones de audio."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Interpretar piezas musicales o danzas sencillas aplicando técnicas básicas de voz o instrumentos, memorizando la obra y mostrando una actitud constructiva en los ensayos."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Interpretar obras musicales o danzas sencillas de forma individual y grupal, controlando los nervios y manteniendo la atención durante la ejecución técnica."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Crear projectes musicals a través de la eu, els instruments i el cos amb el",
+            "description": "Crear projectes musicals a través de la eu, els instruments i el cos amb el suport de les eines tecnol giques per desenvolupar oportunitats personals, socials i professionals de forma inclusi a",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Diseñar y realizar proyectos musicales o coreográficos, de forma individual o grupal, utilizando diversos instrumentos, la voz y herramientas tecnológicas para expresar ideas creativas."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Participar en la creación y ejecución de proyectos musicales grupales, colaborando activamente en los ensayos y valorando el trabajo en equipo para el crecimiento personal."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Manifestar una actitud empàtica i respectuosa envers un mateix, els altres i la natura,"
+                },
+                {
+                    "code": "4.4",
+                    "description": "Identificar i prendre consciència de fets i accions dirigides a membres de la comunitat educativa que, si persisteixen en el temps, poden derivar en relacions abusives, situacions d’assetjament i maltractament entre iguals en el context educatiu i, en aquest cas, prendre-hi partit des d’un posicionament proactiu com a factor de prevenció."
+                }
+            ]
+        }
+    ]
+}

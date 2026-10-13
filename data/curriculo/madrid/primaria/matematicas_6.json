@@ -1,0 +1,142 @@
+{
+    "community": "madrid",
+    "stage": "primaria",
+    "decree": "Decreto 61/2022, de 13 de julio",
+    "subject": "matematicas",
+    "subject_name": "Matemáticas",
+    "grade": 6,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Interpretar situaciones de la vida cotidiana proporcionando",
+            "description": "Interpretar situaciones de la vida cotidiana proporcionando una representación matemática de las mismas mediante conceptos, herramientas y estrategias, para analizar la información más relevante.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Comprender problemas de la vida cotidiana a través de la reformulación de la pregunta, de forma verbal y gráfica."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Elaborar representaciones matemáticas que ayuden en la búsqueda y elección de estrategias y herramientas, incluidas las tecnologías, para la resolución de una situación problematizada."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Resolver situaciones problematizadas, aplicando diferentes",
+            "description": "Resolver situaciones problematizadas, aplicando diferentes técnicas, estrategias y formas de razonamiento, para explorar distintas maneras de proceder, obtener soluciones y asegurar su validez desde un punto de vista formal y en relación con el contexto planteado.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Seleccionar entre diferentes estrategias para resolver un problema, justificando la elección."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Obtener posibles soluciones de un problema, seleccionando entre varias estrategias conocidas de forma autónoma."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Comprobar la corrección matemática de las soluciones de un problema y su coherencia en el contexto planteado."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Explorar, formular y comprobar conjeturas sencillas o",
+            "description": "Explorar, formular y comprobar conjeturas sencillas o plantear problemas de tipo matemático en situaciones basadas en la vida cotidiana, de forma guiada, reconociendo el valor del razonamiento y la argumentación, para contrastar su validez, adquirir e integrar nuevo conocimiento.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Formular conjeturas matemáticas sencillas identificando patrones, propiedades y relaciones de forma guiada."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Plantear nuevos problemas sobre situaciones cotidianas que se resuelvan matemáticamente."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Utilizar el pensamiento computacional, organizando datos,",
+            "description": "Utilizar el pensamiento computacional, organizando datos, descomponiendo en partes, reconociendo patrones, generalizando e interpretando, modificando y creando algoritmos de forma guiada, para modelizar y automatizar situaciones de la vida cotidiana.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Modelizar situaciones de la vida cotidiana utilizando, de forma pautada, principios básicos del pensamiento computacional."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Emplear herramientas tecnológicas adecuadas en la investigación y resolución de problemas."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Reconocer y utilizar conexiones entre las diferentes ideas",
+            "description": "Reconocer y utilizar conexiones entre las diferentes ideas matemáticas, así como identificar las matemáticas implicadas en otras áreas o en la vida cotidiana, relacionando conceptos y procedimientos, para interpretar situaciones y contextos diversos.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Utilizar conexiones entre diferentes elementos matemáticos movilizando conocimientos y experiencias propios."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Utilizar las conexiones entre las matemáticas, otras áreas y la vida cotidiana para resolver problemas en contextos no matemáticos."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Comunicar y representar, de forma individual y grupal,",
+            "description": "Comunicar y representar, de forma individual y grupal, conceptos, procedimientos y resultados matemáticos, utilizando el lenguaje oral, escrito, gráfico y la terminología apropiados, para dar significado y permanencia a las ideas matemáticas.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Interpretar el lenguaje matemático sencillo presente en la vida cotidiana en diferentes formatos, adquiriendo vocabulario apropiado y mostrando la comprensión del mensaje."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Comunicar en diferentes formatos las conjeturas y procesos matemáticos, utilizando lenguaje matemático adecuado."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Desarrollar destrezas personales que ayuden a enfrentarse a",
+            "description": "Desarrollar destrezas personales que ayuden a enfrentarse a retos matemáticos, fomentando la confianza en las propias posibilidades, aceptando el error como parte del proceso de aprendizaje y adaptándose a las situaciones de incertidumbre, para mejorar la constancia y disfrutar en el aprendizaje de las matemáticas.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Regular las destrezas personales y reconocer algunas fortalezas y debilidades, desarrollando así la autoconfianza al abordar nuevos retos matemáticos."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Elegir actitudes positivas ante nuevos retos matemáticos, tales como la constancia y la responsabilidad, valorando el error como una oportunidad de aprendizaje."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Desarrollar destrezas sociales, reconociendo y respetando a",
+            "description": "Desarrollar destrezas sociales, reconociendo y respetando a los compañeros y participar en equipos de trabajo para fomentar un adecuado desarrollo personal y social.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Trabajar en equipo activa, respetuosa y responsablemente, mostrando iniciativa, comunicándose de forma efectiva, valorando la diversidad y estableciendo relaciones basadas en el respeto, la igualdad, la libertad y la resolución pacífica de conflictos."
+                },
+                {
+                    "code": "8.2",
+                    "description": "Colaborar en el reparto de tareas, asumiendo y respetando las responsabilidades individuales asignadas y empleando estrategias de colaboración sencillas dirigidas a la consecución de objetivos compartidos."
+                }
+            ]
+        }
+    ]
+}

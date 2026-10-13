@@ -1,0 +1,87 @@
+{
+    "community": "la-rioja",
+    "stage": "eso",
+    "decree": "Decreto 21\/2022, de 13 de julio",
+    "subject": "digitalizacion",
+    "subject_name": "Digitalización",
+    "grade": 4,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Identificar y resolver problemas técnicos sencillos, conectar y configurar dispositivos a redes domésticas",
+            "description": "Identificar y resolver problemas técnicos sencillos, conectar y configurar dispositivos a redes domésticas, aplicando los conocimientos de hardware y sistemas operativos, para gestionar las herramientas e instalaciones informáticas y de comunicación …",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Conectar dispositivos en red local aplicando conocimientos de comunicación alámbrica e inalámbrica con actitud proactiva."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Instala y configura sistemas operativos ajustando sus características a necesidades personales."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Resolver problemas técnicos analizando componentes, evaluando críticamente soluciones y reformulando el procedimiento si es necesario."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Configurar el entorno personal de aprendizaje, interactuando y aprovechando los recursos del ámbito digital",
+            "description": "Configurar el entorno personal de aprendizaje, interactuando y aprovechando los recursos del ámbito digital, para optimizar y gestionar el aprendizaje permanente.",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Diseñar un entorno personal de aprendizaje integrando recursos digitales de forma autónoma para gestionar el aprendizaje permanente."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Aplicar herramientas del PLE para buscar, seleccionar y archivar información con criterio y seguridad."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Crear y programar contenidos digitales originales, eligiendo herramientas y respetando derechos de autor."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Publicar y comentar información en plataformas colaborativas, adaptando el mensaje a diferentes audiencias con respeto y participación."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Desarrollar hábitos que fomenten el bienestar digital, aplicando medidas preventivas y correctivas",
+            "description": "Desarrollar hábitos que fomenten el bienestar digital, aplicando medidas preventivas y correctivas, para proteger dispositivos, datos personales y la propia salud.",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Configurar la privacidad en redes sociales y espacios virtuales para proteger datos personales y la huella digital."
+                },
+                {
+                    "code": "3.2",
+                    "description": "El alumnado aplica la configuración y actualización periódica de contraseñas, sistema operativo y antivirus en dispositivos habituales."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Identificar amenazas en red y actuar seleccionando la solución más adecuada para proteger la salud y los datos."
+                },
+                {
+                    "code": "4.1",
+                    "description": "Aplica normas éticas y de etiqueta digital al comunicarse y colaborar en línea, respetando privacidad y propiedad intelectual."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Valorar cómo las tecnologías digitales facilitan gestiones y comercio, y analizar la brecha social en su acceso y uso."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Evalúa la capacidad de analizar críticamente mensajes digitales identificando objetividad, ideología, intencionalidad, sesgos y caducidad."
+                },
+                {
+                    "code": "4.4",
+                    "description": "Analizar la necesidad y beneficios del uso ecosocialmente responsable de tecnologías digitales, evaluando accesibilidad, sostenibilidad e impacto."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,167 @@
+{
+    "community": "comunidad-valenciana",
+    "stage": "eso",
+    "decree": "Decreto 107\/2022, de 5 de agosto",
+    "subject": "tecnologia_i_digitalitzacio",
+    "subject_name": "Tecnologia i Digitalització",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Identificar i resoldre problemes tecnològics senzills aplicant el mètode de",
+            "description": "Identificar i resoldre problemes tecnològics senzills aplicant el mètode de projectes, propi de l’enginyeria, executant, si és necessari, les seues fases característiques i utilitzant els mitjans tecnològics i digitals més adequats al context",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Identificar problemes tecnològics actuals, senzills i pròxims utilitzant els sabers bàsics fonamentals d'aquesta àrea per a entendre la necessitat o problema detectat."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Resoldre de manera guiada problemes i desafiaments tecnològics quotidians seguint les fases del mètode de projectes per a generar i\/o utilitzar productes que donen solució a la necessitat o problema identificat."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Utilitzar els mitjans tecnològics i digitals, eines i materials disponibles en la resolució dels problemes o l'abordatge de reptes tecnològics plantejats en la vida quotidiana i gestionar de forma guiada com usar-los de manera adequada i sostenible."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Fabricar objectes, prototips o models senzills per manipulació i conformació de materials: emprar les eines i màquines adequades, aplicar els d'estructures, mecanismes i electricitat i respectar les normes de seguretat i salut bàsiques corresponents."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Buscar, obtindre, analitzar i seleccionar informació de manera fiable i segura",
+            "description": "Buscar, obtindre, analitzar i seleccionar informació de manera fiable i segura per a poder gestionar el temps, els coneixements i els recursos disponibles a l’hora d’abordar reptes tecnològics, seguint un pla de treball realista",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Fer cerques bàsiques en Internet segons criteris de qualitat, actualitat i fiabilitat de les fonts, com a punt de partida en qualsevol de les fases del procés de resolució de problemes tecnològics."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Analitzar i seleccionar la informació cientificotècnica obtinguda: destriar la més adequada en funció de la faena i de la necessitat en cada ocasió."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Utilitzar de manera segura la informació cientificotècnica seleccionada per a superar els reptes tecnològics plantejats."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Seguir i executar, amb la informació obtinguda, un pla de treball individual o en grup cooperatiu coherent amb les característiques de la tasca."
+                },
+                {
+                    "code": "2.5",
+                    "description": "Organitzar la informació aplicant tècniques d'emmagatzematge segur."
+                },
+                {
+                    "code": "2.6",
+                    "description": "Identificar problemes i riscos relacionats amb l'ús de la tecnologia i analitzarlos de manera ètica i crítica."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Configurar, utilitzar i mantindre màquines, eines, aplicacions i sistemes",
+            "description": "Configurar, utilitzar i mantindre màquines, eines, aplicacions i sistemes digitals, fent-ne una selecció idònia i un ús segur i adequat en funció de la tasca",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Usar com cal l'eina de treball adequada per a la faena que s'ha de fer."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Utilitzar i adaptar les eines digitals i aplicacions de l'entorn d'aprenentatge a les pròpies necessitats."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Utilitzar els instruments tecnològics i digitals de forma ajustada al propòsit, de manera que es respecten en tot moment les seues normes d'ús i conservació."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Respectar les normes de seguretat i higiene en l'ús i manipulació de materials, màquines, eines, sistemes digitals, etc."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Fer un ús responsable i sostenible dels objectes, materials, productes i",
+            "description": "Fer un ús responsable i sostenible dels objectes, materials, productes i solucions tecnològiques i digitals que hi ha en el seu entorn, analitzant-ne críticament les implicacions i repercussions ambientals, socials i ètiques",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Analitzar els objectes, productes i solucions tecnològiques de manera bàsica, segons les seues característiques funcionals, estructura i aplicació."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Considerar les implicacions per al medi i l'entorn derivades d'utilitzar elements tecnològics, tant actuals com a mitjà i llarg termini."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Comparar i valorar els productes digitals utilitzats per a fer front als desafiaments tecnològics susceptibles de millorar la qualitat de vida personal i col·lectiva tant en l'àmbit acadèmic com en el personal."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Crear, expressar, comprendre i comunicar idees, opinions i propostes amb un ús",
+            "description": "Crear, expressar, comprendre i comunicar idees, opinions i propostes amb un ús correcte dels llenguatges i els mitjans propis de la tecnologia i la digitalització, tant en l’àmbit acadèmic com en el personal i social",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Crear i editar continguts tecnològics i digitals amb diferents formats, tant presencialment com en remot, per a facilitar la comunicació d'idees, opinions i propostes tecnològiques."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Respectar les llicències i drets d'autoria en la creació i comunicació d'idees."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Comunicar continguts, idees, opinions i punts de vista sobre qüestions tecnològiques en diferents formats fent servir de manera correcta i coherent la terminologia i la simbologia adequades."
+                },
+                {
+                    "code": "5.4",
+                    "description": "Comunicar en una llengua o més en l'àmbit tecnològic i digital, de manera adient i amb expressions no discriminatòries i inclusives.."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Analitzar problemes senzills i plantejar-ne la solució, de manera que",
+            "description": "Analitzar problemes senzills i plantejar-ne la solució, de manera que s’automatitzen processos amb eines de programació, sistemes de control o robòtica i aplicant el pensament computacional",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Analitzar problemes senzills mitjançant l'abstracció i modelització de la realitat."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Resoldre problemes de manera individual, utilitzant els algoritmes i les estructures de dades necessàries."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Programar aplicacions senzilles usant un entorn per a l'aprenentatge de programació basat en blocs."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Utilitzar la tecnologia posant-la al servei del desenvolupament personal i",
+            "description": "Utilitzar la tecnologia posant-la al servei del desenvolupament personal i professional, social i comunitari, i proposant solucions creatives als grans desafiaments del món actual",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Dissenyar solucions creatives senzilles en situacions obertes i incertes que sorgeixen en l'entorn."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Afrontar situacions d'incertesa senzilles amb una actitud positiva, utilitzant el coneixement adquirit."
+                },
+                {
+                    "code": "7.3",
+                    "description": "Reconéixer la importància del desenvolupament de la tecnologia com a eina per a l'avanç social i cultural de la humanitat. VALENCIÀ: LLENGUA I LITERATURA"
+                }
+            ]
+        }
+    ]
+}

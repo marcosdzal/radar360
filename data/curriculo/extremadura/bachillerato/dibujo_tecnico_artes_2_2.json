@@ -1,0 +1,89 @@
+{
+    "community": "extremadura",
+    "stage": "bachillerato",
+    "decree": "Decreto 113\/2022, de 25 de agosto",
+    "subject": "dibujo_tecnico_artes_2",
+    "subject_name": "Dibujo Técnico Aplicado a las Artes Plásticas y al Diseño II",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Analizar, representar y reinterpretar la geometría presente en la naturaleza,",
+            "description": "Analizar, representar y reinterpretar la geometría presente en la naturaleza, el entorno construido y el arte, identificando sus estructuras geométricas y códigos con una actitud de valoración y disfrute, sabiendo explicar su origen y función en d…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar y justificar el uso de estructuras y proporciones geométricas en obras artísticas o de diseño, determinando su función compositiva y comunicativa."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Analizar las funciones y apreciar la importancia de las formas y transformaciones geométricas en los distintos entornos de aplicación y dentro de sus contextos históricos para valorar sus funcionalidades y cualidades expresivas. Competencia específica 2."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "D esarrollar diseños gráficos, elaborar composiciones y transformaciones",
+            "description": "D esarrollar diseños gráficos, elaborar composiciones y transformaciones geométricas, valorando también el dibujo a mano alzada, e incorporar estos recursos en el desarrollo y trasmisión de ideas, así como en la expresión de sentimientos y emocione…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Crear composiciones modulares y teselaciones mediante el uso de transformaciones geométricas planas, integrando precisión técnica y creatividad en el diseño de superficies."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Crear composiciones gráficas originales aplicando trazados geométricos de tangencias, enlaces y curvas cónicas para resolver problemas de diseño artístico o funcional."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Diseñar patrones y módulos tridimensionales y valorar la aplicación de transformaciones (traslaciones, giros, simetrías). Competencia específica 3."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Representar el espacio y objetos tridimensionales, comprendiendo y apreciando",
+            "description": "Representar el espacio y objetos tridimensionales, comprendiendo y apreciando su presencia en creaciones artísticas variadas, seleccionando y utilizando el sistema de representación más adecuado para aplicarlo a la realización de ilustraciones y p…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Representar objetos tridimensionales con elementos curvos utilizando los sistemas axonométricos, asegurando la correcta construcción de elipses y arcos en los planos isométrico y de caballera."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Diseñar y representar espacios tridimensionales o escenografías mediante perspectiva cónica, integrando el estudio de luces y sombras y analizando críticamente el resultado final."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Representar e interpretar objetos y espacios vistos o ideados, así como",
+            "description": "Representar e interpretar objetos y espacios vistos o ideados, así como documentar proyectos de diseño aplicando las normas fundamentales UNE e ISO, asegurando su correcta interpretación por terceros.",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Proyectar, de manera individual o en grupo, un diseño sencillo, comunicando de manera clara e inequívoca su forma y dimensiones mediante el uso de la normalización, así como aplicando estrategias y destrezas que agilicen el trabajo colaborativo."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Aplicar estrategias y destrezas acordes al trabajo colaborativo y que lo agilicen. Competencia específica 5."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "S eleccionar y utilizar programas y aplicaciones específicas de dibujo",
+            "description": "S eleccionar y utilizar programas y aplicaciones específicas de dibujo vectorial 2D y de modelado 3D para desarrollar procesos de creación artística personal o de diseño, aprovechando y valorando las posibilidades que ofrecen las herramientas dig…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Diseñar y presentar proyectos artísticos o de diseño utilizando herramientas de dibujo vectorial, aprovechando sus ventajas técnicas para la creación y edición de imágenes escalables."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Mostrar una actitud positiva respecto al trabajo colaborativo y en grupo, mostrando empatía y flexibilidad de planteamientos en el desarrollo de los proyectos."
+                }
+            ]
+        }
+    ]
+}

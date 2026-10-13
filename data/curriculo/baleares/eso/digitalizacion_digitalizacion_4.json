@@ -1,0 +1,94 @@
+{
+    "community": "baleares",
+    "stage": "eso",
+    "decree": "",
+    "subject": "digitalizacion_digitalizacion",
+    "subject_name": "Digitalización",
+    "grade": 4,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Identificar i resoldre problemes tècnics senzills, connectar i configurar",
+            "description": "Identificar i resoldre problemes tècnics senzills, connectar i configurar dispositius a xarxes domèstiques, aplicant els coneixements de maquinari i sistemes operatius per gestionar les eines i instal·lacions informàtiques i de comunicació d'ús quoti…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Conectar dispositivos en red local aplicando conocimientos de comunicación alámbrica e inalámbrica con actitud proactiva."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Instala y configura sistemas operativos ajustando sus características a necesidades personales."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Resolver problemas técnicos analizando componentes, evaluando críticamente soluciones y reformulando el procedimiento si es necesario."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Configurar l'entorn personal d'aprenentatge interactuant i aprofitant els",
+            "description": "Configurar l'entorn personal d'aprenentatge interactuant i aprofitant els recursos de l'àmbit digital per optimitzar i gestionar l'aprenentatge permanent. La presència d'elements tecnològics i mitjans digitals en les nostres vides és un fet que, prog…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Diseñar un entorno personal de aprendizaje integrando recursos digitales de forma autónoma para gestionar el aprendizaje permanente."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Aplicar herramientas del PLE para buscar, seleccionar y archivar información con criterio y seguridad."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Crear y programar contenidos digitales originales, eligiendo herramientas y respetando derechos de autor."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Publicar y comentar información en plataformas colaborativas, adaptando el mensaje a diferentes audiencias con respeto y participación."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Desenvolupar hàbits que fomentin el benestar digital, aplicant mesures",
+            "description": "Desenvolupar hàbits que fomentin el benestar digital, aplicant mesures preventives i correctives per protegir dispositius, dades personals i la pròpia salut. La competència fa referència a les mesures de seguretat que han d'adoptar-se per tenir cura …",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Configurar la privacidad en redes sociales y espacios virtuales para proteger datos personales y la huella digital."
+                },
+                {
+                    "code": "3.2",
+                    "description": "El alumnado aplica la configuración y actualización periódica de contraseñas, sistema operativo y antivirus en dispositivos habituales."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Identificar amenazas en red y actuar seleccionando la solución más adecuada para proteger la salud y los datos."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Exercir una ciutadania digital crítica i conèixer les possibles accions que es",
+            "description": "Exercir una ciutadania digital crítica i conèixer les possibles accions que es poden dur a terme a la xarxa, identificant-ne les possibles repercussions, per fer un ús actiu, responsable i ètic de la tecnologia.",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Aplica normas éticas y de etiqueta digital al comunicarse y colaborar en línea, respetando privacidad y propiedad intelectual."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Valorar cómo las tecnologías digitales facilitan gestiones y comercio, y analizar la brecha social en su acceso y uso."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Evalúa la capacidad de analizar críticamente mensajes digitales identificando objetividad, ideología, intencionalidad, sesgos y caducidad."
+                },
+                {
+                    "code": "4.4",
+                    "description": "Analizar la necesidad y beneficios del uso ecosocialmente responsable de tecnologías digitales, evaluando accesibilidad, sostenibilidad e impacto."
+                }
+            ]
+        }
+    ]
+}

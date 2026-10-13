@@ -1,0 +1,112 @@
+{
+    "community": "baleares",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "economia_alt",
+    "subject_name": "Economía",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Valorar el problema de l'escassetat i la importancia d'adoptar decisions en",
+            "description": "valorar el problema de l'escassetat i la importancia d'adoptar decisions en l'ambit econòmic, analitzant-ne la repercussió en els diferents sectors, comparant solucions alternatives que ofereixen els diferents sistemes, per comprendre el funcionament…",
+            "criterios": [
+                {
+                    "code": "CA1.1",
+                    "description": "Comprendre la realitat econòmica actual, analitzant la repercussió de les decisions adoptades en l'àmbit econòmic, valorant els processos d'integració econòmica i establint comparacions sobre les solucions alternatives que ofereixen els diferents sistemes. Comprendre la realitat econòmica actual d'Espanya i de les Illes Balears, identificant-ne els elements principals i les dinàmiques que la configuren. Examinar la repercussió de les decisions adoptades en l'àmbit econòmic, identificant-ne els impactes socials i econòmics que tenen en la societat. Avaluar els processos d'integració econòmica, argumentant-ne els beneficis i les limitacions en contextos concrets. Comparar, de manera crítica, les solucions alternatives que ofereixen els diferents sistemes econòmics."
+                },
+                {
+                    "code": "CA1.2",
+                    "description": "Comprendre el problema de l'escassetat identificant els motius i comparant, de manera justificada, diferents estratègies econòmiques de resolució. Analitzar el problema de l'escassetat, destacant-ne les causes i els factors que el determinen. Identificar els motius principals que provoquen la limitació de recursos, tot establint connexions entre els diferents elements implicats. Comparar, de manera justificada, diferents estratègies econòmiques per a la resolució del problema de l'escassetat, justificant-ne les fortaleses i debilitats amb criteris fonamentats. Valorar la viabilitat i l'impacte d'aquestes estratègies en diferents contextos socials i econòmics."
+                },
+                {
+                    "code": "CA1.3",
+                    "description": "Conèixer els processos que intervenen en la presa de les decisions econòmiques de manera individual i col·lectiva, analitzant l'impacte que tenen en la societat. Comprendre els processos que intervenen en la presa de les decisions econòmiques, tant a nivell individual com col·lectiu. Analitzar l'impacte de les decisions econòmiques en la societat, valorant-ne les conseqüències en diferents àmbits. Valorar com les decisions contribueixen o afecten el benestar col·lectiu i el desenvolupament econòmic, mitjançant una reflexió crítica i fonamentada."
+                },
+                {
+                    "code": "CA1.4",
+                    "description": "Valorar la rellevància dels models econòmics i de la recerca científica, tot diferenciant entre el que és normatiu del que és positiu."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Reconeixer i comprendre el funcionament del mercat, analitzant-ne les fallides,",
+            "description": "reconeixer i comprendre el funcionament del mercat, analitzant-ne les fallides, per estudiar la repercussió d'aquest en l'entorn i facilitar la presa de decisions en l'àmbit econòmic. El funcionament de les diferents estructures del mercat, com també…",
+            "criterios": [
+                {
+                    "code": "CA2.1",
+                    "description": "Valorar la repercussió de les fallides del mercat a nivell microeconòmic i facilitar el procés de presa de decisions en aquest àmbit, reconeixent i comprenent Analitzar la repercussió de les fallides del mercat a nivell microeconòmic per identificar les seves causes i conseqüències. Facilitar el procés de presa de decisions en l'àmbit microeconòmic mitjançant l'ús de criteris racionals i informats. Comprendre el funcionament del mercat, tot identificant els factors que expliquen les seves fallides i la relació amb les decisions econòmiques. Interpretar el funcionament del mercat i com les seves dinàmiques afecten les decisions microeconòmiques. Valorar l'impacte de les fallides del mercat en la societat, considerant la seva influència en el benestar econòmic i social."
+                },
+                {
+                    "code": "CA2.2",
+                    "description": "Entendre el funcionament del mercat i la naturalesa de les transaccions que hi tenen lloc, analitzant elements com l'oferta, la demanda, els preus, els tipus de mercat i els agents implicats i reflexionant sobre la seva importància com a font de millora econòmica i social. Utilitzar els models econòmics per comprendre el funcionament del mercat i la naturalesa de les transaccions que s'hi duen a terme per actuar com a ciutadans formats i informats. Analitzar els elements clau del mercat com l'oferta, la demanda, els preus, els tipus de mercat i els agents implicats, tot identificant-ne les interrelacions. Reflexionar sobre la importància del mercat com a font de millora econòmica i social, considerant-ne les implicacions en diferents contextos."
+                },
+                {
+                    "code": "CA2.3",
+                    "description": "Analitzar amb esperit crític les fallides del mercat, avaluant-ne les conseqüències i reflexionant sobre les possibles solucions. Analitzar amb esperit crític les fallides del mercat per identificar-ne les causes i les implicacions principals. Avaluar les conseqüències que les fallides generen en els àmbits econòmic i social. Proposar possibles solucions basades en la reflexió informada i en el coneixement dels mecanismes econòmics implicats."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Distingir i valorar el paper dels diferents agents economics que intervenen en",
+            "description": "distingir i valorar el paper dels diferents agents economics que intervenen en el flux circular de la renda, comprendre'n les interaccions i reconèixer, amb sentit crític, els beneficis i costs que genera, per explicar com es produeix el desenvolupam…",
+            "criterios": [
+                {
+                    "code": "CA3.1",
+                    "description": "Conèixer com es produeix el desenvolupament econòmic i el benestar social i valorar, amb sentit crític, el paper dels diferents agents econòmics que intervenen en el flux circular de la renda. Comprendre com es produeix el desenvolupament econòmic i el benestar social, tot identificant els factors clau que intervenen en aquest procés. Valorar amb sentit crític el paper dels diferents agents econòmics que intervenen en el flux circular de la renda. Descriure i reconèixer les interaccions entre els diferents agents econòmics, tot comprenent la seva contribució al desenvolupament econòmic i al benestar social."
+                },
+                {
+                    "code": "CA3.2",
+                    "description": "Diferenciar els costs i beneficis que es generen en el flux circular de la renda per a cadascun dels agents econòmics, establint relacions entre ells i determinant la seva repercussió en el desenvolupament econòmic i benestar social. Diferenciar els costs i beneficis que es generen en el flux circular de la renda per a cadascun dels agents econòmics. Analitzar les relacions que s'estableixen entre els diferents agents econòmics per examinar les interaccions que es donen dins del flux circular de la renda. Determinar la contribució d'aquestes relacions en el desenvolupament econòmic i el benestar social, valorant-ne els efectes de manera argumentada."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Coneixer i comprendre el funcionament del sistema financer i de la politica",
+            "description": "coneixer i comprendre el funcionament del sistema financer i de la politica monetaria, valorar-ne els efectes sobre l'economia real i analitzar els elements que intervenen en les decisions financeres, per planificar i gestionar amb responsabilitat i …",
+            "criterios": [
+                {
+                    "code": "CA4.1",
+                    "description": "Conèixer i comprendre el funcionament del sistema financer valorant-ne els efectes sobre l'economia real i analitzant els elements que intervenen en les decisions financeres relacionades amb la inversió, l'estalvi, els productes financers i la cerca de fonts de finançament. Comprendre el funcionament del sistema financer i de les polítiques monetàries per identificar-ne els components i els mecanismes principals. Valorar els efectes del sistema financer sobre l'economia real per avaluar-ne la influència en el desenvolupament socioeconòmic. Analitzar els elements que condicionen les decisions financeres, incloent-hi la inversió, l'estalvi, els productes financers i la cerca de fonts de finançament, per comprendre les seves implicacions en l'àmbit personal i en el col·lectiu. Valorar amb sentit crític les interaccions del sistema financer amb altres aspectes de l'economia, tot identificant possibles oportunitats i riscs associats. - Conèixer les eines de què disposen les autoritats econòmiques per actuar sobre la marxa de l'economia, per tal de valorar i analitzar les polítiques econòmiques i comprendre els seus efectes sobre indicadors com la inflació i el creixement."
+                },
+                {
+                    "code": "CA4.2",
+                    "description": "Planificar i gestionar amb responsabilitat i progressiva autonomia les finances personals i adoptar decisions fonamentades a partir del coneixement i comprensió del sistema financer i dels elements que intervenen en les decisions financeres, valorant els efectes que aquestes poden provocar en l'economia real. Planificar les finances personals amb responsabilitat i progressiva autonomia, per establir objectius i estratègies coherents amb les necessitats individuals i col·lectives. Gestionar els recursos financers personals de manera eficient, tot aplicant coneixements sobre el sistema financer i els elements que influeixen en les decisions financeres. Adoptar decisions financeres fonamentades basades en el coneixement i la comprensió del sistema financer i dels elements que influeixen en les decisions financeres. Valorar les conseqüències de les decisions financeres en l'economia real, tot reflexionant críticament sobre la seva sostenibilitat i impacte social."
+                },
+                {
+                    "code": "CA4.3",
+                    "description": "Adquirir coneixements financers a partir de l'anàlisi del sistema financer, el seu funcionament i els efectes que es deriven de les decisions que s'hi adopten i establint connexions entre aquests aprenentatges i les decisions financeres personals que afecten la vida quotidiana. Analitzar el sistema financer i el seu funcionament per identificar els principals elements que el conformen i les seves interaccions. Valorar els efectes derivats de les decisions adoptades dins del sistema financer per reflexionar sobre el seu impacte en diferents àmbits econòmics. Establir connexions entre els coneixements financers adquirits i les decisions financeres personals per aplicar-los a situacions de la vida quotidiana de manera raonada."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Identificar i valorar els reptes i desafiaments als quals s'enfronta l'economia",
+            "description": "identificar i valorar els reptes i desafiaments als quals s'enfronta l'economia actual analitzant l'impacte de la globalització econòmica, la nova economia i la revolució digital, per proposar iniciatives que fomentin l'equitat, la justícia i la sost…",
+            "criterios": [
+                {
+                    "code": "CA5.1",
+                    "description": "Proposar iniciatives que fomentin l'equitat, la justícia i la sostenibilitat a partir de la identificació dels reptes i desafiaments que planteja l'economia actual, tot analitzant, amb sentit crític, l'impacte que provoquen la globalització, la nova economia i la revolució digital en el benestar econòmic i social dels ciutadans. Proposar iniciatives que fomentin l'equitat, la justícia i la sostenibilitat, basant-se en l'anàlisi prèvia i valorant les seves implicacions per a l'economia i la societat. Identificar els reptes i desafiaments que planteja l'economia actual, relacionant-los amb factors com la globalització, la nova economia i la revolució digital. Analitzar amb sentit crític l'impacte de la globalització, la nova economia i la revolució digital en el benestar econòmic i social dels ciutadans."
+                },
+                {
+                    "code": "CA5.2",
+                    "description": "Comprendre els reptes econòmics actuals analitzant, de manera crítica i constructiva, l'entorn, identificant aquells elements que condicionen i transformen l'economia i fomentant iniciatives que responguin a les necessitats que plantegen aquests reptes. Analitzar de manera crítica i constructiva l'entorn econòmic actual per comprendre els reptes que s'hi plantegen. Identificar els elements que condicionen i transformen l'economia a partir de l'anàlisi realitzada. Proposar iniciatives que responguin a les necessitats derivades dels reptes econòmics identificats, tot promovent solucions adequades i efectives."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Analitzar els problemes economics actuals mitjancant l'estudi de casos, la",
+            "description": "analitzar els problemes economics actuals mitjancant l'estudi de casos, la recerca i l'experimentació, amb eines de l'anàlisi econòmica i tenint en compte els factors que condicionen les decisions dels agents econòmics, per facilitar la comprensió d'…",
+            "criterios": [
+                {
+                    "code": "CA6.1",
+                    "description": "Plantejar solucions socioeconòmiques que responguin a necessitats individuals i col·lectives investigant i explorant la realitat econòmica, tenint en compte diversos factors i aplicant les eines pròpies de l'àmbit de l'economia. Investigar i explorar la realitat econòmica per identificar necessitats individuals i col·lectives que requereixen solucions socioeconòmiques. Analitzar els diversos factors que influeixen en aquestes necessitats i en les possibles solucions. Utilitzar procediments de recerca i tècniques d'anàlisi econòmica per analitzar i resoldre els problemes plantejats. Proposar solucions socioeconòmiques que responguin de manera efectiva a les necessitats individuals i col·lectives identificades."
+                }
+            ]
+        }
+    ]
+}

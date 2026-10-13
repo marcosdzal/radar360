@@ -1,0 +1,94 @@
+{
+    "community": "madrid",
+    "stage": "primaria",
+    "decree": "Decreto 61/2022, de 13 de julio",
+    "subject": "ciencias_sociales",
+    "subject_name": "Ciencias Sociales",
+    "grade": 5,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Identificar las características de los diferentes elementos",
+            "description": "Identificar las características de los diferentes elementos o sistemas del medio analizando su organización y propiedades y estableciendo relaciones entre los mismos, para reconocer el valor del patrimonio cultural y natural, conservarlo y mejorarlo.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Identificar y analizar las características, la organización y las propiedades de los elementos del medio a través de la indagación utilizando las herramientas y procesos adecuados."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Establecer conexiones sencillas entre diferentes elementos del medio mostrando comprensión de las relaciones que se establecen."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Valorar, proteger y mostrar actitudes de conservación y mejora del patrimonio natural y cultural a través de propuestas y acciones que reflejen compromisos y conductas de mejora."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Identificar las causas y consecuencias de la intervención",
+            "description": "Identificar las causas y consecuencias de la intervención humana en el entorno, desde los puntos de vista social, económico, cultural, tecnológico y ambiental, para mejorar la capacidad de afrontar problemas, buscar soluciones y actuar en su resolución fomentando el respeto, el cuidado y la protección de las personas y del planeta.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Promover estilos de vida adecuados y consecuentes con el respeto, los cuidados y la protección de las personas y del planeta, a partir del análisis de la intervención humana en el entorno."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Participar en la búsqueda, contraste y evaluación de propuestas para afrontar problemas sociales y medioambientales, buscar soluciones y actuar para su resolución, a partir del análisis de las causas y consecuencias de la intervención humana en el entorno."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Observar, comprender e interpretar continuidades y cambios",
+            "description": "Observar, comprender e interpretar continuidades y cambios del medio, analizando relaciones de causalidad, simultaneidad y sucesión, para explicar y valorar las relaciones entre diferentes elementos y acontecimientos.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Analizar relaciones de causalidad, simultaneidad y sucesión entre diferentes elementos del medio desde la Edad Media hasta la actualidad, situando cronológicamente los hechos."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Conocer personas, grupos sociales relevantes y formas de vida de las sociedades desde la Edad Media hasta la actualidad, con referentes de igualdad entre hombres y mujeres a lo largo de la historia, situándolas cronológicamente e identificando rasgos significativos sociales en distintas épocas de la historia."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Reconocer y valorar la pluralidad mostrando empatía y",
+            "description": "Reconocer y valorar la pluralidad mostrando empatía y respeto por otras culturas para contribuir a la mejora de una sociedad en continua transformación y al logro de los valores de integración europea.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Analizar los procesos geográficos, históricos y culturales que han conformado la sociedad actual, valorando la unión social y la libertad, mostrando empatía y respeto por otras culturas y manteniendo referentes de la igualdad."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Promover actitudes de igualdad y conductas no discriminatorias, apoyadas en la libertad, analizando y contrastando diferentes modelos en nuestra sociedad."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Participar en el entorno y la vida social de forma eficaz y",
+            "description": "Participar en el entorno y la vida social de forma eficaz y constructiva desde el respeto a los valores democráticos, los derechos humanos y de la infancia y los principios y valores de la Constitución española y la Unión Europea, valorando la función del Estado y sus instituciones en el mantenimiento de la paz y la seguridad ciudadana.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Resolver de forma pacífica los conflictos, promoviendo una interacción respetuosa, explicando y ejercitando las principales normas, derechos, deberes y libertades que forman parte de la Constitución española y de la de Unión Europea, y conociendo la función que el Estado y sus instituciones desempeñan en el mantenimiento de la paz, la seguridad ciudadana y el reconocimiento de las víctimas de violencia."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Explicar el funcionamiento general de los órganos de gobierno del municipio, de las comunidades autónomas, del Estado español y de la Unión Europea, valorando sus funciones y la gestión de los servicios públicos para la ciudadanía."
+                }
+            ]
+        }
+    ]
+}

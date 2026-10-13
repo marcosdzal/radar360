@@ -1,0 +1,228 @@
+{
+    "community": "castilla-y-leon",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "lengua_castellana",
+    "subject_name": "Lengua Castellana y Literatura I",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Explicar y apreciar la diversidad lingüística del mundo a partir del",
+            "description": "Explicar y apreciar la diversidad lingüística del mundo a partir del conocimiento de la realidad plurilingüe y pluricultural de España y la riqueza dialectal del español, así como de la reflexión sobre los fenómenos del contacto entre lenguas, para f…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Valorar la diversidad lingüística de España comparando lenguas y dialectos."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Refutar prejuicios lingüísticos mediante la reflexión sobre el contacto entre lenguas y la investigación de derechos lingüísticos."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Conocer e identificar las distintas variedades del español (espaciales, sociales y de registro) valorando la pluralidad como elemento de riqueza cultural. (CCL2, CP2, CP3, CD1, CD3, CPSAA5, CC2, CE3, CCEC1)"
+                },
+                {
+                    "code": "1.4",
+                    "description": "Propiciar la reflexión interlingüística, refutando los estereotipos y prejuicios en la lengua y sus usos. (CCL1, CCL2, CCL5, CP2, CP3, CD1, CD3, CPSAA1.1, CPSAA5, CC1, CC2, CE3, CCEC1)"
+                },
+                {
+                    "code": "1.5",
+                    "description": "Identificar, cuestionar y refutar prejuicios y estereotipos lingüísticos, adoptando una actitud de respeto y valoración de la riqueza cultural y lingüística, a partir de la exploración y reflexión en torno a los fenómenos del contacto entre lenguas, con especial atención al papel de las redes sociales y los medios de comunicación, y de la investigación sobre los derechos lingüísticos y diversos modelos de convivencia entre lenguas. (CCL1, CCL2, CCL5, CP2, CP3, CD1, CD3, CPSAA1.1, CPSAA5, CC1, CC2, CE3, CCEC1)"
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Comprender e interpretar textos orales y multimodales, con especial atención a",
+            "description": "Comprender e interpretar textos orales y multimodales, con especial atención a los textos académicos y de los medios de comunicación, recogiendo el sentido general y la información más relevante, identificando el punto de vista y la intención del emi…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Identificar estructura, información relevante e intención del emisor en textos orales y multimodales complejos, analizando la interacción de códigos."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Evaluar la calidad y fiabilidad de textos orales y multimodales complejos, analizando forma, contenido y eficacia comunicativa."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Valorar la forma y el contenido de textos orales y multimodales relativamente complejos, evaluando su calidad, fiabilidad e idoneidad del canal utilizado, así como la eficacia de los procedimientos comunicativos empleados. (CCL1, CCL2, CCL3, CCL5, STEM1, STEM4, CD2, CD3, CPSAA4, CPSAA5, CC3, CCEC1)"
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Producir textos orales y multimodales, con atención preferente a textos de",
+            "description": "Producir textos orales y multimodales, con atención preferente a textos de carácter académico, con rigor, fluidez, coherencia, cohesión y el registro adecuado, atendiendo a las convenciones propias de los diferentes géneros discursivos, y participar …",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Producir exposiciones y argumentaciones orales formales sobre temas académicos y sociales con rigor, fluidez y coherencia."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Participar activamente en interacciones orales formales e informales, mostrando escucha activa, cooperación y cortesía lingüística en trabajos en equipo."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Planificar y ejecutar exposiciones orales relacionadas con temas de actualidad, utilizando distintos medios y soportes, mostrando las diversas opiniones que se sostienen y evaluando y respetando otros argumentos. (CCL1, CCL2, CCL3, CCL5, STEM1, STEM3, CD2, CD3, CC2, CC3, CCEC3.1)"
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Comprender, interpretar y valorar, textos escritos con sentido crítico y",
+            "description": "Comprender, interpretar y valorar, textos escritos con sentido crítico y diferentes propósitos de lectura con especial atención a textos académicos y de los medios de comunicación, reconociendo el sentido global y las ideas principales y secundarias,…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Analizar textos especializados (académicos y mediáticos) extrayendo sentido global, estructura, información relevante e intención del emisor mediante inferencias."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Evaluar críticamente la calidad, fiabilidad y eficacia comunicativa de textos complejos, considerando forma, contenido y canal."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Valorar la forma y el contenido de textos escritos complejos evaluando su calidad, la fiabilidad e idoneidad del canal utilizado, así como la eficacia de los procedimientos comunicativos empleados. (CCL2, CCL3, CP2, STEM1, STEM3, STEM4, CD1, CD3, CPSAA4, CPSAA5, CC3, CCEC1)"
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Producir textos escritos y multimodales coherentes, cohesionados, adecuados y",
+            "description": "Producir textos escritos y multimodales coherentes, cohesionados, adecuados y correctos, con especial atención a los géneros discursivos del ámbito académico, para construir conocimiento y dar respuesta de manera informada, eficaz y creativa a demand…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Elaborar textos académicos con planificación, redacción y revisión individual o grupal, asegurando coherencia, cohesión y registro adecuado."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Aplicar procedimientos discursivos, lingüísticos y estilísticos para enriquecer textos escritos con precisión y corrección."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Realizar trabajos escritos relacionados con temas de actualidad, utilizando distintos medios y soportes, mostrando diversas opiniones y evaluando y respetando otros argumentos. (CCL1, CCL2, CCL3, CCL5, CP2, STEM1, CD3, CPSAA5, CC2, CCEC1)"
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Seleccionar y contrastar información procedente de diferentes fuentes",
+            "description": "Seleccionar y contrastar información procedente de diferentes fuentes, evaluando su fiabilidad y pertinencia en función de los objetivos de lectura y evitando los riesgos de manipulación y desinformación, e integrarla y transformarla en conocimiento …",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Elaborar trabajos de investigación autónoma seleccionando y contrastando fuentes, evaluando su fiabilidad y comunicando con creatividad y respeto a la propiedad intelectual."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Evalúa la veracidad de noticias digitales mediante contraste crítico y herramientas de verificación."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Valorar informaciones de diversos tipos y opiniones diferentes, en diversos soportes, con autonomía y sentido crítico. ("
+                },
+                {
+                    "code": "6.4",
+                    "description": "Aplicar de manera reflexiva estrategias de autocorrección y autoevaluación fomentando la autorreflexión para progresar en el aprendizaje autónomo. (CCL1, CCL2, CCL3, CP2, CD2, CC3)"
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Seleccionar y leer de manera autónoma obras relevantes de la literatura",
+            "description": "Seleccionar y leer de manera autónoma obras relevantes de la literatura contemporánea como fuente de placer y conocimiento, configurando un itinerario lector que se enriquezca progresivamente en cuanto a diversidad, complejidad y calidad de las obras…",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Explica con argumentos la selección de lecturas, el acceso a la cultura literaria y la experiencia lectora."
+                },
+                {
+                    "code": "7.2",
+                    "description": "El alumnado comunica su experiencia lectora usando metalenguaje y vinculando la obra con otras creaciones."
+                },
+                {
+                    "code": "7.3",
+                    "description": "Realizar trabajos críticos en diferentes soportes sobre la lectura de obras literarias buscando la expresión de diferentes contextos históricos y culturales y como forma de enriquecimiento y disfrute personales. (CCL1, CCL2, CCL4, CP2, CD2, CD3, CPSAA1.1, CPSAA3.2, CCEC2, CCEC3.1)"
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Leer, interpretar y valorar obras relevantes de la literatura española e",
+            "description": "Leer, interpretar y valorar obras relevantes de la literatura española e hispanoamericana, utilizando un metalenguaje específico y movilizando la experiencia biográfica y los conocimientos literarios y culturales para establecer vínculos entre textos…",
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Explicar y argumentar la interpretación de obras literarias mediante análisis interno y externo usando metalenguaje y juicios estéticos."
+                },
+                {
+                    "code": "8.2",
+                    "description": "El alumnado produce un proyecto de investigación que relaciona clásicos con otras manifestaciones artísticas y expresa su respuesta personal."
+                },
+                {
+                    "code": "8.3",
+                    "description": "Crear textos literarios propios aplicando conscientemente convenciones de género y estilo a partir de lecturas modelo."
+                },
+                {
+                    "code": "8.4",
+                    "description": "Conocer las características generales de la literatura española desde su origen hasta el Romanticismo, así como los autores y obras relevantes, valorando la aportación de los autores de Castilla y León y utilizando fuentes bibliográficas en distintos soportes para su estudio, así como la técnica del comentario de texto literario. (CCL2, CCL4, CD3, CC1, CCEC1, CCEC2, CCEC4.2)"
+                },
+                {
+                    "code": "8.5",
+                    "description": "Utilizar la literatura como forma de adquisición de nuevos conocimientos y como fuente de reflexión, de enriquecimiento personal y de placer, valorando lo que el texto literario tiene de representación e interpretación del mundo. (CCL2, CCL4, CP2, CD3, CC1, CCEC1, CCEC3.1, CCEC3.2, CCEC4.2)"
+                }
+            ]
+        },
+        {
+            "code": "CE9",
+            "name": "Consolidar y profundizar en el conocimiento explícito y sistemático sobre la",
+            "description": "Consolidar y profundizar en el conocimiento explícito y sistemático sobre la estructura de la lengua y sus usos, y reflexionar de manera autónoma sobre las elecciones lingüísticas y discursivas, con la terminología adecuada, para desarrollar la conci…",
+            "criterios": [
+                {
+                    "code": "9.1",
+                    "description": "Revisar textos propios argumentando los cambios con metalenguaje y corregir problemas de comprensión lectora."
+                },
+                {
+                    "code": "9.2",
+                    "description": "Explicar y argumentar cómo el propósito del emisor condiciona sus elecciones lingüísticas y cómo afectan al receptor, usando metalenguaje."
+                },
+                {
+                    "code": "9.3",
+                    "description": "Investiga aspectos del funcionamiento de la lengua, formula hipótesis, generaliza y presenta resultados usando terminología lingüística."
+                },
+                {
+                    "code": "9.4",
+                    "description": "Conocer y analizar los principios fundamentales de la gramática española, identificando las diferentes unidades de la lengua, sus combinaciones sintácticas en oraciones simples y compuestas y, en su caso, la relación entre ellas y su significado. (CCL2, STEM1, STEM2, CD3)"
+                },
+                {
+                    "code": "9.5",
+                    "description": "Aplicar las normas gramaticales, ortográficas y tipográficas actuales valorando y fomentando su importancia social. (CCL1, CCL2, CCL3, CP2, STEM1, CD3, CD4, CC1, CCEC1)"
+                }
+            ]
+        },
+        {
+            "code": "CE0",
+            "name": "Poner las prácticas comunicativas al servicio de la convivencia democrática, la",
+            "description": "Poner las prácticas comunicativas al servicio de la convivencia democrática, la resolución dialogada de los conflictos y la igualdad de derechos de todas las personas, utilizando un lenguaje no discriminatorio y desterrando los abusos de poder a trav…",
+            "criterios": [
+                {
+                    "code": "10.1",
+                    "description": "Analizar y eliminar usos discriminatorios y manipuladores del lenguaje mediante el análisis crítico de elementos lingüísticos y discursivos."
+                },
+                {
+                    "code": "10.2",
+                    "description": "Aplicar estrategias para resolver conflictos y buscar consensos mediante el diálogo en distintos ámbitos."
+                },
+                {
+                    "code": "10.3",
+                    "description": "Analizar los diferentes usos sociales de las lenguas, evitando los estereotipos lingüísticos que suponen juicios de valor y prejuicios. (CCL5, CP3, CD2, CD3, CPSAA3.1, CPSAA3.2, CC2, CC3, CE1, CCEC3.1)"
+                }
+            ]
+        }
+    ]
+}

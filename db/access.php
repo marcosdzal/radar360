@@ -27,14 +27,26 @@ defined('MOODLE_INTERNAL') || die();
 $capabilities = [
 
     // Allows uploading, viewing and deleting sentinel student photos.
-    // Granted to editing teachers and managers; explicitly denied to students.
     'local/sentinel:managephotos' => [
         'captype'      => 'write',
         'contextlevel' => CONTEXT_SYSTEM,
         'archetypes'   => [
             'manager'        => CAP_ALLOW,
             'editingteacher' => CAP_ALLOW,
-            'teacher'        => CAP_PREVENT,
+            'teacher'        => CAP_ALLOW,
+            'student'        => CAP_PREVENT,
+            'guest'          => CAP_PREVENT,
+        ],
+    ],
+
+    // Allows creating and managing communication periods for families.
+    'local/sentinel:communicate' => [
+        'captype'      => 'write',
+        'contextlevel' => CONTEXT_COURSE,
+        'archetypes'   => [
+            'manager'        => CAP_ALLOW,
+            'editingteacher' => CAP_ALLOW,
+            'teacher'        => CAP_ALLOW,
             'student'        => CAP_PREVENT,
             'guest'          => CAP_PREVENT,
         ],
@@ -57,7 +69,7 @@ $capabilities = [
     // Allows mapping rubric criteria to LOMLOE descriptors.
     'local/sentinel:managedescriptors' => [
         'captype'      => 'write',
-        'contextlevel' => CONTEXT_SYSTEM,
+        'contextlevel' => CONTEXT_COURSE,
         'archetypes'   => [
             'manager'        => CAP_ALLOW,
             'editingteacher' => CAP_ALLOW,

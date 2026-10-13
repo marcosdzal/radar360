@@ -1,0 +1,161 @@
+{
+    "community": "galicia",
+    "stage": "bachillerato",
+    "decree": "Decreto 157\/2022, de 15 de septiembre",
+    "subject": "matematicas_ccss",
+    "subject_name": "Matemáticas Aplicadas a las Ciencias Sociales II",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Modelizar y resolver problemas de la vida cotidiana y de las ciencias sociales",
+            "description": "Modelizar y resolver problemas de la vida cotidiana y de las ciencias sociales aplicando diferentes estrategias y formas de razonamiento para obtener posibles soluciones.",
+            "criterios": [
+                {
+                    "code": "CE2.3",
+                    "description": "Obtener todas las posibles soluciones matemáticas de problemas de la vida cotidiana y de las ciencias sociales, describiendo el procedimiento realizado."
+                },
+                {
+                    "code": "CE3.3",
+                    "description": "Obtener todas las posibles soluciones matemáticas de problemas de la vida cotidiana y de las ciencias sociales, describiendo el procedimiento realizado."
+                },
+                {
+                    "code": "CE4.3",
+                    "description": "Emplear diferentes estrategias y herramientas, incluidas las digitales, que resuelvan problemas de la vida cotidiana y de las ciencias sociales, seleccionando la más adecuada según su eficiencia."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Verificar la validez de las posibles soluciones de un problema empleando el",
+            "description": "Verificar la validez de las posibles soluciones de un problema empleando el razonamiento y la argumentación para contrastar su idoneidad.",
+            "criterios": [
+                {
+                    "code": "CE2.4",
+                    "description": "Seleccionar la solución más adecuada de un problema en función del contexto (de sostenibilidad, de consumo responsable, de equidad...) usando el razonamiento y la argumentación."
+                },
+                {
+                    "code": "CE3.4",
+                    "description": "Demostrar la validez matemática de las posibles soluciones de un problema utilizando el razonamiento y la argumentación."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Formular o investigar conjeturas o problemas, utilizando el razonamiento, la",
+            "description": "Formular o investigar conjeturas o problemas, utilizando el razonamiento, la argumentación, la creatividad y el uso de herramientas tecnológicas, para generar nuevo conocimiento matemático.",
+            "criterios": [
+                {
+                    "code": "CE1.1",
+                    "description": "Adquirir nuevo conocimiento matemático mediante el planteamiento, razonamiento y justificación de conjeturas y problemas de forma autónoma."
+                },
+                {
+                    "code": "CE2.2",
+                    "description": "Adquirir nuevo conocimiento matemático mediante el planteamiento, razonamiento y justificación de conjeturas y problemas de forma autónoma."
+                },
+                {
+                    "code": "CE3.2",
+                    "description": "Integrar el uso de herramientas tecnológicas en el planteamiento o investigación de conjeturas y problemas."
+                },
+                {
+                    "code": "CE4.1",
+                    "description": "Adquirir nuevo conocimiento matemático mediante el planteamiento, razonamiento y justificación de conjeturas y problemas de forma autónoma."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Utilizar el pensamiento computacional de forma eficaz, modificando, creando y",
+            "description": "Utilizar el pensamiento computacional de forma eficaz, modificando, creando y generalizando algoritmos que resuelvan problemas mediante el uso de las matemáticas, para modelizar y resolver situaciones de la vida cotidiana y del ámbito de las ciencias…",
+            "criterios": [
+                {
+                    "code": "CE3.5",
+                    "description": "Interpretar, modelizar y resolver situaciones problematizadas de la vida cotidiana y de las ciencias sociales, utilizando el pensamiento computacional, modificando, creando y generalizando algoritmos."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Establecer, investigar y utilizar conexiones entre las diferentes ideas",
+            "description": "Establecer, investigar y utilizar conexiones entre las diferentes ideas matemáticas estableciendo vínculos entre conceptos, procedimientos, argumentos y modelos para dar significado y estructurar el aprendizaje matemático. Establecer conexiones entre…",
+            "criterios": [
+                {
+                    "code": "CE1.2",
+                    "description": "Manifestar una visión matemática integrada, investigando y conectando las diferentes ideas matemáticas."
+                },
+                {
+                    "code": "CE2.1",
+                    "description": "Manifestar una visión matemática integrada, investigando y conectando las diferentes ideas matemáticas."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Descubrir los vínculos de las matemáticas con otras áreas de conocimiento y profundizar en sus conexiones",
+            "description": "Descubrir los vínculos de las matemáticas con otras áreas de conocimiento y profundizar en sus conexiones, interrelacionando conceptos y procedimientos, para modelizar, resolver problemas y desarrollar la capacidad crítica, creativa e innovadora en s…",
+            "criterios": [
+                {
+                    "code": "CE1.3",
+                    "description": "Resolver problemas en situaciones diversas utilizando procesos matemáticos, reflexionando, estableciendo y aplicando conexiones entre el mundo real, otras áreas de conocimiento y las matemáticas."
+                },
+                {
+                    "code": "CE4.4",
+                    "description": "Resolver problemas en situaciones diversas utilizando procesos matemáticos, reflexionando, estableciendo y aplicando conexiones entre el mundo real, otras áreas de conocimiento y las matemáticas."
+                },
+                {
+                    "code": "CE5.1",
+                    "description": "Analizar la aportación de las matemáticas al progreso de la humanidad, valorando su contribución en la propuesta de soluciones a situaciones complejas y a los retos que se plantean en las ciencias sociales."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Representar conceptos, procedimientos e información matemáticos seleccionando diferentes tecnologías",
+            "description": "Representar conceptos, procedimientos e información matemáticos seleccionando diferentes tecnologías, para visualizar ideas y estructurar razonamientos matemáticos.",
+            "criterios": [
+                {
+                    "code": "CE3.1",
+                    "description": "Seleccionar y utilizar diversas formas de representación valorando su utilidad para compartir información."
+                },
+                {
+                    "code": "CE4.2",
+                    "description": "Representar y visualizar ideas matemáticas estructurando diferentes procesos matemáticos y seleccionando las tecnologías más adecuadas."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Comunicar las ideas matemáticas",
+            "description": "Comunicar las ideas matemáticas, de forma individual y colectiva, empleando el soporte, la terminología y el rigor apropiados, para organizar y consolidar el pensamiento matemático.",
+            "criterios": [
+                {
+                    "code": "CE5.5",
+                    "description": "Mostrar organización al comunicar las ideas matemáticas, empleando el soporte, la terminología y el rigor apropiados."
+                },
+                {
+                    "code": "CE5.6",
+                    "description": "Reconocer y emplear el lenguaje matemático en diferentes contextos, comunicando la información con precisión y rigor."
+                }
+            ]
+        },
+        {
+            "code": "CE9",
+            "name": "3 5 2-3 2 3.1-3.2 Líneas de actuación en el proceso de enseñanza y aprendizaje",
+            "description": "3 5 2-3 2 3.1-3.2 Líneas de actuación en el proceso de enseñanza y aprendizaje – La potenciación del razonamiento, argumentación, investigación y comunicación, más que los procedimientos repetitivos. – La interpretación, análisis y modelización de si…",
+            "criterios": [
+                {
+                    "code": "CE5.2",
+                    "description": "Afrontar las situaciones de incertidumbre y tomar decisiones evaluando distintas opciones, identificando y gestionando emociones, y aceptando y aprendiendo del error como parte del proceso de aprendizaje de las matemáticas."
+                },
+                {
+                    "code": "CE5.3",
+                    "description": "Mostrar perseverancia y una motivación positiva, aceptando y aprendiendo de la crítica razonada al hacer frente a las diferentes situaciones de aprendizaje de las matemáticas."
+                },
+                {
+                    "code": "CE5.4",
+                    "description": "Trabajar en tareas matemáticas de forma activa en equipos heterogéneos, respetando las emociones y experiencias de los demás, escuchando su razonamiento, aplicando las habilidades sociales más propicias y fomentando el bienestar del equipo y las relaciones saludables."
+                }
+            ]
+        }
+    ]
+}

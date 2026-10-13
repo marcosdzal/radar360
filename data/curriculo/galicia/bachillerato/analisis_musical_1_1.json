@@ -1,0 +1,90 @@
+{
+    "community": "galicia",
+    "stage": "bachillerato",
+    "decree": "Decreto 157\/2022, de 15 de septiembre",
+    "subject": "analisis_musical_1",
+    "subject_name": "Análisis Musical I",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Analizar los elementos musicales de diferentes obras, utilizando la escucha activa y el estudio de partituras",
+            "description": "Analizar los elementos musicales de diferentes obras, utilizando la escucha activa y el estudio de partituras, para describir sus características y establecer comparaciones. - La identificación, a través del análisis y a partir de la escucha activa o…",
+            "criterios": [
+                {
+                    "code": "CE1.1",
+                    "description": "Identificar los elementos que constituyen una obra musical y su función dentro de la composición a través de la escucha activa y con apoyo de la partitura."
+                },
+                {
+                    "code": "CE1.2",
+                    "description": "Describir las características musicales básicas de una obra a partir de la escucha activa y el estudio de partituras, analizando sus elementos constitutivos."
+                },
+                {
+                    "code": "CE1.3",
+                    "description": "Analizar, de forma guiada, obras musicales, identificando la estructura formal y los procedimientos compositivos utilizados."
+                },
+                {
+                    "code": "CE1.4",
+                    "description": "Asociar las obras analizadas con su contexto de creación, investigando sobre su autor o autora y su época."
+                },
+                {
+                    "code": "CE1.5",
+                    "description": "Expresar una opinión propia, informada y fundamentada, sobre las obras analizadas, utilizando un vocabulario musical adecuado."
+                },
+                {
+                    "code": "CE1.6",
+                    "description": "Utilizar, de forma guiada, las tecnologías digitales en la composición musical."
+                },
+                {
+                    "code": "CE2.1",
+                    "description": "Identificar los elementos que constituyen una obra musical y su función dentro de la composición a través de la escucha activa y con apoyo de la partitura."
+                },
+                {
+                    "code": "CE2.2",
+                    "description": "Describir las características musicales básicas de una obra a partir de la escucha activa y el estudio de partituras, analizando sus elementos constitutivos."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Establecer relaciones entre los elementos musicales de una composición, a",
+            "description": "Establecer relaciones entre los elementos musicales de una composición, a través del análisis de su estructura y de los procedimientos compositivos utilizados, para asociar la obra con un género, un estilo y un contexto de creación. - En el discurso …",
+            "criterios": [
+                {
+                    "code": "CE2.3",
+                    "description": "Analizar, de forma guiada, obras musicales, identificando la estructura formal y los procedimientos compositivos utilizados."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Utilizar los procedimientos compositivos fundamentales y las tecnologías",
+            "description": "Utilizar los procedimientos compositivos fundamentales y las tecnologías digitales, empleando los elementos y las estructuras musicales más adecuadas, para crear obras sencillas y realizar improvisaciones. - Comprender la música a través de su visión…",
+            "criterios": [
+                {
+                    "code": "CE2.4",
+                    "description": "Reproducir patrones melódicos, rítmicos, armónicos y formales de obras analizadas, aplicando estrategias de memorización y utilizando la interpretación vocal, corporal o instrumental en proyectos musicales grupales."
+                },
+                {
+                    "code": "CE2.5",
+                    "description": "Generar nuevas ideas musicales, combinando patrones melódicos, rítmicos, armónicos y formales previamente analizados e interiorizados."
+                },
+                {
+                    "code": "CE2.6",
+                    "description": "Utilizar, de forma guiada, las tecnologías digitales en la composición musical."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Investigar sobre los usos de la música con fines terapéuticos y en combinación",
+            "description": "Investigar sobre los usos de la música con fines terapéuticos y en combinación con otras formas de expresión artística, utilizando diferentes fuentes de información y analizando las características musicales de las obras, para entender de qué forma i…",
+            "criterios": [
+                {
+                    "code": "CE2.7",
+                    "description": "Identificar las funciones que cumple la música cuando se asocia con otras formas de expresión (cine, teatro, danza…), analizando sus características y el efecto que genera en el espectador."
+                }
+            ]
+        }
+    ]
+}

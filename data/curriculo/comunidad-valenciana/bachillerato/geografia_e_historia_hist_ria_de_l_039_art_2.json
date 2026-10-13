@@ -1,0 +1,171 @@
+{
+    "community": "comunidad-valenciana",
+    "stage": "bachillerato",
+    "decree": "Decreto 108\/2022, de 5 de agosto",
+    "subject": "geografia_e_historia_hist_ria_de_l_039_art",
+    "subject_name": "Història de l&#039;Art",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Elaborar una definició de l’obra d’art tenint en compte les aportacions",
+            "description": "Elaborar una definició de l’obra d’art tenint en compte les aportacions realitzades per la historiografia artística",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Reunir informació sobre els canvis produïts en la concepció de l art en diferents moments històrics i en diverses cultures."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Comparar les diferents concepcions que sobre l obra d art ha aportat la historiografia artística."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Debatre sobre el concepte d art utilitzant les aportacions més importants realitzades per la historiografia artística i incloent-hi una reflexió pròpia."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Elaborar una definició de l obra d art que incloga la informació extreta de fonts historiogràfiques, la reflexió realitzada sobre aquesta i les conclusions a les quals s haja arribat després del procés de debat."
+                },
+                {
+                    "code": "1.5",
+                    "description": "Valorar i respectar la diversitat de manifestacions artístiques tant del passat com del present. 5.2."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Identificar les diferents funcions que l’obra d’art ha exercit al llarg del",
+            "description": "Identificar les diferents funcions que l’obra d’art ha exercit al llarg del temps, descriure-les i comparar-les realitzant apreciacions personals",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Identificar en l obra d art un mitjà de comunicació i de gaudi estètic inherent a la condició humana."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Analitzar una obra d art significativa identificant i explicant la funció per a la qual va ser creada."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Relacionar la funció de les obres d art tant amb les circumstàncies dominants de l època en les quals van ser creades com amb la mà creadora que els va donar la forma."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Assenyalar els diferents papers que en l actualitat pot tindre l obra d art, ressaltar la diversitat de funcions que exerceix i detectar les polèmiques en les quals pot veure s immersa. 5.3."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Identificar, caracteritzar i comparar els principals estils artístics que s’han",
+            "description": "Identificar, caracteritzar i comparar els principals estils artístics que s’han succeït al llarg de la història, i utilitzar-los per a classificar les obres d’art més representatives a diferents escales",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Identificar i descriure els estils més importants de la Història de l Art."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Situar obres d art tant locals com globals en els estils artístics que les van crear i assenyalar-ne els trets estilístics més importants."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Detectar algunes personalitats creadores que van ser capaces d eixir-se'n de l esquema estilístic dominant de l'època i valorar l avanç que va suposar l'obra d'aquestes personalitats."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Manifestar interés i respecte per la diversitat artística de les societats humanes 5.4."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Explicar l’obra d’art, interpretant correctament el llenguatge artístic i les",
+            "description": "Explicar l’obra d’art, interpretant correctament el llenguatge artístic i les característiques estilístiques, identificant els missatges que transmet i incloent en les explicacions els conceptes fonamentals, termes i vocabulari propis de la matèria",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Localitzar els elements formals, tècnics, simbòlics i estilístics que formen part del llenguatge artístic implícit en una obra d art."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Aplicar un mètode de comentari artístic que permeta interpretar l obra d art i identificar tant els elements intrínsecs materials, formes i símbols com els extrínsecs mà creadora, clientela i condicions economicosocials."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Elaborar explicacions d obres d art basades en el mètode de comentari artístic establit, utilitzant la terminologia i el vocabulari específic de la matèria i diversos formats tant orals com escrits."
+                },
+                {
+                    "code": "4.4",
+                    "description": "Expressar sentiments propis davant les creacions artístiques, respectant la diversitat de percepcions davant l obra d art i superant estereotips i prejudicis. 5.5."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Identificar i explicar l’obra de dones creadores dins de la història de l’art,",
+            "description": "Identificar i explicar l’obra de dones creadores dins de la història de l’art, i visibilitzar-ne les aportacions més importants",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Identificar les obres de dones artistes al llarg de la història de l art."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Realitzar biografies de dones artistes per a ser exposades a través d escrits o produccions digitals que incloguen les aportacions i obres més importants."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Analitzar críticament la imatge que s ha donat de la dona en la història de l art mitjançant l anàlisi comparativa d obres de diferents èpoques en les quals estiga representada la figura femenina."
+                },
+                {
+                    "code": "5.4",
+                    "description": "Mostrar una actitud compatible amb la defensa de la igualtat entre homes i dones a l hora de treballar amb obres d art. 5.6."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Analitzar el patrimoni artístic i ressaltar la capacitat d’aquest per a",
+            "description": "Analitzar el patrimoni artístic i ressaltar la capacitat d’aquest per a conformar identitats individuals i col·lectives, valorar la seua aportació a la cultura i reconéixer el paper d’aquest com a element dinamitzador de l’economia",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Identificar i analitzar la presència de l art en la vida quotidiana, assenyalar els vincles amb la realitat social i valorar-ne la utilització com a objecte de consum"
+                },
+                {
+                    "code": "6.2",
+                    "description": "Definir les categories de protecció dels elements artístics més importants que estableix la legislació."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Valorar el patrimoni artístic en l'àmbit local i global, identificar les característiques principals i participar de manera activa en la conservació del més pròxim. 5.7."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Utilitzar recursos variats per a extraure informació i elaborar produccions",
+            "description": "Utilitzar recursos variats per a extraure informació i elaborar produccions personals utilitzant eines TIC en les quals s’incloga l’obra d’art como objecte d’estudi",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Utilitzar fonts d informació cinematogràfiques, literàries, textuals historiogràfiques i històriques tant en format digital com tradicional per a planificar els treballs de recerca."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Buscar, seleccionar i contrastar la informació necessària procedent de diferents fonts per a poder portar a terme xicotetes investigacions al voltant del fenomen artístic."
+                },
+                {
+                    "code": "7.3",
+                    "description": "Elaborar produccions pròpies tant en format tradicional com en format digital, que expliquen el fenomen artístic, utilitzant la informació seleccionada i mostrant un domini adequat dels conceptes artístics."
+                },
+                {
+                    "code": "7.4",
+                    "description": "Compartir continguts digitals utilitzant eines en línia."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "community": "madrid",
+    "stage": "bachillerato",
+    "decree": "Decreto 64\/2022, de 20 de julio",
+    "subject": "dibujo_tecnico_2",
+    "subject_name": "Dibujo Técnico II",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Interpretar elementos o conjuntos arquitectónicos y de ingeniería, empleando",
+            "description": "Interpretar elementos o conjuntos arquitectónicos y de ingeniería, empleando recursos asociados a la percepción, estudio, construcción e investigación de formas para analizar las estructuras geométricas y los elementos técnicos utilizados.",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar cómo la tecnología y las herramientas digitales han transformado el diseño de estructuras geométricas en la arquitectura e ingeniería contemporáneas."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Analizar la aplicación de las estructuras geométricas y elementos técnicos en la arquitectura e ingeniería contemporáneas para la resolución de problemas técnicos, valorando su aportación estética, contribuyendo a su disfrute y conservación."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Utilizar razonamientos inductivos, deductivos y lógicos en problemas de índole gráficomatemáticos",
+            "description": "Utilizar razonamientos inductivos, deductivos y lógicos en problemas de índole gráficomatemáticos, aplicando fundamentos de la geometría plana para resolver gráficamente operaciones matemáticas, relaciones, construcciones y transformaciones. .",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Aplicar transformaciones geométricas como homología, afinidad e inversión para resolver y construir figuras planas complejas, analizando su aplicación en los sistemas de representación."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Resolver problemas complejos de tangencias entre circunferencias y rectas utilizando los conceptos de eje radical, centro radical y potencia de un punto."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Resolver trazados de elipses, parábolas e hipérbolas y sus rectas tangentes, aplicando sus propiedades métricas y definiciones como lugares geométricos con rigor y precisión técnica."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Resolver tangencias y otros problemas geométrico-matemáticos aplicando los conceptos de potencia de un punto con respecto a la circunferencia con una actitud de rigor en la ejecución."
+                },
+                {
+                    "code": "2.5",
+                    "description": "Conocer las diferentes transformaciones geométricas y su aplicación para la resolución de problemas."
+                },
+                {
+                    "code": "2.6",
+                    "description": "Conocer el origen y trazar curvas cónicas, identificando sus principales elementos y sus rectas tangentes, aplicando propiedades y métodos de construcción, mostrando interés por la precisión."
+                },
+                {
+                    "code": "2.7",
+                    "description": "Conocer el origen de las curvas técnicas y sus aplicaciones. Hélices y curvas cíclicas."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Desarrollar la visión espacial, utilizando la geometría descriptiva en",
+            "description": "Desarrollar la visión espacial, utilizando la geometría descriptiva en proyectos sencillos, considerando la importancia del dibujo en arquitectura e ingenierías para resolver problemas e interpretar y recrear gráficamente la realidad tridimensional s…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Aplicar métodos auxiliares como abatimientos, giros y cambios de plano para resolver problemas métricos y de representación en el sistema diédrico, justificando el procedimiento."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Dibujar poliedros y superficies de revolución en sistema diédrico, aplicando proyecciones para definir su forma y posición espacial con precisión técnica."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Representar objetos tridimensionales complejos mediante sistemas de perspectiva axonométrica y cónica, aplicando coeficientes de reducción y puntos de fuga para obtener imágenes realistas y técnicas."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Aplicar el sistema de planos acotados para resolver y representar problemas técnicos de ingeniería y arquitectura, como cubiertas o configuraciones de terrenos."
+                },
+                {
+                    "code": "3.5",
+                    "description": "Evaluar la calidad técnica de las construcciones geométricas, asegurando que el proceso sea preciso, limpio y siga una metodología lógica y rigurosa."
+                },
+                {
+                    "code": "3.6",
+                    "description": "Desarrollar proyectos gráficos sencillos mediante el sistema de planos acotados."
+                },
+                {
+                    "code": "3.7",
+                    "description": "Valorar el rigor gráfico del proceso; la claridad, la precisión y el proceso de resolución y construcción gráfica."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Formalizar y definir diseños técnicos aplicando las normas UNE e ISO de manera",
+            "description": "Formalizar y definir diseños técnicos aplicando las normas UNE e ISO de manera apropiada, valorando la importancia que tiene el croquis para documentar gráficamente proyectos arquitectónicos y de ingeniería.",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Crear documentación técnica completa mediante croquis y planos normalizados (UNE\/ISO), definiendo con precisión diseños arquitectónicos o industriales para su correcta ejecución."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Representar las vistas necesarias de un objeto tridimensional con la acotación conforme a normas UNE e ISO, valorando la claridad, precisión y limpieza."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Investigar, experimentar y representar digitalmente elementos, planos y",
+            "description": "Investigar, experimentar y representar digitalmente elementos, planos y esquemas técnicos mediante el uso de programas específicos CAD de manera individual o grupal, apreciando su uso en las profesiones actuales, para virtualizar objetos y espacios e…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Utilizar aplicaciones de diseño asistido por ordenador (CAD) para crear representaciones técnicas precisas, aprovechando las funciones de edición digital y el trabajo en red."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "community": "comunidad-valenciana",
+    "stage": "eso",
+    "decree": "Decreto 107\/2022, de 5 de agosto",
+    "subject": "ingles",
+    "subject_name": "Llengua Estrangera",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Multilingüisme i interculturalitat Analitzar i usar els repertoris lingüístics",
+            "description": "Multilingüisme i interculturalitat Analitzar i usar els repertoris lingüístics de diverses llengües, reflexionar sobre el funcionament i prendre consciència dels coneixements propis, així com valorar la diversitat lingüística i cultural a partir de l…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Contrastar les similituds i diferències entre diverses llengües, de manera progressivament autònoma, sobre aspectes bàsics del seu funcionament."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Utilitzar i diferenciar, de manera progressivament autònoma, els coneixements i estratègies que formen el seu repertori lingüístic, amb ajuda d'altres participants i amb suports analògics i digitals."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Diferenciar i valorar, de manera progressivament autònoma, la diversitat lingüística i cultural pròpia de països on es parla la llengua estrangera com a font d'enriquiment personal i mostrar interés per comprendre elements culturals i lingüístics dels àmbits personal, social i educatiu."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Mostrar respecte per les diferències lingüístiques i culturals de la llengua estrangera, identificar prejudicis i estereotips, i reconéixer la pluralitat lingüística com a font de riquesa cultural."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Comprensió oral Interpretar textos orals, breus i senzills, sobre temes",
+            "description": "Comprensió oral Interpretar textos orals, breus i senzills, sobre temes predictibles i no predictibles dels àmbits personal, social, educatiu i professional, utilitzant els coneixements adequats sobre els gèneres textuals i les estratègies de compren…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Escoltar de forma activa i interpretar, de manera progressivament autònoma, textos orals i multimodals breus i senzills, sobre temes predictibles i no predictibles, dels àmbits personal, social, educatiu professional, així com textos literaris adequats al seu nivell."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Analitzar la funció comunicativa, el tema principal, les idees secundàries i detalls rellevants de textos orals i multimodals a partir dels significats explícits i implícits presents en la informació de caràcter lingüístic i extralingüístic, per mitjà d'inferències i els seus coneixements previs."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Inferir el significat de vocabulari i l'ús d'estructures freqüents, així com expressions bàsiques d'ús comú dels àmbits personal, social, educatiu i professional."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Comprensió escrita Interpretar informació explícita i implícita expressada en",
+            "description": "Comprensió escrita Interpretar informació explícita i implícita expressada en textos escrits i multimodals breus i senzills que inclouen estructures i vocabulari d'ús freqüent, sobre temes predictibles i no predictibles d'àmbit personal, social, educ…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Llegir i interpretar, de manera progressivament autònoma, textos escrits i multimodals breus i senzills, sobre temes predictibles i no predictibles dels àmbits personal, social, educatiu i professional, i triar els que s'adeqüen als seus gustos i interessos."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Identificar, de manera progressivament autònoma, la funció comunicativa, el tema principal, les idees secundàries de textos escrits i multimodals, així com els seus significats explícits i implícits de caràcter lingüístic i la seua relació amb la informació de caràcter extralingüístic."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Inferir el significat de vocabulari i l'ús d'estructures freqüents, així com expressions bàsiques d'ús comú dels àmbits personal, social, educatiu i professional en textos escrits i multimodals."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Localitzar, seleccionar i contrastar la informació en mitjans digitals, de manera progressivament autònoma, de diferents textos multimodals dels àmbits, personal, social, educatiu i professional."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Expressió oral Produir textos orals, de manera autònoma i fluida, aplicant",
+            "description": "Expressió oral Produir textos orals, de manera autònoma i fluida, aplicant estratègies de planificació, producció i compensació, per a expressar missatges senzills dels àmbits personal, social, educatiu i professional, per mitjà d'estratègies que per…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Produir diferents tipus de textos orals breus, amb una pronunciació, un ritme i una entonació adequats, de progressivament autònoma, utilitzant un registre informal i formal, així com un repertori d'expressions, lèxic i estructures d'ús freqüent en situacions dels àmbits personal, social, educatiu i professional."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Utilitzar estratègies de planificació, producció, compensació i revisió, com l'ús de paraules o frases senzilles de les diferents llengües del seu repertori lingüístic o l'ús del context verbal i no verbal."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Expressió escrita Produir textos escrits i multimodals comprensibles i",
+            "description": "Expressió escrita Produir textos escrits i multimodals comprensibles i estructurats, de manera autònoma, per a expressar missatges senzills de l'àmbit personal, social, educatiu i professional, aplicant estratègies de planificació, textualització i r…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Produir textos escrits i multimodals breus, coherents i cohesionats, de progressivament autònoma, en analògics i digitals, utilitzant tant el registre formal com l'informal segons la tipologia textual i la situació comunicativa, sobre temes dels àmbits personal, educatiu, social i professional."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Aplicar estratègies de revisió de textos, de manera progressivament autònoma, a partir de models dels textos escrits."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Interacció oral i escrita Interaccionar de manera oral, escrita i multimodal",
+            "description": "Interacció oral i escrita Interaccionar de manera oral, escrita i multimodal per mitjà d'intercanvis senzills d'informació, de manera síncrona i asíncrona, mostrant autonomia i iniciativa, per a respondre a necessitats comunicatives relacionades amb …",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Participar en converses simples, sobre temes predictibles, en contextos analògics i digitals, utilitzant guions com a suport."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Utilitzar la cortesia lingüística, l'etiqueta digital, el llenguatge no verbal i estratègies per a indicar que no s'ha entés el missatge i sol·licitar repetició."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Interaccionar mostrant interés, respecte i empatia cap als interlocutors en contextos pluriculturals, quotidians, informals, com donar i demanar la paraula, cooperar i demanar aclariments."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Mediació oral i escrita Mediar entre interlocutors aplicant estratègies",
+            "description": "Mediació oral i escrita Mediar entre interlocutors aplicant estratègies d'adaptació, simplificació i reformulació del llenguatge per a processar i transmetre informació més elaborada en situacions comunicatives d'àmbit personal, social i professional…",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Mostrar interés per participar en la solució de problemes d'incomprensió i enteniment, sobre assumptes diversos dels àmbits personal, social i educatiu."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Comprendre, comunicar i descriure textos en diferents suports, o explicar conceptes, de manera oral o escrita, combinant el seu repertori lingüístic (L2-L2, L1-L2, L2-L1), que incloguen vocabulari, expressions i estructures freqüents, de manera progressivament autònoma."
+                },
+                {
+                    "code": "7.3",
+                    "description": "Seleccionar i aplicar, de manera progressivament autònoma, estratègies de simplificació i adaptació de la llengua, que faciliten la comprensió i expressió oral i escrita de la informació en diferents llengües (L2-L2, L1-L2, L2-L1), adequades a les situacions comunicatives, amb ajuda puntual de suports analògics o digitals, en funció de les necessitats de cada moment."
+                }
+            ]
+        }
+    ]
+}

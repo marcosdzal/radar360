@@ -1,0 +1,120 @@
+{
+    "community": "extremadura",
+    "stage": "bachillerato",
+    "decree": "Decreto 113\/2022, de 25 de agosto",
+    "subject": "biologia",
+    "subject_name": "Biología",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "I nterpretar y transmitir información y datos a partir de trabajos científicos",
+            "description": "I nterpretar y transmitir información y datos a partir de trabajos científicos o partes de los mismos y argumentar sobre estos utilizando diferentes formatos con precisión, analizando conceptos, procesos, métodos, experimentos o resultados de las cie…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Interpretar y explicar de forma crítica datos biológicos presentados en diversos formatos visuales para comprender procesos celulares, genéticos o metabólicos complejos."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Transmitir información biológica con rigor científico y terminología adecuada, utilizando diversos formatos y respondiendo de forma fundamentada a preguntas sobre procesos o experimentos."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Defender posturas científicas razonadas sobre temas biológicos, analizando pros y contras de diferentes perspectivas con una actitud crítica, dialogante y respetuosa hacia otras opiniones."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "L ocalizar y utilizar fuentes fiables, con el fin de identificar, seleccionar y",
+            "description": "L ocalizar y utilizar fuentes fiables, con el fin de identificar, seleccionar y organizar información, evaluándola críticamente y contrastando su veracidad, resolviendo preguntas planteadas de forma autónoma y creando contenidos relacionados con las …",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Investigar y resolver cuestiones biológicas mediante la búsqueda, análisis crítico y organización de información de fuentes fiables, citando correctamente las referencias utilizadas."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Evaluar la fiabilidad de informaciones biológicas mediante el contraste de fuentes científicas para identificar y refutar bulos, pseudociencias o teorías sin base empírica."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Analizar críticamente resultados de trabajos de investigación o divulgación",
+            "description": "Analizar críticamente resultados de trabajos de investigación o divulgación relacionados con las ciencias biológicas, comprobando si siguen las pautas habituales de la investigación científica, evaluando la fiabilidad de sus conclusiones y señalando …",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Analizar críticamente artículos o investigaciones biológicas, juzgando si las conclusiones son coherentes y válidas basándose en las evidencias y resultados presentados."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Explicar la importancia social de la biología y el papel de las mujeres científicas, analizando cómo el contexto económico y político condiciona la investigación colectiva."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "P lantear y resolver problemas, buscando y utilizando las estrategias",
+            "description": "P lantear y resolver problemas, buscando y utilizando las estrategias adecuadas, analizando críticamente las soluciones y reformulando el procedimiento si fuera necesario, explicando fenómenos relacionados con las ciencias biológicas.",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Resolver problemas biológicos complejos mediante la selección de estrategias adecuadas, justificando razonadamente los procesos y resultados obtenidos a partir de principios científicos."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Evaluar la validez de soluciones a problemas biológicos, ajustando métodos o conclusiones basándose en la coherencia científica y la aparición de nueva información."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Analizar críticamente determinadas acciones relacionadas con la sostenibilidad",
+            "description": "Analizar críticamente determinadas acciones relacionadas con la sostenibilidad y la salud, basándose en los fundamentos de la biología molecular y celular y argumentando acerca de la importancia de adoptar estilos de vida sostenibles y saludables. De…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Justificar la adopción de hábitos saludables y sostenibles mediante la explicación de los procesos moleculares subyacentes y su impacto en el organismo y el medio ambiente."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Relacionar los principios de la biología molecular y celular en la mejora de la salud y del medioambiente y en la búsqueda de soluciones sanitarias y medioambientales."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Analizar la función de los principales bioelementos, biomoléculas y sus",
+            "description": "Analizar la función de los principales bioelementos, biomoléculas y sus estructuras e interacciones bioquímicas, argumentando sobre su importancia en los organismos vivos con el fin de explicar sus características macroscópicas a partir de las molecu…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Relacionar la estructura química de las biomoléculas con sus funciones biológicas y procesos metabólicos esenciales para comprender el funcionamiento celular y orgánico."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Realizar técnicas experimentales de laboratorio para identificar y analizar biomoléculas, utilizando el material específico con rigor y siguiendo los protocolos de seguridad establecidos."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Identificar las diferencias fundamentales entre los distintos tipos de células analizando las estructuras de sus orgánulos y las funciones que realizan."
+                },
+                {
+                    "code": "6.4",
+                    "description": "Aplicar metodologías analíticas en el laboratorio utilizando los materiales adecuados con precisión."
+                },
+                {
+                    "code": "6.5",
+                    "description": "Analizar el concepto de inmunidad, diferenciando los distintos tipos y comparando los diversos mecanismos de acción e identificando las causas y relevancia clínica de las principales patologías del sistema inmunitario."
+                },
+                {
+                    "code": "6.6",
+                    "description": "Analizar la importancia de la ingeniería genética y de la biotecnología en diversos ámbitos (sanitario, agrícola, ecológico, etc.)."
+                }
+            ]
+        }
+    ]
+}

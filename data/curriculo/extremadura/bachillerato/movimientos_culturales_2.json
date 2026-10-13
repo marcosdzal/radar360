@@ -1,0 +1,113 @@
+{
+    "community": "extremadura",
+    "stage": "bachillerato",
+    "decree": "Decreto 113\/2022, de 25 de agosto",
+    "subject": "movimientos_culturales",
+    "subject_name": "Movimientos Culturales y Artísticos",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Analizar producciones de distintos movimientos culturales y artísticos desde",
+            "description": "Analizar producciones de distintos movimientos culturales y artísticos desde las vanguardias hasta la actualidad, reflexionando de forma abierta y crítica sobre su contexto histórico y sus aspectos singulares y comunes y descubriéndolos como represe…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Identificar y relacionar aspectos singulares de obras vanguardistas y actuales con su contexto y tradición."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Relacionar manifestaciones artísticas de diferentes disciplinas para identificar rasgos comunes de una época."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Investigar el papel de los movimientos culturales como motores de cambio social usando fuentes fiables."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Demostrar las actitudes necesarias para el disfrute de una producción artística o cultural, así como de las habilidades vinculadas tanto a la información simbólica como a la reflexión personal, abierta y sin prejuicios. Competencia específica 2."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "D efender de forma activa y comprometida el valor social del patrimonio,",
+            "description": "D efender de forma activa y comprometida el valor social del patrimonio, reflexionado sobre el compromiso del arte con su época, argumentando sobre la importancia de la libertad creativa y de expresión en las producciones culturales y artísticas de…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Explica la importancia de conservar y difundir el patrimonio artístico y cultural."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Explicar la repercusión social del arte analizando ejemplos de implicación de creadores y efectos en la sociedad."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Analizar la diversidad cultural y la libre expresión en manifestaciones artísticas, incluyendo obras de mujeres y culturas no occidentales."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Elaborar proyectos de investigación individuales o colectivos que muestren implicación personal sobre la libre expresión artística y sus límites, analizando casos concretos."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Explorar y valorar los diversos lenguajes y valores artísticos de diferentes",
+            "description": "Explorar y valorar los diversos lenguajes y valores artísticos de diferentes manifestaciones culturales y artísticas, desde las vanguardias hasta la actualidad, investigando y analizando a través de diversos medios, con interés y de forma activa, …",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Identificar y explicar las características de producciones artísticas analizando sus lenguajes y códigos."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Comparar manifestaciones culturales desde las vanguardias hasta la actualidad identificando referentes comunes en temas, lenguajes o intencionalidades."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Debatir sobre propuestas culturales y artísticas desde las vanguardias hasta hoy, intercambiando opiniones y sentimientos con juicios estéticos argumentados."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Interpretar la evolución de la cultura y el arte en la historia reciente",
+            "description": "Interpretar la evolución de la cultura y el arte en la historia reciente, reconociendo la implicación social y personal de los artistas y apreciando los nuevos medios y técnicas como motores creativos, desarrollando un criterio informado y crítico…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Defender con argumentos cómo los nuevos lenguajes y tecnologías han influido en el arte y la cultura recientes, analizando críticamente producciones y valorando la innovación."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Evaluar el impacto social y económico del arte y la cultura, reflexionando sobre las oportunidades personales y profesionales que generan."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Identificar diversos ámbitos y espacios culturales actuales y analizar cómo condicionan las manifestaciones artísticas."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Descubrir la práctica cultural y artística como un medio de expresión y",
+            "description": "Descubrir la práctica cultural y artística como un medio de expresión y comunicación individual y colectivo de ideas, opiniones y sentimientos, a partir de un análisis crítico de diversas manifestaciones culturales y artísticas que incluya también …",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Observar manifestaciones artísticas actuales reconociendo su valor expresivo y social."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Explicar impactos ambientales, sociales y económicos del arte y proponer alternativas alineadas con los ODS."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Explicar algunas de las repercusiones medioambientales, sociales y económicas de la cultura y el arte sobre la sociedad actual, explorando alternativas que favorezcan objetivos de desarrollo sostenible y la búsqueda de nuevos intereses artísticos, sin imponer fronteras entre el arte y la cultura."
+                }
+            ]
+        }
+    ]
+}

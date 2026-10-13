@@ -1,0 +1,100 @@
+{
+    "community": "pais-vasco",
+    "stage": "bachillerato",
+    "decree": "Decreto 82\/2023, de 13 de junio",
+    "subject": "anatomia_aplicada",
+    "subject_name": "Anatomía Aplicada",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Entender el cuerpo humano como \"macro-estructura global\", identificando los",
+            "description": "Entender el cuerpo humano como \"macro-estructura global\", identificando los diferentes niveles de organización estructural para presentar el cuerpo humano como una unidad biológica en la que sus componentes están relacionados y coordinados.",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Reconocer los usos y aplicaciones que se han dado y se dan a la fotografía a lo largo de la historia y su valor en los mismo, desde la curiosidad y el respeto, utilizando correctamente la terminología específica, valorando la diversidad cultural como fuente de enriquecimiento."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Valorar críticamente el lenguaje fotográfico como un medio de conocimiento y comprensión del mundo, apreciando su repercusión en las personas y su función en la sociedad, utilizando con corrección la terminología específica, fomentando así la conservación del patrimonio fotográfico."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Buscar,seleccionar, interpretar y transmitir información científica, utilizando",
+            "description": "Buscar,seleccionar, interpretar y transmitir información científica, utilizando diversos recursos y soportes y usando la terminología y el lenguaje apropiado para resolver problemas y realizar pequeñas investigaciones de tipo anatómico-funcional.",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Identificar, mostrando curiosidad, el lenguaje fotográfico, sus elementos técnicos y la expresividad de diversas producciones fotográficas, utilizando adecuadamente el vocabulario y la terminología específica, ampliando su imaginario y sen tido estético."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Relacionar diversas producciones fotográficas, con actitud abierta, respeto, examinando la intencionalidad, el mensaje y el contexto donde se han creado, utilizando adecuadamente el vocabulario y la terminología específica, erradicando es tereotipos."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Realizar esquemas y modelos explicando la realidad del cuerpo humano,",
+            "description": "Realizar esquemas y modelos explicando la realidad del cuerpo humano, utilizando conceptos, principios y estrategias para reconocer y comprender mejor las estructuras anatómicas y su función.",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Experimentar con diversas técnicas, herramientas y soportes, reconociendo sus posibilidades expresivas y descubrien do las diversas soluciones a una misma cuestión, haciendo una gestión responsable de los residuos y su reciclaje."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Realizar producciones fotográficas, utilizando correctamente y de forma innovadora los medios, herramientas y habili dades necesarias, adecuándolos al proyecto preparado previamente, valorando el esfuerzo y la constancia en el trabajo."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Reconocer el carácter de la anatomía y la fisiología como ciencias, valorando",
+            "description": "Reconocer el carácter de la anatomía y la fisiología como ciencias, valorando su relación con otras ciencias y expresiones artísticas para apreciar sus aportaciones en la formación integral de las personas y sus repercusiones en la sociedad. Mediante…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Realizar producciones fotográficas creativas con una intención expresiva y comunicativa personal, asumiendo el error como oportunidad de mejora y empleando la expresión fotográfica como una herramienta de exploración del entorno y de uno mismo."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Desarrollar habilidades y destrezas de indagación y resolución de problemas en",
+            "description": "Desarrollar habilidades y destrezas de indagación y resolución de problemas en el laboratorio realizando trabajos experimentales de anatomía y fisiología para construir conocimiento y dar explicaciones a modelos.",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Identificar diferentes ejemplos de profesiones vinculadas con la fotografía, comprendiendo las oportunidades que ofrecen y el valor añadido de la creatividad en el trabajo, expresando la opinión propia de forma razonada y respetuosa."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Crear un proyecto artístico fotográfico, individual o colectivo, planificando las distintas fases, asumiendo responsabili dades, seleccionando las herramientas y técnicas más adecuadas a las necesidades del proyecto y valorando el trabajo cooperativo."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Evaluar el proceso y el producto final, teniendo en cuenta tanto las opiniones favorables como las desfavorables y va lorando las dificultades encontradas y las soluciones técnicas adoptadas."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Comprender la importancia del conocimiento de anatomía y fisiología en el",
+            "description": "Comprender la importancia del conocimiento de anatomía y fisiología en el cuidado del cuerpo humano, identificando acciones en pro de la salud y de la mejora de vida para adquirir hábitos saludables, responsables y sostenibles.",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Exponer el resultado final de una producción fotográfica, utilizando de manera crítica, segura y responsable las herramientas digitales, compartiendo el desarrollo de su elaboración, las dificultades encontradas, los progresos realizados y una valoración de los logros alcanzados."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Analizar la recepción de las producciones fotográficas presentadas de manera abierta y respetuosa, considerando tanto las opiniones positivas como las negativas y extrayendo de ello un aprendizaje para el crecimiento artístico."
+                }
+            ]
+        }
+    ]
+}

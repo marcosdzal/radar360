@@ -1,0 +1,128 @@
+{
+    "community": "galicia",
+    "stage": "bachillerato",
+    "decree": "Decreto 157\/2022, de 15 de septiembre",
+    "subject": "tecnologia_ingenieria_2",
+    "subject_name": "Tecnología e Ingeniería II",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Coordinar y desarrollar proyectos de investigación con una actitud crítica y",
+            "description": "Coordinar y desarrollar proyectos de investigación con una actitud crítica y emprendedora, implementando estrategias y técnicas eficientes de resolución de problemas y comunicando los resultados de manera adecuada, para crear y mejorar productos y si…",
+            "criterios": [
+                {
+                    "code": "CE1.1",
+                    "description": "Desarrollar proyectos de investigación e innovación con la finalidad de crear y mejorar productos de forma continua, utilizando modelos de gestión cooperativos y flexibles."
+                },
+                {
+                    "code": "CE1.3",
+                    "description": "Resolver problemas asociados a las distintas fases del desarrollo y de la gestión de un proyecto (diseño, simulación y montaje y presentación) utilizando las herramientas adecuadas que provienen de las aplicaciones digitales."
+                },
+                {
+                    "code": "CE1.6",
+                    "description": "Perseverar en la consecución de objetivos en situaciones de incertidumbre, identificando y gestionando emociones, aceptando y aprendiendo de la crítica razonada y utilizando el error como parte del proceso de aprendizaje."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Seleccionar materiales y elaborar estudios de impacto",
+            "description": "Seleccionar materiales y elaborar estudios de impacto, aplicando criterios técnicos y de sostenibilidad para fabricar productos de calidad que den respuesta a problemas y tareas planteados, desde un enfoque responsable y ético.",
+            "criterios": [
+                {
+                    "code": "CE2.1",
+                    "description": "Analizar la idoneidad de los materiales técnicos en la fabricación de productos sostenibles y de calidad considerando sus propiedades básicas y su estructura interna."
+                },
+                {
+                    "code": "CE2.2",
+                    "description": "Analizar diferentes métodos de ensayo de las propiedades mecánicas de los materiales comprendiendo la utilidad de cada uno de ellos."
+                },
+                {
+                    "code": "CE2.3",
+                    "description": "Escoger los tratamientos de modificación más adecuados para la mejora de las propiedades básicas de los materiales."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Utilizar las herramientas digitales adecuadas, analizando sus posibilidades,",
+            "description": "Utilizar las herramientas digitales adecuadas, analizando sus posibilidades, configurándolas de acuerdo a sus necesidades y aplicando conocimientos interdisciplinares, para resolver tareas, así como para realizar la presentación de los resultados de …",
+            "criterios": [
+                {
+                    "code": "CE1.2",
+                    "description": "Comunicar y difundir de forma clara y comprensible el proyecto definido, elaborándolo y presentándolo con la documentación técnica necesaria."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Generar conocimientos y mejorar destrezas técnicas, transfiriendo y aplicando",
+            "description": "Generar conocimientos y mejorar destrezas técnicas, transfiriendo y aplicando saberes de otras disciplinas científicas con actitud creativa, para calcular, y resolver problemas o dar respuesta a necesidades de los distintos ámbitos de la ingeniería.",
+            "criterios": [
+                {
+                    "code": "CE3.1",
+                    "description": "Calcular y montar estructuras sencillas estudiando los tipos de cargas a los que se puedan ver sometidas y su estabilidad."
+                },
+                {
+                    "code": "CE3.2",
+                    "description": "Analizar las máquinas térmicas: máquinas frigoríficas, bombas de calor y motores térmicos, comprendiendo su funcionamiento y realizando simulaciones y cálculos básicos sobre su eficiencia."
+                },
+                {
+                    "code": "CE3.3",
+                    "description": "Interpretar y solucionar esquemas de sistemas neumáticos e hidráulicos a través de montajes o simulaciones y comprendiendo y documentando el funcionamiento de cada uno de sus elementos y del sistema en su totalidad."
+                },
+                {
+                    "code": "CE4.1",
+                    "description": "Interpretar y resolver circuitos de corriente alterna mediante montajes o simulaciones, identificando sus elementos y comprendiendo su funcionamiento."
+                },
+                {
+                    "code": "CE4.2",
+                    "description": "Experimentar y diseñar circuitos combinacionales y secuenciales físicos y simulados, aplicando fundamentos de la electrónica digital y comprendiendo su funcionamiento en el diseño de soluciones tecnológicas."
+                },
+                {
+                    "code": "CE4.3",
+                    "description": "Resolver problemas lógicos reales aplicando fundamentos de la electrónica digital y ponerlos en práctica mediante montajes o simulaciones."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Diseñar, crear y evaluar sistemas tecnológicos",
+            "description": "Diseñar, crear y evaluar sistemas tecnológicos, aplicando conocimientos de programación informática, regulación automática y control, así como las posibilidades que ofrecen las tecnologías emergentes, para estudiar, controlar y automatizar tareas.",
+            "criterios": [
+                {
+                    "code": "CE5.1",
+                    "description": "Comprender y simular el funcionamiento de los procesos tecnológicos basados en sistemas automáticos de lazo abierto y cerrado."
+                },
+                {
+                    "code": "CE5.2",
+                    "description": "Aplicar técnicas de simplificación a sistemas automáticos obteniendo la función de transferencia simplificada."
+                },
+                {
+                    "code": "CE5.3",
+                    "description": "Analizar la estabilidad de un sistema de control sencillo experimentando con simuladores."
+                },
+                {
+                    "code": "CE5.4",
+                    "description": "Conocer y evaluar sistemas informáticos emergentes y sus implicaciones en la seguridad de los datos, analizando modelos existentes."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "2-5 1-2-4 2 4 1 Líneas de actuación en el proceso de enseñanza y aprendizaje",
+            "description": "2-5 1-2-4 2 4 1 Líneas de actuación en el proceso de enseñanza y aprendizaje. – El uso de distintos métodos que tengan en cuenta los diferentes ritmos de aprendizaje del alumnado, que favorezcan la capacidad de aprender por sí mismo y que promuevan e…",
+            "criterios": [
+                {
+                    "code": "CE1.4",
+                    "description": "Elaborar informes sencillos de evaluación de impacto ambiental de manera fundamentada y estructurada."
+                },
+                {
+                    "code": "CE1.5",
+                    "description": "Analizar los distintos sistemas de ingeniería desde el punto de vista de la responsabilidad social y de la sostenibilidad, estudiando las características de eficiencia energética asociadas a los materiales y a los procesos de fabricación."
+                }
+            ]
+        }
+    ]
+}

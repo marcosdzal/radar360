@@ -1,0 +1,116 @@
+{
+    "community": "aragon",
+    "stage": "eso",
+    "decree": "Orden ECD\/1172\/2022, de 2 de agosto",
+    "subject": "ingles",
+    "subject_name": "Lengua Extranjera: Inglés",
+    "grade": 3,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Comprender e interpretar el sentido general y los detalles más relevantes de",
+            "description": "Comprender e interpretar el sentido general y los detalles más relevantes de textos expresados de forma clara y en la lengua estándar, buscando fuentes fiables y haciendo uso de estrategias como la inferencia de significados, para responder a necesid…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Identificar la idea principal y datos específicos en textos breves y sencillos sobre temas cotidianos, presentados en diversos formatos orales, escritos o audiovisuales."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Elegir y usar estrategias guiadas para entender ideas principales y detalles en textos cotidianos, interpretando lenguaje no verbal y buscando información específica."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Aplicar estrategias de comprensión para extraer ideas principales, detalles y significados implícitos en textos, evaluando críticamente la fiabilidad de la información obtenida."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Producir textos originales, de extensión media, sencillos y con una",
+            "description": "Producir textos originales, de extensión media, sencillos y con una organización clara, usando estrategias tales como la planificación, la compensación o la autorreparación, para expresar de forma creativa, adecuada y coherente mensajes relevantes y …",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Realizar presentaciones orales breves y sencillas sobre temas cotidianos, usando una estructura clara y apoyos visuales para describir o narrar hechos de forma comprensible."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Escribir textos cortos y organizados sobre temas cotidianos, usando herramientas digitales o papel, asegurando que el mensaje sea comprensible y adecuado a la situación."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Planificar y redactar textos sencillos y coherentes, siguiendo una estructura guiada y utilizando herramientas digitales o físicas para adaptarse al destinatario y propósito."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Interactuar con otras personas con creciente autonomía, usando estrategias de",
+            "description": "Interactuar con otras personas con creciente autonomía, usando estrategias de cooperación y empleando recursos analógicos y digitales, para responder a propósitos comunicativos concretos en intercambios respetuosos con las normas de cortesía.",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Participar en conversaciones breves sobre temas cotidianos, utilizando apoyos visuales o gestuales y manteniendo normas de cortesía y respeto en entornos físicos o digitales."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Gestionar conversaciones sencillas en inglés aplicando estrategias para iniciar y cerrar el diálogo, respetar los turnos de palabra y pedir aclaraciones cuando sea necesario."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Mediar en situaciones cotidianas entre distintas lenguas, usando estrategias y",
+            "description": "Mediar en situaciones cotidianas entre distintas lenguas, usando estrategias y conocimientos sencillos orientados a explicar conceptos o simplificar mensajes, para transmitir información de manera eficaz, clara y responsable La mediación es la activi…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Explicar y simplificar mensajes o textos breves para facilitar el entendimiento mutuo en situaciones cotidianas, mostrando respeto por la diversidad lingüística y cultural."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Facilitar la comunicación en situaciones cotidianas aplicando estrategias guiadas y recursos digitales para simplificar mensajes y crear puentes de comprensión entre interlocutores."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Ampliar y usar los repertorios lingüísticos personales entre distintas lenguas,",
+            "description": "Ampliar y usar los repertorios lingüísticos personales entre distintas lenguas, reflexionando de forma crítica sobre su funcionamiento y tomando conciencia de las estrategias y conocimientos propios, para mejorar la respuesta a necesidades comunicati…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Identificar y explicar similitudes y diferencias gramaticales, léxicas o fonéticas entre el inglés y otras lenguas del repertorio del alumno para mejorar el aprendizaje."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Aplicar estrategias de aprendizaje y herramientas digitales o analógicas, colaborando con otros, para mejorar la comunicación y la autonomía en el estudio del inglés."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Reflexionar sobre el aprendizaje del inglés, identificando progresos y dificultades mediante herramientas de autoevaluación para mejorar la autonomía y las estrategias de estudio personales."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Valorar críticamente y adecuarse a la diversidad lingüística, cultural y",
+            "description": "Valorar críticamente y adecuarse a la diversidad lingüística, cultural y artística a partir de la Lengua Extranjera, identificando y compartiendo las semejanzas y las diferencias entre lenguas y culturas, para actuar de forma empática y respetuosa en…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Interactuar con respeto y empatía en situaciones cotidianas, identificando similitudes culturales y rechazando activamente prejuicios o estereotipos mediante el uso de la lengua extranjera."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Reconocer y respetar la diversidad cultural y lingüística de los países anglófonos, identificando elementos que promuevan la convivencia democrática y el enriquecimiento personal en contextos interculturales."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Explicar y valorar con ayuda las diferencias culturales y lingüísticas del mundo anglófono, promoviendo el respeto, la igualdad y los valores democráticos en situaciones comunicativas."
+                }
+            ]
+        }
+    ]
+}

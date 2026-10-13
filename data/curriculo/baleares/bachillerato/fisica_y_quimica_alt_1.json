@@ -1,0 +1,120 @@
+{
+    "community": "baleares",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "fisica_y_quimica_alt",
+    "subject_name": "Física i Química",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Resoldre problemes i situacions relacionats amb la fisica i la quimica,",
+            "description": "resoldre problemes i situacions relacionats amb la fisica i la quimica, aplicant les lleis i teories científiques adequades, per comprendre i explicar els fenòmens naturals i evidenciar el paper d'aquestes ciències en la millora del benestar comú i e…",
+            "criterios": [
+                {
+                    "code": "CA1.1",
+                    "description": "Aplicar les lleis i teories científiques en l'anàlisi de fenòmens fisicoquímics quotidians, comprenent les causes que es produeixen i explicar-les utilitzant suports i mitjans de comunicació diversos. Entendre i explicar les lleis i teories científiques aplicant-les en situacions quotidianes, fent servir diferents formes i suports de comunicació (gràfics, esquemes, taules, etc.). Comprendre les causes que provoquen els diferents fenòmens fisicoquímics quotidians."
+                },
+                {
+                    "code": "CA1.2",
+                    "description": "Resoldre problemes fisicoquímics plantejats a partir de situacions quotidianes, aplicant les lleis i teories científiques per a trobar i argumentar les solucions, expressant adequadament els resultats. Resoldre problemes reals aplicant les lleis i teories científiques i justificant correctament els resultats, expressant-los amb correcció i unitats adequades."
+                },
+                {
+                    "code": "CA1.3",
+                    "description": "Identificar situacions problemàtiques en l'entorn quotidià, emprendre iniciatives i cercar solucions sostenibles des de la física i la química, analitzant críticament l'impacte produït en la societat i el medi ambient. Identificar problemes del món real i proposar solucions sostenibles des de la física i la química, Analitzar de manera crítica l'impacte que ha produït i pot produir sobre la societat i el medi ambient."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Raonar amb solvencia, usant el pensament cientific i les destreses relacionades",
+            "description": "raonar amb solvencia, usant el pensament cientific i les destreses relacionades amb el treball de la ciència, per aplicar-lo a l'observació de la naturalesa i l'entorn, a la formulació de preguntes i hipòtesis i a validar-les a través de l'experiment…",
+            "criterios": [
+                {
+                    "code": "CA2.1",
+                    "description": "Formular i verificar hipòtesis com a respostes a diferents problemes i observacions, manejant amb soltesa el treball experimental, la indagació, la cerca d'evidències i el raonament lògic i matemàtic. Formular hipòtesis i ser capaç de d'explicar els problemes que es presentin. Verificar i comprovar si les hipòtesis formulades són correctes a partir d'observacions i experiments raonant de forma lògica i en llenguatge matemàtic."
+                },
+                {
+                    "code": "CA2.2",
+                    "description": "Utilitzar diferents mètodes per trobar la resposta a una sola qüestió o observació, des del contrast amb els resultats obtinguts i assegurant-se així de la seva coherència i fiabilitat. - Utilitzar diversos mètodes per trobar la resposta a una sola qüestió, assegurant-se que els resultats obtinguts són coherents. - Utilitzar diferents mètodes per contrastar els resultats i verificar-ne la fiabilitat."
+                },
+                {
+                    "code": "CA2.3",
+                    "description": "Integrar les lleis i teories científiques conegudes en el desenvolupament del procediment de la validació de les hipòtesis formulades, aplicant relacions qualitatives i quantitatives entre les diferents variables, de manera que el procés sigui més fiable i coherent amb el coneixement científic adquirit. Integrar les lleis i teories científiques en el procés de validació d'hipòtesis. Aplicar relacions quantitatives i qualitatives entre les variables per garantir un procés més fiable i coherent."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Manejar amb propietat i solvencia el flux d'informacio en els diferents",
+            "description": "manejar amb propietat i solvencia el flux d'informacio en els diferents registres de comunicació de la ciència com la nomenclatura de composts químics, l'ús del llenguatge matemàtic, l'ús correcte de les unitats de mesura i la seguretat en el treball…",
+            "criterios": [
+                {
+                    "code": "CA3.1",
+                    "description": "Utilitzar i relacionar de manera rigorosa diferents sistemes d'unitats, amb l'ús correcte de la notació i de les equivalències, fent possible la comunicació efectiva amb tota la comunitat científica. Utilitzar, interpretar i relacionar rigorosament diferents sistemes d'unitats de magnituds fisicoquímiques utilitzant correctament la notació per assegurar la comunicació efectiva amb tota la comunitat científica."
+                },
+                {
+                    "code": "CA3.2",
+                    "description": "Nomenar i formular correctament substàncies simples, ions i composts químics inorgànics i orgànics utilitzant les normes de la IUPAC, com a part d'un llenguatge integrador i universal per a tota la comunitat científica. Anomenar i escriure correctament les fórmules de substàncies i composts químics orgànics i inorgànics seguint les normes establertes (IUPAC)."
+                },
+                {
+                    "code": "CA3.3",
+                    "description": "Emprar diferents formats per interpretar i expressar informació relativa a un procés fisicoquímic concret, relacionant entre si la informació que cadascun conté i extraient-ne el més rellevant durant la resolució d'un problema. Emprar diferents formats per interpretar i expressar informació sobre un procés fisicoquímic, relacionant la informació que cada format conté. Emprar diversos formats per extreure i destacar el més rellevant durant la resolució d'un problema."
+                },
+                {
+                    "code": "CA3.4",
+                    "description": "Posar en pràctica els coneixements adquirits en l'experimentació científica en el laboratori o al camp, incloent el coneixement dels materials i la normativa bàsica d'ús, com també de les normes de seguretat pròpies d'aquests espais i comprenent la importància en el progrés científic i emprenedor que l'experimentació sigui segura, sense comprometre la integritat física pròpia ni col·lectiva. Posar en pràctica els coneixements adquirits en l'experimentació científica, incloent l'ús correcte dels materials i el compliment de la normativa bàsica de seguretat. Comprendre la importància d'una experimentació segura sense comprometre la integritat física pròpia ni col·lectiva."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Utilitzar de manera autonoma, critica i eficient plataformes digitals i",
+            "description": "utilitzar de manera autonoma, critica i eficient plataformes digitals i recursos variats, tant per al treball individual com en equip, consultant i seleccionant informació científica veraç, creant materials en diversos formats i comunicant de manera …",
+            "criterios": [
+                {
+                    "code": "CA4.1",
+                    "description": "Interactuar amb altres membres de la comunitat educativa a través de diferents entorns d'aprenentatge, reals i virtuals, utilitzant de manera autònoma i eficient recursos varietats, tradicionals i digitals, amb rigor i respecte i analitzant críticament les aportacions de tot el món. Seleccionar i utilitzar diferents entorns d'aprenentatge per interactuar en situacions comunicatives amb altres membres de la comunitat educativa. Analitzar críticament les aportacions de totes les persones, amb rigor i respecte i compartir informació a través de diferents entorns d'aprenentatge, reals i virtuals utilitzant-los de manera autònoma i eficient."
+                },
+                {
+                    "code": "CA4.2",
+                    "description": "Treballar de manera autònoma i versàtil, individualment i en equip, en la consulta d'informació i la creació de continguts, utilitzant amb criteri les fonts i eines més fiables i rebutjant les menys adequades, millorant així l'aprenentatge propi i col·lectiu. Treballar de forma autònoma i versàtil, tant en grup com individualment, seleccionar i utilitzar fonts amb criteri per rebutjar les menys adequades i usar les més fiables. Aplicar els criteris de validesa, fiabilitat, actualitat i seguretat per fomentar la creativitat i millorar l'aprenentatge propi i col·lectiu."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Treballar de manera col·laborativa en equips diversos, aplicant habilitats de",
+            "description": "treballar de manera col·laborativa en equips diversos, aplicant habilitats de coordinacio, comunicació, emprenedoria i repartiment equilibrat de responsabilitats, per predir les conseqüències dels avenços científics i la seva influència sobre la salu…",
+            "criterios": [
+                {
+                    "code": "CA5.1",
+                    "description": "Participar de manera activa en la construcció del coneixement científic, evidenciant la presència de la interacció, la cooperació i l'avaluació entre iguals, millorant el qüestionament, la reflexió i el debat en aconseguir el consens en la resolució d'un problema o situació d'aprenentatge. Participar activament en la construcció del coneixement científic fomentant la interacció, la cooperació i l'avaluació entre iguals. Participar de manera activa en el qüestionament, la reflexió i el debat per aconseguir consens en la resolució d'un problema o situació d'aprenentatge."
+                },
+                {
+                    "code": "CA5.2",
+                    "description": "Construir i produir coneixements a través del treball col·lectiu, a més d'explorar alternatives per superar l'assimilació de coneixements ja elaborats i trobar moments per a l'anàlisi, la discussió i la síntesi, obtenint com a resultat l'elaboració de productes representats en informes, pòsters, presentacions, articles, etc. Construir i produir coneixements mitjançant el treball col·lectiu, explorant alternatives per superar l'assimilació de coneixements ja elaborats. Construir i produir coneixements a través de l'anàlisi, la discussió i la síntesi, elaborant productes com informes, pòsters, presentacions, etc."
+                },
+                {
+                    "code": "CA5.3",
+                    "description": "Debatre, de manera informada i argumentada, sobre les diferents qüestions mediambientals, socials i ètiques relacionades amb el desenvolupament de les ciències, tot aconseguint un consens sobre les conseqüències d'aquests avenços i proposant solucions creatives en comú a les qüestions plantejades. Debatre sobre temes mediambientals, socials i ètics relacionats amb el desenvolupament la ciència de manera argumentada. Proposar solucions raonables i consensuades a les qüestions plantejades."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Participar de manera activa en la construccio col·lectiva i evolutiva del",
+            "description": "participar de manera activa en la construccio col·lectiva i evolutiva del coneixement científic, en el seu entorn quotidià i pròxim, per convertir-se en agents actius de la difusió del pensament científic, l'aproximació escèptica a la informació cien…",
+            "criterios": [
+                {
+                    "code": "CA6.1",
+                    "description": "Identificar i argumentar científicament les repercussions de les accions que l'alumne o alumna emprèn en la seva vida quotidiana, analitzant com millorar-les com a forma de participar activament en la construcció d'una societat millor. Identificar i explicar com les accions diàries dels alumnes poden tenir repercussions en la societat i analitzar com millorar-les per construir un món millor."
+                },
+                {
+                    "code": "CA6.2",
+                    "description": "Detectar les necessitats de la societat sobre les quals aplicar els coneixements científics adequats que ajudin a millorar-la, incidint especialment en aspectes importants com la resolució dels grans reptes ambientals, el desenvolupament sostenible i la promoció de la salut. Detectar les necessitats de la societat i aplicar els coneixements científics adequats per ajudar a millorar-la. Detectar necessitats socials, incidint en reptes ambientals, desenvolupament sostenible i promoció de la salut."
+                }
+            ]
+        }
+    ]
+}

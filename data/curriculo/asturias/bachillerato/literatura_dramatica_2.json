@@ -1,0 +1,56 @@
+{
+    "community": "asturias",
+    "stage": "bachillerato",
+    "decree": "Decreto 39\/2022, de 11 de agosto",
+    "subject": "literatura_dramatica",
+    "subject_name": "Literatura Dramática",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Leer obras de la literatura dramática o ver su puesta en escena, atendiendo",
+            "description": "Leer obras de la literatura dramática o ver su puesta en escena, atendiendo tanto a las relaciones internas de los elementos constitutivos del género y sus funciones en las obras como a las relaciones externas de las obras con su contexto de producci…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Explica y argumenta la interpretación de obras teatrales analizando sus elementos, contexto y tradición, con metalenguaje y juicios estéticos."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Interpretar en voz alta y en grupo fragmentos teatrales, poniendo énfasis en la configuración de escenas, emociones y elementos prosódicos."
+                },
+                {
+                    "code": "1.3",
+                    "description": "La realización escénica y el sistema estilístico - Espacio escénico-escenográfico y objeto escénico. - Diseño de personaje: vestuario, máscara y maquillaje. - Espacio sonoro, diseño de iluminación y recursos audiovisuales. - Trabajo actoral y códigos interpretativos."
+                },
+                {
+                    "code": "1.4",
+                    "description": "La recepción teatral: la relación con el público. Catarsis, extrañamiento y participación"
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Leer o ver en escena de manera autónoma obras relevantes de la literatura",
+            "description": "Leer o ver en escena de manera autónoma obras relevantes de la literatura dramática como fuente de placer y conocimiento, seleccionar con criterio propio y con la consulta de recomendaciones especializadas de manera orientada aquellas que mejor se aj…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Interpretar obras dramáticas atendiendo a aspectos temáticos, de género, estructura y estilo, y conectándolas con otras experiencias artísticas."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Seleccionar de forma autónoma diversas formas de acceso a la literatura dramática para enriquecer la identidad lectora y teatral."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Participar en conversaciones literarias compartiendo experiencias de lectura y asistencia teatral con metalenguaje."
+                },
+                {
+                    "code": "2.4",
+                    "description": "El teatro habla del teatro: metaficción teatral 3. Estrategias de análisis, interpretación, y creación de textos teatrales - Participación en la construcción compartida de la interpretación de las obras dramáticas a través de discusiones o conversaciones literarias, prestando especial atención a las producciones teatrales del Principado de Asturias. - Relación entre los elementos constitutivos del género dramático y la construcción del sentido de la obra. Efectos en la recepción de sus recursos expresivos. La interacción con el público. - Utilización de información sociohistórica, cultural y artística para construir la interpretación de las obras, del ámbito nacional y asturiano, y comprender el lugar que ocupan en la tradición literaria. Valoración del papel de las escritoras e indagación en las causas de su exclusión del canon literario. - Establecimiento de vínculos intertextuales entre obras y otras manifestaciones artísticas, en función de temas, tópicos, estructuras y lenguajes. Elementos de continuidad y ruptura. - Indagación en torno al funcionamiento del teatro como artefacto ideológico determinante en la construcción de los imaginarios sociales, haciendo especial hincapié en la perspectiva de género. - Expresión argumentada de la interpretación de obras y fragmentos dramáticos, del ámbito nacional y asturiano, integrando los diferentes aspectos analizados y atendiendo a sus valores culturales, éticos y estéticos."
+                }
+            ]
+        }
+    ]
+}

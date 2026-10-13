@@ -1,0 +1,110 @@
+{
+    "community": "aragon",
+    "stage": "bachillerato",
+    "decree": "Orden ECD\/1112\/2022, de 18 de julio",
+    "subject": "informatica_2",
+    "subject_name": "Informática II",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE2",
+            "name": "Conocer las componentes básicas y fundamentos técnicos de funcionamiento de las",
+            "description": "Conocer las componentes básicas y fundamentos técnicos de funcionamiento de las redes con las que interactúa así como los servicios habituales de la red Internet, instalando, configurando y usando dichas redes y servicios aplicando competencias propi…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Conocer la evolución de la red Internet, desde el nacimiento de la WWW hasta la web 2.0, entendiendo sus aportaciones, así como la importancia actual de la misma."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Comprender y usar las tecnologías propias de la WWW para la creación de páginas web sencillas."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Conocer y usar los distintos servicios sociales y colaborativos propios de la web 2.0, y utilizarlos en función de las necesidades personales y de los proyectos de trabajo."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Instalar en servidores locales servicios propios de la web 2.0, configurando accesos y creando entornos locales de trabajo colaborativo."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Aplicar el pensamiento computacional para analizar, diseñar e implementar",
+            "description": "Aplicar el pensamiento computacional para analizar, diseñar e implementar sistemas de computación en entornos diversos: computadores, entorno web, dispositivos móviles y sistemas físicos y aplicar procedimientos rigurosos de prueba y depuración de pr…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Conocer y aplicar las estructuras más básicas de la \/2022 programación orientada a objetos."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Conocer y usar distintos entornos de desarrollo, lenguajes de programación y lenguajes de modelado."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Desarrollar sencillas páginas web, con interactividad mediante lenguajes de scripting."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Implementar sencillas aplicaciones para dispositivos móviles, diseñando las interfaces adecuadas según la aplicación."
+                },
+                {
+                    "code": "3.5",
+                    "description": "Montar y programar sistemas físicos que reaccionen a estados de su entorno."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Utilizar un software de hoja de cálculo para el manejo sencillo de información,",
+            "description": "Utilizar un software de hoja de cálculo para el manejo sencillo de información, realizar el diseño completo de una base de datos relacional sencilla plasmado en un sistema gestor de bases de datos relacional en entorno ofimático, y conocer y comprend…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Conocer el concepto y las características de datos masivos. big data, y su relevancia en la sociedad actual."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Identificar y reconocer la presencia de fuentes de datos masivas en su entorno en forma de sensores, dispositivos o información en la red Internet."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Evaluar las oportunidades y riesgos que puede tener el uso del tratamiento masivo de datos gestionados de manera abierta o privativa, usando para ellos ejemplos y situaciones concretas."
+                },
+                {
+                    "code": "4.4",
+                    "description": "Ser consciente de la importancia de la huella digital que deja cada individuo con los datos que genera y comparte, y establecer una actitud crítica para preservar la privacidad."
+                },
+                {
+                    "code": "4.5",
+                    "description": "Recopilar información de algún sistema de datos abiertos para generar una visualización gráfica de dicha información."
+                },
+                {
+                    "code": "4.6",
+                    "description": "Utilizar técnicas de raspado de datos, data scraping, para crear nueva información y contenidos."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Comprender los principios básicos de funcionamiento de la inteligencia",
+            "description": "Comprender los principios básicos de funcionamiento de la inteligencia artificial y su impacto en nuestra sociedad, conocer los diferentes elementos de la inteligencia artificial y los bloques básicos para ser capaces de construir sistemas sencillos:…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Conocer los componentes\/bloques básicos de un sistema de inteligencia artificial en el contexto del entorno con el que interactúa."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Seleccionar un ejemplo de sistema inteligente e identificar los bloques básicos del sistema."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Diseñar un sistema inteligente sencillo, con el uso de dispositivos móviles, que comprenda como mínimo los bloques de percepción y actuación utilizando los sensores y actuadores básicos. \/2022"
+                }
+            ]
+        }
+    ]
+}

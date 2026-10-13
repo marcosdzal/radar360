@@ -1,0 +1,165 @@
+{
+    "community": "galicia",
+    "stage": "bachillerato",
+    "decree": "Decreto 157\/2022, de 15 de septiembre",
+    "subject": "fisica_y_quimica",
+    "subject_name": "Física y Química",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Resolver problemas y situaciones relacionados con la física y con la química",
+            "description": "Resolver problemas y situaciones relacionados con la física y con la química, aplicando las leyes y teorías científicas adecuadas, para comprender y explicar los fenómenos naturales y evidenciar el papel de estas ciencias en la mejora del bienestar c…",
+            "criterios": [
+                {
+                    "code": "CE1.5",
+                    "description": "Interactuar con otros miembros de la comunidad educativa a través de diferentes entornos de aprendizaje, reales y virtuales, utilizando de forma autónoma y eficiente recursos variados, tradicionales y digitales, con rigor y respeto y analizando críticamente las aportaciones de los participantes."
+                },
+                {
+                    "code": "CE1.6",
+                    "description": "Trabajar de forma autónoma y versátil, individualmente y en equipo, en la consulta de información y en la creación de contenidos, utilizando con criterio las fuentes y las herramientas más fiables y desechando las menos adecuadas para mejorar el aprendizaje propio y colectivo."
+                },
+                {
+                    "code": "CE2.1",
+                    "description": "Aplicar las leyes y las teorías científicas en el análisis de fenómenos fisicoquímicos cotidianos relacionados con la estructura de la materia comprendiendo las causas que los producen y elaborar explicaciones utilizando diversidad de soportes y medios de comunicación."
+                },
+                {
+                    "code": "CE3.1",
+                    "description": "Aplicar las leyes y las teorías científicas en el análisis de reacciones químicas, comprendiéndolas y explicándolas utilizando diversidad de soportes y medios de comunicación."
+                },
+                {
+                    "code": "CE3.2",
+                    "description": "Resolver problemas sobre reacciones químicas y las sustancias que en ellas participan aplicando las leyes adecuadas para encontrar y argumentar las soluciones expresando adecuadamente los resultados."
+                },
+                {
+                    "code": "CE3.3",
+                    "description": "Identificar situaciones problemáticas en el entorno en las que estén implicadas reacciones químicas, emprender iniciativas y buscar soluciones sostenibles desde la física y la química, analizando críticamente el impacto producido en la sociedad y en el medio ambiente."
+                },
+                {
+                    "code": "CE4.1",
+                    "description": "Identificar situaciones problemáticas en el entorno relacionadas con la química orgánica, emprender iniciativas y buscar soluciones sostenibles desde la física y la química, analizando críticamente el impacto producido en la sociedad y en el medio ambiente."
+                },
+                {
+                    "code": "CE5.1",
+                    "description": "Aplicar los conceptos de la cinemática clásica en el análisis de movimientos cotidianos, elaborando explicaciones utilizando diversidad de soportes y medios de comunicación."
+                },
+                {
+                    "code": "CE5.2",
+                    "description": "Resolver problemas sobre movimientos expuestos a partir de situaciones cotidianas, aplicando los conceptos propios de la cinemática para encontrar y argumentar las soluciones y expresando adecuadamente los resultados."
+                },
+                {
+                    "code": "CE6.1",
+                    "description": "Aplicar las leyes de la dinámica newtoniana y sus teoremas de conservación en el análisis del reposo o movimiento de los cuerpos en situaciones cotidianas, comprendiendo las fuerzas que los producen y elaborando explicaciones utilizando diversidad de soportes y medios de comunicación."
+                },
+                {
+                    "code": "CE6.2",
+                    "description": "Resolver problemas de estática y dinámica de cuerpos expuestos a partir de situaciones cotidianas, aplicando las leyes de la dinámica newtoniana y los teoremas de conservación pertinentes para encontrar y argumentar las soluciones y expresando adecuadamente los resultados."
+                },
+                {
+                    "code": "CE7.1",
+                    "description": "Aplicar los conceptos de calor y trabajo y el teorema de conservación de la energía mecánica en el análisis de fenómenos cotidianos en los que se produzca transferencia de energía, comprendiendo las causas que producen esta transferencia y elaborando explicaciones utilizando diversidad de soportes y medios de comunicación."
+                },
+                {
+                    "code": "CE7.2",
+                    "description": "Resolver problemas sobre transferencia de energía mecánica y térmica expuestos a partir de situaciones cotidianas, aplicando el concepto de calor y el teorema de conservación de la energía mecánica para encontrar y argumentar las soluciones expresando adecuadamente los resultados."
+                },
+                {
+                    "code": "CE7.3",
+                    "description": "Identificar situaciones problemáticas en el entorno relacionadas con la energía y sus manifestaciones, emprender iniciativas y buscar soluciones sostenibles desde la física y la química analizando críticamente el impacto producido en la sociedad y en el medio ambiente."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Razonar usando con solvencia el pensamiento científico y las destrezas",
+            "description": "Razonar usando con solvencia el pensamiento científico y las destrezas relacionadas con el trabajo de la ciencia para aplicarlos a la observación de la naturaleza y del entorno, a la formulación de preguntas e hipótesis y a la validación de estas a t…",
+            "criterios": [
+                {
+                    "code": "CE1.1",
+                    "description": "Formular y verificar hipótesis como respuestas a diferentes problemas y observaciones, manejando con soltura el trabajo experimental, la indagación, la búsqueda de evidencias y el razonamiento lógico-matemático."
+                },
+                {
+                    "code": "CE1.2",
+                    "description": "Utilizar diferentes métodos para encontrar la respuesta a una sola cuestión u observación, cotejando los resultados obtenidos para asegurarse de su coherencia y fiabilidad."
+                },
+                {
+                    "code": "CE1.3",
+                    "description": "Integrar las leyes y teorías científicas conocidas en el desarrollo del procedimiento de la validación de las hipótesis formuladas, aplicando relaciones cualitativas y cuantitativas entre las diferentes variables, de manera que el proceso sea fiable y coherente con el conocimiento científico adquirido."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Manejar con propiedad y solvencia el flujo de información en los diferentes",
+            "description": "Manejar con propiedad y solvencia el flujo de información en los diferentes registros de comunicación de la ciencia, como son la nomenclatura de compuestos químicos, el lenguaje matemático, las unidades de medida y los códigos de seguridad en el trab…",
+            "criterios": [
+                {
+                    "code": "CE1.4",
+                    "description": "Poner en práctica los conocimientos adquiridos en la experimentación científica en laboratorio o campo, incluido el conocimiento de sus materiales y su normativa básica de uso, así como de las normas de seguridad propias de estos espacios, y estimando la importancia que en el progreso científico y emprendedor tiene que la experimentación sea segura, sin comprometer la integridad física propia ni la colectiva."
+                },
+                {
+                    "code": "CE2.2",
+                    "description": "Nombrar y formular correctamente sustancias simples, iones y compuestos químicos inorgánicos utilizando las normas de la IUPAC, como parte del lenguaje integrador y universal de la comunidad científica."
+                },
+                {
+                    "code": "CE2.3",
+                    "description": "Emplear diferentes formatos para interpretar y expresar información relativa a un proceso fisicoquímico concreto, relacionando entre sí la información que cada uno de ellos contiene y extrayendo lo relevante para la resolución de un problema."
+                },
+                {
+                    "code": "CE4.2",
+                    "description": "Nombrar y formular correctamente sustancias simples, iones y compuestos químicos orgánicos utilizando las normas de la IUPAC, como parte del lenguaje integrador y universal de la comunidad científica."
+                },
+                {
+                    "code": "CE5.3",
+                    "description": "Utilizar de manera rigurosa las unidades propias de las magnitudes cinemáticas, empleando correctamente sus notaciones y equivalencias y haciendo posible una comunicación efectiva con la comunidad científica."
+                },
+                {
+                    "code": "CE6.3",
+                    "description": "Utilizar y relacionar de manera rigurosa las unidades propias de las magnitudes de la mecánica empleando correctamente sus notaciones y equivalencias y haciendo posible una comunicación efectiva con la comunidad científica."
+                },
+                {
+                    "code": "CE7.4",
+                    "description": "Utilizar y relacionar de manera rigurosa las unidades propias de magnitudes relacionadas con la energía, empleando correctamente sus notaciones y equivalencias y haciendo posible una comunicación efectiva con la comunidad científica."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Trabajar de forma colaborativa en equipos diversos",
+            "description": "Trabajar de forma colaborativa en equipos diversos, aplicando habilidades de coordinación, comunicación, emprendimiento y reparto equilibrado de responsabilidades, para predecir las consecuencias de los avances científicos y su influencia sobre la sa…",
+            "criterios": [
+                {
+                    "code": "CE1.7",
+                    "description": "Participar de manera activa en la construcción del conocimiento científico, evidenciando la existencia de interacción, cooperación y evaluación entre iguales y mejorando el cuestionamiento, la reflexión y el debate al alcanzar el consenso en la resolución de un problema o situación de aprendizaje."
+                },
+                {
+                    "code": "CE1.8",
+                    "description": "Construir y producir conocimientos a través del trabajo colectivo, además de explorar alternativas para superar la asimilación de conocimientos ya elaborados y encontrando momentos para el análisis, la discusión y la síntesis, obteniendo como resultado la elaboración de productos representados en informes, pósteres, presentaciones, artículos, etc."
+                },
+                {
+                    "code": "CE3.4",
+                    "description": "Debatir, de manera informada y argumentada, sobre cuestiones ambientales, sociales y éticas relacionadas con el desarrollo de la física y de la química, alcanzando un consenso sobre las consecuencias de sus avances y proponiendo soluciones creativas en común a las cuestiones expuestas."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Participar de forma activa en la construcción colectiva y evolutiva del",
+            "description": "Participar de forma activa en la construcción colectiva y evolutiva del conocimiento científico, en su entorno cotidiano y próximo para convertirse en agentes activos de la difusión del pensamiento científico, en la aproximación escéptica a la inform…",
+            "criterios": [
+                {
+                    "code": "CE3.5",
+                    "description": "Identificar y argumentar científicamente, a la luz de la física y de la química, las repercusiones de acciones que se acometen en la vida cotidiana analizando cómo mejorarlas, como forma de participar activamente en la construcción de una sociedad mejor."
+                },
+                {
+                    "code": "CE3.6",
+                    "description": "Detectar necesidades de la sociedad sobre las que aplicar conocimientos relacionados con reacciones químicas que ayuden a satisfacer dichas necesidades, incidiendo especialmente en aspectos importantes como la resolución de los grandes retos ambientales, el desarrollo sostenible y la promoción de la salud."
+                },
+                {
+                    "code": "CE4.3",
+                    "description": "Detectar necesidades de la sociedad sobre las que aplicar conocimientos relacionados con la química orgánica que ayuden a satisfacerlas, incidiendo especialmente en aspectos importantes como la resolución de los grandes retos ambientales, el desarrollo sostenible y la promoción de la salud."
+                }
+            ]
+        }
+    ]
+}

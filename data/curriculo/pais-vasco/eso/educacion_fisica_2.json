@@ -1,0 +1,159 @@
+{
+    "community": "pais-vasco",
+    "stage": "eso",
+    "decree": "Decreto 77\/2023, de 30 de mayo",
+    "subject": "educacion_fisica",
+    "subject_name": "Educación Física",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Evaluar los efectos de la actividad física en la salud global, rechazando las",
+            "description": "Evaluar los efectos de la actividad física en la salud global, rechazando las prácticas que carezcan de base científica, siendo crítico con los modelos corporales estereotipados, y desarrollando procesos de autorregulación emocional y gestión de conf…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Diseñar y planificar rutinas de ejercicio físico adaptadas a las capacidades personales, enfocadas a mantener un estilo de vida saludable y activo de forma autónoma."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Aplicar de forma autónoma hábitos saludables como el calentamiento, la higiene y la regulación del esfuerzo durante las sesiones de actividad física para mejorar el bienestar."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Aplicar de forma autónoma medidas de seguridad y prevención de lesiones en la práctica deportiva, identificando riesgos potenciales para actuar de manera responsable."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Aplicar protocolos de actuación ante accidentes en la práctica deportiva, realizando maniobras básicas de primeros auxilios de forma segura y eficaz."
+                },
+                {
+                    "code": "1.5",
+                    "description": "Identificar y criticar hábitos perjudiciales para la salud y la convivencia, proponiendo alternativas saludables y respetuosas para mejorar el bienestar personal y social."
+                },
+                {
+                    "code": "1.6",
+                    "description": "Analizar y utilizar aplicaciones digitales de salud y deporte, identificando sus beneficios para la actividad física y los posibles riesgos derivados de su uso."
+                },
+                {
+                    "code": "1.7",
+                    "description": "Gestionar las emociones siendo capaz de participar con eficacia, respetando las intervenciones del resto, y actuando con deportividad al asumir los roles de espectador, participante u otros."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Actuar en situaciones psicomotrices en entornos sin incertidumbre, con",
+            "description": "Actuar en situaciones psicomotrices en entornos sin incertidumbre, con progresiva autonomía en su ejecución, actitudes de superación y resiliencia al enfrentarse a desafíos físicos, para desarrollar la autonomía y el crecimiento armónico desde el pun…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Diseñar y ejecutar proyectos motores individuales o grupales, ajustando el trabajo mediante la autoevaluación y coevaluación del proceso y los resultados obtenidos."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Tomar decisiones tácticas eficaces en juegos y deportes, anticipándose a compañeros y oponentes para resolver situaciones motrices reales o simuladas con reflexión posterior."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Aplicar habilidades motrices y capacidades físicas de forma eficiente para solucionar retos motores en contextos deportivos, recreativos o de la vida cotidiana."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Adaptarse a las exigencias de las situaciones sociomotrices de oposición en",
+            "description": "Adaptarse a las exigencias de las situaciones sociomotrices de oposición en entornos sin incertidumbre, adoptando una actitud crítica ante comportamientos antideportivos o contrarios a la convivencia, para ajustar las conductas asociadas al desafío y…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Participar en actividades motrices diversas mostrando deportividad, respetando las normas y aceptando diferentes roles, priorizando la convivencia y el juego limpio sobre el resultado competitivo."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Trabajar en equipo para realizar proyectos motrices, asumiendo roles y tomando decisiones de forma autónoma para mejorar el resultado colectivo y el aprendizaje individual."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Aplicar habilidades sociales y diálogo para resolver conflictos de forma autónoma, respetando la diversidad y rechazando cualquier tipo de discriminación o violencia en la práctica motriz."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Desenvolverse en situaciones sociomotrices de cooperación en entornos sin",
+            "description": "Desenvolverse en situaciones sociomotrices de cooperación en entornos sin incertidumbre, desarrollando procesos de autorregulación, con actitud empática, independientemente de las diferencias culturales, sociales, de género y de habilidad, para contr…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Organizar y participar en juegos tradicionales y manifestaciones artístico-expresivas, analizando su origen cultural y valorando su importancia social y evolución en la sociedad actual."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Identificar y cuestionar estereotipos de género y barreras de capacidad en diferentes deportes, analizando sus reglamentos y representación social de forma objetiva."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Crear y representar composiciones expresivas usando el cuerpo de forma comunicativa, con o sin música, aplicando técnicas específicas de movimiento con autonomía progresiva."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Interactuar en situaciones sociomotrices de oposición-colaboración en entornos sin incertidumbre",
+            "description": "Interactuar en situaciones sociomotrices de oposición-colaboración en entornos sin incertidumbre, aplicando reglas y principios de acción, y contribuyendo al entendimiento social, para ajustar la conducta motriz en situaciones con alta demanda inform…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Realizar actividades físicas en el medio natural o urbano aplicando protocolos de respeto ambiental y minimizando el impacto negativo sobre el entorno."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Realizar actividades físicas en entornos naturales o urbanos respetando las normas de seguridad y el entorno para garantizar una práctica saludable y responsable."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Identificar y analizar los distintos estereotipos de género y comportamientos sexistas que se siguen produciendo en algunos contextos de la motricidad, reconociendo los factores que contribuyen a su mantenimiento."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Descubrir y aprovechar las opciones de acción en situaciones motrices en",
+            "description": "Descubrir y aprovechar las opciones de acción en situaciones motrices en entornos con incertidumbre, de manera ajustada y segura, para incluir en sus hábitos formas de ocio saludable, sostenible y ecosocialmente responsable en el medio natural y urba…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Resolver situaciones motrices en un medio con incertidumbre, aplicando los fundamentos técnico-tácticos de las actividades físico-deportivas."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Participar en actividades físico-deportivas en entornos naturales, terrestres o acuáticos, disfrutando del entorno de manera sostenible, minimizando el impacto ambiental que estas puedan producir y siendo conscientes de su huella ecológica."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Practicar actividades físico-deportivas en el medio natu ral y urbano, aplicando normas de seguridad individuales y colectivas."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Valerse del cuerpo como instrumento de expresión y comunicación, gestionando",
+            "description": "Valerse del cuerpo como instrumento de expresión y comunicación, gestionando las emociones y analizando las distintas manifestaciones de la cultura motriz, para valorar su influencia y sus aportaciones estéticas y creativas a la cultura, e integrar l…",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Utilizar el cuerpo, intencionadamente y con progresiva autonomía, como herramienta de expresión y comunicación a través de diversas técnicas expresivas, participando activamente en la creación y representación de composiciones individuales o colectivas con y sin base musical."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Participar en manifestaciones artístico-expresivas vinculadas tanto con la cultura propia como con otras, favoreciendo su conservación y valorando su importancia en la creación de la identidad cultural."
+                },
+                {
+                    "code": "7.3",
+                    "description": "Gestionar las emociones siendo capaz de participar en situaciones artístico-expresivas de manera desinhibida, respetando las intervenciones del resto."
+                }
+            ]
+        }
+    ]
+}

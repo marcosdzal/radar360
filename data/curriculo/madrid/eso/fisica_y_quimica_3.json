@@ -1,0 +1,167 @@
+{
+    "community": "madrid",
+    "stage": "eso",
+    "decree": "Decreto 65/2022, de 20 de julio",
+    "subject": "fisica_y_quimica",
+    "subject_name": "Física y Química",
+    "grade": 3,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Comprender y relacionar los motivos por los que ocurren los",
+            "description": "Comprender y relacionar los motivos por los que ocurren los principales fenómenos fisicoquímicos del entorno, explicándolos en términos de las leyes y teorías científicas adecuadas para resolver problemas con el fin de aplicarlas para mejorar la calidad de vida humana.",
+            "descriptors": [
+                "CCL1",
+                "STEM1",
+                "STEM2",
+                "STEM4",
+                "CPSAA4"
+            ],
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Comprender y explicar los fenómenos fisicoquímicos cotidianos más relevantes a partir de los principios, teorías y leyes científicas adecuadas, expresándolos, de manera argumentada, utilizando diversidad de soportes y medios de comunicación."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Resolver los problemas fisicoquímicos planteados en este curso utilizando las leyes y teorías científicas adecuadas, razonando los procedimientos utilizados para encontrar la solución o soluciones y expresando adecuadamente los resultados."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Identificar en el entorno inmediato situaciones problemáticas reales de índole científica y emprender iniciativas en las que la ciencia, y en particular la física y la química, pueden contribuir a su solución."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Expresar las observaciones realizadas por el alumnado en",
+            "description": "Expresar las observaciones realizadas por el alumnado en forma de preguntas, formulando hipótesis para explicarlas y demostrando dichas hipótesis a través de la experimentación científica, la indagación y la búsqueda de evidencias, para desarrollar los razonamientos propios del pensamiento científico y mejorar las destrezas en el uso de las metodologías científicas.",
+            "descriptors": [
+                "CCL1",
+                "CCL3",
+                "STEM1",
+                "STEM2",
+                "CD1",
+                "CPSAA4",
+                "CE1",
+                "CCEC3"
+            ],
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Emplear las metodologías propias de la ciencia en la identificación y descripción de fenómenos a partir de cuestiones a las que se pueda dar respuesta a través de la indagación, la deducción, el trabajo experimental y el razonamiento lógico-matemático, diferenciándolas de aquellas pseudocientíficas que no admiten comprobación experimental."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Seleccionar, de acuerdo con la naturaleza de las cuestiones que se traten, la mejor manera de comprobar o refutar las hipótesis formuladas, diseñando estrategias de indagación y búsqueda de evidencias que permitan obtener conclusiones y respuestas ajustadas a la naturaleza de la pregunta formulada."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Aplicar las leyes y teorías científicas conocidas al formular cuestiones e hipótesis, siendo coherente con el conocimiento científico existente y diseñando los procedimientos experimentales o deductivos necesarios para resolverlas o comprobarlas."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Manejar con soltura las reglas y normas básicas de la",
+            "description": "Manejar con soltura las reglas y normas básicas de la física y la química en lo referente al lenguaje de la IUPAC, al lenguaje matemático, al empleo de unidades de medida correctas, al uso seguro del laboratorio y a la interpretación y producción de datos e información en diferentes formatos y fuentes para reconocer el carácter universal y transversal del lenguaje científico y la necesidad de una comunicación fiable en investigación y ciencia entre diferentes países y culturas.",
+            "descriptors": [
+                "STEM4",
+                "STEM5",
+                "CD3",
+                "CPSAA2",
+                "CC1",
+                "CCEC2",
+                "CCEC4"
+            ],
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Emplear datos en diferentes formatos para interpretar y comunicar información relativa a un proceso fisicoquímico concreto, relacionando entre sí lo que cada uno de ellos contiene, y extrayendo en cada caso lo más relevante para la resolución de un problema."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Utilizar adecuadamente las reglas básicas de la física y la química, incluyendo el uso de unidades de medida, las herramientas matemáticas y las reglas de nomenclatura, consiguiendo una comunicación efectiva con toda la comunidad científica."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Poner en práctica las normas de uso de los espacios específicos de la ciencia, como el laboratorio de física y química, asegurando la salud, la conservación del medio ambiente y el cuidado de las instalaciones."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Utilizar de forma crítica, eficiente y segura plataformas",
+            "description": "Utilizar de forma crítica, eficiente y segura plataformas digitales y recursos variados, tanto para el trabajo individual como en equipo, para fomentar la creatividad, el desarrollo personal y el aprendizaje, mediante la consulta de información, la creación de materiales y la comunicación efectiva en los diferentes entornos de aprendizaje.",
+            "descriptors": [
+                "CCL2",
+                "CCL3",
+                "STEM4",
+                "CD1",
+                "CD2",
+                "CPSAA3",
+                "CE3",
+                "CCEC4"
+            ],
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Utilizar recursos variados, tradicionales y digitales, mejorando el aprendizaje autónomo y la interacción con otros miembros de la comunidad educativa, con respeto hacia docentes y estudiantes y analizando críticamente las aportaciones de cada participante."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Trabajar de forma adecuada y versátil con medios variados, tradicionales y digitales en la consulta de información y la creación de contenidos, seleccionando e interpretando con criterio las fuentes más fiables y desechando las menos adecuadas y mejorando el aprendizaje."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Utilizar las estrategias propias del trabajo en grupo, como",
+            "description": "Utilizar las estrategias propias del trabajo en grupo, como base emprendedora de una comunidad científica crítica, ética y eficiente, para comprender la importancia de la ciencia en la mejora de la sociedad, las aplicaciones y repercusiones de los avances científicos, la preservación de la salud y la conservación sostenible del medio ambiente.",
+            "descriptors": [
+                "CCL5",
+                "CP3",
+                "STEM3",
+                "STEM5",
+                "CD3",
+                "CPSAA3",
+                "CC3",
+                "CE2"
+            ],
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Cooperar como forma de construir un medio de trabajo eficiente en la ciencia."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Desarrollar, empleando la metodología adecuada, proyectos científicos que involucren al alumnado en la mejora de la sociedad."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Comprender y valorar la ciencia como una construcción en",
+            "description": "Comprender y valorar la ciencia como una construcción en continuo cambio y evolución, en la que no solo participan las personas dedicadas a ella, sino que también requiere de una interacción con el resto de la sociedad, para obtener resultados que repercutan en el avance en distintos ámbitos.",
+            "descriptors": [
+                "STEM2",
+                "STEM5",
+                "CD4",
+                "CPSAA1",
+                "CPSAA4",
+                "CC4",
+                "CCEC1"
+            ],
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Reconocer y valorar, a través del análisis histórico de los avances científicos logrados por la humanidad, que la ciencia es un proceso en permanente construcción y que existen repercusiones mutuas de la ciencia actual con la tecnología, la sociedad y el medio ambiente."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Analizar en el entorno las necesidades tecnológicas, ambientales, económicas y sociales más importantes que demanda la sociedad."
+                }
+            ]
+        }
+    ]
+}

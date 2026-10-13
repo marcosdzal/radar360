@@ -1,0 +1,151 @@
+{
+    "community": "pais-vasco",
+    "stage": "bachillerato",
+    "decree": "Decreto 82\/2023, de 13 de junio",
+    "subject": "educacion_fisica",
+    "subject_name": "Educación Física",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Planificar su actividad física a partir de la autoevaluación en base a",
+            "description": "Planificar su actividad física a partir de la autoevaluación en base a parámetros científicos y evaluables, valorando sus efectos en la salud, desarrollando procesos de autorregulación emocional y gestión de conflictos, para satisfacer sus demandas d…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Planifica, elabora y aplica un programa personal de actividad física para mejorar o mantener la salud, evaluando los resultados."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Aplicar autónomamente procesos de activación, autorregulación, alimentación, postura y relajación, reflexionando sobre su vínculo con futuros estudios o profesiones."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Aplica medidas de prevención de lesiones y primeros auxilios, identificando transferencias al ámbito profesional."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Analizar críticamente estereotipos corporales y conductas de riesgo en la información recibida, aplicando criterios científicos."
+                },
+                {
+                    "code": "1.5",
+                    "description": "Usar autónomamente apps y dispositivos para gestionar actividad física respetando privacidad y seguridad de datos."
+                },
+                {
+                    "code": "1.6",
+                    "description": "Gestionar los conflictos, aplicando procesos de autorregulación emocional en las prácticas motrices, con respeto ante la diversidad, y actuando con deportividad en el desempeño de los roles de organizador, espectador, participante u otros."
+                },
+                {
+                    "code": "1.7",
+                    "description": "Emplear de manera autónoma aplicaciones y dispositivos digitales relacionados con la gestión de la actividad física, seleccionando el más adecuado, respetando la privacidad y las medidas básicas de seguridad vinculadas a la difusión pública de datos personales."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Actuar en situaciones psicomotrices en entorno sin incertidumbre",
+            "description": "Actuar en situaciones psicomotrices en entorno sin incertidumbre, aplicando planes de acción personales, con autonomía, consolidando actitudes de superación y resiliencia al enfrentarse a desafíos físicos, para desarrollar la autonomía y el crecimien…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Gestionar autónomamente proyectos motores, resolviendo imprevistos y ajustándose a objetivos de forma creativa y eficiente."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Resuelve autónomamente situaciones de oposición\/colaboración ajustando estrategias a cambios en el juego."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Analiza los factores que condicionan la motricidad en gestos técnicos, identifica errores y propone soluciones."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Adaptarse a las exigencias de las situaciones de oposición en entorno sin",
+            "description": "Adaptarse a las exigencias de las situaciones de oposición en entorno sin incertidumbre, adoptando una actitud crítica y proactiva ante comportamientos antideportivos o contrarios a la convivencia, para ajustar las conductas asociadas al desafío y co…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Diseñar y dirigir actividades motrices valorando su aplicación profesional y beneficios personales y sociales."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Cooperar mostrando iniciativa en proyectos motrices y resolver imprevistos de forma coordinada."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Desenvolverse en situaciones sociomotrices de cooperación en entorno sin",
+            "description": "Desenvolverse en situaciones sociomotrices de cooperación en entorno sin incertidumbre, compartiendo espacios de actividad físico-deportiva con independencia de las diferencias culturales, sociales, de género y de habilidad, para contribuir autónomam…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Analizar el origen y evolución de manifestaciones motrices, rechazando componentes contrarios a valores inclusivos."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Crear y representar composiciones corporales expresivas individuales o colectivas con o sin música."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Esta competencia específica se conecta con los siguientes descriptores",
+            "description": "Esta competencia específica se conecta con los siguientes descriptores operativos de las competencias clave en Bachillerato: CCL5, CPSAA3.1, CPSAA3.2, CC1 y CC3.5. Interactuar en situaciones sociomotrices de oposición-colaboración en entorno sin ince…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Participar en actividades físicas en entornos naturales minimizando el impacto ambiental y contribuyendo a su conservación."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Organizar y practicar actividades físicas seguras en espacios naturales y urbanos."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Comprender y contextualizar la influencia cultural y social de las manifestaciones motrices más relevantes, analizando sus orígenes y su evolución, rechazando aquellos componentes que no se ajusten a los valores de una sociedad abierta, inclusiva, diversa e igualitaria."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Descubrir y aprovechar las opciones de acción en situaciones motrices en",
+            "description": "Descubrir y aprovechar las opciones de acción en situaciones motrices en entorno con incertidumbre, de manera eficiente y ajustada, asumiendo responsabilidades en la seguridad de las prácticas, para interiorizar un estilo de vida activo y saludable, …",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Resolver situaciones motrices en un medio con incertidumbre aplicando fundamentos técnico-tácticos en las actividades físico-deportivas, buscando la eficacia y la precisión."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Promover y participar en actividades físico-deportivas en entornos naturales terrestres o acuáticos, disfrutando del entorno de manera sostenible, minimizando el impacto ambiental que estas puedan producir reduciendo al máximo su huella ecológica y desarrollando actuaciones dirigidas a la conservación y mejora de las condiciones de los espacios en los que se desarrollen."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Diseñar y organizar actividades físico-deportivas en el medio natural y urbano, asumiendo responsabilidades y aplicando normas de seguridad individuales y colectivas para prever y controlar los riesgos intrínsecos a la propia actividad derivados de la utilización de los equipamientos, el entorno o la propia actuación de los participantes."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Valerse del cuerpo como instrumento de expresión y comunicación, interiorizando",
+            "description": "Valerse del cuerpo como instrumento de expresión y comunicación, interiorizando el proceso de creación de un proyecto artístico-expresivo, con aportaciones estéticas y creativas que enriquezcan el producto final, para integrar las posibilidades y rec…",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Crear y representar composiciones corporales individuales o colectivas, con y sin base musical, aplicando con precisión, idoneidad y coordinación escénica las técnicas expresivas más apropiadas a cada composición para representarlas ante sus compañeros u otros miembros de la comunidad."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Cooperar o colaborar mostrando iniciativa durante el desarrollo de proyectos y producciones motrices, solventando de forma coordinada cualquier imprevisto o situación que pueda ir surgiendo a lo largo del proceso."
+                },
+                {
+                    "code": "7.3",
+                    "description": "Gestionar las emociones siendo capaz de participar en situaciones artístico-expresivas de manera desinhibida y con eficacia, respetando las intervenciones del resto."
+                }
+            ]
+        }
+    ]
+}

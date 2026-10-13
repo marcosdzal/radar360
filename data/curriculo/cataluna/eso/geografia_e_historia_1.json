@@ -1,0 +1,225 @@
+{
+    "community": "cataluna",
+    "stage": "eso",
+    "decree": "",
+    "subject": "geografia_e_historia",
+    "subject_name": "Ciències Socials: Geografia i Història",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Cercar i tractar informació que permeti interpretar el present i el passat,",
+            "description": "Cercar i tractar informació que permeti interpretar el present i el passat, aplicant els procediments de la recerca hist rica i geogràfica a partir de l'anàlisi crítica de dades procedents de fonts anal giques i digitals, per transformar ho en coneix…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Desenvolupar estratègies de cerca, tractament i organització de la informació per a la resolució de demandes relacionades amb fets i processos rellevants del present i del passat."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Analitzar de manera crítica, responsable i creativa les fonts d’informació analògiques i digitals, contrastant les dades obtingudes i aplicant-les a diferents situacions i contextos."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Elaborar i comunicar els coneixements adquirits mitjançant recursos expressius que incorporin diferents llenguatges i formats, emprant les possibilitats que ofereixen els entorns i recursos digitals."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Incorporar i utilitzar adequadament el vocabulari propi de les ciències socials mitjançant intervencions orals, textos escrits i altres produccions, tot avançant en la construcció d’un discurs precís i rigorós."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Indagar i argumentar a partir de problemes socials relle ants, locals i",
+            "description": "Indagar i argumentar a partir de problemes socials relle ants, locals i globals, per desenvolupar un pensament crític i respectuós amb les diferències, que contribueixi a la construcció de la identitat indi idual i col lecti a i a la consecució d'un …",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Identificar i mostrar interès pels principals problemes que afecten la societat, adoptant una posició crítica, proactiva i de rebuig a situacions injustes i discriminatòries."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Argumentar de forma crítica sobre problemes socials rellevants utilitzant els coneixements propis de les ciències socials i valorant la importància de trobar solucions dialogades."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Mantenir una actitud d’alerta i de reflexió davant dels problemes socials, que ajudi a la permanent revisió dels propis criteris i a comprometre’s en la construcció de futurs millors."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Fonamentar els propis arguments en els valors democràtics, els drets humans i la justícia social, assumint els valors de la cultura de la pau en el decurs de debats i tasques cooperatives."
+                },
+                {
+                    "code": "2.5",
+                    "description": "Posicionar-se amb criteris propis i esdevenir ciutadans crítics amb consciència global mitjançant l’elaboració de productes personals o cooperatius ben argumentats, tot respectant les opinions dels altres."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Interpretar els can is i les continu tats dels processos hist rics, mit an ant",
+            "description": "Interpretar els can is i les continu tats dels processos hist rics, mit an ant la realit ació de projectes d'in estigació i l'ús de fonts primàries i secundàries, per interpretar els problemes del món actual i fer propostes a fa or de la pau, el bene…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Identificar els canvis i les continuïtats entre les etapes històriques, a través de processos inductius, reptes i projectes de recerca, i trobar relacions amb el món actual."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Diferenciar les causes i les conseqüències dels processos històrics i aplicar-ho en problemes actuals relacionats amb els objectius de desenvolupament sostenible."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Representar adequadament informació geogràfica i històrica a través de diverses formes de representació gràfica, cartogràfica i visual."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Situar fets i processos històrics en eixos cronològics, trobant relacions entre diferents períodes i simultaneïtats temporals entre diferents territoris."
+                },
+                {
+                    "code": "3.5",
+                    "description": "Identificar i utilitzar les fonts primàries i secundàries, valorant les seves aportacions al coneixement del medi i de les formes de vida en el present i el passat."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Descobrir i analitzar els elements i dinàmiques que configuren el territori,",
+            "description": "Descobrir i analitzar els elements i dinàmiques que configuren el territori, mit an ant l'estudi de casos i problemàtiques geogràfiques, per valorar els diferents paisatges i proposar alternati es de gestió territorial, amb criteris de sostenibilitat…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Interpretar l’espai des d’una perspectiva sistèmica, a través del concepte de paisatge, identificant-ne els elements i les interrelacions existents."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Analitzar l’acció humana en els paisatges, dins dels diferents ecosistemes planetaris, valorant la riquesa del patrimoni natural i cultural, i detectant-ne les amenaces de degradació."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Criticar i denunciar situacions d’injustícia social i de degradació ambiental, a diferents escales, tant en l’àmbit urbà com en el rural, comprometent-se per a la seva millora."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Analitzar de forma crítica els mecanismes que han regulat la ida de les",
+            "description": "Analitzar de forma crítica els mecanismes que han regulat la ida de les societats al llarg de la hist ria fins a l'actualitat i la construcció dels sistemes democràtics per participar de manera respectuosa i compromesa en activitats comunitàries que …",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Identificar i analitzar els mecanismes que han regulat la vida en comú d’algunes societats del passat, interpretant els principals models d’organització social i política."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Distingir els trets fonamentals de les societats democràtiques i valorar les consecucions de la democràcia i la vigència dels drets humans individuals i col·lectius i de les llibertats."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Analitzar els trets bàsics de l’organització social, política i econòmica d’algunes societats del passat i valorar de manera crítica el grau d’equitat dels intercanvis i relacions amb altres poblacions."
+                },
+                {
+                    "code": "5.4",
+                    "description": "Mostrar actituds pacífiques i tolerants i assumir els drets i deures del marc de convivència, demostrant capacitat crítica i responent de manera assertiva davant de situacions d’injustícia i desigualtat."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Interpretar els processos que han conformat les societats actuals en la se a",
+            "description": "Interpretar els processos que han conformat les societats actuals en la se a diversitat i riquesa a partir de l'anàlisi de perspecti es i mirades diverses per formar se un criteri propi fonamentat i comprometre's en la defensa dels drets humans, la l…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Explicar els trets definitoris d’algunes civilitzacions històriques, identificar elements de canvi i continuïtat en les formes de vida i subsistència i en l’organització de la societat i reconèixer aspectes significatius de la seva aportació a la cultura universal."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Reconèixer les desigualtats socials en diferents èpoques històriques, els mecanismes de domini i control que s’hi han donat i les conseqüències en el món actual."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Identificar els col·lectius que han estat sotmesos, silenciats i invisibilitzats al llarg de la història fins al present i destacar les diferents perspectives i aportacions."
+                },
+                {
+                    "code": "6.4",
+                    "description": "Caracteritzar els drets humans individuals i col·lectius i l’estat de dret com a sistema institucional que garanteix el seu compliment a través dels seus òrgans i institucions."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Identificar els fonaments que sostenen les identitats personals i col lecti es",
+            "description": "Identificar els fonaments que sostenen les identitats personals i col lecti es des d'una perspecti a intercultural, respectant els sentiments de pertinen a, i valorar les diverses manifestacions culturals i artístiques i el patrimoni material i immat…",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Explicar els trets definitoris d’algunes cultures històriques, identificar elements de canvi i continuïtat en les seves expressions culturals i artístiques i reconèixer aspectes significatius de la seva aportació a la cultura universal."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Reflexionar sobre els elements culturals que han conformat les diferents identitats individuals i col·lectives de l’entorn i les aportacions de cadascuna d’elles a la cultura humana universal i a la cohesió social, mostrant una actitud respectuosa envers els sentiments de pertinença."
+                },
+                {
+                    "code": "7.3",
+                    "description": "Assenyalar alguns elements bàsics del llegat històric i cultural d’Europa, així com els fonaments d’una ciutadania europea inclusiva i solidària."
+                },
+                {
+                    "code": "7.4",
+                    "description": "Valorar, protegir i conservar alguns elements del patrimoni artístic, històric i cultural, material i immaterial, com a fonament de les diverses identitats col·lectives i de la cohesió social i com a gaudi dels pobles."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Analitzar les formes de ida i els fets i fen mens socials, passats i presents,",
+            "description": "Analitzar les formes de ida i els fets i fen mens socials, passats i presents, des de la perspecti a de gènere, i comprometre's en la igualtat d'oportunitats, la participació efecti a i la responsabilitat compartida de totes les persones en la societ…",
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Relacionar alguns canvis en els hàbits de vida tradicional i el treball domèstic i contrastar-los amb l’actualitat, identificant les pràctiques compatibles amb la salut, la sostenibilitat, la dignitat i el respecte, i assumir responsabilitats i compromisos en l’àmbit familiar, l’entorn escolar i la comunitat."
+                },
+                {
+                    "code": "8.2",
+                    "description": "Identificar els reptes en relació amb la corresponsabilitat en el treball reproductiu i comunitari entre homes i dones, remarcantne la importància per al funcionament de les societats."
+                },
+                {
+                    "code": "8.3",
+                    "description": "Identificar les limitacions socials i culturals que han impedit que les persones puguin desenvolupar aspiracions al llarg de diferents generacions i reconèixer la riquesa que aporten els vincles intergeneracionals."
+                },
+                {
+                    "code": "8.4",
+                    "description": "Prendre consciència de les causes que han relegat les dones a un rol secundari al llarg de la història i emprendre accions per valorar, dignificar i visibilitzar determinades"
+                },
+                {
+                    "code": "8.5",
+                    "description": "Identificar i rebutjar les violències i les actituds irracionals i discriminatòries envers persones i col·lectius, amb una atenció especial a la diversitat d’identitats i expressions de gènere i diversitat afectivosexual."
+                }
+            ]
+        },
+        {
+            "code": "CE9",
+            "name": "Valorar críticament les dinàmiques d'interdependència entre diferents factors",
+            "description": "valorar críticament les dinàmiques d'interdependència entre diferents factors dins un món globalitzat i les desigualtats i conflictes que es generen, i relacionar les problemàtiques locals i globals per proposar alternati es basades en la cultura de …",
+            "criterios": [
+                {
+                    "code": "9.1",
+                    "description": "Analitzar aspectes del funcionament de l’economia en el món, destacant la interdependència entre països, i el seu impacte en la realitat econòmica de l’entorn proper, i les desigualtats que generen, posant èmfasi en els col·lectius més vulnerables."
+                },
+                {
+                    "code": "9.2",
+                    "description": "Interpretar el paper dels moviments de població a escala global i local i conèixer les situacions que impulsen les persones a migrar per causes econòmiques o a desplaçar-se per buscar refugi."
+                },
+                {
+                    "code": "9.3",
+                    "description": "Analitzar i entendre l’evolució dels factors que generen conflictes violents, i les estratègies econòmiques, polítiques i socials per prevenir-los."
+                },
+                {
+                    "code": "9.4",
+                    "description": "Reconèixer les contribucions històriques i actuals a la solució pacífica dels conflictes, la negociació i la transformació social, política, econòmica i cultural en entorns inclusius."
+                }
+            ]
+        }
+    ]
+}

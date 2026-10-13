@@ -1,0 +1,156 @@
+{
+    "community": "canarias",
+    "stage": "bachillerato",
+    "decree": "Decreto 73\/2023, de 13 de abril",
+    "subject": "lengua_castellana",
+    "subject_name": "Lengua Castellana y Literatura II",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "(c1) El alumnado aprende mejor a partir de lo que ya conoce y de su realidad",
+            "description": "(c1) El alumnado aprende mejor a partir de lo que ya conoce y de su realidad. Por ello es importante, con el desarrollo de esta competencia, seguir estableciendo vínculos entre su experiencia comunicativa y los aprendizajes que se pretenden desarroll…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar y distinguir las lenguas de España y variedades del español, diferenciando rasgos dialectales de sociolectos y registros mediante el uso de metalenguaje específico."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Identificar y desmontar prejuicios lingüísticos analizando la diversidad de normas del español y el papel de los medios en la normalización de las lenguas."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "(c2) Esta competencia se construye sobre la evidencia de que en el proceso de",
+            "description": "(c2) Esta competencia se construye sobre la evidencia de que en el proceso de comunicación se ponen en juego, además del conocimiento compartido entre emisor y receptor, otros elementos contextuales y cotextuales que permiten ir más allá del signific…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Analizar y explicar el contenido, la estructura y la intención comunicativa de discursos orales y piezas audiovisuales complejas, considerando la relación entre imagen y sonido."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Evaluar críticamente la calidad, fiabilidad y eficacia comunicativa de textos orales y multimodales especializados, analizando tanto su estructura formal como su adecuación al canal y propósito."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "(c3) El desarrollo de esta competencia específica se inicia con el uso de la",
+            "description": "(c3) El desarrollo de esta competencia específica se inicia con el uso de la palabra como herramienta de construcción del pensamiento y como mecanismo que permite expresarse, de manera eficaz, informada y rigurosa, cubriendo las necesidades comunicat…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Realizar exposiciones y argumentaciones orales formales y extensas sobre temas académicos o sociales, empleando recursos verbales y no verbales con rigor, fluidez y cohesión."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Intervenir de forma constructiva en debates y trabajos grupales, empleando normas de cortesía, escucha activa y estrategias para facilitar el diálogo cooperativo."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "(c4) El progreso en esta competencia implica tanto la decodificación como la",
+            "description": "(c4) El progreso en esta competencia implica tanto la decodificación como la interpretación de manera eficaz de textos escritos y multimodales que permitan disfrutar de la lectura, acceder al conocimiento del mundo, dar respuesta a necesidades e inte…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Analizar textos académicos y periodísticos identificando su tema, estructura interna e intención comunicativa, realizando inferencias para comprender el sentido global del discurso."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Evaluar críticamente la calidad, fiabilidad y recursos lingüísticos de textos especializados, analizando tanto su contenido como su eficacia comunicativa."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "(c5) Con esta competencia, el progreso en los aprendizajes en esta materia",
+            "description": "(c5) Con esta competencia, el progreso en los aprendizajes en esta materia permitirá al alumnado consolidar su confianza y autonomía en la producción lingüística. La expresión escrita es una de las destrezas que el alumnado interiorizará a lo largo d…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Redactar textos académicos planificados y revisados sobre temas sociales o culturales, asegurando la coherencia, cohesión y el uso de un registro formal adecuado."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "(c6) El acceso a la información no garantiza por sí mismo el conocimiento, pero",
+            "description": "(c6) El acceso a la información no garantiza por sí mismo el conocimiento, pero el alumnado, como la ciudadanía en su conjunto, viven su día a día inmersos en la sociedad de la información. Con el desarrollo de esta competencia adquiere habilidades y…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Realizar investigaciones autónomas sobre temas académicos o literarios, gestionando fuentes de forma crítica y respetando la propiedad intelectual mediante citas y referencias adecuadas."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "(c7) Los aprendizajes vinculados a esta competencia específica persiguen",
+            "description": "(c7) Los aprendizajes vinculados a esta competencia específica persiguen fundamentalmente fortalecer hábitos lectores, convirtiendo el aula, el centro y su entorno en un espacio donde compartir sus experiencias de lectura en un proceso que favorezca …",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Seleccionar y leer autónomamente obras actuales o ensayos vinculados a la tradición, justificando razonadamente la elección y documentando la experiencia personal en un itinerario lector propio."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "(c8) Esta competencia específica, fundamentada en afianzar la capacidad",
+            "description": "(c8) Esta competencia específica, fundamentada en afianzar la capacidad interpretativa en torno a los textos, promueve un estudio analítico y reflexivo del hecho literario. Su finalidad es reforzar la conciencia crítica que permita leer e interpretar…",
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Analizar y comentar obras literarias vinculando sus elementos formales con el contexto histórico y la tradición, aportando una valoración crítica argumentada con terminología específica."
+                },
+                {
+                    "code": "8.2",
+                    "description": "Elaborar proyectos de investigación que vinculen obras literarias de los siglos XIX al XXI con otras artes, analizando temas y formas desde una perspectiva personal."
+                },
+                {
+                    "code": "8.3",
+                    "description": "Crear textos orales escritos y multimodales con intención literaria, sentido estético y conciencia de estilo, en los que se movilicen los conocimientos literarios adquiridos, integrando con rigor las convenciones del lenguaje literario, y la experiencia lectora, con el propósito de que la escritura creativa sea una forma de comunicación que permita compartir ideas, sentimientos y emociones, así como consolidar vínculos personales a partir de la expresión artística."
+                }
+            ]
+        },
+        {
+            "code": "CE9",
+            "name": "(c9) La enseñanza de cómo funciona el sistema lingüístico se ha planteado",
+            "description": "(c9) La enseñanza de cómo funciona el sistema lingüístico se ha planteado tradicionalmente desde la transmisión de un conocimiento dado. Sin embargo, la formulación de los elementos de este bloque transforma, sustancialmente, este enfoque. El objetiv…",
+            "criterios": [
+                {
+                    "code": "9.1",
+                    "description": "Revisar y mejorar textos propios mediante la reflexión metalingüística, empleando terminología técnica para justificar cambios y resolver dificultades de comprensión lectora de forma autónoma."
+                },
+                {
+                    "code": "9.2",
+                    "description": "Justificar razonadamente cómo las categorías gramaticales y recursos lingüísticos elegidos por el autor sirven a su intención comunicativa y afectan al lector."
+                },
+                {
+                    "code": "9.3",
+                    "description": "Realizar pequeñas investigaciones sobre el funcionamiento de la lengua, planteando hipótesis y conclusiones fundamentadas en el uso de fuentes bibliográficas y terminología gramatical precisa."
+                }
+            ]
+        },
+        {
+            "code": "CE0",
+            "name": "(c10) Esta última competencia específica, relativa a la dimensión ética y",
+            "description": "(c10) Esta última competencia específica, relativa a la dimensión ética y democrática de la comunicación, es necesariamente transversal a las otras nueve competencias del currículo. Desarrollarla implica no solo que los chicos y chicas sean eficaces …",
+            "criterios": [
+                {
+                    "code": "10.1",
+                    "description": "Analizar críticamente textos para detectar y corregir usos discriminatorios, manipuladores o abusivos del lenguaje, identificando los mecanismos lingüísticos y no verbales que los sustentan."
+                },
+                {
+                    "code": "10.2",
+                    "description": "Emplear recursos lingüísticos y estrategias de mediación para resolver desacuerdos y alcanzar acuerdos mediante el diálogo respetuoso en diversos contextos sociales y académicos."
+                }
+            ]
+        }
+    ]
+}

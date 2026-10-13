@@ -1,0 +1,91 @@
+{
+    "community": "canarias",
+    "stage": "bachillerato",
+    "decree": "Decreto 73\/2023, de 13 de abril",
+    "subject": "geografia_e_historia_historia_de_la_filosofia",
+    "subject_name": "Historia de la Filosofía",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "(c1) Con esta competencia específica se pretende instruir al alumnado en el",
+            "description": "(c1) Con esta competencia específica se pretende instruir al alumnado en el manejo de las herramientas necesarias para la búsqueda de información fiable, pertinente y relevante, tanto en entornos tradicionales como digitales.",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Interpretar y comparar fuentes filosóficas contextualizadas para elaborar producciones propias"
+                },
+                {
+                    "code": "1.2",
+                    "description": "El alumno elabora y presenta trabajos de investigación sobre problemas histórico-filosóficos, construyendo juicios propios y aplicando protocolos de manera individual o cooperativa."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "(c2) Con el desarrollo de esta competencia específica se pretende contribuir a",
+            "description": "(c2) Con el desarrollo de esta competencia específica se pretende contribuir a la correcta utilización de las herramientas necesarias para el desarrollo del discurso escrito y el diálogo filosófico, que partan del ejercicio reflexivo fundado en razon…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Emplear argumentos rigurosos aplicando normas lógicas y retóricas, evitando dogmatismos y falacias."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "(c3) Con esta competencia específica se quiere integrar en la propia cultura",
+            "description": "(c3) Con esta competencia específica se quiere integrar en la propia cultura del alumnado las diferentes propuestas filosóficas, inscritas en su contexto histórico. En este sentido, se quiere emprender un aprendizaje activo, propio de una ciudadanía …",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Analizar las principales propuestas filosóficas históricas, indagando en sus fuentes e identificando las preguntas que intentan responder."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "(c4) Historia de la Filosofía contribuye a la competencia específica haciendo",
+            "description": "(c4) Historia de la Filosofía contribuye a la competencia específica haciendo posible el diálogo respetuoso y constructivo, evitando caer en el dogmatismo y el pensamiento único, lo que profundiza y complementa, de manera crítica, los saberes de otro…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Elaborar una visión compleja de la historia de la filosofía comparando y contrastando tesis de diferentes filósofos o escuelas."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "(c5) La reflexión filosófica contribuye a la competencia específica proponiendo",
+            "description": "(c5) La reflexión filosófica contribuye a la competencia específica proponiendo una tarea reflexiva que se vertebra sucesivamente a lo largo de los diferentes planteamientos y temáticas filosóficas de las distintas épocas. Se pretende con ello favore…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Analizar cómo los problemas filosóficos surgen y evolucionan en distintos contextos históricos mediante el examen crítico de condiciones culturales."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "(c6) La materia, como disciplina que aporta ideas a otros ámbitos del",
+            "description": "(c6) La materia, como disciplina que aporta ideas a otros ámbitos del conocimiento, contribuye a la competencia específica ocupándose no solo del estudio de textos de grandes figuras filosóficas, sino a través del examen de otros documentos y acontec…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Comparar textos de distintos ámbitos culturales para apreciar las relaciones entre filosofía y otras manifestaciones culturales."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "(c7) El estudio de la historia de la filosofía contribuye a la competencia",
+            "description": "(c7) El estudio de la historia de la filosofía contribuye a la competencia específica, proporcionando al alumnado conocimientos para la reflexión acerca de los supuestos de los que se parte para el ejercicio de una ciudadanía comprometida, reflexiva …",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Elaborar propuestas críticas sobre problemas actuales usando ideas filosóficas históricas."
+                }
+            ]
+        }
+    ]
+}

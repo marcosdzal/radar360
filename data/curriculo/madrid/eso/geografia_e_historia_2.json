@@ -1,0 +1,276 @@
+{
+    "community": "madrid",
+    "stage": "eso",
+    "decree": "Decreto 65/2022, de 20 de julio",
+    "subject": "geografia_e_historia",
+    "subject_name": "Geografía e Historia",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Buscar, seleccionar, tratar y organizar información sobre",
+            "description": "Buscar, seleccionar, tratar y organizar información sobre temas relevantes del presente y del pasado, usando críticamente fuentes históricas y geográficas, para adquirir conocimientos, elaborar y expresar contenidos en varios formatos.",
+            "descriptors": [
+                "CCL2",
+                "CCL3",
+                "STEM4",
+                "CD1",
+                "CD2",
+                "CC1"
+            ],
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Elaborar, expresar y presentar contenidos propios en forma de resúmenes, líneas de tiempo, cuadros conceptuales y otros formatos mediante el desarrollo de métodos de búsqueda, selección y tratamiento de información relativas a procesos y acontecimientos relevantes del presente y de la Edad Media y Moderna."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Contrastar y argumentar sobre temas y acontecimientos de la Edad Media y la Edad Moderna, localizando y analizando de forma crítica fuentes primarias y secundarias como pruebas históricas."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Indagar, argumentar y elaborar productos propios sobre",
+            "description": "Indagar, argumentar y elaborar productos propios sobre problemas geográficos, históricos y sociales que resulten relevantes en la actualidad.",
+            "descriptors": [
+                "CCL1",
+                "CCL2",
+                "CD2",
+                "CC1",
+                "CC3",
+                "CE3",
+                "CCEC3"
+            ],
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Identificar, valorar y mostrar interés por los principales problemas demográficos y urbanísticos que afectan a la sociedad."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Argumentar de forma crítica sobre problemas de convivencia actuales a través de conocimientos geográficos e históricos, contrastando y valorando fuentes diversas."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Incorporar y utilizar adecuadamente términos, conceptos y acontecimientos relacionados con la Geografía, la Historia y otras disciplinas de las Ciencias Sociales, a través de textos escritos y otras fuentes históricas."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Elaborar juicios razonados, respetando las opiniones de los demás."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Conocer los principales desafíos a los que se han",
+            "description": "Conocer los principales desafíos a los que se han enfrentado distintas sociedades a lo largo del tiempo, identificando las causas y consecuencias de los cambios producidos y los problemas a los que se enfrentan en la actualidad, mediante el desarrollo de proyectos de investigación y el uso de fuentes fiables.",
+            "descriptors": [
+                "STEM3",
+                "STEM4",
+                "STEM5",
+                "CPSAA3",
+                "CC3",
+                "CC4",
+                "CE1",
+                "CCEC1"
+            ],
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Adquirir conocimiento relevante de la historia, a través de procesos inductivos, la investigación y el trabajo por proyectos, retos o problemas, mediante la elaboración de trabajos que reflejen la comprensión de los fenómenos y problemas abordados."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Identificar los principales problemas, retos y desafíos a los que se ha enfrentado la humanidad a lo largo de la Edad Media y Edad Moderna, los cambios producidos, sus causas y consecuencias."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Representar adecuadamente información geográfica e histórica a través de diversas formas visuales y cartográficas, tales como los diferentes tipos de gráfico, incluyendo la pirámide de población, o los diversos mapas temáticos."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Utilizar una secuencia cronológica con objeto de examinar la relación entre hechos y procesos en diferentes períodos y lugares significativos de la Edad Media y Moderna (simultaneidad y duración), utilizando fechas y siglos, términos y conceptos apropiados."
+                },
+                {
+                    "code": "3.5",
+                    "description": "Analizar procesos de cambio histórico de relevancia, tales como la expansión del islam o los grandes descubrimientos geográficos en los albores de la Edad Moderna, a través del uso de diferentes fuentes de información, teniendo en cuenta las continuidades y permanencias en diferentes periodos y lugares."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Identificar y analizar los elementos del paisaje y su",
+            "description": "Identificar y analizar los elementos del paisaje y su articulación en sistemas complejos naturales, rurales y urbanos, así como su evolución en el tiempo, interpretando las causas de las transformaciones y valorando el grado de equilibrio existente en los distintos ecosistemas, para promover su conservación, mejora y uso sostenible.",
+            "descriptors": [
+                "CPSAA2",
+                "CC1",
+                "CC2",
+                "CC3",
+                "CC4",
+                "CE1"
+            ],
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Interpretar el entorno humanizado desde una perspectiva sistémica e integradora, a través del concepto de paisaje, identificando sus principales elementos y las interrelaciones existentes."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Valorar el grado de sostenibilidad y de equilibrio de los diferentes espacios y desde distintas escalas, y analizar su transformación y degradación a través del tiempo por la acción humana en la explotación de los recursos, profundizando en su relación con la evolución de la población, identificando las estrategias desarrolladas para su control y dominio y conociendo los conflictos que ha provocado."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Argumentar la necesidad de acciones de defensa, protección, conservación y mejora del entorno rural y urbano."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Analizar de forma crítica planteamientos históricos y",
+            "description": "Analizar de forma crítica planteamientos históricos y geográficos explicando la construcción de los sistemas democráticos y los principios constitucionales que rigen la vida en comunidad, así como asumiendo los deberes y derechos propios de nuestro marco de convivencia, para promover la participación ciudadana y la cohesión social.",
+            "descriptors": [
+                "CCL5",
+                "CC1",
+                "CC2",
+                "CCEC1"
+            ],
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Identificar, interpretar y analizar los mecanismos que han regulado la convivencia y la vida en común a lo largo de la Edad Media y Edad Moderna."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Señalar y explicar aquellas experiencias históricas más destacables de la Edad Media y Moderna en las que se lograron establecer sistemas políticos que favorecieron el ejercicio de derechos y libertades de los individuos."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Mostrar actitudes pacíficas y respetuosas y asumir las normas como marco necesario para la convivencia, demostrando capacidad crítica e identificando y respondiendo de manera asertiva ante las situaciones de injusticia y desigualdad."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Comprender los procesos geográficos, históricos y",
+            "description": "Comprender los procesos geográficos, históricos y culturales que han conformado la realidad multicultural en la que vivimos, conociendo y difundiendo la historia y cultura de las minorías étnicas presentes en nuestro país y valorando sus aportaciones.",
+            "descriptors": [
+                "CCL5",
+                "CPSAA3",
+                "CC1",
+                "CC2",
+                "CC3",
+                "CCEC1"
+            ],
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Situar el nacimiento y desarrollo de distintas civilizaciones medievales y modernas y ubicarlas en el espacio y en el tiempo, integrando los elementos históricos, culturales, institucionales y religiosos que las han conformado, identificando sus aportaciones más relevantes a la cultura universal."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Reconocer la organización y las diferencias sociales durante la Edad Media y Moderna."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Valorar la riqueza y la variedad de la Edad Media y Moderna europea y española. El mestizaje en América. ."
+                },
+                {
+                    "code": "6.4",
+                    "description": "Grandes mujeres de la Edad Media y Moderna."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Identificar los fundamentos que sostienen las diversas",
+            "description": "Identificar los fundamentos que sostienen las diversas identidades propias y las ajenas, a través del conocimiento y puesta en valor del patrimonio material e inmaterial que compartimos para conservarlo y respetar los sentimientos de pertenencia, así como para favorecer procesos que contribuyan a la cohesión y solidaridad territorial en orden a los valores del europeísmo y de la Declaración Universal de los Derechos Humanos.",
+            "descriptors": [
+                "CP3",
+                "CPSAA1",
+                "CC1",
+                "CC2",
+                "CC3",
+                "CCEC1"
+            ],
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Relacionar las distintas aportaciones a la cultura de la Edad Media y Moderna y su legado para Occidente."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Identificar el origen histórico de los reinos hispánicos y su vertebración."
+                },
+                {
+                    "code": "7.3",
+                    "description": "Señalar los fundamentos de la idea de Europa a través de las diferentes experiencias medievales y modernas e identificar el legado histórico, institucional, artístico y cultural como patrimonio común de la ciudadanía europea."
+                },
+                {
+                    "code": "7.4",
+                    "description": "Conocer, valorar, proteger y conservar el patrimonio artístico, histórico y cultural medieval y moderno."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Tomar conciencia del papel de los ciclos demográficos, el",
+            "description": "Tomar conciencia del papel de los ciclos demográficos, el ciclo vital, las formas de vida y las relaciones intergeneracionales y de dependencia en la sociedad actual y su evolución a lo largo del tiempo, analizándolas de forma crítica, para promover alternativas saludables, sostenibles, enriquecedoras y respetuosas con la dignidad humana y el compromiso con la sociedad y el entorno.",
+            "descriptors": [
+                "STEM5",
+                "CD4",
+                "CPSAA2",
+                "CPSAA5",
+                "CC1",
+                "CC2",
+                "CC3"
+            ],
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Conocer e interpretar los comportamientos demográficos de la población, los cambios que ha experimentado y sus ciclos, identificando y analizando los principales problemas y retos a los que nos enfrentamos en el mundo y en España."
+                },
+                {
+                    "code": "8.2",
+                    "description": "Tomar conciencia del ciclo vital y analizar cómo han cambiado sus características, necesidades y obligaciones en determinados momentos históricos, como la Edad Media y la Edad Moderna."
+                },
+                {
+                    "code": "8.3",
+                    "description": "Relacionar los cambios en los estilos de vida propios de la Edad Media y de la Edad Moderna y contrastarlos con los que son saludables y sostenibles en el entorno, a través de comportamientos respetuosos con la salud propia, con la de los demás y con otros seres vivos, tomando conciencia de la importancia de promover el propio desarrollo personal."
+                }
+            ]
+        },
+        {
+            "code": "CE9",
+            "name": "Conocer y valorar la importancia de la seguridad integral",
+            "description": "Conocer y valorar la importancia de la seguridad integral ciudadana en la cultura de convivencia nacional e internacional, reconociendo la contribución del Estado, sus instituciones y otras entidades sociales a la ciudadanía global, a la paz, a la cooperación internacional, para promover la consecución de un mundo más seguro, solidario y justo.",
+            "descriptors": [
+                "CCL2",
+                "CC1",
+                "CC2",
+                "CC3",
+                "CC4",
+                "CE1",
+                "CCEC1"
+            ],
+            "criterios": [
+                {
+                    "code": "9.1",
+                    "description": "Identificar e interpretar la conexión de España con los grandes procesos históricos de la Edad Media y Moderna, valorando lo que han supuesto para su evolución y señalando las aportaciones de sus habitantes a lo largo de la historia."
+                },
+                {
+                    "code": "9.2",
+                    "description": "Interpretar desde la perspectiva del desarrollo sostenible y la ciudadanía global los principales desafíos demográficos, económicos y relativos a la convivencia del mundo actual, expresando la importancia de implicarse en la búsqueda de soluciones y en el modo de concretarlos desde su capacidad de acción tanto local como global, valorando la contribución del Estado, sus instituciones y las asociaciones civiles en programas y misiones dirigidos por organismos nacionales e internacionales para el logro de la paz, la seguridad integral, la convivencia social y la cooperación entre los pueblos."
+                },
+                {
+                    "code": "9.3",
+                    "description": "Identificar y situar en el mapa político los Estados y capitales de Europa."
+                },
+                {
+                    "code": "9.4",
+                    "description": "Identificar y situar en el mapa político de España las comunidades autónomas, capitales y provincias, conociendo las diferentes formas de organización territorial administrativa."
+                }
+            ]
+        }
+    ]
+}

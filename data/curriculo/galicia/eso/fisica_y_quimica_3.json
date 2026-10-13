@@ -1,0 +1,160 @@
+{
+    "community": "galicia",
+    "stage": "eso",
+    "decree": "Decreto 156\/2022, de 15 de septiembre",
+    "subject": "fisica_y_quimica",
+    "subject_name": "Física y Química",
+    "grade": 3,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Comprender y relacionar los motivos por los que ocurren los principales",
+            "description": "Comprender y relacionar los motivos por los que ocurren los principales fenómenos fisicoquímicos del entorno, explicándolos en términos de las leyes y teorías científicas adecuadas para resolver problemas con el fin de aplicarlas para mejorar la real…",
+            "criterios": [
+                {
+                    "code": "CE2.1",
+                    "description": "Identificar y comprender fenómenos fisicoquímicos cotidianos relevantes relacionados con la composición y estructura de sistemas materiales, a partir de los principios, teorías y leyes científicas adecuadas, expresándolos de manera argumentada y utilizando diversidad de soportes y medios de comunicación."
+                },
+                {
+                    "code": "CE2.2",
+                    "description": "Resolver problemas fisicoquímicos relacionados con la composición y con la estructura de sistemas materiales, utilizando las leyes y las teorías científicas adecuadas, razonando los procedimientos utilizados para encontrar las soluciones y expresando adecuadamente los resultados."
+                },
+                {
+                    "code": "CE3.1",
+                    "description": "Identificar y comprender fenómenos fisicoquímicos cotidianos relevantes relacionados con la naturaleza eléctrica de la materia y de la energía, a partir de los principios, teorías y leyes científicas adecuadas, expresándolos de manera argumentada y utilizando diversidad de soportes y medios de comunicación."
+                },
+                {
+                    "code": "CE3.2",
+                    "description": "Resolver problemas fisicoquímicos relacionados con la naturaleza eléctrica de la materia y de la energía, utilizando las leyes y las teorías científicas adecuadas, razonando los procedimientos utilizados para encontrar las soluciones y expresando adecuadamente los resultados."
+                },
+                {
+                    "code": "CE3.3",
+                    "description": "Reconocer en el entorno inmediato situaciones problemáticas reales en la obtención de energía eléctrica y describirlas, así como emprender iniciativas en las que la física y la química pueden contribuir a su solución, analizando críticamente su impacto en la sociedad."
+                },
+                {
+                    "code": "CE4.1",
+                    "description": "Identificar y comprender los cambios físicos y químicos cotidianos relevantes relacionados con la naturaleza eléctrica de la materia y de la energía, a partir de los principios, teorías y leyes científicas adecuadas, expresándolos de manera argumentada y utilizando diversidad de soportes y medios de comunicación."
+                },
+                {
+                    "code": "CE4.2",
+                    "description": "Resolver problemas sobre cambios fisicoquímicos utilizando las leyes y las teorías científicas adecuadas, razonando los procedimientos utilizados para encontrar las soluciones y expresando adecuadamente los resultados."
+                },
+                {
+                    "code": "CE4.3",
+                    "description": "Reconocer en el entorno inmediato situaciones problemáticas reales relacionadas fundamentalmente con los cambios químicos y describirlas, así como emprender iniciativas en las que la física y la química pueden contribuir a su solución, analizando críticamente su impacto en la sociedad."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Expresar las observaciones realizadas por el alumnado en forma de preguntas,",
+            "description": "Expresar las observaciones realizadas por el alumnado en forma de preguntas, formulando hipótesis para explicarlas y demostrando estas hipótesis a través de la experimentación científica, la indagación y la búsqueda de evidencias, para desarrollar lo…",
+            "criterios": [
+                {
+                    "code": "CE1.1",
+                    "description": "Seleccionar, de acuerdo con la naturaleza de las cuestiones que se traten, la mejor manera de comprobar o refutar las hipótesis formuladas, diseñando estrategias de indagación y búsqueda de evidencias que permitan obtener conclusiones y respuestas ajustadas a la naturaleza de la pregunta formulada."
+                },
+                {
+                    "code": "CE1.2",
+                    "description": "Aplicar las leyes y teorías científicas conocidas al formular cuestiones e hipótesis siendo coherente con el conocimiento científico existente y diseñando los procedimientos experimentales o deductivos necesarios para resolverlas o comprobarlas."
+                },
+                {
+                    "code": "CE2.3",
+                    "description": "Emplear las metodologías propias de la ciencia en la identificación y descripción de fenómenos relacionados con sistemas materiales a partir de cuestiones a las que se pueda dar respuesta a través de la indagación, de la deducción, del trabajo experimental y del razonamiento lógico-matemático, diferenciándolas de las pseudocientíficas."
+                },
+                {
+                    "code": "CE3.4",
+                    "description": "Emplear las metodologías propias de la ciencia en la identificación y descripción de fenómenos relacionados con la naturaleza eléctrica de la materia y con la energía a partir de cuestiones a las que se pueda dar respuesta a través de la indagación, de la deducción, del trabajo experimental y del razonamiento lógico-matemático, diferenciándolas de las pseudocientíficas."
+                },
+                {
+                    "code": "CE4.4",
+                    "description": "Emplear las metodologías propias de la ciencia en la identificación y descripción de cambios físicos y químicos a partir de cuestiones a las que se pueda dar respuesta a través de la indagación, de la deducción, del trabajo experimental y del razonamiento lógico-matemático, diferenciándolas de las pseudocientíficas."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Manejar con soltura las reglas y las normas básicas de la física y de la",
+            "description": "Manejar con soltura las reglas y las normas básicas de la física y de la química en el referente al lenguaje de la IUPAC, al lenguaje matemático, al empleo de unidades de medida correctas, al uso seguro del laboratorio y a la interpretación y producc…",
+            "criterios": [
+                {
+                    "code": "CE1.3",
+                    "description": "Utilizar adecuadamente las reglas básicas de la física y de la química, incluido el uso de unidades de medida, así como las herramientas matemáticas precisas, consiguiendo una comunicación efectiva con toda la comunidad científica."
+                },
+                {
+                    "code": "CE1.4",
+                    "description": "Poner en práctica las normas de uso de los espacios específicos de la ciencia, como los laboratorios de física y química, asegurando la salud propia y colectiva, la conservación sostenible del medio ambiente y el cuidado de las instalaciones."
+                },
+                {
+                    "code": "CE2.4",
+                    "description": "Emplear datos en diferentes formatos para interpretar y comunicar información relativa a la composición y estructura de sistemas materiales, relacionando entre sí lo que cada uno de ellos contiene y extrayendo en cada caso lo relevante para la resolución de un problema."
+                },
+                {
+                    "code": "CE2.5",
+                    "description": "Utilizar adecuadamente los símbolos de los elementos químicos y las fórmulas de las sustancias más importantes, las reglas de planteamiento y nomenclatura, facilitando una comunicación efectiva con toda la comunidad científica."
+                },
+                {
+                    "code": "CE3.5",
+                    "description": "Emplear datos en diferentes formatos para interpretar y comunicar información relativa a la naturaleza eléctrica de la materia y de la energía en un proceso fisicoquímico concreto, relacionando entre sí lo que cada uno de ellos contiene y extrayendo en cada caso lo relevante para la resolución de un problema."
+                },
+                {
+                    "code": "CE4.5",
+                    "description": "Emplear datos en diferentes formatos para interpretar y comunicar información relativa a los cambios físicos y químicos de un proceso fisicoquímico concreto, relacionando entre sí lo que cada uno de ellos contiene y extrayendo en cada caso lo relevante para la resolución de un problema."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Utilizar de forma crítica, eficiente y segura plataformas digitales y recursos",
+            "description": "Utilizar de forma crítica, eficiente y segura plataformas digitales y recursos variados, tanto para el trabajo individual como en equipo, para fomentar la creatividad, el desarrollo personal y el aprendizaje individual y social, mediante la consulta …",
+            "criterios": [
+                {
+                    "code": "CE1.5",
+                    "description": "Utilizar recursos variados, tradicionales y digitales, mejorando el aprendizaje autónomo y la interacción con otros miembros de la comunidad educativa, con respeto a los docentes y a los estudiantes y analizando críticamente las aportaciones de cada participante."
+                },
+                {
+                    "code": "CE1.6",
+                    "description": "Trabajar de forma adecuada y con medios variados, tradicionales y digitales, en la consulta de información y en la creación de contenidos, seleccionando con criterio las fuentes más fiables y adecuadas mejorando el aprendizaje propio y colectivo."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Utilizar las estrategias propias del trabajo colaborativo, potenciando el",
+            "description": "Utilizar las estrategias propias del trabajo colaborativo, potenciando el crecimiento entre iguales como base emprendedora de una comunidad científica crítica, ética y eficiente, para comprender la importancia de la ciencia en la mejora de la socieda…",
+            "criterios": [
+                {
+                    "code": "CE1.7",
+                    "description": "Establecer interacciones constructivas y coeducativas, emprendiendo actividades de cooperación y del uso de las estrategias propias del trabajo colaborativo, como forma de construir un medio de trabajo eficiente en la ciencia."
+                },
+                {
+                    "code": "CE1.8",
+                    "description": "Emprender, de forma guiada y de acuerdo con la metodología adecuada, proyectos científicos que involucren al alumnado en la mejora de la sociedad y que creen valor para el individuo y para la comunidad."
+                },
+                {
+                    "code": "CE3.6",
+                    "description": "Emprender, de forma guiada y de acuerdo con la metodología adecuada, proyectos científicos en cuanto a la energía que involucren al alumnado en la mejora de la sociedad y que creen un valor individual y colectivo."
+                },
+                {
+                    "code": "CE4.6",
+                    "description": "Emprender, de forma guiada y de acuerdo con la metodología adecuada, proyectos científicos respecto a cambios físicos y químicos que involucren al alumnado en la mejora de la sociedad y que creen un valor individual y colectivo."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Comprender y valorar la ciencia como una construcción colectiva en continuo",
+            "description": "Comprender y valorar la ciencia como una construcción colectiva en continuo cambio y evolución, en la que no solo participan las personas dedicadas a ella, sino que también requiere de una interacción con el resto de la sociedad, para obtener resulta…",
+            "criterios": [
+                {
+                    "code": "CE1.9",
+                    "description": "Reconocer y valorar, a través del análisis histórico de los avances científicos logrados por hombres y mujeres de ciencia, que este es un proceso en permanente construcción y que existen repercusiones mutuas de la ciencia actual con la tecnología, con la sociedad y con el medio ambiente."
+                },
+                {
+                    "code": "CE2.6",
+                    "description": "Reconocer y valorar, a través del análisis histórico del desarrollo del modelo atómico y de la ordenación de elementos en la tabla, que la ciencia es un proceso en permanente construcción."
+                }
+            ]
+        }
+    ]
+}

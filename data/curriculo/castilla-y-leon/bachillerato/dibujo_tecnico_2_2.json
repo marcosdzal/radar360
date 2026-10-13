@@ -1,0 +1,113 @@
+{
+    "community": "castilla-y-leon",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "dibujo_tecnico_2",
+    "subject_name": "Dibujo Técnico II",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "1.1 Analizar la evolución de las estructuras geométricas y elementos técnicos",
+            "description": "1.1 Analizar la evolución de las estructuras geométricas y elementos técnicos en la arquitectura e ingeniería contemporáneas, valorando la influencia del progreso tecnológico y de las técnicas digitales de representación y modelado en los campos de l…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar cómo la tecnología y las herramientas digitales han transformado el diseño de estructuras geométricas en la arquitectura e ingeniería contemporáneas."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "2.1 Construir figuras planas aplicando transformaciones geométricas y valorando",
+            "description": "2.1 Construir figuras planas aplicando transformaciones geométricas y valorando su utilidad en los sistemas de representación. (CCL2, STEM1, STEM2, STEM4, CD3, CPSAA5, CE2) 2.2 Relacionar las transformaciones homológicas con sus aplicaciones a la geo…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Aplicar transformaciones geométricas como homología, afinidad e inversión para resolver y construir figuras planas complejas, analizando su aplicación en los sistemas de representación."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Resolver problemas complejos de tangencias entre circunferencias y rectas utilizando los conceptos de eje radical, centro radical y potencia de un punto."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Resolver trazados de elipses, parábolas e hipérbolas y sus rectas tangentes, aplicando sus propiedades métricas y definiciones como lugares geométricos con rigor y precisión técnica."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Trazar curvas cónicas, sus rectas tangentes e intersecciones de rectas aplicando propiedades y métodos de construcción, mostrando interés por la precisión. (STEM1, STEM2, STEM4, CD3, CPSAA1.1)"
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "3.1 Valorar la importancia del dibujo a mano alzada",
+            "description": "3.1 Valorar la importancia del dibujo a mano alzada, para desarrollar la \"visión espacial\" y como proceso imprescindible para analizar la posición relativa entre rectas, planos y superficies, identificando sus relaciones métricas y solucionando los p…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Aplicar métodos auxiliares como abatimientos, giros y cambios de plano para resolver problemas métricos y de representación en el sistema diédrico, justificando el procedimiento."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Dibujar poliedros y superficies de revolución en sistema diédrico, aplicando proyecciones para definir su forma y posición espacial con precisión técnica."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Representar objetos tridimensionales complejos mediante sistemas de perspectiva axonométrica y cónica, aplicando coeficientes de reducción y puntos de fuga para obtener imágenes realistas y técnicas."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Aplicar el sistema de planos acotados para resolver y representar problemas técnicos de ingeniería y arquitectura, como cubiertas o configuraciones de terrenos."
+                },
+                {
+                    "code": "3.5",
+                    "description": "Evaluar la calidad técnica de las construcciones geométricas, asegurando que el proceso sea preciso, limpio y siga una metodología lógica y rigurosa."
+                },
+                {
+                    "code": "3.6",
+                    "description": "Valorar el rigor gráfico del proceso, a través de la claridad, la precisión y el proceso de resolución y construcción gráfica. (STEM3, STEM4, CPSAA4, CPSAA5, CE2)"
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "4.1 Elaborar la documentación gráfica apropiada a proyectos de diferentes",
+            "description": "4.1 Elaborar la documentación gráfica apropiada a proyectos de diferentes campos, formalizando y definiendo diseños técnicos empleando croquis y planos conforme a la normativa UNE e ISO, valorando la proporcionalidad, rapidez y limpieza, con actitud …",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Crear documentación técnica completa mediante croquis y planos normalizados (UNE\/ISO), definiendo con precisión diseños arquitectónicos o industriales para su correcta ejecución."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Valorar la normalización como convencionalismo para la comunicación universal conociendo su sintaxis y utilizándolo de forma objetiva, permitiendo simplificar los métodos de producción, asegurar la calidad de los productos, posibilitar su distribución y garantizar su utilización por el destinatario final, con actitud crítica y objetiva. (CCL2, CP2, CP3, STEM4, CD2, CPSAA3.2, CPSAA5, CE3, CCEC4.2)"
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "5.1 Integrar el soporte digital en la representación de objetos y",
+            "description": "5.1 Integrar el soporte digital en la representación de objetos y construcciones mediante aplicaciones CAD, valorando las posibilidades que estas herramientas aportan al dibujo y al trabajo colaborativo. (STEM2, STEM4, CD1, CD2, CD3, CE3, CCEC3.2) 5.…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Utilizar aplicaciones de diseño asistido por ordenador (CAD) para crear representaciones técnicas precisas, aprovechando las funciones de edición digital y el trabajo en red."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Adquirir destrezas en el manejo de herramientas y técnicas en 2D y 3D, aplicándolas a la realización de proyectos de forma individual o colectiva. (STEM2, STEM3, CD1, CD2, CD3, CPSAA5, CE2, CCEC3.2)"
+                },
+                {
+                    "code": "5.3",
+                    "description": "Realizar la exportación, importación e impresión de los proyectos realizados en soporte digital, trabajando colaborativamente. (STEM2, CD1, CD2, CD3, CPSAA5, CCEC3.2)"
+                },
+                {
+                    "code": "5.4",
+                    "description": "Realizar de forma individual y colectiva proyectos sencillos de ingeniería o arquitectónicos, valorando la exactitud, rapidez y limpieza que proporciona la utilización de aplicaciones informáticas, planificando de manera conjunta su desarrollo, revisando el avance de los trabajos con actitud crítica y reflexiva, aprovechando las posibilidades que las herramientas. (STEM2, STEM3, STEM4, CD1, CD2, CD3, CPSAA5, CE2, CE3, CCEC3.2)"
+                }
+            ]
+        }
+    ]
+}

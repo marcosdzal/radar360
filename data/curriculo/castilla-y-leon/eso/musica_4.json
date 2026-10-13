@@ -1,0 +1,98 @@
+{
+    "community": "castilla-y-leon",
+    "stage": "eso",
+    "decree": "",
+    "subject": "musica",
+    "subject_name": "Música",
+    "grade": 4,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Analizar obras de diferentes épocas, estilos y culturas, identificando sus",
+            "description": "Analizar obras de diferentes épocas, estilos y culturas, identificando sus principales rasgos estilísticos y estableciendo relaciones con su contexto, para valorar el patrimonio musical y dancístico como fuente de disfrute y enriquecimiento personal.",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Identifica rasgos estilísticos de obras musicales y danzas, mostrando respeto e interés."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Explicar funciones de obras musicales y dancísticas vinculándolas a su contexto histórico, social y cultural con actitud abierta."
+                },
+                {
+                    "code": "1.3",
+                    "description": "El alumnado relaciona obras musicales y dancísticas de distintas épocas y culturas con la música y danza actuales, explicando su influencia."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Valorar todo tipo de manifestaciones musicales y dancísticas de los siglos XX y XXI, a través de la recepción activa y respetuosa, entendiéndolas como reflejo de la sociedad donde fueron creadas. (CCL1, CCL3, CP2, CD1, CD2, CPSAA1, CPSAA3, CC1)"
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Explorar las posibilidades expresivas de diferentes técnicas musicales y",
+            "description": "Explorar las posibilidades expresivas de diferentes técnicas musicales y dancísticas, a través de actividades de improvisación, para incorporarlas al repertorio personal de recursos y desarrollar el autoconocimiento y el criterio de selección de las …",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Participar con iniciativa y creatividad en la exploración de técnicas musicales y dancísticas básicas mediante improvisaciones pautadas, usando voz, cuerpo, instrumentos o tecnología."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Comunicar ideas y emociones mediante improvisaciones, seleccionando técnicas del repertorio personal."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Demostrar habilidades musicales individuales y grupales, adquiriendo autoestima y conciencia global, a través de la improvisación, mostrando una actitud de respeto hacia las creaciones de los demás. (STEM5, CPSAA1, CPSAA2, CPSAA3, CC1, CE3, CCEC3)"
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Interpretar piezas musicales y dancísticas, gestionando adecuadamente las",
+            "description": "Interpretar piezas musicales y dancísticas, gestionando adecuadamente las emociones y empleando diversas estrategias y técnicas vocales, corporales o instrumentales, para ampliar las posibilidades de expresión personal.",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Leer partituras sencillas e identificar con ayuda los elementos básicos del lenguaje musical (notas, ritmo, dinámica, etc.)."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Aplicar técnicas básicas de interpretación vocal, instrumental o corporal usando estrategias de memorización y valorando los ensayos."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Interpretar piezas sencillas con corrección técnica y gestionando la ansiedad escénica de forma guiada."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Demostrar habilidades musicales individuales y grupales, adquiriendo autoestima y conciencia global, a través de la interpretación. ("
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Crear propuestas artístico-musicales, empleando la voz, el cuerpo, instrumentos musicales y herramientas tecnológicas",
+            "description": "Crear propuestas artístico-musicales, empleando la voz, el cuerpo, instrumentos musicales y herramientas tecnológicas, para potenciar la creatividad e identificar oportunidades de desarrollo personal, social, académico y profesional, así como de empr…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Planificar y desarrollar creativamente propuestas musicales y dancísticas, individuales o grupales, con medios analógicos y digitales."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Colaborar en la planificación y ejecución grupal de propuestas musicales, valorando las aportaciones y reconociendo oportunidades de desarrollo."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Utilizar herramientas digitales con autonomía en la creación de propuestas artísticomusicales, para el desarrollo de materiales audiovisuales para grabar, reproducir, crear e interpretar música, garantizando el respeto por los derechos de autor y la propiedad intelectual. (CCL3, CD2, CD3, CE3, CCEC4)"
+                },
+                {
+                    "code": "4.4",
+                    "description": "Reflexionar críticamente sobre el consumo de la música en la era digital, valorando y promoviendo hábitos de consumo responsable en las plataformas digitales y las redes sociales musicales. (CCL1, CCL3, CD3, CC1, CE1) La adquisición de las competencias específicas constituye la base para la evaluación competencial del alumnado."
+                }
+            ]
+        }
+    ]
+}

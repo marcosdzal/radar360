@@ -1,0 +1,101 @@
+{
+    "community": "la-rioja",
+    "stage": "eso",
+    "decree": "Decreto 21\/2022, de 13 de julio",
+    "subject": "artes_escenicas",
+    "subject_name": "Artes Escénicas",
+    "grade": 4,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Conocer qué es un presupuesto personal, planificándolo y llevando a cabo su",
+            "description": "Conocer qué es un presupuesto personal, planificándolo y llevando a cabo su gestión efectiva, identificando y clasificando gastos e ingresos, así como planteando el lugar que el ahorro debe ostentar dentro del mismo y siendo capaz de leer y entender …",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Identificar factores históricos y sociales de producciones artísticas relevantes, describiendo su función y valores con respeto y perspectiva de género."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Valorar la conservación del patrimonio escénico mediante el análisis guiado de obras de arte."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Analizar la importancia del componente emocional, tomando conciencia de su repercusión en el aprendizaje y desarrollando estrategias que mejoren el proceso de cognitivo."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Analizar la relación de la cognición, la motivación, el aprendizaje y la gestión emocional con la conducta, tanto propia como de los demás, a partir de las bases teóricas fundamentales de los procesos físicos y psicológicos que intervienen en ellos."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Tomar conciencia de que las relaciones económicas entre los hogares, las",
+            "description": "Tomar conciencia de que las relaciones económicas entre los hogares, las empresas y las administraciones públicas generan flujos de renta que responden a sus necesidades o capacidades de financiación, reconociendo que estos flujos pueden ser prestado…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Explicar razonadamente la importancia del proceso entre realidad, imaginario y producción, superando estereotipos y respetando la diversidad cultural."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Analizar con guía producciones artísticas propias y ajenas, desarrollando una mirada estética y respetando la diversidad cultural."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Identificar cualidades personales y de los demás reflexionando sobre la importancia de potenciar aquellas que resultan necesarias para afrontar con eficacia nuevos retos y facilitar el proceso de transición de la adolescencia a la etapa adulta."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Valorar y relacionar el impulso de la esperanza de vida, al nacer y a los 65",
+            "description": "Valorar y relacionar el impulso de la esperanza de vida, al nacer y a los 65 años, con el aumento en las tasas de escolarización y en la cobertura sanitaria, comprendiendo y estudiando los pilares básicos sobre los que se sustenta el Estado del Biene…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Selecciona y analiza obras plásticas, visuales y audiovisuales de distintas épocas con perspectiva de género, integrándolas en su cultura personal."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Argumentar el disfrute personal ante obras artísticas, compartiendo impresiones y emociones con respeto."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Conocer el paradigma del consumo responsable o consciente, identificando los",
+            "description": "Conocer el paradigma del consumo responsable o consciente, identificando los beneficios personales y valorando las consecuencias que tiene para la sociedad, el medio ambiente y las relaciones laborales una ciudadanía preocupada por sus actos de compr…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Analizar técnicas y lenguajes artísticos vinculando sus procesos y resultados a contextos sociales, históricos y tecnológicos."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Analizar de forma guiada lenguajes artísticos, conectar producciones y aplicar creativamente en la propia creación."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Valorar la diversidad, desde el respeto, la inclusión y la igualdad real y efectiva entre hombres y mujeres, considerándola un elemento enriquecedor y de valor a nivel personal, social y cultural."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Utilizar el concepto de economía circular para proponer medidas de consumo",
+            "description": "Utilizar el concepto de economía circular para proponer medidas de consumo responsable, ahorro personal y eficiencia doméstica, valorando las consecuencias positivas sobre el entorno local, regional y global, siendo conscientes de los retos a los que…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Expresar ideas y sentimientos en producciones escénicas experimentando con herramientas, técnicas y soportes para mejorar comunicación y reflexión crítica."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Producir creaciones escénicas justificando el proceso creativo y mostrando iniciativa, autoconfianza, empatía y sensibilidad."
+                }
+            ]
+        }
+    ]
+}

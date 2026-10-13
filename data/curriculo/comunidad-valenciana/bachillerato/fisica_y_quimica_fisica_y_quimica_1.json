@@ -1,0 +1,120 @@
+{
+    "community": "comunidad-valenciana",
+    "stage": "bachillerato",
+    "decree": "Decreto 108\/2022, de 5 de agosto",
+    "subject": "fisica_y_quimica_fisica_y_quimica",
+    "subject_name": "Física y Química",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Resolver problemas y situaciones relacionados con la física y la química",
+            "description": "Resolver problemas y situaciones relacionados con la física y la química, aplicando las leyes y teorías científicas adecuadas, para comprender y explicar los fenómenos naturales y evidenciar el papel de estas ciencias en la mejora del bienestar común…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Explicar fenómenos del entorno aplicando leyes físicas y químicas mediante diversos formatos, identificando las causas científicas que los originan y su impacto cotidiano."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Resolver problemas de física y química basados en situaciones cotidianas, justificando el proceso mediante leyes científicas y comunicando los resultados con precisión y rigor técnico."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Detectar problemas cotidianos y proponer soluciones sostenibles basadas en principios de la física y química, evaluando su impacto ambiental y social de forma crítica."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Razonar con solvencia, usando el pensamiento científico y las destrezas relacionadas con el trabajo de la ciencia",
+            "description": "Razonar con solvencia, usando el pensamiento científico y las destrezas relacionadas con el trabajo de la ciencia, para aplicarlos a la observación de la naturaleza y el entorno, a la formulación de preguntas e hipótesis y a la validación de las mism…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Plantear hipótesis ante problemas científicos y validarlas mediante el diseño y ejecución de experimentos, el análisis de datos y el razonamiento lógico-matemático."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Resolver un mismo problema científico mediante diversos procedimientos, comparando los resultados para verificar su coherencia, precisión y la fiabilidad de la metodología empleada."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Validar hipótesis experimentales aplicando leyes físicas y químicas, estableciendo relaciones matemáticas y conceptuales entre variables para asegurar la coherencia científica de los resultados."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Manejar con propiedad y solvencia el flujo de información en los diferentes",
+            "description": "Manejar con propiedad y solvencia el flujo de información en los diferentes registros de comunicación de la ciencia como la nomenclatura de compuestos químicos, el uso del lenguaje matemático, el uso correcto de las unidades de medida, la seguridad e…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Realizar conversiones entre sistemas de unidades y aplicar la notación científica con precisión para resolver problemas físicos y químicos de forma estandarizada."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Nombrar y formular sustancias inorgánicas y orgánicas siguiendo las normas IUPAC vigentes para comunicarse con precisión y rigor en el ámbito científico."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Interpretar y relacionar información de procesos fisicoquímicos en diversos formatos, como gráficas o tablas, extrayendo los datos esenciales para la resolución efectiva de problemas."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Aplicar técnicas de experimentación y normas de seguridad en el laboratorio, utilizando correctamente los materiales y comprendiendo la importancia de la prevención en la investigación científica."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Utilizar de forma autónoma, crítica y eficiente plataformas digitales y",
+            "description": "Utilizar de forma autónoma, crítica y eficiente plataformas digitales y recursos variados, tanto para el trabajo individual como en equipo, consultando y seleccionando información científica veraz, creando materiales en diversos formatos y comunicand…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Participar activamente en entornos de aprendizaje colaborativos, empleando recursos digitales y tradicionales para intercambiar información científica con rigor, respeto y sentido crítico."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Gestionar información científica de fuentes fiables para crear contenidos digitales de forma autónoma y colaborativa, discriminando la veracidad de los datos obtenidos."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Trabajar de forma colaborativa en equipos diversos",
+            "description": "Trabajar de forma colaborativa en equipos diversos, aplicando habilidades de coordinación, comunicación, emprendimiento y reparto equilibrado de responsabilidades, para predecir las consecuencias de los avances científicos y su influencia sobre la sa…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Colaborar activamente en equipos para resolver problemas científicos mediante el debate, el consenso y la evaluación mutua, mejorando la comprensión colectiva de la materia."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Colaborar en equipo para investigar y sintetizar información científica, generando productos comunicativos como informes o presentaciones que reflejen el análisis y la discusión grupal."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Argumentar informadamente sobre cuestiones científico-ambientales, alcanzando consenso y proponiendo soluciones creativas en equipo."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Participar de forma activa en la construcción colectiva y evolutiva del",
+            "description": "Participar de forma activa en la construcción colectiva y evolutiva del conocimiento científico, en su entorno cotidiano y cercano, para convertirse en agentes activos de la difusión del pensamiento científico, la aproximación escéptica a la informac…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Argumentar científicamente el impacto de las acciones cotidianas personales sobre el medioambiente y la salud, proponiendo mejoras concretas basadas en evidencias para el bienestar social."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Identificar problemas sociales o ambientales del entorno y proponer soluciones fundamentadas en la física y la química para mejorar la sostenibilidad y la salud pública."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "community": "canarias",
+    "stage": "bachillerato",
+    "decree": "Decreto 73\/2023, de 13 de abril",
+    "subject": "diseno",
+    "subject_name": "Diseño",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "(c1) La competencia específica se centra en el desarrollo de aprendizajes",
+            "description": "(c1) La competencia específica se centra en el desarrollo de aprendizajes relativos a la identificación de los fundamentos del diseño, al análisis de los diversos productos de diseño bidimensionales o tridimensionales, al conocimiento de los procesos…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar la relación entre la estética y la utilidad de objetos o gráficos, identificando oportunidades de mejora en su configuración formal y funcional."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Explicar las dimensiones simbólica y semántica de objetos de diseño, identificando sus elementos sintácticos y constitutivos, con actitud receptiva."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "(c2) En los aprendizajes relativos a la competencia específica se hace una",
+            "description": "(c2) En los aprendizajes relativos a la competencia específica se hace una reflexión sobre los orígenes, los principios y funciones del diseño, comparando y analizando las distintas producciones a lo largo de la historia, y cómo en distintos periodos…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Compara productos de diseño de distintos contextos y reflexiona críticamente sobre el papel de mujeres y culturas no occidentales."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "(c3) En la competencia específica se desarrollan aprendizajes relacionados con",
+            "description": "(c3) En la competencia específica se desarrollan aprendizajes relacionados con el análisis de los procesos y métodos utilizados, atendiendo de manera significativa a las distintas configuraciones formales, compositivas y estructurales presentes en di…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Analizar críticamente las estructuras formales y funcionales de objetos de diseño, evaluando su impacto social y ambiental."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Analizar relaciones compositivas en productos de diseño e identificar elementos visuales explicando su impacto en inclusión, sostenibilidad y consumo responsable."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "(c4) Con esta competencia específica se profundiza en la metodología basada en",
+            "description": "(c4) Con esta competencia específica se profundiza en la metodología basada en proyectos, concretamente en la planificación de proyectos de diseño individuales y colectivos, y en la organización de tareas, seleccionando adecuadamente las herramientas…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Elaborar un plan de proyecto de diseño con objetivos, fases, herramientas y criterios de sostenibilidad."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Organizar el equipo de trabajo colaborativo, distribuyendo tareas según habilidades y asumiendo responsabilidades con criterio."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "(c5) Siguiendo con la metodología basada en proyectos, en los aprendizajes de",
+            "description": "(c5) Siguiendo con la metodología basada en proyectos, en los aprendizajes de esta competencia específica se van a desarrollar propuestas de rediseño personales y creativas, partiendo de ideas o productos preexistentes, como respuesta a necesidades p…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Diseñar soluciones innovadoras a partir de ideas preexistentes para responder a necesidades propias o de expresión."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Evaluar críticamente propuestas de diseño propias analizando coherencia, adecuación y respeto a la propiedad intelectual."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "(c6) Y por último, en esta competencia específica se desarrollan todos los",
+            "description": "(c6) Y por último, en esta competencia específica se desarrollan todos los aprendizajes correspondientes a la metodología basada en proyectos, realizando productos de diseño tanto individuales como colectivos para responder con creatividad a necesida…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Elaborar proyectos elementales de diseño gráfico, industrial o de espacios, individual o en grupo, aplicando soluciones creativas e innovadoras y considerando aspectos sociales, económicos y de propiedad intelectual."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Evaluar crítica y argumentadamente trabajos de diseño propios y ajenos, valorando recursos técnicos, técnicas y adecuación comunicativa."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Analizar cómo el diseño inclusivo se aplica en distintos ámbitos y valorar proyectos transformadores."
+                }
+            ]
+        }
+    ]
+}

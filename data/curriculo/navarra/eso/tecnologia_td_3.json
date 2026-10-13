@@ -1,0 +1,100 @@
+{
+    "community": "navarra",
+    "stage": "eso",
+    "decree": "Real Decreto 217\/2022",
+    "subject": "tecnologia_y_digitalizacion",
+    "subject_name": "Tecnología y Digitalización",
+    "grade": 3,
+    "competencias": [
+        {
+            "code": "CE2",
+            "name": "Abordar problemas tecnológicos con autonomía y actitud creativa",
+            "description": "Abordar problemas tecnológicos con autonomía y actitud creativa, aplicando conocimientos interdisciplinares y trabajando de forma ordenada y cooperativa, para diseñar, planificar y desarrollar soluciones a un problema o necesidad de forma eficaz, inn…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Diseñar soluciones tecnológicas creativas y sostenibles para problemas definidos"
+                },
+                {
+                    "code": "2.2",
+                    "description": "Planificar y organizar materiales, herramientas y tareas para construir una solución a un problema tecnológico, en grupo o individualmente."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Aplicar de forma apropiada distintas técnicas y conocimientos",
+            "description": "Aplicar de forma apropiada distintas técnicas y conocimientos interdisciplinares utilizando operadores, sistemas tecnológicos y herramientas, teniendo en cuenta la planificación y el diseño previo, para construir o fabricar soluciones tecnológicas y …",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Fabricar objetos o modelos con materiales y herramientas, aplicando fundamentos de estructuras, mecanismos, electricidad y electrónica, y respetando normas de seguridad."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Describir, representar e intercambiar ideas o soluciones a problemas",
+            "description": "Describir, representar e intercambiar ideas o soluciones a problemas tecnológicos o digitales, utilizando medios de representación, simbología y vocabulario adecuados, así como los instrumentos y recursos disponibles y valorando la utilidad de las he…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Elaborar documentación técnica y gráfica colaborativa con herramientas digitales para comunicar el proceso de creación de un producto."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Desarrollar algoritmos y aplicaciones informáticas en distintos entornos",
+            "description": "Desarrollar algoritmos y aplicaciones informáticas en distintos entornos, aplicando los principios del pensamiento computacional e incorporando las tecnologías emergentes, para crear soluciones a problemas concretos, automatizar procesos y aplicarlos…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Describir, interpretar y diseñar algoritmos y diagramas de flujo para resolver problemas informáticos con creatividad."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Crear aplicaciones sencillas usando programación, editores y módulos de IA para resolver problemas."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Automatizar procesos con robots conectados a internet mediante análisis, construcción y programación."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Comprender los fundamentos del funcionamiento de los dispositivos y",
+            "description": "Comprender los fundamentos del funcionamiento de los dispositivos y aplicaciones habituales de su entorno digital de aprendizaje, analizando sus componentes y funciones y ajustándolos a sus necesidades, para hacer un uso más eficiente y seguro de los…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Resolver problemas técnicos sencillos usando dispositivos digitales de manera eficiente y segura, analizando componentes y aplicando medidas de protección."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Crear, elaborar y difundir contenidos digitales configurando herramientas para un uso eficiente y seguro."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Organizar información de manera estructurada y aplicar técnicas de almacenamiento seguro para proteger los datos."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Hacer un uso responsable y ético de la tecnología, mostrando interés por un",
+            "description": "Hacer un uso responsable y ético de la tecnología, mostrando interés por un desarrollo sostenible, identificando sus repercusiones y valorando la contribución de las tecnologías emergentes, para identificar las aportaciones y el impacto del desarroll…",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Valorar la influencia de la tecnología en la sociedad y el medio ambiente, identificando aportaciones y repercusiones para el desarrollo sostenible."
+                },
+                {
+                    "code": "7.2",
+                    "description": "El alumno identifica y valora las aportaciones de tecnologías emergentes al bienestar, igualdad social y reducción del impacto ambiental, actuando con responsabilidad y ética."
+                }
+            ]
+        }
+    ]
+}

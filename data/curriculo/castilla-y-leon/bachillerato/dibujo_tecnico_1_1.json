@@ -1,0 +1,113 @@
+{
+    "community": "castilla-y-leon",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "dibujo_tecnico_1",
+    "subject_name": "Dibujo Técnico I",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "1.1 Analizar, a lo largo de la historia, la relación entre las matemáticas y el",
+            "description": "1.1 Analizar, a lo largo de la historia, la relación entre las matemáticas y el dibujo geométrico valorando su importancia en diferentes campos como la arquitectura o la ingeniería, desde la perspectiva de género y la diversidad cultural, empleando a…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar la relación histórica entre matemáticas y dibujo geométrico, valorando su importancia en arquitectura e ingeniería con perspectiva de género y diversidad cultural, empleando vocabulario técnico y artístico."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "2.1 Solucionar gráficamente cálculos matemáticos y transformaciones básicas",
+            "description": "2.1 Solucionar gráficamente cálculos matemáticos y transformaciones básicas aplicando conceptos y propiedades de la geometría plana. (CCL2, STEM1, STEM2, STEM4) 2.2 Trazar gráficamente construcciones poligonales basándose en sus propiedades y mostran…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Resolver gráficamente operaciones matemáticas y transformaciones geométricas usando conceptos de geometría plana."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Dibujar polígonos usando sus propiedades geométricas con precisión y limpieza."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Resolver gráficamente tangencias y curvas aplicando propiedades con rigor."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "3.1 Relacionar los fundamentos y características de los sistemas de",
+            "description": "3.1 Relacionar los fundamentos y características de los sistemas de representación con sus posibles aplicaciones al dibujo técnico, seleccionando el sistema adecuado al objetivo previsto, identificando las ventajas e inconvenientes en función de la i…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Representar puntos, rectas y planos en sistema diédrico, determinando su posición relativa y distancias."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Identificar y describir figuras planas en sistemas axonométricos explicando su función como representación espacial."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Representación e interpretación de elementos básicos en sistema de planos acotados aplicando sus fundamentos."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Representar objetos tridimensionales sobre el plano aplicando las reglas de la perspectiva cónica."
+                },
+                {
+                    "code": "3.5",
+                    "description": "Valorar el rigor gráfico, claridad y precisión en el proceso de resolución y construcción gráfica."
+                },
+                {
+                    "code": "3.6",
+                    "description": "Dibujar elementos en el espacio empleando la perspectiva cónica, adaptando y organizando sus conocimientos, destrezas y actitudes para resolver con creatividad y eficacia una producción técnico-artística propia. (STEM1, STEM4, CCEC4.2)"
+                },
+                {
+                    "code": "3.7",
+                    "description": "Valorar el rigor gráfico del proceso, a través de la claridad, la precisión y el proceso de resolución y construcción gráfica. (CPSAA1.1, CPSAA5)"
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "4.1 Documentar gráficamente objetos sencillos mediante sus vistas acotadas",
+            "description": "4.1 Documentar gráficamente objetos sencillos mediante sus vistas acotadas aplicando la normativa UNE e ISO en la utilización de sintaxis, escalas y formatos, valorando la importancia de usar un lenguaje técnico común. (CP2, CP3, STEM1, STEM4, CD2, C…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "El alumnado dibuja las vistas normalizadas de objetos sencillos, aplicando escalas y formatos según normas UNE e ISO."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Aplicar el croquis y el esbozo como herramientas de reflexión para explorar alternativas en procesos de trabajo."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Valorar la normalización como convencionalismo para la comunicación universal que permite simplificar los métodos de producción. (CCL2, CP2, CP3, CPSAA4, CPSAA5)"
+                },
+                {
+                    "code": "4.4",
+                    "description": "Aplicar las normas nacionales europeas e internacionales relacionadas con los principios generales de representación, formatos, escalas, acotación y métodos de proyección, considerando el Dibujo Técnico como lenguaje universal, valorando la necesidad de conocer su sintaxis, utilizando de forma objetiva para la interpretación de planos técnicos y para la elaboración de bocetos, esquemas, croquis y planos. (CCL2, CP3, STEM4, CPSAA3.2)"
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "5.1 Crear figuras planas y tridimensionales mediante programas de dibujo",
+            "description": "5.1 Crear figuras planas y tridimensionales mediante programas de dibujo vectorial, usando las herramientas que aportan y las técnicas asociadas. (STEM2, STEM3, STEM4, CD1, CD2, CD3, CD5, CPSAA4, CE3) 5.2 Recrear virtualmente piezas en tres dimension…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "El alumnado crea figuras planas y 3D con software de dibujo vectorial, aplicando herramientas y técnicas propias del CAD."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Diseñar virtualmente piezas 3D mediante operaciones booleanas entre primitivas para presentar proyectos en grupo."
+                }
+            ]
+        }
+    ]
+}

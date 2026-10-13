@@ -1,0 +1,103 @@
+{
+    "community": "navarra",
+    "stage": "bachillerato",
+    "decree": "Real Decreto 217\/2022",
+    "subject": "matematicas_ciencias",
+    "subject_name": "Matemáticas II",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE2",
+            "name": "Verificar la validez de las posibles soluciones de un problema empleando el",
+            "description": "Verificar la validez de las posibles soluciones de un problema empleando el razonamiento y la argumentación para contrastar su idoneidad. El análisis de las soluciones obtenidas en la resolución de un problema potencia la reflexión crítica, el razona…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Justificar razonadamente por qué los resultados obtenidos en un problema matemático son correctos y coherentes con los datos y restricciones iniciales."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Formular o investigar conjeturas o problemas, utilizando el razonamiento, la",
+            "description": "Formular o investigar conjeturas o problemas, utilizando el razonamiento, la argumentación, la creatividad y el uso de herramientas tecnológicas, para generar nuevo conocimiento matemático.",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Investigar y validar propiedades matemáticas de forma autónoma, planteando hipótesis y demostrándolas mediante razonamientos lógicos o herramientas tecnológicas para profundizar en los contenidos de la materia."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Utilizar herramientas digitales y calculadoras gráficas para comprobar hipótesis, visualizar conceptos geométricos y agilizar cálculos complejos en la resolución de problemas matemáticos."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Utilizar el pensamiento computacional de forma eficaz, modificando, creando y",
+            "description": "Utilizar el pensamiento computacional de forma eficaz, modificando, creando y generalizando algoritmos que resuelvan problemas mediante el uso de las matemáticas, para modelizar y resolver situaciones de la vida cotidiana y del ámbito de la ciencia y…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Diseñar y adaptar algoritmos o procesos lógicos estructurados para modelizar y resolver problemas complejos de ciencia y tecnología mediante el pensamiento computacional."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Establecer, investigar y utilizar conexiones entre las diferentes ideas",
+            "description": "Establecer, investigar y utilizar conexiones entre las diferentes ideas matemáticas estableciendo vínculos entre conceptos, procedimientos, argumentos y modelos para dar significado y estructurar el aprendizaje matemático. Establecer conexiones entre…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Relacionar distintos bloques de contenido, como álgebra, geometría y análisis, para resolver problemas complejos que requieren una visión global y no fragmentada de las matemáticas."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Resolver problemas complejos integrando conocimientos de distintos bloques matemáticos, como el uso del cálculo diferencial para resolver problemas de optimización geométrica o algebraica."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Descubrir los vínculos de las matemáticas con otras áreas de conocimiento y profundizar en sus conexiones",
+            "description": "Descubrir los vínculos de las matemáticas con otras áreas de conocimiento y profundizar en sus conexiones, interrelacionando conceptos y procedimientos, para modelizar, resolver problemas y desarrollar la capacidad crítica, creativa e innovadora en s…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Aplicar modelos matemáticos para resolver problemas contextualizados en situaciones reales o de otras ciencias, justificando la conexión entre los conceptos teóricos y la realidad."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Explicar y valorar cómo los avances matemáticos, especialmente el cálculo y el álgebra lineal, han permitido resolver retos científicos y tecnológicos actuales."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Comunicar las ideas matemáticas",
+            "description": "Comunicar las ideas matemáticas, de forma individual y colectiva, empleando el soporte, la terminología y el rigor apropiados, para organizar y consolidar el pensamiento matemático.",
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Expresar razonamientos matemáticos de forma estructurada y precisa, utilizando el lenguaje simbólico y la terminología técnica propia de la materia en diferentes soportes."
+                }
+            ]
+        },
+        {
+            "code": "CE9",
+            "name": "Utilizar destrezas personales y sociales, identificando y gestionando las",
+            "description": "Utilizar destrezas personales y sociales, identificando y gestionando las propias emociones, respetando las de las demás personas y organizando activamente el trabajo en equipos heterogéneos, aprendiendo del error como parte del proceso de aprendizaj…",
+            "criterios": [
+                {
+                    "code": "9.1",
+                    "description": "Gestionar el bloqueo ante problemas complejos de Matemáticas II, analizando errores cometidos y ajustando estrategias de resolución con autonomía y perseverancia."
+                },
+                {
+                    "code": "9.3",
+                    "description": "Colaborar activamente en grupos diversos para resolver problemas matemáticos, manteniendo una actitud de escucha empática, respeto mutuo y fomento de un clima de trabajo saludable."
+                }
+            ]
+        }
+    ]
+}

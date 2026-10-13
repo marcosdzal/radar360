@@ -1,0 +1,81 @@
+{
+    "community": "canarias",
+    "stage": "bachillerato",
+    "decree": "Decreto 73\/2023, de 13 de abril",
+    "subject": "literatura_universal",
+    "subject_name": "Literatura Universal",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "(c1) La lectura guiada en el aula de obras relevantes de la literatura",
+            "description": "(c1) La lectura guiada en el aula de obras relevantes de la literatura universal constituye el eje central de esta competencia específica y propicia la creación de un mapa de referencias compartidas, lo que contribuye a la cohesión social, la educaci…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Explica y argumenta la interpretación de obras analizando relaciones internas y externas, usando metalenguaje y juicios estéticos."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Crear textos literarios propios a partir de la lectura de obras, aplicando convenciones de género y estilo en distintos soportes."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "(c2) Esta competencia favorece la lectura libre y autónoma de obras",
+            "description": "(c2) Esta competencia favorece la lectura libre y autónoma de obras significativas del patrimonio literario universal, la deliberación argumentada en torno a ellos y el desarrollo de procesos de indagación que aprovechen los mapas de referencia, prop…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Elaborar una interpretación personal de una obra universal, analizando aspectos temáticos, estructurales y estéticos, y vinculándola con otras experiencias artísticas."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Explorar la cultura literaria mediante un itinerario personal y compartir experiencias de lectura usando metalenguaje."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "(c3) Esta competencia específica permite establecer vínculos pertinentes entre",
+            "description": "(c3) Esta competencia específica permite establecer vínculos pertinentes entre las obras literarias y la actualidad, así como con otros textos y manifestaciones artísticas y culturales y utilizarla como un medio de comprensión de sí mismo o misma, de…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Comparar obras literarias y artísticas, argumentando semejanzas y diferencias temáticas, formales y ético-estéticas."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Elaborar un proyecto de investigación que compare clásicos literarios con otras obras artísticas actuales, mostrando una respuesta personal argumentada."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "(c4) Esta competencia presenta una doble labor: de un lado, el acercamiento al",
+            "description": "(c4) Esta competencia presenta una doble labor: de un lado, el acercamiento al conjunto de obras literarias sobre los que descansa el patrimonio cultural que consideramos valioso; de otro, el acopio de unos mapas de referencia en los que el alumnado …",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Los alumnos elaboran una exposición multimodal que relaciona los textos leídos con su contexto histórico-cultural y movimientos artísticos."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "(c5) Una literatura pretendidamente universal no puede prescindir de las",
+            "description": "(c5) Una literatura pretendidamente universal no puede prescindir de las mujeres escritoras, así como de las voces no occidentales, por lo que el desarrollo de esta competencia específica reconoce que es imprescindible una reconstrucción del canon qu…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "El alumnado investiga autoras no occidentales o temas que cuestionen el canon tradicional."
+                },
+                {
+                    "code": "5.2",
+                    "description": "El alumnado comenta y debate textos literarios integrando perspectiva de género y superando el canon occidental."
+                }
+            ]
+        }
+    ]
+}

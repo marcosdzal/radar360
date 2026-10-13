@@ -1,0 +1,149 @@
+{
+    "community": "extremadura",
+    "stage": "eso",
+    "decree": "Decreto 110\/2022, de 22 de agosto",
+    "subject": "digitalizacion",
+    "subject_name": "Digitalización",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "I dentificar y resolver problemas técnicos sencillos, además de conectar y",
+            "description": "I dentificar y resolver problemas técnicos sencillos, además de conectar y configurar dispositivos a redes domésticas aplicando los conocimientos de hardware y de sistemas operativos para conseguir gestionar las herramientas e instalaciones informáti…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Configurar y conectar dispositivos a redes locales (WiFi o cable), asegurando la comunicación entre ellos y resolviendo problemas básicos de conectividad de forma autónoma."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Instalar y personalizar sistemas operativos en diversos dispositivos, ajustando la configuración, cuentas y opciones de accesibilidad según las necesidades específicas del usuario."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Solucionar fallos técnicos básicos en dispositivos digitales mediante el análisis de sus componentes, documentando el proceso seguido y ajustando la solución tras evaluar su eficacia."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Detectar la credibilidad y fiabilidad de las fuentes comunes de datos, de su información y contenido digital."
+                },
+                {
+                    "code": "1.5",
+                    "description": "Organizar, almacenar y recuperar datos, información y contenidos de forma sencilla en entornos digitales."
+                },
+                {
+                    "code": "1.6",
+                    "description": "Reconocer dónde organizar los datos de forma sencilla, en un entorno estructurado."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "C onfigurar el entorno personal de aprendizaje, interactuando y aprovechando",
+            "description": "C onfigurar el entorno personal de aprendizaje, interactuando y aprovechando los recursos y herramientas del ámbito digital, así como optimizando y gestionando el aprendizaje permanente. El uso de dispositivos tecnológicos, medios digitales e interne…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Organizar y personalizar de forma autónoma las herramientas, aplicaciones y fuentes de información digitales necesarias para el estudio y el aprendizaje continuo."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Localizar, filtrar y organizar información digital de forma crítica y segura, utilizando herramientas de almacenamiento en la nube para gestionar el aprendizaje propio."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Diseñar y elaborar contenidos digitales originales o adaptados, utilizando herramientas específicas de forma creativa y respetando siempre la propiedad intelectual y las licencias de uso."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Comunicarse y colaborar en plataformas educativas digitales, compartiendo contenidos de forma respetuosa y adaptando el lenguaje según el destinatario y el entorno virtual."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Aplicar medidas preventivas y correctivas básicas de protección de la propia",
+            "description": "Aplicar medidas preventivas y correctivas básicas de protección de la propia salud, de los dispositivos y de los datos personales, desarrollando hábitos propios del bienestar digital en contextos formales e informales. La competencia hace referencia …",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Configurar de forma segura la privacidad en redes sociales y entornos educativos para controlar la información personal compartida y reducir la huella digital."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Gestionar la seguridad técnica de los dispositivos mediante la configuración de contraseñas seguras y el mantenimiento actualizado del software y sistemas de protección."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Reconocer amenazas digitales como el ciberacoso o el phishing, proponiendo soluciones eficaces para proteger la seguridad personal y el bienestar emocional en la red."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Utilizar las aplicaciones básicas de edición de imágenes, sonido y vídeo para producciones de documentos digitales."
+                },
+                {
+                    "code": "3.5",
+                    "description": "Identificar reglas simples de derechos de autoría y licencias que se aplican a los datos, la información digital y el contenido."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Ejercer una ciudadanía digital proactiva y crítica en la red, a partir del",
+            "description": "Ejercer una ciudadanía digital proactiva y crítica en la red, a partir del conocimiento de las actuaciones en el contexto tecnológico-digital y de la identificación de sus posibles consecuencias, desarrollando un uso responsable y ético de la tecnolo…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Utilizar herramientas digitales y datos de forma ética, respetando la propiedad intelectual, las licencias de uso y las normas de cortesía en entornos colaborativos online."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Identificar las ventajas de la administración y el comercio electrónicos, analizando críticamente las barreras de acceso y uso que provocan la brecha digital en distintos colectivos."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Analizar críticamente la información y mensajes en medios digitales, identificando sesgos, intencionalidad y veracidad para fomentar una libertad de expresión responsable y ética."
+                },
+                {
+                    "code": "4.4",
+                    "description": "Evaluar el impacto ambiental y social de la tecnología, proponiendo hábitos sostenibles y analizando la accesibilidad universal en el desarrollo de herramientas digitales."
+                },
+                {
+                    "code": "4.5",
+                    "description": "Adoptar actitudes proactivas sobre la promoción de espacios virtuales seguros, siendo capaces de detectar e informar sobre utilizaciones indebidas tanto en espacios de trabajo como de socialización."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Desarrollar algoritmos y aplicaciones informáticas sencillas en distintos entornos",
+            "description": "Desarrollar algoritmos y aplicaciones informáticas sencillas en distintos entornos, aplicando los principios del pensamiento computacional e incorporando las tecnologías emergentes, con el fin de crear soluciones a problemas concretos, automatizar pr…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Formular problemas sencillos y soluciones a cuestiones planteadas, siguiendo estrategias de pensamiento computacional (descomposición del problema, reconocimiento de patrones y abstracción)."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Resolver problemas utilizando lenguaje de programación por bloques (diseño del algoritmo)."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Diseñar aplicaciones sencillas para dispositivos móviles partiendo del conocimiento de las existentes."
+                },
+                {
+                    "code": "5.4",
+                    "description": "Conocer los principales componentes para el montaje de un robot."
+                },
+                {
+                    "code": "5.5",
+                    "description": "Programar y controlar al robot desde dispositivos a distancia o por automatismos."
+                },
+                {
+                    "code": "5.6",
+                    "description": "Comprender la importancia del desarrollo de la robótica en el presente y futuro desarrollo tecnológico y sus repercusiones sociales."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "community": "madrid",
+    "stage": "primaria",
+    "decree": "Decreto 61/2022, de 13 de julio",
+    "subject": "educacion_artistica",
+    "subject_name": "Educación Artística",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Descubrir propuestas artísticas de diferentes géneros,",
+            "description": "Descubrir propuestas artísticas de diferentes géneros, estilos, épocas y culturas, para desarrollar la curiosidad y el respeto por la diversidad.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Descubrir propuestas artísticas de diferentes géneros, estilos, épocas y culturas, mostrando curiosidad y respeto por las mismas, así como el respeto a la libertad de expresión artística."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Describir manifestaciones culturales y artísticas del entorno próximo, explorando sus características."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Aproximarse a la lectura del arte en sus contextos culturales e históricos comprendiendo su significado y función."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Investigar sobre manifestaciones culturales y artísticas y",
+            "description": "Investigar sobre manifestaciones culturales y artísticas y sus épocas, empleando diversos canales, medios y técnicas, para disfrutar de ellas, entender su valor y empezar a desarrollar una sensibilidad artística propia.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Seleccionar y aplicar estrategias elementales para la búsqueda guiada de información sobre manifestaciones culturales y artísticas del entorno próximo, a través de canales y medios de acceso sencillos, tanto de forma individual como en grupo."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Reconocer elementos característicos básicos de distintas manifestaciones culturales y artísticas que forman parte del patrimonio, indicando los canales, medios y técnicas empleados e identificando diferencias y similitudes de diversos entornos, del local al autonómico."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Expresar y comunicar de manera creativa ideas, sentimientos",
+            "description": "Expresar y comunicar de manera creativa ideas, sentimientos y emociones, experimentando con las posibilidades del sonido, la imagen, el cuerpo y los medios digitales, para producir obras propias.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Producir obras propias de manera guiada, utilizando algunas de las posibilidades expresivas del cuerpo (gesto y movimiento), el sonido, la imagen y los medios digitales básicos, y mostrando confianza en las capacidades propias, entre ellas danza, teatro, música, pintura…"
+                },
+                {
+                    "code": "3.2",
+                    "description": "Expresar de forma guiada ideas, valores, sentimientos y emociones a través de manifestaciones artísticas sencillas, experimentando con los diferentes lenguajes e instrumentos a su alcance."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Participar del diseño, la elaboración y la difusión de",
+            "description": "Participar del diseño, la elaboración y la difusión de producciones culturales y artísticas individuales o colectivas, teniendo en cuenta el proceso y asumiendo diferentes funciones en la consecución de un resultado final, para desarrollar la creatividad y la noción de autoría.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Participar de manera guiada en el diseño de producciones culturales y artísticas elementales, trabajando en grupo."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Diseñar y elaborar, de manera guiada, producciones culturales y artísticas elementales de carácter individual."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Tomar parte en el proceso de producciones culturales y artísticas de forma respetuosa y utilizando elementos básicos de diferentes lenguajes y técnicas artísticas."
+                },
+                {
+                    "code": "4.4",
+                    "description": "Compartir los proyectos creativos, explicando el proceso y el resultado final obtenido, valorando las experiencias propias y las de los demás."
+                }
+            ]
+        }
+    ]
+}

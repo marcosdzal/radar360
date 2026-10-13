@@ -1,0 +1,156 @@
+{
+    "community": "canarias",
+    "stage": "eso",
+    "decree": "Decreto 30\/2023, de 16 de marzo",
+    "subject": "lengua_castellana",
+    "subject_name": "Lengua Castellana y Literatura",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "(c1) El alumnado aprende mejor a partir de lo que ya conoce",
+            "description": "(c1) El alumnado aprende mejor a partir de lo que ya conoce. Por ello es importante, con el desarrollo de esta competencia, establecer vínculos entre su experiencia comunicativa y los aprendizajes que se pretenden desarrollar. En el caso de la educac…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Identificar las lenguas de España y las variedades del español, analizando sus rasgos básicos y reconociendo la diversidad lingüística presente en el propio centro educativo."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Reconocer y rechazar prejuicios o estereotipos lingüísticos comunes, valorando positivamente la diversidad de lenguas y acentos presentes en su entorno cercano y en España."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "(c2) Esta competencia se construye sobre la evidencia de que en el proceso de",
+            "description": "(c2) Esta competencia se construye sobre la evidencia de que en el proceso de comunicación se ponen en juego, además del conocimiento compartido entre emisor y receptor, otros elementos contextuales y cotextuales que permiten ir más allá del signific…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Extraer la idea principal, la estructura y la intención de mensajes orales o audiovisuales sencillos, analizando cómo se combinan sonidos, imágenes y palabras."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Evaluar críticamente la calidad, fiabilidad y eficacia comunicativa de textos orales y multimodales sencillos, analizando tanto su contenido como los recursos y el canal empleados."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "(c3) El desarrollo de la competencia comunicativa se inicia con el uso de la",
+            "description": "(c3) El desarrollo de la competencia comunicativa se inicia con el uso de la palabra como herramienta de construcción del pensamiento y como mecanismo que permite expresarse, de manera eficaz e informada, cubriendo las necesidades comunicativas, y de…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Realizar exposiciones y narraciones orales breves sobre temas cercanos, cuidando la estructura, el vocabulario y el lenguaje corporal de forma planificada."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Intervenir de forma activa y respetuosa en diálogos, debates y trabajos grupales, empleando normas de cortesía, escucha atenta y estrategias de cooperación comunicativa."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "(c4) El desarrollo de la competencia comunicativa implica tanto la",
+            "description": "(c4) El desarrollo de la competencia comunicativa implica tanto la decodificación como la interpretación de manera eficaz de textos escritos que permitan disfrutar de la lectura, acceder al conocimiento del mundo, dar respuesta a necesidades e intere…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Analizar textos escritos y multimodales sencillos para identificar su tema, estructura e intención comunicativa, realizando deducciones lógicas sobre la información no explícita."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Evaluar críticamente textos sencillos analizando su fiabilidad, la adecuación del canal y la eficacia de los recursos lingüísticos y formales utilizados por el autor."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "(c5) Con esta competencia, el progreso en los aprendizajes en esta materia",
+            "description": "(c5) Con esta competencia, el progreso en los aprendizajes en esta materia permitirá al alumnado consolidar su confianza y autonomía en la producción lingüística. La expresión escrita es una de las destrezas que el alumnado desarrollará a lo largo de…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Planificar y elaborar borradores de textos sencillos, adaptándolos a la situación comunicativa, el destinatario y el propósito antes de la redacción definitiva."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "(c6) El acceso a la información no garantiza por sí mismo el conocimiento, pero",
+            "description": "(c6) El acceso a la información no garantiza por sí mismo el conocimiento, pero el alumnado, como la ciudadanía en su conjunto, viven su día a día inmersos en la sociedad de la información. Con el desarrollo de esta competencia adquiere habilidades y…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Buscar y contrastar información de diversas fuentes, evaluando su fiabilidad y organizando los datos en esquemas propios para generar conocimiento de forma autónoma."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "(c7) Los aprendizajes vinculados a esta competencia específica persiguen",
+            "description": "(c7) Los aprendizajes vinculados a esta competencia específica persiguen fundamentalmente promover la consolidación de hábitos lectores, convirtiendo la escuela en un espacio donde compartir sus experiencias de lectura en un proceso que favorezca la …",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Elegir y leer libros de forma autónoma, registrando el progreso en un diario personal donde se expliquen los motivos de la elección y la experiencia vivida."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "(c8) Esta competencia específica, fundamentada en afianzar el avance de la",
+            "description": "(c8) Esta competencia específica, fundamentada en afianzar el avance de la capacidad interpretativa en torno a los textos, promueve un acercamiento guiado, analítico y reflexivo al hecho literario. Su finalidad es despertar la conciencia crítica que …",
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Explicar el sentido de obras literarias analizando sus elementos internos y su pertenencia a un género o subgénero específico mediante guías de trabajo."
+                },
+                {
+                    "code": "8.2",
+                    "description": "Comparar de forma guiada los textos leídos con otras obras artísticas o culturales, identificando temas y estructuras comunes para expresar una opinión personal razonada."
+                },
+                {
+                    "code": "8.3",
+                    "description": "Escribir textos originales con intención estética, aplicando las características de los géneros literarios estudiados y utilizando diversos soportes creativos o audiovisuales."
+                }
+            ]
+        },
+        {
+            "code": "CE9",
+            "name": "(c9) La enseñanza de cómo funciona el sistema lingüístico se ha planteado",
+            "description": "(c9) La enseñanza de cómo funciona el sistema lingüístico se ha planteado tradicionalmente desde la transmisión de un conocimiento dado. Sin embargo, la formulación de los elementos de este bloque transforma, sustancialmente, este enfoque. El objetiv…",
+            "criterios": [
+                {
+                    "code": "9.1",
+                    "description": "Mejorar los propios escritos mediante la revisión autónoma, aplicando conocimientos gramaticales y explicando los cambios con propiedad técnica para perfeccionar la expresión."
+                },
+                {
+                    "code": "9.2",
+                    "description": "Explicar razonadamente cómo las palabras y estructuras elegidas por un autor sirven para lograr su intención comunicativa y qué efecto producen en quien lee o escucha."
+                },
+                {
+                    "code": "9.3",
+                    "description": "Deducir reglas gramaticales básicas mediante la observación y manipulación de textos, utilizando terminología técnica y consultando diccionarios o gramáticas de apoyo."
+                }
+            ]
+        },
+        {
+            "code": "CE0",
+            "name": "(c10) Esta última competencia específica, vinculada directamente con la acción",
+            "description": "(c10) Esta última competencia específica, vinculada directamente con la acción comunicativa como herramienta para la convivencia positiva, es transversal a las otras nueve competencias del currículo. Adquirirla implica la capacidad del alumnado para …",
+            "criterios": [
+                {
+                    "code": "10.1",
+                    "description": "Detectar y corregir expresiones discriminatorias o manipuladoras en textos y discursos, analizando cómo el lenguaje influye en la convivencia y la igualdad."
+                },
+                {
+                    "code": "10.2",
+                    "description": "Aplicar el diálogo y la escucha activa para resolver conflictos comunicativos y alcanzar acuerdos, evitando prejuicios lingüísticos y fomentando el respeto a la diversidad."
+                }
+            ]
+        }
+    ]
+}

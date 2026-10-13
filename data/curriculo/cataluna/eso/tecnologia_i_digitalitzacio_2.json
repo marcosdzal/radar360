@@ -1,0 +1,135 @@
+{
+    "community": "cataluna",
+    "stage": "eso",
+    "decree": "",
+    "subject": "tecnologia_i_digitalitzacio",
+    "subject_name": "Tecnologia i Digitalització",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Uscar, analitzar i seleccionar la informació adequada, de manera crítica i",
+            "description": "uscar, analitzar i seleccionar la informació adequada, de manera crítica i segura, tot aplicant processos de recerca, mètodes d'anàlisi de productes i experimentant amb eines de simulació, per delimitar problemes tecnol gics i proposar solucions a pa…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Identificar i definir problemes o necessitats plantejades, tot cercant i contrastant la informació procedent de diferents fonts de manera crítica i segura, fent ús dels coneixements científics i tecnològics, avaluant-ne la fiabilitat i la pertinència."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Analitzar i examinar productes tecnològics d’ús habitual a través de l’anàlisi d’objectes i sistemes, fent ús dels coneixements científics i tecnològics, utilitzant, si s’escau, eines de simulació, en la construcció de coneixement."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Planificar, dissenyar i desenvolupar solucions a problemes tecnol gics amb",
+            "description": "Planificar, dissenyar i desenvolupar solucions a problemes tecnol gics amb autonomia i actitud creativa, tot aplicant el procés tecnol gic, coneixements interdisciplinaris i treballant de manera ordenada i cooperati a, per resoldre problemes o necess…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Idear i dissenyar solucions tecnològiques originals a problemes plantejats, tot aplicant el procés tecnològic amb conceptes, tècniques i procediments interdisciplinaris amb actitud emprenedora, perseverant i creativa, documentant la informació en una memòria de projecte."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Seleccionar, planificar i organitzar el temps, els materials i les eines, així com les tasques necessàries per a la construcció d’una solució definida en un projecte, treballant individualment o en grup de manera cooperativa."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Aplicar criteris de sostenibilitat en el disseny de solucions tecnològiques considerant tot el cicle de vida útil de l’objecte."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Aplicar de manera apropiada diferents tècniques i coneixements",
+            "description": "Aplicar de manera apropiada diferents tècniques i coneixements interdisciplinaris, tot utilitzant operadors, sistemes tecnol gics i eines, seguint la planificació i el disseny sostenible pre i per construir solucions tecnol giques que donin resposta …",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Fabricar objectes o models mitjançant la manipulació i la conformació de materials, tot emprant instruments de mesura, eines i màquines adequades, posant en pràctica els fonaments d’estructures, mecanismes, electricitat i electrònica seguint les normes de seguretat i de salut."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Avaluar el resultat d’una construcció tot contrastant les seves funcions en relació amb els requeriments tècnics del projecte, mitjançant l’observació i l’ús d’instruments de mesura per validar el resultat final."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Descriure, representar i intercan iar idees o solucions a problemes tecnol gics",
+            "description": "Descriure, representar i intercan iar idees o solucions a problemes tecnol gics o digitals, utilitzant els mitjans de representació, simbologia i ocabulari adequats, així com els instruments i els recursos disponibles, utilitzant les eines digitals p…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Documentar el procés de la creació d’un producte des del disseny fins a l’avaluació, elaborant la documentació tècnica i gràfica amb l’ajuda d’eines digitals, emprant els formats i el vocabulari tècnic adequats, de manera col·laborativa, tant presencialment com en remot."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Representar objectes, diagrames i esquemes tècnics mitjançant eines digitals col·laboratives, tot aplicant les normes tècniques corresponents."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Utilitzar dispositius i recursos digitals per a comunicar-se amb els altres, per difondre els propis aprenentatges i argumentar-los."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Desenvolupar algorismes i aplicacions informàtiques en diferents entorns, tot",
+            "description": "Desenvolupar algorismes i aplicacions informàtiques en diferents entorns, tot aplicant els principis del pensament computacional i incorporant les tecnologies emergents, per resoldre problemes concrets, automatit ar processos i aplicar los en sisteme…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Descriure, interpretar i dissenyar solucions a problemes informàtics mitjançant algorismes i diagrames de flux, tot aplicant els elements i les tècniques de programació de manera creativa."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Programar aplicacions senzilles per a diferents dispositius (ordinadors, dispositius mòbils i altres) emprant els elements de programació de manera apropiada, fent servir el programari i els llenguatges de programació adients i mòduls d’intel·ligència artificial que afegeixin funcionalitats."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Automatitzar processos, màquines i objectes de manera autònoma, amb o sense connexió a Internet, mitjançant l’anàlisi, la construcció i la programació de robots i sistemes de control."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Tilit ar els fonaments del funcionament dels dispositius i de les aplicacions",
+            "description": "tilit ar els fonaments del funcionament dels dispositius i de les aplicacions habituals de l'entorn digital d'aprenentatge, analitzant ne els components i les funcions i a ustant los a les necessitats per fer ne un s m s eficient i segur, per detecta…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Fer un ús eficient i segur dels dispositius digitals d’ús quotidià en la resolució de problemes senzills, analitzant els components i els sistemes de comunicació, per identificar els riscos i adoptar mesures de seguretat per a la protecció de dades i equips."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Crear continguts, elaborar materials i difondre’ls en diferents plataformes, configurant correctament les eines digitals habituals de l’entorn d’aprenentatge, ajustant-les a les necessitats i respectant les llicències i els drets d’autoria."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Organitzar la informació de manera estructurada, aplicant tècniques d’emmagatzematge segur."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Er s ètic, sostenible i ecosocialment responsable de la tecnologia,",
+            "description": "er s ètic, sostenible i ecosocialment responsable de la tecnologia, identificant les repercussions i les aportacions, per valorar l'impacte del desenvolupament tecnol gic a la societat i a l'entorn",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Identificar la influència de l’activitat tecnològica en la societat i en la sostenibilitat ambiental al llarg de la història, analitzant-ne les aportacions i les repercussions tot valorant-ne la importància per al desenvolupament sostenible."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Fer un ús responsable i ètic de les tecnologies emergents, tot identificant les seves aportacions al benestar, a la igualtat social i a la reducció de l’impacte ambiental."
+                },
+                {
+                    "code": "7.3",
+                    "description": "Valorar l’economia circular com una aportació tecnològica i social a la sostenibilitat per reduir la necessitat de matèries primeres i aconseguir la reducció de residus."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "community": "navarra",
+    "stage": "bachillerato",
+    "decree": "Real Decreto 217\/2022",
+    "subject": "tecnologia_ingenieria_2",
+    "subject_name": "Tecnología e Ingeniería II",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE2",
+            "name": "Seleccionar materiales y elaborar estudios de impacto",
+            "description": "Seleccionar materiales y elaborar estudios de impacto, aplicando criterios técnicos y de sostenibilidad para fabricar productos de calidad que den respuesta a problemas y tareas planteados, desde un enfoque responsable y ético.",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Analizar la idoneidad de materiales para fabricar productos sostenibles, estudiando estructura, propiedades y tratamientos de modificación."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Redactar informes de impacto ambiental con argumentación y estructura adecuadas."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Utilizar las herramientas digitales adecuadas, analizando sus posibilidades,",
+            "description": "Utilizar las herramientas digitales adecuadas, analizando sus posibilidades, configurándolas de acuerdo a sus necesidades y aplicando conocimientos interdisciplinares, para resolver tareas, así como para realizar la presentación de los resultados de …",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Resolver problemas de diseño, simulación, montaje y presentación de proyectos usando herramientas digitales."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Generar conocimientos y mejorar destrezas técnicas, transfiriendo y aplicando",
+            "description": "Generar conocimientos y mejorar destrezas técnicas, transfiriendo y aplicando saberes de otras disciplinas científicas con actitud creativa, para calcular y resolver problemas o dar respuesta a necesidades de los distintos ámbitos de la ingeniería.",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Diseñar y montar una estructura sencilla, calculando sus cargas y verificando su estabilidad."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Analizar máquinas térmicas (frigoríficas, bombas de calor, motores) mediante simulaciones y cálculos de eficiencia."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Diseñar, crear y evaluar sistemas tecnológicos",
+            "description": "Diseñar, crear y evaluar sistemas tecnológicos, aplicando conocimientos de programación informática, regulación automática y control, así como las posibilidades que ofrecen las tecnologías emergentes, para estudiar, controlar y automatizar tareas..",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Modeliza y simula el funcionamiento de sistemas automáticos de lazo abierto y cerrado, aplicando técnicas de simplificación y analizando su estabilidad."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Evaluar sistemas informáticos emergentes y sus implicaciones en la seguridad de datos mediante análisis de modelos existentes."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Analizar y comprender sistemas tecnológicos de los distintos ámbitos de la",
+            "description": "Analizar y comprender sistemas tecnológicos de los distintos ámbitos de la ingeniería, estudiando sus características, consumo y eficiencia energética, para evaluar el uso responsable y sostenible que se hace de la tecnología.",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Analizar sistemas de ingeniería evaluando eficiencia energética y responsabilidad social y sostenibilidad."
+                }
+            ]
+        }
+    ]
+}

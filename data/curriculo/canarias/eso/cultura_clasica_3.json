@@ -1,0 +1,93 @@
+{
+    "community": "canarias",
+    "stage": "eso",
+    "decree": "Decreto 30\/2023, de 16 de marzo",
+    "subject": "cultura_clasica",
+    "subject_name": "Cultura Clásica",
+    "grade": 3,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "(c1) La pervivencia del mundo antiguo, especialmente de Grecia y Roma,",
+            "description": "(c1) La pervivencia del mundo antiguo, especialmente de Grecia y Roma, prevalece hoy en día en muchos aspectos de la sociedad: manifestaciones artísticas, literarias, arquitectónicas, culturales… El alumnado, con el desarrollo de esta competencia esp…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Identificar y explicar la herencia de la civilización latina en elementos culturales actuales, señalando similitudes y diferencias para comprender nuestra identidad europea."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Comparar críticamente las costumbres y valores de la sociedad romana con los actuales mediante el análisis de fuentes latinas originales o traducidas."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "(c2) La procedencia de nuestro sistema de escritura, así como de muchos otros,",
+            "description": "(c2) La procedencia de nuestro sistema de escritura, así como de muchos otros, tiene su origen en las antiguas civilizaciones, que vieron la necesidad de expresar por escrito aquellas ideas que, hasta el momento, se habían transmitido solamente de fo…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Identificar y comparar el origen latino de las lenguas del entorno, apreciando la diversidad lingüística y cultural como un patrimonio común y democrático."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Deducir el significado de palabras latinas mediante la comparación con términos similares en castellano, lenguas cooficiales o lenguas extranjeras conocidas por el alumnado."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "(c3) Los marcos geográfico e histórico de los pueblos se han visto entrelazados desde los comienzos de la humanidad",
+            "description": "(c3) Los marcos geográfico e histórico de los pueblos se han visto entrelazados desde los comienzos de la humanidad. La propia geografía de los territorios ha influido en la manera en que la historia y las sociedades se han sucedido y evolucionado un…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Identificar y justificar la pervivencia de los valores clásicos en obras literarias y artísticas romanas mediante explicaciones estructuradas y el uso de terminología técnica."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Identificar las ideas principales y el contexto histórico-social de textos clásicos traducidos, relacionándolos con personajes y hechos históricos conocidos."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "(c4) Los sistemas políticos que rigen el mundo actual tienen su base, la gran",
+            "description": "(c4) Los sistemas políticos que rigen el mundo actual tienen su base, la gran mayoría, en el modo que tenían los pueblos griegos y romanos de hacer política y estructurar este entramado de cargos, leyes y personas responsables. Por esta razón, con es…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Identificar y comparar elementos básicos de morfología, sintaxis y léxico latinos con las lenguas romances para comprender la estructura de la lengua latina."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Traducir textos latinos breves a la lengua de enseñanza, aplicando análisis morfosintáctico básico para garantizar una expresión correcta y fiel al sentido original."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Traducir oraciones sencillas de la lengua de enseñanza al latín, aplicando correctamente las reglas gramaticales y el vocabulario básico estudiado."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "(c5) Con esta competencia específica se busca que el alumnado sea capaz de",
+            "description": "(c5) Con esta competencia específica se busca que el alumnado sea capaz de definir los conceptos de mito y leyenda, y contrastarlos. A partir de aquí, el conocimiento de los dioses y las diosas, así como de los héroes y las heroínas más relevantes de…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Explicar la influencia de la mitología y cultura latinas en obras literarias y artísticas posteriores, reconociéndolas como base de la tradición cultural europea."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Identificar restos romanos en el entorno cercano, analizando su estado de conservación y la importancia de proteger el patrimonio como legado histórico sostenible."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Exponer conclusiones de la investigación sobre el legado romano."
+                }
+            ]
+        }
+    ]
+}

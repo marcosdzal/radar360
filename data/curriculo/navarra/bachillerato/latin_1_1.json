@@ -1,0 +1,94 @@
+{
+    "community": "navarra",
+    "stage": "bachillerato",
+    "decree": "Real Decreto 217\/2022",
+    "subject": "latin_1",
+    "subject_name": "Latín I",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE2",
+            "name": "Distinguir los formantes latinos y explicar los cambios que hayan tenido lugar",
+            "description": "Distinguir los formantes latinos y explicar los cambios que hayan tenido lugar a lo largo del tiempo, comparándolos con los de las lenguas de enseñanza y otras lenguas del repertorio individual del alumnado, para deducir el significado etimológico de…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Deducir el significado etimológico de términos aplicando estrategias de reconocimiento de formantes latinos y cambios lingüísticos."
+                },
+                {
+                    "code": "2.2",
+                    "description": "El alumnado explica cambios fonéticos, morfológicos o semánticos del latín a las lenguas de enseñanza, comparando con otras lenguas."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Explica la relación del latín con lenguas modernas analizando elementos comunes de origen griego y usando su repertorio lingüístico."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Identificar prejuicios lingüísticos en ejemplos dados y valorar la diversidad dialectal."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Leer, interpretar y comentar textos latinos de diferentes géneros y épocas,",
+            "description": "Leer, interpretar y comentar textos latinos de diferentes géneros y épocas, asumiendo el proceso creativo como complejo e inseparable del contexto histórico, social y político y de sus influencias artísticas, para identificar su genealogía y su aport…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Interpretar y comentar textos latinos guiados aplicando análisis y reflexión personal para desarrollar sensibilidad estética y hábito lector."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Comparar fragmentos latinos con obras posteriores, identificando géneros, temas y tópicos desde un enfoque intertextual guiado."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Identificar y definir palabras latinas clave (imperium, natura, civis, paterfamilias) en textos variados, combinando léxico y cultura."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Crear textos literarios propios basados en la lectura de obras latinas."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Analizar las características de la civilización latina en el ámbito personal,",
+            "description": "Analizar las características de la civilización latina en el ámbito personal, religioso y sociopolítico, adquiriendo conocimientos sobre el mundo romano y comparando críticamente el presente y el pasado, para valorar las aportaciones del mundo clásic…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Comparar instituciones, costumbres y modos de vida romanos con los actuales, valorando cambios y derechos humanos."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Debatir sobre el legado romano usando estrategias retóricas y mediando entre posturas."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Investigar sobre el legado romano analizando fuentes y valorando su fiabilidad."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Valorar críticamente el patrimonio histórico, arqueológico, artístico y",
+            "description": "Valorar críticamente el patrimonio histórico, arqueológico, artístico y cultural heredado de la civilización latina, interesándose por su sostenibilidad y reconociéndolo como producto de la creación humana y como testimonio de la historia, para expli…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Explicar cómo el legado latino inspira creaciones culturales posteriores a partir del análisis de obras dadas."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Investiga guiadamente un elemento del patrimonio latino, actuando con respeto y conciencia de su conservación."
+                },
+                {
+                    "code": "5.3",
+                    "description": "El alumnado explora el legado romano local, reflexiona sobre sus usos y presenta ejemplos de pervivencia clásica en soportes variados."
+                }
+            ]
+        }
+    ]
+}

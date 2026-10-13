@@ -1,0 +1,168 @@
+{
+    "community": "aragon",
+    "stage": "bachillerato",
+    "decree": "Orden ECD\/1112\/2022, de 18 de julio",
+    "subject": "informatica_1",
+    "subject_name": "Informática I",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Conocer la evolución histórica de la Informática y el origen de los",
+            "description": "Conocer la evolución histórica de la Informática y el origen de los computadores, así como los conceptos básicos de hardware y software como elementos de un sistema informático que procesa información, realizando el montaje y configuración de dichos …",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Conocer la evolución de los elementos tecnológicos que han surgido a lo largo de la historia para realizar el procesamiento de la información."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Situar en el tiempo el \"nacimiento\" del computador como se conoce en la actualidad y su relación con la Informática. Saber las líneas de investigación de los computadores del futuro."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Identificar los distintos elementos hardware que forman parte de un computador, y la función que realiza cada uno de ellos, así como su montaje básico"
+                },
+                {
+                    "code": "1.4",
+                    "description": "Instalar y mantener sistemas operativos configurando sus funciones básicas en un computador, y relacionarlas con las correspondientes en un dispositivo móvil."
+                },
+                {
+                    "code": "1.5",
+                    "description": "Conocer las características que distinguen al software privativo del software libre y las implicaciones sociales que conllevan"
+                },
+                {
+                    "code": "1.6",
+                    "description": "Evaluar los distintos tipos de licencias de software."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Conocer las componentes básicas y fundamentos técnicos de funcionamiento de las",
+            "description": "Conocer las componentes básicas y fundamentos técnicos de funcionamiento de las redes con las que interactúa, así como los servicios habituales de la red Internet, instalando, configurando y usando dichas redes y servicios aplicando competencias prop…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Conocer la evolución histórica de la red, entendiendo su necesidad y propósito, así como la importancia actual de la misma."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Comprender el concepto de red de dispositivos e identificar los elementos físicos (hardware) y lógicos (software) de una red doméstica, así como el propósito y función de los mismos"
+                },
+                {
+                    "code": "2.3",
+                    "description": "Conocer y comprender la necesidad de las distintas arquitecturas de red existentes y en particular, la arquitectura basada en la pila de protocolos TCP\/IP."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Conectar dispositivos, configurar y gestionar redes locales aplicando los conocimientos y procesos asociados a sistemas de comunicación alámbrica e inalámbrica con una actitud proactiva."
+                },
+                {
+                    "code": "2.5",
+                    "description": "Utilizar recursos compartidos en red, configurando accesos y privilegios."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Aplicar el pensamiento computacional para analizar, diseñar e implementar",
+            "description": "Aplicar el pensamiento computacional para analizar, diseñar e implementar sistemas de computación en entornos diversos: computadores, entorno web, dispositivos móviles y sistemas físicos y aplicar procedimientos rigurosos de prueba y depuración de pr…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Conocer y aplicar las estructuras más básicas de los lenguajes de programación."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Comprender las diferentes fases del desarrollo de software, aplicándolas a pequeños problemas."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Desarrollar el pensamiento computacional y aplicar metodologías de análisis top-down para el diseño modular."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Utilizar un software de hoja de cálculo para el manejo sencillo de información,",
+            "description": "Utilizar un software de hoja de cálculo para el manejo sencillo de información, realizar el diseño completo de una base de datos relacional sencilla plasmado en un sistema gestor de bases de datos relacional en entorno ofimático, y conocer y comprend…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Conocer las herramientas que nos suministra el software de hoja de cálculo para la obtención de información almacenada en forma de tabla."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Utilizar el diagrama entidad-interrelación para representar el modelo conceptual de datos de una situación sencilla del mundo real descrita en lenguaje natural."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Conocer los conceptos fundamentales del modelo de datos relacional."
+                },
+                {
+                    "code": "4.4",
+                    "description": "Transformar el modelo conceptual de datos a un modelo de datos relacional."
+                },
+                {
+                    "code": "4.5",
+                    "description": "Utilizar un sistema gestor de bases de datos relacionales en entorno ofimático para implementar el modelo relacional obtenido, incluyendo la creación de formularios, informes y consultas."
+                },
+                {
+                    "code": "4.6",
+                    "description": "Diseñar consultas en lenguaje SQL para la manipulación de datos."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Comprender los principios básicos de funcionamiento de la inteligencia",
+            "description": "Comprender los principios básicos de funcionamiento de la inteligencia artificial y su impacto en nuestra sociedad, conocer los diferentes elementos de la inteligencia artificial y los bloques básicos para ser capaces de construir sistemas sencillos:…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Definir el concepto de inteligencia artificial y conocer su evolución histórica."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Identificar los diferentes campos de aplicación de la inteligencia artificial y conocer las consecuencias sociales de su uso en niveles como: la igualdad de raza y género, el desempleo, la toma de decisiones morales y la influencia en la privacidad de los usuarios."
+                },
+                {
+                    "code": "5.4",
+                    "description": "Conocer las implicaciones legales del uso de sistemas autónomos e inteligentes."
+                },
+                {
+                    "code": "5.5",
+                    "description": "Distinguir los distintos elementos de inteligencia artificial: visión artificial y procesamiento de imágenes, procesamiento del lenguaje natural, reconocimiento de voz, robótica inteligente y aprendizaje automático."
+                },
+                {
+                    "code": "5.6",
+                    "description": "Conocer el funcionamiento de los sistemas de aprendizaje automático, identificar los tipos de sistemas de aprendizaje automático."
+                },
+                {
+                    "code": "5.7",
+                    "description": "Diseñar un sistema sencillo e inteligente de aprendizaje automático que reconozca voz, imágenes o texto."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Conocer y saber aplicar los principios fundamentales de la seguridad",
+            "description": "Conocer y saber aplicar los principios fundamentales de la seguridad Informática y desarrollar hábitos que fomenten el bienestar digital, aplicando medidas preventivas y correctivas, para proteger dispositivos, comunicaciones, datos personales y la p…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Saber desenvolverse en el uso diario de las nuevas tecnologías con seguridad, principalmente ante ataques malintencionados, pero también ante errores de software o hardware y ante el mal uso de la tecnología."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Conocer la evolución histórica de la criptografía, a lo largo de toda la historia hasta tecnologías tan actuales como las criptomonedas, entendiendo su necesidad y propósito, así como la importancia actual de la misma."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Identificar y saber reaccionar ante situaciones relacionadas con las nuevas tecnologías que representan una amenaza o reto, escogiendo la mejor solución entre diversas opciones, desarrollando prácticas saludables y seguras, y valorando el bienestar físico y mental, tanto personal como colectivo."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "community": "andalucia",
+    "stage": "eso",
+    "decree": "Real Decreto 217\/2022",
+    "subject": "tecnologia_alt",
+    "subject_name": "Tecnología",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Identificar y proponer problemas tecnológicos con iniciativa y creatividad,",
+            "description": "Identificar y proponer problemas tecnológicos con iniciativa y creatividad, estudiando las necesidades de su entorno próximo y aplicando estrategias y procesos colaborativos e iterativos relativos a proyectos, para idear y planificar soluciones de ma…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Detectar necesidades en el entorno cercano y diseñar una propuesta de solución tecnológica detallando sus requisitos técnicos, materiales y pasos de ejecución iniciales."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Gestionar proyectos tecnológicos en equipo de forma organizada, documentando las fases de diseño, las mejoras realizadas y comunicando el resultado final obtenido."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Planificar la gestión de proyectos técnicos de forma creativa y colaborativa, investigando soluciones que resulten innovadoras, accesibles y eficientes para un problema detectado."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Aplicar de forma apropiada y segura distintas técnicas y conocimientos",
+            "description": "Aplicar de forma apropiada y segura distintas técnicas y conocimientos interdisciplinares, utilizando procedimientos y recursos tecnológicos y analizando el ciclo de vida de productos para fabricar soluciones tecnológicas accesibles y sostenibles que…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Analizar críticamente el diseño y evolución de un objeto tecnológico, considerando su impacto social, ambiental y su ciclo de vida desde una perspectiva ética."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Construir prototipos o soluciones tecnológicas combinando diseño asistido, herramientas manuales y componentes eléctricos o electrónicos de forma segura y eficiente."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Expresar, comunicar y difundir ideas, propuestas o soluciones tecnológicas en",
+            "description": "Expresar, comunicar y difundir ideas, propuestas o soluciones tecnológicas en diferentes foros de manera efectiva, usando un lenguaje inclusivo y no sexista, empleando los recursos disponibles y aplicando los elementos y técnicas necesarias, para int…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Comunicar ideas técnicas y colaborar en equipo utilizando herramientas digitales, vocabulario específico y simbología normalizada de forma asertiva y responsable."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Comunicar oralmente soluciones tecnológicas adaptando el discurso, gestionando el tiempo y empleando un lenguaje inclusivo y respetuoso para transmitir ideas de forma efectiva."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Desarrollar soluciones automatizadas a problemas planteados",
+            "description": "Desarrollar soluciones automatizadas a problemas planteados, aplicando los conocimientos necesarios e incorporando tecnologías emergentes, para diseñar y construir sistemas de control programables y robóticos.",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Diseñar y montar prototipos robóticos o simulaciones que realicen tareas autónomas sencillas, integrando componentes mecánicos, electrónicos y programación básica para resolver problemas técnicos."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Incorporar herramientas digitales y tecnologías emergentes como IA o IoT en proyectos tecnológicos, analizando su utilidad y las implicaciones éticas de su uso."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Aprovechar y emplear de manera responsable las posibilidades de las",
+            "description": "Aprovechar y emplear de manera responsable las posibilidades de las herramientas digitales, adaptándolas a sus necesidades, configurándolas y aplicando conocimientos interdisciplinares, para la resolución de tareas de una manera más eficiente.",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Utilizar y configurar aplicaciones digitales de forma autónoma para resolver problemas técnicos y organizar información de manera eficiente en proyectos tecnológicos."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Analizar procesos tecnológicos, teniendo en cuenta su impacto en la sociedad y el entorno",
+            "description": "Analizar procesos tecnológicos, teniendo en cuenta su impacto en la sociedad y el entorno, aplicando criterios de sostenibilidad y accesibilidad para hacer un uso ético y ecosocialmente responsable de la tecnología.",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Seleccionar materiales y diseñar productos tecnológicos aplicando criterios de sostenibilidad y accesibilidad para reducir el impacto ambiental y social de los procesos de fabricación."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Explicar cómo la arquitectura bioclimática y el transporte ecológico ayudan a proteger el medio ambiente, valorando su papel en el desarrollo sostenible actual."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Evaluar el impacto positivo de proyectos tecnológicos colaborativos y sociales, como el voluntariado o el hardware abierto, en la mejora de la comunidad."
+                }
+            ]
+        }
+    ]
+}

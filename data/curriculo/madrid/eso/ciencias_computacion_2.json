@@ -1,0 +1,134 @@
+{
+    "community": "madrid",
+    "stage": "eso",
+    "decree": "Decreto 65/2022, de 20 de julio",
+    "subject": "ciencias_computacion",
+    "subject_name": "Ciencias de la Computación",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Entender y utilizar algoritmos que lleven a la resolución",
+            "description": "Entender y utilizar algoritmos que lleven a la resolución de problemas concretos, aplicando los principios del pensamiento computacional y el razonamiento lógico.",
+            "descriptors": [
+                "CCL2",
+                "STEM1",
+                "STEM3",
+                "CD2",
+                "CD5",
+                "CPSAA5",
+                "CE3"
+            ],
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Entender el funcionamiento de algoritmos sencillos para la búsqueda y ordenación de datos."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Diseñar y representar algoritmos que resuelvan problemas sencillos y que incluyan secuencias, decisiones e iteraciones."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Entender los fundamentos de la lógica booleana, utilizar tablas de verdad y funciones lógicas con los operadores lógicos AND, OR y NOT para resolver problemas sencillos."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Implementar funciones lógicas sencillas mediante puertas AND, OR y NOT."
+                },
+                {
+                    "code": "1.5",
+                    "description": "Ser capaz de transformar números naturales en el sistema decimal a los sistemas de numeración binario y hexadecimal, así como convertirlos de un sistema a otro."
+                },
+                {
+                    "code": "1.6",
+                    "description": "Conocer cómo cualquier tipo de información puede ser codificada en binario: números, píxeles e imágenes, caracteres de la tabla ASCII (American Standard Code for Information Interchange)."
+                },
+                {
+                    "code": "1.7",
+                    "description": "Reconocer aplicaciones de la Inteligencia Artificial en el día a día, citando ejemplos y valorando, con actitud crítica, las aportaciones y problemas que plantea su presencia creciente."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Diseñar, escribir y depurar aplicaciones informáticas, en",
+            "description": "Diseñar, escribir y depurar aplicaciones informáticas, en entornos de programación gráfica y textual, que den solución a problemas concretos, incluyendo el control de sistemas físicos y robóticos.",
+            "descriptors": [
+                "CP2",
+                "STEM1",
+                "STEM2",
+                "STEM3",
+                "CD5",
+                "CPSAA5"
+            ],
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Utilizar un lenguaje de programación textual para resolver problemas variados, haciendo un uso correcto de los tipos de datos y seleccionando las estructuras apropiadas, así como valorando la importancia de documentarlos suficientemente para facilitar la depuración de errores y la reusabilidad."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Distinguir la función de cada uno de los elementos de un sistema de control programado (sensores, microcontrolador y actuadores), seleccionando los que resulten más apropiados para proyectos sencillos de computación física."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Programar tarjetas programables para controlar el comportamiento de dispositivos electrónicos y electromecánicos como diodos leds, zumbadores, relés basándose en los datos obtenidos a partir de sensores de todo tipo."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Ser capaz de programar los movimientos de un robot móvil para que se desplace evitando obstáculos o siguiendo una línea."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Conocer los elementos componentes, tanto hardware como",
+            "description": "Conocer los elementos componentes, tanto hardware como software, de los distintos sistemas informáticos, valorando la importancia de su mantenimiento y actualización, así como la manera en la que la información es tratada y almacenada en ellos.",
+            "descriptors": [
+                "CCL3",
+                "STEM3",
+                "CD2",
+                "CD4",
+                "CD5",
+                "CPSAA4",
+                "CPSAA5",
+                "CE1",
+                "CE3"
+            ],
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Describir los elementos del modelo de Von Neumann de una computadora y conocer cómo es tratada la información en él."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Ser capaz de estimar el volumen de datos que ocupan los distintos tipos de archivos, así como la capacidad de almacenamiento de dispositivos como discos duros, pendrives, o los servicios de almacenamiento en la nube."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Comprender cómo los equipos informáticos se comunican entre",
+            "description": "Comprender cómo los equipos informáticos se comunican entre sí formando redes, desde las más pequeñas hasta internet, para compartir información, servicios y recursos, siendo conscientes de las amenazas que esto conlleva y de la importancia de la ciberseguridad.",
+            "descriptors": [
+                "CCL2",
+                "STEM5",
+                "CD1",
+                "CD2",
+                "CD3",
+                "CD4"
+            ],
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Conocer el significado de dirección IP (Internet Protocol) de una computadora conectada a una red, cuál es su estructura y cómo es asignada; obtener la dirección IP de un dispositivo conectado a una red."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Conocer y entender los peligros a los que están expuestos los sistemas informáticos y la información que procesan y almacenan, haciendo un uso seguro de los mismos y valorando la importancia de la ciberseguridad."
+                }
+            ]
+        }
+    ]
+}

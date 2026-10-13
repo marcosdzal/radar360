@@ -1,0 +1,173 @@
+{
+    "community": "castilla-y-leon",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "dibujo_artistico_2",
+    "subject_name": "Dibujo Artístico II",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "1.1 Identificar la presencia del dibujo en diferentes manifestaciones",
+            "description": "1.1 Identificar la presencia del dibujo en diferentes manifestaciones culturales y artísticas, estableciendo con criterio propio relaciones entre ellas y valorándolo como herramienta de expresión. (CCL1, CCL2, CC1, CC3, CCEC1, CCEC2) 1.2 Explicar las…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Comparar el uso del dibujo en distintas manifestaciones culturales y artísticas, valorándolo como herramienta de expresión."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Explicar autónomamente las múltiples funciones del dibujo analizando su uso en diferentes disciplinas."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Argumentar la importancia de la libertad de expresión para la pluralidad cultural y artística mediante un discurso razonado, respetuoso y comprometido."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "2.1 Analizar el lenguaje, las técnicas y procedimientos, la función y la",
+            "description": "2.1 Analizar el lenguaje, las técnicas y procedimientos, la función y la expresividad del dibujo en diferentes producciones plásticas, incluyendo las contemporáneas, utilizando la terminología específica más adecuada e identificando con actitud abier…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Analizar producciones plásticas identificando lenguaje, técnicas, función y expresividad con terminología específica."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Explica con argumentos por qué se usa el dibujo para expresar y transmitir significados en obras culturales y artísticas."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Analizar producciones artísticas de forma crítica y personal, incorporando la perspectiva de género y valorando los beneficios de la interculturalidad, mostrando una actitud abierta, tolerante y respetuosa. (CC1, CC3, CCEC1, CCEC2)"
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "3.1 Recrear gráficamente la realidad mediante bocetos o esbozos, partiendo",
+            "description": "3.1 Recrear gráficamente la realidad mediante bocetos o esbozos, partiendo tanto de la observación detallada como de la propia imaginación y utilizando una expresión personal y espontánea. (CPSA1.1, CPSAA1.2, CC1, CCEC3.1, CCEC4.2) 3.2 Analizar, inte…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Crear bocetos personales a partir de la observación y la imaginación, usando expresión libre."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Analizar, interpretar y representar la realidad mediante obras gráficas explorando formas y texturas con destreza."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "4.1 Usar el dibujo como medio de expresión, experimentando con diferentes",
+            "description": "4.1 Usar el dibujo como medio de expresión, experimentando con diferentes materiales, técnicas y soportes, integrándolos en las producciones plásticas propias e incorporando las posibilidades que ofrece el cuerpo humano como recurso. (CPSAA1.1, CPSAA…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Crear dibujos experimentando con materiales, técnicas, soportes y el cuerpo humano como recurso expresivo."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Crear representaciones del espacio tridimensional experimentando con materiales y técnicas para lograr efectos perspectivos."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Analizar el papel del cuerpo humano en el arte contemporáneo a través del estudio de materiales, técnicas y soportes."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "5.1 Describir los referentes artísticos presentes en obras contemporáneas,",
+            "description": "5.1 Describir los referentes artísticos presentes en obras contemporáneas, explicando la influencia que ejercen y las relaciones que se establecen y reconociendo la importancia de la herencia cultural. (CCL1, CPSAA1.1, CPSAA3.1, CPSAA5, CC1, CC3, CCE…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Analizar obras contemporáneas identificando y explicando la influencia de referentes artísticos históricos."
+                },
+                {
+                    "code": "5.2",
+                    "description": "El alumnado expresa ideas, sentimientos y emociones propios mediante dibujos, partiendo de la exploración del entorno y obras artísticas de interés personal."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Valorar la presencia del dibujo en diferentes tipos de lenguajes plásticos, visuales y audiovisuales, su influencia como referente en creaciones artísticas actuales y como factor de enriquecimiento de la propia expresión personal. (CC1, CC3, CCEC1)"
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "6.1 Representar gráficamente las formas, sus posibles combinaciones y los",
+            "description": "6.1 Representar gráficamente las formas, sus posibles combinaciones y los espacios negativos y positivos presentes en entornos urbanos o naturales, a partir de un estudio de los mismos intencionado y selectivo. (STEM2, CPSAA1.1, CPSAA5) 6.2 Expresar …",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Representar formas, combinaciones y espacios negativos\/positivos de entornos reales con selección intencionada."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Expresar una visión personal mediante el trazo y el gesto del dibujo, usando elementos gráficos de forma intencionada."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "7.1 Plantear soluciones alternativas en la representación de la realidad, con",
+            "description": "7.1 Plantear soluciones alternativas en la representación de la realidad, con diferentes niveles de iconicidad, mostrando un pensamiento divergente, utilizando adecuadamente las herramientas, medios y soportes seleccionados, analizando su posible imp…",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Proponer soluciones alternativas con distintos niveles de iconicidad, usando herramientas y analizando el impacto ambiental, para lograr una expresión personal."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Seleccionar herramientas y aplicar claroscuro y color con creatividad en representaciones gráficas de la realidad y la imaginación."
+                },
+                {
+                    "code": "7.3",
+                    "description": "Aplicar creativamente herramientas digitales en producciones gráficas propias, integrando su uso en el proceso creativo."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "8.1 Interpretar gráficamente la realidad observada, abstrayendo la información",
+            "description": "8.1 Interpretar gráficamente la realidad observada, abstrayendo la información recibida y desarrollando la retentiva y la memoria visual. (STEM2, CPSAA1.1, CPSAA5, CC1, CCEC4.2) 8.2 Lograr efectos perspectivos de profundidad en representaciones gráfi…",
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Interpretar la realidad observada abstrayendo información y usando memoria visual."
+                },
+                {
+                    "code": "8.2",
+                    "description": "Aplicar la perspectiva lineal y el claroscuro para crear profundidad en dibujos originales, valorando proporciones y contrastes."
+                }
+            ]
+        },
+        {
+            "code": "CE9",
+            "name": "9.1 Planificar producciones gráficas de forma colaborativa, adaptando el diseño",
+            "description": "9.1 Planificar producciones gráficas de forma colaborativa, adaptando el diseño y el proceso al ámbito disciplinar elegido, y organizando y distribuyendo las tareas de manera adecuada. (STEM2, STEM3, CD2, CD3, CPSAA1.1, CPSAA3.2, CE3, CCEC4.2) 9.2 Re…",
+            "criterios": [
+                {
+                    "code": "9.1",
+                    "description": "Los estudiantes planifican en grupo un proyecto gráfico, adaptando el diseño al ámbito disciplinar y organizando tareas de forma colaborativa."
+                },
+                {
+                    "code": "9.2",
+                    "description": "El alumnado elabora proyectos gráficos en equipo, con actitud positiva, respeto y evaluación de su proceso."
+                },
+                {
+                    "code": "9.3",
+                    "description": "Resolver creativamente los retos en proyectos gráficos colaborativos, evaluando la planificación y las modificaciones para mejorar el resultado final."
+                },
+                {
+                    "code": "9.4",
+                    "description": "El alumnado identifica posiciones académicas y profesionales del dibujo artístico y expresa su opinión razonada."
+                }
+            ]
+        }
+    ]
+}

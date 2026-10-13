@@ -1,0 +1,112 @@
+{
+    "community": "asturias",
+    "stage": "eso",
+    "decree": "Decreto 41\/2022, de 1 de agosto",
+    "subject": "ingles",
+    "subject_name": "Lengua Extranjera",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Comprender e interpretar el sentido general y los detalles más relevantes de",
+            "description": "Comprender e interpretar el sentido general y los detalles más relevantes de textos expresados de forma clara y en la lengua estándar, buscando fuentes fiables y haciendo uso de estrategias como la inferencia de significados, para responder a necesid…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Interpretar el sentido global y detalles explícitos de textos breves sobre temas cotidianos en lengua estándar."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Aplicar estrategias de comprensión guiadas para entender textos cotidianos e interpretar elementos no verbales."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Producir textos originales, de extensión media, sencillos y con una",
+            "description": "Producir textos originales, de extensión media, sencillos y con una organización clara, usando estrategias tales como la planificación, la compensación o la autorreparación, para expresar de forma creativa, adecuada y coherente mensajes relevantes y …",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Expresar oralmente textos breves y sencillos sobre temas cotidianos, usando estrategias de planificación y control."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Redactar textos breves con claridad y coherencia sobre temas cotidianos, usando herramientas analógicas\/digitales y siguiendo pautas."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Planificar, redactar y revisar textos escritos en inglés siguiendo pautas, usando recursos adecuados y atendiendo al destinatario."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Interactuar con otras personas con creciente autonomía, usando estrategias de",
+            "description": "Interactuar con otras personas con creciente autonomía, usando estrategias de cooperación y empleando recursos analógicos y digitales, para responder a propósitos comunicativos concretos en intercambios respetuosos con las normas de cortesía.",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "El alumno planifica y participa en intercambios orales breves sobre temas cotidianos, mostrando empatía y respeto, y usando recursos verbales y no verbales."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Selecciona y aplica estrategias básicas para gestionar interacciones orales cotidianas respetando las normas de cortesía."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Mediar en situaciones cotidianas entre distintas lenguas, usando estrategias y",
+            "description": "Mediar en situaciones cotidianas entre distintas lenguas, usando estrategias y conocimientos sencillos orientados a explicar conceptos o simplificar mensajes, para transmitir información de manera eficaz, clara y responsable.",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Explicar textos breves en situaciones de diversidad lingüística, usando recursos para resolver problemas de comprensión y mostrando empatía."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Aplicar estrategias guiadas para mediar entre lenguas de forma clara y eficaz."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Ampliar y usar los repertorios lingüísticos personales entre distintas lenguas,",
+            "description": "Ampliar y usar los repertorios lingüísticos personales entre distintas lenguas, reflexionando de forma crítica sobre su funcionamiento y tomando conciencia de las estrategias y conocimientos propios, para mejorar la respuesta a necesidades comunicati…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Comparar dos lenguas extranjeras y reflexionar sobre su funcionamiento de forma autónoma."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Aplica y distingue estrategias comunicativas propias y ajenas, con apoyo, para mejorar su expresión en inglés."
+                },
+                {
+                    "code": "5.3",
+                    "description": "El alumnado identifica y registra sus progresos y dificultades, selecciona estrategias guiadas y realiza autoevaluación y coevaluación compartiendo resultados."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Valorar críticamente y adecuarse a la diversidad lingüística, cultural y",
+            "description": "Valorar críticamente y adecuarse a la diversidad lingüística, cultural y artística a partir de la lengua extranjera, identificando y compartiendo las semejanzas y las diferencias entre lenguas y culturas, para actuar de forma empática y respetuosa en…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Actúa con empatía y respeto en situaciones interculturales, vinculando lenguas y culturas y rechazando discriminación."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Valorar y compartir la diversidad cultural y lingüística de países de habla extranjera con actitud respetuosa y democrática."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Explicar y valorar la diversidad cultural de forma guiada aplicando estrategias."
+                }
+            ]
+        }
+    ]
+}

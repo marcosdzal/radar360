@@ -1,0 +1,94 @@
+{
+    "community": "madrid",
+    "stage": "primaria",
+    "decree": "Decreto 61/2022, de 13 de julio",
+    "subject": "ciencias_sociales",
+    "subject_name": "Ciencias Sociales",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Identificar las características de los diferentes elementos",
+            "description": "Identificar las características de los diferentes elementos o sistemas del medio, analizando su organización y propiedades y estableciendo relaciones entre los mismos, para reconocer el valor del patrimonio cultural y natural, conservarlo y mejorarlo.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Reconocer las características, la organización y las propiedades de los elementos del medio a través de la indagación, utilizando las herramientas y procesos adecuados de forma pautada."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Reconocer conexiones sencillas y directas entre diferentes elementos del medio a través de la observación, la manipulación y la experimentación."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Mostrar actitudes de respeto ante el patrimonio natural y cultural."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Identificar las causas y consecuencias de la intervención",
+            "description": "Identificar las causas y consecuencias de la intervención humana en el entorno, desde los puntos de vista social, económico, cultural, tecnológico y ambiental, para mejorar la capacidad de afrontar problemas, buscar soluciones y actuar en su resolución fomentando el respeto, el cuidado y la protección de las personas y del planeta.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Mostrar estilos de vida adecuados y valorar la importancia del respeto, los cuidados, y la protección de los elementos y seres del planeta, identificando la relación de la vida de las personas con sus acciones sobre los elementos y recursos del medio, como el suelo y el agua."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Observar, comprender e interpretar continuidades y cambios",
+            "description": "Observar, comprender e interpretar continuidades y cambios del medio, analizando relaciones de causalidad, simultaneidad y sucesión, para explicar y valorar las relaciones entre diferentes elementos y acontecimientos.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Ordenar temporalmente hechos del entorno cercano, empleando nociones básicas de medida y sucesión."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Conocer personas y grupos sociales relevantes de la historia, así como formas de vida del pasado y sus creencias, incorporando referentes de igualdad entre hombres y mujeres."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Reconocer y valorar la pluralidad mostrando empatía y",
+            "description": "Reconocer y valorar la pluralidad mostrando empatía y respeto por otras culturas para contribuir a la mejora de una sociedad en continua transformación y al logro de los valores de integración europea.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Recoger información acerca de manifestaciones culturales del entorno, mostrando respeto, valorando su diversidad y riqueza, y apreciándolas como fuente de aprendizaje."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Mostrar actitudes que fomenten la igualdad, el respeto, la libertad y todas las conductas no discriminatorias, reconociendo modelos positivos en el entorno cercano e identificar las cualidades individuales adecuadas para vivir en sociedad."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Participar en el entorno y la vida social de forma eficaz y",
+            "description": "Participar en el entorno y la vida social de forma eficaz y constructiva desde el respeto a los valores democráticos, los derechos humanos y de la infancia y los principios y valores de la Constitución española y la Unión Europea, valorando la función del Estado y sus instituciones en el mantenimiento de la paz y la seguridad ciudadana.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Establecer acuerdos de forma democrática como parte de la sociedad, identificando las responsabilidades individuales y empleando un lenguaje respetuoso."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Identificar instituciones cercanas, señalando y valorando las funciones que realizan en pro de una buena convivencia."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Conocer e interiorizar normas básicas para la convivencia en el uso de los espacios públicos, especialmente como peatones o como usuarios de los medios de locomoción, tomando conciencia de la importancia de la movilidad segura y saludable tanto para las personas como para el planeta."
+                }
+            ]
+        }
+    ]
+}

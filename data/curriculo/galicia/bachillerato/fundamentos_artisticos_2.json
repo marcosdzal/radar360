@@ -1,0 +1,191 @@
+{
+    "community": "galicia",
+    "stage": "bachillerato",
+    "decree": "Decreto 157\/2022, de 15 de septiembre",
+    "subject": "fundamentos_artisticos",
+    "subject_name": "Fundamentos Artísticos",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Comprender los cambios en la concepción del arte, analizando las semejanzas y",
+            "description": "Comprender los cambios en la concepción del arte, analizando las semejanzas y las diferencias entre distintos períodos históricos o contextos culturales, para explicar el enriquecimiento que supone la diversidad. - La definición del concepto de arte …",
+            "criterios": [
+                {
+                    "code": "CE1.1",
+                    "description": "Explicar de forma respetuosa el enriquecimiento que supone la diversidad en el arte, estudiando obras de épocas y culturas distintas a partir de la vinculación con su contexto y analizando el concepto de arte al que responden."
+                },
+                {
+                    "code": "CE2.1",
+                    "description": "Argumentar la evolución de la concepción del arte en la historia, comparando con iniciativa sus significados en períodos y culturas diferentes y analizando sus semejanzas y diferencias."
+                },
+                {
+                    "code": "CE4.1",
+                    "description": "Argumentar la evolución de la concepción del arte en la historia, comparando con iniciativa sus significados en períodos y cultura diferentes y analizando su semejanzas y diferencias."
+                },
+                {
+                    "code": "CE6.1",
+                    "description": "Explicar de forma respetuosa el enriquecimiento que supone la diversidad en el arte, estudiando obras de épocas y culturas distintas a partir de la vinculación con su contexto y analizando el concepto de arte al que responden."
+                },
+                {
+                    "code": "CE6.2",
+                    "description": "Argumentar la evolución de la concepción del arte en la historia, comparando con iniciativa sus significados en períodos y culturas diferentes y analizando sus semejanzas y diferencias."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Reflexionar sobre las funciones del arte a lo largo de la historia, analizando la evolución de su papel en cada período",
+            "description": "Reflexionar sobre las funciones del arte a lo largo de la historia, analizando la evolución de su papel en cada período, para apreciar sus singularidades y poner en valor el patrimonio cultural y artístico de cualquier época. - Al profundizar en el s…",
+            "criterios": [
+                {
+                    "code": "CE1.3",
+                    "description": "Distinguir las funciones del arte a lo largo de la historia, analizando sin prejuicios su evolución a partir del estudio de diversas producciones artísticas de distintos estilos y épocas."
+                },
+                {
+                    "code": "CE2.2",
+                    "description": "Distinguir las funciones del arte a lo largo de la historia, analizando sin prejuicios su evolución a partir del estudio de diversas producciones artísticas de distintos estilos y épocas."
+                },
+                {
+                    "code": "CE2.3",
+                    "description": "Explicar las singularidades de diversas manifestaciones culturales y artísticas, relacionándolas con su función de forma abierta, crítica y respetuosa."
+                },
+                {
+                    "code": "CE3.1",
+                    "description": "Explicar las singularidades de diversas manifestaciones culturales y artísticas, relacionándolas con su función de forma abierta, crítica y respetuosa."
+                },
+                {
+                    "code": "CE5.1",
+                    "description": "Distinguir las funciones del arte a lo largo de la historia, analizando sin prejuicios su evolución a partir del estudio de diversas producciones artísticas de distintos estilos y épocas."
+                },
+                {
+                    "code": "CE5.3",
+                    "description": "Explicar las singularidades de diversas manifestaciones culturales y artísticas, relacionándolas con su función social de forma abierta, crítica y respetuosa."
+                },
+                {
+                    "code": "CE6.3",
+                    "description": "Explicar las singularidades de diversas manifestaciones culturales y artísticas, relacionándolas con su función de forma abierta, crítica y respetuosa."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Analizar formal, funcional y semánticamente producciones artísticas de diversos períodos y estilos",
+            "description": "Analizar formal, funcional y semánticamente producciones artísticas de diversos períodos y estilos, reconociendo sus elementos constituyentes y las claves de sus lenguajes usando vocabulario específico, para desarrollar el criterio estético y ampliar…",
+            "criterios": [
+                {
+                    "code": "CE1.5",
+                    "description": "Identificar los elementos constituyentes de manifestaciones artísticas de diversos períodos y estilos, reconociendo las claves de sus lenguajes y justificando su relación con la época, artista o movimiento correspondiente."
+                },
+                {
+                    "code": "CE2.4",
+                    "description": "Analizar formal, funcional y semánticamente, con criterio y sensibilidad, diferentes manifestaciones artísticas, haciendo uso de la terminología específica asociada a sus lenguajes."
+                },
+                {
+                    "code": "CE3.2",
+                    "description": "Identificar los elementos constituyentes de manifestaciones artísticas de diversos períodos y estilos, reconociendo las claves de sus lenguajes y justificando su relación con la época, artista o movimiento correspondiente."
+                },
+                {
+                    "code": "CE3.3",
+                    "description": "Analizar formal, funcional y semánticamente, con criterio y sensibilidad, diferentes manifestaciones artísticas, haciendo uso de la terminología específica asociada a sus lenguajes."
+                },
+                {
+                    "code": "CE6.4",
+                    "description": "Identificar los elementos constituyentes de manifestaciones artísticas de diversos períodos y estilos, reconociendo las claves de sus lenguajes y justificando su relación con la época, artista o movimiento correspondiente."
+                },
+                {
+                    "code": "CE6.5",
+                    "description": "Analizar formal, funcional y semánticamente, con criterio y sensibilidad, diferentes manifestaciones artísticas, haciendo uso de la terminología específica asociada a sus lenguajes."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Explicar obras artísticas realizadas en distintos medios y soportes, de",
+            "description": "Explicar obras artísticas realizadas en distintos medios y soportes, de cualquier estilo o período, identificando el contexto social, geográfico e histórico en el que se crearon, así como sus posibles influencias y proyecciones, para valorarlas como …",
+            "criterios": [
+                {
+                    "code": "CE1.4",
+                    "description": "Analizar producciones artísticas de diversos estilos y épocas, realizadas en distintos medios y soportes, relacionándolas con su contexto social, geográfico e histórico de creación y explicando las posibles relaciones con obras de otras épocas y culturas."
+                },
+                {
+                    "code": "CE1.6",
+                    "description": "Compartir las conclusiones de investigaciones sobre producciones artísticas de diversos estilos y épocas y las relaciones con su contexto, usando los medios analógicos y digitales más adecuados."
+                },
+                {
+                    "code": "CE2.5",
+                    "description": "Analizar producciones artísticas de diversos estilos y épocas, realizadas en distintos medios y soportes, relacionándolas con su contexto social, geográfico e histórico de creación y explicando las posibles relaciones con obras de otras épocas y culturas."
+                },
+                {
+                    "code": "CE3.4",
+                    "description": "Analizar producciones artísticas de diversos estilos y épocas, realizadas en distintos medios y soportes, relacionándolas con su contexto social, geográfico e histórico de creación y explicando las posibles relaciones con obras de otras épocas y culturas."
+                },
+                {
+                    "code": "CE5.2",
+                    "description": "Compartir las conclusiones de investigaciones sobre producciones artísticas de diversos estilos y épocas y las relaciones con su contexto, usando los medios analógicos y digitales más adecuados."
+                },
+                {
+                    "code": "CE5.4",
+                    "description": "Analizar producciones artísticas de diversos estilos y épocas, realizadas en distintos medios y soportes, relacionándolas con su contexto social, geográfico e histórico de creación y explicando las posibles relaciones con obras de otras épocas y culturas."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Comprender el poder comunicativo del arte, identificando y reconociendo el",
+            "description": "Comprender el poder comunicativo del arte, identificando y reconociendo el reflejo de las experiencias vitales en diferentes producciones, para valorar la expresión artística como herramienta potenciadora de la creatividad, la imaginación, la autoest…",
+            "criterios": [
+                {
+                    "code": "CE4.3",
+                    "description": "Explicar las diferentes posibilidades expresivas del arte y su poder de transmisión de ideas, conceptos, sentimientos y emociones a partir de obras de artistas de distintas épocas y estilos, analizando las distintas interpretaciones que se dieron de ellas."
+                },
+                {
+                    "code": "CE4.4",
+                    "description": "Analizar producciones artísticas de diversos períodos y estilos vinculándolas creativamente con experiencias vitales propias y ajenas y valorándolas como herramientas potenciadoras de la creatividad, la imaginación, la autoestima y el crecimiento personal."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Interpretar diversas creaciones artísticas a partir del estudio de su forma, su",
+            "description": "Interpretar diversas creaciones artísticas a partir del estudio de su forma, su significado, su contexto de creación y su recepción, para desarrollar la sensibilidad y el sentido crítico y para apreciar la diversidad de percepciones y opiniones ante …",
+            "criterios": [
+                {
+                    "code": "CE2.6",
+                    "description": "Comparar las interpretaciones que se dieron de diversas manifestaciones artísticas, analizando los diferentes puntos de vista y proponiendo una valoración personal."
+                },
+                {
+                    "code": "CE4.2",
+                    "description": "Interpretar creaciones artísticas de distintos períodos y estilos, analizando su forma, su significado y su contexto de creación e incorporando las ideas, conocimientos, emociones y sentimientos propios."
+                },
+                {
+                    "code": "CE4.5",
+                    "description": "Comparar las interpretaciones que se dieron de diversas manifestaciones artísticas, analizando los diferentes puntos de vista y proponiendo una valoración personal."
+                },
+                {
+                    "code": "CE5.5",
+                    "description": "Comparar las interpretaciones que se dieron de diversas manifestaciones artísticas, analizando los diferentes puntos de vista y proponiendo una valoración personal."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Elaborar con creatividad proyectos artísticos individuales o colectivos,",
+            "description": "Elaborar con creatividad proyectos artísticos individuales o colectivos, investigando estilos, técnicas y lenguajes multidisciplinarios y seleccionando y aplicando los más adecuados, para dar forma a las ideas y objetivos expuestos y para aprender a …",
+            "criterios": [
+                {
+                    "code": "CE1.2",
+                    "description": "Exponer proyectos artísticos, individuales o colectivos, seleccionando los estilos, técnicas y lenguajes más adecuados de diversas disciplinas, y organizando y distribuyendo las tareas de manera razonada."
+                },
+                {
+                    "code": "CE6.6",
+                    "description": "Formular proyectos artísticos, individuales o colectivos, seleccionando los estilos, técnicas y lenguajes más adecuados de diversas disciplinas, y organizando y distribuyendo las tareas de manera razonada."
+                },
+                {
+                    "code": "CE6.7",
+                    "description": "Llevar a cabo con creatividad proyectos artísticos individuales o colectivos, materializando las ideas y objetivos expuestos, aplicando los aprendizajes adquiridos, asumiendo los roles asignados y respetando, en su caso, las aportaciones de los demás."
+                }
+            ]
+        }
+    ]
+}

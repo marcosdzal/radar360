@@ -1,0 +1,112 @@
+{
+    "community": "baleares",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "fisica_y_quimica_alt",
+    "subject_name": "Física",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Utilitzar les teories, principis i lleis que regeixen els processos fisics mes",
+            "description": "utilitzar les teories, principis i lleis que regeixen els processos fisics mes importants, considerant-ne la base experimental i desenvolupament matemàtic en la resolució de problemes, per reconèixer la física com una ciència rellevant implicada en e…",
+            "criterios": [
+                {
+                    "code": "CA1.1",
+                    "description": "Reconèixer la rellevància de la física en el desenvolupament de la ciència, la tecnologia, l'economia, la societat i la sostenibilitat ambiental i emprar adequadament els fonaments científics relatius a aquests àmbits. Identificar i explicar la importància dels principis fonamentals que regeixen els processos físics més importants en el desenvolupament de la ciència, la tecnologia, l'economia, la societat i la sostenibilitat ambiental al llarg de la història."
+                },
+                {
+                    "code": "CA1.2",
+                    "description": "Resoldre problemes de manera experimental i analítica, utilitzant principis, lleis i teories de la física. Aplicar principis, lleis i teories de la física per resoldre problemes experimentals i analítics, amb precisió en l'ús de mètodes matemàtics i científics i fent servir eines tradicionals o digitals."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Adoptar els models, teories i lleis acceptats de la fisica com a base d'estudi",
+            "description": "adoptar els models, teories i lleis acceptats de la fisica com a base d'estudi dels sistemes naturals i predir la seva evolució per inferir solucions generals als problemes quotidians relacionats amb les aplicacions pràctiques demandades per la socie…",
+            "criterios": [
+                {
+                    "code": "CA2.1",
+                    "description": "Analitzar i comprendre l'evolució dels sistemes naturals amb l'ús de models, lleis i teories de la física. Aplicar models, lleis i teories de la física per analitzar i explicar l'evolució de sistemes naturals i els factors que hi intervenen."
+                },
+                {
+                    "code": "CA2.2",
+                    "description": "Inferir solucions a problemes generals a partir de l'anàlisi de situacions particulars i les variables de què depenen. Identificar variables i patrons en situacions concretes per extreure conclusions que siguin d'utilitat per plantejar solucions a problemes de caire general."
+                },
+                {
+                    "code": "CA2.3",
+                    "description": "Conèixer aplicacions pràctiques i productes útils per a la societat en el camp tecnològic, industrial i biosanitari, analitzant-los sobre la base dels models, les lleis i les teories de la física. Analitzar aplicacions pràctiques i productes útils per a la societat en els camps tecnològic, industrial i biosanitari, relacionant-los amb models, lleis i teories de la física i reflexionar sobre el seu impacte ètic i sostenible."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Utilitzar el llenguatge de la fisica amb la formulacio matematica dels seus",
+            "description": "utilitzar el llenguatge de la fisica amb la formulacio matematica dels seus principis, magnituds, unitats, equacions, etc., per establir la comunicació adequada entre diferents comunitats científiques i com a eina fonamental en la recerca. El desenvo…",
+            "criterios": [
+                {
+                    "code": "CA3.1",
+                    "description": "Aplicar els principis, lleis i teories científiques en l'anàlisi crítica de processos físics de l'entorn, com els observats i els publicats en diferents mitjans de comunicació, analitzant, comprenent i explicant les causes que els produeixen. Analitzar de manera crítica processos físics reals i comunicats en diversos formats, utilitzant els principis, lleis i teories científiques per explicar-ne les causes."
+                },
+                {
+                    "code": "CA3.2",
+                    "description": "Utilitzar de manera rigorosa les unitats de les variables físiques en diferents sistemes d'unitats, emprant correctament la seva notació i les seves equivalències, com també l'elaboració i interpretació adequada de gràfiques que relacionen variables físiques, possibilitant una comunicació efectiva amb tota la comunitat científica. Utilitzar amb rigor el llenguatge físic i les eines matemàtiques pròpies de la física (equacions, unitats, xifres significatives, notació científica, etc.). Elaborar i interpretar de forma adequada gràfics que relacionen variables físiques per aconseguir una comunicació efectiva de tota la comunitat científica."
+                },
+                {
+                    "code": "CA3.3",
+                    "description": "Expressar de forma adequada els resultats i argumentar les solucions obtingudes en la resolució dels exercicis i problemes que es plantegen, tant a través de situacions reals o com ideals. Expressar de forma adequada els resultats i argumentant les solucions obtingudes en la resolució dels exercicis i problemes que es plantegen, tant a través de situacions reals o com ideals."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Utilitzar de manera autonoma, eficient, critica i responsable recursos en",
+            "description": "utilitzar de manera autonoma, eficient, critica i responsable recursos en diferents formats, plataformes digitals d'informació i de comunicació en el treball individual i col·lectiu per al foment de la creativitat mitjançant la producció i l'intercan…",
+            "criterios": [
+                {
+                    "code": "CA4.1",
+                    "description": "Consultar, elaborar i intercanviar materials científics i divulgatius en diferents formats amb altres membres de l'entorn d'aprenentatge, utilitzant de manera autònoma i eficient plataformes digitals. Utilitzar de manera autònoma i eficient plataformes digitals per consultar, crear i compartir materials científics i divulgatius en diferents formats per promoure l'intercanvi d'informació amb altres membres de l'entorn d'aprenentatge i fomentar la creativitat."
+                },
+                {
+                    "code": "CA4.2",
+                    "description": "Usar de manera crítica, ètica i responsable mitjans de comunicació digitals i tradicionals com a manera d'enriquir l'aprenentatge i el treball individual i col·lectiu. Utilitzar de manera crítica i ètica els mitjans de comunicació digitals i tradicionals per enriquir l'aprenentatge i el treball individual i col·lectiu."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Aplicar tecniques de treball i indagacio propies de la fisica, com tambe",
+            "description": "aplicar tecniques de treball i indagacio propies de la fisica, com tambe l'experimentacio, el raonament logicomatemàtic i la cooperació en la resolució de problemes i la interpretació de situacions relacionades, per posar en valor el paper de la físi…",
+            "criterios": [
+                {
+                    "code": "CA5.1",
+                    "description": "Obtenir relacions entre variables físiques, mesurant i tractant les dades experimentals, determinant els errors i utilitzant sistemes de representació gràfica. Obtenir relacions entre variables físiques mesurant i tractant les dades experimentals, determinant els errors i utilitzant sistemes de representació gràfica."
+                },
+                {
+                    "code": "CA5.2",
+                    "description": "Reproduir en laboratoris, reals o virtuals, determinats processos físics modificant les variables que els condicionen, considerant els principis, lleis o teories implicats, generar l'informe corresponent amb format adequat incloent-hi argumentacions, conclusions, taules de dades, gràfiques i referències bibliogràfiques. Simular o reproduir processos físics en laboratoris, reals o virtuals, ajustant les variables segons els principis, lleis o teories físiques que s'apliquin i elaborar informes complets amb conclusions justificades, taules de dades, gràfics i referències bibliogràfiques."
+                },
+                {
+                    "code": "CA5.3",
+                    "description": "Valorar la física mitjançant el debat de forma fonamentada sobre els seus avenços i la implicació en la societat des del punt de vista de l'ètica i de la sostenibilitat. Debatre i reflexionar de manera fonamentada sobre els avenços de la física, analitzant-ne la contribució a la societat des d'una perspectiva ètica i sostenible."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Reconeixer i analitzar el caracter multidisciplinari de la fisica, considerant",
+            "description": "reconeixer i analitzar el caracter multidisciplinari de la fisica, considerant el seu rellevant recorregut històric i les seves contribucions a l'avenç del coneixement científic com un procés en contínua evolució i innovació, per establir les bases d…",
+            "criterios": [
+                {
+                    "code": "CA6.1",
+                    "description": "Identificar els principals avenços científics relacionats amb la física que han contribuït a la formulació de les lleis i teories acceptades actualment en el conjunt de les disciplines científiques, com les fases per a l'enteniment de les metodologies de la ciència, la seva evolució constant i la seva universalitat. Analitzar els principals avenços científics en física, identificant-ne les etapes, les metodologies utilitzades i la seva contribució a l'evolució i universalitat del coneixement científic."
+                },
+                {
+                    "code": "CA6.2",
+                    "description": "Reconèixer el caràcter multidisciplinari de la ciència, les contribucions d'unes disciplines en altres i establir relacions entre la física i la química, la biologia, la geologia o les matemàtiques. Establir connexions entre la física i altres disciplines científiques, com la química, la biologia o les matemàtiques, per destacar el caràcter multidisciplinari de la ciència i el seu impacte en l'avenç tecnològic i social."
+                }
+            ]
+        }
+    ]
+}

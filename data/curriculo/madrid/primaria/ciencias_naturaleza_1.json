@@ -1,0 +1,126 @@
+{
+    "community": "madrid",
+    "stage": "primaria",
+    "decree": "Decreto 61/2022, de 13 de julio",
+    "subject": "ciencias_naturaleza",
+    "subject_name": "Ciencias de la Naturaleza",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Utilizar dispositivos y recursos digitales de forma segura,",
+            "description": "Utilizar dispositivos y recursos digitales de forma segura, responsable y eficiente, para buscar información, comunicarse y trabajar de manera individual, en equipo y en red para reelaborar y crear contenido digital.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Utilizar dispositivos y recursos digitales de forma segura."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Iniciar la búsqueda guiada de información de forma individual o en equipo, contrastando la información de algunas fuentes seleccionadas."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Plantear y dar respuesta a cuestiones científicas",
+            "description": "Plantear y dar respuesta a cuestiones científicas sencillas, utilizando diferentes técnicas, instrumentos y modelos propios del pensamiento científico, para interpretar y explicar hechos y fenómenos que ocurren en el medio.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Mostrar curiosidad por objetos, hechos y fenómenos cercanos, formulando preguntas con base en observaciones guiadas y realizando predicciones."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Buscar información sencilla de diferentes fuentes seguras y fiables de forma guiada, utilizándola en investigaciones relacionadas con el medio."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Participar en experimentos pautados o guiados, cuando la investigación lo requiera, utilizando técnicas sencillas de indagación, empleando de forma segura los instrumentos y registrando las observaciones de forma clara y objetiva."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Proponer respuestas a las preguntas planteadas, comparando la información y los resultados obtenidos con las predicciones realizadas."
+                },
+                {
+                    "code": "2.5",
+                    "description": "Comunicar de forma oral o gráfica el resultado de las investigaciones, explicando los pasos generales seguidos con ayuda de un guion."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Resolver problemas a través de proyectos de diseño y de la",
+            "description": "Resolver problemas a través de proyectos de diseño y de la aplicación del pensamiento computacional, generando nuevos productos según necesidades.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Realizar, de forma guiada, un producto final sencillo que dé solución a un problema de necesidad, uso y diseño, probando en equipo diferentes prototipos y utilizando de forma segura los materiales adecuados."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Presentar de forma oral o gráfica el producto final de los proyectos de diseño, explicando los pasos seguidos con ayuda de un guion."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Mostrar interés por el pensamiento computacional, participando en la resolución guiada de problemas sencillos de programación."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Conocer y tomar conciencia del cuerpo, así como de las",
+            "description": "Conocer y tomar conciencia del cuerpo, así como de las emociones y sentimientos propios y ajenos, aplicando el conocimiento científico para favorecer la salud física y mental.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Identificar las emociones propias y las de los demás, entendiendo las relaciones familiares y escolares a las que pertenecen y reconociendo las acciones que favorezcan estas relaciones."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Reconocer estilos de vida saludables valorando la importancia de una alimentación variada, equilibrada y saludable, la higiene, el ejercicio físico, el contacto con la naturaleza, el descanso y el uso adecuado de las tecnologías."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Identificar las características de los diferentes elementos",
+            "description": "Identificar las características de los diferentes elementos o sistemas del medio natural, analizando su organización y propiedades, y estableciendo relaciones entre los mismos, para reconocer el valor del patrimonio natural, conservarlo y mejorarlo.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Reconocer las características, la organización y las propiedades de los elementos del medio natural, a través de la indagación, utilizando diversas herramientas y procesos adecuados de conocimiento y descubrimiento de forma pautada."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Reconocer conexiones pautadas, sencillas y directas entre diferentes elementos del medio natural, social y cultural por medio de la observación, la manipulación y la experimentación."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Mostrar actitudes de respeto ante el patrimonio natural."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Identificar las causas y consecuencias de la intervención",
+            "description": "Identificar las causas y consecuencias de la intervención humana en el entorno, desde los puntos de vista social, económico, cultural, tecnológico y ambiental, para mejorar la capacidad de afrontar problemas, buscar soluciones y actuar en su resolución, fomentando el respeto, el cuidado y la protección de las personas y del planeta.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Mostrar estilos de vida adecuados y valorar la importancia del respeto, los cuidados y la protección de los elementos y seres del planeta, identificando la relación de la vida de las personas con sus acciones sobre los elementos y recursos del medio como el suelo y el agua."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Identificar algún hito tecnológico de algunas de las etapas de la historia de la humanidad."
+                }
+            ]
+        }
+    ]
+}

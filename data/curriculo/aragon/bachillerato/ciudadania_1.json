@@ -1,0 +1,66 @@
+{
+    "community": "aragon",
+    "stage": "bachillerato",
+    "decree": "Orden ECD\/1112\/2022, de 18 de julio",
+    "subject": "ciudadania",
+    "subject_name": "Educación para la Ciudadanía y los Derechos Humanos",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Entender el diálogo como un ejercicio de rigor, espíritu crítico, tolerancia y",
+            "description": "Entender el diálogo como un ejercicio de rigor, espíritu crítico, tolerancia y empatía en lo que supone de requisito indispensable para la práctica de una ciudadanía activa y democrática, a través la resolución de manera dialógica y respetuosa con la…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Ejercer el diálogo de manera racional, respetuosa, abierta, constructiva y comprometida con la verdad como forma de entender el contraste e intercambio de ideas, necesarios en una ciudadanía activa y democrática para ampliar la comprensión y posibilitar la resolución de problemas relevantes para la vida en común y la consecución de valores como libertad, igualdad y justicia."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Producir y evaluar discursos orales acerca de cuestiones éticas y políticas, usando la argumentación de manera correcta, así como detectando y evitando modos dogmáticos y sesgados de sostener opiniones e hipótesis. Comprender la necesidad de las normas para la consecución de los valores democráticos de libertad, igualdad y justicia a fin de guiar nuestra acción ética y política de manera responsable, crítica y comprometida con la convivencia pacífica y con el bien común, así como distinguir en el ejercicio del poder por parte del Estado las acciones que garanticen y promuevan esos valores."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Comprender la necesidad de las normas para la consecución de los valores",
+            "description": "Comprender la necesidad de las normas para la consecución de los valores democráticos de libertad, igualdad y justicia a fin de guiar nuestra acción ética y política de manera responsable, crítica y comprometida con la convivencia pacífica y con el b…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Usar y comprender críticamente los conceptos de ley, poder, justicia, Estado, democracia, igualdad económica, así como igualdad ante la ley y de oportunidades, violencia y desobediencia a la ley."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Generar un compromiso activo con el bien común a través del análisis y la toma razonada y dialogante de posición en torno a cuestiones éticas y políticas de actualidad que atañen al papel del Estado ante asuntos relativos a la igualdad, las libertades y los derechos."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Analizar problemas éticos y políticos fundamentales, derivados de cuestiones de",
+            "description": "Analizar problemas éticos y políticos fundamentales, derivados de cuestiones de actualidad como la manipulación y el control a través de los medios de comunicación e internet, la igualdad de género y el papel del ser humano en la destrucción del medi…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Desarrollar el propio juicio y la autonomía moral mediante el análisis filosófico de problemas éticos y políticos fundamentales y de actualidad, como los derivados de las nuevas tecnologías de la comunicación o de nuestra relación con el medio ambiente, considerando las distintas posiciones en liza, para contrastarlas con las propias tesis a través de la argumentación y el diálogo."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Tomar consciencia de la lucha por una efectiva igualdad de género, a través del análisis de las teorías en torno a la cuestión del género como una creación social, y de la comprensión de los conceptos más importantes del feminismo, para la consecución de una actitud igualitaria ante las distintas discriminaciones practicadas sobre la mujer."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Adquirir una perspectiva global, sistémica y transdisciplinar en el",
+            "description": "Adquirir una perspectiva global, sistémica y transdisciplinar en el planteamiento de cuestiones fundamentales y de actualidad, integrando información e ideas de distintos ámbitos disciplinares a través de la perspectiva que otorga el conocimiento de …",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Utilizar conceptos e ideas provenientes de distintos campos del saber para afrontar temas complejos, de carácter fundamental y de actualidad, de modo interdisciplinar, sistémico y transformador, orientándolos y articulándolos críticamente desde una perspectiva filosófica."
+                }
+            ]
+        }
+    ]
+}

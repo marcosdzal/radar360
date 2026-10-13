@@ -1,0 +1,164 @@
+{
+    "community": "cataluna",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "cultura_audiovisual",
+    "subject_name": "Cultura Audiovisual",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Descobrir els aspectes essencials de les diferents manifestacions de la imatge",
+            "description": "Descobrir els aspectes essencials de les diferents manifestacions de la imatge fotogràfica fixa i l'audiovisual, observant i reflexionant sobre la importància del seu llegat històric com a riquesa universal, per implicar-se de forma activa, democràti…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "El alumnado explica los cambios históricos esenciales del lenguaje fotográfico y audiovisual valorando su evolución."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Analizar cualidades plásticas, formales y semánticas de fotografías y audiovisuales, identificando reglas y códigos."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Analitzar els missatges rebuts a través d'imatges fotogràfiques fixes i",
+            "description": "Analitzar els missatges rebuts a través d'imatges fotogràfiques fixes i produccions audiovisuals, reconeixent els diferents contextos en els quals es produeixen i valorant la llibertat d'expressió com a base fonamental en la seva creació, per trobar,…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Diseñar producciones audiovisuales creativas que expresen ideas y sentimientos propios a partir de un tema, incorporando experiencias personales y otros medios."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Evaluar el rigor ético y formal de producciones audiovisuales mediante análisis crítico, identificando manipulación y respetando la propiedad intelectual."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Analitzar imatges fotogràfiques fixes i produccions audiovisuals, desenvolupant",
+            "description": "Analitzar imatges fotogràfiques fixes i produccions audiovisuals, desenvolupant una percepció crítica, avaluant la informació visual i sonora i cercant enfocaments experimentals, perquè formin part de l'experiència artística personal i contribueixin …",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Organizar equipos de trabajo identificando habilidades y distribuyendo tareas para producciones audiovisuales colectivas."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Planificar una producción audiovisual justificando medios, habilidades y soluciones a imprevistos."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Valorar les qualitats plàstiques, estètiques i semàntiques de diferents imatges",
+            "description": "Valorar les qualitats plàstiques, estètiques i semàntiques de diferents imatges fotogràfiques fixes i les produccions audiovisuals, incloent-hi les característiques dels seus llenguatges i els elements tècnics en la valoració de la creació final, per…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Justificar las decisiones técnicas y de lenguaje de una producción audiovisual en función del público destinatario."
+                },
+                {
+                    "code": "4.2",
+                    "description": "El alumnado selecciona canales de difusión para producciones audiovisuales, justificando su elección según el propósito y el público, con respeto a la propiedad intelectual."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Descobrir i explorar la creació audiovisual com un mitjà per expressar idees,",
+            "description": "Descobrir i explorar la creació audiovisual com un mitjà per expressar idees, opinions i sentiments de forma creativa i personal, per implicar-se personalment en diverses classes de produccions audiovisuals, incloent-hi les individuals.",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Reconèixer el llenguatge audiovisual com un mitjà per manifestar-ne la singularitat, consolidar el coneixement de si mateix i generar autoconfiança, per mitjà de l’experimentació i la innovació en el procés de la producció audiovisual."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Realitzar produccions audiovisuals que representin les idees, les opinions i els sentiments a partir d’un tema o motiu previs, emprant l’expressió audiovisual com una eina d’exploració de l’entorn."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Incorporar en el procés creatiu l'acceptació, tant d'un mateix com de l'altre,",
+            "description": "Incorporar en el procés creatiu l'acceptació, tant d'un mateix com de l'altre, i la voluntat de creixement, augmentant d'aquesta manera l'autoconfiança i l'empatia, per comprendre que les creacions significatives s'acostumen a alimentar d'un coneixem…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Oferir diferents propostes en la resolució de projectes creatius, cercant referències audiovisuals, exposant diverses perspectives i valorant tant el procés expressiu individual, com el col·lectiu i compartit."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Desenvolupar propostes de treball audiovisual amb una intenció expressiva i comunicativa personal i creativa, integrant en la seva execució l’autocrítica i la necessitat de comunicació i comprensió de l’altre."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Identificar i comprendre l'audiovisual com un mitjà per expressar idees,",
+            "description": "Identificar i comprendre l'audiovisual com un mitjà per expressar idees, opinions i sentiments prenent com a referència creadors de tots els temps, fent especial atenció al procés, fomentant la socialització i la construcció de la identitat personal,…",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Experimentar amb el llenguatge audiovisual per comprendre’n la singularitat, consolidar el coneixement d’un mateix i generar autoconfiança, per mitjà del rigor i la precisió en el procés de la producció audiovisual."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Crear produccions audiovisuals amb una mirada humanista i integradora que representin les idees, les opinions i els sentiments a partir d’un tema o motiu previs, emprant amb rigor ètic i formal l’expressió audiovisual com una eina per explorar l’entorn mitjançant diferents mètodes de treball."
+                },
+                {
+                    "code": "7.3",
+                    "description": "Crear produccions audiovisuals mitjançant processos de treball en equip inclusius i participatius, incorporant-hi tant les experiències personals com el respecte i la comprensió de l’altre en la seva realització."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Demostrar un coneixement de les principals tècniques, recursos i convencions",
+            "description": "Demostrar un coneixement de les principals tècniques, recursos i convencions del llenguatge audiovisual, identificant els equips i les competències necessàries i incorporant les possibilitats que ofereixen les diverses tecnologies vinculades al mitjà…",
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Planificar i realitzar una producció audiovisual fent ús dels mitjans i de les habilitats necessàries, raonant les tries, aprofundint en les possibilitats expressives i buscant una creació que s’ajusti al projecte preparat prèviament."
+                }
+            ]
+        },
+        {
+            "code": "CE9",
+            "name": "Dissenyar i realitzar de forma individual o col·lectiva produccions",
+            "description": "Dissenyar i realitzar de forma individual o col·lectiva produccions audiovisuals tenint en compte el procés, les fases i els llenguatges necessaris, per construir una personalitat artística oberta, àmplia i diversa.",
+            "criterios": [
+                {
+                    "code": "9.1",
+                    "description": "Crear una producció audiovisual, individual o grupal, oberta i col·laborativa, dissenyant les fases del procés i seleccionant les tècniques adequades per aconseguir un resultat adaptat a la personalitat artística."
+                },
+                {
+                    "code": "9.2",
+                    "description": "Desenvolupar una producció audiovisual sostenible, considerant tots els factors perquè tingui el mínim impacte possible."
+                },
+                {
+                    "code": "9.3",
+                    "description": "Crear un equip de treball i identificar les habilitats de cadascun dels membres per realitzar una producció audiovisual, comprenent la importància del treball col·laboratiu i el respecte mutu en la consecució d’un resultat professional."
+                }
+            ]
+        },
+        {
+            "code": "CE0",
+            "name": "Comunicar públicament creacions audiovisuals, avaluant tant el procés com la",
+            "description": "Comunicar públicament creacions audiovisuals, avaluant tant el procés com la creació final, per reflexionar sobre el coneixement generat i el vincle amb els espectadors de forma oberta i respectuosa.",
+            "criterios": [
+                {
+                    "code": "10.1",
+                    "description": "Exposar la creació final d’una producció audiovisual, compartint el procés d’elaboració, les dificultats trobades, els progressos realitzats i una valoració del conjunt."
+                },
+                {
+                    "code": "10.2",
+                    "description": "Compartir i analitzar la recepció de les produccions audiovisuals presentades de manera oberta i respectuosa, considerant totes les opinions i extraient-ne un aprenentatge per al creixement artístic."
+                }
+            ]
+        }
+    ]
+}

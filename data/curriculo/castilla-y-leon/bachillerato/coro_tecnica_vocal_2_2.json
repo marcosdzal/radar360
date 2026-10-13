@@ -1,0 +1,86 @@
+{
+    "community": "castilla-y-leon",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "coro_tecnica_vocal_2",
+    "subject_name": "Coro y Técnica Vocal II",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "1.1 Escuchar y analizar piezas vocales explicando de manera razonada los",
+            "description": "1.1 Escuchar y analizar piezas vocales explicando de manera razonada los aspectos que las hacen afines a un estilo, a un género o a una cultura, así como otras características de la interpretación y de la puesta en escena. (CCL2, CP3, STEM2, CD1, CC3…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar piezas vocales justificando su pertenencia a un estilo, género o cultura y los rasgos de interpretación y puesta en escena."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Explicar la relación entre texto y música mediante análisis del texto y de la curva de tensiones en obras vocales."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Defender con criterios fundamentados los aspectos singulares y el valor social de diferentes piezas vocales, contextualizándolas y valorando su impacto en la sociedad. (CCL1, CCL2, CC3, CCEC1, CCEC2, CCEC3.1)"
+                },
+                {
+                    "code": "1.4",
+                    "description": "Conocer los recursos interpretativos de las diferentes épocas y culturas, a través de ejemplos musicales de las mismas. CCEC4.2)"
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "2.1 Realizar ejercicios e improvisaciones para el desarrollo de la escucha activa y de la capacidad vocal",
+            "description": "2.1 Realizar ejercicios e improvisaciones para el desarrollo de la escucha activa y de la capacidad vocal, aplicando técnicas vocales y corporales sanas, y reforzando la autoestima y la autoconfianza. (CCL1, CCL5, CD3, CPSAA2, CPSAA3.1, CE2, CCEC3.2)…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "El alumnado aplica técnicas vocales y corporales sanas en ejercicios e improvisaciones para potenciar la escucha activa y la capacidad vocal, reforzando autoestima y autoconfianza."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Reconocer la necesidad del desarrollo constante de las habilidades físicas y mentales participando en las interpretaciones vocales de grupo. CC1, CC3, CE2, CCEC3.1)"
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "3.1 Participar en la interpretación coral de diferentes obras musicales,",
+            "description": "3.1 Participar en la interpretación coral de diferentes obras musicales, demostrando eficacia, escucha activa, precisión técnica y una expresión vocal y corporal adecuada al servicio del conjunto y a las directrices de la dirección. (CCL2, CP1, CPSAA…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Participa en el coro mostrando eficacia, escucha activa, precisión técnica y expresión vocal y corporal adecuadas al conjunto."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Expresar emociones y sentimientos interpretando de forma inclusiva obras de distintos géneros y estilos. (CCL2, CP1, CPSAA1.1, CPSAA3.1, CC1, CE2, CCEC1, CCEC3.2)"
+                },
+                {
+                    "code": "3.3",
+                    "description": "Utilizar el \"oído interno\" como base de la afinación, de la audición armónica y de la interpretación musical. (CPSAA1.1, CPSAA3.1, CE2)"
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "4.1 Mostrar, en la actuación, una actitud escénica adecuada de respeto por el público y sus opiniones",
+            "description": "4.1 Mostrar, en la actuación, una actitud escénica adecuada de respeto por el público y sus opiniones. (CPSAA1.1, CPSAA1.2, CPSAA3.1) 4.2 Participar, con iniciativa, responsabilidad y conciencia de grupo, en el montaje de proyectos escénicos, asumien…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Comunicar actitud escénica y respeto al público durante la actuación."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Participar en el montaje escénico asumiendo funciones de producción y reflexionando sobre oportunidades de desarrollo personal, social, académico o profesional."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Conectar las interpretaciones vocales con otras artes y disciplinas, diseñando proyectos artísticos innovadores y creativos que utilicen diversos medios o soportes audiovisuales. (CCL3, STEM3, CD3, CD4, CD5, CPSAA1.1, CPSAA1.2, CE1, CCEC3.1, CCEC4.1, CCEC4.2)"
+                }
+            ]
+        }
+    ]
+}

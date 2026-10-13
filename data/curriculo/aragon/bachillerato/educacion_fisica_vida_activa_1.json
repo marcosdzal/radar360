@@ -1,0 +1,40 @@
+{
+    "community": "aragon",
+    "stage": "bachillerato",
+    "decree": "Orden ECD\/1112\/2022, de 18 de julio",
+    "subject": "educacion_fisica_vida_activa",
+    "subject_name": "Educación Física y Vida Activa",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Adaptar autónomamente la motricidad para resolver situaciones motrices según la",
+            "description": "Adaptar autónomamente la motricidad para resolver situaciones motrices según la lógica interna de las mismas (capacidades físicas, perceptivo-motrices y coordinativas así como las habilidades y destrezas motrices específicas de algunas modalidades pr…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Planificar, desarrollar y evaluar proyectos motores basados en la resolución de situaciones motrices de carácter individual, de cooperación, de oposición, de colaboración-oposición o artístico expresivas, en un medio con o sin incertidumbre, aplicando principios operacionales propios del tipo de práctica, siendo capaces de gestionar autónomamente cualquier imprevisto o situación que pueda ir surgiendo a lo largo del proceso de forma reflexiva, cognitiva, eficiente y ajustada a los objetivos que se pretendan alcanzar."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Participar de manera activa y responsable en las actividades propuestas, cumpliendo las reglas, normas de seguridad individuales y colectivas para prever y controlar los riesgos intrínsecos a la propia actividad derivados de la utilización de los equipamientos, el entorno o la propia actuación de los participantes, y rutinas establecidas en clase para contribuir al buen desarrollo de las sesiones."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Gestionar y poner en práctica proyectos de promoción de la actividad física que",
+            "description": "Gestionar y poner en práctica proyectos de promoción de la actividad física que permitan adoptar un estilo de vida activo y s aludable, seleccionando e incorporando intencionalmente actividades físicas y deportivas en las rutinas diarias, a partir de…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Planificar, desarrollar, evaluar y difundir proyectos motores de promoción de la actividad física con la intención de mejorar su contexto social próximo."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Participar de manera activa en las actividades propuestas, realizar los proyectos encomendados en grupo o de manera individual adquiriendo habilidades sociales manteniendo interacciones positivas, utilizando el diálogo y la negociación en situaciones conflictivas para conseguir el objetivo común."
+                }
+            ]
+        }
+    ]
+}

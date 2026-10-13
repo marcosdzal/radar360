@@ -1,0 +1,90 @@
+{
+    "community": "baleares",
+    "stage": "eso",
+    "decree": "",
+    "subject": "filosofia",
+    "subject_name": "Educació en Valors Cívics i Ètics",
+    "grade": 4,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Inquirir i investigar tot el que fa referencia a la identitat humana i a",
+            "description": "inquirir i investigar tot el que fa referencia a la identitat humana i a questions etiques relatives al propi projecte vital, analitzant críticament informació fiable i generant una actitud reflexiva per promoure l'autoconeixement i l'elaboració de p…",
+            "criterios": [
+                {
+                    "code": "CA1.1",
+                    "description": "Construir i expressar un concepte ajustat de si mateix, reconèixer les múltiples dimensions de la seva naturalesa i personalitat, així com de la seva dimensió cívica i moral a partir de la recerca i el diàleg sobre diverses concepcions de la naturalesa humana. - Indagar en relació a les diverses concepcions de la naturalesa humana, en la seva dimensió cívica i moral. - Dialogar entorn a les múltiples dimensions de la pròpia naturalesa i personalitat. - Comprendre el caràcter problemàtic i divers de la reflexió entorn a la condició humana amb el tractament dels pensadors i pensadores de la història i els desafiaments actuals que suposa el debat entorn al transhumanisme."
+                },
+                {
+                    "code": "CA1.2",
+                    "description": "Identificar, gestionar i comunicar idees, emocions, afectes i desitjos amb comprensió i empatia cap a les altres persones, demostrant autoestima i compartint un concepte adequat del que han de ser les relacions amb altres persones, inclòs l'àmbit afectiu-sexual. - Identificar les pròpies emocions en relació a situacions quotidianes, problemes de l'actualitat i situacions artístiques i literàries mostrant empatia. - Comunicar les pròpies idees demostrant comprensió cap a les altres persones. - Gestionar afectes i desitjos amb un concepte adequat de la relació amb altres, incloent-hi l'àmbit afectiu-sexual."
+                },
+                {
+                    "code": "CA1.3",
+                    "description": "Desenvolupar i demostrar autonomia moral a través de la pràctica de la deliberació racional, l'ús de conceptes ètics i el diàleg respectuós amb els altres, entorn diferents valors, diferents maneres de vida, diferents problemes relacionats amb l'exercici dels drets individuals, de l'ús responsable i segur de les xarxes, de les conductes addictives i de l'assetjament escolar. - Utilitzar conceptes ètics per desenvolupar la pràctica de la deliberació racional. - Dialogar amb respecte sobre la pluralitat dels valors, de les formes de viure i altres aspectes ètics. - Analitzar èticament aspectes propis del seu àmbit com l'ús responsable i segur de les xarxes, les conductes addictives i l'assetjament escolar."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Actuar i interactuar d'acord amb normes i valors civics i etics, a partir del",
+            "description": "actuar i interactuar d'acord amb normes i valors civics i etics, a partir del reconeixement fonamentat de la seva importància per regular la vida comunitària i l'aplicació efectiva i justificada en diferents contexts, per promoure una convivència pac…",
+            "criterios": [
+                {
+                    "code": "CA2.1",
+                    "description": "Promoure i demostrar una convivència pacífica, respectuosa, democràtica i compromesa amb el bé comú, a partir de la recerca sobre la naturalesa social i política de l'ésser humà i l'ús i comprensió crítica dels conceptes de llei, poder, sobirania, justícia, Estat, democràcia, memòria democràtica, dignitat i drets humans. - Indagar sobre la naturalesa social i política de l'ésser humà. - Examinar conceptes com els de llei, poder, sobirania, justícia, Estat, democràcia, dignitat i drets humans."
+                },
+                {
+                    "code": "CA2.2",
+                    "description": "Fomentar l'exercici de la ciutadania activa i democràtica a través del coneixement del moviment associatiu i la participació respectuosa, dialogant i constructiva en activitats de grup que impliquin prendre decisions col·lectives, planificar accions coordinades i resoldre problemes aplicant procediments i principis cívics, ètics i democràtics explícits. - Indagar sobre el moviment associatiu i la participació ciutadana. - Reconèixer la importància i identificar els valors dels principals moviments socials contemporanis, i relacionar-los amb els del propi entorn. - Participar en activitats grupals que impliquin prendre decisions col·lectives. - Realitzar la discussió de dilemes ètics aplicant principis cívics, ètics i democràtics en la presa de decisions."
+                },
+                {
+                    "code": "CA2.3",
+                    "description": "Contribuir a generar un compromís actiu amb el bé comú a través de l'anàlisi i la presa raonada i dialogant de posició sobre qüestions ètiques d'actualitat com la lluita contra la desigualtat i la pobresa, el dret al treball, la salut, l'educació i la justícia, així com sobre els fins i límits ètics de la recerca científica. - Analitzar qüestions ètiques d'actualitat com la lluita contra la desigualtat i la pobresa, el dret al treball, la salut, l'educació i la justícia. - Analitzar els fins i límits ètics de la recerca científica. - Dialogar sobre qüestions ètiques d'actualitat."
+                },
+                {
+                    "code": "CA2.4",
+                    "description": "Prendre consciència de la lluita per una efectiva igualtat de gènere i del problema de la violència i explotació sobre les dones, a través de l'anàlisi de les diverses ones i corrents del feminisme i de les mesures de prevenció de la desigualtat, la violència i la discriminació per raó de gènere i orientació sexual, mostrant igualment coneixement sobre els drets LGTBIQ+ i reconeixent la necessitat de respectar-los. - Analitzar les diverses onades i corrents del feminisme. - Analitzar les mesures de prevenció de la desigualtat, la violència i la discriminació per raó de gènere i orientació sexual. - Indagar sobre la situació dels drets dels col·lectius LGTBIQ+."
+                },
+                {
+                    "code": "CA2.5",
+                    "description": "Contribuir activament al benestar social adoptant una posició pròpia, explícita, informada i èticament fonamentada, sobre el valor i pertinència dels drets humans, el respecte per la diversitat cultural, la consideració dels béns públics globals i la percepció del valor social dels impostos. - Reconèixer el valor i pertinència dels drets humans. - Indagar sobre la necessitat del respecte a la diversitat cultural. - Fonamentar èticament la consideració dels béns públics globals i la percepció del valor social dels impostos. - Reconèixer el caràcter ètic, polític i democràtic de la desobediència cívica."
+                },
+                {
+                    "code": "CA2.6",
+                    "description": "Contribuir a la consecució d'un món més just i pacífic a través de l'anàlisi i reconeixement de la història democràtica del nostre país i de les funcions de l'Estat de dret i les seves institucions, els organismes internacionals, les associacions civils, i els cossos i forces de seguretat de l'Estat en el seu esforç per aconseguir la pau i la seguretat integral, atendre les víctimes de la violència i promoure la solidaritat i la cooperació entre les persones i els pobles. - Analitzar la història democràtica del nostre país. - Reconèixer les funcions de l'Estat de dret i les seves institucions, els organismes internacionals, les associacions civils. - Reconèixer els objectius de l'assoliment de la pau, l'atenció a les víctimes de la violència i la promoció de la solidaritat i la cooperació. - Investigar sobre els conflictes armats actuals, les seves causes i conseqüències, i el paper de les institucions en la seva eventual resolució."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Entendre la natura interconnectada i interecodependent de les activitats",
+            "description": "entendre la natura interconnectada i interecodependent de les activitats humanes, mitjançant la identificació i anàlisi de problemes ecosocials de rellevància per promoure hàbits i actituds èticament compromesos amb l'assoliment de formes de vida sos…",
+            "criterios": [
+                {
+                    "code": "CA3.1",
+                    "description": "Descriure les relacions històriques d'interconnexió, interdependència i dependència ecològica entre les nostres vides i l'entorn a partir de l'anàlisi de les causes i conseqüències dels problemes ecològics i socials més greus que ens afecten. - Identificar les causes dels problemes ecològics i socials més greus que ens afecten. - Analitzar les conseqüències dels problemes ecològics i socials més greus que ens afecten. - Descriure les relacions històriques d'interconnexió, interdependència i dependència ecològica entre les nostres vides i l'entorn. - Investigar sobre els principals conflictes ecològics de les Illes Balears, les seves causes i conseqüències, i les possibles alternatives. - Promoure, en el context local i amb perspectiva global, accions per intervenir en la solució dels principals conflictes mediambientals de les Illes Balears."
+                },
+                {
+                    "code": "CA3.2",
+                    "description": "Valorar diferents plantejaments científics, polítics i ètics amb els quals afrontar l'emergència climàtica i la crisi mediambiental a través de l'exposició i el debat argumental al seu voltant. - Reconèixer els diferents plantejaments científics, polítics i ètics amb els quals afrontar l'emergència climàtica. - Cercar, proposar iniciatives i possibles solucions a la crisi mediambiental i l'emergència climàtica a les Illes Balears. - Identificar les principals entitats ecologistes de les Illes Balears i investigar sobre les seves accions."
+                },
+                {
+                    "code": "CA3.3",
+                    "description": "Promoure estils de vida èticament compromesos amb l'assoliment d'un desenvolupament sostenible, contribuint per si mateix i en el seu entorn a la prevenció dels residus, la gestió sostenible dels recursos, la mobilitat segura, sostenible i saludable, el comerç just, el consum responsable, la cura del patrimoni natural, el respecte per la diversitat cultural, i la cura i protecció dels animals. - Promoure estils de vida èticament compromesos amb l'assoliment d'un desenvolupament sostenible. - Investigar sobre la prevenció dels recursos, els residus i la gestió sostenible dels recursos. - Investigar sobre la mobilitat segura, sostenible i saludable. - Investigar sobre el comerç just i el consum responsable. - Contribuir a la cura del patrimoni natural, el respecte a la diversitat cultural i la cura i protecció dels animals."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Mostrar una adequada estima de si mateix i de l'entorn, reconeixer i valorar",
+            "description": "mostrar una adequada estima de si mateix i de l'entorn, reconeixer i valorar les emocions i els sentiments propis i aliens per assolir una actitud empàtica i acurada envers els altres i la natura. El reconeixement i l'expressió adequada de les actitu…",
+            "criterios": [
+                {
+                    "code": "CA4.1",
+                    "description": "Desenvolupar una actitud de gestió equilibrada de les emocions, d'estima i cura de si mateix i dels altres, identificant, analitzant i expressant de manera assertiva les pròpies emocions i sentiments, i reconeixent i valorant els dels altres en diferents contexts i entorn d'activitats creatives i de reflexió individual o dialogada sobre qüestions ètiques i cíviques. - Identificar, analitzar i expressar de manera assertiva les pròpies emocions i sentiments en les seves participacions o activitats. - Reconèixer i valorar els sentiments dels altres en diferents contextos. - Participar amb actitud assertiva d'activitats creatives i de reflexió individual o dialogada sobre qüestions ètiques i cíviques."
+                }
+            ]
+        }
+    ]
+}

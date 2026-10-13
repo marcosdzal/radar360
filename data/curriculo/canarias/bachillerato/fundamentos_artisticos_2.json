@@ -1,0 +1,95 @@
+{
+    "community": "canarias",
+    "stage": "bachillerato",
+    "decree": "Decreto 73\/2023, de 13 de abril",
+    "subject": "fundamentos_artisticos",
+    "subject_name": "Fundamentos Artísticos",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "(c1) La competencia específica se centra en la comprensión y análisis del",
+            "description": "(c1) La competencia específica se centra en la comprensión y análisis del concepto de arte y en los cambios que ha sufrido a lo largo del tiempo para entender que no se debe únicamente a un hecho cronológico sino que afecta a factores culturales y a …",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Explicar cómo la diversidad enriquece el arte analizando obras de distintas épocas y culturas en su contexto."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Argumentar la evolución del arte en la historia comparando significados entre culturas y analizando semejanzas y diferencias."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "(c2) A través de la competencia específica se pretende continuar ahondando en",
+            "description": "(c2) A través de la competencia específica se pretende continuar ahondando en el significado del arte y desarrollar aprendizajes relacionados con el estudio de su función, así como las diversas atribuciones que se han dado a los objetos artísticos en…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Identificar las funciones del arte a lo largo de la historia analizando su evolución sin prejuicios a partir del estudio de obras de distintos estilos y épocas."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "(c3) La competencia específica trata saberes que profundizan en el análisis de",
+            "description": "(c3) La competencia específica trata saberes que profundizan en el análisis de las producciones artísticas desde diferentes vertientes: formal, funcional y semántica. Por medio de este proceso se facilitará el reconocimiento de los elementos constitu…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Identifica los elementos de una obra y justifica su relación con la época, artista o movimiento."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "(c4) La competencia específica establece un grado superior en los procesos",
+            "description": "(c4) La competencia específica establece un grado superior en los procesos cognitivos ya que implica la explicación de obras artísticas desde un punto de vista formal, así como la identificación de su contexto social, geográfico e histórico y sus pos…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Analizar obras artísticas relacionándolas con su contexto social, geográfico e histórico y con otras épocas."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "(c5) El conocimiento de las posibilidades expresivas del arte y su poder",
+            "description": "(c5) El conocimiento de las posibilidades expresivas del arte y su poder comunicativo es el aprendizaje vertebrador de la competencia específica. El alumnado será capaz de analizar y explicar cómo se transmiten ideas, conceptos, sentimientos y emocio…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Explicar posibilidades expresivas del arte y su poder transmisor analizando interpretaciones diversas."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Analizar obras artísticas de distintos periodos conectándolas con vivencias personales y valorando su impacto en la creatividad y autoestima."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "(c6) La competencia específica a través de su criterio de evaluación, plantea",
+            "description": "(c6) La competencia específica a través de su criterio de evaluación, plantea que el alumnado debe ser capaz de analizar la forma, el significado y el contexto de obras de diferentes épocas y estilos, permitiendo incorporar ideas, emociones y conocim…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Interpreta creaciones artísticas analizando forma, significado y contexto, incorporando ideas y emociones propias."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "(c7) A través de esta competencia se plantea la elaboración de proyectos",
+            "description": "(c7) A través de esta competencia se plantea la elaboración de proyectos artísticos que partan de los conocimientos y destrezas que el alumnado va adquiriendo. La exploración y selección de estilos, técnicas y lenguajes de diversas disciplinas son la…",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Planificar proyectos artísticos seleccionando estilos, técnicas y lenguajes adecuados de diversas disciplinas y distribuyendo tareas de forma razonada."
+                }
+            ]
+        }
+    ]
+}

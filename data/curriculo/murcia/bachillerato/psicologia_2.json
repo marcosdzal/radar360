@@ -1,0 +1,104 @@
+{
+    "community": "murcia",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "psicologia",
+    "subject_name": "Psicología",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Conocer los diferentes enfoques metodológicos y modelos teóricos que han",
+            "description": "Conocer los diferentes enfoques metodológicos y modelos teóricos que han contribuido a la aparición y desarrollo de la Psicología, comprendiendo sus diferencias y las distintas concepciones antropológicas subyacentes en ellos, y valorando, tanto su e…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Entender y apreciar la especificidad e importancia de la Psicología como ciencia que trata de la conducta y los procesos mentales del individuo, valorando su carácter de saber que estimula la crítica, la autonomía, la investigación y la innovación."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Identificar la dimensión teórica y práctica de la Psicología, sus objetivos, características, ramas y técnicas de investigación, relacionándolas, como ciencia multidisciplinar, con otras ciencias cuyo fin es la comprensión de los fenómenos humanos."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Identificar y explicar los factores biológicos que influyen en la conducta",
+            "description": "Identificar y explicar los factores biológicos que influyen en la conducta humana y en las funciones psicológicas básicas, valorar el carácter interdisciplinar de la Psicología y reflexionar críticamente sobre los prejuicios y falsas creencias deriva…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Analizar y apreciar la importancia de la organización del sistema nervioso central, fundamentalmente del encéfalo, distinguiendo las áreas funcionales que determinan la conducta del individuo, así como el modo en que afectan a algunos trastornos y enfermedades mentales."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Comprender y reconocer la influencia de factores genéticos y del sistema endocrino en el funcionamiento del cerebro y en los comportamientos derivados de ellos."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Identificar y explicar los factores que influyen en los distintos procesos",
+            "description": "Identificar y explicar los factores que influyen en los distintos procesos cognitivos y aplicar los conocimientos adquiridos a la propia experiencia personal mediante el desarrollo de estrategias que permitan al alumnado una mejora de los hábitos de …",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Comprender la percepción humana como un proceso constructivo eminentemente subjetivo y limitado, en el cual tiene su origen el conocimiento de la realidad, valorando al ser humano como un procesador de información."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Conocer y analizar la estructura, tipos y funcionamiento de la memoria humana, investigando las aportaciones de algunas teorías actuales con el fin de entender los factores que influyen en este proceso cognitivo y utilizar sus aportaciones en su propio aprendizaje."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Comprender la diversidad del comportamiento humano, reflexionando críticamente",
+            "description": "Comprender la diversidad del comportamiento humano, reflexionando críticamente sobre la distinción entre conducta normal y conducta patológica, y conocerlos diferentes métodos de evaluación y diagnóstico utilizados por la Psicología en función de las…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Explicar las principales teorías sobre el aprendizaje y la memoria, identificando los factores que cada una de ellas considera determinantes en estos procesos, con el objeto de iniciarse en la comprensión de estos fenómenos. Identificar sus aplicaciones en el campo social y utilizar sus conocimientos para mejorar su propio aprendizaje. Número 296"
+                },
+                {
+                    "code": "4.2",
+                    "description": "Comprender los procesos cognitivos superiores del ser humano, como la inteligencia y el pensamiento, mediante el estudio de algunas teorías explicativas de su naturaleza y desarrollo, distinguiendo los factores que influyen en él e investigando la eficacia de las técnicas de medición utilizadas y el concepto de CI."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Reconocer la influencia de la dimensión afectiva y emocional en la",
+            "description": "Reconocer la influencia de la dimensión afectiva y emocional en la configuración de la personalidad y en las relaciones sociales, valorando la importancia de identificar y comprender tanto las emociones propias como las de los demás en el ámbito de l…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Explicar y valorar la importancia de la motivación, su clasificación y su relación con otros procesos cognitivos, desarrollando los diferentes supuestos teóricos que la explican y analizando las deficiencias y conflictos que en su desarrollo conducen a la frustración."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Comprender qué es la personalidad, analizando las influencias genéticas, ambientales y culturales sobre las que se edifica."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Reflexionar críticamente sobre la complejidad de definir qué es un trastorno mental, describiendo algunos de los factores genéticos, ambientales y evolutivos implicados en los trastornos mentales más importantes."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Reconocer la dimensión social del ser humano, considerando los factores",
+            "description": "Reconocer la dimensión social del ser humano, considerando los factores históricos y socioculturales que intervienen en su configuración psicológica, e identificarlos principios psicológicos que explican el funcionamiento de grupos y organizaciones. …",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Comprender y apreciar la dimensión social del ser humano y entender el proceso de socialización como la interiorización de las normas y valores sociales, apreciando su influencia en la personalidad y la conducta de los individuos."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Conocer y valorar los procesos psicológicos de las masas, su naturaleza, características y funcionamiento, con el fin de evitar las situaciones de vulnerabilidad en las que el individuo pueda perder el control sobre sus propios actos."
+                }
+            ]
+        }
+    ]
+}

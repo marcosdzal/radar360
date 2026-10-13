@@ -1,0 +1,135 @@
+{
+    "community": "extremadura",
+    "stage": "bachillerato",
+    "decree": "Decreto 113\/2022, de 25 de agosto",
+    "subject": "psicologia",
+    "subject_name": "Psicología",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Diseñar, elaborar y exponer trabajos básicos de investigación sobre cuestiones propias de la psicología, buscando",
+            "description": "Diseñar, elaborar y exponer trabajos básicos de investigación sobre cuestiones propias de la psicología, buscando, organizando e interpretando información pertinente, aplicando diferentes procedimientos de investigación empírica y reflexionando acerc…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Diseñar, realizar y exponer de modo personal o colaborativo pequeños trabajos de investigación acerca de cuestiones propias de la psicología, buscando, organizando e interpretando información pertinente al respecto, especialmente en entornos digitales, y aplicando los procedimientos de la metodología científica."
+                },
+                {
+                    "code": "1.2",
+                    "description": "G enerar una concepción informada, compleja, abierta y crítica de la naturaleza, historia, fundamentos y límites de la psicología como disciplina, así como de las condiciones y problemas de sus modelos teóricos y sus métodos de investigación, exponiendo, utilizando y contrastando diversas perspectivas en torno a las cuestiones objeto de análisis."
+                },
+                {
+                    "code": "1.3",
+                    "description": "I dentificar y categorizar los diversos temas y problemas a los que se enfrenta la psicología, reconociendo y distinguiendo sus áreas de investigación, sus campos de aplicación, sus enfoques de trabajo y su relación con otros saberes, y adoptando una actitud analítica, reflexiva y crítica en torno a su estatuto epistemológico, la naturaleza problemática de su objeto de estudio, y sus expresiones y aplicaciones fuera del ámbito académico."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "I dentificar los principales componentes y procesos de la vida psíquica y la",
+            "description": "I dentificar los principales componentes y procesos de la vida psíquica y la conducta humana e indagar sobre los mismos, mediante el contraste de distintas teorías al respecto y el uso de conceptos y procedimientos propios a la psicología, utilizando…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "I dentificar y describir los principales componentes naturales y culturales de la vida psíquica y la conducta humana, especialmente aquellos referidos al aprendizaje humano, manejando información rigurosa al respecto y aplicando los procedimientos propios del trabajo intelectual."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Reconocer y explicar las principales cuestiones, teorías y problemas en relación con los procesos psíquicos básicos, contrastando el planteamiento de dichas cuestiones con la propia experiencia del entorno y con la reflexión sobre los problemas psicológicos y filosóficos que dichas cuestiones plantean."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Indagar sobre los problemas, tesis, hipótesis y experimentos psicológicos más importantes en torno a la comprensión de los procesos relacionados con el pensamiento, el razonamiento, la inteligencia, la creatividad y la consciencia humanas, vinculando dicha exposición a la experiencia personal de los procesos investigados."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Reconocer y analizar la propia conducta y experiencia mental desde una",
+            "description": "Reconocer y analizar la propia conducta y experiencia mental desde una perspectiva psicológica, tomando conciencia de los elementos que contribuyen a la construcción de la propia personalidad e identificando aquellas dimensiones de uno mismo que conv…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Relacionar e integrar el saber relativo a los elementos, procesos y funciones mentales y conductuales, así como a la estructura y evolución de la personalidad, con la propia experiencia y desarrollo personal, desarrollando un autoconcepto realista y objetivo de sí mismo y de aquellos aspectos que convendría considerar para un adecuado crecimiento personal, social, académico y profesional."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Expresarse con asertividad y demostrar una actitud cuidadosa tanto con respecto a sí mismo como con respecto a los demás, desarrollando la capacidad de empatizar con otros y de afrontar de modo resiliente y constructivo retos y desafíos que impliquen un análisis de elementos y procesos objeto de la psicología."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "T omar conciencia del lugar e importancia de los procesos emocionales y",
+            "description": "T omar conciencia del lugar e importancia de los procesos emocionales y relativos a la motivación en la explicación y determinación de la conducta y la vida mental, así como aprender a gestionarlos, promoviendo la autonomía y la autoestima, la capaci…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Elaborar y exponer trabajos básicos de investigación acerca de los procesos y estados emocionales, así como sobre aquellos otros relativos a la motivación, justificando su lugar e importancia para la explicación y la determinación de la vida mental y la conducta humana."
+                },
+                {
+                    "code": "4.2",
+                    "description": "I dentificar diferentes estados emocionales, tanto en sí mismos como en otras personas, demostrando capacidad para expresar dichos estados con asertividad, así como para gestionarlos, especialmente en relación con situaciones traumáticas y de incertidumbre, estrés, ansiedad, frustración o conflicto."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Analizar y describir los procesos y aspectos psíquicos y conductuales relacionados con la motivación, la volición y el comportamiento moral humano, aplicando las conclusiones de dicho análisis a la interpretación de la conducta propia y ajena, a la toma autónoma de decisiones y a la gestión del propio aprendizaje, especialmente en situaciones de incertidumbre y estrés."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Adquirir y aplicar a la experiencia y a las interacciones con el entorno una",
+            "description": "Adquirir y aplicar a la experiencia y a las interacciones con el entorno una visión compleja, integral, abierta y fundamentada de la naturaleza y la psicología humana, a partir del trabajo interdisciplinar y de la reflexión antropológica, ética y fil…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Manejar y contrastar información de distintas ciencias o materias sobre cuestiones esenciales y problemáticas de carácter antropológico, ético y filosófico acerca de la conducta, la mente y la naturaleza humana, adoptando una posición propia, reflexiva y dialogante en la realización de trabajos, debates u otras actividades al respecto."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Articular una concepción compleja, integral, abierta y fundamentada de la realidad humana y sus distintas dimensiones y aspectos, evitando visiones dogmáticas y estereotipadas, y que sirva de marco de reflexión a la investigación psicológica, mediante el desarrollo de actividades interdisciplinares que tengan a la naturaleza humana como motivo principal."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Adoptar una actitud empática, dialogante y desprejuiciada con respecto a los",
+            "description": "Adoptar una actitud empática, dialogante y desprejuiciada con respecto a los demás, desarrollando habilidades sociales y comunicativas que promuevan relaciones respetuosas y cívicas, a partir de la observación, el análisis psicológico y la reflexión …",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Aplicar los conceptos y teorías de la psicología social a la observación e interpretación de los procesos, pautas y mecanismos sociales presentes en el entorno, reconociendo y describiendo la relación entre las interacciones sociales y el desarrollo de la conducta y el psiquismo de las personas."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Detectar y poner en práctica pautas de interacción social y comunicativa conscientes, empáticas, dialogantes y respetuosas, a través del propio ejercicio de investigación grupal en torno a los temas fundamentales de la psicología social."
+                },
+                {
+                    "code": "6.3",
+                    "description": "I dentificar los distintos mecanismos y procesos psicológicos, tales como sesgos, pensamientos irracionales, estereotipos y otros, que contribuyen a la manifestación de conductas discriminatorias, xenófobas, racistas o violentas, describiendo y aplicando técnicas para el control de la agresividad y la resolución pacífica de los conflictos."
+                },
+                {
+                    "code": "6.4",
+                    "description": "Indagar sobre los aspectos psicosociales de la conducta amorosa y afectivo-sexual de los seres humanos, identificando elementos relacionados con la identidad y diversidad de las personas, los conflictos afectivos y la violencia de género, con objeto de evitar el sexismo, la homofobia y la violencia contra las mujeres."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "P romover la salud mental propia y ajena a partir del análisis y la reflexión",
+            "description": "P romover la salud mental propia y ajena a partir del análisis y la reflexión acerca del concepto de salud y la comprensión de los trastornos psicológicos comunes a la adolescencia, identificando los factores más claramente relacionados con el logro …",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Investigar y debatir sobre la cuestión del modelo o concepto de salud y bienestar psíquico, así como sobre la categorización y el diagnóstico de los trastornos psicológicos, contrastando distintas concepciones al respecto y comparando igualmente las distintas técnicas y enfoques terapéuticos que emplea la psicología clínica."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Buscar y compendiar información rigurosa y segura sobre problemas relacionados con la salud mental en la adolescencia, identificando los factores que pueden contribuir a prevenir los trastornos psicológicos más comunes entre los adolescentes y elaborando una reflexión personal y cuidadosa acerca de la naturaleza e incidencia de los mismos."
+                }
+            ]
+        }
+    ]
+}

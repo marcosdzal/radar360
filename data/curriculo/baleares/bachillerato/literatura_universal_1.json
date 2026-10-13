@@ -1,0 +1,81 @@
+{
+    "community": "baleares",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "literatura_universal",
+    "subject_name": "Literatura Universal",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Llegir, interpretar i valorar classics de la literatura universal atenent tant",
+            "description": "llegir, interpretar i valorar classics de la literatura universal atenent tant les relacions internes dels elements constitutius del gènere i les seves funcions en les obres com a les relacions externes de les obres amb el seu context de producció i …",
+            "criterios": [
+                {
+                    "code": "CA1.1",
+                    "description": "Explicar i argumentar la interpretació de les obres llegides a partir de l'anàlisi de les relacions internes dels seus elements constitutius amb el sentit de l'obra i de les relacions externes del text amb el seu context social i històric i amb la tradició literària, utilitzant un metallenguatge específic i incorporant judicis de valor vinculats a l'apreciació estètica de les obres. Comprendre i interpretar textos clàssics de la literatura universal a partir de l'anàlisi dels elements propis del gènere literari, del context de producció i de la tradició literària. Relacionar els textos llegits amb el seu context de producció i amb la tradició literària i cultural."
+                },
+                {
+                    "code": "CA1.2",
+                    "description": "Crear textos personals o col·lectius amb intenció literària i consciència d'estil, en diferents suports i amb ajuda d'altres llenguatges artístics i audiovisuals, a partir de la lectura d'obres o fragments significatius en els quals s'emprin les convencions formals dels diversos gèneres i estils literaris. Crear textos personals o col·lectius amb intenció literària, en diferents suports i amb l'ajuda d'altres llenguatges artístics i audiovisuals, a partir de la lectura de textos significatius de la literatura universal."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Llegir de manera autonoma classics de la literatura universal com a font de",
+            "description": "llegir de manera autonoma classics de la literatura universal com a font de plaer i coneixement i compartir experiències de lectura, per construir la pròpia identitat lectora i per gaudir de la dimensió social de la lectura. Desenvolupar aquesta comp…",
+            "criterios": [
+                {
+                    "code": "CA2.1",
+                    "description": "Elaborar una interpretació personal a partir de la lectura autònoma d'obres rellevants de la literatura universal, atenent aspectes temàtics, de gènere i subgènere, elements de l'estructura i l'estil i valors ètics i estètics de les obres i establint vincles argumentats amb altres obres i altres experiències artístiques i culturals. Analitzar els temes, elements propis del gènere i subgènere literari, estructura i estil dels textos seleccionats de manera autònoma."
+                },
+                {
+                    "code": "CA2.2",
+                    "description": "Accedir de diverses formes a la cultura literària en el marc d'un itinerari lector personal que enriqueixi, de manera conscient i sistemàtica, la pròpia identitat lectora i compartir les pròpies experiències de lectura amb l'ajuda d'un metallenguatge específic. Compartir les experiències personals de lectura."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Establir vincles entre obres de diferents epoques, generes i llenguatges",
+            "description": "establir vincles entre obres de diferents epoques, generes i llenguatges artistics, reconeixent semblances i diferències en funció dels seus respectius contextos de producció i de la interrelació entre literatura i societat, per constatar l'existènci…",
+            "criterios": [
+                {
+                    "code": "CA3.1",
+                    "description": "Comparar textos o fragments literaris entre si i amb altres manifestacions artístiques argumentant oralment o per escrit els elements de semblança i contrast, tant pel que fa a aspectes temàtics i de contingut, com a formals i expressius, atenent també els seus valors ètics i estètics. Relacionar textos de diferents èpoques, gèneres i llenguatges artístics per veure semblances i diferències. Identificar temes universals i aspectes formals recurrents de textos de diferents èpoques, gèneres i llenguatges artístics."
+                },
+                {
+                    "code": "CA3.2",
+                    "description": "Desenvolupar projectes d'investigació que es concretin en una exposició oral, un assaig o una presentació multimodal i que mostrin una implicació i resposta personal, al voltant d'una qüestió que estableixi vincles argumentats entre els clàssics de la literatura universal objecte de lectura guiada i altres textos i manifestacions artístiques d'ahir i d'avui, en funció de temes, tòpics, estructures, llenguatge, recursos expressius i valors ètics i estètics. Comparar textos llegits de manera guiada amb altres textos o manifestacions artístiques a partir de l'anàlisi dels temes, tòpics, estructures, llenguatges, recursos expressius."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Consolidar un marc de referencies compartides a partir del coneixement dels",
+            "description": "consolidar un marc de referencies compartides a partir del coneixement dels trets dels principals moviments estètics i algunes de les obres literàries més rellevants del patrimoni universal, per conformar un mapa cultural en el qual inscriure les exp…",
+            "criterios": [
+                {
+                    "code": "CA4.1",
+                    "description": "Elaborar de manera individual o col·lectiva una exposició multimodal que situï els textos llegits en el seu horitzó històric i cultural i que ofereixi una panoràmica de conjunt sobre moviments artístics i obres rellevants de la literatura universal. Conèixer i ubicar en el moment històric en què es desenvolupen els principals moviments estètics i les obres més rellevants de la literatura universal."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Participar en la construccio d'un canon literari universal que integri la",
+            "description": "participar en la construccio d'un canon literari universal que integri la perspectiva d'experiència de les dones a través de la lectura d'obres d'escriptores i que superi els marcs de la cultura occidental, per desenvolupar el pensament crític respec…",
+            "criterios": [
+                {
+                    "code": "CA5.1",
+                    "description": "Realitzar un projecte d'investigació sobre autores de rellevància, obres literàries de contextos no occidentals o sobre qüestions temàtiques o formals que aportin una mirada diversa i crítica sobre la construcció d'imaginaris que proposa la tradició literària. Llegir i comentar obres d'autores rellevants de la literatura universal; així com obres que no formin part de la cultura occidental."
+                },
+                {
+                    "code": "CA5.2",
+                    "description": "Elaborar comentaris crítics de textos, orals o escrits i participar en debats o taules rodones sobre les lectures on s'incorpori la perspectiva de gènere i es qüestioni la mirada etnocèntrica pròpia del cànon occidental, així com a qualsevol altre discurs predominant en la nostra societat que suposi opressió sobre qualsevol minoria. Comentar textos, orals i escrits, en els quals s'incorpori la perspectiva de gènere o cap a una altra manifestació que suposi una opressió cap a qualsevol minoria."
+                }
+            ]
+        }
+    ]
+}

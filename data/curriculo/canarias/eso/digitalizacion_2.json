@@ -1,0 +1,112 @@
+{
+    "community": "canarias",
+    "stage": "eso",
+    "decree": "Decreto 30\/2023, de 16 de marzo",
+    "subject": "digitalizacion",
+    "subject_name": "Digitalización",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "(c1) En la competencia específica 1, se hace referencia a la gestión y",
+            "description": "(c1) En la competencia específica 1, se hace referencia a la gestión y mantenimiento de los dispositivos digitales habituales de uso del alumnado, para lo que debe ser capaz de identificar y resolver problemas sencillos y aplicar conocimientos relaci…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Configurar y conectar dispositivos a redes locales cableadas e inalámbricas, asegurando su correcto funcionamiento y comunicación mediante el conocimiento de los protocolos básicos."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Instalar un sistema operativo, preferiblemente en entornos virtuales, y personalizar su interfaz, usuarios y actualizaciones según requerimientos específicos de uso."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Solucionar fallos técnicos básicos en equipos informáticos mediante el análisis de sus componentes, aplicando un método lógico de diagnóstico y mejora del proceso."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "(c2) En una sociedad cada vez más digitalizada, se hace necesaria la",
+            "description": "(c2) En una sociedad cada vez más digitalizada, se hace necesaria la adquisición de estrategias para gestionar el entorno de aprendizaje.",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Organizar y personalizar de forma autónoma las herramientas y recursos digitales propios para facilitar el estudio y la gestión del aprendizaje personal."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "(c3) Para mantener una adecuada interacción en la red, se hace necesaria la",
+            "description": "(c3) Para mantener una adecuada interacción en la red, se hace necesaria la adquisición de hábitos adecuados al uso de la misma.",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Ajustar la privacidad en redes y entornos de trabajo para proteger los datos personales y gestionar de forma consciente la huella digital generada."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Mantener la seguridad de los dispositivos mediante la gestión de contraseñas robustas y la actualización periódica del software del sistema y herramientas de protección."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "(c4) La competencia específica 4 hace referencia a las acciones encaminadas al",
+            "description": "(c4) La competencia específica 4 hace referencia a las acciones encaminadas al desarrollo de un ejercicio adecuado de la ciudadanía digital de forma responsable en todas las actividades en línea, identificando y analizando las repercusiones de las ac…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Utilizar herramientas digitales de forma ética y segura, respetando la propiedad intelectual, las licencias de autor y las normas de cortesía en entornos colaborativos."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Identificar beneficios de la administración y comercio electrónicos, reflexionando sobre las barreras de acceso y la brecha digital que afectan a diversos colectivos."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Analizar críticamente mensajes en medios digitales, identificando sesgos, intencionalidad y veracidad para valorar la libertad de expresión y la responsabilidad en la red."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Aplicar medidas de seguridad",
+            "description": "Aplicar medidas de seguridad, para proteger los dispositivos, los datos personales, la privacidad y los contenidos asociados al uso de las tecnologías digitales, identificando los riesgos y beneficios, personales, sociales y medioambientales y hacien…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Conocer los beneficios, y los riesgos y amenazas de los entornos digitales, adoptando medidas de actuación y prevención para un uso seguro de dichos entornos, identificando y actuando de forma crítica ante situaciones de ciberacoso o situaciones discriminatorias de cualquier índole o suplantación de identidad, entre otros, y aplicando estrategias para proteger los datos personales y la privacidad."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Reflexionar sobre la necesidad de desarrollar prácticas saludables tanto a nivel físico, mental y social en el uso de las tecnologías digitales y hacer propuestas para llevarlas a cabo."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Analizar y valorar los efectos de las tecnologías digitales en el bienestar personal y la inclusión social, así como sus efectos sobre el medioambiente, aplicando criterios éticos y sostenibles en su uso."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Utilizar de manera innovadora las tecnologías digitales, evaluando,",
+            "description": "Utilizar de manera innovadora las tecnologías digitales, evaluando, seleccionando, configurando y personalizando las distintas herramientas para comprender, resolver o derivar los problemas cotidianos, así como los relativos al funcionamiento de disp…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Utilizar las tecnologías digitales para satisfacer necesidades, y comprender y resolver situaciones problemáticas en entornos digitales, o derivarlas, tanto de forma individual como colectiva."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Configurar de forma segura y personalizada los entornos digitales según las necesidades detectadas."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Identificar las necesidades de actualización de la propia competencia digital y de personas de su entorno y contribuir a su mejora."
+                }
+            ]
+        }
+    ]
+}

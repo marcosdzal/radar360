@@ -1,0 +1,109 @@
+{
+    "community": "extremadura",
+    "stage": "bachillerato",
+    "decree": "Decreto 113\/2022, de 25 de agosto",
+    "subject": "literatura_dramatica",
+    "subject_name": "Literatura Dramática",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "L eer obras de la literatura dramática o ver su puesta en escena, identificando",
+            "description": "L eer obras de la literatura dramática o ver su puesta en escena, identificando tanto las relaciones internas entre sus elementos textuales constitutivos de género como las relaciones externas con su contexto de producción e inscripción dentro de la …",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Explica y argumenta la interpretación de obras teatrales analizando sus elementos, contexto y tradición, con metalenguaje y juicios estéticos."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Interpretar en voz alta y en grupo fragmentos teatrales, poniendo énfasis en la configuración de escenas, emociones y elementos prosódicos."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Emplear el metalenguaje específico del análisis hermenéutico de las obras dramáticas."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Demostrar, dentro y fuera del aula, la adquisición de las actitudes necesarias para el disfrute de la literatura teatral y de las habilidades vinculadas a la expresión de la propia expresión artística."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "L eer o ver en escena de manera autónoma obras dramáticas relevantes como",
+            "description": "L eer o ver en escena de manera autónoma obras dramáticas relevantes como fuente de placer y conocimiento; seleccionar aquellas que se ajusten a los gustos, intereses y necesidades personales; diversificar las formas de acceso al hecho teatral, y com…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Interpretar obras dramáticas atendiendo a aspectos temáticos, de género, estructura y estilo, y conectándolas con otras experiencias artísticas."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Seleccionar de forma autónoma diversas formas de acceso a la literatura dramática para enriquecer la identidad lectora y teatral."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Participar en conversaciones literarias compartiendo experiencias de lectura y asistencia teatral con metalenguaje."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Participar en conversaciones literarias compartiendo las propias experiencias de lectura, de visionado o de asistencia teatral, y disfrutando de la dimensión social del teatro."
+                },
+                {
+                    "code": "2.5",
+                    "description": "Poner en práctica los recursos expresivos y argumentativos para formular juicios de valor sobre las diferentes experiencias de recepción ante el hecho teatral, utilizando el metalenguaje específico de la materia."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Establecer vínculos entre obras dramáticas de diferentes épocas, contextos y",
+            "description": "Establecer vínculos entre obras dramáticas de diferentes épocas, contextos y lenguajes artísticos, constatando la intertextualidad de los universales temáticos y formales, y la recurrencia en la tipología de personajes a lo largo de la historia, reco…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Comparar textos teatrales entre sí o con adaptaciones, argumentando oralmente semejanzas y diferencias temáticas, formales y valores éticos\/estéticos."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Elaborar un proyecto de investigación que vincule obras dramáticas con sus puestas en escena u otras manifestaciones artísticas, mostrando respuesta personal."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Crear una exposición multimodal que contextualice las obras y ofrezca una visión global de la literatura dramática universal."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Emplear las capacidades expresivas y creativas necesarias para la recreación o",
+            "description": "Emplear las capacidades expresivas y creativas necesarias para la recreación o creación de textos dramáticos, poniendo en práctica las convenciones y técnicas propias del género sobre la composición, el diseño y la configuración de acciones, conflict…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Crear textos teatrales originales aplicando las convenciones del género (diálogo, acotaciones) y elementos escénicos."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Emplear distintos soportes, formatos o lenguajes artísticos y audiovisuales para la expresión de la propia creatividad artística en torno a la escritura de textos dramáticos personales o colectivos."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "P articipar, dentro y fuera del contexto académico, en la construcción de un",
+            "description": "P articipar, dentro y fuera del contexto académico, en la construcción de un canon literario dramático universal que integre la perspectiva intercultural y la perspectiva de género a través de la lectura, el visionado y la asistencia a obras teatrale…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Investigar sobre autoras, personajes femeninos u obras no occidentales para desarrollar una mirada crítica y diversa del canon dramático."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Elaborar comentarios críticos o participar en debates sobre obras teatrales incorporando perspectiva de género y cuestionando el canon occidental."
+                }
+            ]
+        }
+    ]
+}

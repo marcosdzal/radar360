@@ -1,0 +1,74 @@
+{
+    "community": "canarias",
+    "stage": "eso",
+    "decree": "Decreto 30\/2023, de 16 de marzo",
+    "subject": "expresion_artistica",
+    "subject_name": "Expresión Artística",
+    "grade": 4,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "(c1) La competencia específica se centra en el desarrollo de aprendizajes",
+            "description": "(c1) La competencia específica se centra en el desarrollo de aprendizajes relativos a un análisis crítico, personal, estético e informado de diferentes producciones que le ayuden a descubrir la multiplicidad, la riqueza y la complejidad de diferentes…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar obras artísticas de diversas épocas y culturas, contextualizándolas y valorando el proceso y resultado."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Valorar críticamente hábitos, gustos y referentes artísticos de distintas épocas y culturas, relacionándolos con el presente."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "(c2) La competencia específica se orienta al desarrollo de aprendizajes",
+            "description": "(c2) La competencia específica se orienta al desarrollo de aprendizajes relativos a la actualidad y se caracteriza por la multiplicidad de técnicas gráfico-plásticas, desde las más tradicionales, como la pintura al óleo, hasta las más actuales, como …",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Participar activa y creativamente en la exploración de técnicas gráfico-plásticas variadas, usando diferentes herramientas, soportes y lenguajes."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Crear producciones gráfico-plásticas eligiendo intencionadamente las técnicas y materiales del repertorio personal."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "(c3) La competencia específica se encamina al desarrollo de aprendizajes",
+            "description": "(c3) La competencia específica se encamina al desarrollo de aprendizajes relativos al presente, de mensajes audiovisuales transmitidos en toda clase de formatos y medios. La adquisición de esta competencia, a través de la exploración libre o guiada, …",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Participar creativamente en la exploración de medios audiovisuales, identificando lenguajes y herramientas."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Producir piezas audiovisuales, individuales o en grupo, usando tecnologías digitales con intención expresiva y creatividad, ajustadas a un proyecto previo."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "(c4) La competencia específica se enfoca al desarrollo de aprendizajes",
+            "description": "(c4) La competencia específica se enfoca al desarrollo de aprendizajes relativos a una obra artística y alcanza todo su sentido cuando llega al público y produce un efecto sobre él. En este sentido, el alumnado ha de comprender la existencia de públi…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Crear un producto artístico colaborativo planificando el proceso y seleccionando técnicas según intención y público."
+                },
+                {
+                    "code": "4.2",
+                    "description": "El alumnado presenta el resultado final de una creación artística y reflexiona críticamente sobre el proceso, dificultades, progresos y logros."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Argumentar sobre las oportunidades personales, sociales, académicas o profesionales del ámbito artístico, valorando su aportación y expresando una opinión razonada y respetuosa."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "community": "canarias",
+    "stage": "eso",
+    "decree": "Decreto 30\/2023, de 16 de marzo",
+    "subject": "filosofia",
+    "subject_name": "Filosofía",
+    "grade": 4,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "(c1) La filosofía sirve como herramienta metodológica y conceptual para",
+            "description": "(c1) La filosofía sirve como herramienta metodológica y conceptual para orientar y materializar en el lenguaje oral y escrito las preocupaciones propias del alumnado y sus interrogantes vitales.",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Construir un adecuado concepto de la filosofía y de su dimensión crítica, reconociendo las diversas reflexiones y soluciones dadas en el pensamiento filosófico sobre la realidad, la ciencia, el ser humano y la sociedad, utilizando distintas fuentes de información (internet, textos filosóficos, textos literarios, etc.), desarrollando así, una actitud indagadora y crítica en armonía con las demás personas."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "(c2) Si el asombro es la disposición primera para el conocimiento, el diálogo",
+            "description": "(c2) Si el asombro es la disposición primera para el conocimiento, el diálogo es el método primigenio de la actividad filosófica, este exige un encuentro con el otro, una actitud de apertura, de hospitalidad y respeto por su singularidad.",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Diferenciar en debates, tertulias u otros foros de comunicación, algunas de las aportaciones de la filosofía a la definición del ser humano y su relación con la naturaleza y la cultura. Además, explicar, a través de lecturas comprensivas de textos sencillos y empleando el trabajo cooperativo, algunas teorías psicológicas y filosóficas sobre la personalidad, las emociones y la identidad."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Reconocer, a través de lecturas y comentarios de diferentes tipos de textos, la dimensión social cultural, creativa e innovadora del ser humano como transformador del medio y el papel de la cultura como instrumento de adaptación, así como argumentar las propias opiniones sobre las teorías relativas al origen de la sociedad, la dicotomía individuo-sociedad, el proceso de socialización y el análisis crítico de los conceptos de civilización, etnocentrismo, relativismo cultural y la influencia de la tecnología digital en la vida cotidiana."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "(c3) La filosofía política como rama práctica de la materia requiere del",
+            "description": "(c3) La filosofía política como rama práctica de la materia requiere del aprendizaje de una serie de ideas y conceptos, del ejercicio reflexivo y creativo que tome forma en el desarrollo de proyectos y trabajos personales o cooperativos. El objetivo …",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Valorar la justicia y la libertad, a partir de la investigación y el análisis crítico de distintas formas de gobierno, la función de las utopías, justificando sus propias ideas y proponiendo posibles alternativas."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Utilizar el arte como expresión de las ideas filosóficas, desarrollando proyectos que incluyan recursos tanto analógicos como digitales integrando un pensamiento creativo y racional con un fin crítico y transformador de la realidad, fomentando la reflexión estética en torno al ideal de belleza."
+                }
+            ]
+        }
+    ]
+}

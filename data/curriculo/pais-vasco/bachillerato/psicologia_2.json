@@ -1,0 +1,98 @@
+{
+    "community": "pais-vasco",
+    "stage": "bachillerato",
+    "decree": "Decreto 82\/2023, de 13 de junio",
+    "subject": "psicologia",
+    "subject_name": "Psicología",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Interpretar y transmitir con corrección información sobre los fundamentos de la",
+            "description": "Interpretar y transmitir con corrección información sobre los fundamentos de la psicología, haciendo un uso seguro de fuentes fiables y realizando un análisis riguroso de los contenidos, para adquirir un conocimiento básico de los contenidos de psico…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Demostrar el conocimiento práctico de las informaciones y procedimientos básicos de la psicología, utilizando fuentes fiables de información, interpretando y transmitiendo la información recibida con corrección, tanto digital como por medios analógicos. 1.2Desarrollar una actitud investigadora, autónoma y activa sobre los problemas de la psicología, diseñando, desarrollando y exponiendo ante los demás productos de los mismos, tales como trabajos de investigación, reflexiones, comentarios de texto y otros."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Comprender en su contexto histórico las principales ideas y teorías de las",
+            "description": "Comprender en su contexto histórico las principales ideas y teorías de las principales escuelas de psicología, a través del análisis de las mismas y del análisis de las cuestiones y preguntas a las que responden, para comprender las diferencias entre…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Tomar conciencia de las diferencias entre los puntos de vista de las diferentes escuelas de psicología y de la influencia que cada una de ellas ha tenido en textos o documentos de cualquier ámbito cultural, así como en experiencias, acciones o hechos más comunes, identificando y analizando las principales ideas y teorías psicológicas. 2.2Obtener y demostrar un conocimiento básico de las ideas y teorías de las diferentes escuelas de psicología, empleán dolas con corrección en el contexto de las actividades individuales y colectivas y analizándolas críticamente."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Comprender cuáles son las principales controversias que se han dado y se dan en",
+            "description": "Comprender cuáles son las principales controversias que se han dado y se dan en el seno de la psicología, especialmente las relacionadas con su naturaleza y metodología científica, así como con las definiciones de los conceptos, a través de una búsqu…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Tomar conciencia de los principales debates que se dan en el ámbito de la psicología, realizando un análisis crítico de las informaciones que muestran diferentes puntos de vista sobre estos debates. 3.2Construir una posición propia en torno a los principales debates que se dan en el seno de la psicología, en actividades reflexivas tanto individuales como colectivas, exponiendo estas opiniones con argumentos."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Investigar la presencia de la psicología en el ámbito profesional, analizando",
+            "description": "Investigar la presencia de la psicología en el ámbito profesional, analizando la estructura existente en los diferentes ámbitos y las principales formas y líneas de trabajo utilizadas, a partir de ejemplos reales, analizando estas áreas de trabajo y …",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Conocer las diferentes formas de implementación de la psicología en la realidad, desarrollando actividades que demues tren la comprensión de las salidas académicas y actividades profesionales relacionadas."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Tomar conciencia de la importancia del factor psicológico que subyace en los",
+            "description": "Tomar conciencia de la importancia del factor psicológico que subyace en los puntos de vista y actitudes propios y ajenos, a través del análisis de los factores y casos que nos pueden ayudar a comprender su dimensión, para comprender mejor el funcion…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Conocer la presencia del factor psicológico en las relaciones consigo mismo y con los demás, recogiendo información sobre estos factores, identificándolos en nuestra actitud y en la de los demás. 5.2Gestionar las relaciones consigo mismo y con los demás de una forma más saludable emocionalmente, identificando la presencia de factores psicológicos, y aplicando el conocimiento sobre ellos en estas relaciones."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Adquirir estrategias para analizar la propia realidad desde un punto de vista",
+            "description": "Adquirir estrategias para analizar la propia realidad desde un punto de vista psicológico, en lo intelectual, afectivo y actitudinal, mediante actividades que permitan relacionar los conocimientos que se presentan en la materia con la propia realidad…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Utilizar los conocimientos que se dan en el área para desarrollar un conocimiento más consciente y objetivo de uno mismo, analizando los aspectos intelectuales, afectivos y actitudinales, e identificando y reflexionando sobre los factores psicológicos que encontramos en ella."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Conocer los conocimientos, técnicas y estrategias que pueden resultar",
+            "description": "Conocer los conocimientos, técnicas y estrategias que pueden resultar beneficiosos en el proceso educativo del alumnado, a partir del análisis de los procesos cognitivos básicos y del análisis de las diferentes teorías sobre el mismo, para aplicar es…",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Aplicar estrategias y técnicas psicológicas que puedan suponer una mejora en el propio proceso educativo, partiendo de su conocimiento, realizando un análisis de los propios hábitos y diseñando y desarrollando un plan de mejora."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Realizar diálogos argumentativos sobre temas investigados por la psicología de",
+            "description": "Realizar diálogos argumentativos sobre temas investigados por la psicología de forma rigurosa, crítica, tolerante y empática, interiorizando las pautas éticas y formales que requiere el diálogo, realizando la gestión emocional que nos exige y utiliza…",
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Generar discursos argumentados, tanto orales como escritos, sobre temas y debates relacionados con la psicología, tanto en conversaciones cooperativas como en reflexiones escritas sobre estos temas y debates, defendiendo las opiniones con argumentos adecuados. 8.2Comprender la importancia de la cooperación, el compromiso con la verdad, el respeto a la diversidad y el rechazo a toda actitud discriminatoria o arbitraria, propia de los diálogos cooperativos argumentativos, aplicando todos estos principios en la práctica argumentativa y en el diálogo con los demás."
+                }
+            ]
+        }
+    ]
+}

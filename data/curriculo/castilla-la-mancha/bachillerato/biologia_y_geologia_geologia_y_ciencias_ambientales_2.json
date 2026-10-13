@@ -1,0 +1,104 @@
+{
+    "community": "castilla-la-mancha",
+    "stage": "bachillerato",
+    "decree": "Decreto 83\/2022, de 12 de julio",
+    "subject": "biologia_y_geologia_geologia_y_ciencias_ambientales",
+    "subject_name": "Geología y Ciencias Ambientales",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Interpretar y transmitir con precisión información y datos extraídos de",
+            "description": "Interpretar y transmitir con precisión información y datos extraídos de trabajos científicos para analizar conceptos, procesos, métodos, experimentos o resultados relacionados con las ciencias geológicas y ambientales.",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Interpretar y analizar críticamente información geológica y ambiental en diversos formatos, como mapas y cortes, para explicar procesos y conceptos de la materia."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Comunicar información científica de forma rigurosa mediante terminología técnica y representaciones gráficas como mapas o cortes, respondiendo con precisión a preguntas sobre el contenido expuesto."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Participar en debates científicos analizando críticamente diversas posturas sobre geología y medio ambiente, manteniendo una actitud respetuosa y fundamentando los argumentos con rigor."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Localizar y utilizar fuentes fiables, identificando, seleccionando y",
+            "description": "Localizar y utilizar fuentes fiables, identificando, seleccionando y organizando información, evaluándola críticamente y contrastando su veracidad, para resolver preguntas planteadas de forma autónoma y crear contenidos relacionados con las ciencias …",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Investigar y resolver problemas geológicos o ambientales mediante la búsqueda, selección y análisis crítico de información en fuentes fiables, citándolas correctamente en sus producciones."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Justificar la veracidad de información científica usando fuentes fiables y actitud crítica frente a pseudociencias."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Analizar críticamente resultados de trabajos de investigación o divulgación",
+            "description": "Analizar críticamente resultados de trabajos de investigación o divulgación relacionados con las ciencias geológicas y ambientales comprobando si siguen correctamente los pasos de los métodos científicos para evaluar la fiabilidad de sus conclusiones…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Determinar si las conclusiones de un estudio geológico o ambiental son válidas y fiables analizando la coherencia de sus datos y resultados."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Explicar razonadamente la importancia social de la geología, visibilizando el papel de la mujer y la influencia del contexto socioeconómico en la evolución de la investigación científica."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Plantear y resolver problemas, buscando y utilizando las estrategias adecuadas,",
+            "description": "Plantear y resolver problemas, buscando y utilizando las estrategias adecuadas, analizando críticamente las soluciones y reformulando el procedimiento si fuera necesario, para explicar fenómenos relacionados con las ciencias geológicas y ambientales.",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Resolver problemas prácticos de geología y medio ambiente, aplicando estrategias adecuadas para explicar fenómenos naturales y justificar razonadamente las soluciones obtenidas."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Evaluar la validez de los resultados obtenidos en problemas geológicos o ambientales, ajustando el método o las conclusiones ante incoherencias o nueva información."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Analizar los impactos de determinadas acciones sobre el medio ambiente o la",
+            "description": "Analizar los impactos de determinadas acciones sobre el medio ambiente o la disponibilidad de recursos a través de observaciones de campo y de información en diferentes formatos y basándose en fundamentos científicos para promover y adoptar estilos d…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Justificar la adopción de hábitos sostenibles mediante el análisis científico de la procedencia, usos y límites de renovación de los recursos geológicos y biológicos."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Relacionar el impacto de la explotación de recursos con el deterioro ambiental, argumentando sobre la importancia del consumo y aprovechamiento responsables."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Identificar y analizar los elementos geológicos del relieve a partir de",
+            "description": "Identificar y analizar los elementos geológicos del relieve a partir de observaciones de campo o de información en diferentes formatos para explicar fenómenos, reconstruir la historia geológica, hacer predicciones e identificar posibles riesgos geoló…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Interpretar la evolución temporal de un terreno analizando sus materiales, estructuras y procesos geológicos mediante el uso de mapas y cortes."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Evaluar riesgos geológicos en zonas específicas analizando factores naturales y humanos para proponer medidas de prevención y mitigación de desastres."
+                }
+            ]
+        }
+    ]
+}

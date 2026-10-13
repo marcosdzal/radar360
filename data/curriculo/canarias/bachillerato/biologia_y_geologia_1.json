@@ -1,0 +1,116 @@
+{
+    "community": "canarias",
+    "stage": "bachillerato",
+    "decree": "Decreto 73\/2023, de 13 de abril",
+    "subject": "biologia_y_geologia",
+    "subject_name": "Biología, Geología y Ciencias Ambientales",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Las competencias específicas 1 y 2 hacen referencia al desarrollo de",
+            "description": "Las competencias específicas 1 y 2 hacen referencia al desarrollo de habilidades argumentativas y de las destrezas necesarias para interpretar información de carácter científico, extraer las ideas más relevantes y comunicarlas de manera clara y con r…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Interpretar y explicar de forma crítica datos científicos presentados en diversos formatos, relacionándolos con procesos biológicos, geológicos o ambientales estudiados en clase."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Comunicar conocimientos y resultados científicos con rigor, utilizando terminología técnica, diversos formatos de representación y herramientas digitales para transmitir información de forma clara."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Defender posturas razonadas sobre temas científicos mediante argumentos sólidos, manteniendo una actitud dialogante, respetuosa y abierta a las evidencias u opiniones de otros compañeros."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Localizar y utilizar fuentes fiables, identificando, seleccionando y",
+            "description": "Localizar y utilizar fuentes fiables, identificando, seleccionando y organizando información, evaluándola críticamente y contrastando su veracidad, para resolver preguntas planteadas relacionadas con las ciencias biológicas, geológicas y medioambient…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Investigar y resolver dudas científicas mediante la búsqueda autónoma en fuentes fiables, organizando la información obtenida y citando correctamente las referencias utilizadas."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Contrastar y justificar la veracidad de información científica frente a pseudociencias usando fuentes fiables y actitud crítica."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Explicar razonadamente el impacto social de la ciencia y el papel de los investigadores, visibilizando a las mujeres y el carácter colaborativo y condicionado de la investigación."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Las competencias específicas 3 y 4 profundizan, por un lado, en el diseño y la",
+            "description": "Las competencias específicas 3 y 4 profundizan, por un lado, en el diseño y la realización de proyectos de investigación y en la aplicación de los pasos de los diferentes métodos utilizados en la ciencia y, por otro, en las estrategias para la resolu…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Formular preguntas investigables y plantear hipótesis contrastables mediante el método científico para explicar fenómenos naturales del ámbito de la biología, geología o medio ambiente."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Diseñar protocolos experimentales y de toma de datos para contrastar hipótesis científicas sobre fenómenos naturales, seleccionando herramientas adecuadas y controlando variables para evitar sesgos."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Ejecutar prácticas de laboratorio o campo recolectando datos precisos mediante el uso correcto de instrumental científico y técnicas de medición específicas."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Analizar críticamente los resultados de una investigación científica mediante herramientas matemáticas y tecnológicas para extraer conclusiones fundamentadas y reconocer las limitaciones del estudio."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Buscar y utilizar estrategias en la resolución de problemas analizando",
+            "description": "Buscar y utilizar estrategias en la resolución de problemas analizando críticamente las soluciones y respuestas halladas y reformulando el procedimiento si fuera necesario, para dar explicación a fenómenos relacionados con las ciencias biológicas, ge…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Resolver problemas y explicar procesos científicos aplicando conocimientos, datos y herramientas digitales para proponer soluciones razonadas a fenómenos biológicos, geológicos o ambientales."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Evaluar la validez de soluciones a problemas científicos, ajustando métodos o conclusiones tras detectar errores o recibir información adicional que contradiga los resultados iniciales."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "(c5) A través de la competencia específica 5 se pretende que el alumnado sea",
+            "description": "(c5) A través de la competencia específica 5 se pretende que el alumnado sea capaz de valorar los fundamentos que justifican la necesidad urgente de implantar un modelo de desarrollo sostenible, valorando los recursos naturales, energéticos y materia…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Investigar y explicar los problemas ambientales actuales analizando sus causas y efectos a diferentes escalas mediante el uso de datos científicos contrastados."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Diseñar y ejecutar propuestas de hábitos sostenibles y saludables en el entorno cercano, justificando científicamente su necesidad y beneficios para el medioambiente y la salud."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "(c6) Finalmente, mediante la competencia específica 6 el alumnado desarrollará",
+            "description": "(c6) Finalmente, mediante la competencia específica 6 el alumnado desarrollará destrezas para el razonamiento que le permitirán ahondar en los principios para la datación de materiales geológicos, comprender la escala de tiempo geológico y la relevan…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Explicar los hitos de la historia de la Tierra vinculándolos con pruebas del registro geológico y procesos actuales mediante principios de geología y razonamiento científico."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Aplicar métodos de datación absoluta y relativa sobre cortes geológicos y restos fósiles para reconstruir la historia geológica de una región determinada."
+                }
+            ]
+        }
+    ]
+}

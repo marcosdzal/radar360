@@ -1,0 +1,166 @@
+{
+    "community": "extremadura",
+    "stage": "eso",
+    "decree": "Decreto 110\/2022, de 22 de agosto",
+    "subject": "educacion_plastica",
+    "subject_name": "Educación Plástica, Visual y Audiovisual",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Reconocer la importancia que las distintas manifestaciones culturales y",
+            "description": "Reconocer la importancia que las distintas manifestaciones culturales y artísticas han tenido en el desarrollo del ser humano, mostrando interés por comprenderlas y disfrutarlas y entendiendo la necesidad de protegerlas y conservarlas. El estudio de …",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Identificar el contexto social e histórico de obras artísticas, analizando su función, valores y la representación de género para valorar el patrimonio cultural."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Analizar obras de arte mediante guías de observación para explicar por qué es fundamental proteger y conservar el patrimonio cultural como herencia colectiva."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Argumentar opiniones sobre obras artísticas propias y ajenas, analizando los",
+            "description": "Argumentar opiniones sobre obras artísticas propias y ajenas, analizando los distintos aspectos que influyen en el proceso que va desde la intención hasta la realización final, evitando estereotipos, promoviendo el diálogo intercultural y disfrutando…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Explicar el proceso creativo desde la idea inicial hasta el resultado final, justificando las decisiones tomadas y evitando el uso de clichés o estereotipos visuales."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Analizar y comparar obras propias, de compañeros y del patrimonio mediante guías, fomentando el respeto por la diversidad cultural y el desarrollo de la sensibilidad estética."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Observar, con curiosidad y respeto, diferentes formas de expresión plástica, visuales y audiovisuales, construyéndose una cultura artística y visual lo más amplia posible con la que alimentar su imaginario, seleccionando manifestaciones artísticas de su interés, de cualquier tipo y época."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Aprender a disfrutar del arte entendido como testimonio individual y social y también como expresión creativa de las preocupaciones universales del ser humano, compartiendo con respeto sus impresiones y emociones y expresando su opinión personal de forma abierta."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Analizar mensajes visuales y audiovisuales, mediante el estudio de todos los",
+            "description": "Analizar mensajes visuales y audiovisuales, mediante el estudio de todos los elementos que los constituyen, interpretando las intenciones, declaradas o no, de los autores. En un mundo en el que se reciben permanentemente mensajes construidos mediante…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Identificar y explicar obras artísticas de diferentes épocas, analizando sus elementos visuales y el papel de la mujer para ampliar el repertorio visual propio."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Expresar y justificar razonadamente las sensaciones, emociones y opiniones personales que despierta la observación de obras artísticas, manteniendo una actitud de respeto hacia otras interpretaciones."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Explorar y aplicar las técnicas, el lenguaje y las intenciones de diferentes",
+            "description": "Explorar y aplicar las técnicas, el lenguaje y las intenciones de diferentes producciones culturales y artísticas, analizando, de forma abierta y respetuosa, tanto el proceso como el resultado final, descubriendo las diversas posibilidades que ofrece…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Identificar y analizar técnicas y lenguajes artísticos en diversas obras, relacionándolos con su contexto histórico y social mediante la búsqueda eficaz de información."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Identificar elementos visuales en obras artísticas variadas para integrarlos de forma original y creativa en sus propios proyectos y composiciones plásticas."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Realizar proyectos artísticos con creatividad de cara a generar sus propios mensajes y mostrando iniciativa en el manejo de materiales, soportes y herramientas."
+                },
+                {
+                    "code": "4.4",
+                    "description": "Elaborar producciones artísticas ajustadas al objetivo propuesto, utilizando las posibilidades expresivas de los elementos formales básicos en las artes visuales y audiovisuales, esforzándose en superarse y demostrando un criterio propio."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Realizar obras artísticas individuales o colectivas con creatividad,",
+            "description": "Realizar obras artísticas individuales o colectivas con creatividad, incorporando las referencias culturales y artísticas de su propio entorno y momento, seleccionando y poniendo en práctica herramientas y técnicas en función de su intencionalid…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Crear obras plásticas o audiovisuales propias experimentando con materiales y técnicas para comunicar ideas, sentimientos y visiones personales de forma creativa y reflexiva."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Crear obras artísticas propias o en grupo, eligiendo materiales adecuados y explicando razonadamente los pasos seguidos y las decisiones tomadas durante el proceso."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Comprender y explicar su pertenencia a un contexto cultural, mediante el análisis de los aspectos formales y de los factores sociales que determinan las producciones artísticas y culturales actuales, mostrando empatía, actitud colaborativa y respetuosa."
+                },
+                {
+                    "code": "5.4",
+                    "description": "Representar con creatividad sus propias vivencias y su visión del mundo, haciendo uso de los recursos de su propio imaginario y de su sensibilidad, aumentando progresivamente su autoestima y el conocimiento de sí mismo y sus iguales, al tiempo que aprendiendo a relacionarse mejor y a situarse en la sociedad."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Reconocer y valorar la presencia de la geometría en la naturaleza, en el arte y",
+            "description": "Reconocer y valorar la presencia de la geometría en la naturaleza, en el arte y en nuestro entorno, identificando estructuras geométricas básicas, analizando y simplificando la estructura formal de objetos reales, recreando y sintetizando formas de l…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Analizar y explicar la relación entre obras artísticas actuales y el contexto social propio, identificando cómo influyen en la construcción de la identidad personal."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Incorporar elementos del patrimonio artístico y cultural cercano en proyectos visuales propios, reinterpretándolos desde una perspectiva creativa y personal."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Dibujar paisajes urbanos usando los principios de la perspectiva cónica."
+                },
+                {
+                    "code": "6.4",
+                    "description": "Conocer y ser sensibles a las características del material específico de dibujo técnico, mostrando interés por su buena conservación y uso apropiado, así como por la precisión, claridad y limpieza de los trazados."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Utilizar de forma creativa programas informáticos para dibujar, transformar",
+            "description": "Utilizar de forma creativa programas informáticos para dibujar, transformar dibujos y fotografías y hacer animaciones básicas, disfrutando de la experimentación y de los resultados.",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Crear un proyecto artístico propio experimentando con diversas técnicas y materiales, ajustándose a un objetivo concreto y demostrando iniciativa en el proceso creativo."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Realizar proyectos artísticos digitales con creatividad, eficacia y versatilidad, y proponer soluciones variadas ajustándose a objetivos preestablecidos y mostrando interés por experimentar."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Desarrollar y compartir proyectos artísticos",
+            "description": "Desarrollar y compartir proyectos artísticos, de forma individual o colectiva, realizados con diferentes técnicas, recursos y convenciones a partir de una necesidad y conociendo las características del público potencial, valorando las oportunidades p…",
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Identificar y explicar las funciones sociales y usos de diversas obras artísticas, debatiendo sobre su impacto y las posibilidades profesionales o personales que ofrecen."
+                },
+                {
+                    "code": "8.2",
+                    "description": "Planificar y crear obras artísticas individuales o grupales, siguiendo fases de producción específicas y adaptando el mensaje visual a un público y propósito determinados."
+                },
+                {
+                    "code": "8.3",
+                    "description": "Explicar oralmente o mediante soporte visual el proceso creativo seguido, identificando dificultades encontradas, soluciones aplicadas y el aprendizaje personal obtenido tras finalizar la obra."
+                }
+            ]
+        }
+    ]
+}

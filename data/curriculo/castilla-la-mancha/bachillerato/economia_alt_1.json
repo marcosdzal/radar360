@@ -1,0 +1,89 @@
+{
+    "community": "castilla-la-mancha",
+    "stage": "bachillerato",
+    "decree": "Decreto 83\/2022, de 12 de julio",
+    "subject": "economia_alt",
+    "subject_name": "Economía",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE2",
+            "name": "Reconocer y comprender el funcionamiento del mercado, analizando sus fallos",
+            "description": "Reconocer y comprender el funcionamiento del mercado, analizando sus fallos, para estudiar la repercusión de estos en el entorno y facilitar la toma de decisiones en el ámbito económico.",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Valorar los efectos de fallos del mercado microeconómicos y aplicar ese análisis a la toma de decisiones."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Explica el funcionamiento del mercado analizando oferta, demanda, precios y tipos de mercado."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Analizar críticamente los fallos del mercado, evaluar sus consecuencias y reflexionar sobre soluciones."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Distinguir y valorar el papel de los distintos agentes económicos que",
+            "description": "Distinguir y valorar el papel de los distintos agentes económicos que intervienen en el flujo circular de la renta, comprendiendo sus interacciones y reconociendo, con sentido crítico, los beneficios y costes que genera, para explicar cómo se produce…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Valorar críticamente el papel de los agentes económicos en el flujo circular de la renta y su contribución al desarrollo y bienestar."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Diferencia costes y beneficios de los agentes en el flujo circular y analiza su impacto en desarrollo y bienestar."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Conocer y comprender el funcionamiento del sistema financiero y de la política",
+            "description": "Conocer y comprender el funcionamiento del sistema financiero y de la política monetaria, valorando sus efectos sobre la economía real y analizando los elementos que intervienen en las decisiones financieras, para planificar y gestionar con responsab…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Analiza el sistema financiero y la política monetaria, valorando sus efectos en la economía real y en las decisiones financieras personales."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Planificar y gestionar finanzas personales usando conocimientos del sistema financiero, valorando su impacto en la economía real."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Conectar el análisis del sistema financiero con las decisiones financieras personales cotidianas."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Identificar y valorar los retos y desafíos a los que se enfrenta la economía",
+            "description": "Identificar y valorar los retos y desafíos a los que se enfrenta la economía actual analizando el impacto de la globalización económica, la nueva economía y la revolución digital, para proponer iniciativas que fomenten la equidad, la justicia y la so…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Propone iniciativas que fomentan equidad, justicia y sostenibilidad, analizando críticamente los impactos de la globalización, nueva economía y revolución digital."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Analizar críticamente los retos económicos actuales y proponer iniciativas equitativas y sostenibles."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Analizar los problemas económicos actuales mediante el estudio de casos, la",
+            "description": "Analizar los problemas económicos actuales mediante el estudio de casos, la investigación y la experimentación, utilizando herramientas del análisis económico y teniendo en cuenta los factores que condicionan las decisiones de los agentes económicos,…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "El alumnado diseña propuestas de solución a problemas económicos reales usando herramientas de análisis económico y considerando factores individuales y colectivos."
+                }
+            ]
+        }
+    ]
+}

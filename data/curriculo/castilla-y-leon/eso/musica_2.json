@@ -1,0 +1,114 @@
+{
+    "community": "castilla-y-leon",
+    "stage": "eso",
+    "decree": "",
+    "subject": "musica",
+    "subject_name": "Música",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Analizar obras de diferentes épocas, estilos y culturas, identificando sus",
+            "description": "Analizar obras de diferentes épocas, estilos y culturas, identificando sus principales rasgos estilísticos y estableciendo relaciones con su contexto, para valorar el patrimonio musical y dancístico como fuente de disfrute y enriquecimiento personal.",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Reconocer y describir las características sonoras y estéticas de piezas musicales de diversos periodos históricos y culturas mediante la escucha atenta y respetuosa."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Explicar la función social y cultural de obras musicales y de danza, vinculándolas razonadamente con su contexto histórico y mostrando respeto por la diversidad."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Comparar manifestaciones musicales y dancísticas de distintas épocas para identificar su influencia y pervivencia en los estilos y géneros musicales actuales."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Establecer conexiones entre manifestaciones musicales y dancísticas de diferentes épocas y culturas, valorando su influencia sobre la música y la danza actuales. (CCL2, CCL3, CP3, CD1, CD2, CC1, CCEC1, CCEC2)"
+                },
+                {
+                    "code": "1.5",
+                    "description": "Reconocer los parámetros del sonido y los elementos básicos del lenguaje musical, utilizando un lenguaje técnico apropiado, aplicándolos en la lectura o audición de pequeñas obras o fragmentos musicales. (CCL1, CCL2, CP2, CCEC2)"
+                },
+                {
+                    "code": "1.6",
+                    "description": "Distinguir y utilizar de manera apropiada elementos de representación gráfica de la música, en actividades de lectura y análisis musical. (CCL1, CCL2, CP2, CCEC2)"
+                },
+                {
+                    "code": "1.7",
+                    "description": "Reconocer los principales recursos y técnicas del lenguaje de la Danza en el visionado de representaciones dancísticas. (CCL1, CCL2, CP2, CCEC2)"
+                },
+                {
+                    "code": "1.8",
+                    "description": "Analizar y comprender el concepto de textura, reconociéndolo en actividades de audición y lectura de partituras. (CCL1, CCL2, CP2, CCEC2)"
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Explorar las posibilidades expresivas de diferentes técnicas musicales y",
+            "description": "Explorar las posibilidades expresivas de diferentes técnicas musicales y dancísticas, a través de actividades de improvisación, para incorporarlas al repertorio personal de recursos y desarrollar el autoconocimiento y el criterio de selección de las …",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Improvisar de forma creativa y guiada utilizando la voz, el cuerpo, instrumentos o tecnología para explorar diversas técnicas expresivas musicales y de danza."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Improvisar de forma pautada empleando recursos musicales y dancísticos para comunicar emociones o ideas, eligiendo las técnicas más adecuadas al propósito expresivo."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Explorar las posibilidades expresivas de distintas fuentes y objetos sonoros, partiendo de la práctica y la experimentación. (STEM5, CE3, CCEC2)"
+                },
+                {
+                    "code": "2.4",
+                    "description": "Demostrar habilidades musicales básicas individuales y grupales, adquiriendo y fortaleciendo la autoestima y la conciencia global, a través de la interpretación. (STEM5, CPSAA2, CPSAA3, CC1, CE3)"
+                },
+                {
+                    "code": "2.5",
+                    "description": "Mostrar interés y actitud crítica por la música actual, los musicales, los conciertos en vivo y las nuevas propuestas musicales, valorando los elementos creativos e innovadores de los mismos. (CD2, CD4, CPSAA1, CPSAA2, CC1, CCEC3)"
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Interpretar piezas musicales y dancísticas, gestionando adecuadamente las",
+            "description": "Interpretar piezas musicales y dancísticas, gestionando adecuadamente las emociones y empleando diversas estrategias y técnicas vocales, corporales o instrumentales, para ampliar las posibilidades de expresión personal.",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Interpretar partituras de baja complejidad reconociendo sus elementos técnicos básicos, como figuras y notas, contando con el apoyo del docente o de grabaciones de audio."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Interpretar piezas musicales o danzas sencillas aplicando técnicas básicas de voz o instrumentos, memorizando la obra y mostrando una actitud constructiva en los ensayos."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Interpretar obras musicales o danzas sencillas de forma individual y grupal, controlando los nervios y manteniendo la atención durante la ejecución técnica."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Crear propuestas artístico-musicales, empleando la voz, el cuerpo, instrumentos musicales y herramientas tecnológicas",
+            "description": "Crear propuestas artístico-musicales, empleando la voz, el cuerpo, instrumentos musicales y herramientas tecnológicas, para potenciar la creatividad e identificar oportunidades de desarrollo personal, social, académico y profesional, así como de empr…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Diseñar y realizar proyectos musicales o coreográficos, de forma individual o grupal, utilizando diversos instrumentos, la voz y herramientas tecnológicas para expresar ideas creativas."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Participar en la creación y ejecución de proyectos musicales grupales, colaborando activamente en los ensayos y valorando el trabajo en equipo para el crecimiento personal."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Utilizar de manera funcional los recursos digitales para el aprendizaje e investigación indagando sobre el hecho musical y mostrando interés por las herramientas digitales de la música. (CCL3, CP2, CD2, CD3, CCEC4)"
+                }
+            ]
+        }
+    ]
+}

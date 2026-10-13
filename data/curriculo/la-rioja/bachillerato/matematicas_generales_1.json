@@ -1,0 +1,95 @@
+{
+    "community": "la-rioja",
+    "stage": "bachillerato",
+    "decree": "Decreto 22\/2022, de 27 de julio",
+    "subject": "matematicas_generales",
+    "subject_name": "Matemáticas Generales",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Modelizar y resolver problemas de la vida cotidiana y de diversos ámbitos",
+            "description": "Modelizar y resolver problemas de la vida cotidiana y de diversos ámbitos aplicando diferentes estrategias y formas de razonamiento, con ayuda de herramientas tecnológicas, para obtener posibles soluciones.",
+            "criterios": [
+                {
+                    "code": "1.2",
+                    "description": "Resolver problemas reales identificando todas las soluciones posibles y explicando detalladamente los pasos seguidos durante el proceso matemático."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Verificar la validez de las posibles soluciones de un problema empleando el",
+            "description": "Verificar la validez de las posibles soluciones de un problema empleando el razonamiento y la argumentación para contrastar su idoneidad.",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "El alumnado verifica la validez de las soluciones de un problema, justificando con razonamiento y argumentación, y usando herramientas digitales."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Generar preguntas de tipo matemático aplicando saberes y estrategias conocidas",
+            "description": "Generar preguntas de tipo matemático aplicando saberes y estrategias conocidas para dar respuesta a situaciones problemáticas de la vida cotidiana.",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "El alumnado formula de forma autónoma preguntas matemáticas a partir de situaciones cotidianas para construir nuevo conocimiento."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Utilizar aplicaciones informáticas, calculadoras gráficas o simuladores para plantear, investigar y modelizar situaciones problemáticas reales de forma eficiente."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Utilizar el pensamiento computacional de forma eficaz, modificando y creando",
+            "description": "Utilizar el pensamiento computacional de forma eficaz, modificando y creando algoritmos que resuelvan problemas mediante el uso de las matemáticas, para modelizar y resolver situaciones de la vida cotidiana y de diversos ámbitos.",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Diseñar y ajustar algoritmos o diagramas de flujo para automatizar la resolución de problemas cotidianos y financieros mediante procesos lógicos secuenciales."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Descubrir los vínculos de las matemáticas con otras áreas de conocimiento y profundizar en sus conexiones",
+            "description": "Descubrir los vínculos de las matemáticas con otras áreas de conocimiento y profundizar en sus conexiones, interrelacionando conceptos y procedimientos, para modelizar, resolver problemas y desarrollar la capacidad crítica, creativa e innovadora en s…",
+            "criterios": [
+                {
+                    "code": "6.2",
+                    "description": "Explicar la utilidad de las matemáticas en la resolución de problemas sociales y tecnológicos, destacando su papel fundamental en el progreso y bienestar de la humanidad."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Representar conceptos, procedimientos e información matemáticos seleccionando diferentes tecnologías",
+            "description": "Representar conceptos, procedimientos e información matemáticos seleccionando diferentes tecnologías, para visualizar ideas y estructurar razonamientos matemáticos.",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Modelizar ideas matemáticas estructurando razonamientos y seleccionando la tecnología adecuada."
+                }
+            ]
+        },
+        {
+            "code": "CE9",
+            "name": "Utilizar destrezas personales y sociales, identificando y gestionando las",
+            "description": "Utilizar destrezas personales y sociales, identificando y gestionando las propias emociones y respetando las de las y los demás y organizando activamente el trabajo en equipos heterogéneos, aprendiendo del error como parte del proceso de aprendizaje …",
+            "criterios": [
+                {
+                    "code": "9.1",
+                    "description": "Afrontar situaciones de incertidumbre matemática mediante la toma de decisiones, gestionando las emociones negativas y transformando el error en una oportunidad de aprendizaje real."
+                },
+                {
+                    "code": "9.2",
+                    "description": "Mantener una actitud positiva y constante ante retos matemáticos, integrando correcciones y críticas constructivas para mejorar el proceso de resolución de problemas."
+                }
+            ]
+        }
+    ]
+}

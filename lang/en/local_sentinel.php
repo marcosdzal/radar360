@@ -16,25 +16,23 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['pluginname']           = 'Sentinel';
+$string['pluginname']           = 'Radar 360';
 $string['gradecategory']        = 'Grade category';
 $string['rubric_row_id']        = 'Rubric row';
-$string['activities_category']  = 'Activities (Sentinel)';
-
 // Capabilities.
-$string['sentinel:managephotos'] = 'Manage student photos (Sentinel)';
+$string['sentinel:managephotos'] = 'Manage student photos (Radar 360)';
 
 // Grade book categories created by the plugin.
-$string['activities_category'] = 'Activities (Sentinel)';
+$string['activities_category'] = 'Activities (Radar 360)';
 $string['rubric_category']     = 'Rubric Grade';
 
 // Rubric editor.
-$string['rubriceditor:label']     = '📌 Specific Competency (Sentinel):';
-$string['rubriceditor:tooltip']   = 'Assign this criterion to a Specific Competency in the gradebook';
+$string['rubriceditor:label']     = '📌 Assessment criterion (Radar 360):';
+$string['rubriceditor:tooltip']   = 'Assign this rubric row to an assessment criterion in the gradebook';
 $string['rubriceditor:unassigned']= '— Unassigned —';
 $string['rubriceditor:pending']   = '💾 Will be saved on publish';
 $string['rubriceditor:neterror']  = '❌ Network error';
-$string['rubriceditor:header']    = 'SC (Sentinel)';
+$string['rubriceditor:header']    = 'SC (Radar 360)';
 
 // Student photo widget.
 $string['photo:delete']      = 'Delete photo';
@@ -67,8 +65,9 @@ $string['settings:drawerpersist']             = 'Keep nav drawer state';
 $string['settings:drawerpersist_desc']        = 'Remembers whether the left navigation drawer was open or closed and restores it when navigating between pages.';
 
 // New capabilities.
-$string['sentinel:viewstudentreport'] = 'View student competency profile report (Sentinel)';
-$string['sentinel:managedescriptors'] = 'Manage rubric criterion → descriptor mapping (Sentinel)';
+$string['sentinel:viewstudentreport'] = 'View student competency profile report (Radar 360)';
+$string['sentinel:managedescriptors'] = 'Manage rubric criterion → descriptor mapping (Radar 360)';
+$string['sentinel:communicate']       = 'Create and manage family communication periods (Radar 360)';
 
 // Competency profile report.
 $string['report:title']              = 'Perfil de salida';
@@ -108,10 +107,24 @@ $string['report:evolution']          = 'Evolución';
 $string['report:comm_nth']           = '{$a}.ª comunicación';
 $string['report:level_legend_title'] = 'Niveles de desempeño';
 
+// View tabs.
+$string['report:tab_group_key']     = 'Key competencies';
+$string['report:tab_group_specific'] = 'Specific competencies';
+$string['report:tab_diana']         = 'Radar';
+$string['report:tab_grid']          = 'Cards';
+$string['report:tab_subject_diana'] = 'Radar';
+$string['report:tab_subject_grid']  = 'Cards';
+$string['report:subject_grade']   = 'Subject grade';
+$string['report:select_course']   = 'Select subject';
+$string['report:ce_criteria']     = 'criteria';
+$string['report:ce_criterion']    = 'criterion';
+$string['report:no_ce_data']      = 'No specific competencies configured in this subject.';
+$string['report:view_detail']     = 'View detail';
+
 // Admin: CE → descriptor mapping.
-$string['mapdesc:title']             = 'Asignar descriptores a criterios de evaluación';
-$string['mapdesc:navlink']           = 'Sentinel – Descriptores';
-$string['mapdesc:intro']             = 'Para cada criterio de evaluación del libro de calificaciones, selecciona qué descriptores del perfil de salida (LOMLOE) trabaja. Sentinel vinculará automáticamente las calificaciones de rúbrica a los descriptores correctos.';
+$string['mapdesc:title']             = 'Linking assessment criteria to operational descriptors';
+$string['mapdesc:navlink']           = 'Assessment criteria / descriptors linking';
+$string['mapdesc:intro']             = 'The links between assessment criteria and operational descriptors from the exit profile are pre-configured according to the current curriculum regulations. You may adjust these assignments if needed to match your subject\'s teaching plan.';
 $string['mapdesc:save']              = 'Guardar cambios';
 $string['mapdesc:saved']             = 'Asignaciones guardadas correctamente.';
 $string['mapdesc:nocriteria']        = 'No se encontraron criterios de evaluación en el libro de calificaciones.';
@@ -119,13 +132,21 @@ $string['mapdesc:course']            = 'Materia';
 $string['mapdesc:activity']          = 'Actividad';
 $string['mapdesc:criterion']         = 'Criterio de evaluación';
 $string['mapdesc:descriptors']       = 'Descriptores vinculados';
+$string['mapdesc:legend_normativa']  = 'Linked by curriculum decree';
+$string['mapdesc:legend_manual']     = 'Linked manually';
 
 // Admin: communication periods.
 $string['periods:title']             = 'Comunicaciones a familias';
 $string['periods:intro']             = 'Define las fechas de comunicación de calificaciones a las familias. El informe de perfil de salida permite filtrar por estos periodos.';
 $string['periods:saved']             = 'Comunicación añadida correctamente.';
 $string['periods:deleted']           = 'Comunicación eliminada.';
-$string['periods:navlink']           = 'Sentinel – Comunicaciones';
+$string['periods:navlink']           = 'Radar 360 – Comunicaciones';
+
+// Curriculum.
+$string['settings:heading_curriculum']    = 'Curriculum (LOMLOE)';
+$string['settings:community']             = 'Autonomous Community';
+$string['settings:community_desc']        = 'Autonomous community of the school. All courses will use this community\'s regulations.';
+$string['settings:community_none']        = '— Not configured —';
 
 // Settings (new entries).
 $string['settings:heading_descriptors']   = 'Profile exit (LOMLOE)';
@@ -133,10 +154,10 @@ $string['settings:mapdescriptors']        = 'Assign descriptors to criteria';
 $string['settings:managedescriptors_link']= 'Go to the assignment page';
 
 // Privacy API.
-$string['privacy:metadata:local_sentinel_student_photo']              = 'Sentinel stores custom student photographs uploaded by teachers.';
+$string['privacy:metadata:local_sentinel_student_photo']              = 'Radar 360 stores custom student photographs uploaded by teachers.';
 $string['privacy:metadata:local_sentinel_student_photo:studentid']    = 'The ID of the student the photograph belongs to.';
 $string['privacy:metadata:local_sentinel_student_photo:uploaderid']   = 'The ID of the teacher who uploaded the photograph.';
 $string['privacy:metadata:local_sentinel_student_photo:timemodified'] = 'The date and time the photograph was last modified.';
-$string['privacy:metadata:core_files']                                = 'Sentinel stores the image file in the Moodle file system.';
+$string['privacy:metadata:core_files']                                = 'Radar 360 stores the image file in the Moodle file system.';
 $string['privacy:studentphoto']                                       = 'Student photograph';
 $string['privacy:uploadedphotos']                                     = 'Photographs uploaded as teacher';

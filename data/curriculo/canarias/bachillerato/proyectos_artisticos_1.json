@@ -1,0 +1,85 @@
+{
+    "community": "canarias",
+    "stage": "bachillerato",
+    "decree": "Decreto 73\/2023, de 13 de abril",
+    "subject": "proyectos_artisticos",
+    "subject_name": "Proyectos Artísticos",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "(c1) Esta competencia específica se centra, de una manera general, en la",
+            "description": "(c1) Esta competencia específica se centra, de una manera general, en la creación, la planificación y la experimentación, a través de bocetos y maquetas, y teniendo en cuenta múltiples factores de carácter transversal como son la sostenibilidad, la i…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "El alumnado genera y perfecciona ideas de proyecto mediante consulta de fuentes, elaboración de bocetos y maquetas, y experimentación con técnicas artísticas."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Seleccionar y justificar una propuesta de proyecto considerando relevancia artística, viabilidad, sostenibilidad y adecuación al marco de recepción."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "(c2) Con esta competencia específica se reflexiona en profundidad sobre las",
+            "description": "(c2) Con esta competencia específica se reflexiona en profundidad sobre las fases que conlleva una planificación, atendiendo igualmente a los factores transversales mencionados en la competencia específica 1, y se ajusta a las posibilidades que se es…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Planificar un proyecto artístico organizando fases, evaluando sostenibilidad y ajustando a plazos, espacio y presupuesto."
+                },
+                {
+                    "code": "2.2",
+                    "description": "El alumnado propone soluciones creativas para organizar un proyecto artístico optimizando recursos."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "(c3) La competencia específica se refiere a la elección y realización en sí del",
+            "description": "(c3) La competencia específica se refiere a la elección y realización en sí del proyecto, atendiendo a los criterios valorados en las anteriores competencias específicas, razonando y argumentando dichas elecciones para llevarlas a cabo teniendo en cu…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Participar activamente en proyectos artísticos asumiendo funciones y seleccionando espacios, técnicas, medios y soportes."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Explicar razonadamente la intención y los efectos esperados del proyecto artístico en el entorno."
+                },
+                {
+                    "code": "3.3",
+                    "description": "El alumnado justifica sus decisiones de ejecución vinculándolas con la intención y los efectos buscados."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "(c4) Con la competencia específica se incide en la necesidad de mantener una actitud abierta y respetuosa",
+            "description": "(c4) Con la competencia específica se incide en la necesidad de mantener una actitud abierta y respetuosa. Se comienza una nueva etapa del proyecto donde se ponen en común todas las fases anteriormente trabajadas y se fomenta la consulta y la crítica…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Compartir las fases del proyecto mediante diversos medios, recogiendo críticas y sugerencias del público para mejorar el resultado y su impacto."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Valora críticas y aportaciones, e incorpora justificadamente las que mejoran el proyecto y su impacto social."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "(c5) Con la competencia específica (C5) se concreta el tratamiento del proyecto",
+            "description": "(c5) Con la competencia específica (C5) se concreta el tratamiento del proyecto con aspectos más relacionados con la parte procedimental: tipos y modelos de documento, selección de fuentes, registros, modos de conservar y almacenar los archivos. El t…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Seleccionar fuentes diversas y justificar su utilidad teórica, informativa o inspiradora para el proyecto."
+                }
+            ]
+        }
+    ]
+}

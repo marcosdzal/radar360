@@ -1,0 +1,143 @@
+{
+    "community": "baleares",
+    "stage": "eso",
+    "decree": "",
+    "subject": "economia_economia_y_emprendimiento",
+    "subject_name": "Economía y Emprendimiento",
+    "grade": 4,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Analitzar i valorar les fortaleses i febleses, pròpies i dels altres,",
+            "description": "Analitzar i valorar les fortaleses i febleses, pròpies i dels altres, reflexionant sobre les aptituds i gestionant de manera eficaç les emocions i les destreses necessàries per adaptar-se a entorns canviants i dissenyar un projecte personal que gener…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Crear un proyecto personal original adaptándose a entornos complejos, valorando aptitudes propias y controlando emociones."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Aplicar estrategias de análisis razonado para valorar fortalezas, debilidades, iniciativa y creatividad propias y ajenas."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Aplica estrategias de gestión emocional y destrezas personales para fomentar la creatividad en proyectos."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Utilitzar estratègies de conformació d'equips, innovació àgil i habilitats",
+            "description": "Utilitzar estratègies de conformació d'equips, innovació àgil i habilitats socials de comunicació, aplicant-les amb autonomia i motivació a les dinàmiques de treball en diferents contexts, per constituir equips eficaços i descobrir el valor de cooper…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Constituir equipos de trabajo equitativos, participativos y con metas comunes optimizando recursos humanos."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Aplicar de manera autónoma habilidades sociales, comunicación abierta, motivación, liderazgo y cooperación en equipos presenciales y a distancia."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Valorar y respetar las aportaciones de compañeros en dinámicas de equipo, aceptando decisiones colectivas."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Elaborar, amb sentit ètic i solidari, idees i solucions innovadores i",
+            "description": "Elaborar, amb sentit ètic i solidari, idees i solucions innovadores i sostenibles que donin resposta a les necessitats locals i globals detectades, utilitzant metodologies àgils d'ideació i analitzant tant els seus punts forts i febles com l'impacte …",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Elaborar propuestas locales y globales que preserven el medio natural, social, cultural y artístico con visión sostenible y emprendedora."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Evaluar ideas innovadoras y sostenibles para superar retos, analizando sus ventajas, inconvenientes e impacto personal y contextual."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Aplicar metodologías ágiles para construir ideas creativas y sostenibles con sentido ético, superando retos."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Seleccionar i reunir els recursos disponibles en el procés de desenvolupament",
+            "description": "Seleccionar i reunir els recursos disponibles en el procés de desenvolupament de la idea o solució creativa proposada, incloent-hi els mitjans de producció i les fonts financeres i aplicant-ne estratègies de captació per posar en marxa el projecte qu…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Poner en marcha un proyecto seleccionando y reuniendo los recursos disponibles de forma ética y eficiente."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Aplica con autonomía estrategias para captar y gestionar recursos, transformando ideas en acciones."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Analizar y seleccionar recursos disponibles para el proyecto emprendedor, planificando su organización y uso óptimo."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Presentar i exposar idees i solucions creatives, utilitzant estratègies",
+            "description": "Presentar i exposar idees i solucions creatives, utilitzant estratègies comunicatives àgils i valorant la importància d'una comunicació efectiva i respectuosa, per transmetre missatges convincents adequats al context i als objectius concrets de cada …",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Justificar y defender ideas y soluciones mediante mensajes convincentes adaptados al contexto."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Exponer ideas y soluciones creativas con claridad, coherencia y eficacia comunicativa, respetando a la audiencia."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Comprendre aspectes bàsics de l'economia i les finances, valorant críticament",
+            "description": "Comprendre aspectes bàsics de l'economia i les finances, valorant críticament el problema de l'escassetat de recursos i la necessitat de triar, com també els principis d'interacció social des del punt de vista econòmic per relacionar aquests aspectes…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Desarrollar una idea emprendedora aplicando conocimientos económicos y financieros para identificar los recursos necesarios."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Aplicar conocimientos económicos y financieros a situaciones o proyectos concretos de forma coherente."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Transferir saberes económicos y financieros para resolver retos de forma eficiente, equitativa y sostenible."
+                },
+                {
+                    "code": "6.4",
+                    "description": "Valorar críticamente la escasez y la necesidad de elegir, usando principios económicos para afrontar retos."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Construir i analitzar de manera cooperativa, autònoma i àgil prototips",
+            "description": "Construir i analitzar de manera cooperativa, autònoma i àgil prototips innovadors i sostenibles, aplicant estratègies eficaces de disseny i execució, avaluant totes les fases del procés de manera crítica i ètica, validant els resultats obtinguts per …",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Valorar el prototipo final y el proceso completo, evaluando críticamente las fases y estrategias."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Analizar críticamente el proceso de diseño y ejecución de prototipos comparando efectividad, viabilidad y adecuación."
+                },
+                {
+                    "code": "7.3",
+                    "description": "Seleccionar y aplicar estrategias de diseño y ejecución para construir un prototipo de forma ágil, cooperativa y autónoma."
+                }
+            ]
+        }
+    ]
+}

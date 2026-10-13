@@ -1,0 +1,83 @@
+{
+    "community": "extremadura",
+    "stage": "bachillerato",
+    "decree": "Decreto 113\/2022, de 25 de agosto",
+    "subject": "volumen",
+    "subject_name": "Volumen",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "I dentificar y analizar los fundamentos compositivos del lenguaje",
+            "description": "I dentificar y analizar los fundamentos compositivos del lenguaje tridimensional, sus cánones de proporción y sus aspectos tanto formales como estructurales, apreciando y disfrutando de la diversidad cultural y artística, desarrollando un criterio y…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar elementos formales y estructurales de obras volumétricas, identificando técnicas, materiales y composición, con perspectiva de género e intercultural."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Explicar cánones de proporción y elementos compositivos de piezas tridimensionales históricas, diferenciando aspectos decorativos de estructurales."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Explicar elementos tridimensionales usando terminología específica del volumen."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Analizar los lenguajes y elementos tanto técnicos como plásticos de obras tridimensionales, aportando ideas para mejorar sus características y particularidades y disfrutando de la percepción de sus particularidades sensoriales. Competencia específica 2."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Explorar las posibilidades plásticas y expresivas del lenguaje tridimensional,",
+            "description": "Explorar las posibilidades plásticas y expresivas del lenguaje tridimensional, partiendo del análisis de obras de diferentes artistas y de las relaciones existentes entre las características, tanto formales como conceptuales de la obra, y la cultura …",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Analizar obras tridimensionales distinguiendo estructura y accesorio, y relacionar función comunicativa con nivel icónico."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Explicar y justificar la relación entre imagen y contenido en obras tridimensionales, identificando sus funciones comunicativas."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Elaborar obras volumétricas para una función comunicativa, relacionando imagen y contenido, y considerando forma, estructura e iconicidad."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Reconocer la capacidad artística de otras personas, valorando la identidad cultural y apreciando el valor estético de las manifestaciones artísticas volumétricas, así como también la riqueza que aportan al patrimonio artístico y cultural."
+                },
+                {
+                    "code": "2.5",
+                    "description": "Expresar sus valores personales, ideas y sentimientos, a través del proceso de creación de obras volumétricas que produzcan efectos multisensoriales, reconociendo sus fortalezas y superando sus debilidades. Competencia específica 3. 3.1. Resolver de forma creativa problemas de configuración espacial a través de composiciones tridimensionales, seleccionando las técnicas, las herramientas y los materiales de realización más adecuados en función de los requisitos estéticos, expresivos, formales y funcionales, incluidos los sostenibles. 3.2. Explicar las cualidades expresivas del lenguaje tridimensional en las composiciones propuestas, justificando la selección de las técnicas, las herramientas y los materiales de realización más adecuados. Competencia específica 4."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Elaborar proyectos de obra tridimensional, individuales o colectivos, adecuando",
+            "description": "Elaborar proyectos de obra tridimensional, individuales o colectivos, adecuando los materiales y los procedimientos a la finalidad estética y funcional, aportando soluciones diversas y creativas, tomando decisiones y colaborando con iguales, aplicand…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Planificar proyectos tridimensionales detallando fases, tareas, viabilidad, sostenibilidad y selección de técnicas y materiales."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Elaborar activamente proyectos artísticos asumiendo roles diversos, respetando aportaciones y reconociendo oportunidades."
+                },
+                {
+                    "code": "4.3",
+                    "description": "El alumnado elabora proyectos volumétricos ajustando materiales y procesos a criterios estéticos y funcionales, resolviendo creativamente los imprevistos."
+                },
+                {
+                    "code": "4.4",
+                    "description": "Evaluar y presentar el resultado de un proyecto tridimensional contrastando objetivos y producto final, explicando las diferencias."
+                }
+            ]
+        }
+    ]
+}

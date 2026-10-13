@@ -1,0 +1,172 @@
+{
+    "community": "galicia",
+    "stage": "bachillerato",
+    "decree": "Decreto 157\/2022, de 15 de septiembre",
+    "subject": "biologia",
+    "subject_name": "Biología",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Interpretar y transmitir información y datos a partir de trabajos científicos y",
+            "description": "Interpretar y transmitir información y datos a partir de trabajos científicos y argumentar sobre estos con precisión y utilizando diferentes formatos para analizar conceptos, procesos, métodos, experimentos o resultados de las ciencias biológicas. - …",
+            "criterios": [
+                {
+                    "code": "CE1.1",
+                    "description": "Analizar de manera crítica conceptos y procesos relacionados con los saberes de la biología molecular, seleccionando e interpretando información en diferentes formatos (modelos, gráficos, tablas, diagramas, fórmulas, esquemas, etc.)."
+                },
+                {
+                    "code": "CE1.2",
+                    "description": "Comunicar informaciones razonadas relacionadas con la composición química de la materia viva, transmitiéndolas de forma clara y rigurosa, utilizando la terminología y el formato adecuados (modelos, gráficos, tablas, vídeos, informes, diagramas, fórmulas, esquemas, símbolos, contenidos digitales, etc.) y respondiendo de manera fundamentada y precisa a las cuestiones que puedan surgir durante el proceso."
+                },
+                {
+                    "code": "CE2.1",
+                    "description": "Argumentar sobre aspectos relacionados con los saberes de la genética molecular, considerando los puntos fuertes y débiles de diferentes posturas de forma razonada y con una actitud abierta, flexible, receptiva y respetuosa ante la opinión de los demás."
+                },
+                {
+                    "code": "CE6.1",
+                    "description": "Explicar y describir en qué consiste la inmunidad, comentando la importancia de las barreras externas y aportando ejemplos próximos."
+                },
+                {
+                    "code": "CE6.2",
+                    "description": "Comparar los distintos tipos de inmunidad aportando ejemplos."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Localizar y utilizar fuentes fiables identificando, seleccionando y organizando",
+            "description": "Localizar y utilizar fuentes fiables identificando, seleccionando y organizando la información, evaluándola críticamente y contrastando su veracidad para resolver preguntas expuestas de forma autónoma y crear contenidos relacionados con las ciencias …",
+            "criterios": [
+                {
+                    "code": "CE1.3",
+                    "description": "Contrastar y justificar la veracidad de información relacionada con la composición química de la materia viva utilizando fuentes fiables, aportando datos y adoptando una actitud crítica y escéptica hacia informaciones sin una base científica, como pseudociencias, teorías conspiratorias, creencias infundadas, noticias falsas, etc."
+                },
+                {
+                    "code": "CE2.2",
+                    "description": "Plantear y resolver cuestiones y crear contenidos relacionados con los saberes de la genética molecular, localizando y citando fuentes de forma adecuada, seleccionando, organizando y analizando críticamente la información."
+                },
+                {
+                    "code": "CE5.2",
+                    "description": "Contrastar y justificar la veracidad de información relacionada con la biotecnología y sus aplicaciones utilizando fuentes fiables, aportando datos y adoptando una actitud crítica y escéptica hacia informaciones sin una base científica, como pseudociencias, teorías conspiratorias, creencias infundadas, noticias falsas, etc."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Analizar trabajos de investigación o divulgación relacionados con las ciencias",
+            "description": "Analizar trabajos de investigación o divulgación relacionados con las ciencias biológicas, comprobando con sentido crítico su veracidad o si siguen correctamente los pasos de los métodos científicos para evaluar la fiabilidad de sus conclusiones. - E…",
+            "criterios": [
+                {
+                    "code": "CE1.4",
+                    "description": "Evaluar la fiabilidad de las conclusiones de un trabajo de investigación o divulgación científica relacionado con los saberes de la biología molecular de acuerdo con la interpretación de los resultados obtenidos."
+                },
+                {
+                    "code": "CE1.5",
+                    "description": "Argumentar, utilizando ejemplos concretos, sobre la contribución de la ciencia a la sociedad y la labor de las personas dedicadas a ella, destacando el papel de las mujeres y entendiendo la investigación como una labor colectiva e interdisciplinar en constante evolución, influida por el contexto político y social y por los recursos económicos."
+                },
+                {
+                    "code": "CE2.4",
+                    "description": "Comparar los genomas y los procesos de la expresión génica en procariotas y eucariotas."
+                },
+                {
+                    "code": "CE3.1",
+                    "description": "Analizar de manera crítica conceptos y procesos relacionados con los saberes de la citología seleccionando e interpretando información en diferentes formatos (modelos, gráficos, tablas, diagramas, fórmulas, esquemas, etc.)."
+                },
+                {
+                    "code": "CE3.2",
+                    "description": "Enunciar los postulados de la teoría celular diferenciando morfológica, estructural y funcionalmente los tipos de células y sus estructuras y orgánulos."
+                },
+                {
+                    "code": "CE3.3",
+                    "description": "Identificar imágenes citológicas utilizando diferentes técnicas y métodos de observación."
+                },
+                {
+                    "code": "CE3.4",
+                    "description": "Reconocer los diferentes tipos de envolturas celulares diferenciando los mecanismos de transporte de sustancias a través de ellas."
+                },
+                {
+                    "code": "CE3.5",
+                    "description": "Detallar los procesos que tienen lugar a lo largo del ciclo celular identificando el significado biológico de cada uno de ellos."
+                },
+                {
+                    "code": "CE3.6",
+                    "description": "Explicar la relación del cáncer con el ciclo celular y las mutaciones, reconociendo su correlación con los estilos de vida saludables."
+                },
+                {
+                    "code": "CE5.1",
+                    "description": "Argumentar sobre aspectos relacionados con la biotecnología considerando los puntos fuertes y débiles de las diferentes posturas que hay en relación con este tema en la actualidad, siempre desde una postura razonada y con una actitud abierta, flexible, receptiva y respetuosa ante la opinión de los demás."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Plantear y resolver problemas buscando y utilizando las estrategias adecuadas,",
+            "description": "Plantear y resolver problemas buscando y utilizando las estrategias adecuadas, analizando críticamente las soluciones y reformulando el procedimiento, si fuera necesario, para explicar fenómenos relacionados con las ciencias biológicas. - Este objeti…",
+            "criterios": [
+                {
+                    "code": "CE2.5",
+                    "description": "Explicar fenómenos relacionados con los saberes de la genética molecular a través del planteamiento y de la resolución de problemas, buscando y utilizando las estrategias y los recursos adecuados."
+                },
+                {
+                    "code": "CE2.6",
+                    "description": "Analizar críticamente la solución a un problema relacionado con los saberes de la genética molecular y replantear los procedimientos utilizados o las conclusiones si esta solución no fuera viable o ante nuevos datos aportados o encontrados con posterioridad."
+                },
+                {
+                    "code": "CE4.2",
+                    "description": "Explicar procesos relacionados con el metabolismo celular, a través del planteamiento y resolución de cuestiones y problemas, buscando y utilizando las estrategias y los recursos adecuados."
+                },
+                {
+                    "code": "CE4.3",
+                    "description": "Analizar la solución a problemas relacionados con el metabolismo celular, replanteando, de ser necesario, los procedimientos utilizados ante nuevos datos aportados o encontrados con posterioridad."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Analizar críticamente determinadas acciones relacionadas con la sostenibilidad",
+            "description": "Analizar críticamente determinadas acciones relacionadas con la sostenibilidad y con la salud basándose en los fundamentos de la biología molecular para argumentar acerca de la importancia de adoptar estilos de vida sostenibles y saludables. - Con la…",
+            "criterios": [
+                {
+                    "code": "CE1.6",
+                    "description": "Argumentar sobre la importancia de adoptar estilos de vida saludables compatibles con un modelo de desarrollo sostenible, basándose en los principios de la biología molecular y relacionándolos con los procesos macroscópicos."
+                },
+                {
+                    "code": "CE5.3",
+                    "description": "Analizar y reconocer las principales y más relevantes técnicas de ingeniería genética, valorando sus aplicaciones en diferentes ámbitos de actuación."
+                },
+                {
+                    "code": "CE5.4",
+                    "description": "Evaluar la aplicación de la biotecnología en distintos ámbitos, incorporando todos los conocimientos y técnicas que los últimos avances científico-tecnológicos proporcionen a este tipo de campos de investigación."
+                },
+                {
+                    "code": "CE6.3",
+                    "description": "Diferenciar y comparar las enfermedades infecciosas de las no infecciosas, identificando sus fases."
+                },
+                {
+                    "code": "CE6.4",
+                    "description": "Describir las principales patologías del sistema inmunitario, identificando sus causas y analizando su relevancia clínica."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Analizar la función de las principales biomoléculas y bioelementos y sus",
+            "description": "Analizar la función de las principales biomoléculas y bioelementos y sus estructuras e interacciones bioquímicas argumentando sobre su importancia en los organismos vivos, para explicar las características macroscópicas de estos a partir de las molec…",
+            "criterios": [
+                {
+                    "code": "CE1.7",
+                    "description": "Explicar las características y procesos vitales de los seres vivos mediante el análisis de sus biomoléculas, de las interacciones bioquímicas entre ellas y de sus reacciones metabólicas."
+                },
+                {
+                    "code": "CE2.3",
+                    "description": "Describir los procesos que comprende la expresión génica reconociendo su significado biológico."
+                },
+                {
+                    "code": "CE4.1",
+                    "description": "Identificar y diferenciar los procesos que comprende el catabolismo y el anabolismo celular, estableciendo las interrelaciones entre todos los procesos y rutas metabólicas que tienen lugar en las células."
+                }
+            ]
+        }
+    ]
+}

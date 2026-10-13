@@ -1,0 +1,184 @@
+{
+    "community": "pais-vasco",
+    "stage": "bachillerato",
+    "decree": "Decreto 82\/2023, de 13 de junio",
+    "subject": "historia_de_espana",
+    "subject_name": "Historia de España",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Realizar con solvencia comentarios críticos de fuentes históricas escritas",
+            "description": "Realizar con solvencia comentarios críticos de fuentes históricas escritas, reconociendo sus distintas tipologías y ejercitándose en su uso científico y en el contraste de la información, para tomar conciencia de su importancia en el trabajo de inves…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar la evolución de los derechos y libertades en España comparando los regímenes políticos y textos constitucionales desde el fin del absolutismo hasta la Constitución de 1978."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Analizar la Transición y la Constitución de 1978 como bases de la democracia, elaborando juicios críticos sobre debates constitucionales actuales mediante la búsqueda de información."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Analizar las características de la realidad lingüística de la CAPV a través de conocimientos sociolingüísticos básicos, y adoptar hábitos y comportamientos lingüísticos asertivos y empáticos hacia el euskara, priorizando su uso y mostrando una actitud proactiva y afectiva en diversos ámbitos de la vida escolar y social y en iniciativas que se desarrollen en el centro y en el entorno relacionadas con la normalización del euskara y la transmisión y creación de la cultura vasca."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Tomar conciencia sobre el funcionamiento de las lenguas y valorar la aportación de la reflexión interlingüística para el aprendizaje de las mismas y para el desarrollo de la competencia comunicativa a través de la comparación de sus rasgos."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Conocer y explicar el proceso de formación y evolución de los distintos",
+            "description": "Conocer y explicar el proceso de formación y evolución de los distintos regímenes políticos y de sus modos de participación ciudadana, analizando comparativamente los distintos tipos de organización política y utilizando la terminología correcta, par…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Analizar críticamente fuentes históricas sobre el origen y evolución de las identidades nacionales y regionales en España, valorando la pluralidad y el marco de convivencia."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Analizar la evolución histórica de la formación del Estado y la nación española, comprendiendo la diversidad de identidades y el marco constitucional actual de convivencia."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Conocer y analizar los factores que han intervenido en el desarrollo y",
+            "description": "Conocer y analizar los factores que han intervenido en el desarrollo y modernización de la economía española y vasca en la Edad contemporánea, mediante el uso de fuentes históricas como gráficas, estadísticas, padrones…, para entender y construir una…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Explicar la evolución económica y modernización de España mediante el análisis de datos y gráficos, comparándola con Europa y debatiendo sobre su desarrollo industrial."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Analizar críticamente los modelos de desarrollo económico en la España contemporánea, evaluando su impacto en la desigualdad social, el equilibrio territorial y la sostenibilidad ambiental."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Describir y analizar los cambios y continuidades de la sociedad española y",
+            "description": "Describir y analizar los cambios y continuidades de la sociedad española y vasca a lo largo de la Edad contemporánea, teniendo en cuenta la evolución de su población y su relación con los niveles y modos de vida, las condiciones laborales, los confli…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Analizar el paso de la sociedad estamental a la de clases en España, examinando el concepto de ciudadanía, nuevas formas de sociabilidad y desigualdades sociales."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Analizar la evolución de la sociedad, población y condiciones de vida en la España contemporánea, identificando las causas de los conflictos sociales y la respuesta del Estado."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Comprender y referir con rigor histórico la evolución de las creencias e",
+            "description": "Comprender y referir con rigor histórico la evolución de las creencias e ideologías y su relación con la sociedad y la política en España y en el País Vasco durante la Historia contemporánea, teniendo en cuenta su influencia en la configuración de id…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Analizar la influencia de la religión y la Iglesia en la política española, evaluando críticamente los periodos de intolerancia y persecución contra las minorías religiosas."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Argumentar y debatir sobre la evolución de las ideologías y culturas políticas en la España contemporánea, analizando su impacto social mediante el estudio de textos historiográficos."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Conocer y relacionar el valor geoestratégico de la Península ibérica con la",
+            "description": "Conocer y relacionar el valor geoestratégico de la Península ibérica con la Historia contemporánea de España y de el País Vasco y con el panorama internacional, por medio de la búsqueda y el tratamiento de información bibliográfica y webgráfica, para…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Analizar los retos y compromisos internacionales de España y su papel en la Unión Europea, fomentando la conciencia ciudadana, la sostenibilidad y la seguridad global."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Analizar la posición geoestratégica de España y su evolución histórica singular en comparación con Europa, identificando legados culturales y desmontando estereotipos sobre su pasado."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Elaborar trabajos de investigación individuales o cooperativos de manera autónoma, en diferentes soportes, sobre temas curriculares, de interés cultural, personal y social a partir de la información seleccionada, respetando la propiedad intelectual y referenciando la información de manera correcta."
+                },
+                {
+                    "code": "6.4",
+                    "description": "Adoptar hábitos de uso crítico, seguro, saludable y sostenible de las tecnologías digitales, evaluando los riesgos y aplicando medidas al usarlas para proteger los dispositivos, los datos personales, la salud y el medioambiente."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Reconocer el significado del Patrimonio histórico y cultural como legado y",
+            "description": "Reconocer el significado del Patrimonio histórico y cultural como legado y expresión de la memoria colectiva, como herencia material e inmaterial y como fuente de la Historia, indagando mediante trabajos individuales o colectivos, para ser consciente…",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Analizar la evolución histórica de la desigualdad de género, identificando los roles tradicionales de las mujeres y los mecanismos sociales y legales que han perpetuado su discriminación."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Analizar el papel histórico de la mujer y el movimiento feminista mediante el estudio de fuentes y la recuperación de figuras femeninas silenciadas en la historia de España."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Integrar la perspectiva de género en el análisis de la Historia contemporánea",
+            "description": "Integrar la perspectiva de género en el análisis de la Historia contemporánea de España y de el País Vasco y del panorama sociopolítico actual, examinando el papel de la mujer a través de la utilización de fuentes históricas y de la investigación dir…",
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Investigar y elaborar proyectos sobre el patrimonio local y la memoria colectiva, aplicando el método histórico para concienciar sobre su protección como bien común."
+                },
+                {
+                    "code": "8.2",
+                    "description": "Crear textos personales o colectivos con intención literaria y conciencia de estilo, en distintos soportes y con ayuda de otros lenguajes artísticos y audiovisuales, a partir de la lectura de obras o fragmentos significativos en los que se empleen las convenciones formales de los diversos géneros y estilos literarios. El siguiente criterio de evaluación es específico para Lengua vasca y Literatura I y Lengua castellana y Literatura I:"
+                },
+                {
+                    "code": "8.3",
+                    "description": "Desarrollar proyectos de investigación que se concreten en una exposición oral, un ensayo o una presentación multi modal, estableciendo vínculos argumentados entre los clásicos de la literatura vasca y española objeto de lectura guiada y otros textos y manifestaciones artísticas y culturales clásicas o contemporáneas, en función de temas, tópicos, estructuras, lenguaje, recursos expresivos y valores éticos y estéticos, y explicitando la implicación y la respuesta personal del lector\/lectora en la lectura. El siguiente criterio de evaluación es específico para Lengua vasca y Literatura II y Lengua castellana y Literatura II:"
+                }
+            ]
+        },
+        {
+            "code": "CE9",
+            "name": "Consolidar y profundizar en el conocimiento explícito y sistemático sobre la",
+            "description": "Consolidar y profundizar en el conocimiento explícito y sistemático sobre la estructura de la lengua y sus usos, y reflexionar de manera autónoma sobre las elecciones lingüísticas y discursivas, con la terminología adecuada, para desarrollar la conci…",
+            "criterios": [
+                {
+                    "code": "9.1",
+                    "description": "Revisar los propios textos y hacer propuestas de mejora argumentando los cambios a partir de la reflexión metalingüís tica e interlingüística, utilizando un metalenguaje específico, e identificar y subsanar problemas de comprensión utilizando los conocimientos explícitos sobre la lengua y su uso."
+                },
+                {
+                    "code": "9.2",
+                    "description": "Explicar y argumentarla interrelación entre el propósito comunicativo y las elecciones lingüísticas del emisor\/emisora, así como su s efectos en el receptor\/receptora, utilizando el conocimiento explícito de la lengua y un metalenguaje específico."
+                },
+                {
+                    "code": "9.3",
+                    "description": "Elaborar y presentar los resultados de pequeños proyectos de investigación sobre aspectos relevantes del funciona miento de la lengua, formulando hipótesis y estableciendo generalizaciones, utilizando los conceptos y la terminología lingüística adecuada y consultando de manera autónoma diccionarios, manuales y gramáticas"
+                }
+            ]
+        },
+        {
+            "code": "CE0",
+            "name": "Poner las prácticas comunicativas al servicio de la convivencia democrática, la",
+            "description": "Poner las prácticas comunicativas al servicio de la convivencia democrática, la gestión y resolución dialogada de los conflictos y la igualdad de derechos de todas las personas, utilizando un lenguaje no discriminatorio y desterrando los abusos de po…",
+            "criterios": [
+                {
+                    "code": "10.1",
+                    "description": "Identificar y desterrar los usos sexistas y discriminatorios de la lengua, los abusos de poder a través de la palabra y los usos manipuladores del lenguaje a partir de la reflexión y el análisis de los elementos lingüísticos, textuales y discursi vos utilizados, así como de los elementos no verbales que rigen la comunicación entre las personas."
+                },
+                {
+                    "code": "10.2",
+                    "description": "Utilizar estrategias para la gestión y resolución dialogada de los conflictos y la búsqueda de consensos mostrando una actitud respetuosa y empática con las opiniones y sentimientos de los interlocutores, tanto en el ámbito personal como educativo y social."
+                }
+            ]
+        }
+    ]
+}

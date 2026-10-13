@@ -1,0 +1,105 @@
+{
+    "community": "murcia",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "educacion_fisica",
+    "subject_name": "Educación Física",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Interiorizar el desarrollo de un estilo de vida activo y saludable,",
+            "description": "Interiorizar el desarrollo de un estilo de vida activo y saludable, planificando responsable y conscientemente su actividad física a partir de la autoevaluación personal en base a parámetros científicos y evaluables, para satisfacer sus demandas de o…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Planifica, elabora y aplica un programa personal de actividad física para mejorar o mantener la salud, evaluando los resultados."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Aplicar autónomamente procesos de activación, autorregulación, alimentación, postura y relajación, reflexionando sobre su vínculo con futuros estudios o profesiones."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Aplica medidas de prevención de lesiones y primeros auxilios, identificando transferencias al ámbito profesional."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Analizar críticamente estereotipos corporales y conductas de riesgo en la información recibida, aplicando criterios científicos."
+                },
+                {
+                    "code": "1.5",
+                    "description": "Usar autónomamente apps y dispositivos para gestionar actividad física respetando privacidad y seguridad de datos."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Adaptar autónomamente las capacidades físicas, perceptivo-motrices y",
+            "description": "Adaptar autónomamente las capacidades físicas, perceptivo-motrices y coordinativas así como las habilidades y destrezas motrices específicas de algunas modalidades practicadas a diferentes situaciones con distintos niveles de dificultad, aplicando ef…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Gestionar autónomamente proyectos motores, resolviendo imprevistos y ajustándose a objetivos de forma creativa y eficiente."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Resuelve autónomamente situaciones de oposición\/colaboración ajustando estrategias a cambios en el juego."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Analiza los factores que condicionan la motricidad en gestos técnicos, identifica errores y propone soluciones."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Difundir y promover nuevas prácticas motrices, compartiendo espacios de",
+            "description": "Difundir y promover nuevas prácticas motrices, compartiendo espacios de actividad físico-deportiva con independencia de las diferencias culturales, sociales, de género y de habilidad, priorizando el respeto hacia los participantes y a las reglas sobr…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Diseñar y dirigir actividades motrices valorando su aplicación profesional y beneficios personales y sociales."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Cooperar mostrando iniciativa en proyectos motrices y resolver imprevistos de forma coordinada."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Mediar en conflictos y establecer relaciones de respeto durante prácticas motrices, aplicando estrategias de prevención y posicionándose críticamente ante la discriminación."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Analizar críticamente e investigar acerca de las prácticas y manifestaciones",
+            "description": "Analizar críticamente e investigar acerca de las prácticas y manifestaciones culturales vinculadas con la motricidad según su origen y su evolución desde la perspectiva de género y desde los intereses económicos, políticos y sociales que hayan condic…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Analizar el origen y evolución de manifestaciones motrices, rechazando componentes contrarios a valores inclusivos."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Crear y representar composiciones corporales expresivas individuales o colectivas con o sin música."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Implementar un estilo de vida sostenible y comprometido con la conservación y mejora del entorno",
+            "description": "Implementar un estilo de vida sostenible y comprometido con la conservación y mejora del entorno, organizando y desarrollando acciones de servicio a la comunidad vinculadas a la actividad física y al deporte, y asumiendo responsabilidades en la segur…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Participar en actividades físicas en entornos naturales minimizando el impacto ambiental y contribuyendo a su conservación."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Organizar y practicar actividades físicas seguras en espacios naturales y urbanos."
+                }
+            ]
+        }
+    ]
+}

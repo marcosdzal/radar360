@@ -1,0 +1,152 @@
+{
+    "community": "canarias",
+    "stage": "eso",
+    "decree": "Decreto 30\/2023, de 16 de marzo",
+    "subject": "matematicas",
+    "subject_name": "Matemáticas",
+    "grade": 3,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "(c1) Con el desarrollo de esta competencia específica se trabajará la",
+            "description": "(c1) Con el desarrollo de esta competencia específica se trabajará la resolución de problemas que constituye un eje fundamental en el aprendizaje de las matemáticas, pues es un proceso central en la construcción del conocimiento matemático. Tanto los…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Extraer y organizar la información relevante de un problema matemático, identificando datos, incógnitas y las relaciones necesarias para comprender qué se pide resolver."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Seleccionar y utilizar técnicas matemáticas diversas, como tablas, diagramas o ensayo-error, para abordar y resolver situaciones problemáticas de forma estructurada."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Resolver problemas matemáticos seleccionando los conocimientos adecuados y empleando recursos tecnológicos, como calculadoras o software, para hallar y verificar la solución correcta."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "(c2) La finalidad de esta competencia específica es analizar las soluciones",
+            "description": "(c2) La finalidad de esta competencia específica es analizar las soluciones obtenidas de un problema, lo que constituye la fase final de su resolución, potenciando así la reflexión crítica sobre su validez. Los razonamientos científico y matemático s…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Verificar la validez de los resultados obtenidos en problemas matemáticos, asegurando que cumplen las condiciones iniciales y son coherentes con el contexto planteado."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "(c3) Esta competencia persigue plantear, razonar, argumentar y demostrar",
+            "description": "(c3) Esta competencia persigue plantear, razonar, argumentar y demostrar conjeturas, procedimientos que han estado siempre inherentes al quehacer matemático. Desde un punto de vista histórico, los desafíos que han supuesto las demostraciones de ciert…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Identificar patrones y regularidades en series numéricas o figuras geométricas para proponer una regla general y verificar su cumplimiento de forma guiada."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Crear versiones nuevas de un problema matemático ya resuelto, alterando sus datos numéricos o restricciones iniciales para explorar diferentes escenarios y soluciones."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "(c4) Esta competencia específica desarrolla el pensamiento computacional, que",
+            "description": "(c4) Esta competencia específica desarrolla el pensamiento computacional, que entronca directamente con la resolución de problemas y el planteamiento de procedimientos, utilizando la abstracción para identificar los aspectos más relevantes, y la desc…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Desglosar problemas matemáticos complejos en pasos sencillos, identificando regularidades y organizando la información para facilitar una resolución lógica y estructurada."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Interpretar y ajustar algoritmos o diagramas de flujo para representar situaciones matemáticas y resolver problemas de manera estructurada y eficiente."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "(c5) Esta competencia específica estudia las conexiones entre los diferentes",
+            "description": "(c5) Esta competencia específica estudia las conexiones entre los diferentes conceptos, procedimientos e ideas matemáticas, lo que aportará una comprensión más profunda y duradera de los conocimientos adquiridos, proporcionando así una visión más amp…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Identificar y aplicar vínculos entre distintos bloques matemáticos, como álgebra y geometría, para resolver problemas complejos de forma integrada y coherente."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "(c6) Esta competencia específica se centra en reconocer y utilizar, en la",
+            "description": "(c6) Esta competencia específica se centra en reconocer y utilizar, en la resolución de problemas, las conexiones existentes entre Matemáticas, el resto de las materias y la vida real, lo que terminará de cerrar el círculo del conocimiento y dará sen…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Identificar y modelizar problemas de la vida cotidiana mediante herramientas matemáticas, aplicando procesos de investigación como la medición, clasificación y predicción de resultados."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Resolver problemas prácticos vinculando conceptos matemáticos con contenidos de otras asignaturas, como ciencias o geografía, para demostrar la utilidad de la materia en contextos reales."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "(c7) La representación de ideas, conceptos, procedimientos e información",
+            "description": "(c7) La representación de ideas, conceptos, procedimientos e información matemáticos es fundamental en el proceso de aprendizaje y también tiene cabida en este currículo. Concretamente, en esta competencia específica 7, la cual fomenta la adquisición…",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Expresar ideas y procesos matemáticos mediante diversos soportes y herramientas tecnológicas, organizando la información de forma visual para facilitar su comprensión y comunicación efectiva."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "(c8) Esta competencia desarrolla la comunicación tanto escrita como oral",
+            "description": "(c8) Esta competencia desarrolla la comunicación tanto escrita como oral, de forma rigurosa y con la terminología adecuada, de las ideas, conceptos, procedimientos y argumentos matemáticos, lo cual es una parte esencial de la educación científica y m…",
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Expresar ideas, procesos y soluciones matemáticas de forma estructurada, utilizando terminología técnica y diversos soportes para explicar y justificar razonamientos de manera comprensible."
+                },
+                {
+                    "code": "8.2",
+                    "description": "Identificar y utilizar términos y símbolos matemáticos en situaciones reales para transmitir información de forma precisa, clara y rigurosa."
+                }
+            ]
+        },
+        {
+            "code": "CE9",
+            "name": "(c9) Resolver problemas matemáticos o retos más globales en los que intervienen",
+            "description": "(c9) Resolver problemas matemáticos o retos más globales en los que intervienen las matemáticas debería ser una tarea gratificante. En esta competencia específica se trabajarán destrezas emocionales fomentando el bienestar del alumnado, la regulación…",
+            "criterios": [
+                {
+                    "code": "9.1",
+                    "description": "Identificar y regular las emociones ante retos matemáticos, manteniendo una actitud positiva y constructiva frente a las dificultades y errores del aprendizaje."
+                },
+                {
+                    "code": "9.2",
+                    "description": "Mantener el esfuerzo ante problemas difíciles y aceptar correcciones del docente o compañeros para mejorar el proceso de resolución matemática."
+                }
+            ]
+        },
+        {
+            "code": "CE0",
+            "name": "(c10) Esta competencia específica trabaja los valores de respeto y resolución",
+            "description": "(c10) Esta competencia específica trabaja los valores de respeto y resolución pacífica de conflictos, al tiempo que se resuelven retos matemáticos, desarrollando destrezas de comunicación efectiva, de planificación, de indagación, de motivación y con…",
+            "criterios": [
+                {
+                    "code": "10.1",
+                    "description": "Trabajar proactivamente en equipos para resolver retos matemáticos, comunicándose con respeto, asumiendo roles asignados y tomando decisiones compartidas basadas en el pensamiento crítico."
+                },
+                {
+                    "code": "10.2",
+                    "description": "Colaborar activamente en equipos de trabajo matemáticos, asumiendo roles específicos, respetando las opiniones ajenas y cumpliendo con las tareas individuales asignadas para el éxito del grupo."
+                }
+            ]
+        }
+    ]
+}

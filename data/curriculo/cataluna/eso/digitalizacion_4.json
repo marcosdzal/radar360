@@ -1,0 +1,129 @@
+{
+    "community": "cataluna",
+    "stage": "eso",
+    "decree": "",
+    "subject": "digitalizacion",
+    "subject_name": "Digitalització",
+    "grade": 4,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Estionar les eines i els dispositius informàtics i de comunicació d' s quotidià",
+            "description": "estionar les eines i els dispositius informàtics i de comunicació d' s quotidià aplicant els coneixements de maquinari i sistemes operatius per resoldre problemes tècnics sen ills",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Connectar dispositius i gestionar xarxes locals aplicant els coneixements i processos associats a sistemes de comunicació amb fil i sense fil amb una actitud proactiva."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Gestionar, a nivell bàsic, sistemes operatius configurant-ne les característiques en funció de les necessitats personals."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Resoldre problemes tècnics senzills analitzant components i funcions dels dispositius digitals, avaluant les solucions de manera crítica i reformulant el procediment, si cal."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Fer un ús responsable dels dispositius i de la seva utilització per promoure la sostenibilitat, tot fomentant la reutilització i l’estalvi i l’eficiència energètica"
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Idear solucions inno adores i creatives aplicant diferents formes de raonament,",
+            "description": "Idear solucions inno adores i creatives aplicant diferents formes de raonament, integrant les en l'entorn personal d'aprenentatge tot fent s de les eines i els recursos d'edició, la creació de continguts digitals i el desenvolupament d'aplicacions pe…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Cercar i seleccionar informació per a la ideació de solucions innovadores, amb responsabilitat i sentit crític."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Dissenyar solucions possibles a problemes plantejats aplicant diferents formes de raonament, com el pensament de disseny i el pensament computacional, tenint en compte les tecnologies emergents, la realitat virtual, augmentada i mixta."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Generar o modificar, de forma individual o col·laborativa, continguts amb suport digital i creacions audiovisuals, integrant imatge, so i vídeo per a la construcció de produccions multimèdia."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Desenvolupar aplicacions fent servir el programari i els llenguatges de programació adients, per la resolució de problemes concrets tenint en compte criteris d’autoria i llicències d’ús."
+                },
+                {
+                    "code": "2.5",
+                    "description": "Integrar els continguts digitals en entorns personals d’aprenentatge (pàgina web, espai al núvol, carpetes, etc.) autoregulant el propi aprenentatge de manera autònoma."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Identificar riscos i amenaces i aplicar mesures pre enti es i correcti es,",
+            "description": "Identificar riscos i amenaces i aplicar mesures pre enti es i correcti es, adquirint hàbits que fomentin el benestar digital per protegir dispositius, dades personals i la pròpia salut",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Configurar adequadament les opcions de privadesa de les aplicacions, xarxes socials i espais virtuals i utilitzar les eines i tècniques de seguretat, per protegir les dades personals, la petjada digital i preservar la seva identitat a la xarxa."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Configurar i actualitzar mesures de protecció i seguretat de dispositius i sistemes digitals d’ús habitual (antivirus, contrasenyes, bloqueig de pantalla, protecció de la comunicació, etc."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Identificar i prendre mesures per protegir-se davant d’amenaces, atacs, intrusions o infeccions que esdevenen a la xarxa."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Identificar situacions de risc per a la salut associades a l’ús de les tecnologies digitals i adoptar les mesures necessàries per tenir cura de la pròpia salut."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Er un s actiu, responsable i ètic de les tecnologies digitals, alorant les",
+            "description": "er un s actiu, responsable i ètic de les tecnologies digitals, alorant les possibles accions que cal fer a la xarxa i identificar ne les repercussions per exercir una ciutadania digital crítica",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Respectar els drets d’autoria i les llicències d’ús en la comunicació, col·laboració i participació a la xarxa, fent un ús ètic de les dades i de les produccions, i justificar-ne les raons."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Analitzar i valorar críticament les aportacions de les tecnologies digitals a les gestions administratives i el comerç electrònic, identificant els problemes derivats de la bretxa social d’accés i l’ús per a determinats col·lectius."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Valorar la importància de l’oportunitat, la facilitat i la llibertat d’expressió que suposen els mitjans digitals connectats, analitzant de manera crítica els missatges que es reben tenint en compte la seva objectivitat, ideologia, intencionalitat, biaixos i caducitat."
+                },
+                {
+                    "code": "4.4",
+                    "description": "Participar, col·laborar i interactuar en espais virtuals de comunicació i plataformes d’aprenentatge col·laboratiu, compartint i publicant informació i dades, adaptant-se a diferents audiències amb una actitud respectuosa, responsable i participativa."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Analitzar l'impacte de les tecnologies digitals a la societat, a partir de la",
+            "description": "Analitzar l'impacte de les tecnologies digitals a la societat, a partir de la identificació dels can is econ mics i socials a escala global, i aplicar les tecnologies emergents per al disseny de solucions a problemes reals tenint en compte els ob ect…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Identificar els canvis econòmics i socials derivats de l’ús de les tecnologies digitals aplicades a diferents àmbits."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Analitzar i valorar l’impacte de les tecnologies digitals en la societat tenint en compte els ODS."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Aplicar les tecnologies emergents en el disseny de solucions a problemes reals tenint en compte els objectius de desenvolupament sostenible. (Intel·ligència artificial, IoT, etc.)."
+                },
+                {
+                    "code": "5.4",
+                    "description": "Analitzar l’ús d’eines de simulació i supercomputadors en el tractament de dades i valorar-ne l’impacte en la societat de la informació i l’aplicació a tecnologies associades."
+                }
+            ]
+        }
+    ]
+}

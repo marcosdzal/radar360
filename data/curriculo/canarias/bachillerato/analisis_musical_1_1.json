@@ -1,0 +1,65 @@
+{
+    "community": "canarias",
+    "stage": "bachillerato",
+    "decree": "Decreto 73\/2023, de 13 de abril",
+    "subject": "analisis_musical_1",
+    "subject_name": "Análisis Musical I",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "(c1) A través de la competencia específica, se profundizará en la comprensión",
+            "description": "(c1) A través de la competencia específica, se profundizará en la comprensión del discurso musical, mediante el análisis de sus elementos y la descripción de sus características, lo que proporcionará al alumnado la posibilidad de enriquecer sus gusto…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar los elementos musicales de una obra mediante escucha activa y partitura para describir su función."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "(c2) Esta competencia específica permitirá establecer conexiones entre la",
+            "description": "(c2) Esta competencia específica permitirá establecer conexiones entre la estructura formal y los procedimientos compositivos de obras diversas, relacionándolas con un género, estilo y contexto de creación determinados, favoreciendo así una visión gl…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Analizar obras musicales con ayuda docente, reconociendo estructura formal y procedimientos compositivos empleados."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "(c3) A través de la competencia específica, se pretende desarrollar el sentido",
+            "description": "(c3) A través de la competencia específica, se pretende desarrollar el sentido crítico y ampliar la capacidad comunicativa del alumnado, a través de la elaboración y difusión de reseñas, comentarios y críticas musicales, utilizando procesos de indaga…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "El alumnado argumenta su opinión personal sobre obras analizadas usando vocabulario musical preciso y fundamentado."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "(c4) Esta competencia específica permitirá aplicar los conocimientos adquiridos",
+            "description": "(c4) Esta competencia específica permitirá aplicar los conocimientos adquiridos en las actividades de análisis en procesos de creación y expresión, a través de la utilización de los procedimientos compositivos fundamentales y el empleo de patrones mu…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Interpretar patrones melódicos, rítmicos, armónicos y formales de obras analizadas mediante la voz, el cuerpo o instrumentos en proyectos grupales."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "(c5) La competencia específica permite trascender el concepto de análisis desde",
+            "description": "(c5) La competencia específica permite trascender el concepto de análisis desde una perspectiva puramente técnica para abordar el vínculo entre la música y las emociones. A través del estudio de sus características se podrá establecer una conexión en…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Analizar las funciones de la música en contextos multidisciplinares y su efecto emocional en el espectador."
+                }
+            ]
+        }
+    ]
+}

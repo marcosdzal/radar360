@@ -1,0 +1,145 @@
+{
+    "community": "pais-vasco",
+    "stage": "bachillerato",
+    "decree": "Decreto 82\/2023, de 13 de junio",
+    "subject": "tecnologia_ingenieria_2",
+    "subject_name": "Tecnología e Ingeniería II",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Coordinar proyectos de investigación con una actitud emprendedora,",
+            "description": "Coordinar proyectos de investigación con una actitud emprendedora, implementando estrategias y técnicas eficientes de resolución de problemas y presentando los resultados de manera adecuada, para crear y mejorar productos y sistemas de manera continu…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Elaborar proyectos de investigación en equipo para mejorar productos de forma continua."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Comunicar y difundir de forma clara y comprensible proyectos elaborados, presentándolos con la documentación técnica necesaria."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Seleccionar materiales",
+            "description": "Seleccionar materiales, aplicando criterios técnicos y de sostenibilidad para fabricar productos de calidad y elaborar estudios de impacto que den respuesta a problemas y tareas planteados con un enfoque ético y responsable.",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Analizar la idoneidad de materiales para fabricar productos sostenibles, estudiando estructura, propiedades y tratamientos de modificación."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Redactar informes de impacto ambiental con argumentación y estructura adecuadas."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Utilizar las posibilidades de las herramientas digitales adecuadas,",
+            "description": "Utilizar las posibilidades de las herramientas digitales adecuadas, configurándolas a sus necesidades y aplicando conocimientos interdisciplinares, para resolver tareas, así como para realizar la presentación de los resultados de una manera óptima.",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Resolver problemas de diseño, simulación, montaje y presentación de proyectos usando herramientas digitales."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Generar conocimientos y mejorar destrezas técnicas, transfiriendo y aplicando",
+            "description": "Generar conocimientos y mejorar destrezas técnicas, transfiriendo y aplicando saberes de otras disciplinas científicas para calcular, resolver problemas o dar respuesta a necesidades de los ámbitos de la ingeniería.",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Diseñar y montar una estructura sencilla, calculando sus cargas y verificando su estabilidad."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Analizar máquinas térmicas (frigoríficas, bombas de calor, motores) mediante simulaciones y cálculos de eficiencia."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Interpretar y solucionar esquemas de sistemas neumáticos e hidráulicos mediante montajes o simulaciones, documentando su funcionamiento."
+                },
+                {
+                    "code": "4.4",
+                    "description": "El alumnado interpreta y resuelve circuitos de corriente alterna identificando sus elementos y comprendiendo su funcionamiento mediante montajes o simulaciones."
+                },
+                {
+                    "code": "4.5",
+                    "description": "Diseñar y probar circuitos digitales combinacionales y secuenciales, físicos o simulados, aplicando fundamentos de electrónica."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Diseñar y crear sistemas tecnológicos",
+            "description": "Diseñar y crear sistemas tecnológicos, aplicando conocimientos de la regulación automática, el control programado y las posibilidades que ofrecen las tecnologías emergentes, para estudiar, controlar y automatizar tareas en sistemas tecnológicos y rob…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Modeliza y simula el funcionamiento de sistemas automáticos de lazo abierto y cerrado, aplicando técnicas de simplificación y analizando su estabilidad."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Analizar y comprender sistemas tecnológicos de los ámbitos de la ingeniería,",
+            "description": "Analizar y comprender sistemas tecnológicos de los ámbitos de la ingeniería, estudiando sus características y valorando el consumo y la eficiencia energética para evaluar el uso responsable y sostenible que se hace de la tecnología.",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Analizar sistemas de ingeniería evaluando eficiencia energética y responsabilidad social y sostenibilidad."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Comunicar las ideas tecnológicas",
+            "description": "Comunicar las ideas tecnológicas, de forma individual y colectiva, empleando el soporte, la terminología y el rigor apropiados, para organizar y consolidar su pensamiento tecnológico.",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Mostrar organización al comunicar las ideas tecnológicas empleando el soporte, la terminología y el rigor apropiados respetando la propiedad intelectual y referenciando la información de manera correcta."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Reconocer y emplear el lenguaje técnico en diferentes contextos, comunicando la información con precisión y rigor."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Utilizar destrezas personales, identificando y gestionando emociones,",
+            "description": "Utilizar destrezas personales, identificando y gestionando emociones, aprendiendo del error como parte del proceso de aprendizaje y afrontar situaciones de incertidumbre para perseverar en la consecución de objetivos, disfrutando con el aprendizaje d…",
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Perseverar en la consecución de objetivos en situaciones de incertidumbre, identificando y gestionando emociones y utilizando el error como parte del proceso de aprendizaje."
+                },
+                {
+                    "code": "8.2",
+                    "description": "Mostrar perseverancia y una motivación positiva, aceptando y aprendiendo de la crítica razonada, al hacer frente a las diferentes situaciones de aprendizaje de la tecnología."
+                }
+            ]
+        },
+        {
+            "code": "CE9",
+            "name": "Mostrar habilidades sociales identificando y apoyando las emociones y",
+            "description": "Mostrar habilidades sociales identificando y apoyando las emociones y experiencias de los demás, gestionar activamente el trabajo en equipos heterogéneos con roles asignados para mantener una identidad positiva como estudiante de tecnología e ingenie…",
+            "criterios": [
+                {
+                    "code": "9.1",
+                    "description": "Participar en tareas tecnológicas de forma activa en equipos heterogéneos, apoyando las emociones y experiencias de los demás e identificando las habilidades sociales más propicias."
+                },
+                {
+                    "code": "9.2",
+                    "description": "Colaborar en el reparto inclusivo de tareas tecnológicas en equipos heterogéneos, escuchando el razonamiento de los demás, aportando al equipo a través del rol asignado y fomentando el bienestar grupal y las relaciones saludables."
+                }
+            ]
+        }
+    ]
+}

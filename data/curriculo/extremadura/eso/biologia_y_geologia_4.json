@@ -1,0 +1,159 @@
+{
+    "community": "extremadura",
+    "stage": "eso",
+    "decree": "Decreto 110\/2022, de 22 de agosto",
+    "subject": "biologia_y_geologia",
+    "subject_name": "Biología y Geología",
+    "grade": 4,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "I nterpretar y transmitir información y datos científicos, argumentando sobre",
+            "description": "I nterpretar y transmitir información y datos científicos, argumentando sobre ellos, utilizando diferentes formatos y analizando conceptos y procesos de las ciencias biológicas y geológicas. El desarrollo científico rara vez es fruto del trabajo de s…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Interpretar y analizar datos científicos en diversos formatos para extraer conclusiones fundamentadas sobre procesos biológicos y geológicos con una actitud crítica."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Comunicar información científica sobre procesos biológicos y geológicos de forma estructurada, empleando terminología técnica precisa y diversos formatos como gráficos, tablas o medios digitales."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Explicar procesos naturales mediante la creación de modelos y diagramas técnicos, aplicando fases de diseño para representar estructuras o fenómenos complejos."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "I dentificar, localizar y seleccionar información, contrastando su veracidad,",
+            "description": "I dentificar, localizar y seleccionar información, contrastando su veracidad, organizándola y evaluándola críticamente, y resolviendo preguntas relacionadas con las ciencias biológicas y geológicas propias de los saberes de la etapa. La investigación…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Buscar y organizar información científica de diversas fuentes para responder preguntas de Biología y Geología, asegurando la correcta citación de las referencias utilizadas."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Diferenciar informaciones científicas de bulos y pseudociencias en temas biológicos o geológicos, aplicando un pensamiento crítico y analizando la fiabilidad de las fuentes utilizadas."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "P lanificar y desarrollar proyectos de investigación, siguiendo los pasos de",
+            "description": "P lanificar y desarrollar proyectos de investigación, siguiendo los pasos de las metodologías propias de la ciencia, cooperando cuando sea necesario, e indagando en aspectos relacionados con las ciencias geológicas y biológicas. El conocimiento cient…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Formular preguntas investigables e hipótesis contrastables sobre procesos naturales, prediciendo resultados posibles mediante la aplicación de metodologías propias del trabajo científico."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Diseñar protocolos experimentales y procedimientos de recogida de datos para resolver problemas científicos y validar hipótesis sobre fenómenos naturales de forma estructurada."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Llevar a cabo experimentos biológicos o geológicos, recolectando datos con precisión mediante el uso correcto de instrumentos y técnicas de laboratorio."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Analizar y explicar el significado de los datos obtenidos en investigaciones científicas, apoyándose en cálculos matemáticos y herramientas digitales para extraer conclusiones válidas."
+                },
+                {
+                    "code": "3.5",
+                    "description": "Cooperar en un proyecto científico asumiendo un rol responsable, usando espacios virtuales y favoreciendo la inclusión y la igualdad."
+                },
+                {
+                    "code": "3.6",
+                    "description": "Valorar la contribución de la ciencia a la sociedad y la labor de las personas dedicadas a ella, destacando el papel de la mujer y entendiendo la investigación como una labor colectiva e interdisciplinar en constante evolución influida por el contexto político y los recursos económicos."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Utilizar el razonamiento y el pensamiento computacional, analizando",
+            "description": "Utilizar el razonamiento y el pensamiento computacional, analizando críticamente las respuestas y soluciones, y reformulando el procedimiento si fuera necesario, resolviendo problemas o dando explicaciones a procesos de la vida cotidiana relacionados…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Resolver problemas y explicar procesos biológicos o geológicos aplicando el razonamiento lógico, el pensamiento computacional y herramientas digitales a partir de datos suministrados."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Evaluar la validez y coherencia de los resultados obtenidos al resolver problemas biológicos o geológicos, detectando errores y proponiendo mejoras si los datos no son lógicos."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Analizar los efectos de determinadas acciones sobre el medioambiente, basándose",
+            "description": "Analizar los efectos de determinadas acciones sobre el medioambiente, basándose en el conocimiento de la estructura, el funcionamiento de los ecosistemas y las características de los seres vivos que proporcionan las ciencias biológicas y de la Tierra…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Analizar cómo las actividades humanas aumentan los riesgos naturales en una zona específica, considerando sus características geográficas, geológicas y los factores socioeconómicos implicados."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Proponer y adoptar hábitos sostenibles mediante el análisis crítico de acciones propias y ajenas basado en conocimientos científicos."
+                },
+                {
+                    "code": "5.3",
+                    "description": "El alumnado propone y adopta hábitos saludables analizando críticamente acciones propias y ajenas a partir de fundamentos fisiológicos."
+                },
+                {
+                    "code": "5.4",
+                    "description": "Defender el uso responsable y la gestión sostenible de los recursos naturales frente a actitudes consumistas y negacionistas, argumentando con criterios científicos sus propuestas."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "I dentificar los factores que influyen en la organización y el funcionamiento",
+            "description": "I dentificar los factores que influyen en la organización y el funcionamiento del cuerpo humano, basándose en los fundamentos de las ciencias biológicas, promoviendo y adoptando hábitos de vida saludables. En la sociedad actual hay una gran inquietud…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Identificar y explicar la importancia de los paisajes locales como patrimonio natural, destacando los elementos vulnerables que requieren medidas de conservación específicas."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Analizar los elementos de un paisaje para explicar los impactos ambientales y los riesgos naturales que se derivan de la intervención humana en el entorno."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Identificar y explicar los riesgos geológicos y meteorológicos de un entorno específico a partir de la observación de sus elementos y relieve."
+                },
+                {
+                    "code": "6.4",
+                    "description": "Reconocer las aplicaciones de la ingeniería genética, la biotecnología y la tecnología del ADN recombinante en los diferentes ámbitos de la vida de las personas valorando su importancia en la salud."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Analizar los elementos de un paisaje concreto valorándolo como patrimonio",
+            "description": "Analizar los elementos de un paisaje concreto valorándolo como patrimonio natural y utilizando conocimientos sobre geología, biología y ciencias de la Tierra, explicando la historia y la dinámica del relieve e identificando posibles riesgos naturales…",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Identificar los posibles riesgos naturales potenciados por determinadas acciones humanas sobre una zona geográfica, teniendo en cuenta sus características litológicas, relieve, vegetación y factores socioeconómicos."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Deducir y explicar la historia geológica de un relieve identificando sus elementos más relevantes a partir de cortes, mapas u otros sistemas de información geológica y utilizando el razonamiento, los principios geológicos básicos (horizontalidad, superposición, actualismo, etc.) y las teorías geológicas más relevantes."
+                },
+                {
+                    "code": "7.3",
+                    "description": "Describir el origen del universo y los componentes del sistema solar, analizando los movimientos del sistema Sol-Tierra-Luna y sus repercusiones sobre la Tierra."
+                },
+                {
+                    "code": "7.4",
+                    "description": "Analizar las distintas hipótesis sobre el origen de la vida en la Tierra, argumentando el grado de validez de cada una de las teorías existentes y la posibilidad de vida en el resto del universo."
+                }
+            ]
+        }
+    ]
+}

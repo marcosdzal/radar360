@@ -1,0 +1,124 @@
+{
+    "community": "comunidad-valenciana",
+    "stage": "bachillerato",
+    "decree": "Decreto 108\/2022, de 5 de agosto",
+    "subject": "filosofia",
+    "subject_name": "Historia de la Filosofía",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Identificar les diferents concepcions filosòfiques que s’han formulat al llarg",
+            "description": "Identificar les diferents concepcions filosòfiques que s’han formulat al llarg de la història, explicar-ne les idees principals i comparar-les, mitjançant l’aproximació a les fonts i el treball crític",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Interpretar y comparar fuentes filosóficas contextualizadas para elaborar producciones propias"
+                },
+                {
+                    "code": "1.2",
+                    "description": "El alumno elabora y presenta trabajos de investigación sobre problemas histórico-filosóficos, construyendo juicios propios y aplicando protocolos de manera individual o cooperativa."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Relacionar les diferents teories filosòfiques estudiades amb el present."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Buscar, analitzar i interpretar informació relativa a problemes",
+            "description": "Buscar, analitzar i interpretar informació relativa a problemes històrico-filosòfics des d’una actitud reflexiva autònoma, rigorosa i creativa",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Emplear argumentos rigurosos aplicando normas lógicas y retóricas, evitando dogmatismos y falacias."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Mantener un diálogo filosófico argumentativo, empático y respetuoso en actividades colaborativas."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Exposar de manera rigorosa i autònoma el resultat de la cerca, les posicions històriques respecte als problemes filosòfics i les reflexions que es produeixen arran de l’elaboració de la informació."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Argumentar de manera rigorosa i constructiva a l’hora d’expressar teories i",
+            "description": "Argumentar de manera rigorosa i constructiva a l’hora d’expressar teories i idees relacionades amb problemes històrico-filosòfics",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Analizar las principales propuestas filosóficas históricas, indagando en sus fuentes e identificando las preguntas que intentan responder."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Analizar y debatir críticamente problemas filosóficos a través del comentario de textos."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Identificar i analitzar críticament els usos dogmàtics i esbiaixats dels arguments de la història de la filosofia."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Utilitzar un llenguatge oral i escrit inclusiu i igualitari en qualsevol situació d’aprenentatge."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Identificar en els problemes actuals la presència dels interrogants i",
+            "description": "Identificar en els problemes actuals la presència dels interrogants i reflexions plantejats a través de la història de la filosofia",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Elaborar una visión compleja de la historia de la filosofía comparando y contrastando tesis de diferentes filósofos o escuelas."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Comparar les respostes donades al llarg de la història amb les respostes actuals als mateixos problemes."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Analitzar críticament i qüestionar la legitimitat de les idees, valors i",
+            "description": "Analitzar críticament i qüestionar la legitimitat de les idees, valors i concepcions del món que ens arriben des de la història de la filosofia i donar visibilitat a aquelles que no s’han atés",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Analizar cómo los problemas filosóficos surgen y evolucionan en distintos contextos históricos mediante el examen crítico de condiciones culturales."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Compara el tratamiento de problemas filosóficos en distintas épocas y autores mediante esquemas u otros productos."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Comparar i explicar les diferències entre les idees i valors que han sigut silenciats en la història de la filosofia i aquells considerats com canònics."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Identificar i analitzar els principals problemes ètics i polítics plantejats al",
+            "description": "Identificar i analitzar els principals problemes ètics i polítics plantejats al llarg de la història del pensament occidental i posar-los en relació amb els conflictes ètics i polítics actuals i les diferents maneres d’abordar-los i de reaccionar-hi",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Comparar textos de distintos ámbitos culturales para apreciar las relaciones entre filosofía y otras manifestaciones culturales."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Analitzar i explicar els problemes plantejats en els textos des d’una perspectiva històricament contextualitzada."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Relacionar els arguments i reflexions sobre els problemes ètics i polítics del passat amb la resolució racional dels problemes actuals."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "community": "baleares",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "educacion_fisica_alt",
+    "subject_name": "Educació Física",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Interioritzar el desenvolupament d'un estil de vida actiu i saludable,",
+            "description": "interioritzar el desenvolupament d'un estil de vida actiu i saludable, planificant de manera responsable i conscient la seva activitat física a partir de l'autoavaluació personal sobre la base de paràmetres científics i avaluables, per satisfer les s…",
+            "criterios": [
+                {
+                    "code": "CA1.1",
+                    "description": "Planificar, elaborar i posar en pràctica de manera autònoma un programa personal d'activitat física dirigit a la millora o al manteniment de la salut, aplicant els diferents sistemes de desenvolupament de les capacitats físiques implicades, segons les necessitats i interessos individuals i respectant la pròpia realitat i identitat corporal i avaluar els resultats obtinguts. Planificar, elaborar, posar en pràctica i avaluar un programa personal d'exercici físic dirigit a la millora o al manteniment de la salut de manera autònoma. Aplicar els diferents sistemes de desenvolupament de les capacitats físiques implicades en el programa. Adaptar la pràctica de l'exercici físic a les necessitats i interessos individuals, respectant la pròpia realitat i identitat."
+                },
+                {
+                    "code": "CA1.2",
+                    "description": "Incorporar de manera autònoma, segons les preferències personals, els processos d'activació corporal, autoregulació, alimentació saludable, educació postural i relaxació durant la pràctica d'activitats motrius, reflexionant sobre la relació amb possibles estudis posteriors. Incorporar de manera autònoma els processos d'activació corporal i de tornada a la calma. Incorporar de manera autònoma els processos d'autoregulació durant la pràctica d'activitats motrius. Incorporar de manera autònoma pautes d'alimentació saludable. Incorporar de manera autònoma coneixements sobre educació postural. Incorporar de manera autònoma tècniques de relaxació."
+                },
+                {
+                    "code": "CA1.3",
+                    "description": "Conèixer i aplicar de manera responsable mesures específiques per a la prevenció de lesions abans, durant i després de l'activitat física, com també per a l'aplicació de primers auxilis davant situacions d'emergència o accident. Aplicar mesures per a la prevenció de lesions en la pràctica d'exercici físic. Conèixer i aplicar mesures de primers auxilis davant situacions simulades d'emergència o accident."
+                },
+                {
+                    "code": "CA1.4",
+                    "description": "Actuar de manera crítica, compromesa i responsable davant els estereotips socials associats a l'àmbit del corporal i els comportaments que posin en risc la salut."
+                },
+                {
+                    "code": "CA1.5",
+                    "description": "Emprar de manera autònoma aplicacions i dispositius digitals relacionats amb la gestió de l'activitat física i respectar la privacitat i les mesures bàsiques de seguretat vinculades a la difusió pública de dades personals."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Adaptar autonomament les capacitats fisiques, perceptives, motrius i",
+            "description": "adaptar autonomament les capacitats fisiques, perceptives, motrius i coordinatives com també les habilitats i destreses motrius específiques d'algunes modalitats practicades a diferents situacions amb diferents nivells de dificultat, i consolidar act…",
+            "criterios": [
+                {
+                    "code": "CA2.1",
+                    "description": "Desenvolupar projectes motors de caràcter individual, cooperatiu o col·laboratiu, gestionant autònomament qualsevol imprevist o situació que pugui sorgir durant el procés de manera eficient i ajustada als objectius que es pretenguin aconseguir. Desenvolupar projectes motors de caràcter individual, gestionant autònomament qualsevol imprevist que pugui sorgir al llarg del procés de manera eficient i ajustada als objectius que es pretenguin aconseguir. Desenvolupar projectes motors de caràcter cooperatiu o col·laboratiu, gestionant autònomament qualsevol imprevist que pugui sorgir al llarg del procés de manera eficient i ajustada als objectius que es pretenguin aconseguir."
+                },
+                {
+                    "code": "CA2.2",
+                    "description": "Solucionar de manera autònoma situacions d'oposició, col·laboració o col·laboració-oposició en contextos esportius o recreatius amb fluïdesa, precisió i control."
+                },
+                {
+                    "code": "CA2.3",
+                    "description": "Identificar, analitzar i comprendre els factors clau que condicionen la intervenció dels components qualitatius i quantitatius de la motricitat en la realització de gests tècnics o situacions motrius variades, identificar errors comuns i proposar solucions."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Difondre i promoure noves practiques motrius i compartir espais d'activitat",
+            "description": "difondre i promoure noves practiques motrius i compartir espais d'activitat fisicoesportiva amb independència de les diferències culturals, socials, de gènere i d'habilitat, prioritzant el respecte cap als participants i a les regles sobre els result…",
+            "criterios": [
+                {
+                    "code": "CA3.1",
+                    "description": "Organitzar i practicar diverses activitats motrius, valorant-ne el potencial com a possible sortida professional i analitzant els beneficis des de la perspectiva de la salut i les possibilitats d'interacció social. Organitzar i practicar diverses activitats motrius i valorar-ne el potencial com a possible sortida professional. Analitzar els beneficis de les activitats motrius des de la perspectiva de la salut i les possibilitats d'interacció social."
+                },
+                {
+                    "code": "CA3.2",
+                    "description": "Cooperar o col·laborar mostrant iniciativa durant el desenvolupament de projectes i produccions motrius, solucionant de manera coordinada qualsevol imprevist o situació que pugui sorgir durant el procés. Cooperar mostrant iniciativa durant el desenvolupament de projectes i produccions motrius, solucionant de manera coordinada qualsevol imprevist que pugui sorgir."
+                },
+                {
+                    "code": "CA3.3",
+                    "description": "Establir mecanismes de relació i entesa amb la resta de participants durant el desenvolupament de diverses pràctiques motrius amb autonomia, fent ús efectiu d'habilitats socials de diàleg en la resolució de conflictes i respecte davant la diversitat. Entendre's amb la resta de participants durant el desenvolupament de diverses pràctiques motrius amb autonomia. Fer ús efectiu d'habilitats socials de diàleg en la resolució de conflictes i respecte davant la diversitat."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Analitzar criticament i investigar sobre les practiques i manifestacions",
+            "description": "analitzar criticament i investigar sobre les practiques i manifestacions culturals vinculades amb la motricitat segons el seu origen i evolució des de la perspectiva de gènere i des dels interessos econòmics, polítics i socials que n'hagin condiciona…",
+            "criterios": [
+                {
+                    "code": "CA4.1",
+                    "description": "Comprendre i contextualitzar la influència cultural i social de les manifestacions motrius més rellevants en el panorama actual, analitzant els orígens i l'evolució fins a l'actualitat i rebutjant els components que no s'ajustin als valors d'una societat oberta, inclusiva, diversa i igualitària. Comprendre la influència cultural i social de les manifestacions motrius més rellevants en el panorama actual, analitzant-ne els orígens i l'evolució fins a l'actualitat."
+                },
+                {
+                    "code": "CA4.2",
+                    "description": "Crear i representar composicions corporals individuals o col·lectives, amb i sense base musical, aplicant les més apropiades a cada composició per representar-les davant els companys o altres membres de la comunitat. Crear i representar, davant els companys o altres membres de la comunitat, composicions corporals individuals o col·lectives, amb i sense base musical i aplicar amb precisió, idoneïtat i coordinació escènica les tècniques expressives més apropiades."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Implementar un estil de vida sostenible i compromes amb la conservacio i",
+            "description": "implementar un estil de vida sostenible i compromes amb la conservacio i millora de l'entorn, organitzar i desenvolupar accions de servei a la comunitat vinculades a l'activitat física i a l'esport i assumir responsabilitats en la seguretat de les pr…",
+            "criterios": [
+                {
+                    "code": "CA5.1",
+                    "description": "Promoure i participar en activitats fisicoesportives en entorns naturals terrestres o aquàtics, interactuant amb l'entorn de manera sostenible, minimitzant l'impacte ambiental que aquestes puguin produir, reduint al màxim la petjada ecològica i desenvolupant actuacions dirigides a la conservació i millora de les condicions dels espais en els quals es desenvolupin. Promoure i participar en activitats fisicoesportives en entorns urbans i naturals, terrestres o aquàtics. Minimitzar l'impacte de les activitats fisicoesportives a l'entorn natural, mostrant consciència de la petjada ecològica. Desenvolupar actuacions dirigides a la conservació i millora de les condicions dels espais naturals o urbans on desenvolupin activitats fisicoesportives."
+                },
+                {
+                    "code": "CA5.2",
+                    "description": "Practicar i organitzar activitats fisicoesportives en derivats de la utilització dels equipaments, l'entorn o la pròpia actuació dels participants. Practicar i organitzar activitats fisicoesportives en el medi natural i urbà assumint responsabilitats. Preveure els riscs de la pròpia activitat i de la utilització d'equipaments, l'entorn o l'actuació dels participants. Aplicar les normes de seguretat individuals i col·lectives a les activitats físicoesportives practicades en el medi natural i urbà."
+                }
+            ]
+        }
+    ]
+}

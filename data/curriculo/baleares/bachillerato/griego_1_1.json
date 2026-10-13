@@ -1,0 +1,134 @@
+{
+    "community": "baleares",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "griego_1",
+    "subject_name": "Griego I",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Valorar els moviments i accions que han promogut les llibertats en la història",
+            "description": "Valorar els moviments i accions que han promogut les llibertats en la història d'Espanya, utilitzant termes i conceptes històrics, a través de l'anàlisi comparada dels diferents règims polítics, per reconèixer el llegat democràtic de la Constitució d…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Traducir textos griegos con corrección, identificando unidades lingüísticas y comparando con otras lenguas."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Seleccionar el significado adecuado de palabras polisémicas y justificarlo con contexto y herramientas."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Reconèixer i valorar la diversitat identitària del nostre país, per mitjà del",
+            "description": "Reconèixer i valorar la diversitat identitària del nostre país, per mitjà del contrast de la informació i la revisió crítica de fonts, prenent consciència del paper que juga en l'actualitat, per respectar els sentiments de pertinença, l'existència d'…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Deducir el significado etimológico de términos de uso común y especializado aplicando estrategias de reconocimiento de étimos y formantes griegos con atención a cambios fonéticos, morfológicos o semánticos."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Explica, guiado, la relación del griego con lenguas modernas analizando elementos lingüísticos comunes."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Analitzar i valorar la idea de progrés des de la perspectiva del benestar",
+            "description": "Analitzar i valorar la idea de progrés des de la perspectiva del benestar social i de la sostenibilitat, a través de la interpretació dels factors modernitzadors de l'economia espanyola, l'ús de mètodes quantitatius i l'anàlisi crítica de les desigua…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Interpretar y comentar textos griegos guiados, movilizando experiencia personal y comprensión del mundo para desarrollar sensibilidad estética."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Comparar obras griegas con posteriores para identificar géneros, temas, tópicos y valores ético-estéticos."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Prendre consciència de la diversitat social a través de l'anàlisi",
+            "description": "Prendre consciència de la diversitat social a través de l'anàlisi multidisciplinària dels canvis i continuïtats de la societat espanyola al llarg del temps, l'evolució de la població, els nivells i maneres de vida, les condicions laborals i els movim…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Explicar y comparar procesos históricos, instituciones y costumbres griegas con las actuales, valorando cambios y derechos humanos."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Debatir sobre el legado griego en la sociedad actual usando estrategias retóricas, contrastando información y mostrando respeto por otras opiniones."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Elaborar trabajos de investigación autónoma sobre el legado griego usando fuentes fiables y respetando la propiedad intelectual."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Analitzar críticament el paper de les creences i de les ideologies en",
+            "description": "Analitzar críticament el paper de les creences i de les ideologies en l'articulació social, en l'ús del poder i en la configuració d'identitats i projectes polítics contraposats, a través de l'estudi de fonts primàries i textos historiogràfics i la f…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Analizar cómo el legado griego inspira producciones culturales y artísticas posteriores, identificando y explicando elementos materiales e inmateriales."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Investigar de forma guiada el legado griego, valorando su preservación y sostenibilidad."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Analizar el legado griego en el entorno aplicando conocimientos y reflexionando sobre su pervivencia; presentar resultados en soportes variados."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Interpretar el valor geoestratègic d'Espanya i la seva connexió amb la història",
+            "description": "Interpretar el valor geoestratègic d'Espanya i la seva connexió amb la història mundial, assenyalant les analogies i singularitats de l'evolució històrica en un context global canviant, per mitjà de la cerca i el tractament d'informació, per avalar e…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Assenyalar els reptes globals i els principals compromisos de l'Estat espanyol en l'esfera internacional, així com els que es deriven de la seva integració a la Unió Europea, a través de processos de cerca, selecció i tractament de la informació, així com del reconeixement dels valors de la cooperació, la seguretat nacional i internacional, la sostenibilitat, la solidaritat, l'europeisme i l'exercici d'una ciutadania ètica digital."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Reconèixer el valor geoestratègic de la península Ibèrica, identificant el ric llegat històric i cultural generat arran de la seva connexió amb processos històrics rellevants, caracteritzant les especificitats i singularitats de la seva evolució respecte a altres països europeus i els estereotips associats a aquestes, així com la influència de les relacions internacionals."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Incorporar la perspectiva de gènere en l'anàlisi de l'Espanya actual i de la",
+            "description": "Incorporar la perspectiva de gènere en l'anàlisi de l'Espanya actual i de la seva història, a través de la contextualització històrica de fonts literàries i artístiques i la recerca sobre el moviment feminista, per reconèixer la seva presència en la …",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Introduir la perspectiva de gènere en l'observació i anàlisi de la realitat històrica i actual, identificant els mecanismes de dominació que han generat i mantingut la desigualtat entre homes i dones, així com els rols assignats i els espais d'activitat ocupats tradicionalment per la dona."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Constatar el paper relegat de la dona en la història analitzant fonts literàries i artístiques, valorant les accions en favor de l'emancipació de la dona i del moviment feminista i recuperant figures individuals i col·lectives com a protagonistes silenciades i omeses de la història. -"
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Valorar el patrimoni històric i cultural com a llegat i expressió de la memòria",
+            "description": "Valorar el patrimoni històric i cultural com a llegat i expressió de la memòria col·lectiva, identificant els significats i usos públics que reben determinats esdeveniments i processos del",
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Fer treballs d'indagació i recerca, iniciant-se en la metodologia històrica i la historiografia, mitjançant la generació de productes relacionats amb la memòria col·lectiva sobre esdeveniments, personatges o elements patrimonials d'interès social o cultural de l'entorn local, considerant el patrimoni històric com un bé comú que s'ha de protegir."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "community": "baleares",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "geografia_e_historia_hist_ria_de_l_039_art",
+    "subject_name": "Història de l&#039;Art",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Identificar diferents concepcions de l'art al llarg de la historia,",
+            "description": "identificar diferents concepcions de l'art al llarg de la historia, seleccionant i analitzant informació de manera crítica, per valorar la diversitat de manifestacions artístiques com a producte de la creativitat humana i fomentar el respecte per aqu…",
+            "criterios": [
+                {
+                    "code": "CA1.1",
+                    "description": "Valorar i respectar la diversitat de manifestacions artístiques a partir de la recerca i el debat entorn de les diferents concepcions de l'art i l'anàlisi d'obres concretes sobre les quals comprovar la pertinència d'aquestes concepcions. Treballar a partir de totes les estratègies i processos relacionats amb la recerca, selecció, tractament i anàlisi de la informació. Analitzar de manera crítica les fonts, recollint les dades amb precisió i de manera contrastada i rigorosa. Elaborar síntesis, resums, informes, ressenyes o reelaboracions pròpies a través dels quals organitzar, interioritzar i comunicar l'après de manera precisa i creativa. Comprendre l'evolució del significat dels conceptes fonamentals de la matèria, començant per la noció d' obra d'art. Reconèixer la diversitat i heterogeneïtat, tant diacrònica com sincrònica dels criteris estètics, identificant aquells que són propis a diferents cultures, societats i artistes, especialment amb les formes d'expressió sorgides en l'àmbit de l'art contemporani, com ara el còmic, l'art urbà, el videoart o l'art digital, entre d'altres."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Reconeixer els diversos llenguatges artistics com una forma de comunicacio i",
+            "description": "reconeixer els diversos llenguatges artistics com una forma de comunicacio i expressio d'idees, desigs i emocions, utilitzant amb correcció la terminologia i el vocabulari específic de la matèria, per expressar amb coherència i fluïdesa els judicis i…",
+            "criterios": [
+                {
+                    "code": "CA2.1",
+                    "description": "Elaborar i expressar amb coherència i fluïdesa judicis i emocions propis sobre les obres d'art i mostrar respecte i empatia pels judicis i expressions dels altres, utilitzant la terminologia i el vocabulari específic de la matèria i demostrant el coneixement bàsic dels diversos llenguatges artístics apresos. Reconèixer els diversos llenguatges artístics com una forma de comunicació i expressió estètica, amb regles i pautes pròpies, d'acord amb cada època, cultura, gènere, estil o artista individual. Comprendre que l'experiència artística precisa, del coneixement previ de les característiques representatives que corresponen a cada moviment artístic i, de manera més concreta, a cada artista. Utilitzar amb propietat i correcció la terminologia i el vocabulari propis de la matèria. Realitzar comentaris artístics, treballs de recerca o reflexions personals, amb fluïdesa i rigor, tant en formats digitals com en d'altres més tradicionals."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Distingir les diferents funcions de l'art al llarg de la historia, analitzant",
+            "description": "distingir les diferents funcions de l'art al llarg de la historia, analitzant la dimensio religiosa, ideològica, política, social, econòmica, expressiva i pròpiament estètica de l'obra d'art, de la seva producció i la seva percepció, per promoure l'a…",
+            "criterios": [
+                {
+                    "code": "CA3.1",
+                    "description": "Distingir i analitzar les funcions i les dimensions religiosa, ideològica, política, social, econòmica, expressiva i pròpiament estètica de les obres d'art, demostrant la comprensió i el judici crític i fonamentat d'elles i de la seva producció i la seva percepció. Identificar i contextualitzar històricament les relacions complexes entre la producció artística i les diferents mentalitats, interessos entre grups de poder i\/o les diferents classes i grups socials, especialment avui en dia en una societat impregnada per la cultura audiovisual. Comprendre la producció i percepció artística com un procés històric complex, vinculat a diferents contextos, intencions i funcionalitats que resulten finalment plasmades en la pròpia obra d'art."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Identificar i caracteritzar els principals moviments artistics al llarg de la",
+            "description": "identificar i caracteritzar els principals moviments artistics al llarg de la historia, reconeixent les relacions d'influència, préstec, continuïtat i ruptura que es produeixen entre ells, per comprendre els mecanismes que regeixen l'evolució de la h…",
+            "criterios": [
+                {
+                    "code": "CA4.1",
+                    "description": "Conèixer i explicar les principals manifestacions i moviments artístics, identificant i analitzant el seu context cultural, la vinculació amb les funcions atribuïbles a l'art, les característiques estilístiques fonamentals i el desenvolupament en el temps. Adquirir una visió general sobre les diferents etapes i moviments que conformen la història de l'art. Reconèixer els seus trets essencials, establint relacions entre ells, identificant semblances i diferències, sistematitzant de manera crítica la informació bàsica al voltant de les diferents manifestacions artístiques. Analitzar de manera transversal les funcions, valors i significats atribuïbles a la creació i l'experiència artística."
+                },
+                {
+                    "code": "CA4.2",
+                    "description": "Reconèixer els mecanismes que regeixen l'evolució de la història de l'art a partir de l'anàlisi comparativa d'obres de diverses èpoques i de l'explicació de les relacions d'influència, préstecs, continuïtat i ruptura que es produeixen entre estils, autors i moviments. Reconèixer les relacions d'influència i els mecanismes de reproducció que fan que un moviment artístic es perllongui en el temps com passa, per exemple, en la relació entre l'art grec i el romà, que perduri en si mateix, com l'art islàmic, o que, una ruptura, pugui donar lloc a un moviment nou, com és el cas del Neoclassicisme i el Romanticisme. Entendre per què a un estil el segueix un altre, moltes vegades contraposat, o per què dos estils conviuen en el temps. Identificar les contínues influències que es donen entre el passat i el present, reprenent-se en ocasions o trencant, en altres casos, amb el passat, per donar lloc, de forma progressiva o més abrupta, a nous moviments artístics."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Identificar i contextualitzar en l'espai i el temps les manifestacions i",
+            "description": "identificar i contextualitzar en l'espai i el temps les manifestacions i personalitats artístiques més rellevants, analitzant-ne l'entorn social, polític i cultural i els seus aspectes biogràfics, per valorar les obres i els seus artistes com a expre…",
+            "criterios": [
+                {
+                    "code": "CA5.1",
+                    "description": "Elaborar comentaris historicoartístics de diferents obres d'art a partir del coneixement crític i argumentat del seu context històric, les seves funcions i la seva rellevància social, política i cultural, valorant i respectant diferents obres i formes de manifestacions artístiques. Identificar i analitzar les obres més significatives dels diferents artistes i moviments artístics, especialment aquelles que, per la significació i la repercussió al llarg del temps, han marcat una fita en la història de l'art. Fomentar una visió global, lliure de prejudicis de caràcter ideològic, eurocèntric, sexista o, en general, discriminatori, que suposin un biaix injustificat."
+                },
+                {
+                    "code": "CA5.2",
+                    "description": "Identificar i analitzar la complexitat del procés de creació artística, elaborant ressenyes biogràfiques sobre les figures més destacades i atesos aquells aspectes personals que facilitin la comprensió del significat i valor de l'obra, prenent consciència del paper de l'artista en el procés creador. Entendre les creacions artístiques com a expressió de l'activitat humana i les seves circumstàncies en determinada cultura i moments històrics, tenint en compte el context sociocultural i la biografia de l'autor. Analitzar l'obra d'art com a document per entendre el context històric que la va generar."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Coneixer i valorar el patrimoni artistic en l'ambit local, nacional i mundial,",
+            "description": "coneixer i valorar el patrimoni artistic en l'ambit local, nacional i mundial, analitzant exemples concrets del seu aprofitament i les seves funcions, per contribuir a la conservació, l'ús compromès a favor de la consecució dels objectius de desenvol…",
+            "criterios": [
+                {
+                    "code": "CA6.1",
+                    "description": "Comprendre la importància de la conservació i promoció del patrimoni artístic, investigant sobre els processos d'adquisició, conservació, exhibició i ús sostenible d'obres d'art, com també sobre l'impacte positiu i negatiu de les accions humanes sobre elles. Reconèixer el patrimoni artístic com un element que ens han llegat les generacions passades, com també, la necessitat de conservar-lo, el seu ús sostenible i promocionar-la. Valorar a través de l'anàlisi detallada de casos concrets, el valor simbòlic i la importància social, ambiental i material del patrimoni artístic i cultural. Entendre la complexitat del treball dels professionals encarregats de mantenir-lo, com també les repercussions ecosocials que suposa conservar-lo i posar-lo en valor. Conèixer el patrimoni de les Illes Balears i el seu valor com a document històric."
+                },
+                {
+                    "code": "CA6.2",
+                    "description": "Analitzar el paper conformador de la identitat individual i col·lectiva que posseeixen l'art i el patrimoni artístic, analitzant les autorepresentacions humanes i l'ús de recursos estètics i iconogràfics en la generació i manteniment dels vincles grupals. Reflexionar de forma crítica i dialogada sobre el paper de l'art en l'expressió de les identitats i dels sentiments de pertinença. Reconèixer la instrumentalització del elements visuals, icònics i simbòlics que defineixen la singularitats i\/o les creences col·lectives."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Distingir i descriure els canvis estetics i els diferents canons de bellesa al",
+            "description": "distingir i descriure els canvis estetics i els diferents canons de bellesa al llarg de la història de l'art, realitzant anàlisis comparatives entre obres de diversos estils, èpoques i llocs, per formar-se una imatge ajustada de si mateix i consolida…",
+            "criterios": [
+                {
+                    "code": "CA7.1",
+                    "description": "Elaborar arguments propis sobre la noció de bellesa, comparant cànons i obres de diversos tipus, estils, èpoques i llocs, apreciant la diversitat com a font d'enriquiment, superant estereotips i prejudicis i promovent la formació d'una imatge ajustada de si mateix. Reflexionar sobre les diferents formes de representació humana al llarg del temps. Analitzar gèneres com el retrat i altres, entenent la psicologia i la mirada interior dels personatges, com també la diversitat de models. Relacionar el concepte de bellesa i els seus oposats amb l'evolució històrica. Reconèixer com han canviat la idea de bellesa i els cànons de valoració estètica, adquirint una concepció complexa i no dogmàtica de les idees estètiques i promoure el desenvolupament del criteri i del gust propis. Contribuir a la percepció adequada de la pròpia imatge física, reconeixent la diversitat humana i rebutjant tota mena de prejudicis i estereotips discriminatoris."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Integrar la perspectiva de genere en l'estudi de la historia de l'art,",
+            "description": "integrar la perspectiva de genere en l'estudi de la historia de l'art, analitzant el paper que ha ocupat la dona i la imatge que se n'ha donat en els diferents estils i moviments artístics, per visibilitzar a les artistes i promoure la igualtat efect…",
+            "criterios": [
+                {
+                    "code": "CA8.1",
+                    "description": "Conèixer les principals figures femenines de la història de l'art, donant visibilitat a la dona com a artista, analitzant el context polític, social i cultural en el qual van desenvolupar la seva producció artística i reconeixent el seu esforç per fer-s'hi valer. Recuperar i valorar aquelles figures artístiques que han estat injustificadament marginades del cànon de l'art per la seva condició de dona. Relacionar la producció artística amb el context històric i sociocultural en què es va desenvolupar, com també, els motius de l'oblit. Incloure qualque exemple de les Illes Balears."
+                },
+                {
+                    "code": "CA8.2",
+                    "description": "Conèixer i analitzar críticament la imatge que s'ha donat de la dona en la història de l'art mitjançant l'anàlisi comparativa d'obres de diferents èpoques i cultures en les quals es representin figures, rols, símbols i temes relacionats amb la feminitat. Reconèixer els estereotips i símbols relacionats amb la dona i l' àmbit femení. Comprendre les relacions entre ambdós sexes al llarg de la historia a partir d'una anàlisi comparativa de les diferents èpoques. Promoure el rebuig cap al sexisme i la discriminació de la dona. Analitzar de manera crítica les representacions que funcionen com a generadores d'acceptació dels rols femenins."
+                }
+            ]
+        }
+    ]
+}

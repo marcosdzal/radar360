@@ -1,0 +1,203 @@
+{
+    "community": "madrid",
+    "stage": "eso",
+    "decree": "Decreto 65/2022, de 20 de julio",
+    "subject": "geografia_e_historia",
+    "subject_name": "Geografía e Historia",
+    "grade": 3,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Buscar, seleccionar, tratar y organizar información sobre",
+            "description": "Buscar, seleccionar, tratar y organizar información sobre temas relevantes del presente y del pasado, usando críticamente fuentes históricas y geográficas, para adquirir conocimientos, elaborar y expresar contenidos en varios formatos.",
+            "descriptors": [
+                "CCL2",
+                "CCL3",
+                "STEM4",
+                "CD1",
+                "CD2",
+                "CC1"
+            ],
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Establecer conexiones y relaciones entre los conocimientos e informaciones adquiridos, elaborando síntesis interpretativas y explicativas, mediante informes, estudios o dosieres informativos que incluyan esquemas cronológicos yque reflejen un dominio y consolidación de los contenidos tratados."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Transferir adecuadamente la información y el conocimiento por medio de narraciones, pósteres, presentaciones, exposiciones orales, medios audiovisuales y otros trabajos."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Indagar, argumentar y elaborar productos propios sobre",
+            "description": "Indagar, argumentar y elaborar productos propios sobre problemas geográficos, históricos y sociales que resulten relevantes en la actualidad.",
+            "descriptors": [
+                "CCL1",
+                "CCL2",
+                "CD2",
+                "CC1",
+                "CC3",
+                "CE3",
+                "CCEC3"
+            ],
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Elaborar trabajos originales y creativos mediante la reelaboración de conocimientos previos a través de herramientas de investigación que permitan explicar los grandes problemas económicos actuales de la humanidad y los propios de los siglos XVIII y XIX a distintas escalas, utilizando conceptos, situaciones y datos relevantes."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Conocer los principales desafíos a los que se han",
+            "description": "Conocer los principales desafíos a los que se han enfrentado distintas sociedades a lo largo del tiempo, identificando las causas y consecuencias de los cambios producidos y los problemas a los que se enfrentan en la actualidad, mediante el desarrollo de proyectos de investigación y el uso de fuentes fiables.",
+            "descriptors": [
+                "STEM3",
+                "STEM4",
+                "STEM5",
+                "CPSAA3",
+                "CC3",
+                "CC4",
+                "CE1",
+                "CCEC1"
+            ],
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Adquirir conocimiento relevante de las estructuras y actividades económicas de España, de Europa y del mundo, utilizando términos y conceptos técnicos apropiados y ofreciendo soluciones a los desequilibrios generados en la actualidad."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Conocer los Objetivos de Desarrollo Sostenible, realizando propuestas que contribuyan a su logro, aplicando métodos y proyectos de investigación, incidiendo en el uso de mapas y otras representaciones gráficas, así como de medios accesibles de interpretación de imágenes."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Entender y afrontar, problemas y desafíos pasados, actuales o futuros de las sociedades contemporáneas teniendo en cuenta sus relaciones de interdependencia."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Utilizar secuencias cronológicas complejas en las que identificar, comparar y relacionar hechos y procesos ocurridos en diferentes períodos y lugares históricos (simultaneidad, duración, causalidad), utilizando fechas y siglos, términos y conceptos específicos del ámbito de la Historia y de la Geografía."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Identificar y analizar los elementos del paisaje y su",
+            "description": "Identificar y analizar los elementos del paisaje y su articulación en sistemas complejos naturales, rurales y urbanos, así como su evolución en el tiempo, interpretando las causas de las transformaciones y valorando el grado de equilibrio existente en los distintos ecosistemas, para promover su conservación, mejora y uso sostenible.",
+            "descriptors": [
+                "CPSAA2",
+                "CC1",
+                "CC2",
+                "CC3",
+                "CC4",
+                "CE1"
+            ],
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Idear y adoptar, cuando sea posible, comportamientos y acciones que contribuyan a la conservación del patrimonio y a la mejora del entorno natural, rural y urbano."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Analizar de forma crítica planteamientos históricos y",
+            "description": "Analizar de forma crítica planteamientos históricos y geográficos explicando la construcción de los sistemas democráticos y los principios constitucionales que rigen la vida en comunidad, así como asumiendo los deberes y derechos propios de nuestro marco de convivencia, para promover la participación ciudadana y la cohesión social.",
+            "descriptors": [
+                "CCL5",
+                "CC1",
+                "CC2",
+                "CCEC1"
+            ],
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Reconocer los movimientos y causas que defendieron la libertad a lo largo del siglo XIX."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Identificar, interpretar y analizar los mecanismos que han regulado y la vida en común a lo largo del siglo XVIII y XIX, señalando los principales modelos de organización social, política y económica y caracterizando los movimientos culturales, intelectuales y artísticos más destacados."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Comprender los procesos geográficos, históricos y",
+            "description": "Comprender los procesos geográficos, históricos y culturales que han conformado la realidad multicultural en la que vivimos, conociendo y difundiendo la historia y cultura de las minorías étnicas presentes en nuestro país y valorando sus aportaciones.",
+            "descriptors": [
+                "CCL5",
+                "CPSAA3",
+                "CC1",
+                "CC2",
+                "CC3",
+                "CCEC1"
+            ],
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "El liberalismo político y la pluralidad de opiniones en la sociedades libres."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Identificar y situar los Estados de África, América, Asia y Oceanía, citando las capitales más significativas y reconociendo las principales diferencias económicas de los mismos."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Identificar los fundamentos que sostienen las diversas",
+            "description": "Identificar los fundamentos que sostienen las diversas identidades propias y las ajenas, a través del conocimiento y puesta en valor del patrimonio material e inmaterial que compartimos para conservarlo y respetar los sentimientos de pertenencia, así como para favorecer procesos que contribuyan a la cohesión y solidaridad territorial en orden a los valores del europeísmo y de la Declaración Universal de los Derechos Humanos.",
+            "descriptors": [
+                "CP3",
+                "CPSAA1",
+                "CC1",
+                "CC2",
+                "CC3",
+                "CCEC1"
+            ],
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "La vertebración del Estado en la España del siglo XIX. El nacimiento de los nacionalismos en Cataluña, el País Vasco y Galicia ."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Tomar conciencia del papel de los ciclos demográficos, el",
+            "description": "Tomar conciencia del papel de los ciclos demográficos, el ciclo vital, las formas de vida y las relaciones intergeneracionales y de dependencia en la sociedad actual y su evolución a lo largo del tiempo, analizándolas de forma crítica, para promover alternativas saludables, sostenibles, enriquecedoras y respetuosas con la dignidad humana y el compromiso con la sociedad y el entorno.",
+            "descriptors": [
+                "STEM5",
+                "CD4",
+                "CPSAA2",
+                "CPSAA5",
+                "CC1",
+                "CC2",
+                "CC3"
+            ],
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Adoptar un papel activo y comprometido con el entorno, de acuerdo con aptitudes, aspiraciones, intereses y valores propios, a partir del análisis crítico de la realidad económica, de la distribución y gestión del trabajo, y la adopción de hábitos responsables, saludables, sostenibles y respetuosos con la dignidad humana y la de otros seres vivos, así como de la reflexión ética ante los usos de la tecnología y la gestión del tiempo libre."
+                }
+            ]
+        },
+        {
+            "code": "CE9",
+            "name": "Conocer y valorar la importancia de la seguridad integral",
+            "description": "Conocer y valorar la importancia de la seguridad integral ciudadana en la cultura de convivencia nacional e internacional, reconociendo la contribución del Estado, sus instituciones y otras entidades sociales a la ciudadanía global, a la paz, a la cooperación internacional, para promover la consecución de un mundo más seguro, solidario y justo.",
+            "descriptors": [
+                "CCL2",
+                "CC1",
+                "CC2",
+                "CC3",
+                "CC4",
+                "CE1",
+                "CCEC1"
+            ],
+            "criterios": []
+        }
+    ]
+}

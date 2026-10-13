@@ -1,0 +1,162 @@
+{
+    "community": "comunidad-valenciana",
+    "stage": "bachillerato",
+    "decree": "Decreto 108\/2022, de 5 de agosto",
+    "subject": "geografia_e_historia_hist_ria_d_039_espanya",
+    "subject_name": "Història d&#039;Espanya",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Comparar els distints règims polítics de la història espanyola usant conceptes",
+            "description": "Comparar els distints règims polítics de la història espanyola usant conceptes històrics, explicar els canvis i la continuïtat entre ells identificant-ne les causes i reconèixer l’empremta en el present",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Construir una síntesi cronològicament ordenada i coherent, usant els termes adients sobre fets, processos i personatges rellevants dels distints règims polítics des de la fi de la monarquia absoluta fins a l’actualitat."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Elaborar judicis propis sobre la distinta rellevància dels textos constitucionals dels diferents règims polítics, com a garantia dels drets i llibertats dels espanyols i les espanyoles."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Aportar possibles motius sobre el canvi, la continuïtat i la causalitat, així com de la distinta rellevància atorgada a uns fets històrics sobre altres en diferents moments del passat i en el present."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Buscar, identificar i seleccionar la informació referent a esdeveniments i",
+            "description": "Buscar, identificar i seleccionar la informació referent a esdeveniments i processos històrics a partir de distintes fonts documentals, portant a terme una anàlisi crítica de la informació que proporcionen",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Identificar la informació sobre el passat i desenvolupar tècniques de crítica de les fonts històriques, mentre s’hi analitza l’origen, la fiabilitat i la rellevància."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Utilitzar la informació contesa en diferents fonts documentals per explicar processos històrics i per entendre la seua transcendència en el món actual."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Detectar i rebutjar prejudicis o estereotips no fonamentats en fets i sabers, sinó en opinions que no han estat contrastades ni obtingudes a partir de fonts veraces."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Contrastar les identitats individuals amb les col·lectives, tot reconeixent",
+            "description": "Contrastar les identitats individuals amb les col·lectives, tot reconeixent l’existència d’identitats múltiples en construcció que s’han de respectar i valorar",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Analitzar l’origen de les identitats regionals i nacionals que han anat construint-se en la història contemporània espanyola, mentre es reconeix la diversitat d’identitats així com els distints sentiments de pertinença i símbols comuns."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Identificar els principals processos polítics, culturals i administratius que han contribuït a la construcció de la nació espanyola."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Elaborar judicis propis sobre els resultats de les principals accions portades a terme per part de col·lectius socials o de les administracions en el procés de construcció de les identitats nacionals i regionals, entenent que és un procés en contínua estructuració."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Explicar l’evolució de l’economia espanyola, tot reconeixent els progressos",
+            "description": "Explicar l’evolució de l’economia espanyola, tot reconeixent els progressos assolits i les limitacions persistents en l’evolució del nivell de vida, les condicions laborals i la cohesió social al llarg del temps així com la seua repercussió en la sos…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Descriure l’evolució econòmica espanyola, tenint en compte la dels països de l’entorn, valorant els seus efectes pel que fa a la desigualtat social, desequilibris territorials i degradació ambiental."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Elaborar judicis propis sobre el procés de modernització econòmica i social a l’Espanya contemporània, a partir de l’anàlisi de fonts històriques i dels debats historiogràfics existents sobre el desenvolupament."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Contextualitzar els conceptes de progrés i modernització en diferents moments històrics, sempre entenent que són processos de múltiples causes. Identificar les mesures adoptades per l’Estat per assolir el benestar de la població."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Reconèixer l’origen de la diversitat ideològica de les distintes cultures",
+            "description": "Reconèixer l’origen de la diversitat ideològica de les distintes cultures polítiques en l’evolució històrica espanyola",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Explicar les causes de la conformació de les distintes cultures polítiques, tenint en compte la diversitat de condicions de vida que ha donat lloc a conflictivitats socials al llarg de la història espanyola."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Identificar i contextualitzar les principals cultures polítiques, les formes d’organització i els projectes polítics, mentre s’analitzen les motivacions que han conduït alguns subjectes a portar a terme distintes accions així com les mesures consegüents adoptades per l’Estat."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Generar opinions argumentades i contrastades sobre la funció que han desenvolupat les distintes ideologies en l’estructura social i política de l’Espanya contemporània."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Contextualitzar la posició espanyola en la història del món, tot assenyalant",
+            "description": "Contextualitzar la posició espanyola en la història del món, tot assenyalant particularitats i semblances de la seua evolució històrica i tenint en compte els compromisos actuals amb l’europeisme, la cooperació i la seguretat conjunta",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Reconéixer el valor geoestratègic d’Espanya en l’evolució històrica contemporània, així com la seua influència en les relacions internacionals."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Identificar els principals compromisos de l’Estat espanyol, tant els derivats de la integració en la Unió Europea com els que pertoquen a un país compromés amb la cooperació, solidaritat i exercici de la ciutadania ètica."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Assenyalar els reptes globals, tot caracteritzant les singularitats i l’evolució del cas espanyol respecte d’altres països europeus i les seues connexions amb processos històrics rellevants, detectant els estereotips que hi són associats."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Incorporar la perspectiva de gènere en l’anàlisi històrica, en adoptar actituds",
+            "description": "Incorporar la perspectiva de gènere en l’anàlisi històrica, en adoptar actituds i promoure actuacions de reivindicació de la igualtat efectiva entre dones i homes",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Introduir la perspectiva de gènere en l’observació i anàlisi de la realitat històrica, recuperant figures individuals i col·lectives que hagen contribuït a l’emancipació femenina i a l’equiparació de drets entre ambdós gèneres."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Identificar els mecanismes de dominació que han generat i mantingut la desigualtat entre homes i dones, els rols assignats i els espais d’activitats ocupats tradicionalment per les dones."
+                },
+                {
+                    "code": "7.3",
+                    "description": "Analitzar fonts literàries i artístiques que contribueixen a entendre el rol de les dones en la història espanyola."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Reconèixer el valor del patrimoni cultural i històric com a conformador de la",
+            "description": "Reconèixer el valor del patrimoni cultural i històric com a conformador de la memòria col·lectiva, participant en l’elaboració i difusió de propostes que afavorisquen la seua preservació i valoració",
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Identificar les característiques més destacades dels elements patrimonials existents en la història contemporània espanyola."
+                },
+                {
+                    "code": "8.2",
+                    "description": "Realitzar treballs d’investigació històrics i historiogràfics que generen productes relacionats amb la memòria col·lectiva sobre esdeveniments, personatges o elements patrimonials d’interès."
+                },
+                {
+                    "code": "8.3",
+                    "description": "Participar en l’elaboració i difusió de propostes que afavorisquen la preservació i valoració del patrimoni històric, considerat un bé comú que cal protegir."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+{
+    "community": "comunidad-valenciana",
+    "stage": "eso",
+    "decree": "Decreto 107\/2022, de 5 de agosto",
+    "subject": "economia",
+    "subject_name": "Economia i Emprenedoria",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Dissenyar un projecte personal que genere valor per a la societat, analitzar",
+            "description": "dissenyar un projecte personal que genere valor per a la societat, analitzar les fortaleses i les febleses pròpies i gestionar de manera eficaç les emocions. 2.1.1. Descripció de la competència L'autoconeixement permet a la persona indagar en les seu…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Fer una planificació i una organització de les diferents tasques necessàries per a dur a terme un projecte personal, resoldre possibles dificultats amb creativitat i mostrar esforç i tenacitat."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Utilitzar estratègies d'anàlisi de les fortaleses i les febleses personals i comparar-les amb les qualitats pròpies de les persones emprenedores."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Gestionar de manera eficaç les emocions i les destreses personals, i promoure i desenvolupar actituds creatives."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Analitzar els resultats aconseguits amb consciència de l'esforç personal aplicat i els assoliments obtinguts, i fer propostes de millora sobre el mateix treball."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Utilitzar estrategies de conformacio d'equips i mostrar habilitats socials",
+            "description": "utilitzar estrategies de conformacio d'equips i mostrar habilitats socials d'empatia, respecte i lideratge en les dinàmiques de treball en diferents contextos, i analitzar el valor de cooperar amb altres persones 2.2.1. Descripció de la competència I…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Constituir equips de treball basats en principis d'equitat, coeducació i igualtat entre dones i hòmens, i utilitzar estratègies que faciliten la identificació i l'optimització dels recursos humans necessaris que conduïsquen a la consecució del repte proposat."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Mostrar habilitats socials, de motivació, lideratge i de cooperació i innovació àgil en diferents contextos de treball en equip, i utilitzar diferents estratègies comunicatives."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Respectar les aportacions dels altres en les diferents dinàmiques de treball i fases del procés dut a terme, i assumir les decisions preses de manera col·lectiva."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Assumir amb confiança la incertesa, les dificultats i els errors que poden sorgir en els mateixos processos d'aprenentatge."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Identificar necessitats de les persones en l'ambit local i global i proposar",
+            "description": "identificar necessitats de les persones en l'ambit local i global i proposar solucions senzilles, innovadores i sostenibles per a satisfer-les, amb sentit ètic i solidari, i analitzar els seus punts forts i febles i el possible impacte en l'entorn ec…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Identificar en l'entorn més pròxim les idees innovadores que donen resposta a necessitats locals i globals, i promoure el desenvolupament sostenible."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Comprovar que les idees de negoci proposades responen de manera innovadora i sostenible a les necessitats detectades, descriure els seus avantatges i inconvenients i analitzar l'impacte que poden generar en l'entorn econòmic."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Aplicar metodologies àgils que faciliten la superació de reptes econòmics plantejats i l'obtenció de solucions a les necessitats detectades, amb sentit ètic i solidari."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Identificar els recursos necessaris en el proces de desenvolupament de la idea",
+            "description": "identificar els recursos necessaris en el proces de desenvolupament de la idea o la solucio creativa proposada i les possibles fonts financeres necessàries per a l'obtenció d'aquests recursos i aplicar-les al seu projecte emprenedor 2.4.1. Descripció…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Identificar els recursos materials, immaterials i digitals necessaris en el procés d'ideació creativa i analitzar la perspectiva sostenible."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Seleccionar algunes fonts financeres bàsiques i valorar l'horitzó temporal i el risc que impliquen en el projecte."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Argumentar la necessitat del control del pressupost personal com a eina essencial de la viabilitat del projecte, i reflexionar sobre el risc de l'endeutament i les seues conseqüències en el procés d'emprenedoria."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Presentar i exposar idees i solucions creatives que transmeten missatges",
+            "description": "presentar i exposar idees i solucions creatives que transmeten missatges convincents adequats al context i als objectius de cada situació, i utilitzar estratègies comunicatives eficaces, respectuoses i inclusives. 2.5.1. Descripció de la competència …",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Validar les idees i les solucions presentades mitjançant missatges convincents i adequats al context i objectius concrets, i utilitzar estratègies comunicatives àgils adaptades a cada situació comunicativa."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Presentar i exposar, amb claredat i coherència, les idees i les solucions creatives, i valorar la importància de mantindre una comunicació eficaç i respectuosa al llarg de tot el procés dut a terme."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Utilitzar correctament la terminologia econòmica i financera adaptada al nivell educatiu en activitats orals i escrites de l'àmbit personal, acadèmic, social o professional, en les diferents llengües del currículum i utilitzar un llenguatge no discriminatori."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Analitzar aspectes basics de l'economia i les finances, valorar criticament el",
+            "description": "analitzar aspectes basics de l'economia i les finances, valorar criticament el problema de l'escassetat de recursos, la necessitat de triar, així com els principals objectius de l'economia actual, i desenvolupar idees que donen solucions eficaces, eq…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Identificar el problema econòmic de l'escassetat de recursos i la necessitat de triar, així com prendre consciència de les conseqüències d'aquest en la societat."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Identificar els efectes de la desocupació, la desigualtat de la renda, l'economia submergida i la inflació en alguns contextos i situacions reals, i descriure alguna mesura correctora per a cadascun d'aquests."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Descriure les característiques de l'economia col·laborativa, circular i social, i valorar l'impacte que tenen en diferents entorns."
+                },
+                {
+                    "code": "6.4",
+                    "description": "Interpretar algunes activitats econòmiques de la vida quotidiana des del punt de vista financer."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Dissenyar i analitzar de manera cooperativa i agil prototips innovadors i",
+            "description": "dissenyar i analitzar de manera cooperativa i agil prototips innovadors i sostenibles, a traves d'estratègies eficaces de disseny, i validar els seus resultats de manera ètica, crítica i sostenible. 2.7.1. Descripció de la competència El propòsit d'u…",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Dissenyar un prototip final innovador i sostenible, i avaluar de manera crítica i ètica la seua aportació a l'entorn."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Analitzar de manera crítica el procés de disseny dels prototips creats, i establir comparacions entre l'efectivitat, la viabilitat i l'adequació aconseguida en els processos i els resultats obtinguts."
+                },
+                {
+                    "code": "7.3",
+                    "description": "Utilitzar estratègies eficaces de disseny i seleccionar aquelles que faciliten l'execució del prototip final de manera àgil i cooperativa."
+                }
+            ]
+        }
+    ]
+}

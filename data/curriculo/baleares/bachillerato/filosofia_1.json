@@ -1,0 +1,129 @@
+{
+    "community": "baleares",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "filosofia",
+    "subject_name": "Filosofía",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Identificar problemes i formular preguntes sobre el fonament, valor i sentit de",
+            "description": "identificar problemes i formular preguntes sobre el fonament, valor i sentit de la realitat i l'existència humana, a partir de l'anàlisi i interpretació de textos i altres formes d'expressió filosòfica i cultural, per reconèixer la radicalitat i tran…",
+            "criterios": [
+                {
+                    "code": "CA1.1",
+                    "description": "Reconèixer la radicalitat i transcendència dels problemes filosòfics mitjançant el seu reconeixement, anàlisi i reformulació en textos i altres mitjans d'expressió, tant filosòfics com literaris, històrics, científics, artístics o relatius a qualsevol altre àmbit cultural. Reconèixer la radicalitat i transcendència dels problemes filosòfics a partir de l'anàlisi de les produccions de diferents àmbits d'expressió. Analitzar i reformular els problemes filosòfics a partir de textos diversos i d'altres mitjans d'expressió. Produir, per escrit i oralment, reflexions a partir de la comprensió dels problemes filosòfics nuclears."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Cercar, gestionar, interpretar, produir i transmetre correctament informacio",
+            "description": "cercar, gestionar, interpretar, produir i transmetre correctament informacio relativa a qüestions filosòfiques, a partir de l'ús contrastat i segur de fonts, l'ús i anàlisi rigorosa d'aquestes i l'ús de procediments elementals de recerca i comunicaci…",
+            "criterios": [
+                {
+                    "code": "CA2.1",
+                    "description": "Demostrar un coneixement pràctic dels procediments elementals de la recerca filosòfica a través de tasques com la identificació de fonts fiables, la cerca eficient i segura d'informació i la correcta organització, anàlisi, interpretació, avaluació, producció i comunicació d'aquesta, tant digitalment com per mitjans més tradicionals. Demostrar un coneixement pràctic dels procediments elementals de la recerca filosòfica, a través de la lectura de textos i de la recerca bibliogràfica i digital. Cercar informació en relació amb les temàtiques, els problemes filosòfics, els autors i autores de la història, de manera eficient i segura. Identificar fonts fiables de dades. Organitzar, analitzar, interpretar, avaluar, produir i comunicar informació filosòfica digitalment i per a mitjans tradicionals. Analitzar models de procediments d'elaboració filosòfica per reproduir-los en la seva tasca. Utilitzar els procediments fiables en la recerca d'investigació i fer ús de les normes de citació."
+                },
+                {
+                    "code": "CA2.2",
+                    "description": "Desenvolupar una actitud indagadora, autònoma i activa en l'àmbit de la reflexió filosòfica, mitjançant el disseny, l'elaboració i la comunicació pública de productes originals, com ara treballs de recerca, dissertacions o comentaris de text. Indagar de forma autònoma i activa en l'àmbit de la reflexió filosòfica. Dissenyar, elaborar i comunicar públicament treballs de recerca, dissertacions o comentaris de text. Elaborar i estructurar la informació en processos de recerca per tal de desenvolupar produccions pròpies en diferents registres."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Usar i valorar adequadament arguments i estructures argumentals, a partir de",
+            "description": "usar i valorar adequadament arguments i estructures argumentals, a partir de l'analisi tant formal com informal, per produir i apreciar diferents tipus de discurs de manera rigorosa i evitar maneres dogmàtiques, fal·laces i esbiaixades de sostenir op…",
+            "criterios": [
+                {
+                    "code": "CA3.1",
+                    "description": "Produir i avaluar discursos argumentatius, orals i escrits, sobre qüestions i problemes filosòfics, demostrant un ús correcte de normes i pautes lògiques, retòriques i argumentatives. Conèixer i usar adequadament els mecanismes de l'argumentació: ús correcte de les normes i pautes lògiques i retòriques. Identificar els diferents tipus de discursos i evitar estructures argumentals fal·laces i dogmàtiques. Produir i avaluar amb rigor discursos argumentatius sobre problemes filosòfics."
+                },
+                {
+                    "code": "CA3.2",
+                    "description": "Detectar i evitar maneres dogmàtiques, fal·laces i esbiaixades de sostenir opinions i hipòtesis, explicant la naturalesa o mecanismes d'aquests biaixos i fal·làcies. Detectar opinions i hipòtesis dogmàtiques, fal·laces o esbiaixades. Explicar els mecanismes de les fal·làcies i els biaixos argumentatius."
+                },
+                {
+                    "code": "CA3.3",
+                    "description": "Reconèixer la importància de la cooperació, el compromís amb la veritat, el respecte a la pluralitat i el rebuig de tota actitud discriminatòria o arbitrària, aplicant aquests principis a la pràctica argumentativa i al diàleg amb els altres. Aplicar a la pràctica de l'argumentació el compromís amb la veritat, el respecte a la pluralitat i el rebuig d'actituds discriminatòries i arbitràries. Dialogar amb una actitud cooperativa i seguint els principis propis de l'argumentació. Reconèixer espais de diàleg cooperatiu a la nostra societat on es puguin posar en pràctica el compromís amb la veritat i el respecte a la pluralitat."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Practicar l'exercici del dialeg filosofic de manera rigorosa, critica, tolerant",
+            "description": "practicar l'exercici del dialeg filosofic de manera rigorosa, critica, tolerant i empatica, interioritzant les pautes ètiques i formals que aquest requereix, mitjançant la participació en activitats grupals i a través del plantejament dialògic de les…",
+            "criterios": [
+                {
+                    "code": "CA4.1",
+                    "description": "Promoure el contrast i intercanvi d'idees i la pràctica d'una ciutadania activa i democràtica a través de la participació en activitats grupals i l'exercici del diàleg racional, respectuós, obert, constructiu i compromès amb la recerca de la veritat, sobre qüestions i problemes filosòficament rellevants. Participar en activitats grupals contrastant i intercanviant idees i practicant una ciutadania activa i democràtica. Valorar i aplicar la pràctica d'una ciutadania activa i democràtica com un element clau en la recerca de la veritat. Dialogar sobre qüestions i problemes filosòficament rellevants de forma racional, respectuosa i constructiva."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Reconeixer el caracter plural de les concepcions, idees i arguments entorn de",
+            "description": "reconeixer el caracter plural de les concepcions, idees i arguments entorn de cadascun dels problemes fonamentals de la filosofia, mitjançant l'anàlisi crítica de diverses tesis rellevants respecte a aquests, per generar una concepció complexa i no d…",
+            "criterios": [
+                {
+                    "code": "CA5.1",
+                    "description": "Generar una concepció complexa i no dogmàtica dels problemes filosòfics mitjançant l'anàlisi crítica de tesis filosòfiques diferents i oposades entorn d'aquests. Analitzar críticament tesis diverses sobre els diferents problemes filosòfics. Concebre de forma complexa i no dogmàtica els problemes filosòfics. Analitzar i valorar tesis oposades per desenvolupar una actitud tolerant i la capacitat de consens. Identificar, visibilitzar i explicar idees, valors i concepcions de la realitat que han estat històricament silenciades, relegades o ocultades."
+                },
+                {
+                    "code": "CA5.2",
+                    "description": "Comprendre i exposar diferents tesis i teories filosòfiques com a moments d'un procés dinàmic i sempre obert de reflexió i diàleg, a través de l'anàlisi comparativa dels arguments, principis, metodologies i enfocaments d'aquestes tesis i teories. Analitzar les tesis i teories filosòfiques com a moments d'un procés dinàmic i des d'una perspectiva global. Comparar les metodologies i enfocaments de les teories filosòfiques en la perspectiva d'un procés obert de reflexió i diàleg. Investigar en relació amb les teories filosòfiques contemporànies i comprendre el seu paper dins de la tradició filosòfica."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Comprendre les principals idees i teories filosofiques dels mes importants",
+            "description": "comprendre les principals idees i teories filosofiques dels mes importants pensadors i pensadores, mitjançant l'examen crític i dialèctic d'aquestes i dels problemes fonamentals als quals responen, per generar una concepció rigorosa i personal del qu…",
+            "criterios": [
+                {
+                    "code": "CA6.1",
+                    "description": "Prendre consciència de la riquesa i influència del pensament filosòfic identificant i analitzant les principals idees i teories filosòfiques en textos o documents pertanyents a àmbits culturals, així com posant-les en relació amb experiències, accions o esdeveniments comuns i d'actualitat. Identificar la influència del pensament filosòfic en experiències, accions o esdeveniments comuns i d'actualitat. Analitzar la presència de les principals idees i teories filosòfiques en textos o documents de diferents àmbits. Valorar el pensament filosòfic com a eina per entendre el nostre present."
+                },
+                {
+                    "code": "CA6.2",
+                    "description": "Adquirir i demostrar un coneixement significatiu de les idees i teories filosòfiques d'alguns dels més importants pensadors i pensadores de la història, mitjançant la seva aplicació i l'anàlisi crítica en el context de la pràctica individual o col·lectiva de la indagació filosòfica. Aplicar el coneixement de les idees i teories filosòfiques en la pràctica de la recerca filosòfica, individual o col·lectivament. Analitzar críticament les idees i teories filosòfiques dels més importants pensadors i pensadores de la història. Formular preguntes i desenvolupar reflexions referides a la vida quotidiana des d'una perspectiva filosòfica."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Adquirir una perspectiva global, sistemica i transdisciplinaria en el",
+            "description": "adquirir una perspectiva global, sistemica i transdisciplinaria en el plantejament de qüestions fonamentals i d'actualitat, analitzant i categoritzant els seus múltiples aspectes, distingint el més substancial de l'accessori i integrant informació i …",
+            "criterios": [
+                {
+                    "code": "CA7.1",
+                    "description": "Afrontar qüestions i temes complexos, de caràcter fonamental i d'actualitat, de manera interdisciplinària, sistèmica i creativa, utilitzant conceptes, idees i procediments provinents de diferents camps del saber i orientant-los i articulant-los críticament des d'una perspectiva filosòfica. Utilitzar conceptes, idees i procediments de diferents àmbits donant-los una orientació filosòfica. Articular críticament qüestions i problemes complexos de caràcter fonamental, amb una perspectiva filosòfica, mostrant creativitat, sistematicitat i interdisciplinarietat. Articular críticament qüestions i problemes complexos d'actualitat, amb una perspectiva filosòfica."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Analitzar problemes etics i politics fonamentals i d'actualitat, mitjancant",
+            "description": "analitzar problemes etics i politics fonamentals i d'actualitat, mitjancant l'exposicio crítica i dialèctica de diferents posicions filosòficament pertinents en la interpretació i resolució d'aquests, per desenvolupar el judici propi i l'autonomia mo…",
+            "criterios": [
+                {
+                    "code": "CA8.1",
+                    "description": "Desenvolupar el propi judici i l'autonomia moral mitjançant l'anàlisi filosòfica de problemes ètics i polítics fonamentals i d'actualitat, considerant les diferents posicions en disputa i elaborant, argumentant, exposant i sotmetent al diàleg amb els altres les pròpies tesis sobre aquest tema des de el respecte i la flexibilitat. Analitzar filosòficament problemes ètics fonamentals i d'actualitat. Analitzar filosòficament problemes polítics i socials, fonamentals i d'actualitat. Argumentar entorn a diferents posicions en relació amb tesis ètiques i polítiques. Analitzar textos breus d' alguns dels filòsofs representants de les principals teoritzacions ètiques i sobre el desenvolupament moral de l' individu. Identificar la funció, característiques i principals interrogants de la Filosofia política, utilitzant amb rigor el vocabulari específic. Reflexionar, argumentant les seves pròpies idees, sobre las possibilitades del pensament utòpic."
+                }
+            ]
+        },
+        {
+            "code": "CE9",
+            "name": "Desenvolupar la sensibilitat i la comprensio critica de l'art i altres",
+            "description": "desenvolupar la sensibilitat i la comprensio critica de l'art i altres manifestacions i activitats amb valor estètic mitjançant l'exercici del pensament filosòfic sobre la bellesa i la creació artística, per contribuir a l'educació dels sentiments i …",
+            "criterios": [
+                {
+                    "code": "CA9.1",
+                    "description": "Generar un adequat equilibri entre l'aspecte racional i l'emotiu en la consideració dels problemes filosòfics, especialment els referits a l'àmbit de l'estètica, a través de la reflexió expressa entorn de l'art i a altres activitats o experiències amb valor estètic i l'anàlisi del paper de les imatges i el llenguatge audiovisual en la cultura contemporània. Reflexionar entorn de l'art i les diferents activitats i experiències estètiques. Analitzar críticament el paper de les imatges i el llenguatge audiovisual en la cultura contemporània. Identificar i descriure les característiques que fan que una creació sigui considerada una manifestació artística. Argumentar la relació entre els productes artístics i el pensament crític i analitzar el seu paper transformador de la societat."
+                }
+            ]
+        }
+    ]
+}

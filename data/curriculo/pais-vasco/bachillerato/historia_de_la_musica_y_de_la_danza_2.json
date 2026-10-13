@@ -1,0 +1,88 @@
+{
+    "community": "pais-vasco",
+    "stage": "bachillerato",
+    "decree": "Decreto 82\/2023, de 13 de junio",
+    "subject": "historia_de_la_musica_y_de_la_danza",
+    "subject_name": "Historia de la Música y de la Danza",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Conocer y valorar obras de arte pictóricas, a través de la observación de distintas manifestaciones artísticas",
+            "description": "Conocer y valorar obras de arte pictóricas, a través de la observación de distintas manifestaciones artísticas, para poder relacionarlas con el contexto social, histórico y cultural y entender la necesidad de la conservación del patrimonio.",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar los rasgos estilísticos de la música y la danza en distintas épocas mediante el análisis activo de audiciones, partituras y textos representativos."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Explicar la función de la música y la danza vinculando sus características con el contexto histórico-estético."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Investigar y analizar obras de arte pictóricas teniendo en cuenta los diversos",
+            "description": "Investigar y analizar obras de arte pictóricas teniendo en cuenta los diversos movimientos y períodos de la historia del arte, para desarrollar la recepción y el deleite estético y comprender la intención y el sentido de estas propuestas utilizando c…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Explica cómo la música y la danza se relacionan con otras artes, identificando factores históricos y estéticos comunes."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Participar activamente en la recepción de producciones pictóricas, investigando en sus procesos de creación",
+            "description": "Participar activamente en la recepción de producciones pictóricas, investigando en sus procesos de creación, para desarrollar la capacidad de distinguir su grado de sostenibilidad y su impacto medioambiental.",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Interpretar, mediante la voz, el cuerpo o instrumentos, fragmentos musicales o danzas de un periodo histórico para vivenciar sus características."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Contrastar adaptaciones de obras musicales y dancísticas con originales para valorar su riqueza patrimonial."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Desarrollar la capacidad de expresión por medio de la experimentación con",
+            "description": "Desarrollar la capacidad de expresión por medio de la experimentación con distintos materiales, utensilios y técnicas para desarrollar la autonomía, creatividad e imaginación personal y construir un sentido crítico en un clima de autoestima y de conf…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Comparar distintas versiones de una misma obra musical y relacionar las diferencias interpretativas con la estética del periodo."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Realizar producciones artísticas, tanto individuales como colectivas, adecuando",
+            "description": "Realizar producciones artísticas, tanto individuales como colectivas, adecuando los recursos y valorando la calidad de la ejecución, para expresar ideas, opiniones y sentimientos y establecer un discurso empático hacia el trabajo propio y ajeno.",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Explica conceptos teórico-estéticos de música y danza usando tecnologías digitales de forma fiable y responsable."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Planificar y participar activamente en las fases de realización de una producción artística, individual y\/o colectiva",
+            "description": "Planificar y participar activamente en las fases de realización de una producción artística, individual y\/o colectiva, para responder de manera eficaz y creativa a una propuesta, además de comprender las repercusiones inclusivas, sociales y las oport…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Planificar la producción de una obra pictórica seleccionando los recursos adecuados para adaptarse con creatividad e imaginación a una propuesta individual o colaborativa concreta. valorando las oportunidades personales, sociales e inclusivas que se generan a partir de su resolución."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Implicarse activamente en las diferentes fases de un proyecto artístico colectivo, generando cohesión, integración e inclusión, y enriqueciendo su elaboración con la propia experiencia personal."
+                }
+            ]
+        }
+    ]
+}

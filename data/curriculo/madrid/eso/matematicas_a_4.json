@@ -1,0 +1,259 @@
+{
+    "community": "madrid",
+    "stage": "eso",
+    "decree": "Decreto 65/2022, de 20 de julio",
+    "subject": "matematicas_a",
+    "subject_name": "Matemáticas A",
+    "grade": 4,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Interpretar, modelizar y resolver problemas de la vida",
+            "description": "Interpretar, modelizar y resolver problemas de la vida cotidiana y propios de las matemáticas, aplicando diferentes estrategias y formas de razonamiento para explorar distintas maneras de proceder y obtener soluciones posibles.",
+            "descriptors": [
+                "STEM1",
+                "STEM2",
+                "STEM3",
+                "STEM4",
+                "CD2",
+                "CPSAA5",
+                "CE3",
+                "CCEC4"
+            ],
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Reformular problemas matemáticos de forma verbal y gráfica, interpretando los datos, las relaciones entre ellos y las preguntas planteadas."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Seleccionar herramientas y estrategias elaboradas valorando su eficacia e idoneidad en la resolución de problemas."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Obtener todas las posibles soluciones matemáticas de un problema activando los conocimientos y utilizando las herramientas tecnológicas necesarias."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Analizar las soluciones de un problema usando diferentes",
+            "description": "Analizar las soluciones de un problema usando diferentes técnicas y herramientas, evaluando las respuestas obtenidas, para verificar su validez e idoneidad desde un punto de vista lógico y su repercusión global.",
+            "descriptors": [
+                "STEM1",
+                "STEM2",
+                "CD2",
+                "CPSAA4",
+                "CC3",
+                "CE3"
+            ],
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Comprobar la corrección matemática de las soluciones de un problema."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Seleccionar las soluciones óptimas de un problema valorando tanto la corrección matemática como sus implicaciones desde diferentes perspectivas."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Formular y comprobar conjeturas sencillas o plantear",
+            "description": "Formular y comprobar conjeturas sencillas o plantear problemas de forma autónoma, reconociendo el valor del razonamiento y la argumentación para generar nuevo conocimiento.",
+            "descriptors": [
+                "CCL1",
+                "STEM1",
+                "STEM2",
+                "CD1",
+                "CD2",
+                "CD5",
+                "CE3"
+            ],
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Formular, comprobar e investigar conjeturas de forma guiada estudiando patrones, propiedades y relaciones."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Crear variantes de un problema dado, modificando alguno de sus datos y observando la relación entre los diferentes resultados obtenidos."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Emplear herramientas tecnológicas adecuadas en la investigación y comprobación de conjeturas o problemas."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Utilizar los principios del pensamiento computacional",
+            "description": "Utilizar los principios del pensamiento computacional organizando datos, descomponiendo en partes, reconociendo patrones, interpretando, modificando y creando algoritmos, para modelizar situaciones y resolver problemas de forma eficaz.",
+            "descriptors": [
+                "STEM1",
+                "STEM2",
+                "STEM3",
+                "CD2",
+                "CD3",
+                "CD5",
+                "CE3"
+            ],
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Reconocer e investigar patrones, organizar datos y descomponer un problema en partes más simples facilitando su interpretación y su tratamiento computacional."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Modelizar situaciones y resolver problemas de forma eficaz interpretando, modificando y creando algoritmos sencillos."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Reconocer y utilizar conexiones entre los diferentes",
+            "description": "Reconocer y utilizar conexiones entre los diferentes elementos matemáticos interconectando conceptos y procedimientos para desarrollar una visión de las matemáticas como un todo integrado.",
+            "descriptors": [
+                "STEM1",
+                "STEM3",
+                "CD2",
+                "CD3",
+                "CCEC1"
+            ],
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Deducir relaciones entre los conocimientos y experiencias matemáticas, formando un todo coherente."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Analizar y poner en práctica conexiones entre diferentes procesos matemáticos aplicando conocimientos y experiencias previas."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Identificar las matemáticas implicadas en otras materias y",
+            "description": "Identificar las matemáticas implicadas en otras materias y en situaciones reales susceptibles de ser abordadas en términos matemáticos, interrelacionando conceptos y procedimientos, para aplicarlos en situaciones diversas.",
+            "descriptors": [
+                "STEM1",
+                "STEM2",
+                "CD3",
+                "CD5",
+                "CC4",
+                "CE2",
+                "CE3",
+                "CCEC1"
+            ],
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Proponer situaciones susceptibles de ser formuladas y resueltas mediante herramientas y estrategias matemáticas, estableciendo y aplicando conexiones entre el mundo real y las matemáticas, y usando los procesos inherentes a la investigación científica y matemática: inferir, medir, comunicar, clasificar y predecir."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Identificar y aplicar conexiones coherentes entre las matemáticas y otras materias realizando un análisis crítico."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Valorar la aportación de las matemáticas al progreso de la humanidad y su contribución en la superación de los retos que demanda la sociedad actual."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Representar, de forma individual y colectiva, conceptos,",
+            "description": "Representar, de forma individual y colectiva, conceptos, procedimientos y resultados matemáticos usando diferentes tecnologías, para visualizar ideas y estructurar procesos matemáticos.",
+            "descriptors": [
+                "STEM3",
+                "CD1",
+                "CD2",
+                "CD5",
+                "CE3",
+                "CCEC4"
+            ],
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Representar matemáticamente la información más relevante de un problema, conceptos, procedimientos y resultados matemáticos visualizando ideas y estructurando procesos matemáticos."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Seleccionar entre diferentes herramientas, incluidas las digitales, y formas de representación (pictórica, gráfica, verbal o simbólica) valorando su utilidad para compartir información."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Comunicar de forma individual y colectiva conceptos,",
+            "description": "Comunicar de forma individual y colectiva conceptos, procedimientos y argumentos matemáticos usando lenguaje oral, escrito o gráfico, utilizando la terminología matemática apropiada, para dar significado y coherencia a las ideas matemáticas.",
+            "descriptors": [
+                "CCL1",
+                "CCL3",
+                "CP1",
+                "STEM2",
+                "STEM4",
+                "CD2",
+                "CD3",
+                "CE3",
+                "CCEC3"
+            ],
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Comunicar ideas, conclusiones, conjeturas y razonamientos matemáticos, utilizando diferentes medios, incluidos los digitales, con coherencia, claridad y terminología apropiada."
+                },
+                {
+                    "code": "8.2",
+                    "description": "Reconocer y emplear el lenguaje matemático presente en la vida cotidiana y en diversos contextos comunicando mensajes con contenido matemático con precisión y rigor."
+                }
+            ]
+        },
+        {
+            "code": "CE9",
+            "name": "Desarrollar destrezas personales, identificando y",
+            "description": "Desarrollar destrezas personales, identificando y gestionando emociones, poniendo en práctica estrategias de aceptación del error como parte del proceso de aprendizaje y adaptándose ante situaciones de incertidumbre, para mejorar la perseverancia en la consecución de objetivos y el disfrute en el aprendizaje de las matemáticas.",
+            "descriptors": [
+                "STEM5",
+                "CPSAA1",
+                "CPSAA4",
+                "CPSAA5",
+                "CE2",
+                "CE3"
+            ],
+            "criterios": [
+                {
+                    "code": "9.1",
+                    "description": "Identificar y gestionar las emociones propias y desarrollar el autoconcepto matemático generando expectativas positivas ante nuevos retos matemáticos."
+                },
+                {
+                    "code": "9.2",
+                    "description": "Mostrar una actitud positiva y perseverante al hacer frente a las diferentes situaciones de aprendizaje de las matemáticas aceptando la crítica razonada."
+                }
+            ]
+        },
+        {
+            "code": "CE10",
+            "name": "Desarrollar destrezas sociales reconociendo y respetando",
+            "description": "Desarrollar destrezas sociales reconociendo y respetando las emociones y experiencias de los demás, participando activa y reflexivamente en proyectos en equipos heterogéneos con roles asignados, para construir una identidad positiva como estudiante de matemáticas, fomentar el bienestar personal y grupal y crear relaciones saludables.",
+            "descriptors": [
+                "CCL5",
+                "STEM3",
+                "CPSAA3",
+                "CC2",
+                "CC3"
+            ],
+            "criterios": [
+                {
+                    "code": "10.1",
+                    "description": "Colaborar activamente y construir relaciones trabajando con las matemáticas en equipos heterogéneos, respetando diferentes opiniones, comunicándose de manera efectiva, pensando de forma crítica y creativa, tomando decisiones y realizando juicios informados."
+                },
+                {
+                    "code": "10.2",
+                    "description": "Gestionar el reparto de tareas en el trabajo en equipo, aportando valor, favoreciendo la inclusión, la escucha activa, responsabilizándose del rol asignado y de la propia contribución al equipo."
+                }
+            ]
+        }
+    ]
+}

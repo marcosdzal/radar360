@@ -1,0 +1,188 @@
+{
+    "community": "galicia",
+    "stage": "bachillerato",
+    "decree": "Decreto 157\/2022, de 15 de septiembre",
+    "subject": "diseno",
+    "subject_name": "Diseño",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Identificar los fundamentos del diseño para partir del análisis crítico de",
+            "description": "Identificar los fundamentos del diseño para partir del análisis crítico de diversos productos de diseño bidimensional y tridimensional, para profundizar en la comprensión tanto de la complejidad de los procesos y herramientas que intervienen, como de…",
+            "criterios": [
+                {
+                    "code": "CE2.1",
+                    "description": "Reconocer la relación entre las formas y las funciones en diseños, tanto bidimensionales como tridimensionales, percibiéndolos como productos susceptibles de transformaciones y mejoras."
+                },
+                {
+                    "code": "CE2.2",
+                    "description": "Explicar en los objetos de diseño las dimensiones simbólicas y semánticas propias de su lenguaje, identificando sus elementos sintácticos y constitutivos con actitud receptiva y respetuosa."
+                },
+                {
+                    "code": "CE5.1",
+                    "description": "Explicar en los objetos de diseño las dimensiones simbólicas y semánticas propias de su lenguaje, identificando sus elementos sintácticos y constitutivos con actitud receptiva y res petuosa."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Reflexionar desde la propia identidad cultural sobre los orígenes, los",
+            "description": "Reflexionar desde la propia identidad cultural sobre los orígenes, los principios y las funciones del diseño, comparando y analizando producciones de diferentes épocas, estilos y ámbitos de aplicación, para valorar la influencia del entorno y la cult…",
+            "criterios": [
+                {
+                    "code": "CE1.2",
+                    "description": "Identificar las características fundamentales de los movimientos, corrientes, escuelas y teóricos relacionados con el diseño, de contextos geográficos, históricos y sociales diversos y reflexionando de manera crítica sobre las aportaciones de las mujeres y de las culturas no occidentales."
+                },
+                {
+                    "code": "CE1.3",
+                    "description": "Analizar de manera crítica las diferentes soluciones de diseño vinculadas a un mismo problema, reflexionando sobre su impacto en el entorno y estableciendo argumentos que promuevan una conciencia comprometida con el medio ambiente y con el diseño sostenible."
+                },
+                {
+                    "code": "CE4.1",
+                    "description": "Analizar de manera crítica las diferentes soluciones de diseño vinculadas a un mismo problema, reflexionando sobre su impacto en el entorno y estableciendo argumentos que promuevan una conciencia comprometida con el medio ambiente y con el diseño sostenible."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Analizar de manera crítica y rigurosa distintas configuraciones formales,",
+            "description": "Analizar de manera crítica y rigurosa distintas configuraciones formales, compositivas y estructurales presentes en el diseño de diferentes productos, identificando sus elementos plásticos, estéticos, funcionales y comunicativos, para enriquecer sus …",
+            "criterios": [
+                {
+                    "code": "CE2.3",
+                    "description": "Reconocer las estructuras formales, compositivas y estructurales en objetos y productos de diferentes ámbitos del diseño, analizando los procesos y métodos utilizados para desarrollarlos, así como las finalidades funcionales y comunicativas de las que parten y su impacto en aspectos tales como la inclusión, la sostenibilidad y el consumo responsable."
+                },
+                {
+                    "code": "CE2.7",
+                    "description": "Analizar las relaciones compositivas en distintos productos de diseño, identificando los elementos básicos del lenguaje visual y explicando su impacto en aspectos como la inclusión, la sostenibilidad y el consumo responsable."
+                },
+                {
+                    "code": "CE3.1",
+                    "description": "Reconocer las estructuras formales, compositivas y estructurales en objetos y productos de diferentes ámbitos del diseño, analizando los procesos y métodos utilizados para desarrollarlos, así como las finalidades funcionales y comunicativas de las que parten y su impacto en aspectos tales como la inclusión, la sostenibilidad y el consumo responsable."
+                },
+                {
+                    "code": "CE4.8",
+                    "description": "Reconocer las estructuras formales, compositivas y estructurales en objetos y productos de diferentes ámbitos del diseño, analizando los procesos y métodos utilizados para desarrollarlos, así como las finalidades funcionales y comunicativas de las que parten y su impacto en aspectos tales como la inclusión, la sostenibilidad y el consumo responsable."
+                },
+                {
+                    "code": "CE5.3",
+                    "description": "Reconocer las estructuras formales, compositivas y estructurales en objetos y productos de diferentes ámbitos del diseño, analizando los procesos y métodos utilizados para desarrollarlos, así como las finalidades funcionales y comunicativas de las que parten y su impacto en aspectos tales como la inclusión, la sostenibilidad y el consumo responsable."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Planificar proyectos de diseño individuales y colectivos, seleccionando con",
+            "description": "Planificar proyectos de diseño individuales y colectivos, seleccionando con criterio las herramientas y recursos necesarios, para proponer y analizar críticamente soluciones creativas en respuesta a necesidades propias y ajenas. - El diseño gráfico, …",
+            "criterios": [
+                {
+                    "code": "CE1.5",
+                    "description": "Planificar adecuadamente proyectos de diseño individuales o colectivos, estableciendo objetivos en función del impacto de comunicación buscado, programando las distintas fases del plan de desarrollo, seleccionando con criterio las herramientas y recursos y priorizando la sostenibilidad."
+                },
+                {
+                    "code": "CE2.6",
+                    "description": "Participar activamente en la organización adecuada de los equipos de trabajo de los proyectos de diseño colaborativo, identificando las habilidades requeridas y repartiendo y asumiendo las tareas con criterio."
+                },
+                {
+                    "code": "CE3.4",
+                    "description": "Evaluar las propuestas de planificación propias y ajenas de manera crítica y argumentada, analizando su adecuación al impacto de comunicación buscado."
+                },
+                {
+                    "code": "CE3.6",
+                    "description": "Planificar adecuadamente proyectos de diseño individuales o colectivos, estableciendo objetivos en función del impacto de comunicación buscado, programando las distintas fases del plan de desarrollo, seleccionando con criterio las herramientas y recursos y priorizando la sostenibilidad."
+                },
+                {
+                    "code": "CE4.4",
+                    "description": "Planificar adecuadamente proyectos de diseño individuales o colectivos, estableciendo objetivos en función del impacto de comunicación buscado, programando las distintas fases del plan de desarrollo, seleccionando con criterio las herramientas y recursos y priorizando la sostenibilidad."
+                },
+                {
+                    "code": "CE4.5",
+                    "description": "Participar activamente en la organización adecuada de los equipos de trabajo de los proyectos de diseño colaborativo, identificando las habilidades requeridas y repartiendo y asumiendo las tareas con criterio."
+                },
+                {
+                    "code": "CE5.4",
+                    "description": "Planificar adecuadamente proyectos de diseño individuales o colectivos, estableciendo objetivos en función del impacto de comunicación buscado, programando las distintas fases del plan de desarrollo, seleccionando con criterio las herramientas y recursos y priorizando la sostenibilidad."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Desarrollar propuestas personales e imaginativas a partir de ideas o productos",
+            "description": "Desarrollar propuestas personales e imaginativas a partir de ideas o productos preexistentes, considerando la propiedad intelectual, para responder con creatividad a necesidades propias y ajenas y potenciar la autoestima y el crecimiento personal. - …",
+            "criterios": [
+                {
+                    "code": "CE2.4",
+                    "description": "Proyectar soluciones de diseño innovadoras en respuesta a necesidades personales o de expresión propias, a partir de ideas o productos preexistentes."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Crear productos de diseño, respondiendo con creatividad a necesidades",
+            "description": "Crear productos de diseño, respondiendo con creatividad a necesidades concretas, incluidas las del diseño inclusivo y las relativas a la sostenibilidad, y cuidando la corrección técnica, la coherencia y el rigor de la factura del producto, para poten…",
+            "criterios": [
+                {
+                    "code": "CE1.1",
+                    "description": "Identificar las posibilidades de intervención del diseño inclusivo en diferentes ámbitos de la actividad humana, poniendo en valor los proyectos innovadores y transformadores de la sociedad."
+                },
+                {
+                    "code": "CE1.4",
+                    "description": "Realizar colectivamente un proyecto de diseño inclusivo, priorizando su adecuación a una o varias diversidades funcionales concretas, utilizando de manera creativa las configuraciones formales y argumentando las decisiones tomadas."
+                },
+                {
+                    "code": "CE1.6",
+                    "description": "Realizar proyectos elementales de diseño gráfico, diseño industrial o diseño de espacios habitables, de manera individual y colectiva, aplicando soluciones creativas en la elaboración de un producto innovador, y teniendo en cuenta sus implicaciones sociales, económicas y de transformación, así como los aspectos relacionados con la propiedad intelectual."
+                },
+                {
+                    "code": "CE1.7",
+                    "description": "Evaluar de manera crítica y argumentada trabajos de diseño propios y ajenos, valorando tanto la selección coherente y adecuada de los recursos técnicos, como el rigor y la corrección en la aplicación de las técnicas de ejecución, desarrollo y presentación del produc to, además de su grado de adecuación al impacto de comunicación buscado y al respeto a la propiedad intelectual."
+                },
+                {
+                    "code": "CE2.5",
+                    "description": "Evaluar de manera crítica y argumentada trabajos de diseño propios y ajenos, valorando tanto la selección coherente y adecuada de los recursos técnicos como el rigor y la corrección en la aplicación de las técnicas de ejecución, desarrollo y presentación del producto, además de su grado de adecuación al impacto de comunicación buscado y al respeto a la propiedad intelectual."
+                },
+                {
+                    "code": "CE3.2",
+                    "description": "Realizar proyectos elementales de diseño gráfico, diseño industrial o diseño de espacios habitables, de manera individual y colectiva, aplicando soluciones creativas en la elaboración de un producto innovador, y teniendo en cuenta sus implicaciones sociales, económicas y de transformación, así como los aspectos relacionados con la propiedad intelectual."
+                },
+                {
+                    "code": "CE3.3",
+                    "description": "Realizar colectivamente un proyecto de diseño inclusivo, priorizando su adecuación a una o varias diversidades funcionales concretas, utilizando de manera creativa las configuraciones formales y argumentando las decisiones tomadas."
+                },
+                {
+                    "code": "CE3.5",
+                    "description": "Evaluar de manera crítica y argumentada trabajos de diseño propios y ajenos, valorando tanto la selección coherente y adecuada de los recursos técnicos, como el rigor y la corrección en la aplicación de las técnicas de ejecución, desarrollo y presentación del producto, además de su grado de adecuación al impacto de comunicación buscado y al respeto a la propiedad intelectual."
+                },
+                {
+                    "code": "CE4.2",
+                    "description": "Realizar proyectos elementales de diseño gráfico, diseño industrial o diseño de espacios habitables, de manera individual y colectiva, aplicando soluciones creativas en la elaboración de un producto innovador, y teniendo en cuenta sus implicaciones sociales, económicas y de transformación, así como los aspectos relacionados con la propiedad intelectual."
+                },
+                {
+                    "code": "CE4.3",
+                    "description": "Realizar colectivamente un proyecto de diseño inclusivo, priorizando su adecuación a una o varias diversidades funcionales concretas, utilizando de manera creativa las configuraciones formales y argumentando las decisiones tomadas."
+                },
+                {
+                    "code": "CE4.6",
+                    "description": "Evaluar de manera crítica y argumentada trabajos de diseño propios y ajenos, valorando tanto la selección coherente y adecuada de los recursos técnicos como el rigor y la corrección en la aplicación de las técnicas de ejecución, desarrollo y presentación del producto, además de su grado de adecuación al impacto de comunicación buscado y al respeto a la propiedad intelectual."
+                },
+                {
+                    "code": "CE4.7",
+                    "description": "Identificar las posibilidades de intervención del diseño inclusivo en diferentes ámbitos de la actividad humana, poniendo en valor los proyectos innovadores y transformadores de la sociedad."
+                },
+                {
+                    "code": "CE5.2",
+                    "description": "Realizar proyectos elementales de diseño gráfico, diseño industrial o diseño de espacios habitables, de manera individual y colectiva, aplicando soluciones creativas en la elaboración de un producto innovador, y teniendo en cuenta sus implicaciones sociales, económicas y de transformación, así como los aspectos relacionados con la propiedad intelectual."
+                },
+                {
+                    "code": "CE5.5",
+                    "description": "Realizar colectivamente un proyecto de diseño inclusivo, priorizando su adecuación a una o varias diversidades funcionales concretas, utilizando de manera creativa las configuraciones formales y argumentando las decisiones tomadas."
+                },
+                {
+                    "code": "CE5.6",
+                    "description": "Identificar las posibilidades de intervención del diseño inclusivo en diferentes ámbitos de la actividad humana, poniendo en valor los proyectos innovadores y transformadores de la sociedad."
+                }
+            ]
+        }
+    ]
+}

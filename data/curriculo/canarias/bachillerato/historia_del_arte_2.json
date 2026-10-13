@@ -1,0 +1,146 @@
+{
+    "community": "canarias",
+    "stage": "bachillerato",
+    "decree": "Decreto 73\/2023, de 13 de abril",
+    "subject": "historia_del_arte",
+    "subject_name": "Historia del Arte",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "(c1) Esta competencia específica pone en relación los saberes de historia del",
+            "description": "(c1) Esta competencia específica pone en relación los saberes de historia del arte con su contexto geográfico, histórico y social para permitir la comparación de los diferentes productos artísticos, de forma crítica, valorando su diversidad.",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Investigar y debatir sobre las distintas definiciones de arte a través del tiempo, analizando obras específicas para comprender la evolución del concepto artístico y su diversidad."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Analizar obras de arte seleccionadas, reconociendo sus principales características."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "(c2) Esta competencia se centra en la utilización del arte como medio de",
+            "description": "(c2) Esta competencia se centra en la utilización del arte como medio de comunicación y de expresión de ideas, deseos y emociones. Implica el uso del vocabulario correcto para generar juicios propios, fundamentando sentimientos y desarrollando la emp…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Expresar juicios personales argumentados sobre obras de arte, empleando terminología técnica con fluidez y respetando las opiniones ajenas en un contexto de comunicación estética."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Emplear el vocabulario específico de la materia, haciendo uso de los distintos lenguajes artísticos mediante herramientas de análisis de las obras de arte."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "(c3) Esta competencia se centra en la utilización del arte como medio de",
+            "description": "(c3) Esta competencia se centra en la utilización del arte como medio de comunicación y de expresión de ideas, deseos y emociones. Implica el uso del vocabulario correcto para generar juicios propios, fundamentando sentimientos y desarrollando la emp…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Identificar y explicar las diversas funciones (política, religiosa, estética, etc.) de una obra de arte, valorando su impacto social y su propósito original."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Construir opiniones fundamentadas sobre las obras de arte, su proceso de producción, su estética y su percepción por parte del público."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "(c4) Esta competencia específica consiste en el reconocimiento de los",
+            "description": "(c4) Esta competencia específica consiste en el reconocimiento de los movimientos artísticos a lo largo de la historia, lo que permite establecer una relación con el entorno y se traduce en la apreciación, el respeto y la conservación del patrimonio.…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Explicar las características y el contexto de los movimientos artísticos, analizando su función social y evolución cronológica para comprender su importancia histórica."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Analizar comparativamente obras de arte de distintos periodos para explicar cómo evolucionan los estilos mediante influencias, continuidades o rupturas estéticas e ideológicas."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Comparar y contrastar obras de arte para reconocer la evolución que se ha producido a lo largo de los distintos períodos artísticos, explicando los antecedentes y consecuentes y las rupturas entre estilos autores, autoras y movimientos."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "(c5) Esta competencia específica está relacionada con la conexión entre los",
+            "description": "(c5) Esta competencia específica está relacionada con la conexión entre los movimientos artísticos y las personalidades individuales, estableciendo el contexto geográfico, histórico, social, político, cultural y biográfico con la intención de concebi…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Realizar comentarios de obras de arte integrando el análisis formal con su contexto histórico, funciones originales y trascendencia social, política y cultural de la época."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Analizar la vida y obra de artistas relevantes mediante reseñas biográficas que expliquen cómo sus vivencias influyen en el significado y valor de sus creaciones."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Investigar y trabajar las biografías de las personas creadoras, identificando en su obra las características del período estudiado y la influencia que tienen en sus creaciones sus rasgos biográficos."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "(c6) Esta competencia persigue concienciar al alumnado sobre la necesidad de conservar el patrimonio artístico",
+            "description": "(c6) Esta competencia persigue concienciar al alumnado sobre la necesidad de conservar el patrimonio artístico. Se enmarca, a su vez, en la necesidad de mejorar el entorno de los seres humanos para conseguir un desarrollo sostenible en los ámbitos lo…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Analizar los procesos de gestión, conservación y difusión del patrimonio artístico, evaluando el impacto de la actividad humana y la importancia de su uso sostenible."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Analizar cómo las obras de arte y el patrimonio construyen la identidad personal y colectiva mediante el estudio de la autorrepresentación y la simbología grupal."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Analizar la influencia que tiene el arte y el patrimonio artístico en el concepto del mundo que nos rodea, identificando los recursos estéticos e iconográficos utilizados."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "(c7) Esta competencia trata de concienciar sobre la relatividad de las",
+            "description": "(c7) Esta competencia trata de concienciar sobre la relatividad de las concepciones estéticas, y en particular de la noción de belleza, como forma de apertura y respeto hacia concepciones diferentes a las nuestras, sin menoscabo de que dicha percepci…",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Analizar y comparar la evolución de los cánones estéticos en la historia del arte para desarrollar una visión crítica sobre la belleza y la diversidad cultural."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Realizar estudios sobre obras de arte donde se aprecia la diversidad estética a través de las diferentes épocas y estilos."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "(c8) Esta competencia se relaciona con la necesidad de superar las diferencias de género en nuestra sociedad",
+            "description": "(c8) Esta competencia se relaciona con la necesidad de superar las diferencias de género en nuestra sociedad. En este sentido, se trata de incorporar al estudio de la historia del arte una perspectiva de género que evidencie los trabajos realizados p…",
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Identificar y analizar la obra de mujeres artistas a lo largo de la historia, vinculando su producción con su contexto histórico y las dificultades de género."
+                },
+                {
+                    "code": "8.2",
+                    "description": "Analizar la evolución de la imagen femenina y sus roles en el arte mediante la comparación crítica de obras de diferentes periodos y contextos culturales."
+                },
+                {
+                    "code": "8.3",
+                    "description": "Analizar producciones artísticas femeninas, mediante la comparación entre etapas de la Historia del Arte, tomando conciencia crítica de la imagen que se ha dado de mujer en la Historia del Arte."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "community": "baleares",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "psicologia",
+    "subject_name": "Psicología",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Cercar, gestionar, interpretar, produir i transmetre correctament informacio",
+            "description": "cercar, gestionar, interpretar, produir i transmetre correctament informacio relacionada amb els processos mentals i la conducta humana, a partir de l'ús contrastat i segur de fonts, la utilització i l'anàlisi rigorosa d'aquestes i l'ús de procedimen…",
+            "criterios": [
+                {
+                    "code": "CA1.1",
+                    "description": "Demostrar coneixement pràctic dels procediments elementals de la investigació en psicologia a través de tasques com la identificació de fonts fiables, l'obtenció i recerca eficient i segura d'informació i l'organització, l'anàlisi, la interpretació, l'avaluació, la producció i la comunicació correctes. Identificar fonts d'internet acadèmiques i fiables de les pàgines pseudocientífiques o parapsicològiques que es troben en les xarxes socials."
+                },
+                {
+                    "code": "CA1.2",
+                    "description": "Desenvolupar una actitud indagadora, autònoma i activa en l'àmbit de la investigació dels processos mentals i la conducta humana, mitjançant el disseny, elaboració i comunicació pública de productes originals, com ara treballs de recerca o altres. Realitzar petites recerques o investigacions sobre temàtica psicològica seguint els criteris científics d'una investigació. Presentar els resultats de les recerques o investigacions de temàtica psicològica que mostrin l'aplicació dels sabers bàsics en aspectes d'interès i preocupació dels alumnes."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Cercar, analitzar, produir i transmetre informacio relativa als antecedents",
+            "description": "cercar, analitzar, produir i transmetre informacio relativa als antecedents historics de la psicologia i la seva especificitat com a ciència, per reconèixer la dimensió teòrica i pràctica de la psicologia, els trets característics i les limitacions m…",
+            "criterios": [
+                {
+                    "code": "CA2.1",
+                    "description": "Explicar els trets característics de la psicologia, les finalitats, els mètodes de treball i els camps d'aplicació. Aplicar les característiques metodològiques principals de la psicologia en les recerques i investigacions que realitzen els alumnes."
+                },
+                {
+                    "code": "CA2.2",
+                    "description": "Reconèixer i exposar les aportacions més importants de la psicologia, des dels inicis fins a l'actualitat, per identificar problemes i les solucions aportades pels diferents corrents psicològics contemporanis. Entendre i explicar les aportacions més importants dels principals corrents que iniciaren la psicologia com a disciplina científica com ara la psicoanàlisi, la psicologia de la forma, el conductisme, el cognitivisme, etc."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Reconeixer i identificar les principals estructures biologiques del",
+            "description": "reconeixer i identificar les principals estructures biologiques del comportament huma per diferenciar aspectes innats i adquirits i descobrir les implicacions de les dimensions biològica, social i cultural de la conducta humana, distingint les caract…",
+            "criterios": [
+                {
+                    "code": "CA3.1",
+                    "description": "Descriure les principals estructures biològiques del comportament humà i identificar aspectes innats i adquirits i reconeixent la influència de la societat i la cultura en la seva configuració. Reconèixer, des d'un enfocament antropològic, l'evolució del cervell humà i distingir-ne les característiques específiques de les d'altres animals. Investigar la filogènesi humana i l'evolució del cervell per saber-la explicar i aplicar-la a la interrelació entre els aspectes bioquímics i ambientals que configuren la nostra conducta."
+                },
+                {
+                    "code": "CA3.2",
+                    "description": "Entendre i valorar les diferents tècniques actuals de recerca sobre el cervell i l'impacte que tenen en l'avenç científic sobre l'explicació de la conducta i en la superació d'alguns trastorns i malalties mentals. Investigar la importància de les diferents tècniques de recerca hormonal i cerebral sobre la comprensió del funcionament de la nostra ment i la relació amb el comportament humà i amb algunes patologies existents, com per exemple l'Alzheimer."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Investigar i analitzar des del punt de vista de la psicologia els principals",
+            "description": "investigar i analitzar des del punt de vista de la psicologia els principals processos cognitius per identificar les bases cognitives de la percepció, l'atenció, els estats de consciència, la memòria, la intel·ligència, el llenguatge i el pensament q…",
+            "criterios": [
+                {
+                    "code": "CA4.1",
+                    "description": "Comprendre la percepció humana com un procés constructiu eminentment subjectiu i limitat, en el qual té l'origen el coneixement de la realitat. Descriure el procés constructiu de la percepció i dels diferents aspectes que condicionen l'atenció humana i els trastorns relacionats com el TDAH o el TEA. Investigar sobre els factors que permeten, alteren o distorsionen l'atenció, com a mecanisme fonamental per a l'adaptació i supervivència humana, en especial, com la digitalització afecta a l'atenció, partint de la pròpia experiència personal o social."
+                },
+                {
+                    "code": "CA4.2",
+                    "description": "Conèixer i analitzar l'estructura, el funcionament i els tipus de memòria humana i estats de consciència per investigar els efectes psicoactius de les drogues. Analitzar l'estructura i el funcionament de la memòria humana i els diferents tipus de memòria per entendre i potenciar al màxim aquesta capacitat fonamental en el propi aprenentatge. Presentar les conseqüències de les drogues psicoactives en els processos mentals i de la consciència i les possibles addiccions que se'n poden derivar. Valorar críticament la influència que les drogues psicoactives exerceixen en les alteracions de la personalitat i presentar les conclusions de forma científicament fonamentada i argumentada."
+                },
+                {
+                    "code": "CA4.3",
+                    "description": "Investigar els processos cognitius superiors de l'ésser humà, com la intel·ligència el llenguatge i el pensament, mitjançant algunes teories que n'expliquen la naturalesa i el desenvolupament i relacionar-los amb l'aprenentatge humà per entendre i millorar personalment aquestes capacitats. Exposar algunes teories que expliquen la naturalesa i el desenvolupament dels processos cognitius superiors com la intel·ligència, el llenguatge i el pensament. Valorar la importància del pensament crític i creatiu en les societats de la hiperinformació digital, per combatre els biaixos cognitius aplicats en els algorismes que controlen l'accés a la informació de les diverses aplicacions mòbils."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Reconeixer, explorar i valorar la importancia de les emocions i la motivacio en",
+            "description": "reconeixer, explorar i valorar la importancia de les emocions i la motivacio en el desenvolupament psíquic de l'individu per distingir-ne els processos bàsics per gestionar-los en situacions de bloqueig emocional o de frustració, relacionant-ho amb e…",
+            "criterios": [
+                {
+                    "code": "CA5.1",
+                    "description": "Reconèixer i valorar la importància de la intel·ligència emocional i de la sexualitat en el desenvolupament psíquic de l'individu. Reconèixer i valorar els diferents tipus d'afectes, així com l'origen d'alguns trastorns emocionals. Analitzar la importància de la intel·ligència emocional i reconèixer els processos afectius que faciliten o obstaculitzen el benestar personal. Investigar els efectes psicològics de la pornografia digital en la sexualitat dels menors d'edat en contraposició al desenvolupament de la sexualitat madura i sana."
+                },
+                {
+                    "code": "CA5.2",
+                    "description": "Explicar i valorar la importància de la motivació, classificar-la, relacionar-la amb altres processos cognitius, per desenvolupar els diferents supòsits teòrics que l'expliquen i analitzar les deficiències i els conflictes que, a l'hora de desenvolupar-la, condueixen a la frustració o a processos depressius. Explicar les diferents teories sobre la motivació i les diferents tècniques per afrontar situacions frustrants i la relació que tenen amb els diferents processos depressius. Debatre els factors que intervenen en les diferents pràctiques d'autòlisi en adolescents i en el suïcidi per conscienciar sobre les pràctiques preventives."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Comprendre i apreciar la complexitat de la formacio de la personalitat com el",
+            "description": "comprendre i apreciar la complexitat de la formacio de la personalitat com el conjunt de pensaments, emocions i conductes que conformen cada individu, per analitzar les diferents teories psicològiques de la personalitat i desenvolupar una visió críti…",
+            "criterios": [
+                {
+                    "code": "CA6.1",
+                    "description": "Comprendre què és la personalitat analitzant les influències genètiques, mediambientals i culturals sobre les quals es construeix, les diverses teories que l'estudien i investigar els factors motivacionals, afectius i cognitius necessaris perquè evolucioni adequadament en cadascuna de les fases de desenvolupament. Investigar les diverses teories de la personalitat en relació als factors motivacionals, afectius i cognitius que contribueixen a la seva construcció en l'adolescència. Debatre les influències genètiques, mediambientals i culturals sobre les quals es construeix la pròpia personalitat."
+                },
+                {
+                    "code": "CA6.2",
+                    "description": "Comprendre i apreciar la dimensió social de l'ésser humà, per valorar críticament el procés de socialització com la interiorització de les normes i els valors socials i valorar la influència d'aquest procés en la personalitat i la conducta de les persones. Analitzar la interrelació entre el procés de socialització i el món virtual i com aquest afecta la interiorització de les normes i els valors socials, en especial en la mimesi de determinades pràctiques patològiques per xarxes com sèxting, ciberassetjament (ciberbullying), les addiccions al joc, etc."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Valorar les principals aportacions de la psicologia a les societats",
+            "description": "valorar les principals aportacions de la psicologia a les societats contemporanies com ara les seves aplicacions en diferents camps com són l'aprenentatge, el treball o la salut mental, per promoure i distingir els factors rellevants per a la cura de…",
+            "criterios": [
+                {
+                    "code": "CA7.1",
+                    "description": "Valorar estils de vida saludables que contribueixen a la consciència de les pròpies capacitats, per afrontar les tensions normals de la vida i treballar de forma productiva i fructífera contribuint positivament a la comunitat. Definir pautes i factors realitzables i facilitadors del benestar emocional, psicològic i social."
+                },
+                {
+                    "code": "CA7.2",
+                    "description": "Analitzar els estigmes socials que s'associen a les malalties mentals per contribuir a erradicar-les coneixent i normalitzant els problemes de salut mental distingint-los de la patologització del malestar social. Investigar i detectar els prejudicis socials en relació amb trastorns i patologies mentals per prendre consciència, si és possible en contacte amb associacions de les Illes Balears, dels estigmes socials sobre les persones que tenen -no sóndeterminades psicopatologies."
+                },
+                {
+                    "code": "CA7.3",
+                    "description": "Descriure la importància que actualment té la psicologia en el camp sanitari, laboral i educatiu per potenciar pràctiques i hàbits de prevenció de salut mental. Conèixer les aportacions professionals de la psicologia en els diferents camps que es pot desenvolupar el futur personal i professional dels joves."
+                }
+            ]
+        }
+    ]
+}

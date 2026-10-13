@@ -1,0 +1,256 @@
+{
+    "community": "madrid",
+    "stage": "eso",
+    "decree": "Decreto 65/2022, de 20 de julio",
+    "subject": "geografia_e_historia",
+    "subject_name": "Geografía e Historia",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Buscar, seleccionar, tratar y organizar información sobre",
+            "description": "Buscar, seleccionar, tratar y organizar información sobre temas relevantes del presente y del pasado, usando críticamente fuentes históricas y geográficas, para adquirir conocimientos, elaborar y expresar contenidos en varios formatos.",
+            "descriptors": [
+                "CCL2",
+                "CCL3",
+                "STEM4",
+                "CD1",
+                "CD2",
+                "CC1"
+            ],
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Elaborar, expresar y presentar contenidos propios en forma de esquemas, líneas de tiempo y tablas informativas mediante el desarrollo de métodos de búsqueda, selección y tratamiento de información sobre la geografía física y política y sobre procesos y acontecimientos relevantes del presente y de la prehistoria y la Antigüedad."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Contrastar y argumentar sobre temas y acontecimientos de la prehistoria y la Edad Antigua, localizando y analizando de forma crítica fuentes primarias y secundarias como pruebas históricas."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Indagar, argumentar y elaborar productos propios sobre",
+            "description": "Indagar, argumentar y elaborar productos propios sobre problemas geográficos, históricos y sociales que resulten relevantes en la actualidad.",
+            "descriptors": [
+                "CCL1",
+                "CCL2",
+                "CD2",
+                "CC1",
+                "CC3",
+                "CE3",
+                "CCEC3"
+            ],
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Identificar, valorar y mostrar interés por los principales problemas medioambientales."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Argumentar de forma crítica sobre problemas de actualidad medioambiental a través de conocimientos geográficos, contrastando y valorando fuentes diversas."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Incorporar y utilizar adecuadamente términos, conceptos y acontecimientos relacionados con la Geografía, la Historia y otras disciplinas de las Ciencias Sociales, a través de intervenciones orales y redacciones, mostrando planteamientos originales y propuestas originales."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Conocer los principales desafíos a los que se han",
+            "description": "Conocer los principales desafíos a los que se han enfrentado distintas sociedades a lo largo del tiempo, identificando las causas y consecuencias de los cambios producidos y los problemas a los que se enfrentan en la actualidad, mediante el desarrollo de proyectos de investigación y el uso de fuentes fiables.",
+            "descriptors": [
+                "STEM3",
+                "STEM4",
+                "STEM5",
+                "CPSAA3",
+                "CC3",
+                "CC4",
+                "CE1",
+                "CCEC1"
+            ],
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Adquirir y construir conocimiento relevante de los principales retos a los que se enfrenta el mundo actual, a través de procesos inductivos, de la investigación y del trabajo por proyectos, retos o problemas, mediante la elaboración de trabajos que reflejen la comprensión de los fenómenos y problemas abordados y utilizando las tecnologías de la información de forma segura."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Identificar los principales problemas, retos y desafíos a los que se ha enfrentado la humanidad a lo largo de la prehistoria y de la Historia Antigua, los cambios producidos, sus causas y consecuencias."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Representar adecuadamente información geográfica e histórica a través de diversas formas de representación gráfica, cartográfica y visual, tales como el climodiagrama, el mapa físico o el histórico."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Utilizar una secuencia cronológica con objeto de examinar la relación entre hechos y procesos en diferentes períodos y lugares significativos de la prehistoria y la Edad Antigua (simultaneidad y duración), utilizando términos y conceptos apropiados."
+                },
+                {
+                    "code": "3.5",
+                    "description": "Analizar procesos de cambio histórico de relevancia, tales como el Neolítico o la aparición de la escritura, a través del uso de diferentes fuentes de información, teniendo en cuenta las continuidades y permanencias en diferentes periodos y lugares."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Identificar y analizar los elementos del paisaje y su",
+            "description": "Identificar y analizar los elementos del paisaje y su articulación en sistemas complejos naturales, rurales y urbanos, así como su evolución en el tiempo, interpretando las causas de las transformaciones y valorando el grado de equilibrio existente en los distintos ecosistemas, para promover su conservación, mejora y uso sostenible.",
+            "descriptors": [
+                "CPSAA2",
+                "CC1",
+                "CC2",
+                "CC3",
+                "CC4",
+                "CE1"
+            ],
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Interpretar el entorno natural desde una perspectiva sistémica e integradora, a través del concepto de paisaje, identificando sus principales elementos y las interrelaciones existentes."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Valorar el grado de sostenibilidad y de equilibrio de los diferentes espacios naturales, desde distintas escalas, y analizar su transformación y degradación a través del tiempo por la acción humana."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Argumentar la necesidad de acciones de defensa, protección, conservación y mejora del entorno natural a través de propuestas e iniciativas que reflejen compromisos y conductas en favor de la sostenibilidad."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Analizar de forma crítica planteamientos históricos y",
+            "description": "Analizar de forma crítica planteamientos históricos y geográficos explicando la construcción de los sistemas democráticos y los principios constitucionales que rigen la vida en comunidad, así como asumiendo los deberes y derechos propios de nuestro marco de convivencia, para promover la participación ciudadana y la cohesión social.",
+            "descriptors": [
+                "CCL5",
+                "CC1",
+                "CC2",
+                "CCEC1"
+            ],
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Identificar, interpretar y analizar los mecanismos que han regulado la convivencia y la vida en común a lo largo de la prehistoria y la Historia Antigua, desde el origen de la sociedad a las distintas civilizaciones que se han ido sucediendo, señalando los principales modelos de organización social, política, económica y las creencias religiosas."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Señalar y explicar aquellas experiencias históricas más destacables de la Historia Antigua en las que se logró establecer sistemas políticos que favorecieron el ejercicio de derechos y libertades de los individuos y de la colectividad, considerándolas como antecedentes de las posteriores conquistas democráticas y referentes históricos de las libertades actuales."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Mostrar actitudes pacíficas y asumir las normas como marco necesario para la convivencia, demostrando la necesidad de defender la verdad y la libertad."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Comprender los procesos geográficos, históricos y",
+            "description": "Comprender los procesos geográficos, históricos y culturales que han conformado la realidad multicultural en la que vivimos, conociendo y difundiendo la historia y cultura de las minorías étnicas presentes en nuestro país y valorando sus aportaciones.",
+            "descriptors": [
+                "CCL5",
+                "CPSAA3",
+                "CC1",
+                "CC2",
+                "CC3",
+                "CCEC1"
+            ],
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Situar el nacimiento y desarrollo de distintas civilizaciones antiguas y ubicarlas en el espacio y en el tiempo, integrando los elementos históricos, culturales, institucionales y religiosos que las han conformado. ."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Describir la organización y las diferencias sociales durante la Prehistoria y la Edad Antigua."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Valorar la pluralidad social y cultural actual y de la Edad Antigua."
+                },
+                {
+                    "code": "6.4",
+                    "description": "Identificar y situar las principales características del medio físico y los principales accidentes geográficos de África, América, Asia y Oceanía, apreciando la diversidad y riqueza geográfica de la Tierra y reconociendo que el medio natural es un factor clave en la configuración de las sociedades."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Identificar los fundamentos que sostienen las diversas",
+            "description": "Identificar los fundamentos que sostienen las diversas identidades propias y las ajenas, a través del conocimiento y puesta en valor del patrimonio material e inmaterial que compartimos para conservarlo y respetar los sentimientos de pertenencia, así como para favorecer procesos que contribuyan a la cohesión y solidaridad territorial en orden a los valores del europeísmo y de la Declaración Universal de los Derechos Humanos.",
+            "descriptors": [
+                "CP3",
+                "CPSAA1",
+                "CC1",
+                "CC2",
+                "CC3",
+                "CCEC1"
+            ],
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Relacionar las culturas, religiones y civilizaciones que se han desarrollado a lo largo de la historia Antigua con el legado de la cultura Occidental."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Señalar los fundamentos de la idea de Europa a través de las diferentes experiencias históricas del mundo clásico e identificar el legado histórico, institucional, artístico y cultural como patrimonio común de la ciudadanía europea."
+                },
+                {
+                    "code": "7.3",
+                    "description": "Conocer, valorar, proteger y conservar el patrimonio artístico, histórico y cultural prehistórico y de la Antigüedad."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Tomar conciencia del papel de los ciclos demográficos, el",
+            "description": "Tomar conciencia del papel de los ciclos demográficos, el ciclo vital, las formas de vida y las relaciones intergeneracionales y de dependencia en la sociedad actual y su evolución a lo largo del tiempo, analizándolas de forma crítica, para promover alternativas saludables, sostenibles, enriquecedoras y respetuosas con la dignidad humana y el compromiso con la sociedad y el entorno.",
+            "descriptors": [
+                "STEM5",
+                "CD4",
+                "CPSAA2",
+                "CPSAA5",
+                "CC1",
+                "CC2",
+                "CC3"
+            ],
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Tomar conciencia del ciclo vital y analizar cómo han cambiado sus características, necesidades y obligaciones en determinados momentos históricos, como la prehistoria y la Edad Antigua, así como las raíces de la distribución familiar ."
+                }
+            ]
+        },
+        {
+            "code": "CE9",
+            "name": "Conocer y valorar la importancia de la seguridad integral",
+            "description": "Conocer y valorar la importancia de la seguridad integral ciudadana en la cultura de convivencia nacional e internacional, reconociendo la contribución del Estado, sus instituciones y otras entidades sociales a la ciudadanía global, a la paz, a la cooperación internacional, para promover la consecución de un mundo más seguro, solidario y justo.",
+            "descriptors": [
+                "CCL2",
+                "CC1",
+                "CC2",
+                "CC3",
+                "CC4",
+                "CE1",
+                "CCEC1"
+            ],
+            "criterios": [
+                {
+                    "code": "9.1",
+                    "description": "Identificar e interpretar la conexión de España con los grandes procesos históricos (de la Edad Antigua), valorando lo que han supuesto para su evolución y señalando las aportaciones de sus habitantes a lo largo de la historia."
+                },
+                {
+                    "code": "9.2",
+                    "description": "Interpretar, desde la perspectiva del desarrollo sostenible y la ciudadanía global los principales desafíos medioambientales del mundo actual, expresando la importancia de implicarse en la búsqueda de soluciones y en el modo de concretarlos desde su capacidad de acción tanto local como global, valorando la contribución del Estado, sus instituciones y las asociaciones civiles en programas y misiones dirigidos por organismos nacionales e internacionales para el logro de la paz, la seguridad integral, la convivencia social y la cooperación entre los pueblos."
+                },
+                {
+                    "code": "9.3",
+                    "description": "Identificar y situar las principales características del medio físico y los principales accidentes geográficos de España y de Europa, apreciando la diversidad y riqueza geográfica del subcontinente."
+                }
+            ]
+        }
+    ]
+}

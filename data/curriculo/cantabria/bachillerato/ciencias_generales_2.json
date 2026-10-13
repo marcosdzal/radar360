@@ -1,0 +1,112 @@
+{
+    "community": "cantabria",
+    "stage": "bachillerato",
+    "decree": "Decreto 73\/2022, de 14 de julio",
+    "subject": "ciencias_generales",
+    "subject_name": "Ciencias Generales",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Aplicar las metodologías propias de la ciencia, utilizando con precisión,",
+            "description": "Aplicar las metodologías propias de la ciencia, utilizando con precisión, procedimientos, materiales e instrumentos adecuados, para responder a cuestiones sobre procesos físicos, químicos, biológicos y geológicos.",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Formular y responder preguntas científicas basadas en procesos observados, aplicando las pautas de la metodología científica."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Comparar hipótesis mediante experimentos presenciales o virtuales, cumpliendo las normas de seguridad."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Comunicar resultados experimentales usando recursos adecuados y ética básica."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Comprender y explicar los procesos del entorno y explicarlos, utilizando los",
+            "description": "Comprender y explicar los procesos del entorno y explicarlos, utilizando los principios, leyes y teorías científicos adecuados, para adquirir una visión holística del funcionamiento del medio natural.",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Explicar fenómenos naturales representándolos mediante gráficas, modelos u otros formatos."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Explicar fenómenos cotidianos del entorno aplicando principios, leyes y teorías de las ciencias naturales de forma integrada."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Analizar fenómenos fisicoquímicos relevantes utilizando leyes y teorías científicas para explicar su funcionamiento."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Explicar los elementos y procesos básicos de la biosfera y geosfera empleando fundamentos científicos."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Argumentar sobre la importancia de los estilos de vida sostenibles y saludables, basándose en fundamentos científicos",
+            "description": "Argumentar sobre la importancia de los estilos de vida sostenibles y saludables, basándose en fundamentos científicos, para adoptarlos y promoverlos en su entorno. Actualmente uno de los mayores y más importantes retos a los que se enfrenta la humani…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Argumentar y promover hábitos sostenibles y saludables fundamentados científicamente, valorando su importancia para el desarrollo sostenible."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Elaborar y promover hábitos saludables justificándolos con fisiología humana."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Aplicar el pensamiento científico y los razonamientos lógico-matemáticos,",
+            "description": "Aplicar el pensamiento científico y los razonamientos lógico-matemáticos, mediante la búsqueda y selección de estrategias y herramientas apropiadas, para resolver problemas relacionados con las ciencias experimentales.",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Resolver problemas de ciencias experimentales usando pensamiento científico y estrategias matemáticas, buscando alternativas cuando sea necesario."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Analizar críticamente una solución científica y modificarla si es necesario ante nuevos datos o inviabilidad."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Analizar la contribución de la ciencia y de las personas que se dedican a ella,",
+            "description": "Analizar la contribución de la ciencia y de las personas que se dedican a ella, con perspectiva de género y entendiéndola como un proceso colectivo e interdisciplinar en continua construcción, para valorar su papel esencial en el progreso de la socie…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Analizar la interrelación e interdependencia de las disciplinas científicas como un conocimiento global."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Valorar la relevancia de la ciencia en la sociedad y el papel de los investigadores."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Utilizar recursos variados, con sentido crítico y ético",
+            "description": "Utilizar recursos variados, con sentido crítico y ético, para buscar y seleccionar información contrastada y establecer colaboraciones.",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Evaluar información científica de diversas fuentes, contrastando y seleccionando contenidos relevantes."
+                },
+                {
+                    "code": "6.2",
+                    "description": "El alumnado establece colaboraciones usando recursos necesarios en proyectos científicos o resolución de problemas."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "community": "extremadura",
+    "stage": "bachillerato",
+    "decree": "Decreto 113\/2022, de 25 de agosto",
+    "subject": "educacion_fisica",
+    "subject_name": "Educación Física",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "I nteriorizar y desarrollar un estilo de vida activo y saludable, planificando",
+            "description": "I nteriorizar y desarrollar un estilo de vida activo y saludable, planificando responsable y conscientemente su actividad física a partir de la autoevaluación personal basada en parámetros científicos y evaluables, para satisfacer sus demandas de oci…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Planifica, elabora y aplica un programa personal de actividad física para mejorar o mantener la salud, evaluando los resultados."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Aplicar autónomamente procesos de activación, autorregulación, alimentación, postura y relajación, reflexionando sobre su vínculo con futuros estudios o profesiones."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Aplica medidas de prevención de lesiones y primeros auxilios, identificando transferencias al ámbito profesional."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Analizar críticamente estereotipos corporales y conductas de riesgo en la información recibida, aplicando criterios científicos."
+                },
+                {
+                    "code": "1.5",
+                    "description": "Usar autónomamente apps y dispositivos para gestionar actividad física respetando privacidad y seguridad de datos."
+                },
+                {
+                    "code": "1.6",
+                    "description": "Investigar y conocer las posibles salidas profesionales relacionadas con las diferentes manifestaciones de la motricidad, así como el impacto laboral, económico, social y ecológico de las mismas y su repercusión en el entorno más cercano."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Adaptar autónomamente las capacidades condicionales, perceptivo-motrices y",
+            "description": "Adaptar autónomamente las capacidades condicionales, perceptivo-motrices y coordinativas, así como las habilidades y destrezas motrices específicas de las modalidades practicadas, en diferentes situaciones y con distintos niveles de dificultad, aplic…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Gestionar autónomamente proyectos motores, resolviendo imprevistos y ajustándose a objetivos de forma creativa y eficiente."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Resuelve autónomamente situaciones de oposición\/colaboración ajustando estrategias a cambios en el juego."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Analiza los factores que condicionan la motricidad en gestos técnicos, identifica errores y propone soluciones."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Analizar la actuación motriz en diferentes situaciones, reales o adaptadas, reflexionando sobre las soluciones y resultados obtenidos a través de la autoevaluación y coevaluación, para poner en práctica actuaciones encaminadas a minimizar los errores."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Difundir, promover y participar activamente en prácticas motrices, compartiendo",
+            "description": "Difundir, promover y participar activamente en prácticas motrices, compartiendo espacios de actividad físico-deportiva con independencia de las diferencias culturales, sociales, de género y de habilidad, priorizando el respeto hacia los participantes…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Diseñar y dirigir actividades motrices valorando su aplicación profesional y beneficios personales y sociales."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Cooperar mostrando iniciativa en proyectos motrices y resolver imprevistos de forma coordinada."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Mediar en conflictos y establecer relaciones de respeto durante prácticas motrices, aplicando estrategias de prevención y posicionándose críticamente ante la discriminación."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Experimentar las diferentes posibilidades y recursos expresivos que ofrecen el",
+            "description": "Experimentar las diferentes posibilidades y recursos expresivos que ofrecen el cuerpo y el movimiento, analizando e investigando de manera crítica las prácticas y manifestaciones culturales vinculadas con la motricidad según su origen y su evolución,…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Analizar el origen y evolución de manifestaciones motrices, rechazando componentes contrarios a valores inclusivos."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Crear y representar composiciones corporales expresivas individuales o colectivas con o sin música."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Utilizar de forma autónoma los recursos expresivos para resolver retos en las creaciones y representaciones artísticas, participando activamente y potenciando la imaginación, la creatividad y las diferentes opiniones."
+                },
+                {
+                    "code": "4.4",
+                    "description": "Valorar positivamente la importancia que las actividades artístico-expresivas tienen en su equilibrio emocional, contribuyendo de forma intencionada al crecimiento personal y de la sociedad a la que pertenecen."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Adoptar un estilo de vida sostenible y comprometido con la conservación y",
+            "description": "Adoptar un estilo de vida sostenible y comprometido con la conservación y mejora del entorno a través de la práctica, planificación y organización de actividades físico-deportivas en entornos urbanos y naturales, desarrollando acciones de servicio a …",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Participar en actividades físicas en entornos naturales minimizando el impacto ambiental y contribuyendo a su conservación."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Organizar y practicar actividades físicas seguras en espacios naturales y urbanos."
+                }
+            ]
+        }
+    ]
+}

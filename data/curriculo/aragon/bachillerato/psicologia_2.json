@@ -1,0 +1,151 @@
+{
+    "community": "aragon",
+    "stage": "bachillerato",
+    "decree": "Orden ECD\/1112\/2022, de 18 de julio",
+    "subject": "psicologia",
+    "subject_name": "Psicología",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Entender la Psicología como ciencia con entidad propia para favorecer el",
+            "description": "Entender la Psicología como ciencia con entidad propia para favorecer el conocimiento del ser humano y analizar las bases neurofisiológicas del comportamiento.",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Reconocer las bases científicas de la Psicología y el marco teórico en el que se sustenta, así como su relación con otras disciplinas."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Conocer las bases fisiológicas y los procesos biológicos implicados en el funcionamiento neurológico y cerebral que regulan el pensamiento, el procesamiento de la información y la conducta humana."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Identificar las aportaciones de la neurociencia a la Psicología y el modo en que ayuda a la comprensión del ser humano."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Conocer las aplicaciones prácticas de la Psicología en los campos profesionales",
+            "description": "Conocer las aplicaciones prácticas de la Psicología en los campos profesionales y las múltiples escuelas para analizar las semejanzas y diferencias entre las tradicionales y las actuales e identificarlas en los diferentes ámbitos de intervención prof…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Identificar y diferenciar las distintas corrientes y escuelas teóricas ubicándolas en una dimensión espacial y temporal concreta."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Reflexionar sobre los diferentes ámbitos y\/o campos de actuación y\/o de intervención de la Psicología como disciplina potenciadora del bienestar y el rendimiento personal."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Comprender e interrelacionar los procesos psicológicos de la percepción, la",
+            "description": "Comprender e interrelacionar los procesos psicológicos de la percepción, la atención, la memoria y las funciones ejecutivas como base de la expresión de la conducta humana para que el alumnado tome conciencia de sí mismo y de su entorno, así como par…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Relacionar los diferentes procesos psicológicos mediante el conocimiento de algunas teorías explicativas de su naturaleza y desarrollo, distinguiendo así mismo los factores que influyen en ellos."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Comprender los procesos psicológicos como base fundamental del aprendizaje, del pensamiento y de la inteligencia, así como su relación con el desarrollo personal y académico."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Reflexionar sobre el desarrollo de las funciones ejecutivas en la adolescencia y su vinculación con la planificación, con la toma de decisiones y con el modo de interrelación con los demás."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Analizar la evolución del concepto de inteligencia y su vinculación inherente",
+            "description": "Analizar la evolución del concepto de inteligencia y su vinculación inherente al contexto cambiante en el que el alumnado se desarrolla, apoyándose en la creatividad como herramienta para poner en valor las diferentes aptitudes del ser humano en la r…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Conocer la evolución del concepto de inteligencia hasta los planteamientos actuales y relacionarlo con la capacidad de adaptación al contexto cambiante."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Entender el desarrollo del lenguaje, su relación con la expresión del pensamiento y su vinculación con la capacidad de formar y desarrollar ideas y representaciones acerca de uno mismo, los demás y el entorno."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Aplicar la creatividad como herramienta en los planteamientos de resolución de problemas y de toma de decisiones para conseguir soluciones diversas y adaptadas."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Analizar y evaluar los procesos físicos y psicológicos implicados en la",
+            "description": "Analizar y evaluar los procesos físicos y psicológicos implicados en la emoción, la motivación y el aprendizaje, analizando sus implicaciones en la conducta, en la gestión emocional y en el proceso de aprendizaje personal para lograr mayor control so…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Identificar los procesos físicos y psicológicos que intervienen en la emoción, explicando las diferentes teorías y su implicación en la conducta humana."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Comprender cómo la motivación nos ayuda a esforzarnos y a lograr mantener unas conductas destinadas a lograr un objetivo."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Profundizar en las diferentes estrategias de aprendizaje y comprender la influencia de la motivación en el logro de cualquier aprendizaje."
+                },
+                {
+                    "code": "5.4",
+                    "description": "Desarrollar capacidades para potenciar la tolerancia a la frustración y al estrés que les permita dar respuestas ajustadas a las demandas del entorno."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Identificar los diferentes procesos cognitivos, neuropsicológicos, corporales y",
+            "description": "Identificar los diferentes procesos cognitivos, neuropsicológicos, corporales y emocionales que tienen lugar en el ser humano para poder cuidarse y anticiparse a las dificultades poniendo en marcha recursos propios o del entorno cuando éstas aparecen…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Identificar diferentes actividades orientadas al desarrollo personal y el autocuidado, seleccionando aquéllas que mejor respondan a las necesidades, capacidades y características individuales en ese momento concreto."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Comprender rasgos básicos de su carácter, temperamento y patrón emocional, diseñando estrategias para mejorar aspectos que el alumnado entiende que pueden ser limitantes para un desarrollo individual pleno."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Identificar aspectos de sus hábitos saludables que deben mantenerse en el tiempo e identificar aquellos que no lo son, buscando alternativas que les ayuden a dar una respuesta más ajustada a sus necesidades."
+                },
+                {
+                    "code": "6.4",
+                    "description": "Conocer algunos trastornos y enfermedades mentales y diferenciarlos de reacciones ajustadas a los acontecimientos del entorno e identificar herramientas para responder de forma temprana a la aparición de síntomas y superar dificultades."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Comprender la influencia de los fenómenos sociales en el comportamiento humano",
+            "description": "Comprender la influencia de los fenómenos sociales en el comportamiento humano y analizar el impacto de las redes sociales y de las distintas situaciones de vulnerabilidad existentes en la sociedad para generar actitudes y prevenir conductas de riesg…",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Identificar la dimensión social del ser humano y valorar el proceso de socialización como la interiorización de las normas y valores y su influencia en la personalidad, en su vida afectiva, en las relaciones interpersonales y, en definitiva, en su conducta."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Reconocer los procesos psicológicos de las masas, su naturaleza, características y pautas de comportamiento, con el fin de aplicar e integrar habilidades cooperativas y prosociales a las situaciones de vulnerabilidad de determinados grupos sociales."
+                },
+                {
+                    "code": "7.3",
+                    "description": "Explorar el impacto de las redes sociales virtuales en la sociedad, y en especial en la población adolescente, analizando las oportunidades que brindan y las amenazas, adoptando una actitud preventiva para la disminución del riesgo de un uso inadecuado."
+                },
+                {
+                    "code": "7.4",
+                    "description": "Reflexionar sobre el grado de correlación entre las problemáticas que atraviesa la Comunidad de la que forman parte y los recursos existentes que tienen a su alcance."
+                }
+            ]
+        }
+    ]
+}

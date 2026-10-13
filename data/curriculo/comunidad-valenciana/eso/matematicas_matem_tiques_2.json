@@ -1,0 +1,186 @@
+{
+    "community": "comunidad-valenciana",
+    "stage": "eso",
+    "decree": "Decreto 107\/2022, de 5 de agosto",
+    "subject": "matematicas_matem_tiques",
+    "subject_name": "Matemàtiques",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Resoldre problemes relacionats amb situacions diverses de l'àmbit social i en",
+            "description": "Resoldre problemes relacionats amb situacions diverses de l'àmbit social i en la iniciació als àmbits professional i científic utilitzant estratègies formals, representacions i conceptes que permeten la generalització i abstracció de les solucions",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Extraure la informació necessària de l'enunciat de problemes senzills de l'àmbit social o d'iniciació a l'àmbit professional i científic, i estructurar el procés de resolució en diferents etapes."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Resoldre problemes senzills de l'àmbit social o d'iniciació als àmbits professional i científic mobilitzant de manera adequada i justificada els conceptes i procediments necessaris."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Comparar la solució obtinguda amb la dels seus companys i companyes, valorant si es requereix una revisió o rectificació del procés de resolució seguit."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Generalitzar la resolució d'alguns problemes senzills per a solucionar problemes similars o més complexos."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Explorar, formular i generalitzar conjectures i propietats matemàtiques, fent",
+            "description": "Explorar, formular i generalitzar conjectures i propietats matemàtiques, fent demostracions senzilles i reconeixent i connectant els procediments, els patrons i les estructures abstractes implicats en el raonament",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Usar contraexemples per a refutar conjectures de naturalesa matemàtica."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Validar informalment conjectures sobre propietats o relacions matemàtiques adequades al nivell maduratiu, cognitiu i evolutiu de l'alumnat, a partir de casos particulars."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Connectar diferents conceptes i procediments matemàtics adequats al nivell maduratiu, cognitiu i evolutiu de l'alumnat, argumentant el raonament emprat."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Construir models matemàtics generals utilitzant conceptes i procediments",
+            "description": "Construir models matemàtics generals utilitzant conceptes i procediments matemàtics funcionals amb la finalitat d'interpretar, analitzar, comparar, valorar i fer aportacions a l'abordatge de situacions, fenòmens i problemes rellevants en l'àmbit soci…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Establir connexions entre els sabers propis de les matemàtiques i els d'altres disciplines, emprant procediments d'indagació com la identificació, el mesurament i la classificació."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Seleccionar informació rellevant, identificar conceptes matemàtics, patrons i regularitats en situacions o fenòmens reals i, a partir d'aquestos, construir models matemàtics concrets i alguns generals, emprant eines algebraiques i funcionals bàsiques."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Analitzar, interpretar i fer prediccions sobre situacions o fenòmens reals a partir del desenvolupament i tractament d'un model matemàtic."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Comparar i valorar diferents models matemàtics que descriguen una situació o fenomen real."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Implementar algoritmes computacionals organitzant dades, descomponent un",
+            "description": "Implementar algoritmes computacionals organitzant dades, descomponent un problema en parts, reconeixent patrons i emprant llenguatges de programació i altres eines TIC com a suport per a resoldre problemes i afrontar desafiaments de l'àmbit social i …",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Conéixer aspectes bàsics del full de càlcul i de programes de càlcul simbòlic."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Reproduir i dissenyar algoritmes senzills mitjançant programació per blocs per a resoldre situacions problemàtiques de l'àmbit social o d'iniciació als àmbits professional i científic."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Resoldre situacions problemàtiques descomponent i estructurant les parts mitjançant algoritmes."
+                },
+                {
+                    "code": "4.4",
+                    "description": "Analitzar situacions d'un cert nivell de complexitat en jocs de lògica o de tauler abstractes, estudiant les alternatives per a prendre la decisió més adequada, o determinar l'estratègia guanyadora, en cas d'existir."
+                },
+                {
+                    "code": "4.5",
+                    "description": "Prendre decisions adequades en situacions de repte, adequades al nivell maduratiu, cognitiu i evolutiu de l'alumnat, mitjançant l'anàlisi lògica i la implementació d'estratègies algorítmiques."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Manejar amb precisió el simbolisme matemàtic fent transformacions i conversions",
+            "description": "Manejar amb precisió el simbolisme matemàtic fent transformacions i conversions entre representacions iconicomanipulatives, numèriques, simbolicoalgebraiques, tabulars, funcionals, geomètriques i gràfiques que permeten pensar matemàticament sobre sit…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Manejar les iconicomanipulatives, simbolicoalgebraiques, tabulars, geomètriques i gràfiques d'objectes matemàtics respectant les regles que les regeixen."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Realitzar conversions, en almenys una direcció, entre les iconicomanipulatives, simbolicoalgebraiques, tabulars, geomètriques i gràfiques d'objectes matemàtics."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Seleccionar el simbolisme adequat per a descriure matemàticament corresponents a l'àmbit social."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Produir, comunicar i interpretar missatges orals i escrits complexos de manera",
+            "description": "Produir, comunicar i interpretar missatges orals i escrits complexos de manera formal, emprant el llenguatge matemàtic, per a comunicar i intercanviar idees generals i arguments sobre característiques, conceptes, procediments i resultats relacionats …",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Interpretar correctament missatges orals i escrits relatius a l'àmbit social que incloguen informacions amb contingut matemàtic."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Comunicar idees matemàtiques introduint aspectes bàsics del llenguatge formal."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Explicar i donar significat matemàtic a resultats provinents de situacions problemàtiques de l'àmbit social."
+                },
+                {
+                    "code": "6.4",
+                    "description": "Utilitzar el llenguatge matemàtic per a argumentar i defensar els raonaments propis en situacions d'intercanvi comunicatiu relatives a l'àmbit social."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Conéixer el valor cultural i històric de les matemàtiques i identificar les",
+            "description": "Conéixer el valor cultural i històric de les matemàtiques i identificar les seues aportacions en els avanços significatius del coneixement científic i del desenvolupament tecnològic especialment rellevants per a abordar els desafiaments amb els quals…",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Reconéixer contingut matemàtic elemental de caràcter numèric, espacial o geomètric present en manifestacions artístiques i culturals."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Valorar la importància desenvolupament de les matemàtiques com a eina per a l'avanç social i cultural de la humanitat."
+                },
+                {
+                    "code": "7.3",
+                    "description": "Valorar les matemàtiques com a vehicle per a la resolució de problemes quotidians de l'àmbit social i cultural."
+                },
+                {
+                    "code": "7.4",
+                    "description": "Apreciar el caràcter universal de les matemàtiques, per la seua versatilitat, el seu llenguatge propi i la seua funcionalitat."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Gestionar i regular les emocions, creences i actituds implicades en els",
+            "description": "Gestionar i regular les emocions, creences i actituds implicades en els processos matemàtics, assumint amb confiança la incertesa, les dificultats i errors que aquests processos comporten, i regulant l'atenció per a aconseguir comprendre els propis p…",
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Gestionar les emocions, les actituds i els processos cognitius implicats en l'enfrontament a situacions d'aprenentatge relacionades amb les matemàtiques."
+                },
+                {
+                    "code": "8.2",
+                    "description": "Desenvolupar creences favorables cap a les matemàtiques i cap a les pròpies capacitats en el quefer matemàtic, tant de caràcter individual com en el treball col·laboratiu."
+                },
+                {
+                    "code": "8.3",
+                    "description": "Transformar els errors en oportunitats d'aprenentatge i trobar vies per a evitar el bloqueig en situacions problemàtiques i del treball matemàtic, així com en la gestió del treball en equip."
+                }
+            ]
+        }
+    ]
+}

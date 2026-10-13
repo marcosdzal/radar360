@@ -1,0 +1,112 @@
+{
+    "community": "andalucia",
+    "stage": "eso",
+    "decree": "Real Decreto 217\/2022",
+    "subject": "fisica_y_quimica",
+    "subject_name": "Física y Química",
+    "grade": 3,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Comprender y relacionar los motivos por los que ocurren los principales",
+            "description": "Comprender y relacionar los motivos por los que ocurren los principales fenómenos fisicoquímicos del entorno, explicándolos en términos de las leyes y teorías científicas adecuadas, para resolver problemas con el fin de aplicarlas para mejorar la rea…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Explicar fenómenos del entorno cotidiano aplicando leyes y teorías científicas, comunicando los razonamientos de forma argumentada a través de diversos formatos y medios de expresión."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Resolver problemas numéricos y conceptuales de física y química aplicando leyes científicas, justificando los pasos seguidos y expresando los resultados con sus unidades correspondientes."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Identificar problemas reales del entorno que requieran soluciones desde la física y la química, analizando críticamente su impacto social y proponiendo iniciativas científicas de mejora."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Expresar las observaciones realizadas por el alumnado en forma de preguntas, formulando hipótesis",
+            "description": "Expresar las observaciones realizadas por el alumnado en forma de preguntas, formulando hipótesis, para explicarlas y demostrando dichas hipótesis a través de la experimentación científica, la indagación y la",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Aplicar metodologías científicas para investigar fenómenos mediante preguntas contrastables, diferenciando el conocimiento científico de afirmaciones pseudocientíficas que carecen de base experimental y lógica."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Diseñar planes de investigación y experimentos controlados para validar o rechazar hipótesis científicas, seleccionando las técnicas y herramientas más adecuadas según el problema planteado."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Diseñar experimentos y formular hipótesis fundamentadas en leyes científicas para resolver problemas o comprobar fenómenos físicos y químicos de forma coherente."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Manejar con soltura las reglas y normas básicas de la física y la química en lo",
+            "description": "Manejar con soltura las reglas y normas básicas de la física y la química en lo referente al lenguaje de la IUPAC, al lenguaje matemático, al empleo de unidades de medida correctas, al uso seguro del laboratorio y a la interpretación y producción de …",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Interpretar y comunicar información científica sobre procesos fisicoquímicos utilizando diversos formatos como tablas y gráficas, seleccionando los datos clave para resolver problemas específicos."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Aplicar correctamente la nomenclatura IUPAC, el sistema internacional de unidades y las herramientas matemáticas básicas para comunicar resultados científicos de forma precisa y estandarizada."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Aplicar las normas de seguridad y sostenibilidad en el laboratorio de física y química para garantizar un trabajo seguro y el cuidado del entorno."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Utilizar de forma crítica, eficiente y segura plataformas digitales y recursos",
+            "description": "Utilizar de forma crítica, eficiente y segura plataformas digitales y recursos variados, tanto para el trabajo individual como en equipo, para fomentar la creatividad, el desarrollo personal y el aprendizaje individual y social, mediante la consulta …",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Emplear herramientas digitales y bibliográficas para investigar contenidos científicos de forma autónoma, colaborando con respeto y evaluando críticamente las aportaciones del grupo."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Seleccionar fuentes de información fiables y utilizar herramientas digitales o tradicionales para crear contenidos científicos que mejoren el aprendizaje individual y grupal."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Utilizar las estrategias propias del trabajo colaborativo, potenciando el",
+            "description": "Utilizar las estrategias propias del trabajo colaborativo, potenciando el crecimiento entre iguales como base emprendedora de una comunidad científica crítica, ética y eficiente, para comprender la importancia de la ciencia en la mejora de la socieda…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Participar de forma activa y respetuosa en equipos de trabajo, asumiendo roles específicos para resolver tareas científicas de manera eficiente y colaborativa."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Diseñar y ejecutar proyectos científicos guiados que aporten soluciones prácticas a problemas sociales, ambientales o de salud, fomentando el valor comunitario."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Comprender y valorar la ciencia como una construcción colectiva en continuo",
+            "description": "Comprender y valorar la ciencia como una construcción colectiva en continuo cambio y evolución, en la que no solo participan las personas dedicadas a la ciencia, sino que también requiere de una interacción con el",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Analizar la evolución de hallazgos científicos realizados por hombres y mujeres, valorando su carácter provisional y su impacto en el desarrollo tecnológico y social."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Identificar problemas actuales del entorno (sociales, ambientales o tecnológicos) y proponer cómo la ciencia y la participación ciudadana aportan soluciones sostenibles y eficaces."
+                }
+            ]
+        }
+    ]
+}

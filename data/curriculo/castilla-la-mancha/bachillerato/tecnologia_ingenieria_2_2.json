@@ -1,0 +1,108 @@
+{
+    "community": "castilla-la-mancha",
+    "stage": "bachillerato",
+    "decree": "Decreto 83\/2022, de 12 de julio",
+    "subject": "tecnologia_ingenieria_2",
+    "subject_name": "Tecnología e Ingeniería II",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Coordinar y desarrollar proyectos de investigación con una actitud crítica y",
+            "description": "Coordinar y desarrollar proyectos de investigación con una actitud crítica y emprendedora, implementando estrategias y técnicas eficientes de resolución de problemas y comunicando los resultados de manera adecuada, para crear y mejorar productos y si…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Elaborar proyectos de investigación en equipo para mejorar productos de forma continua."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Comunicar y difundir de forma clara y comprensible proyectos elaborados, presentándolos con la documentación técnica necesaria."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Aplicar estrategias de perseverancia y gestión emocional en proyectos tecnológicos ante la incertidumbre."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Seleccionar materiales y elaborar estudios de impacto",
+            "description": "Seleccionar materiales y elaborar estudios de impacto, aplicando criterios técnicos y de sostenibilidad para fabricar productos de calidad que den respuesta a problemas y tareas planteados, desde un enfoque responsable y ético.",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Analizar la idoneidad de materiales para fabricar productos sostenibles, estudiando estructura, propiedades y tratamientos de modificación."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Redactar informes de impacto ambiental con argumentación y estructura adecuadas."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Utilizar las herramientas digitales adecuadas, analizando sus posibilidades,",
+            "description": "Utilizar las herramientas digitales adecuadas, analizando sus posibilidades, configurándolas de acuerdo a sus necesidades y aplicando conocimientos interdisciplinares, para resolver tareas, así como para realizar la presentación de los resultados de …",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Resolver problemas de diseño, simulación, montaje y presentación de proyectos usando herramientas digitales."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Generar conocimientos y mejorar destrezas técnicas, transfiriendo y aplicando",
+            "description": "Generar conocimientos y mejorar destrezas técnicas, transfiriendo y aplicando saberes de otras disciplinas científicas con actitud creativa, para calcular, y resolver problemas o dar respuesta a necesidades de los distintos ámbitos de la ingeniería.",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Diseñar y montar una estructura sencilla, calculando sus cargas y verificando su estabilidad."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Analizar máquinas térmicas (frigoríficas, bombas de calor, motores) mediante simulaciones y cálculos de eficiencia."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Interpretar y solucionar esquemas de sistemas neumáticos e hidráulicos mediante montajes o simulaciones, documentando su funcionamiento."
+                },
+                {
+                    "code": "4.4",
+                    "description": "El alumnado interpreta y resuelve circuitos de corriente alterna identificando sus elementos y comprendiendo su funcionamiento mediante montajes o simulaciones."
+                },
+                {
+                    "code": "4.5",
+                    "description": "Diseñar y probar circuitos digitales combinacionales y secuenciales, físicos o simulados, aplicando fundamentos de electrónica."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Diseñar, crear y evaluar sistemas tecnológicos y robóticos",
+            "description": "Diseñar, crear y evaluar sistemas tecnológicos y robóticos, aplicando conocimientos de programación informática, regulación automática y control, así como las posibilidades que ofrecen las tecnologías emergentes, para estudiar, controlar y automatiza…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Modeliza y simula el funcionamiento de sistemas automáticos de lazo abierto y cerrado, aplicando técnicas de simplificación y analizando su estabilidad."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Evaluar sistemas informáticos emergentes y sus implicaciones en la seguridad de datos mediante análisis de modelos existentes."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Analizar y comprender sistemas tecnológicos de los distintos ámbitos de la",
+            "description": "Analizar y comprender sistemas tecnológicos de los distintos ámbitos de la ingeniería, estudiando sus características, consumo y eficiencia energética, para evaluar el uso responsable y sostenible que se hace de la tecnología.",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Analizar sistemas de ingeniería evaluando eficiencia energética y responsabilidad social y sostenibilidad."
+                }
+            ]
+        }
+    ]
+}

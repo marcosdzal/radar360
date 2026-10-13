@@ -1,0 +1,117 @@
+{
+    "community": "galicia",
+    "stage": "bachillerato",
+    "decree": "Decreto 157\/2022, de 15 de septiembre",
+    "subject": "dibujo_tecnico_artes_1",
+    "subject_name": "Dibujo Técnico Aplicado a las Artes Plásticas y al Diseño I",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Observar, analizar y valorar la presencia de la geometría en la naturaleza, el",
+            "description": "Observar, analizar y valorar la presencia de la geometría en la naturaleza, el entorno construido y el arte, identificando sus estructuras geométricas, elementos y códigos, con una actitud proactiva de apreciación y disfrute, para explicar su origen,…",
+            "criterios": [
+                {
+                    "code": "CE1.1",
+                    "description": "Reconocer diferentes tipos de estructuras, formas y relaciones geométricas en la naturaleza, en el entorno urbano, en el arte y en el diseño, y también en los elementos de la vida cotidiana, analizando su función y valorando la importancia dentro del contexto histórico y social en el que aparecen."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Desarrollar propuestas gráficas y de diseño utilizando tanto el dibujo a mano",
+            "description": "Desarrollar propuestas gráficas y de diseño utilizando tanto el dibujo a mano alzada como los materiales propios del dibujo técnico y elaborando trazados, composiciones y transformaciones geométricas en el plano de forma intuitiva y razonada, para in…",
+            "criterios": [
+                {
+                    "code": "CE1.2",
+                    "description": "Dibujar formas poligonales y resolver tangencias básicas y simetrías aplicadas al diseño de formas, valorando la importancia de la limpieza y la precisión en el trazado con el instrumental de dibujo técnico."
+                },
+                {
+                    "code": "CE1.3",
+                    "description": "Transmitir ideas, sentimientos y emociones mediante la realización de estudios, esbozos y apuntes del natural a mano alzada, identificando la geometría interna y externa de las formas y apreciando su importancia en el dibujo de objetos y la composición en el cuadro."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Comprender e interpretar el espacio y los objetos tridimensionales analizando y",
+            "description": "Comprender e interpretar el espacio y los objetos tridimensionales analizando y valorando su presencia en las representaciones artísticas, seleccionando y utilizando el sistema de representación más adecuado para aplicarlo a la realización de ilustra…",
+            "criterios": [
+                {
+                    "code": "CE2.1",
+                    "description": "Diferenciar las características de los distintos sistemas de representación seleccionando en cada caso el sistema más apropiado a la finalidad de la representación."
+                },
+                {
+                    "code": "CE2.2",
+                    "description": "Representar objetos sencillos mediante sus vistas diédricas en sistema europeo."
+                },
+                {
+                    "code": "CE2.3",
+                    "description": "Diseñar envases sencillos representándolos de forma clara y precisa en perspectiva isométrica o caballera seleccionando en cada caso el sistema más apropiado a la finalidad de la representación y reflexionando sobre el proceso realizado y el resultado obtenido."
+                },
+                {
+                    "code": "CE2.4",
+                    "description": "Dibujar ilustraciones o viñetas aplicando las técnicas de la perspectiva cónica en la representación de espacios, objetos o personas desde distintos puntos de vista."
+                },
+                {
+                    "code": "CE3.1",
+                    "description": "Diferenciar las características de los distintos sistemas de representación seleccionando en cada caso el sistema más apropiado a la finalidad de la representación."
+                },
+                {
+                    "code": "CE3.2",
+                    "description": "Representar objetos sencillos mediante sus vistas diédricas en el sistema europeo."
+                },
+                {
+                    "code": "CE3.3",
+                    "description": "Diseñar envases sencillos representándolos de forma clara y precisa en perspectiva isométrica o caballera, seleccionando en cada caso el sistema más apropiado a la finalidad de la representación y reflexionando sobre el proceso realizado y el resultado obtenido."
+                },
+                {
+                    "code": "CE4.1",
+                    "description": "Representar objetos sencillos mediante sus vistas diédricas en sistema europeo."
+                },
+                {
+                    "code": "CE4.2",
+                    "description": "Diseñar envases sencillos representándolos de forma clara y precisa en perspectiva isométrica o caballera, seleccionando en cada caso el sistema más apropiado a la finalidad de la representación y reflexionando sobre el proceso realizado y el resultado obtenido."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Analizar, definir formalmente o visualizar ideas",
+            "description": "Analizar, definir formalmente o visualizar ideas, aplicando las normas fundamentales UNE e ISO para interpretar y representar objetos y espacios, así como documentar proyectos de diseño. - Este objetivo requiere la aplicación de una serie de códigos …",
+            "criterios": [
+                {
+                    "code": "CE1.4",
+                    "description": "Realizar bocetos y croquis conforme a la norma UNE ISO comunicando la forma y las dimensiones de objetos, proponiendo ideas creativas y resolviendo problemas con autonomía, limpieza y precisión."
+                },
+                {
+                    "code": "CE2.5",
+                    "description": "Realizar bocetos y croquis conforme a la norma UNE ISO, comunicando la forma y las dimensiones de objetos, proponiendo ideas creativas y resolviendo problemas con autonomía, limpieza y precisión."
+                },
+                {
+                    "code": "CE3.4",
+                    "description": "Realizar bocetos y croquis conforme a la norma UNE ISO, comunicando la forma y las dimensiones de objetos, proponiendo ideas creativas y resolviendo problemas con autonomía, limpieza y precisión."
+                },
+                {
+                    "code": "CE4.3",
+                    "description": "Realizar bocetos y croquis conforme a la norma UNE ISO, comunicando la forma y las dimensiones de objetos, proponiendo ideas creativas y resolviendo problemas con autonomía, limpieza y precisión."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Integrar y aprovechar las posibilidades que ofrecen las herramientas digitales,",
+            "description": "Integrar y aprovechar las posibilidades que ofrecen las herramientas digitales, seleccionando y utilizando programas y aplicación específicas de dibujo vectorial 2D y de modelado 3D para desarrollar procesos de creación artística personal o de diseño…",
+            "criterios": [
+                {
+                    "code": "CE4.4",
+                    "description": "Adquirir destrezas en el manejo de programas, herramientas y técnicas de dibujo vectorial en 2D, aplicándolos a la realización de proyectos de diseño."
+                },
+                {
+                    "code": "CE4.5",
+                    "description": "Iniciarse en el modelado en 3D mediante el diseño de esculturas o instalaciones, valorando su potencial como herramienta de creación y expresión."
+                }
+            ]
+        }
+    ]
+}

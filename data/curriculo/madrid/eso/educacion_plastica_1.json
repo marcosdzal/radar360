@@ -1,0 +1,242 @@
+{
+    "community": "madrid",
+    "stage": "eso",
+    "decree": "Decreto 65/2022, de 20 de julio",
+    "subject": "educacion_plastica",
+    "subject_name": "Educación Plástica, Visual y Audiovisual",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Comprender la importancia que algunos ejemplos",
+            "description": "Comprender la importancia que algunos ejemplos seleccionados de las distintas manifestaciones culturales y artísticas han tenido en el desarrollo del ser humano, mostrando interés por el patrimonio como parte de la propia cultura, para entender cómo se convierten en el testimonio de los valores y convicciones de cada persona y de la sociedad en su conjunto, y para reconocer la necesidad de su protección y conservación.",
+            "descriptors": [
+                "CCL1",
+                "CPSAA3",
+                "CC1",
+                "CC2",
+                "CCEC1"
+            ],
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Buscar información para reconocer los factores históricos y sociales que rodean a las producciones plásticas más relevantes, del Paleolítico al Renacimiento."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Describir la función y finalidad de diferentes obras de arte, del Paleolítico al Renacimiento, con interés y respeto."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Reproducir de forma guiada alguna obra de arte o de diseño introduciendo modificaciones que persigan modificar su función."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Valorar la importancia de la conservación del patrimonio cultural y artístico, a través del conocimiento y el análisis guiado de obras de arte, del Paleolítico al Renacimiento."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Explicar las producciones plásticas, visuales y",
+            "description": "Explicar las producciones plásticas, visuales y audiovisuales propias, comparándolas con las de sus iguales y con algunas de las que conforman el patrimonio cultural y artístico, justificando sus opiniones y teniendo en cuenta el progreso desde la intención hasta la realización, para valorar el intercambio, las experiencias compartidas y el diálogo intercultural, así como para superar estereotipos.",
+            "descriptors": [
+                "CCL1",
+                "CPSAA1",
+                "CPSAA3",
+                "CC1",
+                "CC3",
+                "CCEC1",
+                "CCEC3"
+            ],
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Describir, de forma guiada, diversas producciones artísticas, incluidas las propias y las de sus iguales, desarrollando con interés una mirada estética hacia el mundo y respetando la diversidad de las expresiones culturales."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Explicar de forma razonada, la importancia del proceso que media entre la realidad, el imaginario y la producción."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Realizar de forma guiada composiciones básicas aplicando de forma gradual los elementos configuradores de la imagen: punto, línea, plano, textura y color."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Conocer las técnicas básicas para la creación de bocetos que permitan expresar ideas sencillas."
+                },
+                {
+                    "code": "1.5",
+                    "description": "Identificar y analizar los diferentes niveles de iconicidad de la imagen gráfica elaborando dibujos esquemáticos, analíticos y miméticos."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Analizar diferentes propuestas plásticas, visuales y",
+            "description": "Analizar diferentes propuestas plásticas, visuales y audiovisuales, mostrando respeto y desarrollando la capacidad de observación e interiorización de la experiencia y del disfrute estético, para construir la cultura artística individual y alimentar el imaginario.",
+            "descriptors": [
+                "CCL1",
+                "CCL2",
+                "CD1",
+                "CPSAA4",
+                "CC1",
+                "CC3",
+                "CCEC2"
+            ],
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Seleccionar y describir propuestas plásticas, visuales y audiovisuales de diversos tipos y épocas, analizándolas con curiosidad y respeto, e incorporándolas a su cultura personal y su imaginario propio."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Conocer las principales técnicas grafico-plásticas secas, húmedas y mixtas y aplicar técnicas básicas en la realización de composiciones de diferente índole, evitando la representación de estereotipos."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Explorar las técnicas, los lenguajes y las intenciones de",
+            "description": "Explorar las técnicas, los lenguajes y las intenciones de diferentes producciones culturales y artísticas, analizando, de forma abierta y respetuosa, tanto el proceso como el producto final, su recepción y su contexto, para descubrir las diversas posibilidades que ofrecen como fuente generadora de ideas y respuestas.",
+            "descriptors": [
+                "CCL2",
+                "CD1",
+                "CD2",
+                "CPSAA3",
+                "CC3",
+                "CCEC2"
+            ],
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Observar y analizar de forma guiada los rasgos particulares de diversas técnicas y lenguajes artísticos, así como sus distintos procesos, buscando y analizando la información con interés y eficacia."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Identificar los elementos configuradores de la imagen."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Diferenciar las distintas técnicas empleadas en la elaboración de distintas obras plásticas."
+                },
+                {
+                    "code": "4.4",
+                    "description": "Experimentar con las diferentes técnicas analizando los resultados obtenidos en función de la intencionalidad perseguida."
+                },
+                {
+                    "code": "4.5",
+                    "description": "Establecer conexiones entre diferentes tipos de lenguajes plásticos, visuales y audiovisuales (fotografía, cómic, cine, publicidad, etc.), a través de un análisis guiado de las soluciones aportadas en cada caso."
+                },
+                {
+                    "code": "4.6",
+                    "description": "Componer un banco de imágenes seleccionando entre diferentes tipos de lenguajes plásticos, visuales y audiovisuales."
+                },
+                {
+                    "code": "4.7",
+                    "description": "Describir una imagen distinguiendo los aspectos denotativos y connotativos de la misma."
+                },
+                {
+                    "code": "4.8",
+                    "description": "Diseñar elementos visuales propios de un cómic, anuncio, objeto, cartel, producción audiovisual y composición artística."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Realizar producciones artísticas individuales o colectivas",
+            "description": "Realizar producciones artísticas individuales o colectivas con creatividad e imaginación, seleccionando y aplicando herramientas, técnicas y soportes en función de la intencionalidad, para expresar la visión del mundo, las emociones y los sentimientos propios, así como para mejorar la capacidad de comunicación y desarrollar la reflexión crítica y la autoconfianza.",
+            "descriptors": [
+                "CCL2",
+                "CPSAA1",
+                "CPSAA3",
+                "CPSAA4",
+                "CC3",
+                "CCEC3",
+                "CCEC4"
+            ],
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Expresar ideas y sentimientos en diferentes producciones plásticas, visuales y audiovisuales, a través de la experimentación con diversas herramientas, técnicas y soportes, desarrollando la capacidad de comunicación y la reflexión crítica."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Expresar sentimientos realizando composiciones que transmitan emociones básicas."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Aplicar métodos creativos para la elaboración de diseño gráfico, de producto, moda y sus múltiples aplicaciones."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Apropiarse de las referencias culturales y artísticas del",
+            "description": "Apropiarse de las referencias culturales y artísticas del entorno, identificando sus singularidades, para enriquecer las creaciones propias y desarrollar la identidad personal, cultural y social.",
+            "descriptors": [
+                "CCL2",
+                "CD1",
+                "CPSAA3",
+                "CC1",
+                "CCEC3"
+            ],
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Explicar su pertenencia a un contexto cultural concreto, a través del análisis de los aspectos formales y de los factores sociales que determinan diversas producciones culturales y artísticas actuales."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Diferenciar los aspectos formales de las producciones visuales y audiovisuales."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Aplicar las principales técnicas, recursos y convenciones",
+            "description": "Aplicar las principales técnicas, recursos y convenciones de los lenguajes artísticos, incorporando, de forma creativa, las posibilidades que ofrecen las diversas tecnologías, para integrarlos y enriquecer el diseño y la realización de un proyecto artístico.",
+            "descriptors": [
+                "CCL2",
+                "CCL3",
+                "STEM3",
+                "CD1",
+                "CD5",
+                "CC1",
+                "CC3",
+                "CCEC4"
+            ],
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Realizar un proyecto artístico con creatividad y de forma consciente, ajustándose al objetivo propuesto, experimentando con distintas técnicas visuales o audiovisuales en la generación de mensajes propios, y mostrando iniciativa en el empleo de lenguajes, materiales, soportes y herramientas."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Compartir producciones y manifestaciones artísticas,",
+            "description": "Compartir producciones y manifestaciones artísticas, adaptando el proyecto a la intención y a las características del público destinatario, para valorar distintas oportunidades de desarrollo personal.",
+            "descriptors": [
+                "CCL1",
+                "STEM3",
+                "CD3",
+                "CPSAA3",
+                "CPSAA5",
+                "CE3",
+                "CCEC4"
+            ],
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Reconocer los diferentes usos y funciones de las producciones y manifestaciones artísticas, argumentando de forma individual o colectiva sus conclusiones acerca de las oportunidades que pueden generar, con una actitud abierta y con interés por conocer su importancia en la sociedad."
+                },
+                {
+                    "code": "8.2",
+                    "description": "Desarrollar proyectos de forma guiada con una intención comunicativa, aproximándose a las distintas funciones y recursos que tiene el lenguaje visual y audiovisual."
+                }
+            ]
+        }
+    ]
+}

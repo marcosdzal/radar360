@@ -1,0 +1,248 @@
+{
+    "community": "comunidad-valenciana",
+    "stage": "eso",
+    "decree": "Decreto 107\/2022, de 5 de agosto",
+    "subject": "fisica_y_quimica_alt",
+    "subject_name": "Física i Química",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Resoldre problemes científics abordables en l'àmbit escolar a partir de",
+            "description": "Resoldre problemes científics abordables en l'àmbit escolar a partir de treballs d'investigació de caràcter experimental. 2.1.1.Descripció de la competència 1 Les experiències pràctiques dutes a terme en l'àmbit escolar que requereixen un treball exp…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analitzar i resoldre problemes associats a la mesura de sòlids irregulars."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Esbrinar, mitjançant dissenys experimentals, la influència de factors com la temperatura o la concentració en la velocitat de les reaccions químiques."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Investigar la substància que correspon a un determinat sòlid problema."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Dur a terme estudis experimentals sobre diferents tipus de reaccions."
+                },
+                {
+                    "code": "1.5",
+                    "description": "Comprovar que es compleix la llei de conservació de la massa en experiències de caràcter pràctic."
+                },
+                {
+                    "code": "1.6",
+                    "description": "Dur a terme experiències en les quals es produïsquen reaccions químiques de diferents tipus (descomposició, precipitació, síntesi, combustió, neutralització), identificant reactius i productes per les seues diferents propietats característiques, i, en el cas de les reaccions àcid-base, utilitzant l’escala de pH per a identificar el caràcter àcid o bàsic de les substàncies implicades."
+                },
+                {
+                    "code": "1.7",
+                    "description": "Dur a terme experiències senzilles de preparació de dissolucions, i descriure el procediment seguit i el material utilitzat, així com determinar-ne la concentració."
+                },
+                {
+                    "code": "1.8",
+                    "description": "Resoldre situacions problemàtiques relacionades amb el moviment dels cossos en situacions quotidianes."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Analitzar i resoldre situacions problemàtiques de l'àmbit de la física i la",
+            "description": "Analitzar i resoldre situacions problemàtiques de l'àmbit de la física i la química utilitzant la lògica científica i alternant les estratègies del treball individual amb el treball en equip. 2.2.1.Competència específica 2 Parlar de situacions proble…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Analitzar els enunciats de les situacions plantejades i descriure la situació a la qual es pretén donar resposta, identificant les variables que hi intervenen."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Triar, en resoldre un determinat problema, el tipus d’estratègia més adequada, i justificar-ne adequadament l’elecció."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Buscar i seleccionar la informació necessària per a la resolució de la situació en problemes suficientment delimitats."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Expressar, utilitzant el llenguatge matemàtic adequat al seu nivell, el procediment que s’ha seguit en la resolució d’un problema."
+                },
+                {
+                    "code": "2.5",
+                    "description": "Comprovar i interpretar les solucions trobades."
+                },
+                {
+                    "code": "2.6",
+                    "description": "Participar en equips de treball per a resoldre els problemes plantejats assumint diversos rols amb eficàcia i responsabilitat."
+                },
+                {
+                    "code": "2.7",
+                    "description": "oberta i complexa en el tercer curs."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Utilitzar el coneixement científic com a instrument del pensament crític,",
+            "description": "Utilitzar el coneixement científic com a instrument del pensament crític, interpretant i comunicant missatges científics, desenvolupant argumentacions i accedint a fonts fiables, per a distingir la informació contrastada de les faules i opinions. 2.3…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Buscar i seleccionar informació a partir d’una estratègia de filtrat i de forma contrastada en mitjans digitals, i identificar les fonts de les quals procedeix."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Exposar les idees d’una manera clara i ordenada, utilitzant un llenguatge precís i adequat."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Justificar la validesa del model científic com a producte dinàmic que es va",
+            "description": "Justificar la validesa del model científic com a producte dinàmic que es va revisant i reconstruint sota la influència del context social i històric, atenent la importància de la ciència en l'avanç de les societats, així com els riscos d'un ús inadeq…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Aportar exemples d’utilització del coneixement científic i relacionar-los amb les conseqüències que han tingut per a l’ésser humà i el desenvolupament de la societat."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Explicar la necessitat de sistematitzar d’una manera o d’una altra la nomenclatura química i la formulació de les substàncies."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Explicar el paper de les institucions científiques del segle XIX en el desenvolupament de les ciències fisicoquímiques. Analitzar la quantitat de dones presents i explicar-ne les causes."
+                },
+                {
+                    "code": "4.4",
+                    "description": "Descriure les dificultats per a establir una classificació dels elements químics i explicar la classificació de Mendeleiev, la seua originalitat i les seues limitacions."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Analitzar alguns fenòmens naturals i predir el seu comportament utilitzant",
+            "description": "Analitzar alguns fenòmens naturals i predir el seu comportament utilitzant models de la física i la química per a poder identificar-los, caracteritzar-los i explicar altres fenòmens nous. 2.5.1.Descripció de la competència 5 El desenvolupament del co…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Utilitzar el model cineticocorpuscular per a explicar els estats de la matèria i els seus canvis, així com la variació de la densitat en els canvis d’estat."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Utilitzar el model del canvi químic per a explicar la transformació d’unes substàncies en unes altres de diferents propietats."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Utilitzar el model d'interacció per explicar els canvis en la velocitat dels cossos o les seues deformacions."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Utilitzar adequadament el llenguatge científic propi de la física i la química",
+            "description": "Utilitzar adequadament el llenguatge científic propi de la física i la química en la interpretació i transmissió d'informació. 2.6.1.Descripció de la competència 6 La comunitat científica utilitza un llenguatge universal que permet establir fluxos d'…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Reconéixer la terminologia conceptual pròpia de l’àrea i utilitzar-la correctament en activitats orals i escrites."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Llegir textos d’extensió breu en formats diversos propis de l’àrea utilitzant les estratègies de comprensió lectora per a obtindre informació i aplicar-la en la reflexió sobre el contingut."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Escriure textos descriptius i explicatius propis de l’àrea en diversos formats i suports, cuidant els seus aspectes formals, aplicant les normes de correcció ortogràfica i gramatical, per a transmetre de manera organitzada els seus coneixements amb un llenguatge no discriminatori."
+                },
+                {
+                    "code": "6.4",
+                    "description": "Expressar oralment textos prèviament planificats, propis de l’àrea, en exposicions de curta duració, per a transmetre de manera organitzada els seus coneixements amb un llenguatge no discriminatori."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Interpretar correctament la informació presentada en diferents formats de",
+            "description": "Interpretar correctament la informació presentada en diferents formats de representació gràfica i simbòlica utilitzats habitualment en la física i la química. 2.7.1.Descripció de la competència 7 Quan es disposa de dades d'un estudi científic, i aban…",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Reconéixer la importància de normalització del sistema d’unitats i utilitzar adequadament les mesures del sistema internacional."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Fer canvis d’unitats de massa, longitud, superfície i volum."
+                },
+                {
+                    "code": "7.3",
+                    "description": "Construir taules de parelles de valors massa- volum de substàncies sòlides i líquides. Construir els gràfics representatius. Predir i interpretar representacions V = f (T); P = f (V); P = f (T)."
+                },
+                {
+                    "code": "7.4",
+                    "description": "Reconéixer el significat de fórmula química emprant símbols químics. Distingir entre l’ús de fórmules químiques quan s’utilitzen per a representar molècules i quan s’utilitzen per a representar estructures cristal·lines o polimèriques."
+                },
+                {
+                    "code": "7.5",
+                    "description": "Interpretar les corbes de solubilitat de diferents substàncies."
+                },
+                {
+                    "code": "7.6",
+                    "description": "Construir i interpretar gràfics espai-temps i velocitat- temps en casos d'acceleració constant."
+                }
+            ]
+        },
+        {
+            "code": "CE9",
+            "name": "Identificar i caracteritzar les substàncies a partir de les seues propietats",
+            "description": "Identificar i caracteritzar les substàncies a partir de les seues propietats físiques per a relacionar els materials del nostre entorn amb l'ús que se'n fa. 2.9.1.Descripció de la competència 9 L'estudi de la composició, estructura i propietats de le…",
+            "criterios": [
+                {
+                    "code": "9.1",
+                    "description": "Utilitzar les propietats característiques de les substàncies per a proposar mètodes de separació de mescles, i descriure el material de laboratori adequat."
+                },
+                {
+                    "code": "9.2",
+                    "description": "Classificar materials per les seues propietats, relacionant les propietats dels materials del nostre entorn amb l’ús que se’n fa."
+                },
+                {
+                    "code": "9.3",
+                    "description": "Comparar les densitats de diferents substàncies (sòlids, líquids i gasos)."
+                },
+                {
+                    "code": "9.4",
+                    "description": "Distingir entre sistemes materials d’ús quotidià per a classificar-los en substàncies pures i mescles, i diferenciar-los entre els seus diferents tipus."
+                }
+            ]
+        },
+        {
+            "code": "CE0",
+            "name": "Caracteritzar els canvis químics com a transformació d'unes substàncies en",
+            "description": "Caracteritzar els canvis químics com a transformació d'unes substàncies en altres de diferents i reconéixer la importància de les transformacions químiques en activitats i processos quotidians. 2.10.1.Descripció de la competència 10 L'estudi de les r…",
+            "criterios": [
+                {
+                    "code": "10.1",
+                    "description": "Reconéixer situacions de la vida quotidiana en les quals es produeixen reaccions químiques i predir com la influència d’uns certs factors pot servir per a controlar aquests processos, alentint-los o accelerant-los per a solucionar problemes que afecten la nostra qualitat de vida."
+                },
+                {
+                    "code": "10.2",
+                    "description": "Descriure reaccions d’interés industrial i els usos dels productes obtinguts, així com les reaccions de combustió, per a justificar la seua importància en la producció d’energia elèctrica i altres reaccions d’importància biològica o industrial."
+                }
+            ]
+        },
+        {
+            "code": "CE1",
+            "name": "Identificar les interaccions com a causa de les transformacions que tenen lloc",
+            "description": "Identificar les interaccions com a causa de les transformacions que tenen lloc en el nostre entorn físic per a poder intervindre en aquest modificant les condicions que ens permeten una millora en les nostres condicions de vida. 2.11.1.Descripció de …",
+            "criterios": [
+                {
+                    "code": "11.1",
+                    "description": "Reconèixer les diferents forces que apareixen a la natura i els diferents fenòmens associats a elles."
+                },
+                {
+                    "code": "11.2",
+                    "description": "Relacionar les forces amb els efectes que produeixen i comprovar aquesta relació experimentalment, registrant-ne els resultats en taules i representacions gràfiques."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "community": "canarias",
+    "stage": "bachillerato",
+    "decree": "Decreto 73\/2023, de 13 de abril",
+    "subject": "matematicas_ccss",
+    "subject_name": "Matemáticas Aplicadas a las Ciencias Sociales I",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "(c1) Con el desarrollo de esta competencia específica se trabajará la",
+            "description": "(c1) Con el desarrollo de esta competencia específica se trabajará la modelización y la resolución de problemas, procesos que constituyen un eje fundamental en el aprendizaje de las matemáticas, ya que son pilares centrales en la construcción del con…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Aplicar estrategias y herramientas digitales en problemas cotidianos y sociales, valorando su eficiencia."
+                },
+                {
+                    "code": "1.2",
+                    "description": "El alumnado obtiene todas las soluciones matemáticas de problemas de la vida cotidiana y ciencias sociales, describiendo el procedimiento seguido."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "(c2) Siguiendo en la línea de resolución de problemas, la segunda competencia",
+            "description": "(c2) Siguiendo en la línea de resolución de problemas, la segunda competencia específica se centra en el análisis y la interpretación de las soluciones y conclusiones obtenidas, considerando, además de la validez matemática, diferentes perspectivas c…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Verificar que las soluciones de un problema son matemáticamente válidas mediante razonamiento y argumentación."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Elegir la solución óptima justificando con argumentos contextuales (sostenibilidad, consumo, equidad)."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "(c3) Esta competencia específica trabaja el razonamiento y la demostración, que",
+            "description": "(c3) Esta competencia específica trabaja el razonamiento y la demostración, que son aspectos fundamentales de las matemáticas, ya que permiten al alumnado tomar conciencia del sentido de los aprendizajes realizados y, a la vez, le ofrece herramientas…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "El alumnado elabora conjeturas y problemas matemáticos guiados, aplicando razonamiento y argumentación para construir nuevo conocimiento."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "(c4) Esta competencia específica desarrolla el pensamiento computacional que se",
+            "description": "(c4) Esta competencia específica desarrolla el pensamiento computacional que se vincula directamente con la resolución de problemas y con el planteamiento de procedimientos, ya que será necesaria la abstracción para identificar las partes más relevan…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Resolver problemas de ciencias sociales usando pensamiento computacional, modificando o creando algoritmos."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "(c5) Esta competencia específica está dirigida a establecer vínculos entre",
+            "description": "(c5) Esta competencia específica está dirigida a establecer vínculos entre conceptos, procedimientos y argumentos en el primer curso, ampliando con modelos matemáticos en el segundo, lo que proporcionará una comprensión más profunda de la materia, es…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Conectar conceptos, procedimientos y modelos matemáticos para mostrar una comprensión integrada."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Resolver problemas aplicando conexiones entre distintas ideas matemáticas (funciones, estadística, etc.) para dar significado al aprendizaje."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "(c6) Esta competencia específica trata sobre las relaciones entre las",
+            "description": "(c6) Esta competencia específica trata sobre las relaciones entre las matemáticas y las situaciones del día a día que se consideran aspectos relevantes y existenciales de la propia materia, pues es precisamente de situaciones de la vida cotidiana de …",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Resolver problemas reales usando matemáticas, explicitando conexiones entre el contexto y los conceptos matemáticos."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Analizar cómo las matemáticas han contribuido a resolver problemas sociales, reflexionando sobre su aportación al progreso humano."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "(c7) Esta competencia específica trabaja las representaciones de conceptos,",
+            "description": "(c7) Esta competencia específica trabaja las representaciones de conceptos, procedimientos e información matemática, las cuales facilitan el razonamiento y la demostración. Dichas representaciones, que están presentes de forma natural en las ciencias…",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Representar ideas matemáticas usando tecnologías para visualizar y estructurar razonamientos."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Seleccionar y usar representaciones matemáticas valorando su utilidad para comunicar información."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "(c8) En la sociedad de la información se hace cada día más patente la necesidad",
+            "description": "(c8) En la sociedad de la información se hace cada día más patente la necesidad de una comunicación clara y veraz, tanto oralmente como por escrito, y es precisamente esta necesidad la que se trabaja en la octava competencia específica. Interactuar c…",
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Organizar la comunicación matemática usando terminología y soporte adecuados, mostrando claridad y rigor."
+                },
+                {
+                    "code": "8.2",
+                    "description": "Usar lenguaje matemático preciso al comunicar resultados de un análisis de datos."
+                }
+            ]
+        },
+        {
+            "code": "CE9",
+            "name": "(c9) La novena competencia específica integra conocimientos, destrezas y",
+            "description": "(c9) La novena competencia específica integra conocimientos, destrezas y actitudes para conocer y gestionar las emociones y para trabajar con otras personas de manera constructiva.",
+            "criterios": [
+                {
+                    "code": "9.1",
+                    "description": "Valorar la incertidumbre y el error en matemáticas, identificando y gestionando emociones."
+                },
+                {
+                    "code": "9.2",
+                    "description": "Acepta y aprende de la crítica razonada mostrando actitud positiva y perseverante en matemáticas sociales."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "community": "cataluna",
+    "stage": "eso",
+    "decree": "",
+    "subject": "biologia_y_geologia",
+    "subject_name": "Biologia i Geologia",
+    "grade": 4,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Interpretar y transmitir información y datos científicos argumentando sobre",
+            "description": "Interpretar y transmitir información y datos científicos argumentando sobre ellos y utilizando diferentes formatos para analizar conceptos y procesos de las ciencias biológicas y geológicas.",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analitzar conceptes, fenòmens i processos relacionats amb els sabers de la biologia i la geologia, interpretant informació en diferents formats (models, gràfics, taules, diagrames, fórmules, esquemes, símbols, pàgines web…), mantenint una actitud crítica i obtenint conclusions fonamentades en raons"
+                },
+                {
+                    "code": "1.2",
+                    "description": "Interpretar i predir el comportament de fenòmens quotidians, argumentant-ho amb rigor sobre la base de models, lleis i teories adequades de la biologia i la geologia."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Identificar els conceptes relacionats amb situacions problemàtiques reals de caràcter científic, proporcionar possibles solucions i argumentar sobre la seva validesa."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Identificar, localizar y seleccionar información, contrastando su veracidad,",
+            "description": "Identificar, localizar y seleccionar información, contrastando su veracidad, organizándola y evaluándola críticamente para resolver preguntas relacionadas con las ciencias biológicas y geológicas.",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Resoldre qüestions i aprofundir en aspectes relacionats amb els sabers de la matèria de Biologia i Geologia localitzant, seleccionant, organitzant i analitzant críticament la informació de diferents fonts, citant-les correctament amb respecte per la propietat intel·lectual."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Contrastar la fiabilitat de la informació sobre temes relacionats amb els sabers de la matèria de Biologia i Geologia, utilitzant fonts fiables (tenint en compte si s’identifica l’autor o responsable, si hi ha una institució al darrere, quina és la finalitat o intenció de publicar aquella informació, si es pot verificar amb altres fonts, si hi ha bibliografia, etc.) adoptant una actitud crítica i escèptica vers informacions no fonamentades en la ciència, com pseudociències, teories conspiratòries, creences, falses notícies, mentides, etc."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Planificar y desarrollar proyectos de investigación, siguiendo los pasos de las",
+            "description": "Planificar y desarrollar proyectos de investigación, siguiendo los pasos de las metodologías propias de la ciencia y cooperando cuando sea necesario para indagar en aspectos relacionados con las ciencias geológicas y biológicas.",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Plantejar preguntes sobre fenòmens quotidians i formular hipòtesis que puguin ser respostes o contrastades en el context escolar a través de l’experimentació, la presa de dades i l’anàlisi de fenòmens biològics i geològics, diferenciant-les d’aquelles"
+                },
+                {
+                    "code": "3.2",
+                    "description": "Dissenyar, fent servir metodologies pròpies de la ciència, procediments de recerca que impliquin l’ús de la deducció, el treball experimental i el raonament logicomatemàtic."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Portar a terme l’experimentació plantejada fent servir els instruments, eines o tècniques adequades amb correcció i interpretar-ne els resultats quan sigui necessari amb eines matemàtiques i tecnològiques per obtenir conclusions raonades i fonamentades o valorar la impossibilitat de fer-ho."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Establir col·laboracions quan sigui necessari en les diferents fases del projecte científic per treballar amb més eficiència, valorant la importància de la cooperació en la investigació, respectant la diversitat i afavorint la inclusió."
+                },
+                {
+                    "code": "3.5",
+                    "description": "Presentar de manera clara i rigorosa els resultats i les conclusions obtingudes mitjançant l’experimentació, argumentant la connexió entre uns i altres, i l’observació de camp, utilitzant el format adequat (taules, gràfics, informes, etc.) i eines digitals."
+                },
+                {
+                    "code": "3.6",
+                    "description": "Valorar la contribució de la ciència a la societat i la tasca de les persones que s’hi han dedicat, argumentant sobre els biaixos de gènere en les ciències i la tecnologia i entenent la recerca com una tasca col·lectiva i interdisciplinària en constant evolució, influïda pel context polític i els recursos econòmics."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Utilizar el razonamiento y el pensamiento computacional, analizando",
+            "description": "Utilizar el razonamiento y el pensamiento computacional, analizando críticamente las respuestas y soluciones y reformulando el procedimiento, si fuera necesario, para resolver problemas o dar explicación a procesos de la vida cotidiana relacionados c…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Resoldre problemes o donar explicació a processos biològics o geològics utilitzant coneixements, dades i informació aportades, el raonament lògic, el pensament computacional o recursos digitals."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Analitzar críticament la solució a un problema o fenòmens biològics i geològics i canviar els procediments usats o revisar les conclusions si aquesta solució no fos viable o davant de noves dades aportades amb posterioritat."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Analizar los efectos de determinadas acciones sobre el medio ambiente y la",
+            "description": "Analizar los efectos de determinadas acciones sobre el medio ambiente y la salud, basándose en los fundamentos de las ciencias biológicas y de la Tierra, para promover y adoptar hábitos que eviten o minimicen los impactos medioambientales negativos, …",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Justificar amb fonaments científics la importància de la preservació de la biodiversitat, la conservació de l’entorn, la protecció dels éssers vius de l’entorn, el desenvolupament sostenible i la qualitat de vida i identificar els possibles riscos naturals potenciats per determinades accions humanes sobre una zona geogràfica, tenint en compte les seves característiques litològiques, el relleu i la vegetació."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Argumentar sobre la necessitat de tenir hàbits sostenibles, analitzant les accions pròpies i alienes (hàbits de consum, generació residus, transport...), amb actitud crítica i basant-se en fonaments del funcionament dels sistemes naturals."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Argumentar sobre la necessitat de tenir hàbits saludables, analitzant les accions pròpies i alienes (alimentació, higiene, postura corporal, activitat física, desplaçaments segurs, relacions interpersonals, descans, exposició a les pantalles, maneig de l’estrès, seguretat en les pràctiques sexuals, consum de substàncies ... ), amb actitud crítica i basant-se en fonaments de la fisiologia."
+                },
+                {
+                    "code": "5.4",
+                    "description": "Argumentar, justificant les raons aportades, sobre com els coneixements derivats de la biologia i la geologia poden contribuir a millorar la sostenibilitat ambiental i la salut individual i col·lectiva"
+                },
+                {
+                    "code": "5.5",
+                    "description": "Emprendre, de forma autònoma amb la metodologia adequada, projectes científics relacionats amb la millora de la societat i que afavoreixin el creixement"
+                },
+                {
+                    "code": "5.6",
+                    "description": "Adoptar actituds compromeses i actives davant de pràctiques, comportaments i hàbits per a una mobilitat segura i sostenible que suposen un risc per a la nostra salut, contrastant informacions fiables, objectives i amb una base científica vàlida."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Analizar los elementos de un paisaje concreto valorándolo como patrimonio",
+            "description": "Analizar los elementos de un paisaje concreto valorándolo como patrimonio natural y utilizando conocimientos sobre geología y ciencias de la Tierra para explicar su historia geológica, proponer acciones encaminadas a su protección e identificar posib…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Justificar les relacions i la influència mútua que mantenen els diferents elements del paisatge"
+                },
+                {
+                    "code": "6.2",
+                    "description": "Relacionar el grau de desenvolupament integral d’un paisatge"
+                },
+                {
+                    "code": "6.3",
+                    "description": "Identificar i analitzar críticament les activitats humanes que impacten en el paisatge i fer propostes plausibles de reversió."
+                },
+                {
+                    "code": "6.4",
+                    "description": "Identificar els principals riscos geològics derivats de causes naturals o antròpiques i proposar mesures de prevenció i correcció."
+                },
+                {
+                    "code": "6.5",
+                    "description": "Deduir i explicar la història d’un paisatge concret identificar-ne els elements més rellevants, utilitzant el raonament, els coneixements sobre la successió i els principis geològics bàsics (horitzontalitat, superposició, actualisme, neocatastrofisme...)."
+                }
+            ]
+        }
+    ]
+}

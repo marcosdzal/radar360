@@ -1,0 +1,66 @@
+{
+    "community": "canarias",
+    "stage": "eso",
+    "decree": "Decreto 30\/2023, de 16 de marzo",
+    "subject": "filosofia",
+    "subject_name": "Educación en Valores Cívicos y Éticos",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "(c1) Con el desarrollo de esta competencia, el propósito es que el alumnado",
+            "description": "(c1) Con el desarrollo de esta competencia, el propósito es que el alumnado ejercite su autoconocimiento, partiendo de una comprensión tanto filosófica como científica del ser humano desde una perspectiva ética y crítica. Para ello es fundamental que…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Definir la identidad personal integrando dimensiones cívicas y morales, basándose en la investigación de diversas concepciones humanas y el diálogo reflexivo con el grupo."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Expresar y regular las propias emociones y deseos de forma empática y asertiva, fomentando el autoconocimiento y estableciendo relaciones afectivas y sexuales sanas y respetuosas."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "(c2) Con esta competencia se trata de que el alumnado asuma un conjunto de",
+            "description": "(c2) Con esta competencia se trata de que el alumnado asuma un conjunto de normas y valores cívicos y éticos, y reflexione sobre su naturaleza histórica y social. Destacando fundamentalmente su carácter como ciudadano y ciudadana de un Estado democrá…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Investigar los fundamentos sociales y políticos del ser humano, aplicando conceptos como democracia y derechos humanos para fomentar una convivencia pacífica y comprometida con el bien común."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Participar activamente en proyectos grupales y toma de decisiones democráticas, aplicando principios cívicos y conociendo el funcionamiento de las asociaciones para resolver problemas colectivos."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Analizar problemas sociales contemporáneos y dilemas científicos para adoptar una postura razonada y dialogante que promueva el compromiso activo con el bienestar de la comunidad."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "(c3) Con el desarrollo de esta competencia, se pretende visibilizar las",
+            "description": "(c3) Con el desarrollo de esta competencia, se pretende visibilizar las conexiones de interdependencia y ecodependencia entre el entorno natural y su forma de vida para generar un compromiso ético con la protección del medioambiente y el desarrollo s…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Explicar cómo las acciones humanas y el medioambiente dependen entre sí, analizando históricamente el origen y los efectos de los problemas ecológicos y sociales actuales."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "(c4) Esta competencia se ocupa del reconocimiento y gestión de las emociones,",
+            "description": "(c4) Esta competencia se ocupa del reconocimiento y gestión de las emociones, la expresión adecuada de su afectividad, su autoestima y autoconcepto. Con la finalidad de formarse como persona equilibrada, tener relaciones plenas y aprender a reconocer…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Gestionar y expresar emociones de forma asertiva, reconociendo los sentimientos ajenos mediante la reflexión individual y el diálogo sobre problemas éticos y el cuidado personal."
+                }
+            ]
+        }
+    ]
+}

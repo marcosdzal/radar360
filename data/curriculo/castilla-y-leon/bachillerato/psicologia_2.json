@@ -1,0 +1,140 @@
+{
+    "community": "castilla-y-leon",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "psicologia",
+    "subject_name": "Psicología",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Conocer la Psicología como ciencia que trata de la conducta y los procesos",
+            "description": "Conocer la Psicología como ciencia que trata de la conducta y los procesos mentales del individuo desde una dimensión teórica y práctica, con objetivos, características, ramas y técnicas de investigación propios, valorando su contribución a la adquis…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Explicar el origen y el desarrollo histórico de la Psicología hasta constituirse como ciencia independiente, conociendo las principales escuelas psicológicas, valorando las técnicas y los métodos psicológicos a través del análisis crítico de textos. (CCL1, CCL2, CP2)"
+                },
+                {
+                    "code": "1.2",
+                    "description": "Distinguir la dimensión teórica y práctica de la Psicología, identificando los objetivos, ramas y métodos, en relación, como ciencia multidisciplinar, con otras ciencias cuyo fin es la comprensión de los fenómenos humanos, como la Filosofía, Biología, Antropología y Economía, estableciendo relaciones interdisciplinares. (STEM2, STEM4, CD1)"
+                },
+                {
+                    "code": "1.3",
+                    "description": "Reconocer y expresar las aportaciones más importantes de la Psicología, desde sus inicios hasta la actualidad, identificando los principales problemas planteados y las soluciones aportadas por las diferentes corrientes psicológicas contemporáneas y realizando un análisis crítico de textos significativos y breves de contenido psicológico, identificando las problemáticas planteadas y relacionándolas con lo estudiado en la unidad. (CPSAA4, CPSAA5, CC1)"
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Comprender la especificidad del cerebro humano, su estructura y su evolución,",
+            "description": "Comprender la especificidad del cerebro humano, su estructura y su evolución, valorando las diferentes técnicas de investigación, así como la relación entre la conducta y sus bases genéticas, para entender dichos elementos como componentes explicativ…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Explicar, desde un enfoque antropológico, la evolución del cerebro humano distinguiendo sus características específicas de las de otros animales, describiendo la importancia del desarrollo neurológico y las consecuencias que de ellas se derivan. (CCL1, STEM4)"
+                },
+                {
+                    "code": "2.2",
+                    "description": "Entender y valorar las diferentes investigaciones del cerebro y su impacto en el avance científico acerca de la explicación de la conducta, mediante la descripción de enfermedades y trastornos mentales, conociendo las técnicas desarrolladas para su tratamiento. (STEM4, CD1)"
+                },
+                {
+                    "code": "2.3",
+                    "description": "Comprender y reconocer algunas de las bases genéticas que determinan la conducta humana, apreciando la relación de causa y efecto que puede existir entre ambas y destacando el origen de algunas enfermedades producidas por alteraciones genéticas. (CPSAA4, CPSAA5, CC1)"
+                },
+                {
+                    "code": "2.4",
+                    "description": "Investigar la influencia del sistema endocrino sobre el cerebro y los comportamientos derivados de ello, valorando la importancia de la relación entre ambos. (CPSAA4, CPSAA5, CC1)"
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Entender los procesos cognitivos básicos como la percepción, atención, memoria",
+            "description": "Entender los procesos cognitivos básicos como la percepción, atención, memoria y el olvido, así como los estados de conciencia y drogas, valorando al ser humano como procesador de información y apreciando los factores individuales y sociales en los p…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Conocer el funcionamiento de los sentidos y comprender la percepción humana como un proceso constructivo eminentemente subjetivo y limitado, en el cual tiene su origen el conocimiento sobre la realidad, distinguiendo las aportaciones de las principales teorías sobre la percepción y apreciando la relevancia que tienen las influencias individuales y sociales en la misma. (CCL1, CCL2)"
+                },
+                {
+                    "code": "3.2",
+                    "description": "Conocer y analizar la estructura, tipos y funcionamiento de la memoria humana investigando las aportaciones de algunas teorías actuales, comprendiendo el origen y los factores que influyen en el desarrollo de esta capacidad en el ser humano y utilizando sus aportaciones en su propio aprendizaje. (STEM2, CD1)"
+                },
+                {
+                    "code": "3.3",
+                    "description": "Comprender las características del sueño y de los estados alterados de conciencia motivados por el consumo de drogas, valorando críticamente los factores que conducen a su uso y abuso, y las consecuencias de su consumo, mediante el desarrollo de la autonomía y el criterio propio frente a las presiones sociales. (CPSAA3.1, CC1, STEM5)"
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Analizar las principales teorías sobre el aprendizaje, la inteligencia y el",
+            "description": "Analizar las principales teorías sobre el aprendizaje, la inteligencia y el pensamiento distinguiendo las causas que influyen en estos procesos para comprender sus aplicaciones al ámbito social, valorando la importancia de la inteligencia emocional e…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Conocer las principales teorías sobre el aprendizaje, identificando los factores que cada una de ellas considera determinantes en este proceso, iniciándose en la comprensión de este fenómeno, comprobando sus aplicaciones en el campo social y utilizando sus conocimientos para mejorar su propio aprendizaje. (CPSAA1.2, CPSAA4, CPSAA5)"
+                },
+                {
+                    "code": "4.2",
+                    "description": "Comprender los procesos cognitivos superiores del ser humano, como la inteligencia y el pensamiento, mediante el conocimiento de algunas teorías explicativas de su naturaleza y desarrollo, distinguiendo los factores que influyen en él e investigando críticamente la eficacia de las técnicas de medición utilizadas y el concepto de (CCL2, CCL4, CPSAA1.2)"
+                },
+                {
+                    "code": "4.3",
+                    "description": "Evaluar los aspectos positivos y negativos de la inteligencia artificial, identificando los peligros que puede representar, evitando la equivocada humanización de las máquinas pensantes y la deshumanización de las personas, y analizando las diferencias y similitudes entre los lenguajes, el razonamiento y la creatividad humana y artificial. (CPSAA1.2, CC1)"
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Explicar y valorar el significado de la motivación, la personalidad y la",
+            "description": "Explicar y valorar el significado de la motivación, la personalidad y la afectividad como dimensiones esenciales de los seres humanos analizando los conflictos y las influencias genéticas, medioambientales y culturales teniendo en cuenta las teorías …",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Seleccionar información acerca de las teorías sobre la motivación, su clasificación y su relación con otros procesos cognitivos y la frustración, valorando la importancia de la motivación en el ámbito educativo y laboral. (CCL3, STEM2, STEM4)"
+                },
+                {
+                    "code": "5.2",
+                    "description": "Describir, estableciendo semejanzas y diferencias, las diversas teorías de la personalidad reconociendo sus aportaciones y distinguiendo los cambios que se producen en cada fase de desarrollo valorando críticamente las limitaciones de algunos métodos y estrategias para la evaluación de la personalidad. (CCL3, CPSAA2, CPSAA3.1)"
+                },
+                {
+                    "code": "5.3",
+                    "description": "Entender y reflexionar sobre la complejidad que implica definir qué es un trastorno mental, describiendo algunos de los factores genéticos, ambientales y evolutivos"
+                },
+                {
+                    "code": "5.4",
+                    "description": "Reconocer y valorar los distintos tipos de afectos, así como el origen de algunos trastornos emocionales, valorando la repercusión que tiene en nuestro desarrollo vital y personal y especificando sus determinantes hereditarios y aprendidos. (CPSAA2, CPSAA3.1)"
+                },
+                {
+                    "code": "5.5",
+                    "description": "Apreciar la importancia que, en el desarrollo y maduración del individuo, tienen las relaciones afectivas y sexuales, promoviendo actitudes maduras, igualitarias y tolerantes ante la diversidad sexual. (STEM2, STEM4, STEM5)"
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Desarrollar una comprensión madura e informada de la sociabilidad humana,",
+            "description": "Desarrollar una comprensión madura e informada de la sociabilidad humana, valorando los procesos psicológicos de las masas y la importancia de la Psicología en el entorno del trabajo y las organizaciones, apreciando la interiorización de normas y val…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Comprender y apreciar la dimensión social del ser humano y las diferencias culturales valorando su impacto en el comportamiento de los individuos. (CC1, CCEC2)"
+                },
+                {
+                    "code": "6.2",
+                    "description": "Conocer y valorar los procesos psicológicos de las masas, su naturaleza, características y pautas de comportamiento, reconociendo las situaciones de vulnerabilidad en las que el individuo pueda perder el control sobre sus propios actos, elaborando conclusiones acerca del poder de persuasión que producen las masas. (CC1, STEM4)"
+                },
+                {
+                    "code": "6.3",
+                    "description": "Entender y describir la importancia que actualmente tiene la Psicología en el campo laboral y el desarrollo organizacional, identificando los errores psicológicos que se producen en su gestión, buscando los recursos adecuados para afrontar los problemas y valorando la importancia del liderazgo como condición necesaria para la gestión de las empresas. (CE2, STEM4)"
+                },
+                {
+                    "code": "6.4",
+                    "description": "Generar un criterio propio, analizando las comunidades virtuales y las redes sociales, reconociéndolos como nuevos espacios colectivos con dinámicas propias y generadores, tanto de oportunidades como de riesgos, investigando críticamente en páginas de internet. (CCL2, CCL3, CD4)"
+                }
+            ]
+        }
+    ]
+}

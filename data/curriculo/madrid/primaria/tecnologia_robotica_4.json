@@ -1,0 +1,153 @@
+{
+    "community": "madrid",
+    "stage": "primaria",
+    "decree": "Decreto 61/2022, de 13 de julio",
+    "subject": "tecnologia_robotica",
+    "subject_name": "Tecnología y Robótica",
+    "grade": 4,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Utilizar el pensamiento computacional para la resolución de",
+            "description": "Utilizar el pensamiento computacional para la resolución de problemas, generando un producto creativo y original que responda a cada uno de los retos planteados o generados a través de la observación del entorno.",
+            "descriptors": [
+                "CCL1",
+                "CP1",
+                "STEM1",
+                "STEM2",
+                "STEM3"
+            ],
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Conocer los fundamentos básicos de la programación por bloques."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Realizar un conjunto de operaciones sistemáticas o algoritmos que cumplan un patrón previamente fijado para el funcionamiento correcto del programa."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Recabar información del entorno que nos permita obtener datos necesarios para generar un producto que dé una solución tecnológica sobre una situación concreta."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Resolver problemas planteados aplicando los conocimientos",
+            "description": "Resolver problemas planteados aplicando los conocimientos de mecánica, electricidad, diseño y programación, desarrollando soluciones automatizadas, diseñando o construyendo sistemas de control programables y/o robóticos adecuados a su nivel.",
+            "descriptors": [
+                "CCL1",
+                "STEM1",
+                "STEM2",
+                "STEM3",
+                "STEM4"
+            ],
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Aplicar los conocimientos elementales de electricidad y mecánica para el montaje de artefactos."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Realizar, de forma guiada, un producto final sencillo que dé solución a un problema de diseño, probando en equipo, diferentes prototipos y utilizando de forma segura los materiales de mecánica, electricidad o programación."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Mostrar de forma oral o gráfica el producto final de los proyectos de diseño, explicando los pasos seguidos y la finalidad del proyecto."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Desarrollar diseños en 2D o en 3D utilizando técnicas de prototipado o distintas aplicaciones informáticas para construir un objeto determinado."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Observar, comprender e interpretar las distintas",
+            "description": "Observar, comprender e interpretar las distintas situaciones del entorno para identificar problemas y buscar soluciones, actuando de manera individual y en grupo en su resolución, poniendo en práctica la interconexión digital de dispositivos con internet.",
+            "descriptors": [
+                "STEM1",
+                "STEM2",
+                "STEM3",
+                "STEM4"
+            ],
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Conocer los procesos que permiten conectar elementos físicos a internet."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Utilizar el volumen de datos que generan los dispositivos conectados para realizar un análisis de estos y utilizar esta información."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Conocer y valorar las posibilidades que tiene la",
+            "description": "Conocer y valorar las posibilidades que tiene la inteligencia artificial para actuar con las máquinas o sistemas de manera que faciliten el trabajo y lo mejoren gradualmente.",
+            "descriptors": [
+                "CP1",
+                "STEM1",
+                "STEM2",
+                "STEM3",
+                "STEM4",
+                "STEM5"
+            ],
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Conocer aplicaciones informáticas o tecnológicas digitales emergentes sobre la inteligencia artificial."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Integrar programaciones en las máquinas o sistemas que permitan su autonomía de forma responsable."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Manejar los dispositivos y herramientas de forma segura y",
+            "description": "Manejar los dispositivos y herramientas de forma segura y responsable para trabajar de forma individual o conjunta de acuerdo a las necesidades del contexto educativo.",
+            "descriptors": [
+                "CCL1",
+                "CCL2",
+                "CCL3",
+                "STEM4"
+            ],
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Utilizar los dispositivos y las herramientas de forma segura de acuerdo con las necesidades del contexto educativo."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Buscar de forma segura y eficiente información para crear contenidos digitales, trabajando de manera individual y conjunta."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Conocer y utilizar los distintos sistemas y aplicaciones de",
+            "description": "Conocer y utilizar los distintos sistemas y aplicaciones de realidad virtual o aumentada para explorar el entorno y disfrutar de un aprendizaje interactivo y enriquecedor.",
+            "descriptors": [
+                "CCL2",
+                "STEM1",
+                "STEM2",
+                "STEM3",
+                "STEM4"
+            ],
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Utilizar los distintos sistemas de realidad virtual o aumentada para facilitar los procesos de aprendizaje."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Crear proyectos en los que incluyan la realidad virtual o aumentada como recurso."
+                }
+            ]
+        }
+    ]
+}

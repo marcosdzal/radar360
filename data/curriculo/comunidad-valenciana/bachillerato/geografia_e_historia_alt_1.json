@@ -1,0 +1,209 @@
+{
+    "community": "comunidad-valenciana",
+    "stage": "bachillerato",
+    "decree": "Decreto 108\/2022, de 5 de agosto",
+    "subject": "geografia_e_historia_alt",
+    "subject_name": "Història del Món Contemporani",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Cercar, seleccionar i emprar informació sobre el passat i el present en",
+            "description": "Cercar, seleccionar i emprar informació sobre el passat i el present en distints tipus de fonts, avaluant de manera crítica el grau de fiabilitat i interés, i aplicant els mètodes, tècniques i conceptes de la ciència històrica",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Emprar les tècniques i els mètodes bàsics de la investigació en història per buscar informació sobre el passat i el present, i avaluar el grau d’interés i veracitat."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Justificar la veracitat o correcció d’afirmacions sobre fets del passat i del present contingudes en diversos tipus de fonts, d’acord amb criteris científics."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Elaborar síntesis i formular hipòtesis, individualment i en grup, sobre fets del passat i del present, i verificar-ne la validesa a partir de fonts d’informació fiables."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Interpretar i elaborar taules, gràfiques i mapes amb informació històrica tant en format analògic com digital."
+                },
+                {
+                    "code": "1.5",
+                    "description": "Acceptar la diversitat d’interpretacions historiogràfiques i reconéixer la provisionalitat i perfectibilitat del coneixement històric."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Descriure i contextualitzar els fets i processos més importants de la història",
+            "description": "Descriure i contextualitzar els fets i processos més importants de la història contemporània, reconeixent-hi l’origen dels trets geopolítics, socials, econòmics i culturals del món actual i explicant-los per mitjà de la causalitat històrica",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Construir relats o síntesis descriptius i\/o explicatius sobre els fets i processos històrics més rellevants de la història del món contemporani."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Identificar i classificar els tipus de relacions causals més habituals per a l’explicació del passat."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Explicar les relacions causals que existeixen entre els fets i processos històrics del passat i les problemàtiques polítiques, econòmiques, socials i culturals més rellevants del present."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Analitzar i comentar críticament fonts històriques primàries i secundàries, així com informació procedent dels mitjans de comunicació."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Analitzar les principals ideologies, revolucions i canvis polítics de l’època",
+            "description": "Analitzar les principals ideologies, revolucions i canvis polítics de l’època contemporània, així com els diferents règims polítics als quals han donat lloc, avaluant críticament el seu caràcter democràtic o autoritari",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Explicar l’origen, descriure els trets fonamentals i diferenciar entre si les principals ideologies polítiques de l’època contemporània."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Identificar, descriure i analitzar els principals processos revolucionaris contemporanis, i explicar-ne la influència sobre canvis històrics i règims polítics en contextos passats i presents."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Expressar opinions informades i crítiques sobre el grau democràtic o autoritari de propostes i institucions polítiques del món actual, i particularment de l’entorn propi."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Analitzar l’evolució de les relacions internacionals i els conflictes bèl·lics",
+            "description": "Analitzar l’evolució de les relacions internacionals i els conflictes bèl·lics de l’època contemporània, atenent les causes i conseqüències, i valorant els esforços realitzats per mantindre la pau i fer complir els drets humans",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Analitzar les causes, desenvolupament i conseqüències dels principals conflictes bèl·lics en l’època contemporània i reconéixer-ne la importància com a factors de canvi històric."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Buscar informació veraç i rellevant sobre conflictes i situacions actuals d’incompliment dels drets humans en el plànol internacional i relacionar-los amb els precedents històrics."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Emprar tècniques i mètodes propis de la disciplina històrica per a l’anàlisi i explicació de les relacions internacionals i de les causes i conseqüències dels conflictes."
+                },
+                {
+                    "code": "4.4",
+                    "description": "Identificar i valorar els principals esforços i contribucions de l’època contemporània per al manteniment de la pau internacional i el respecte als drets humans."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Identificar i analitzar els canvis demogràfics, econòmics, socials i culturals",
+            "description": "Identificar i analitzar els canvis demogràfics, econòmics, socials i culturals provocats per l’aplicació de diferents sistemes econòmics al llarg de l’època contemporània, comparant i valorant les conseqüències per a les condicions de vida de les per…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Identificar i diferenciar l’origen i trets dels diferents models d’organització econòmica i social proposats i aplicats al llarg de l’època contemporània."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Analitzar i avaluar les repercussions socials, polítiques, culturals i mediambientals de diferents sistemes d’organització econòmica implantats en diversos espais geopolítics contemporanis."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Realitzar judicis de valor i propostes de millora sobre diferents actuacions del passat o propostes de futur relatives al desenvolupament econòmic i les seues conseqüències socials i mediambientals."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Identificar i analitzar els canvis i permanències en l’organització social de",
+            "description": "Identificar i analitzar els canvis i permanències en l’organització social de la població, investigant les aportacions dels diferents grups socials als processos històrics i adoptant una posició crítica enfront de les desigualtats socials i les situa…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Incorporar al propi relat històric la diversitat de grups i moviments socials de la contemporaneïtat i analitzar-ne les característiques i aportacions als processos de canvi històric."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Identificar les causes, desenvolupament, resolució i conseqüències dels principals conflictes socials de l’època contemporània."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Avaluar la contribució de diferents moviments i agents socials de l’època contemporània a la millora de les condicions de vida de les persones."
+                },
+                {
+                    "code": "6.4",
+                    "description": "Reconéixer les desigualtats socials i altres situacions de discriminació de col·lectius en el passat i en el present, tot adoptant una actitud crítica enfront d’elles."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Identificar, definir i analitzar en el seu context els principals corrents i",
+            "description": "Identificar, definir i analitzar en el seu context els principals corrents i manifestacions culturals i artístics de l’època contemporània, valorant l’herència que suposen en si mateixos i reconeixent en aquests plantejaments l’origen de la cultura a…",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Identificar i definir els principals corrents culturals i artístics de l’època contemporània, i interpretar el significat de les produccions materials i immaterials més significatives."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Relacionar les noves formes, tècniques i canals d’expressió i comunicació propis de l’època contemporània amb les circumstàncies històriques i avanços tècnics que les han fet possibles."
+                },
+                {
+                    "code": "7.3",
+                    "description": "Reconéixer la vinculació i influències existents entre les formes d’expressió cultural desenvolupades en els últims dos segles i els principals corrents artístics i culturals de l’època actual."
+                },
+                {
+                    "code": "7.4",
+                    "description": "Valorar la importància del patrimoni cultural i artístic contemporani com una herència de tota la humanitat que cal conéixer, respectar i preservar."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Reconéixer i analitzar els reptes més rellevants del món actual, analitzant-ne",
+            "description": "Reconéixer i analitzar els reptes més rellevants del món actual, analitzant-ne l’origen, les causes i les implicacions per al present i el futur, tot formant judicis personals informats, crítics i compromesos amb la millora de l’entorn",
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Identificar els principals conflictes, reptes i problemes del món actual i buscar informació contrastada i veraç sobre els orígens històrics, l’evolució i els riscos presents i futurs."
+                },
+                {
+                    "code": "8.2",
+                    "description": "Elaborar i exposar, de manera individual i grupal, treballs de síntesi o projectes que analitzen i valoren els reptes del món actual, a partir d’informació provinent de fonts diverses i contrastades."
+                },
+                {
+                    "code": "8.3",
+                    "description": "Formar i expressar opinions pròpies, coherents, informades i crítiques, sobre problemes i reptes socials de rellevància local o global."
+                },
+                {
+                    "code": "8.4",
+                    "description": "Debatre sobre els principals problemes i reptes del present i formular propostes de millora."
+                }
+            ]
+        },
+        {
+            "code": "CE9",
+            "name": "Incorporar la perspectiva de gènere en l’estudi de la història del món",
+            "description": "Incorporar la perspectiva de gènere en l’estudi de la història del món contemporani, investigant els moviments feministes en el seu context i adoptant una actitud proactiva entorn de l’assoliment de la igualtat efectiva entre homes i dones. 2. 1",
+            "criterios": [
+                {
+                    "code": "9.1",
+                    "description": "Emprar la perspectiva de gènere en l’estudi de la realitat històrica contemporània, amb la finalitat de reconéixer i analitzar la desigualtat existent entre homes i dones."
+                },
+                {
+                    "code": "9.2",
+                    "description": "Identificar i incorporar al relat històric les idees i moviments feministes de l’època contemporània, així com les protagonistes principals."
+                },
+                {
+                    "code": "9.3",
+                    "description": "Mostrar una actitud proactiva envers la igualtat efectiva entre homes i dones, així com sobre la prevenció de la violència de gènere."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "community": "baleares",
+    "stage": "eso",
+    "decree": "",
+    "subject": "educacion_fisica_alt",
+    "subject_name": "Educació Física",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Adoptar un estil de vida actiu i saludable, seleccionant i incorporant",
+            "description": "adoptar un estil de vida actiu i saludable, seleccionant i incorporant intencionalment activitats físiques i esportives en les rutines diàries, a partir d'una anàlisi crítica dels models corporals i del rebuig de les pràctiques que manquin de base ci…",
+            "criterios": [
+                {
+                    "code": "CA1.1",
+                    "description": "Establir i organitzar seqüències senzilles d'exercici físic orientat al concepte integral de salut i a l'estil de vida actiu, a partir d'una valoració del nivell inicial de condició física i respectar la pròpia identitat corporal. - Organitzar seqüències senzilles d'exercici físic. - Relacionar l'exercici físic amb el concepte de salut. - Fer una valoració del nivell inicial de condició física. - Vincular els resultats de les proves de valoració de la condició física a la salut. - Adaptar la pràctica de l'exercici físic a la pròpia condició física."
+                },
+                {
+                    "code": "CA1.2",
+                    "description": "Incorporar amb progressiva autonomia processos d'activació corporal, dosificació de l'esforç, alimentació saludable, educació postural, relaxació i higiene durant la pràctica d'activitats motrius, interioritzant les rutines propies d'una pràctica motriu saludable i responsable. - Incorporar amb progressiva autonomia processos d'activació corporal i de tornada a la calma. - Incorporar amb progressiva autonomia processos de dosificació de l'esforç. - Incorporar amb progressiva autonomia pautes d'alimentació saludable. - Incorporar amb progressiva autonomia criteris sobre educació postural. - Incorporar amb progressiva autonomia tècniques de relaxació. - Incorporar amb progressiva autonomia hàbits d'higiene durant i després de la pràctica d'exercici físic."
+                },
+                {
+                    "code": "CA1.3",
+                    "description": "Adoptar de manera responsable i amb progressiva autonomia mesures generals per a la prevenció de lesions abans, durant i després de la pràctica d'exercici físic, aprenent a reconèixer situacions de risc per tal d'actuar preventivament. - Reconèixer situacions de risc i adoptar de manera autònoma mesures per a la prevenció de lesions abans, durant i després de la pràctica d'exercici físic."
+                },
+                {
+                    "code": "CA1.4",
+                    "description": "Actuar d'acord amb els protocols d'intervenció davant accidents derivats de la pràctica d'exercici físic, aplicant mesures bàsiques de primers auxilis. - Actuar d'acord amb els protocols d'intervenció davant situacions d'emergència o accidents simulats aplicant mesures de primers auxilis."
+                },
+                {
+                    "code": "CA1.5",
+                    "description": "Analitzar i valorar la incidència que certes pràctiques i comportaments tenen en la nostra salut i en la convivència, valorant el seu impacte i evitant activament la seva reproducció. - Analitzar i valorar l'impacte negatiu que certs hàbits tenen en la nostra salut i en la convivència i evitar-ne la reproducció."
+                },
+                {
+                    "code": "CA1.6",
+                    "description": "Explorar diferents recursos i aplicacions digitals reconeixent el seu potencial, com també els riscs per el seu ús en l'àmbit de l'exercici físic i l'esport. - Explorar i reconèixer el potencial i riscs de diferents recursos i aplicacions digitals en l'àmbit de l'exercici físic i l'esport."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Adaptar, amb progressiva autonomia en l'execucio, les capacitats fisiques",
+            "description": "adaptar, amb progressiva autonomia en l'execucio, les capacitats fisiques perceptiu-motrius i coordinatives, com també les habilitats i destreses motrius, aplicant processos de percepció, decisió i execució adequats a la lògica interna i als objectiu…",
+            "criterios": [
+                {
+                    "code": "CA2.1",
+                    "description": "Desenvolupar projectes motors de caràcter individual, cooperatiu o col·laboratiu, incloent mecanismes per reconduir els processos de treball, incloses estratègies d'autoavaluació i coavaluació tant del procés com del resultat. - Desenvolupar projectes motors de caràcter individual realitzant estratègies d'autoavaluació i coavaluació del procés i del resultat per reconduir els processos de treball. - Desenvolupar projectes motors de caràcter cooperatiu o col·laboratiu realitzant estratègies d'autoavaluació i coavaluació del procés i el resultat per reconduir els processos de treball."
+                },
+                {
+                    "code": "CA2.2",
+                    "description": "Interpretar i actuar correctament en contextos motrius variats, aplicant principis bàsics de presa de decisions en situacions lúdiques, jocs modificats i activitats esportives a partir de l'anticipació, adequant-se a les demandes motrius, a l'actuació del company i de la persona oponent (si n'hi ha), i a la lògica interna en contextos reals o simulats d'actuació, reflexionant sobre les solucions i els resultats obtinguts. - Interpretar i actuar correctament en contexts motrius variats. - Aplicar els principis bàsics de presa de decisió, reflexionant sobre les solucions."
+                },
+                {
+                    "code": "CA2.3",
+                    "description": "Evidenciar control i domini corporal en emprar els components qualitatius i quantitatius de la motricitat de manera eficient i creativa, afrontant les demandes de resolució de problemes en situacions motrius transferibles al seu espai vivencial amb una autonomia progressiva."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Compartir espais de practica fisicoesportiva amb independencia de les",
+            "description": "compartir espais de practica fisicoesportiva amb independencia de les diferencies culturals, socials, de gènere i d'habilitat, prioritzant el respecte entre els participants i a les regles sobre els resultats, adoptant una actitud crítica davant comp…",
+            "criterios": [
+                {
+                    "code": "CA3.1",
+                    "description": "Practicar una gran varietat d'activitats motrius, valorant les implicacions ètiques de les actituds antiesportives, evitant la competitivitat desmesurada i actuant amb esportivitat en assumir els rols de públic, participant o altres. - Practicar una gran varietat d'activitats motrius evitant la competitivitat desmesurada i actuant amb esportivitat en els rols de públic, participant o altres. - Mostrar una actitud crítica davant les conductes antiesportives."
+                },
+                {
+                    "code": "CA3.2",
+                    "description": "Cooperar o col·laborar en la pràctica de diferents produccions motrius per aconseguir l'assoliment individual i grupal, participant en la presa de decisions i assumint diferents rols assignats i responsabilitats."
+                },
+                {
+                    "code": "CA3.3",
+                    "description": "Fer ús amb progressiva autonomia d'habilitats socials, diàleg en la resolució de conflictes i respecte davant la diversitat, ja sigui de gènere, afectivosexual, d'origen nacional, ètnica, socioeconòmica o de competència motriu, mostrant una actitud crítica i un compromís actiu enfront dels estereotips, les actuacions discriminatòries i qualsevol mena de violència, fent respectar el propi cos i el dels altres. - Fer ús d'habilitats socials, diàleg en la resolució de conflictes i respecte davant la diversitat de gènere, afectivosexual, origen nacional, cultural, socioeconòmica o de competència motriu. - Mostrar una actitud crítica enfront els estereotips, les actuacions discriminatòries i qualsevol mena de violència."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Practicar, analitzar i valorar diferents manifestacions de la cultura motriu",
+            "description": "practicar, analitzar i valorar diferents manifestacions de la cultura motriu aprofitant les possibilitats i els recursos expressius que ofereixen el cos i el moviment, i aprofundint en les conseqüències de l'esport com a fenomen social, analitzant cr…",
+            "criterios": [
+                {
+                    "code": "CA4.1",
+                    "description": "Gestionar la participació en jocs motors i altres manifestacions artístic-expressives vinculades tant a la cultura pròpia com a d'altres, afavorint la seva conservació i valorant els seus orígens, evolució i influència en les societats contemporànies. - Participar en jocs motors i altres manifestacions artístiques i expressives vinculades tant a la cultura pròpia com a d'altres. - Afavorir la conservació dels jocs motors i altres manifestacions artístiques i expressives a partir del coneixement del seu origen, evolució i influència a la societat."
+                },
+                {
+                    "code": "CA4.2",
+                    "description": "Analitzar objectivament les diferents activitats i modalitats esportives segons les seves característiques i requeriments, evitant els possibles estereotips de gènere o capacitat o els comportaments sexistes vinculats a dites manifestacions. - Analitzar les diferents activitats i modalitats esportives segons les seves característiques i requeriments. - Evitar els possibles estereotips de gènere o capacitat i els comportaments sexistes vinculats a les diferents activitats i modalitats esportives."
+                },
+                {
+                    "code": "CA4.3",
+                    "description": "Participar activament en la creació i representació de composicions d'expressió corporal individuals o col·lectives amb i sense base musical, utilitzant intencionadament i amb progressiva autonomia el cos com a eina d'expressió i comunicació a través de diverses tècniques expressives. - Crear i representar composicions individuals o col·lectives amb i sense base musical. - Utilitzar el cos com a eina d'expressió i comunicació a través de diverses tècniques expressives."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Adoptar un estil de vida sostenible i ecosocialment responsable aplicant",
+            "description": "adoptar un estil de vida sostenible i ecosocialment responsable aplicant mesures de seguretat individuals i col·lectives en la pràctica físicoesportiva segons l'entorn i desenvolupant de manera col·laborativa i cooperativa accions de servei a la comu…",
+            "criterios": [
+                {
+                    "code": "CA5.1",
+                    "description": "Participar en activitats fisicoesportives en entorns naturals, terrestres o aquàtics, gaudint de l'entorn de manera sostenible, minimitzant l'impacte ambiental que aquestes puguin produir i sent conscients de la seva petjada ecològica. - Participar en activitats fisicoesportives en entorns urbans i naturals, terrestres o aquàtics. - Minimitzar l'impacte de les activitats fisicoesportives a l'entorn natural, mostrant consciència de la seva petjada ecològica."
+                },
+                {
+                    "code": "CA5.2",
+                    "description": "Practicar activitats fisicoesportives en el medi natural i urbà, aplicant normes de seguretat individuals i col·lectives. - Aplicar les normes de seguretat individuals i col·lectives a les activitats físicoesportives practicades en el medi natural i urbà. S'estableixen els criteris d'avaluació (CA) de cada una de les competències específiques (CE), juntament amb uns aclariments orientatius per desenvolupar-los."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "community": "galicia",
+    "stage": "bachillerato",
+    "decree": "Decreto 157\/2022, de 15 de septiembre",
+    "subject": "geografia_e_historia",
+    "subject_name": "Historia del Mundo Contemporáneo",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Reconocer los movimientos, acciones y transformaciones históricas que",
+            "description": "Reconocer los movimientos, acciones y transformaciones históricas que contribuyeron al afianzamiento de la libertad en el mundo contemporáneo, a través del estudio comparado de casos y el uso correcto de términos y conceptos históricos, para valorar …",
+            "criterios": [
+                {
+                    "code": "CE1.1",
+                    "description": "Identificar y reconocer los logros que suponen los actuales sistemas democráticos como el resultado no lineal en el tiempo de los movimientos y acciones que contribuyeron al afianzamiento y articulación del principio de libertad, a través del análisis de los principales procesos históricos que se desarrollaron, la comprensión de los textos políticos y constitucionales fundamentales y el uso adecuado de términos y conceptos históricos."
+                },
+                {
+                    "code": "CE1.2",
+                    "description": "Comprender los conceptos de revolución y cambio en el mundo contemporáneo y los elementos y factores que los causan y condicionan, a través del estudio de casos significativos de las revoluciones burguesas y socialistas que ocurrieron a lo largo de la historia contemporánea, así como de los movimientos de acción y reacción que generaron."
+                },
+                {
+                    "code": "CE2.1",
+                    "description": "Entender el significado histórico de las transiciones políticas y de los procesos de democratización de la Edad Contemporánea como fundamento y garantía para la convivencia y el ejercicio de los derechos fundamentales, valorando las implicaciones que suponen el ejercicio de la ciudadanía activa y el respeto al ordenamiento constitucional, y generando juicios propios tanto con respecto al cumplimiento de aspiraciones y expectativas como a las amenazas y riesgos de la vida en democracia."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Tomar conciencia del grado de violencia, barbarie y destrucción alcanzado por",
+            "description": "Tomar conciencia del grado de violencia, barbarie y destrucción alcanzado por los conflictos de la Edad Contemporánea, a través del empleo de fuentes históricas fiables, la lectura de textos historiográficos y la elaboración de argumentos propios que…",
+            "criterios": [
+                {
+                    "code": "CE2.2",
+                    "description": "Tomar conciencia del grado de violencia, barbarie y destrucción alcanzado por los conflictos ocurridos en el mundo contemporáneo, así como de las causas de las conflagraciones bélicas y de las múltiples transformaciones que se producen en los contendientes, a través del empleo de fuentes históricas fiables y del uso de datos contrastados, valorando el impacto social y emocional que supone el uso de la violencia y el papel de las instituciones internacionales que velan por la paz y la mediación."
+                },
+                {
+                    "code": "CE4.1",
+                    "description": "Analizar los principales conflictos civiles que se produjeron en la Edad Contemporánea, a través del empleo de textos historiográficos y la elaboración de juicios argumentados, comprendiendo la importancia de la memoria histórica y del reconocimiento de las víctimas, del principio de justicia universal y del derecho a la verdad, la reparación y la garantía de no repetición."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Identificar la desigualdad como uno de los principales problemas de las sociedades contemporáneas",
+            "description": "Identificar la desigualdad como uno de los principales problemas de las sociedades contemporáneas, reconociendo las experiencias históricas de determinados colectivos, empleando el análisis multicausal y valorando el papel transformador del sujeto en…",
+            "criterios": [
+                {
+                    "code": "CE2.3",
+                    "description": "Describir la evolución de los conceptos de igualdad y de ciudadanía en la historia contemporánea y sus derivaciones sociales y políticas, a través del análisis multicausal de los principales sistemas políticos y sociales de los siglos XIX y XX, identificando las desigualdades y la concentración del poder en determinados grupos sociales."
+                },
+                {
+                    "code": "CE3.1",
+                    "description": "Analizar las condiciones de vida, el mundo del trabajo y las relaciones laborales y su conflictividad a través del estudio multidisciplinario de los movimientos sociales, particularmente los relacionados con el obrerismo, valorando el papel que representan la acción colectiva y del sujeto en la historia para el reconocimiento de los derechos sociales y el bienestar colectivo."
+                },
+                {
+                    "code": "CE3.2",
+                    "description": "Deducir, a través del estudio crítico de noticias y datos estadísticos, la evolución del estado social, identificando los logros y retrocesos experimentados y las medidas adoptadas por los diferentes estados contemporáneos, así como los límites y retos de futuro, desde una perspectiva solidaria en favor de los colectivos más vulnerables."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Comprender la importancia de las identidades colectivas en la configuración",
+            "description": "Comprender la importancia de las identidades colectivas en la configuración social, política y cultural del mundo contemporáneo, utilizando el pensamiento histórico, sus conceptos y métodos, para analizar críticamente cómo se fueron construyendo y co…",
+            "criterios": [
+                {
+                    "code": "CE1.3",
+                    "description": "Analizar críticamente cómo se fueron construyendo en el tiempo las identidades colectivas, empleando los conceptos y métodos del pensamiento histórico, respetando la pluralidad y los sentimientos identitarios y valorando el legado histórico y cultural de las mismas."
+                },
+                {
+                    "code": "CE2.4",
+                    "description": "Comprender la importancia de las identidades colectivas en la configuración social, política y cultural del mundo contemporáneo, identificando sus múltiples valencias, mediante el análisis crítico de textos históricos e historiográficos y de fuentes de información actual, elaborando argumentos propios que contribuyan a un diálogo constructivo al respeto."
+                },
+                {
+                    "code": "CE3.3",
+                    "description": "Analizar críticamente cómo se fueron construyendo en el tiempo las identidades colectivas, empleando los conceptos y métodos del pensamiento histórico, respetando la pluralidad y los sentimientos identitarios y valorando el legado histórico y cultural de las mismas."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Identificar y reconocer los principales retos del siglo XXI a través de",
+            "description": "Identificar y reconocer los principales retos del siglo XXI a través de procesos avanzados de búsqueda, selección y tratamiento de la información, el contraste y la lectura crítica de fuentes, para entender el fenómeno histórico de la globalización, …",
+            "criterios": [
+                {
+                    "code": "CE4.2",
+                    "description": "Analizar críticamente el fenómeno histórico de la globalización y su repercusión en el ámbito local y planetario, valiéndose del manejo de distintas fuentes de información y de una adecuada selección, validación, contraste y tratamiento de estas, previniendo la desinformación y considerando el emprendimiento, la innovación y el aprendizaje permanente como formas de afrontar los retos de un entorno económico, social y cultural en constante cambio."
+                },
+                {
+                    "code": "CE4.3",
+                    "description": "Identificar los principales retos del siglo XXI y su origen histórico, a través del análisis de la interconexión entre diversos procesos políticos, económicos, sociales y culturales en un contexto global, argumentando la necesidad de adoptar comportamientos ecosocialmente responsables y orientados a la sostenibilidad del planeta, la defensa de las instituciones democráticas, la mejora del bienestar colectivo y la solidaridad entre las generaciones presentes y futuras."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Valorar el significado histórico de la idea de progreso y sus repercusiones",
+            "description": "Valorar el significado histórico de la idea de progreso y sus repercusiones sociales, medioambientales y territoriales en el mundo contemporáneo, a través del uso de métodos cuantitativos y del análisis multifactorial del desarrollo económico, los ri…",
+            "criterios": [
+                {
+                    "code": "CE3.4",
+                    "description": "Valorar el significado histórico de la idea de progreso y sus múltiples consecuencias sociales, territoriales y medioambientales, a través del tratamiento de datos numéricos, la interpretación de gráficos y la comprensión multifactorial de los ritmos y ciclos de crecimiento, argumentando la necesidad de adoptar comportamientos ecosociales que garanticen la sostenibilidad del planeta."
+                },
+                {
+                    "code": "CE3.5",
+                    "description": "Comparar los distintos sistemas económicos que se desarrollaron en el mundo contemporáneo, a través de su análisis multidisciplinario y de las doctrinas y teorías de las que derivan, identificando las relaciones de subordinación y de dependencia y los conflictos que generan, tanto en el ámbito nacional como internacional, y justificando la necesidad del acceso universal a los recursos básicos."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Interpretar la función que desempeñaron el pensamiento y las ideologías en la",
+            "description": "Interpretar la función que desempeñaron el pensamiento y las ideologías en la transformación de la realidad desde los orígenes de la Edad Contemporánea hasta la actualidad, a través de la aproximación a la historiografía y a los debates sobre temas c…",
+            "criterios": [
+                {
+                    "code": "CE1.4",
+                    "description": "Abordar críticamente los principales temas clave de la historia y de la actualidad, a través de la aproximación a las principales corrientes historiográficas y a los usos que se hacen de la historia, valorando críticamente los principales proyectos sociales, políticos y culturales que tuvieron lugar en la historia contemporánea desde la perspectiva ética contenida en la Declaración Universal de los Derechos Humanos."
+                },
+                {
+                    "code": "CE4.4",
+                    "description": "Generar opiniones argumentadas, debatir y transferir ideas y conocimientos sobre la función que desempeñaron el pensamiento y las ideologías en la transformación de la realidad, desde los orígenes de la Edad Contemporánea hasta la actualidad, comprendiendo y contextualizando dichos fenómenos a través del trabajo sobre textos históricos e historiográficos y de fuentes literarias, del cine y otros documentos audiovisuales."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Describir y analizar los cambios y permanencias que se produjeron en la",
+            "description": "Describir y analizar los cambios y permanencias que se produjeron en la sociedad contemporánea, los comportamientos demográficos, los modos de vida y el ciclo vital, prestando especial interés a la situación de la mujer, a los roles de género y edad,…",
+            "criterios": [
+                {
+                    "code": "CE1.5",
+                    "description": "Contrastar el papel relegado de la mujer en la historia contemporánea, identificando y valorando la importancia de las figuras individuales y colectivas como protagonistas anónimas de la historia contemporánea, así como el papel de los movimientos feministas en el reconocimiento de sus derechos y en el logro de la igualdad efectiva de mujeres y hombres, y la corresponsabilidad en el cuidado de las personas."
+                },
+                {
+                    "code": "CE3.6",
+                    "description": "Analizar los cambios y permanencias en la historia, atendiendo a procesos de más larga duración, como los comportamientos demográficos, ciclos vitales y modos de vida en la sociedad contemporánea, a través del acercamiento al pensamiento histórico y la realización de proyectos de investigación, identificando los mecanismos de control, dominio y sumisión, los roles de género y edad asignados, así como los escenarios de lucha por la dignidad y contra la discriminación de diversos colectivos."
+                }
+            ]
+        }
+    ]
+}

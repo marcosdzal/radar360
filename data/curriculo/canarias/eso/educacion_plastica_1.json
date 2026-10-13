@@ -1,0 +1,122 @@
+{
+    "community": "canarias",
+    "stage": "eso",
+    "decree": "Decreto 30\/2023, de 16 de marzo",
+    "subject": "educacion_plastica",
+    "subject_name": "Educación Plástica, Visual y Audiovisual",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "(c1) La competencia específica se centra en el desarrollo de aprendizajes",
+            "description": "(c1) La competencia específica se centra en el desarrollo de aprendizajes relativos a la expresión artística en cualquiera de sus formas, elemento clave para entender las diferentes culturas a lo largo de la historia. A través del arte, el ser humano…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Identificar el contexto social e histórico de obras artísticas, analizando su función, valores y la representación de género para valorar el patrimonio cultural."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "(c2) Esta competencia específica se orienta al desarrollo de aprendizajes",
+            "description": "(c2) Esta competencia específica se orienta al desarrollo de aprendizajes relativos a la ejecución de obras propias que contribuyen al desarrollo de la creatividad y la imaginación del alumnado, así como a la construcción de un discurso crítico elabo…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Explicar el proceso creativo desde la idea inicial hasta el resultado final, justificando las decisiones tomadas y evitando el uso de clichés o estereotipos visuales."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Analizar y comparar obras propias, de compañeros y del patrimonio mediante guías, fomentando el respeto por la diversidad cultural y el desarrollo de la sensibilidad estética."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "(c3) La competencia específica se encamina al desarrollo de aprendizajes",
+            "description": "(c3) La competencia específica se encamina al desarrollo de aprendizajes relativos a las producciones plásticas, visuales y audiovisuales contemporáneas, incrementando y diversificando las posibilidades expresivas, en cuanto a soportes y formatos. En…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Identificar y explicar obras artísticas de diferentes épocas, analizando sus elementos visuales y el papel de la mujer para ampliar el repertorio visual propio."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Expresar y justificar razonadamente las sensaciones, emociones y opiniones personales que despierta la observación de obras artísticas, manteniendo una actitud de respeto hacia otras interpretaciones."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "(c4) Esta competencia específica se dirige al desarrollo de aprendizajes",
+            "description": "(c4) Esta competencia específica se dirige al desarrollo de aprendizajes relativos a la creación de producciones artísticas, técnicas y lenguajes empleados, desde el trabajo con la arcilla hasta el videomapping. El arco expresivo es inabarcable y los…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Identificar y analizar técnicas y lenguajes artísticos en diversas obras, relacionándolos con su contexto histórico y social mediante la búsqueda eficaz de información."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Identificar elementos visuales en obras artísticas variadas para integrarlos de forma original y creativa en sus propios proyectos y composiciones plásticas."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "(c5) La competencia específica analiza el desarrollo de aprendizajes",
+            "description": "(c5) La competencia específica analiza el desarrollo de aprendizajes relacionados con la producción artística como proceso complejo, que implica, además de la capacidad de introspección y de proyección de los propios pensamientos, sentimientos y emoc…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Crear obras plásticas o audiovisuales propias experimentando con materiales y técnicas para comunicar ideas, sentimientos y visiones personales de forma creativa y reflexiva."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Crear obras artísticas propias o en grupo, eligiendo materiales adecuados y explicando razonadamente los pasos seguidos y las decisiones tomadas durante el proceso."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "(c6) Esta competencia específica se centra en el desarrollo de aprendizajes",
+            "description": "(c6) Esta competencia específica se centra en el desarrollo de aprendizajes relativos a la búsqueda de la identidad personal del alumnado, siendo indispensable el conocimiento del contexto artístico y cultural de la sociedad en la que experimenta sus…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Analizar y explicar la relación entre obras artísticas actuales y el contexto social propio, identificando cómo influyen en la construcción de la identidad personal."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Incorporar elementos del patrimonio artístico y cultural cercano en proyectos visuales propios, reinterpretándolos desde una perspectiva creativa y personal."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "(c7) La competencia específica se orienta hacia el desarrollo de aprendizajes",
+            "description": "(c7) La competencia específica se orienta hacia el desarrollo de aprendizajes relacionados con la multiplicidad de lenguajes artísticos, desde los más tradicionales, como la pintura, hasta los más recientes, como el audiovisual, la instalación o la p…",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Crear un proyecto artístico propio experimentando con diversas técnicas y materiales, ajustándose a un objetivo concreto y demostrando iniciativa en el proceso creativo."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "(c8) La competencia específica se enfoca al desarrollo de aprendizajes",
+            "description": "(c8) La competencia específica se enfoca al desarrollo de aprendizajes relativos a la recepción de la obra artística, que alcanza todo su sentido y potencialidad cuando llega al público y produce un efecto sobre él. En este sentido, el alumnado ha de…",
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Identificar y explicar las funciones sociales y usos de diversas obras artísticas, debatiendo sobre su impacto y las posibilidades profesionales o personales que ofrecen."
+                },
+                {
+                    "code": "8.2",
+                    "description": "Planificar y crear obras artísticas individuales o grupales, siguiendo fases de producción específicas y adaptando el mensaje visual a un público y propósito determinados."
+                }
+            ]
+        }
+    ]
+}

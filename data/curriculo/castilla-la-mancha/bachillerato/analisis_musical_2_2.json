@@ -1,0 +1,93 @@
+{
+    "community": "castilla-la-mancha",
+    "stage": "bachillerato",
+    "decree": "Decreto 83\/2022, de 12 de julio",
+    "subject": "analisis_musical_2",
+    "subject_name": "Análisis Musical II",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Analizar los elementos musicales de diferentes obras, utilizando la escucha activa y el estudio de partituras",
+            "description": "Analizar los elementos musicales de diferentes obras, utilizando la escucha activa y el estudio de partituras, para describir sus características y establecer comparaciones.",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Describir las características musicales de una obra tras escucharla activamente y analizar la partitura."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Comparar obras musicales identificando analogías y diferencias a partir de la escucha y la partitura."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Establecer relaciones entre los elementos musicales de una composición, a",
+            "description": "Establecer relaciones entre los elementos musicales de una composición, a través del análisis de su estructura y de los procedimientos compositivos utilizados, para asociar la obra con un género, un estilo y un contexto de creación.",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Identificar géneros y estilos musicales históricos analizando los factores que influyen en la evolución de las formas musicales."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Asociar las obras analizadas con género, estilo y contexto identificando estructura formal y procedimientos compositivos."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Elaborar comentarios y críticas musicales sobre las obras analizadas,",
+            "description": "Elaborar comentarios y críticas musicales sobre las obras analizadas, utilizando una terminología adecuada y consultando distintas fuentes de información, para expresar juicios personales fundamentados y contribuir a la difusión del patrimonio musica…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Justificar una opinión personal sobre una obra musical usando terminología técnica."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Justificar la opinión personal sobre obras musicales, investigando y seleccionando información relevante de diversas fuentes."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Publicar críticas musicales propias en medios analógicos y digitales respetando derechos de autor."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Utilizar los procedimientos compositivos fundamentales y las tecnologías",
+            "description": "Utilizar los procedimientos compositivos fundamentales y las tecnologías digitales, empleando los elementos y las estructuras musicales más adecuadas, para crear obras sencillas y realizar interpretaciones e improvisaciones. Comprender la música a tr…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Crea improvisaciones o composiciones breves en grupo, aplicando patrones melódicos, rítmicos, armónicos y formales analizados previamente."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Emplear herramientas digitales (secuenciadores, editores de partituras) para componer una obra musical breve, demostrando eficacia técnica y musical."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Realizar interpretaciones vocales, corporales y\/o instrumentales en proyectos musicales de grupo, interiorizando los procedimientos compositivos fundamentales."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Investigar sobre los usos de la música con fines terapéuticos y en combinación",
+            "description": "Investigar sobre los usos de la música con fines terapéuticos y en combinación con otras formas de expresión artística, utilizando diferentes fuentes de información y analizando las características musicales de las obras, para entender de qué forma i…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Analizar usos terapéuticos de la música y rasgos musicales que influyen en salud y emociones usando fuentes fiables."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Explica cómo las características musicales de obras terapéuticas se relacionan con efectos en el oyente, analizando ejemplos."
+                }
+            ]
+        }
+    ]
+}

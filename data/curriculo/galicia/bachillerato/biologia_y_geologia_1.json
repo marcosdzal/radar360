@@ -1,0 +1,256 @@
+{
+    "community": "galicia",
+    "stage": "bachillerato",
+    "decree": "Decreto 157\/2022, de 15 de septiembre",
+    "subject": "biologia_y_geologia",
+    "subject_name": "Biología, Geología y Ciencias Ambientales",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Interpretar y transmitir información y datos científicos argumentando sobre",
+            "description": "Interpretar y transmitir información y datos científicos argumentando sobre estos con precisión y utilizando diferentes formatos para analizar procesos, métodos, experimentos o resultados de las ciencias biológicas, geológicas y ambientales. - La com…",
+            "criterios": [
+                {
+                    "code": "CE2.3",
+                    "description": "Argumentar desde la teoría de la tectónica de placas los fenómenos geológicos de la superficie terrestre relacionándolos con los movimientos de las placas litosféricas y con los procesos térmicos del interior terrestre, y describiendo las estructuras geológicas asociadas."
+                },
+                {
+                    "code": "CE2.4",
+                    "description": "Analizar la definición y la clasificación de los minerales atendiendo a su composición química y reconocer sus propiedades relacionándolas con su estructura interna."
+                },
+                {
+                    "code": "CE2.7",
+                    "description": "Analizar los riesgos a través de sus factores y localizar áreas sísmicas y volcánicas en España interpretando información en diferentes formatos (mapas, gráficos, tablas, diagramas, esquemas...) y valorando la importancia de las medidas de predicción, prevención y corrección."
+                },
+                {
+                    "code": "CE3.1",
+                    "description": "Describir la acción de los agentes geológicos externos reconociendo las formas de relieve asociadas y analizando el relieve en Galicia y el paisaje próximo."
+                },
+                {
+                    "code": "CE3.6",
+                    "description": "Analizar críticamente los riesgos geológicos externos relacionándolos con las actividades humanas y valorando la importancia de las medidas de predicción, prevención y corrección."
+                },
+                {
+                    "code": "CE5.2",
+                    "description": "Reconocer la función de relación de las plantas diferenciando las nastias y los tropismos, asociando cada estímulo con su respuesta y relacionando las principales hormonas con su función."
+                },
+                {
+                    "code": "CE5.3",
+                    "description": "Describir las diferencias entre la reproducción sexual y asexual, reconociendo las ventajas e inconvenientes de cada una y analizándolas desde una perspectiva evolutiva."
+                },
+                {
+                    "code": "CE5.5",
+                    "description": "Reconocer los procesos implicados en la reproducción sexual y los tipos de reproducción asexual, reconociendo en esta última su aplicación en el campo de la agricultura."
+                },
+                {
+                    "code": "CE6.1",
+                    "description": "Identificar los órganos, aparatos y sistemas que intervienen en la función de nutrición, relación y reproducción, reconociendo la función de cada uno en los diferentes grupos taxonómicos."
+                },
+                {
+                    "code": "CE6.2",
+                    "description": "Reconocer los aparatos digestivos, los pigmentos y aparatos respiratorios, los tipos de circulación, los productos de excreción y los procesos que intervienen en la nutrición animal."
+                },
+                {
+                    "code": "CE6.3",
+                    "description": "Describir los receptores sensoriales, sistemas de coordinación y órganos efectores de manera comparada en los principales grupos de animales."
+                },
+                {
+                    "code": "CE6.4",
+                    "description": "Describir y comparar los tipos de reproducción sexual y asexual, los tipos de fecundación y las estructuras implicadas en la reproducción en diferentes grupos de animales analizando los ciclos biológicos más representativos."
+                },
+                {
+                    "code": "CE7.1",
+                    "description": "Identificar los diferentes tipos de microorganismos, clasificándolos en los dominios y reinos correspondientes."
+                },
+                {
+                    "code": "CE7.6",
+                    "description": "Comunicar informaciones y describir las enfermedades infecciosas más importantes relacionadas con los microorganismos, reflexionando sobre el papel de los antibióticos en su tratamiento y sobre el problema de la resistencia, transmitiéndolas de forma rigurosa y utilizando la terminología y el formato adecuados (gráficos, tablas, vídeos e informes, entre otros) y herramientas digitales."
+                },
+                {
+                    "code": "CE8.1",
+                    "description": "Explicar la dinámica de las capas fluidas de la Tierra, reconociendo la interrelación entre todos los subsistemas terrestres e utilizando ejemplos significativos."
+                },
+                {
+                    "code": "CE8.2",
+                    "description": "Reconocer un ecosistema, describiendo las relaciones tróficas, los ciclos biogeoquímicos y el flujo de energía a través de los diferentes eslabones e identificando su interdependencia."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Localizar y utilizar fuentes fiables, identificando, seleccionando y",
+            "description": "Localizar y utilizar fuentes fiables, identificando, seleccionando y organizando la información, evaluándola críticamente y contrastando su veracidad para resolver preguntas expuestas de forma autónoma relacionadas con las ciencias biológicas, geológ…",
+            "criterios": [
+                {
+                    "code": "CE1.6",
+                    "description": "Argumentar sobre la contribución de la ciencia a la sociedad y la labor de las personas dedicadas a ella, destacando el papel de las mujeres y entendiendo la investigación como una labor colectiva e interdisciplinar en constante evolución e influida por el contexto político y los recursos económicos."
+                },
+                {
+                    "code": "CE2.2",
+                    "description": "Reflexionar sobre el surgimiento de la teoría de la tectónica de placas reconociendo los antecedentes y pruebas que confirmaron el movilismo y adoptando una actitud crítica hacia informaciones de dudosa procedencia y sin una base científica."
+                },
+                {
+                    "code": "CE6.6",
+                    "description": "Plantear y resolver cuestiones relacionadas con los diferentes animales localizando y citando fuentes adecuadas y seleccionando, organizando y analizando críticamente la información."
+                },
+                {
+                    "code": "CE7.5",
+                    "description": "Identificar las formas acelulares (virus, viroides y priones) y contrastar y justificar la veracidad de la información reconociendo su importancia biológica, utilizando fuentes fiables y adoptando una actitud crítica y escéptica hacia informaciones sin una base científica, como pseudociencias, teorías conspiratorias, creencias infundadas, noticias falsas..."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Diseñar, planear y desarrollar proyectos de investigación siguiendo los pasos",
+            "description": "Diseñar, planear y desarrollar proyectos de investigación siguiendo los pasos de las diversas metodologías científicas, teniendo en cuenta los recursos disponibles de forma realista y buscando vías de colaboración para indagar en aspectos relacionado…",
+            "criterios": [
+                {
+                    "code": "CE1.1",
+                    "description": "Plantear preguntas, realizar predicciones y formular hipótesis que puedan ser respondidas o contrastadas utilizando métodos científicos y que intenten explicar fenómenos biológicos, geológicos o ambientales."
+                },
+                {
+                    "code": "CE1.2",
+                    "description": "Diseñar la experimentación, la toma de datos y el análisis de fenómenos biológicos, geológicos y ambientales, y seleccionar los instrumentos necesarios, de modo que permitan responder preguntas concretas y contrastar una hipótesis expuesta minimizando los sesgos en la medida de lo posible."
+                },
+                {
+                    "code": "CE1.3",
+                    "description": "Realizar experimentos y tomar datos cuantitativos y cualitativos sobre fenómenos biológicos, geológicos y ambientales seleccionando y utilizando los instrumentos, herramientas o técnicas adecuados con corrección y precisión."
+                },
+                {
+                    "code": "CE1.4",
+                    "description": "Interpretar y analizar resultados obtenidos en un proyecto de investigación utilizando, cuando sea necesario, herramientas matemáticas y tecnológicas y reconociendo su alcance y limitaciones, y obteniendo conclusiones razonadas y fundamentadas o valorando la imposibilidad de hacerlo."
+                },
+                {
+                    "code": "CE1.5",
+                    "description": "Establecer colaboraciones dentro y fuera del centro educativo en las distintas fases del proyecto científico, con el fin de trabajar con mayor eficiencia, utilizando herramientas tecnológicas adecuadas, valorando la importancia de la cooperación en la investigación, respetando la diversidad y favoreciendo la inclusión."
+                },
+                {
+                    "code": "CE2.5",
+                    "description": "Reconocer los tipos de rocas e interpretar los procesos geológicos implicados en su formación utilizando el ciclo geológico a la luz de la teoría de la tectónica de placas."
+                },
+                {
+                    "code": "CE2.6",
+                    "description": "Identificar minerales mediante la observación de sus propiedades y las principales rocas según su composición, origen y textura utilizando ejemplos del entorno, relacionándolos con sus aplicaciones en la vida cotidiana y promoviendo la explotación y el uso sostenible y su relevancia como patrimonio geológico."
+                },
+                {
+                    "code": "CE7.4",
+                    "description": "Reconocer las principales técnicas de cultivo de microorganismos a través de la observación de vídeos, páginas web, fotografías o de la práctica en el laboratorio."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Buscar y utilizar estrategias en la resolución de problemas, analizando",
+            "description": "Buscar y utilizar estrategias en la resolución de problemas, analizando críticamente las soluciones y respuestas halladas y reformulando el procedimiento si fuera necesario para explicar los fenómenos relacionados con las ciencias biológicas, geológi…",
+            "criterios": [
+                {
+                    "code": "CE2.1",
+                    "description": "Explicar los modelos de la estructura y dinámica del interior terrestre diferenciando la composición y el comportamiento de las diferentes capas a través de la información proporcionada por los principales métodos de estudio indirectos y directos."
+                },
+                {
+                    "code": "CE3.2",
+                    "description": "Explicar los procesos edafogenéticos identificando los factores de formación del suelo y la importancia de su conservación."
+                },
+                {
+                    "code": "CE4.1",
+                    "description": "Identificar los niveles de organización de los seres vivos ejemplificando cada uno de ellos y utilizando diferentes formatos para su diferenciación (esquemas, diagramas, tablas...)."
+                },
+                {
+                    "code": "CE4.2",
+                    "description": "Distinguir bioelementos a través de ejemplos e identificar las diferentes biomoléculas, reconociendo los monómeros constituyentes de cada una y sus respectivas funciones biológicas, demostrando la uniformidad química de los seres vivos."
+                },
+                {
+                    "code": "CE4.3",
+                    "description": "Diferenciar las formas de organización celular procariota y eucariota utilizando diferentes formatos (dibujos, esquemas, microfotografías, vídeos…) e identificar los distintos orgánulos celulares relacionándolos con su función."
+                },
+                {
+                    "code": "CE4.4",
+                    "description": "Relacionar los tejidos animales y vegetales con las células constituyentes a través de imágenes obtenidas con diferentes técnicas, indicando justificadamente sus funciones y valorando las ventajas evolutivas de la organización pluricelular."
+                },
+                {
+                    "code": "CE4.5",
+                    "description": "Analizar los criterios utilizados para la clasificación de los seres vivos, describiendo las características de los tres dominios y los cinco reinos y justificando desde la perspectiva evolutiva los cambios en los grandes grupos."
+                },
+                {
+                    "code": "CE4.6",
+                    "description": "Diferenciar los principales grupos taxonómicos de los seres vivos, reconociendo sus características y aportando ejemplos de su propio medio, así como utilizar claves dicotómicas para su determinación."
+                },
+                {
+                    "code": "CE4.7",
+                    "description": "Describir el proceso de especiación y argumentar sobre aspectos relacionados con la evolución utilizando las pruebas y los mecanismos evolutivos, y defendiendo una postura de forma razonada y con una actitud abierta, flexible, receptiva ante la opinión de los demás."
+                },
+                {
+                    "code": "CE5.1",
+                    "description": "Explicar la fotosíntesis como un proceso de nutrición autótrofa relacionándola con los mecanismos y estructuras involucradas en el transporte de los zumos y argumentando su relevancia para el mantenimiento de la vida en la Tierra."
+                },
+                {
+                    "code": "CE5.4",
+                    "description": "Explicar los ciclos biológicos de los diferentes grupos de plantas analizando sus fases y estructuras características a través de dibujos, esquemas y gráficos."
+                },
+                {
+                    "code": "CE5.6",
+                    "description": "Explicar la relación de las adaptaciones de los vegetales con el medio en que se desarrollan utilizando ejemplos significativos y reconociendo la influencia de diferentes factores."
+                },
+                {
+                    "code": "CE6.5",
+                    "description": "Explicar la relación de las adaptaciones de los animales con el medio en que se desarrollan utilizando ejemplos significativos y reconociendo la influencia de diferentes factores."
+                },
+                {
+                    "code": "CE8.3",
+                    "description": "Resolver problemas relacionados con las interacciones tróficas en los ecosistemas buscando y utilizando recursos variados, como conocimientos propios, datos e información obtenidos, razonamiento lógico, pensamiento computacional o herramientas digitales."
+                },
+                {
+                    "code": "CE8.5",
+                    "description": "Analizar críticamente la solución a un problema ambiental relacionándolo con las causas y consecuencias que lo originan."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Diseñar, promover y ejecutar iniciativas relacionadas con la conservación del",
+            "description": "Diseñar, promover y ejecutar iniciativas relacionadas con la conservación del medio ambiente, con la sostenibilidad y con la salud, basándose en los fundamentos de las ciencias biológicas, geológicas y ambientales, para fomentar hábitos sostenibles y…",
+            "criterios": [
+                {
+                    "code": "CE7.2",
+                    "description": "Argumentar sobre la importancia ecológica de los microorganismos, relacionándolos con los ciclos biogeoquímicos."
+                },
+                {
+                    "code": "CE7.3",
+                    "description": "Describir los principales mecanismos de reproducción bacteriana haciendo hincapié en la transferencia genética horizontal y en sus consecuencias para la salud humana."
+                },
+                {
+                    "code": "CE8.4",
+                    "description": "Analizar las causas y las consecuencias ecológicas, sociales y económicas de los principales problemas ambientales, desde una perspectiva individual, local y global, concibiéndolos como grandes retos de la humanidad."
+                },
+                {
+                    "code": "CE8.6",
+                    "description": "Evaluar diferentes problemas medioambientales promoviendo el desarrollo sostenible como modelo para la conservación del medio ambiente."
+                },
+                {
+                    "code": "CE8.7",
+                    "description": "Proponer y poner en práctica hábitos de vida e iniciativas sostenibles y saludables en el ámbito local y global, argumentando sobre sus efectos positivos y sobre la urgencia de adoptarlos."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Analizar los elementos del registro geológico utilizando fundamentos",
+            "description": "Analizar los elementos del registro geológico utilizando fundamentos científicos para relacionarlos con los grandes eventos ocurridos a lo largo de la historia de la Tierra y con la magnitud temporal en que se desarrollaron. - El estudio de la Tierra…",
+            "criterios": [
+                {
+                    "code": "CE3.3",
+                    "description": "Relacionar los grandes eventos de la historia terrestre con determinados elementos del registro geológico y con los sucesos que ocurren en la actualidad, utilizando los principios geológicos básicos y el razonamiento lógico."
+                },
+                {
+                    "code": "CE3.4",
+                    "description": "Resolver problemas de datación analizando elementos del registro geológico y fósil y aplicando métodos de datación relativa."
+                },
+                {
+                    "code": "CE3.5",
+                    "description": "Interpretar y deducir en mapas y cortes la historia geológica aplicando principios geológicos básicos (intersección, horizontalidad...), determinando las discontinuidades estratigráficas y empleando fósiles guía."
+                }
+            ]
+        }
+    ]
+}

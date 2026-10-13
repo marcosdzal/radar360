@@ -1,0 +1,78 @@
+{
+    "community": "extremadura",
+    "stage": "bachillerato",
+    "decree": "Decreto 113\/2022, de 25 de agosto",
+    "subject": "coro_tecnica_vocal_1",
+    "subject_name": "Coro y Técnica Vocal I",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Desarrollar el criterio estético a través de la escucha y visionado de piezas",
+            "description": "Desarrollar el criterio estético a través de la escucha y visionado de piezas vocales de distintos estilos, géneros y culturas, analizando los rasgos de estilo y las características de la interpretación y estimulando el hábito de escucha activa y la …",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar piezas vocales explicando por qué pertenecen a un estilo, género o cultura, y comentar la interpretación y puesta en escena."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Argumentar y defender el criterio personal respecto a distintas manifestaciones con intervenciones vocales grabadas o en directo, analizando las intenciones expresivas del canto y del lenguaje corporal."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Valorar la influencia de la música vocal a lo largo de la historia y en la actualidad, y la importancia que tiene su conservación y difusión dentro de la sociedad."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Expresarse vocal y corporalmente",
+            "description": "Expresarse vocal y corporalmente, de forma individual y colectiva, a través de la aplicación de diferentes técnicas y la realización de actividades de lectura e improvisación, reforzando la autoestima y la autoconfianza y desarrollando la voz y el cu…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Realizar ejercicios e improvisaciones vocales con técnicas sanas, reforzando autoestima y autoconfianza."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Demostrar interés en la adquisición de una adecuada técnica vocal y corporal que permita abordar obras de diferentes géneros y estilos."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Desarrollar la escucha activa de la propia voz y de la del grupo, tanto en el aspecto sonoro como en el del movimiento, demostrando empatía con los demás y valorando el sonido propio y el del grupo como señal de identidad."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Interpretar piezas de diferentes estilos y géneros musicales, participando en",
+            "description": "Interpretar piezas de diferentes estilos y géneros musicales, participando en distintas formaciones vocales, potenciando tanto una comunicación artística rica como el desarrollo de valores colectivos. La interpretación de piezas de diferentes reperto…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Interpretar piezas en coro mostrando eficacia, escucha activa y expresión vocal y corporal adecuada al conjunto."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Demostrar interés en el aprendizaje de un repertorio variado, con piezas vocales de diferentes géneros, estilos, culturas e idiomas, prestando especial atención a la expresión de emociones emanadas tanto de los textos como de la música."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "P articipar en proyectos escénicos, realizando actuaciones y asumiendo tareas",
+            "description": "P articipar en proyectos escénicos, realizando actuaciones y asumiendo tareas propias de la producción, favoreciendo el crecimiento artístico personal, enriqueciendo el entorno cultural e identificando oportunidades de desarrollo personal, social, ac…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Mostrar durante la actuación una actitud escénica adecuada y respeto por el público."
+                },
+                {
+                    "code": "4.2",
+                    "description": "El alumnado colabora activamente en el montaje de proyectos escénicos mostrando responsabilidad y trabajo en equipo."
+                }
+            ]
+        }
+    ]
+}

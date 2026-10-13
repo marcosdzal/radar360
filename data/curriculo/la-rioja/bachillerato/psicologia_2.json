@@ -1,0 +1,88 @@
+{
+    "community": "la-rioja",
+    "stage": "bachillerato",
+    "decree": "Decreto 22\/2022, de 27 de julio",
+    "subject": "psicologia",
+    "subject_name": "Psicología",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Comprender la naturaleza plural de lo humano mediante la reflexión y el",
+            "description": "Comprender la naturaleza plural de lo humano mediante la reflexión y el análisis de los factores individuales y socioculturales que estudia la psicología, para promover el autoconocimiento y el aprecio por la diversidad personal, cultural y social. A…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Desarrollar el pensamiento crítico mediante la formulación, el análisis y la reflexión de las aportaciones que la psicología ha realizado en la comprensión de los fenómenos humanos fomentando la reflexión y la autonomía personal."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Construir una perspectiva plural y diversa del pensamiento mediante el",
+            "description": "Construir una perspectiva plural y diversa del pensamiento mediante el acercamiento a concepciones psicológicas históricamente dadas a través de sus fuentes, el análisis y la reflexión de las mismas, para generar una concepción compleja de su influen…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Distinguir y relacionar las facetas teórica y práctica de la psicología identificando las diferentes ramas en las que se desarrollan mediante la investigación y valoración de su aplicación metodológica en diversos ámbitos (atención a la comunidad, discapacidades y minusvalías, infancia y juventud o minorías sociales), para fomentar el respeto y la conciencia ética."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Demostrar un conocimiento de las teorías psicológicas más relevantes a lo largo de la historia mediante la identificación de fuentes, la búsqueda eficiente de información, el análisis, la interpretación, la producción y la comunicación oral y escrita de estas cuestiones favoreciendo la investigación autónoma."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Adquirir estrategias para el análisis de problemas sociales y de actualidad",
+            "description": "Adquirir estrategias para el análisis de problemas sociales y de actualidad mediante el estudio y la exposición crítica de posiciones psicológicas pertinentes en su interpretación y resolución para fomentar la autonomía de juicio y promover actitudes…",
+            "criterios": [
+                {
+                    "code": "3.2",
+                    "description": "Analizar y reflexionar sobre la complejidad de definir qué es la conciencia mediante la aproximación y la investigación de fuentes interdisciplinares como la neurología, la biología, la filosofía o la propia psicología, para desarrollar la capacidad de análisis y el espíritu crítico."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Comprender y reflexionar de forma crítica sobre la importancia de la psicología en la actualidad y trastornos mentales mediante el análisis y la exposición de casos, para brindar una mejor comprensión del presente y fomentar la capacidad de espíritu crítico."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Adquirir una concepción razonada y crítica de la identidad propia mediante el",
+            "description": "Adquirir una concepción razonada y crítica de la identidad propia mediante el conocimiento, análisis y puesta en relación de los procesos biológicos, psicológicos y sociales implicados en la formación y el desarrollo de la conducta para fomentar el c…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Reconocer y explicar el funcionamiento de los procesos cerebrales que intervienen en los distintos procesos cognitivos y de las diversas técnicas de exploración diagnóstica (EEG, TAC, TEP, IRM) mediante su descripción y comparación, para desarrollar la capacidad síntesis y relación."
+                },
+                {
+                    "code": "4.4",
+                    "description": "Distinguir y relacionar los diferentes elementos que intervienen en los procesos cognitivos básicos y superiores mediante su identificación, entendiéndolos como procesos intrínsecamente relacionados."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Manifestar una adecuada estima de sí mismo y del entorno mediante el estudio y",
+            "description": "Manifestar una adecuada estima de sí mismo y del entorno mediante el estudio y la reflexión de diversas teorías psicológicas que permitan la identificación y comprensión de sentimientos y emociones propias y ajenas fomentando una actitud empática y p…",
+            "criterios": [
+                {
+                    "code": "5.2",
+                    "description": "Desarrollar una gestión adecuada de las emociones mediante su análisis y su expresión, promoviendo la autoestima y el cuidado de uno mismo y de los otros."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Reconocer las características propias de la investigación científica mediante",
+            "description": "Reconocer las características propias de la investigación científica mediante el estudio y el análisis de los principios de investigación y aplicación de las diversas prácticas psicológicas, para promover el pensamiento crítico y la reflexión sobre l…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Reconocer los principios de ethos científico como elementos imprescindibles en el desarrollo de una ciencia éticamente comprometida con el bien común, a través de la investigación y el análisis crítico de conceptos como \"sesgo\" y \"heurístico\", vinculados a las prácticas psicológicas."
+                }
+            ]
+        }
+    ]
+}

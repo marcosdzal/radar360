@@ -1,0 +1,108 @@
+{
+    "community": "pais-vasco",
+    "stage": "bachillerato",
+    "decree": "Decreto 82\/2023, de 13 de junio",
+    "subject": "geografia_e_historia_ciencias",
+    "subject_name": "Historia de la Música y de la Danza I",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Identificar las características técnicas y los rasgos estilísticos de la música",
+            "description": "Identificar las características técnicas y los rasgos estilísticos de la música y de la danza, apreciando su evolución a lo largo de la historia a través del análisis de las fuentes de estudio disponibles para reconocer su función en un determinado c…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Reconocer las características técnicas y los rasgos estilísticos de la música y de la danza en las diferentes épocas históricas, a través de la escucha activa y del visionado de manifestaciones artísticas, así como del análisis de partituras y textos representativos, apreciando la diversidad artística."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Determinar la función de la música y de la danza en los diferentes contextos, estableciendo vínculos entre las características de estas manifestaciones artísticas y los hechos histórico-estéticos que determinan el periodo."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Relacionar la música y la danza con otras formas de expresión artística,",
+            "description": "Relacionar la música y la danza con otras formas de expresión artística, vinculándolas con la evolución del pensamiento humano, para comprender el carácter interdisciplinar del arte y valorar la importancia de su conservación y difusión como patrimon…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Explicar la relación entre la música, la danza y otras manifestaciones artísticas en contextos analógicos y digitales, identificando los condicionantes históricos y los fundamentos estéticos que comparten comprendiendo su carácter inter disciplinar."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Valorar la importancia del patrimonio musical, escénico y artístico como expresión de una época, adoptando una postura respetuosa y responsable sobre su conservación y difusión."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Interpretar de forma colaborativa fragmentos musicales o adaptaciones de obras",
+            "description": "Interpretar de forma colaborativa fragmentos musicales o adaptaciones de obras relevantes de la música y de la danza de diferentes épocas y estilos, a través de la dramatización y el empleo de la voz, el cuerpo y distintos instrumentos, para vivencia…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Interpretar o dramatizar de manera colaborativa fragmentos o adaptaciones de obras relevantes de la música y de la danza de diferentes épocas y estilos a través del cuerpo, de la voz o de instrumentos musicales diversos."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Valorar la riqueza del patrimonio musical y dancístico a través del reconocimiento de las características de un determi nado periodo en la adaptación de las interpretaciones y el contraste con las muestras originales."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Participar activamente en las interpretaciones asumiendo las diferentes funciones que se asignen, mostrando interés por aproximarse al conocimiento y disfrute del repertorio propuesto."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Investigar sobre los principales compositores, intérpretes y obras de la",
+            "description": "Investigar sobre los principales compositores, intérpretes y obras de la historia de la música y de la danza, utilizando fuentes de información fiables, para analizar las diferentes corrientes interpretativas y reflexionar sobre la riqueza del patrim…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Analizar críticamente las diferentes corrientes interpretativas, comparando distintas versiones musicales de una misma obra e identificando su vinculación con la estética del periodo."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Utilizar fuentes analógicas y digitales fiables en investigaciones sobre los principales compositores, intérpretes y obras de la historia de la música y de la danza, aplicando estrategias de búsqueda, de selección y de reelaboración de la información."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Reflexionar sobre la identidad cultural propia, valorando con sensibilidad y respeto la riqueza del patrimonio musical a través de las investigaciones realizadas."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Transmitir opiniones e ideas propias, informadas y fundamentadas, sobre la",
+            "description": "Transmitir opiniones e ideas propias, informadas y fundamentadas, sobre la evolución de la música y de la danza, usando herramientas analógicas y digitales, formulando argumentos de carácter teórico y estético, utilizando de manera apropiada el vocab…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Aplicar estrategias de búsqueda, selección y reelaboración de información relacionada con la evolución de la música y de la danza, usando de forma fiable y responsable diversas fuentes documentales, analógicas y digitales, y respetando derechos de autoría y propiedad intelectual."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Analizar críticamente cuestiones teóricas y estéticas del patrimonio musical y dancístico en un contexto de creación determinado, expresando opiniones e ideas propias, informadas y fundamentadas con un vocabulario adecuado."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Planificar y participar activamente en las fases de realización de una producción artística, individual y\/o colectiva",
+            "description": "Planificar y participar activamente en las fases de realización de una producción artística, individual y\/o colectiva, para responder de manera eficaz y creativa a una propuesta, además de comprender las repercusiones inclusivas, sociales y las oport…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Planificar la producción de una obra pictórica seleccionando los recursos adecuados para adaptarse con creatividad e imaginación a una propuesta individual o colaborativa concreta. valorando las oportunidades personales, sociales e inclusivas que se generan a partir de su resolución."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Implicarse activamente en las diferentes fases de un proyecto artístico colectivo, generando cohesión, integración e inclusión, y enriqueciendo su elaboración con la propia experiencia personal."
+                }
+            ]
+        }
+    ]
+}

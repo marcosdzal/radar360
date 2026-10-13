@@ -28,4 +28,5 @@ function xmldb_local_sentinel_install() {
     global $DB;
     require_once(__DIR__ . '/../db/upgrade.php');
     sentinel_seed_descriptors($DB);
+    sentinel_create_tutor_role();
 }

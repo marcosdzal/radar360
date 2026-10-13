@@ -1,0 +1,99 @@
+{
+    "community": "extremadura",
+    "stage": "bachillerato",
+    "decree": "Decreto 113\/2022, de 25 de agosto",
+    "subject": "artes_escenicas_2",
+    "subject_name": "Artes Escénicas II",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Analizar, dentro y fuera del contexto académico, las características de",
+            "description": "Analizar, dentro y fuera del contexto académico, las características de manifestaciones escénicas de diferentes épocas y tradiciones, así como las relaciones con su contexto de producción y sus posibles influencias en el canon, valorando el patrimoni…",
+            "criterios": [
+                {
+                    "code": "1.2.1",
+                    "description": "Analizar e interpretar las características de manifestaciones escénicas y performativas preferiblemente actuales, así como las relaciones con su contexto de producción y su aportación al canon, empleando el metalenguaje específico y evidenciando una actitud de apertura, interés y respeto en la recepción activa de las mismas."
+                },
+                {
+                    "code": "1.2.2",
+                    "description": "Valorar críticamente los hábitos, los gustos y los referentes escénicos de diferentes épocas y tradiciones, reflexionando sobre su evolución y sobre la función que cumple el fenómeno escénico como artefacto ideológico, político y social en cada época."
+                },
+                {
+                    "code": "1.2.3",
+                    "description": "Promocionar proactivamente el patrimonio escénico y performativo a través de distintos medios y soportes, reivindicándolo como elemento catalizador de la libertad de expresión y la cohesión social en contextos globales, y reflexionando sobre las cuestiones universales que plantea."
+                },
+                {
+                    "code": "1.2.4",
+                    "description": "Aplicar, en el paradigma de estudio de las artes escénicas, la perspectiva de género y la intercultural, valorando las aportaciones de las voces minoritarias y reflexionando críticamente acerca de las razones históricas de su ausencia en el canon."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Explorar, a través de actividades prácticas individuales o grupales, las",
+            "description": "Explorar, a través de actividades prácticas individuales o grupales, las posibilidades expresivas de diferentes sistemas, medios y códigos de significación escénica, incorporándolas al repertorio personal de recursos y aplicando criterios de selecció…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Interpretar sistemas escénicos mediante actividades prácticas con iniciativa y creatividad."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Crear una escena dramática con personajes y situaciones, eligiendo las técnicas adecuadas para la intención comunicativa."
+                },
+                {
+                    "code": "2.2.1",
+                    "description": "Identificar los códigos de significación escénica, reconociendo sus elementos constitutivos y valorando sus potencialidades artísticas."
+                },
+                {
+                    "code": "2.2.2",
+                    "description": "Participar, con iniciativa, confianza y creatividad, en la exploración de sistemas, medios y códigos de significación escénica a través de actividades prácticas dentro y fuera del aula como el juego dramático, la improvisación, la dramatización o la creación colectiva."
+                },
+                {
+                    "code": "2.2.3",
+                    "description": "Idear, diseñar y configurar la acción, el conflicto, las situaciones y los personajes dramáticos de escenas complejas seleccionando del repertorio personal de recursos las técnicas más adecuadas a la intención comunicativa."
+                },
+                {
+                    "code": "2.2.4",
+                    "description": "Adaptar los elementos dramáticos, expresivos y plásticos de un repertorio para diseñar una propuesta escénica o performativa, integrándolos de forma creativa, sostenible y con sentido colaborativo e inclusivo."
+                },
+                {
+                    "code": "2.2.5",
+                    "description": "Realizar consultas avanzadas en internet sobre dramaturgia escénica, haciendo un uso crítico, ético y responsable de la cultura digital."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Demostrar la adquisición de actitudes y habilidades para el trabajo en equipo y la resolución de conflictos: comunicación y negociación, autoconocimiento, escucha activa, creatividad, empatía, imaginación y espíritu emprendedor."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Fomentar la aceptación del propio cuerpo y del de los demás como elemento que nos singulariza y que conforma la identidad y la autoestima personales, optimizando su potencialidad artística en el ámbito personal, académico y profesional."
+                },
+                {
+                    "code": "2.5",
+                    "description": "Representar una producción escénica o performativa compleja contribuyendo al enriquecimiento del entorno cultural extraacadémico y fomentando una comunicación inclusiva y cohesionadora con el público."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Realizar, dentro y fuera del contexto académico, proyectos de creación y",
+            "description": "Realizar, dentro y fuera del contexto académico, proyectos de creación y difusión escénica planificando sus fases, seleccionando y estructurando los elementos según la intención comunicativa, asumiendo diferentes funciones e identificando oportunidad…",
+            "criterios": [
+                {
+                    "code": "4.2.1",
+                    "description": "Crear un proyecto escénico o performativo complejo movilizando proactivamente al grupo hacia un reto común de compromiso social en un contexto global."
+                },
+                {
+                    "code": "4.2.2",
+                    "description": "Aplicar competencias de emprendimiento cultural organizando correctamente sus fases, distribuyendo de forma razonada las tareas, evaluando su viabilidad, sostenibilidad e impacto en el entorno, analizando necesidades y oportunidades, optimizando los recursos disponibles, e identificando oportunidades de desarrollo personal, académico, social y profesional relacionadas con el ámbito artístico."
+                },
+                {
+                    "code": "4.2.3",
+                    "description": "Evaluar y presentar, en formato oral, escrito o multimodal, los resultados de proyectos de creación y difusión escénica realizados en un contexto extraacadémico, analizando y argumentando la relación entre los objetivos planteados y el producto final así como las posibles diferencias entre ellos y su valor añadido, expresando la opinión personal crítica y respetuosamente, y respetando la propiedad intelectual."
+                }
+            ]
+        }
+    ]
+}

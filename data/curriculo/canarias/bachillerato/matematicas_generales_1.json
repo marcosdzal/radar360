@@ -1,0 +1,137 @@
+{
+    "community": "canarias",
+    "stage": "bachillerato",
+    "decree": "Decreto 73\/2023, de 13 de abril",
+    "subject": "matematicas_generales",
+    "subject_name": "Matemáticas Generales",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "(c1) Con el desarrollo de esta competencia específica se trabajará la",
+            "description": "(c1) Con el desarrollo de esta competencia específica se trabajará la modelización y la resolución de problemas, procesos que constituyen un eje fundamental en el aprendizaje de las matemáticas, ya que son pilares centrales en la construcción del con…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Resolver problemas de la vida cotidiana seleccionando la estrategia más eficiente y utilizando herramientas tecnológicas adecuadas para obtener y validar las soluciones."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Resolver problemas reales identificando todas las soluciones posibles y explicando detalladamente los pasos seguidos durante el proceso matemático."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "(c2) Siguiendo en la línea de resolución de problemas, la segunda competencia",
+            "description": "(c2) Siguiendo en la línea de resolución de problemas, la segunda competencia específica se centra en el análisis y la interpretación de las soluciones y conclusiones obtenidas, considerando, además de la validez matemática, diferentes perspectivas c…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "El alumnado verifica la validez de las soluciones de un problema, justificando con razonamiento y argumentación, y usando herramientas digitales."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Evaluar y seleccionar la mejor solución a un problema considerando criterios contextuales (sostenibilidad, equidad, consumo responsable) mediante razonamiento y argumentación."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "(c3) Esta competencia específica se centra en la formulación de preguntas de",
+            "description": "(c3) Esta competencia específica se centra en la formulación de preguntas de contenido matemático por parte del alumnado, pues el desarrollo de esta habilidad potencia la reflexión, el debate y el pensamiento crítico. Generar preguntas con contenido …",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "El alumnado formula de forma autónoma preguntas matemáticas a partir de situaciones cotidianas para construir nuevo conocimiento."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "(c4) Esta competencia específica desarrolla el pensamiento computacional que se",
+            "description": "(c4) Esta competencia específica desarrolla el pensamiento computacional que se vincula directamente con la resolución de problemas y con el planteamiento de procedimientos, ya que será necesaria la abstracción para identificar las partes más relevan…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Diseñar y ajustar algoritmos o diagramas de flujo para automatizar la resolución de problemas cotidianos y financieros mediante procesos lógicos secuenciales."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "(c5) Esta competencia específica está dirigida a establecer vínculos entre",
+            "description": "(c5) Esta competencia específica está dirigida a establecer vínculos entre conceptos, procedimientos, argumentos y modelos matemáticos, lo que proporcionará una comprensión más profunda de la materia, estudiando cómo varios enfoques de un mismo probl…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Relacionar conceptos de distintos bloques matemáticos para resolver problemas complejos, integrando procedimientos algebraicos, geométricos o estadísticos en una misma situación de aprendizaje."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Solucionar problemas complejos integrando diversos bloques de contenido matemático, como álgebra, geometría o estadística, para encontrar soluciones coherentes y fundamentadas."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "(c6) Esta competencia específica trata sobre las relaciones entre las",
+            "description": "(c6) Esta competencia específica trata sobre las relaciones entre las matemáticas y las situaciones del día a día que se consideran aspectos relevantes y existenciales de la propia materia, pues es precisamente de situaciones de la vida cotidiana de …",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Solucionar problemas prácticos integrando conceptos matemáticos con situaciones reales y de otras materias para obtener respuestas fundamentadas y contextualizadas en el entorno."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Explicar la utilidad de las matemáticas en la resolución de problemas sociales y tecnológicos, destacando su papel fundamental en el progreso y bienestar de la humanidad."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "(c7) Esta competencia específica trabaja las representaciones de conceptos,",
+            "description": "(c7) Esta competencia específica trabaja las representaciones de conceptos, procedimientos e información matemática, las cuales facilitan el razonamiento y la demostración. Dichas representaciones, que están presentes de forma natural en la materia, …",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Modelizar ideas matemáticas estructurando razonamientos y seleccionando la tecnología adecuada."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Elegir y emplear distintos formatos como gráficos, tablas o diagramas para comunicar datos y conceptos matemáticos de forma comprensible y eficiente."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "(c8) En la sociedad de la información se hace cada día más patente la necesidad",
+            "description": "(c8) En la sociedad de la información se hace cada día más patente la necesidad de una comunicación clara y veraz, tanto oralmente como por escrito, y es precisamente esta necesidad la que se trabaja en la octava competencia específica. Interactuar c…",
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Expresar razonamientos matemáticos de forma estructurada y precisa, utilizando el vocabulario técnico adecuado y soportes variados para transmitir ideas con claridad."
+                },
+                {
+                    "code": "8.2",
+                    "description": "Utilizar con precisión la terminología, símbolos y notación matemática para explicar razonamientos y resultados en diversos contextos de forma clara y rigurosa."
+                }
+            ]
+        },
+        {
+            "code": "CE9",
+            "name": "(c9) La novena competencia específica integra conocimientos, destrezas y",
+            "description": "(c9) La novena competencia específica integra conocimientos, destrezas y actitudes para conocer y gestionar las emociones y para trabajar con otras personas de manera constructiva.",
+            "criterios": [
+                {
+                    "code": "9.1",
+                    "description": "Afrontar situaciones de incertidumbre matemática mediante la toma de decisiones, gestionando las emociones negativas y transformando el error en una oportunidad de aprendizaje real."
+                },
+                {
+                    "code": "9.2",
+                    "description": "Mantener una actitud positiva y constante ante retos matemáticos, integrando correcciones y críticas constructivas para mejorar el proceso de resolución de problemas."
+                }
+            ]
+        }
+    ]
+}

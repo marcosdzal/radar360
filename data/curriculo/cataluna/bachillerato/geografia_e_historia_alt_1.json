@@ -1,0 +1,165 @@
+{
+    "community": "cataluna",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "geografia_e_historia_alt",
+    "subject_name": "Història",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Aplicar els procediments de la recerca històrica a partir de la formulació de",
+            "description": "Aplicar els procediments de la recerca històrica a partir de la formulació de preguntes i l'anàlisi de fonts, per interpretar el passat, formar-se un criteri propi a partir del contrast d'informacions i desenvolupar el pensament crític.",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Plantejar-se preguntes i hipòtesis sobre fets o fenòmens històrics, seleccionar, analitzar i obtenir informació de diferents fonts per interpretar el passat de manera crítica, aportant arguments i dades contrastats."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Comunicar i transferir els coneixements adquirits mitjançant recursos expressius que incorporin formats i llenguatges diversos i la presentació de la informació en mitjans i entorns digitals, així com usar adequadament el vocabulari específic de la història contemporània mitjançant la lectura activa, l’elaboració de textos escrits, les intervencions orals i les produccions audiovisuals, construint un discurs rigorós, coherent i inclusiu."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Demostrar la comprensió integrada de sabers i mostrar una actitud participativa en el marc de l’exercici d’una ciutadania democràtica."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Analitzar de forma crítica i comparar els diferents règims polítics de la",
+            "description": "Analitzar de forma crítica i comparar els diferents règims polítics de la contemporaneïtat i la construcció de l'estat de dret per participar de manera respectuosa i compromesa en activitats comunitàries que promoguin la convivència, la cohesió socia…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Reconèixer el llegat democràtic i les accions a favor de la llibertat identificant i comparant els diferents règims polítics des de la fallida de la monarquia absoluta i els inicis de l’estat liberal fins a l’actualitat, i l’evolució de les seves institucions i lleis."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Identificar i valorar de manera crítica la transició cap a la democràcia, analitzant les ruptures i les continuïtats, mitjançant l’estudi de les memòries plurals."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Valorar de manera crítica la potencialitat del sistema democràtic actual i els reptes pendents, aportant possibles solucions a les problemàtiques actuals."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Identificar la pluralitat nacional, cultural i lingüística per respectar els",
+            "description": "Identificar la pluralitat nacional, cultural i lingüística per respectar els sentiments de pertinença, l'existència d'identitats múltiples i desenvolupar l'empatia i el respecte com a base de la convivència en una societat democràtica.",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Identificar els diferents processos polítics, socials i culturals que han tingut lloc al llarg de la història en la formació de l’Estat i en la construcció de les diferents nacionalitats i, específicament, en l’evolució del catalanisme."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Reconèixer i identificar les identitats múltiples existents als territoris per entendre que el respecte dels diferents sentiments de pertinença és la base d’una convivència pacífica en el marc d’un sistema democràtic i plural."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Analitzar l'evolució econòmica de l'Estat espanyol i els seus efectes,",
+            "description": "Analitzar l'evolució econòmica de l'Estat espanyol i els seus efectes, relacionar-la amb la desigualtat social i territorial, percebre la natura dels canvis en el món actual i actuar amb criteris de sostenibilitat i de manera crítica i compromesa per…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Analitzar l’evolució econòmica de l’Estat espanyol, els seus diferents ritmes i cicles de creixement, en el context dels països del seu entorn."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Identificar les conseqüències del creixement econòmic, en els contextos històrics i actualment, analitzant críticament la idea de progrés i valorant els seus efectes pel que fa a la desigualtat social, els desequilibris territorials, la degradació ambiental i les relacions de dependència, reflectint actituds en favor dels objectius de desenvolupament sostenible i comportaments ecosocials."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Analitzar la societat espanyola, els canvis i les continuïtats al llarg del",
+            "description": "Analitzar la societat espanyola, els canvis i les continuïtats al llarg del temps, en relació amb l'evolució de la població, els nivells i les formes de vida i treball i els moviments i conflictes socials, per valorar els progressos i les limitacions…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Descriure les transformacions socials i les diferents maneres d’organització i participació política que s’han produït del pas de l’Antic Règim a la nova societat de classes, analitzant el sorgiment i l’evolució del concepte de ciutadania i les noves formes de relació social, identificant les desigualtats i la concentració del poder en determinats grups socials."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Analitzar de manera multicausal l’evolució demogràfica de l’Estat espanyol, la desigual distribució de la població i el paper de les migracions interiors i exteriors i els exilis en la història contemporània d’Espanya."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Caracteritzar el naixement i l’evolució del moviment obrer durant els segles XIX i XX, interpretant les causes de la conflictivitat social i laboral i la seva articulació en moviments socials i polítics."
+                },
+                {
+                    "code": "5.4",
+                    "description": "Deduir, per mitjà de l’estudi crític de notícies i dades estadístiques, l’evolució de la societat, identificant els èxits i els retrocessos experimentats i les mesures adoptades per les institucions fins al present, l’evolució dels nivells de vida i de benestar, així com els límits i reptes de futur, des d’una perspectiva solidària a favor dels col·lectius més vulnerables."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Analitzar críticament el paper de les creences i les ideologies en l'evolució",
+            "description": "Analitzar críticament el paper de les creences i les ideologies en l'evolució de l'articulació social, en l'ús del poder i en la configuració d'identitats i projectes polítics, per comprendre la complexitat de la contemporaneïtat i per valorar i resp…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Generar opinions argumentades, debatre i transferir idees i coneixements sobre la funció que han exercit les diferents ideologies a l’articulació social i política de l’Espanya contemporània, identificant les principals cultures polítiques que s’han anat succeint, les formes d’organització i els diferents projectes polítics que representaven i expressant actituds respectuoses davant les idees diferents de les pròpies."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Emprar el rigor metodològic de la història en l’estudi de les grans reformes estructurals que va emprendre la Segona República, identificant-ne els èxits i les reaccions antidemocràtiques que van derivar en el cop d’estat i l’esclat de la Guerra Civil, i en l’estudi del marc conceptual sobre els sistemes totalitaris aplicat en la interpretació del franquisme."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Analitzar les dinàmiques d'interdependència entre diferents agents en el",
+            "description": "Analitzar les dinàmiques d'interdependència entre diferents agents en el context d'un món globalitzat per avalar els compromisos de cooperació, promoure actituds solidàries i proposar alternatives a les problemàtiques locals i globals basades en la c…",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Assenyalar els reptes globals i els principals compromisos de cooperació en l’esfera internacional, així com els que emanen d’una ciutadania europea responsable i solidària."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Plantejar propostes d’acció que fomentin una actitud solidària i pacífica i alternatives davant de les problemàtiques que es viuen actualment a escala local, europea i global."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Analitzar els processos i els fenòmens històrics des de la perspectiva de",
+            "description": "Analitzar els processos i els fenòmens històrics des de la perspectiva de gènere i la investigació sobre el moviment feminista, per visibilitzar-ne la presència dins la història, promoure actituds en defensa de la igualtat i rebutjar qualsevol forma …",
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Introduir la perspectiva de gènere en l’observació i l’anàlisi de la realitat històrica i actual, identificant els mecanismes de dominació que han generat i mantingut la desigualtat entre homes i dones i l’assignació de rols de gènere i que han relegat les dones a un paper subordinat a la societat."
+                },
+                {
+                    "code": "8.2",
+                    "description": "Reconèixer els moviments, les causes i els lideratges en pro de l’equitat de gènere i d’opció afectivosexual en l’època contemporània i les aportacions de les dones en diferents àmbits socials, econòmics, polítics i culturals."
+                },
+                {
+                    "code": "8.3",
+                    "description": "Participar en debats i projectes o accions de defensa de l’equitat de gènere i de rebuig de qualsevol manifestació de discriminació i violència per mitjà de propostes d’actuació."
+                }
+            ]
+        },
+        {
+            "code": "CE9",
+            "name": "Analitzar el llegat cultural i patrimonial per valorar-lo com a expressió de",
+            "description": "Analitzar el llegat cultural i patrimonial per valorar-lo com a expressió de les memòries plurals, individuals i col·lectives i contribuir a la seva recuperació, conservació i promoció com a element conformador de les identitats i cohesionador de la …",
+            "criterios": [
+                {
+                    "code": "9.1",
+                    "description": "Elaborar treballs d’indagació i recerca, iniciant-se en la metodologia històrica i la historiografia, generant productes relacionats amb la memòria col·lectiva sobre esdeveniments, personatges o elements patrimonials d’interès social o cultural de l’entorn local, posant en valor el patrimoni històric i considerant-lo un bé comú que s’ha de protegir."
+                },
+                {
+                    "code": "9.2",
+                    "description": "Participar en accions, recerques i projectes de recuperació de la memòria històrica a partir de la recollida de fonts directes i indirectes i d’arxius personals, locals i institucionals."
+                }
+            ]
+        }
+    ]
+}

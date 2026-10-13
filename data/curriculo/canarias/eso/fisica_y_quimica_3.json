@@ -1,0 +1,104 @@
+{
+    "community": "canarias",
+    "stage": "eso",
+    "decree": "Decreto 30\/2023, de 16 de marzo",
+    "subject": "fisica_y_quimica",
+    "subject_name": "Física y Química",
+    "grade": 3,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "(c1) El desarrollo de la competencia específica 1 conlleva hacerse preguntas",
+            "description": "(c1) El desarrollo de la competencia específica 1 conlleva hacerse preguntas para comprender cómo es la naturaleza del entorno, cuáles son las interacciones que se producen entre los distintos sistemas materiales, así como las causas y las consecuenc…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Explicar fenómenos del entorno cotidiano aplicando leyes y teorías científicas, comunicando los razonamientos de forma argumentada a través de diversos formatos y medios de expresión."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Resolver problemas numéricos y conceptuales de física y química aplicando leyes científicas, justificando los pasos seguidos y expresando los resultados con sus unidades correspondientes."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "(c2) La competencia específica 2 está relacionada con el empleo de los",
+            "description": "(c2) La competencia específica 2 está relacionada con el empleo de los mecanismos del pensamiento científico para analizar y describir los fenómenos naturales y trabajar con las metodologías que caracterizan el trabajo científico en distintos entorno…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Aplicar metodologías científicas para investigar fenómenos mediante preguntas contrastables, diferenciando el conocimiento científico de afirmaciones pseudocientíficas que carecen de base experimental y lógica."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Diseñar planes de investigación y experimentos controlados para validar o rechazar hipótesis científicas, seleccionando las técnicas y herramientas más adecuadas según el problema planteado."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "(c3) Con el desarrollo de la competencia específica 3 se pretende que el",
+            "description": "(c3) Con el desarrollo de la competencia específica 3 se pretende que el alumnado se familiarice con el lenguaje de la ciencia que le permita una interpretación y comunicación efectiva, global y multidireccional. Además, esta competencia requiere que…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Interpretar y comunicar información científica sobre procesos fisicoquímicos utilizando diversos formatos como tablas y gráficas, seleccionando los datos clave para resolver problemas específicos."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Aplicar correctamente la nomenclatura IUPAC, el sistema internacional de unidades y las herramientas matemáticas básicas para comunicar resultados científicos de forma precisa y estandarizada."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Aplicar las normas de seguridad y sostenibilidad en el laboratorio de física y química para garantizar un trabajo seguro y el cuidado del entorno."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "(c4) Con la competencia específica 4 se pretende fomentar la adquisición de",
+            "description": "(c4) Con la competencia específica 4 se pretende fomentar la adquisición de saberes básicos relacionados con la utilización, de forma crítica, creativa y segura, de plataformas digitales y recursos diversos, tanto para el trabajo individual como en e…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Emplear herramientas digitales y bibliográficas para investigar contenidos científicos de forma autónoma, colaborando con respeto y evaluando críticamente las aportaciones del grupo."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Seleccionar fuentes de información fiables y utilizar herramientas digitales o tradicionales para crear contenidos científicos que mejoren el aprendizaje individual y grupal."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "(c5) El fundamento de la competencia específica 5 es el aprendizaje de",
+            "description": "(c5) El fundamento de la competencia específica 5 es el aprendizaje de determinadas destrezas tales como la capacidad de liderazgo, las dotes de comunicación, la escucha activa y la capacidad organizativa, así como el desarrollo de determinadas actit…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Participar de forma activa y respetuosa en equipos de trabajo, asumiendo roles específicos para resolver tareas científicas de manera eficiente y colaborativa."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Diseñar y ejecutar proyectos científicos guiados que aporten soluciones prácticas a problemas sociales, ambientales o de salud, fomentando el valor comunitario."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "(c6) Por último, la competencia específica 6 desarrolla aspectos de la materia",
+            "description": "(c6) Por último, la competencia específica 6 desarrolla aspectos de la materia de Física y Química en los que el alumnado pone de relieve la importancia de los avances científicos, los límites de la ciencia y cuestiones éticas. La concreción de esta …",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Analizar la evolución de hallazgos científicos realizados por hombres y mujeres, valorando su carácter provisional y su impacto en el desarrollo tecnológico y social."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Identificar problemas actuales del entorno (sociales, ambientales o tecnológicos) y proponer cómo la ciencia y la participación ciudadana aportan soluciones sostenibles y eficaces."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "community": "baleares",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "proyectos_artisticos",
+    "subject_name": "Proyectos Artísticos",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Generar i perfeccionar idees de projecte, consultant diferents fonts,",
+            "description": "Generar i perfeccionar idees de projecte, consultant diferents fonts, experimentant amb tècniques i estratègies creatives, elaborant esbossos i maquetes i valorant críticament la",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "El alumnado genera y perfecciona ideas de proyecto mediante consulta de fuentes, elaboración de bocetos y maquetas, y experimentación con técnicas artísticas."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Seleccionar y justificar una propuesta de proyecto considerando relevancia artística, viabilidad, sostenibilidad y adecuación al marco de recepción."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Planificar adequadament les fases i el procés de treball d'un projecte",
+            "description": "Planificar adequadament les fases i el procés de treball d'un projecte artístic, considerant els recursos disponibles i avaluant-ne la sostenibilitat, per aconseguir el resultat ajustat als terminis, a les característiques de l'espai i, si és el cas,…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Planificar un proyecto artístico organizando fases, evaluando sostenibilidad y ajustando a plazos, espacio y presupuesto."
+                },
+                {
+                    "code": "2.2",
+                    "description": "El alumnado propone soluciones creativas para organizar un proyecto artístico optimizando recursos."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Realitzar projectes artístics, individuals o col·lectius, assumint diferents",
+            "description": "Realitzar projectes artístics, individuals o col·lectius, assumint diferents funcions, seleccionant espais, tècniques, mitjans i suports i identificant oportunitats de desenvolupament personal, social, acadèmic i professional, per a expressar una int…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Participar activamente en proyectos artísticos asumiendo funciones y seleccionando espacios, técnicas, medios y soportes."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Explicar razonadamente la intención y los efectos esperados del proyecto artístico en el entorno."
+                },
+                {
+                    "code": "3.3",
+                    "description": "El alumnado justifica sus decisiones de ejecución vinculándolas con la intención y los efectos buscados."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Identificar y valorar oportunidades artísticas y expresar una opinión crítica y respetuosa sobre su valor añadido."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Compartir, amb actitud oberta i respectuosa, les diferents fases del projecte,",
+            "description": "Compartir, amb actitud oberta i respectuosa, les diferents fases del projecte, intercanviant idees, comentaris i opinions amb diverses persones, inclòs el públic receptor, per a avaluar la marxa del projecte, incorporar aportacions de millora i optim…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Compartir las fases del proyecto mediante diversos medios, recogiendo críticas y sugerencias del público para mejorar el resultado y su impacto."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Valora críticas y aportaciones, e incorpora justificadamente las que mejoran el proyecto y su impacto social."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Evaluar la repercusión del proyecto mediante análisis de feedback del público y logro de intención inicial."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Tractar correctament la documentació d'un projecte artístic, seleccionant les",
+            "description": "Tractar correctament la documentació d'un projecte artístic, seleccionant les fonts més adequades, elaborant els documents necessaris, registrant el procés creatiu i arxivant adequadament tot el material, per deixar constància de les diferents fases …",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Seleccionar fuentes diversas y justificar su utilidad teórica, informativa o inspiradora para el proyecto."
+                },
+                {
+                    "code": "5.2",
+                    "description": "El alumnado elabora la documentación de un proyecto artístico empleando modelos y aplicaciones adecuadas."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Registrar las fases del proyecto evaluando reflexivamente el proceso propio."
+                },
+                {
+                    "code": "5.4",
+                    "description": "Archivar la documentación del proyecto garantizando su acceso y recuperación."
+                }
+            ]
+        }
+    ]
+}

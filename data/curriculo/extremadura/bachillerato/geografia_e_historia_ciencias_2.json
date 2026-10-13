@@ -1,0 +1,97 @@
+{
+    "community": "extremadura",
+    "stage": "bachillerato",
+    "decree": "Decreto 113\/2022, de 25 de agosto",
+    "subject": "geografia_e_historia_ciencias",
+    "subject_name": "Historia de la Música y de la Danza II",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "I ndagar sobre la composición, el funcionamiento y la finalidad de los sistemas",
+            "description": "I ndagar sobre la composición, el funcionamiento y la finalidad de los sistemas inteligentes, analizando crítica y constructivamente las circunstancias socioeconómicas y tecnológicas que han favorecido su auge y la influencia presente y futura de la …",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Reconocer los rasgos estilísticos de la música y de la danza en las diferentes épocas históricas, a través de la escucha activa y del visionado de manifestaciones artísticas, así como del análisis de partituras y textos representativos."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Determinar la función de la música y de la danza en los diferentes contextos, estableciendo vínculos entre las características de estas manifestaciones artísticas y los hechos histórico-estéticos que determinan el periodo."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Analizar las necesidades de datos y su tratamiento en función del proceso de",
+            "description": "Analizar las necesidades de datos y su tratamiento en función del proceso de interacción entre el entorno y los sistemas inteligentes, definiendo las características de la comunicación que establece el agente con su entorno, tanto en el mundo digital…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Explicar la relación entre la música, la danza y otras manifestaciones artísticas, identificando los condicionantes históricos y los fundamentos estéticos que comparten y analizando su carácter interdisciplinar."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Analizar la importancia del patrimonio musical, escénico y artístico como expresión de una época, valorando la responsabilidad sobre su conservación y difusión."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "R ealizar experimentación programada para entender, modificar y crear sistemas",
+            "description": "R ealizar experimentación programada para entender, modificar y crear sistemas inteligentes funcionales aplicando saberes interdisciplinares y profundizando en los principios matemáticos que posibilitan el aprendizaje de los sistemas.",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Experimentar con las características de la música y de la danza de un periodo histórico determinado, interpretando o dramatizando fragmentos o adaptaciones de obras relevantes con instrumentos musicales, la voz o el propio cuerpo."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Valorar la riqueza del patrimonio musical y dancístico a través del reconocimiento de las características de un determinado periodo en la adaptación de las interpretaciones y el contraste con las muestras originales."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Participar activamente en las interpretaciones asumiendo las diferentes funciones que se asignen y mostrando interés por aproximarse al conocimiento y disfrute del repertorio propuesto."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "E xplorar y reflexionar acerca de la contribución de la IA al desarrollo",
+            "description": "E xplorar y reflexionar acerca de la contribución de la IA al desarrollo personal y social, de manera crítica, teniendo en cuenta aspectos relativos al respeto de los derechos y libertades de las personas y las potenciales simbiosis que se pueden est…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Analizar las diferentes corrientes interpretativas, comparando distintas versiones musicales de una misma obra e identificando su vinculación con la estética del periodo."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Utilizar fuentes de información fiables en investigaciones sobre los principales compositores y compositoras, intérpretes y obras de la historia de la música y de la danza, aplicando estrategias de búsqueda, de selección y de reelaboración de la información."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Reconocer la identidad cultural propia, valorando la riqueza del patrimonio musical a través de las investigaciones realizadas."
+                },
+                {
+                    "code": "4.4",
+                    "description": "Analizar el papel de la mujer en la música y la danza desde una perspectiva igualitaria."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Desarrollar la capacidad comunicativa sobre el hecho musical, transmitiendo",
+            "description": "Desarrollar la capacidad comunicativa sobre el hecho musical, transmitiendo opiniones e ideas propias, informadas y fundamentadas sobre la evolución de la música y de la danza, formulando argumentos y analizando el contexto de creación de las obras m…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Explicar los distintos conceptos teórico-estéticos aplicados a la música y la danza, usando de forma fiable y responsable las tecnologías digitales y respetando los derechos de autor."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Expresar opiniones e ideas propias, informadas y fundamentadas, sobre el patrimonio musical y dancístico, usando un vocabulario específico, formulando argumentos de carácter teórico y estético y analizando críticamente el contexto de creación de obras."
+                }
+            ]
+        }
+    ]
+}

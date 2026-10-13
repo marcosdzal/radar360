@@ -1,0 +1,105 @@
+{
+    "community": "pais-vasco",
+    "stage": "eso",
+    "decree": "Decreto 77\/2023, de 30 de mayo",
+    "subject": "fopp",
+    "subject_name": "Formación y Orientación Personal y Profesional",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Comprender los procesos físicos y psicológicos implicados en la cognición, la",
+            "description": "Comprender los procesos físicos y psicológicos implicados en la cognición, la motivación y el aprendizaje, analizando sus implicaciones en la conducta y desarrollando estrategias de gestión emocional y del propio proceso de aprender para mejorar el d…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Aplicar técnicas de estudio y estrategias de regulación emocional para mejorar la organización personal, el rendimiento académico y la convivencia en el centro."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Reconocer cómo funciona el aprendizaje propio y poner en práctica técnicas de estudio y organización para mejorar el rendimiento académico y la adquisición de competencias."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Identificar cómo influyen las emociones en el estudio y aplicar técnicas de regulación emocional para optimizar el rendimiento y bienestar académico."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Explicar cómo influyen el pensamiento, la motivación y las emociones en el comportamiento propio y ajeno basándose en conceptos psicológicos básicos."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Comprender las principales características del desarrollo evolutivo de la",
+            "description": "Comprender las principales características del desarrollo evolutivo de la persona, analizando aquellos elementos de la madurez que condicionan los comportamientos o actuaciones, e identificando y potenciando las cualidades personales y de relación so…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Identificar fortalezas personales y sociales para superar retos de forma autónoma, analizando cómo los cambios del desarrollo influyen en la propia conducta y relaciones."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Identificar y explicar los cambios físicos, cognitivos, sociales y emocionales de la adolescencia, comprendiendo cómo estos factores influyen en la madurez y el desarrollo personal."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Reconocer y valorar fortalezas personales y ajenas, analizando cómo estas cualidades ayudan a superar retos y facilitan el paso hacia la madurez."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Acercarse a la comprensión del ser humano, sus sociedades y culturas con",
+            "description": "Acercarse a la comprensión del ser humano, sus sociedades y culturas con curiosidad y desde distintas perspectivas, analizando la diversidad desde el respeto a lo diferente y lo diverso, mostrando actitudes que impliquen ponerse en el lugar del otro …",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Analizar críticamente la naturaleza humana y la organización social utilizando conceptos básicos de las ciencias sociales para comprender mejor el entorno propio."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Analizar la diversidad humana y cultural mediante las ciencias sociales, fomentando el respeto, la empatía y la equidad frente a cualquier tipo de discriminación."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Conocer la dimensión social y antropológica del ser humano, considerando los",
+            "description": "Conocer la dimensión social y antropológica del ser humano, considerando los factores personales y socioculturales que intervienen en la configuración psicológica de la persona para comprenderse a uno mismo en relación con los demás, desarrollar estr…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Aplicar habilidades sociales y estrategias de integración en diversos grupos, fundamentándose en la comprensión de la naturaleza social y cultural del ser humano."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Identificar y comparar cómo la cultura, la sociedad y los rasgos personales influyen en la formación de la identidad y el comportamiento humano."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Reconocer y apreciar la diversidad cultural, social y de género como un valor positivo, promoviendo la igualdad efectiva y la inclusión en sus relaciones interpersonales."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Descubrir y priorizar las necesidades e intereses personales y vocacionales, y",
+            "description": "Descubrir y priorizar las necesidades e intereses personales y vocacionales, y explorar las oportunidades académicas y profesionales que ofrece el entorno, desarrollando la adaptabilidad, el espíritu de iniciativa y de superación, y las destrezas nec…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Diseñar un proyecto de futuro personal y académico explorando opciones del entorno y analizando intereses propios para iniciarse en la toma de decisiones vocacionales."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Investigar y seleccionar opciones de estudio y trabajo en el entorno cercano que coincidan con las preferencias y habilidades propias para fomentar la iniciativa personal."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Diseñar el propio proyecto personal, académico y profesional, incorporando los tres planes, de autoconocimiento, conocimiento del entorno académico y profesional y aproximación a la búsqueda activa de empleo."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "community": "galicia",
+    "stage": "bachillerato",
+    "decree": "Decreto 157\/2022, de 15 de septiembre",
+    "subject": "ingles",
+    "subject_name": "Lengua Extranjera II",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE6",
+            "name": "5 3 3.1 3 1 Líneas de actuación en el proceso de enseñanza y aprendizaje",
+            "description": "5 3 3.1 3 1 Líneas de actuación en el proceso de enseñanza y aprendizaje. – El enfoque orientado a la acción, tal y como propone el Marco común europeo de referencia, a través de diseños fundamentados en el análisis de necesidades, orientados a tarea…",
+            "criterios": [
+                {
+                    "code": "CE2.9",
+                    "description": "Elaborar trabajos de investigación de manera autónoma, en diferentes soportes, sobre diversos temas de interés académico, personal o social, que impliquen localizar, seleccionar y contrastar información procedente de diferentes fuentes, con especial atención a la gestión de su almacenamiento y recuperación, así como a la evaluación de su fiabilidad y pertinencia; organizarla e integrarla en esquemas propios, y reelaborarla y comunicarla de manera creativa, adoptando un punto de vista crítico y respetuoso con la propiedad intelectual."
+                },
+                {
+                    "code": "CE2.10",
+                    "description": "Evaluar la veracidad de noticias e informaciones, con especial atención a las redes sociales y otros entornos digitales, siguiendo pautas de análisis, contraste y verificación, haciendo uso de la herramienta adecuada y manteniendo una actitud crítica frente a los posibles sesgos de la información."
+                },
+                {
+                    "code": "CE3.1",
+                    "description": "Actuar de forma adecuada, empática y respetuosa en situaciones interculturales, construyendo vínculos entre las diferentes lenguas y culturas, rechazando y evaluando cualquier tipo de discriminación, prejuicio y estereotipo, y solucionando aquellos factores socioculturales que dificulten la comunicación."
+                },
+                {
+                    "code": "CE3.2",
+                    "description": "Valorar críticamente, teniendo en cuenta los derechos humanos, la diversidad lingüística, cultural y artística propia de países donde se habla la lengua extranjera, y adecuarse a ella favoreciendo y justificando el desarrollo de una cultura compartida y una ciudadanía comprometida con la sostenibilidad y con los valores democráticos."
+                },
+                {
+                    "code": "CE3.3",
+                    "description": "Aplicar de forma sistemática estrategias para defender y apreciar la diversidad lingüística, cultural y artística atendiendo a valores ecosociales y democráticos, y respetando los principios de justicia, equidad e igualdad."
+                }
+            ]
+        },
+        {
+            "code": "CE0",
+            "name": "1-5 3 3 3.1 1-2-3 Líneas de actuación en el proceso de enseñanza y aprendizaje",
+            "description": "1-5 3 3 3.1 1-2-3 Líneas de actuación en el proceso de enseñanza y aprendizaje. – El uso de distintos métodos que tengan en cuenta los diferentes ritmos de aprendizaje del alumnado, favorezcan la capacidad de aprender por sí mismo y que lo capaciten …",
+            "criterios": [
+                {
+                    "code": "CE3.8",
+                    "description": "Identificar y evitar los usos discriminatorios de la lengua, los abusos de poder a través de la palabra y los usos manipuladores del lenguaje, a partir de la reflexión y el análisis de los elementos lingüísticos, textuales y discursivos utilizados, así como de los elementos no verbales que rigen la comunicación entre las personas."
+                }
+            ]
+        }
+    ]
+}

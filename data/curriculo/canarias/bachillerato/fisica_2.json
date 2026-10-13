@@ -1,0 +1,112 @@
+{
+    "community": "canarias",
+    "stage": "bachillerato",
+    "decree": "Decreto 73\/2023, de 13 de abril",
+    "subject": "fisica",
+    "subject_name": "Física",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "(c1) El desarrollo de la competencia específica conlleva utilizar los",
+            "description": "(c1) El desarrollo de la competencia específica conlleva utilizar los principios, leyes y teorías de la física para construir nuevos conocimientos y buscar soluciones fundamentadas a través del trabajo experimental y gracias a la utilización de desar…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Explicar cómo los avances de la física impulsan la tecnología y la economía, valorando su impacto social y ambiental mediante argumentos científicos fundamentados."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Aplicar leyes físicas para solucionar problemas mediante cálculos matemáticos y prácticas de laboratorio, justificando los resultados obtenidos en diversos contextos científicos."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "(c2) Para el desarrollo de la competencia específica el alumnado ha de emplear",
+            "description": "(c2) Para el desarrollo de la competencia específica el alumnado ha de emplear los modelos, las teorías y las leyes que forman los pilares fundamentales de la física para predecir la evolución de los sistemas y objetos naturales.",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Explicar y predecir el comportamiento de sistemas naturales mediante la aplicación de leyes físicas fundamentales, justificando los resultados obtenidos en contextos reales y tecnológicos."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Resolver problemas complejos de física analizando casos particulares para extraer conclusiones generales y predecir el comportamiento de sistemas tecnológicos o naturales."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Explicar el funcionamiento de dispositivos tecnológicos, industriales o médicos aplicando las leyes y modelos físicos estudiados para comprender su utilidad y beneficio social."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "(c3) Con el desarrollo de la competencia específica se pretende que el alumnado",
+            "description": "(c3) Con el desarrollo de la competencia específica se pretende que el alumnado utilice el lenguaje matemático y su formulación para plantear y resolver los planteamientos físicos, valorando su carácter universal.",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Explicar fenómenos cotidianos o noticias científicas aplicando leyes físicas y lenguaje matemático para identificar causas y validar la veracidad de la información analizada."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Manejar con precisión las unidades de medida, realizar cambios entre sistemas y representar gráficamente las relaciones entre magnitudes físicas para comunicar resultados científicos."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Comunicar resultados de problemas de física justificando el significado físico de las soluciones obtenidas y empleando correctamente las unidades del Sistema Internacional."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "(c4) La competencia específica desea fomentar la utilización autónoma y",
+            "description": "(c4) La competencia específica desea fomentar la utilización autónoma y responsable de plataformas y entornos virtuales de aprendizaje como medios para el aprendizaje de la física. Asimismo, se quiere generar la producción e intercambio de materiales…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Crear y compartir materiales científicos o divulgativos de física en plataformas digitales, colaborando con compañeros de forma autónoma y organizada para difundir conocimientos."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Seleccionar y emplear fuentes de información científicas en medios digitales y tradicionales, citando correctamente y trabajando de forma colaborativa para profundizar en contenidos de física."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "(c5) La competencia específica se basa en la reproducción de procesos físicos cotidianos",
+            "description": "(c5) La competencia específica se basa en la reproducción de procesos físicos cotidianos, de forma real o virtual, que generen aprendizajes significativos y que despierten curiosidad en el alumnado. Además, el trabajo experimental constituye un conju…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Analizar datos experimentales mediante la toma de medidas, el cálculo de errores y la representación gráfica para establecer leyes físicas fundamentales."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Realizar experimentos en laboratorios reales o virtuales, analizando variables y leyes físicas para elaborar un informe técnico detallado con datos, gráficas y conclusiones."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Analizar y debatir críticamente el impacto de los avances de la física en la sociedad, considerando criterios de ética, sostenibilidad y bienestar social."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "(c6) Por último, la competencia específica (C6) pretende que el alumnado ponga",
+            "description": "(c6) Por último, la competencia específica (C6) pretende que el alumnado ponga en relieve la universalidad de la Física y su vinculación e importancia en los avances científicos y tecnológicos, así como que reconozca la importancia de la colaboración…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Analizar hitos históricos de la física y su impacto en la construcción del conocimiento científico actual, comprendiendo la evolución y el carácter universal de la ciencia."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Identificar y explicar las conexiones entre los principios de la física y otras áreas científicas como las matemáticas o la biología en contextos reales."
+                }
+            ]
+        }
+    ]
+}

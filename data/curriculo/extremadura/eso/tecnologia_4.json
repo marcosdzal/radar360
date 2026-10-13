@@ -1,0 +1,136 @@
+{
+    "community": "extremadura",
+    "stage": "eso",
+    "decree": "Decreto 110\/2022, de 22 de agosto",
+    "subject": "tecnologia",
+    "subject_name": "Tecnología",
+    "grade": 4,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "I dentificar y proponer soluciones tecnológicas eficientes e innovadoras,",
+            "description": "I dentificar y proponer soluciones tecnológicas eficientes e innovadoras, estudiando las necesidades del entorno próximo y aplicando estrategias y procesos colaborativos e interactivos relativos a proyectos.",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "El alumnado identifica necesidades del entorno y diseña soluciones tecnológicas emprendedoras que aporten valor a la comunidad."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Aplicar estrategias colaborativas e iterativas en proyectos, desde la ideación hasta la difusión de la solución."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Gestionar creativamente el proyecto aplicando estrategias colaborativas y métodos de investigación para idear soluciones eficientes e innovadoras."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Utilizar métodos de investigación adecuados para la ideación de soluciones lo más eficientes e innovadoras posibles."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Aplicar de forma apropiada y segura distintas técnicas y conocimientos",
+            "description": "Aplicar de forma apropiada y segura distintas técnicas y conocimientos interdisciplinares utilizando procedimientos y recursos tecnológicos diversos y adecuados en la construcción de soluciones tecnológicas accesibles y sostenibles que den respuesta …",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Analizar el diseño de un producto evaluando su demanda, evolución y fin de ciclo de vida con criterio ético."
+                },
+                {
+                    "code": "2.2",
+                    "description": "El alumnado fabrica productos tecnológicos usando diseño asistido y técnicas manuales, mecánicas y digitales con materiales adecuados."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Construir estructuras y mecanismos con elementos estructurales y operadores mecánicos o con simuladores según los requisitos establecidos y aplicando cálculos y conocimientos científicos multidisciplinares."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Diseñar, calcular, montar o simular circuitos eléctricos y electrónicos funcionales por medio de operadores eléctricos o electrónicos para resolver problemas concretos y aplicando conocimientos y técnicas de medida."
+                },
+                {
+                    "code": "2.5",
+                    "description": "Contribuir a la igualdad de género, colaborando en el reparto indistinto de funciones dentro de los grupos de trabajo."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Expresar, comunicar y difundir ideas, propuestas o soluciones tecnológicas en",
+            "description": "Expresar, comunicar y difundir ideas, propuestas o soluciones tecnológicas en diferentes ámbitos y plataformas digitales, empleando los recursos disponibles y aplicando los elementos y técnicas necesarias para el intercambio de información, mediante …",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Intercambiar información técnica y fomentar el trabajo en equipo usando herramientas digitales y vocabulario específico."
+                },
+                {
+                    "code": "3.2",
+                    "description": "El alumno presenta y difunde soluciones tecnológicas oralmente, usando entonación, expresión, gestión del tiempo y lenguaje inclusivo."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Debatir y compartir opiniones o información sobre las soluciones propuestas en redes sociales o aplicaciones y plataformas virtuales usando las normas establecidas en la etiqueta digital y valorando la importancia de la comunicación en diferentes lenguas."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Desarrollar soluciones automatizadas a problemas planteados, mediante los",
+            "description": "Desarrollar soluciones automatizadas a problemas planteados, mediante los conocimientos técnicos necesarios y tecnologías emergentes, diseñando, simulando y construyendo sistemas de control programables y robóticos.",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Diseñar y construir un sistema automático o robot que realice tareas autónomas aplicando conocimientos técnicos interdisciplinares."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Aplicar tecnologías digitales emergentes (IoT, big data, IA) en sistemas técnicos con criterio ético."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Aprovechar y emplear de manera responsable las posibilidades de las",
+            "description": "Aprovechar y emplear de manera responsable las posibilidades de las herramientas digita-les, adaptándolas y configurándolas en función de las necesidades, mediante la aplicación de conocimientos interdisciplinares a la resolución eficiente de tareas.…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Usar y configurar herramientas digitales de forma autónoma para resolver tareas eficientes con conocimientos interdisciplinares."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Configurar debidamente las herramientas digitales utilizadas y adaptarlas a la necesidad existente y a la aplicación de los conocimientos interdisciplinares adquiridos en la materia."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Abordar los procedimientos tecnológicos, teniendo en cuenta su impacto en la sociedad y el entorno",
+            "description": "Abordar los procedimientos tecnológicos, teniendo en cuenta su impacto en la sociedad y el entorno, aplicando criterios de sostenibilidad y haciendo un uso ético y ecosocialmente responsable de la tecnología. La tecnología ha ido respondiendo a las n…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Aplicar criterios de sostenibilidad y accesibilidad en el diseño y fabricación de productos tecnológicos."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Analizar beneficios de arquitectura bioclimática y ecotransporte en el cuidado ambiental, valorando la contribución tecnológica al desarrollo sostenible."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Valorar el impacto social de proyectos tecnológicos desarrollados en comunidades abiertas o voluntariado."
+                },
+                {
+                    "code": "6.4",
+                    "description": "Identificar y valorar la repercusión y los beneficios del desarrollo de proyectos tecnológicos de carácter social por medio de comunidades abiertas, acciones de voluntariado o proyectos de servicio a la comunidad."
+                },
+                {
+                    "code": "6.5",
+                    "description": "Identificar las principales actividades tecnológicas de la Comunidad Autónoma, valorando la situación del desarrollo tecnológico en Extremadura."
+                }
+            ]
+        }
+    ]
+}

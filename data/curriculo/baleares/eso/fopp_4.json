@@ -1,0 +1,101 @@
+{
+    "community": "baleares",
+    "stage": "eso",
+    "decree": "",
+    "subject": "fopp",
+    "subject_name": "Formación y Orientación Personal y Profesional",
+    "grade": 4,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Comprendre els processos físics i psicològics implicats en la cognició, la",
+            "description": "Comprendre els processos físics i psicològics implicats en la cognició, la motivació i l'aprenentatge, analitzant-ne les implicacions en la conducta i desenvolupant estratègies de gestió emocional i del propi procés d'aprenentatge per millorar l'acom…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Aplicar estrategias de aprendizaje y gestión emocional para mejorar el desempeño personal, social y académico y controlar acciones."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Aplicar los procesos cognitivos y emocionales del aprendizaje para desarrollar estrategias que mejoren la adquisición de conocimientos y destrezas."
+                },
+                {
+                    "code": "1.3",
+                    "description": "El alumnado analiza el papel de las emociones en el aprendizaje y desarrolla estrategias para mejorarlo."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Analizar la relación entre cognición, motivación, aprendizaje y gestión emocional con la conducta propia y ajena usando fundamentos teóricos."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Comprendre les principals característiques del desenvolupament evolutiu de la",
+            "description": "Comprendre les principals característiques del desenvolupament evolutiu de la persona, a partir de l'anàlisi d'aquells elements de la maduresa que condicionen els comportaments i amb la identificació de les qualitats personals i de relació social prò…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Afrontar retos identificando cualidades propias y ajenas y analizando factores del desarrollo."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Analizar las características del desarrollo evolutivo en los planos físico, cognitivo, social, emocional y sexual, comprendiendo cómo conforman la madurez."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Identificar cualidades propias y ajenas, reflexionando sobre potenciar las que ayudan a afrontar retos y la transición a la vida adulta."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Conèixer i comprendre l'ésser humà, les seves societats i cultures, analitzant",
+            "description": "Conèixer i comprendre l'ésser humà, les seves societats i cultures, analitzant amb empatia la seva diversitat i complexitat des de diferents perspectives, per fomentar l'esperit crític sobre aspectes que dirigeixen el funcionament humà, social i cult…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Reflexionar de manera crítica sobre la condició humana, la societat i la cultura a partir del coneixement que proporcionen les ciències humanes i socials. Comprendre les interrelacions entre fenòmens socials i culturals des d'una perspectiva crítica. Argumentar de forma coherent sobre fenòmens humans i socials, considerant les implicacions ètiques i culturals. Generar idees jovestratègies per promoure valors com la igualtat, la sostenibilitat o el respecte per la diversitat cultural."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Analizar la diversidad personal, social y cultural desde múltiples perspectivas, mostrando empatía, respeto y valorando la equidad."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Conèixer la dimensió social i antropològica de l'ésser humà i desenvolupar",
+            "description": "Conèixer la dimensió social i antropològica de l'ésser humà i desenvolupar estratègies i habilitats socials adequades a contexts canviants i a grups diferents, considerant els factors personals i socioculturals que intervenen en la configuració psico…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Aplicar estrategias y habilidades para adaptarse a nuevos grupos y contextos, basándose en conocimientos sociales y antropológicos."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Analizar cómo factores personales y socioculturales configuran la personalidad desde una perspectiva comparada."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Valorar la diversidad como elemento enriquecedor desde el respeto, la inclusión y la igualdad real entre hombres y mujeres."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Explorar les oportunitats acadèmiques i professionals que ofereix l'entorn,",
+            "description": "Explorar les oportunitats acadèmiques i professionals que ofereix l'entorn, descobrint i prioritzant les necessitats i interessos personals i vocacionals i desenvolupant l'esperit d'iniciativa i de superació, com també les destreses necessàries en la…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Elabora un proyecto personal, académico y profesional y una aproximación a un plan de búsqueda activa de empleo."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Identificar y valorar oportunidades académicas y profesionales del entorno según intereses personales."
+                }
+            ]
+        }
+    ]
+}

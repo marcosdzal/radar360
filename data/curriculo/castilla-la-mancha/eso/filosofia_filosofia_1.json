@@ -1,0 +1,81 @@
+{
+    "community": "castilla-la-mancha",
+    "stage": "eso",
+    "decree": "Decreto 82\/2022, de 12 de julio",
+    "subject": "filosofia_filosofia",
+    "subject_name": "Filosofía",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Buscar, analizar, producir y transmitir información relativa a cuestiones",
+            "description": "Buscar, analizar, producir y transmitir información relativa a cuestiones filosóficas, a partir del empleo contrastado y seguro de fuentes y de procedimientos elementales de investigación y comunicación, para desarrollar una actitud indagadora, autón…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Demostrar un conocimiento práctico de los procedimientos elementales de la investigación filosófica, a través de la identificación de fuentes fiables, la búsqueda eficiente y segura de información, tanto digitalmente como a través de medios más tradicionales."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Desarrollar una actitud indagadora, autónoma y activa en el ámbito de la reflexión filosófica, mediante el diseño y elaboración de trabajos de investigación, disertaciones, dilemas morales, comentarios de texto u otros."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Identificar problemas y formular preguntas acerca de la naturaleza humana, del",
+            "description": "Identificar problemas y formular preguntas acerca de la naturaleza humana, del sentido de la realidad y de la existencia, a partir del análisis e interpretación de textos y otras formas de expresión filosófica y cultural, así como la necesidad de afr…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Reconocer la radicalidad y trascendencia de los problemas filosóficos, mediante la formulación, reconocimiento y análisis de los mismos, a través del trabajo con textos y otros medios de expresión, tanto filosófica como literaria, histórica, científica, artística o de cualquier otro ámbito cultural."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Reconocer, usar y valorar las normas y pautas de la argumentación y del diálogo",
+            "description": "Reconocer, usar y valorar las normas y pautas de la argumentación y del diálogo filosóficos, mediante la identificación, análisis y aplicación de las mismas, con rigor y en distintos soportes, tanto en la construcción y exposición de argumentos como …",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Construir argumentos, orales y escritos, acerca de problemas filosóficos de nuestro tiempo, mediante el uso de normas lógicas y argumentativas."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Reconocer y evitar dogmatismos, falacias y sesgos como contenidos de opiniones, ideas y creencias, comprendiendo la naturaleza de los mismos."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Practicar el ejercicio del diálogo filosófico de manera crítica, tolerante y",
+            "description": "Practicar el ejercicio del diálogo filosófico de manera crítica, tolerante y empática, interiorizando las pautas éticas y formales que este requiere, mediante la participación en actividades grupales y a través del planteamiento dialógico de las cues…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Reconocer la importancia de la cooperación, el compromiso con la verdad, el respeto a la pluralidad, la diversidad y el rechazo de toda actitud discriminatoria o arbitraria, en la práctica argumentativa y el diálogo con los demás, analizando conflictos actuales que afectan a la realidad de nuestro tiempo y discriminando las falacias y errores argumentativos en las informaciones de los medios de comunicación."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Promover el contraste e intercambio de ideas y el ejercicio de una ciudadanía activa y democrática, participando en actividades grupales y del diálogo racional, respetuoso, abierto y constructivo, acerca de cuestiones y problemas filosóficos actuales."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Adquirir una perspectiva interdisciplinar y global, más allá de la cosmovisión",
+            "description": "Adquirir una perspectiva interdisciplinar y global, más allá de la cosmovisión occidental, en el planteamiento de problemas éticos y políticos de actualidad, analizando sus múltiples aspectos, desde la perspectiva fundamental de la filosofía, para po…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Afrontar temas complejos de carácter fundamental y de actualidad ética y política, de modo interdisciplinar y transformador, utilizando conceptos e ideas desde una perspectiva filosófica crítica."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Desarrollar el propio juicio y la autonomía moral mediante el análisis filosófico de problemas éticos y políticos fundamentales y de actualidad, argumentando, exponiendo y sometiendo al diálogo con los demás las propias tesis al respecto."
+                }
+            ]
+        }
+    ]
+}

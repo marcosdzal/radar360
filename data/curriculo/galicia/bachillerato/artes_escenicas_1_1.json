@@ -1,0 +1,93 @@
+{
+    "community": "galicia",
+    "stage": "bachillerato",
+    "decree": "Decreto 157\/2022, de 15 de septiembre",
+    "subject": "artes_escenicas_1",
+    "subject_name": "Artes Escénicas I",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Analizar manifestaciones escénicas de diferentes épocas y tradiciones,",
+            "description": "Analizar manifestaciones escénicas de diferentes épocas y tradiciones, describiendo sus características, estableciendo relaciones con su contexto e identificando posibles influencias y proyecciones, para valorar el patrimonio y enriquecer el imaginar…",
+            "criterios": [
+                {
+                    "code": "CE1.1",
+                    "description": "Identificar, con un vocabulario adecuado, las principales características de manifestaciones escénicas de diferentes épocas y tradiciones, estableciendo relaciones con su contexto y evidenciando una actitud de apertura, interés y respeto en su recepción activa."
+                },
+                {
+                    "code": "CE1.2",
+                    "description": "Establecer conexiones entre manifestaciones escénicas de diferentes épocas y tradiciones, valorando su influencia sobre las artes escénicas actuales."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Explorar las posibilidades expresivas de diferentes sistemas, medios y códigos",
+            "description": "Explorar las posibilidades expresivas de diferentes sistemas, medios y códigos de significación escénica, a través de actividades de carácter práctico, para incorporar su uso al repertorio personal de recursos y desarrollar el criterio de selección d…",
+            "criterios": [
+                {
+                    "code": "CE2.1",
+                    "description": "Participar, con iniciativa, confianza y creatividad, en la exploración de sistemas, medios y códigos de significación escénica, a través de actividades de carácter práctico."
+                },
+                {
+                    "code": "CE2.2",
+                    "description": "Recrear la acción dramática, el diseño de personajes y la configuración de situaciones y escenas seleccionando las técnicas más adecuadas de entre las que conforman el repertorio personal de recursos."
+                },
+                {
+                    "code": "CE4.3",
+                    "description": "Representar y adaptar la acción dramática, los elementos dramáticos, expresivos y plásticos disponibles a los requerimientos del proyecto a desarrollar, basándose en el trabajo colaborativo e inclusivo."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Abordar la recreación y representación de la acción dramática, a partir de la",
+            "description": "Abordar la recreación y representación de la acción dramática, a partir de la construcción colectiva de escenas que muestren todo tipo de personajes y conflictos, para desarrollar habilidades de comunicación y negociación y reforzar el autoconocimien…",
+            "criterios": [
+                {
+                    "code": "CE3.1",
+                    "description": "Emplear técnicas elementales de interpretación aplicando estrategias de memorización y valorando los ensayos como espacios de escucha, diálogo y aprendizaje."
+                },
+                {
+                    "code": "CE3.2",
+                    "description": "Recrear y representar la acción dramática, demostrando eficacia, siguiendo las indicaciones de la dirección, manteniendo la concentración y gestionando de forma guiada la ansiedad y el miedo escénico."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Realizar proyectos de creación y difusión escénica, planificando sus fases,",
+            "description": "Realizar proyectos de creación y difusión escénica, planificando sus fases, seleccionando y estructurando los elementos de significación y asumiendo diferentes funciones con iniciativa y responsabilidad, para expresar una intención comunicativa, enri…",
+            "criterios": [
+                {
+                    "code": "CE4.1",
+                    "description": "Participar activamente en la realización de proyectos colectivos de creación y difusión escénica, asumiendo diferentes funciones con iniciativa y responsabilidad, y valorando y respetando las aportaciones y experiencias del resto de integrantes del grupo."
+                },
+                {
+                    "code": "CE4.2",
+                    "description": "Evaluar y presentar los resultados de la participación en proyectos de creación y difusión escénica, analizando la relación entre los objetivos planteados y el producto final obtenido, y explicando de forma argumentada las posibles diferencias entre ellos."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Valorar críticamente manifestaciones escénicas, identificando el público al que",
+            "description": "Valorar críticamente manifestaciones escénicas, identificando el público al que se dirigen y analizando sus características y sus presupuestos artísticos, para desarrollar el criterio estético, difundir el patrimonio y ampliar las posibilidades de di…",
+            "criterios": [
+                {
+                    "code": "CE1.3",
+                    "description": "Identificar diferentes manifestaciones escénicas empleando la terminología adecuada, reelaborando información a partir de fuentes fiables y reflexionando críticamente sobre sus características."
+                },
+                {
+                    "code": "CE5.1",
+                    "description": "Identificar el tipo de público al que se dirige un espectáculo determinado, basando los argumentos en el análisis de la obra y en las reacciones del público."
+                },
+                {
+                    "code": "CE5.2",
+                    "description": "Comentar manifestaciones escénicas empleando la terminología adecuada, reelaborando información a partir de fuentes fiables y reflexionando críticamente sobre sus características y presupuestos artísticos."
+                }
+            ]
+        }
+    ]
+}

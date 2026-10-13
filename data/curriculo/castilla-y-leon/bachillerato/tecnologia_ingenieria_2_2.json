@@ -1,0 +1,116 @@
+{
+    "community": "castilla-y-leon",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "tecnologia_ingenieria_2",
+    "subject_name": "Tecnología e Ingeniería II",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "1.1 Desarrollar proyectos de investigación e innovación con el fin de crear y",
+            "description": "1.1 Desarrollar proyectos de investigación e innovación con el fin de crear y mejorar productos de forma continua, utilizando modelos de gestión cooperativos y flexibles. (CCL3, CP3, STEM1, STEM3, CD1, CD2, CD3, CD5, CPSAA1.1, CPSAA5, CE1, CE2, CE3) …",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Elaborar proyectos de investigación en equipo para mejorar productos de forma continua."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Comunicar y difundir de forma clara y comprensible proyectos elaborados, presentándolos con la documentación técnica necesaria."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Aplicar estrategias de perseverancia y gestión emocional en proyectos tecnológicos ante la incertidumbre."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "2.1 Analizar la idoneidad de los materiales técnicos en la fabricación de",
+            "description": "2.1 Analizar la idoneidad de los materiales técnicos en la fabricación de productos sostenibles y de calidad, en función de los resultados de sus ensayos, estudiando su estructura interna, propiedades, tratamientos de modificación y mejora de sus pro…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Analizar la idoneidad de materiales para fabricar productos sostenibles, estudiando estructura, propiedades y tratamientos de modificación."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Redactar informes de impacto ambiental con argumentación y estructura adecuadas."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Elaborar informes sencillos en forma de matrices de evaluación de impacto ambiental, identificando los factores de impacto, valorando sus efectos y proponiendo medidas correctoras. ("
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "3.1 Resolver problemas asociados a las distintas fases del desarrollo y gestión",
+            "description": "3.1 Resolver problemas asociados a las distintas fases del desarrollo y gestión de un proyecto (diseño, simulación y montaje), utilizando las herramientas adecuadas que proveen las aplicaciones digitales. (CCL1, CCL3, CP3, STEM1, STEM3, STEM4, CD1, C…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Resolver problemas de diseño, simulación, montaje y presentación de proyectos usando herramientas digitales."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Presentar y difundir proyectos, empleando las aplicaciones digitales más adecuadas. (CCL1, CCL3, STEM4, CD1, CD2, CD3, CD5, CPSAA5, CE1, CE3, CCEC3.2, CCEC4.1, CCEC4.2)"
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "4.1 Calcular y montar estructuras sencillas, determinando los tipos de cargas,",
+            "description": "4.1 Calcular y montar estructuras sencillas, determinando los tipos de cargas, dimensionando las reacciones y tensiones a las que se puedan ver sometidas, determinando su estabilidad y el uso de perfiles metálicos concretos en construcción. (STEM1, S…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Diseñar y montar una estructura sencilla, calculando sus cargas y verificando su estabilidad."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Analizar máquinas térmicas (frigoríficas, bombas de calor, motores) mediante simulaciones y cálculos de eficiencia."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Interpretar y solucionar esquemas de sistemas neumáticos e hidráulicos mediante montajes o simulaciones, documentando su funcionamiento."
+                },
+                {
+                    "code": "4.4",
+                    "description": "El alumnado interpreta y resuelve circuitos de corriente alterna identificando sus elementos y comprendiendo su funcionamiento mediante montajes o simulaciones."
+                },
+                {
+                    "code": "4.5",
+                    "description": "Diseñar y probar circuitos digitales combinacionales y secuenciales, físicos o simulados, aplicando fundamentos de electrónica."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "5.1 Comprender y simular el funcionamiento de los procesos tecnológicos basados",
+            "description": "5.1 Comprender y simular el funcionamiento de los procesos tecnológicos basados en sistemas automáticos de lazo abierto y cerrado, aplicando técnicas de simplificación y analizando su estabilidad. (STEM1, STEM2, STEM3, CD1, CD2, CD3, CD5, CPSAA1.1, C…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Modeliza y simula el funcionamiento de sistemas automáticos de lazo abierto y cerrado, aplicando técnicas de simplificación y analizando su estabilidad."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Evaluar sistemas informáticos emergentes y sus implicaciones en la seguridad de datos mediante análisis de modelos existentes."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "6.1 Analizar los distintos sistemas de ingeniería desde el punto de vista de la",
+            "description": "6.1 Analizar los distintos sistemas de ingeniería desde el punto de vista de la responsabilidad social y la sostenibilidad, estudiando las características de eficiencia energética asociadas a los materiales y a los procesos de fabricación.",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Analizar sistemas de ingeniería evaluando eficiencia energética y responsabilidad social y sostenibilidad."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "community": "baleares",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "dibujo_artistico_2",
+    "subject_name": "Dibujo Artístico II",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Comprendre el dibuix com a forma de coneixement, comunicació i expressió,",
+            "description": "Comprendre el dibuix com a forma de coneixement, comunicació i expressió, comparant l'ús que se'n fa en manifestacions culturals i artístiques de diferents èpoques, llocs i àmbits disciplinaris i valorant la diversitat de significats que origina, per…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Comparar el uso del dibujo en distintas manifestaciones culturales y artísticas, valorándolo como herramienta de expresión."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Explicar autónomamente las múltiples funciones del dibujo analizando su uso en diferentes disciplinas."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Argumentar la importancia de la libertad de expresión para la pluralidad cultural y artística mediante un discurso razonado, respetuoso y comprometido."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Analitzar amb actitud crítica i reflexiva produccions plàstiques de diferents",
+            "description": "Analitzar amb actitud crítica i reflexiva produccions plàstiques de diferents èpoques i estils, reconeixent el llenguatge, les tècniques i procediments, la funció significativa i l'expressivitat del dibuix que hi són presents per desenvolupar la cons…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Analizar producciones plásticas identificando lenguaje, técnicas, función y expresividad con terminología específica."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Explica con argumentos por qué se usa el dibujo para expresar y transmitir significados en obras culturales y artísticas."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Analitzar, interpretar i representar la realitat, utilitzant els recursos",
+            "description": "Analitzar, interpretar i representar la realitat, utilitzant els recursos elementals i la sintaxi del dibuix, per oferir una visió pròpia d'aquesta realitat, potenciar la sensibilitat i afavorir el desenvolupament personal i artístic. L'acció de dibu…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Crear bocetos personales a partir de la observación y la imaginación, usando expresión libre."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Analizar, interpretar y representar la realidad mediante obras gráficas explorando formas y texturas con destreza."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Experimentar amb diferents materials, tècniques i suports, incloent el propi",
+            "description": "Experimentar amb diferents materials, tècniques i suports, incloent el propi cos, analitzant la seva importància en les propostes artístiques contemporànies, per descobrir el gest del dibuix i l'apropiació de l'espai com a mitjans d'autoexpressió i a…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Crear dibujos experimentando con materiales, técnicas, soportes y el cuerpo humano como recurso expresivo."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Crear representaciones del espacio tridimensional experimentando con materiales y técnicas para lograr efectos perspectivos."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Analizar el papel del cuerpo humano en el arte contemporáneo a través del estudio de materiales, técnicas y soportes."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Utilitzar la pràctica del dibuix com a mitjà d'expressió d'idees, opinions,",
+            "description": "Utilitzar la pràctica del dibuix com a mitjà d'expressió d'idees, opinions, sentiments i emocions, investigant els referents culturals i la influència en les creacions posteriors, per ampliar el repertori artístic i enriquir les produccions pròpies. …",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Analizar obras contemporáneas identificando y explicando la influencia de referentes artísticos históricos."
+                },
+                {
+                    "code": "5.2",
+                    "description": "El alumnado expresa ideas, sentimientos y emociones propios mediante dibujos, partiendo de la exploración del entorno y obras artísticas de interés personal."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Realitzar produccions gràfiques expressives i creatives, valorant la",
+            "description": "Realitzar produccions gràfiques expressives i creatives, valorant la importància dels elements del llenguatge gràfic i l'organització que tenen en la definició d'un estil personal, per progressar en l'execució tècnica i en les qualitats comunicatives…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Representar formas, combinaciones y espacios negativos\/positivos de entornos reales con selección intencionada."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Expresar una visión personal mediante el trazo y el gesto del dibujo, usando elementos gráficos de forma intencionada."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Experimentar amb les tècniques pròpies del dibuix, identificant les eines,",
+            "description": "Experimentar amb les tècniques pròpies del dibuix, identificant les eines, mitjans i suports necessaris i analitzant el possible impacte ambiental, per integrar-les de manera creativa i responsable en la realització de produccions gràfiques. Per tal …",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Proponer soluciones alternativas con distintos niveles de iconicidad, usando herramientas y analizando el impacto ambiental, para lograr una expresión personal."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Seleccionar herramientas y aplicar claroscuro y color con creatividad en representaciones gráficas de la realidad y la imaginación."
+                },
+                {
+                    "code": "7.3",
+                    "description": "Aplicar creativamente herramientas digitales en producciones gráficas propias, integrando su uso en el proceso creativo."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Adaptar els coneixements i destreses adquirits, desenvolupant la retentiva i la",
+            "description": "Adaptar els coneixements i destreses adquirits, desenvolupant la retentiva i la memòria visual, per respondre amb creativitat i eficàcia a nous desafiaments de representació gràfica. L'observació conscient de l'entorn, per abstreure i seleccionar el …",
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Interpretar la realidad observada abstrayendo información y usando memoria visual."
+                },
+                {
+                    "code": "8.2",
+                    "description": "Aplicar la perspectiva lineal y el claroscuro para crear profundidad en dibujos originales, valorando proporciones y contrastes."
+                }
+            ]
+        },
+        {
+            "code": "CE9",
+            "name": "Crear projectes gràfics col·laboratius, contribuint de manera creativa a la",
+            "description": "Crear projectes gràfics col·laboratius, contribuint de manera creativa a la seva planificació i realització i adaptant el disseny i el procés a les característiques pròpies d'un àmbit disciplinar, per descobrir possibilitats de desenvolupament acadèm…",
+            "criterios": [
+                {
+                    "code": "9.1",
+                    "description": "Los estudiantes planifican en grupo un proyecto gráfico, adaptando el diseño al ámbito disciplinar y organizando tareas de forma colaborativa."
+                },
+                {
+                    "code": "9.2",
+                    "description": "El alumnado elabora proyectos gráficos en equipo, con actitud positiva, respeto y evaluación de su proceso."
+                },
+                {
+                    "code": "9.3",
+                    "description": "Resolver creativamente los retos en proyectos gráficos colaborativos, evaluando la planificación y las modificaciones para mejorar el resultado final."
+                },
+                {
+                    "code": "9.4",
+                    "description": "El alumnado identifica posiciones académicas y profesionales del dibujo artístico y expresa su opinión razonada."
+                }
+            ]
+        }
+    ]
+}

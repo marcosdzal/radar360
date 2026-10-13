@@ -1,0 +1,96 @@
+{
+    "community": "pais-vasco",
+    "stage": "bachillerato",
+    "decree": "Decreto 82\/2023, de 13 de junio",
+    "subject": "fund_admin_gestion",
+    "subject_name": "Fundamentos de Administración y Gestión",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Analizar la información económica del entorno, valorando factores de innovación",
+            "description": "Analizar la información económica del entorno, valorando factores de innovación y digitalización para, a través de diversas dinámicas, seleccionar una idea de negocio viable. Se busca que el alumno a través del análisis económico, social, cultural, e…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar la información económica, social, cultural etc. del entorno valorando el papel fundamental de la innovación y de la tecnología en la actividad empresarial."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Seleccionar una idea de negocio argumentando de forma técnica dicha elección, una vez analizadas sus ventajas e inconvenientes."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Identificar las diversas formas jurídicas y los diferentes trámites legales",
+            "description": "Identificar las diversas formas jurídicas y los diferentes trámites legales reconociendo los distintos organismos ante los cuales han de presentarse, para gestionar de forma óptima la documentación necesaria en la puesta en marcha de una empresa.",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Cumplimentar la documentación necesaria, de acuerdo con la legislación vigente, reconociendo los organismos pertinentes donde ha de ser presentada y valorando su cumplimiento como uno de los principios de la Responsabilidad Social Corporativa."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Seleccionar la forma jurídica de la empresa justificando con argumentos la idoneidad de dicha elección."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Comprender el desarrollo del ciclo contable, cumpliendo con los criterios",
+            "description": "Comprender el desarrollo del ciclo contable, cumpliendo con los criterios establecidos en el PGC para reflejar la imagen fiel de la empresa.",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Contabilizar los hechos contables, de acuerdo a los principios del Plan General Contable, derivados de las operaciones de la empresa, manejando a nivel básico una aplicación informática de contabilidad."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Analiza de forma crítica y reflexiva el funcionamiento coordinado de los",
+            "description": "Analiza de forma crítica y reflexiva el funcionamiento coordinado de los diferentes departamentos, elaborando cada uno de ellos planes complementarios para el logro de los diferentes objetivos y fines planteados inicialmente por la empresa.",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Diseñar un plan de aprovisionamiento, coordinado y coherente con los objetivos finales empresariales, con el fin de seleccionar los proveedores óptimos para la empresa, administrando adecuadamente la documentación surgida durante el proceso de comunicación con los mismos."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Elaborar un plan de marketing que desarrolle la comercialización de los productos utilizando eficazmente la documentación generada durante el proceso comercial de venta de dichos productos."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Evaluar las necesidades de personal de la empresa y describir las funciones de dichos puestos de trabajo, analizando los documentos generados en el proceso de selección, formación y retribución de los mismos."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Determinar la inversión necesaria y las necesidades financieras de la empresa,",
+            "description": "Determinar la inversión necesaria y las necesidades financieras de la empresa, valorando el acceso de la misma a las distintas fuentes de financiación, para asegurar su viabilidad.",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Elaborar un plan de inversiones valorando y seleccionando las fuentes de financiación necesarias."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Determinar la viabilidad de la empresa aplicando diferentes métodos según las diferentes perspectivas de análisis."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Desarrollar habilidades comunicativas utilizando herramientas informáticas y",
+            "description": "Desarrollar habilidades comunicativas utilizando herramientas informáticas y audiovisuales para exponer y comunicar públicamente el proyecto de la empresa.",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Utilizar habilidades comunicativas para la presentación del plan de negocio manejando herramientas informáticas y audiovisuales atractivas que ayuden a una difusión efectiva del proyecto."
+                }
+            ]
+        }
+    ]
+}

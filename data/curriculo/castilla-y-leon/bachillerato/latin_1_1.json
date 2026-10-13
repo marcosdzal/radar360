@@ -1,0 +1,141 @@
+{
+    "community": "castilla-y-leon",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "latin_1",
+    "subject_name": "Latín I",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "1.1 Realizar un análisis y comentario del contenido y estructura de textos",
+            "description": "1.1 Realizar un análisis y comentario del contenido y estructura de textos clásicos originales en latín o traducidos a través de una lectura comprensiva. (CCL1, CCL2, CP2, STEM1, STEM2, CPSAA1.1, CPSSA5) 1.2 Realizar la lectura directa de textos lati…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Traduce textos latinos con corrección y justifica la traducción identificando elementos lingüísticos."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Seleccionar autónomamente el significado correcto de palabras polisémicas en latín justificando la elección con el contexto y herramientas de traducción."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Revisar y corregir traducciones propias y ajenas, justificando cambios con terminología lingüística."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Lee directamente textos latinos sencillos identificando unidades lingüísticas básicas y comparándolas con su repertorio lingüístico."
+                },
+                {
+                    "code": "1.5",
+                    "description": "Planificar y reflexionar sobre el propio aprendizaje del latín mediante autoevaluación y coevaluación, usando diario o portfolio."
+                },
+                {
+                    "code": "1.6",
+                    "description": "Revisar, corregir y mejorar de forma autónoma las traducciones propias y las de los compañeros, y realizar propuestas razonables de mejora, argumentando los cambios sugeridos y empleando para ello terminología especializada a partir de la reflexión lingüística. (CCL1, CCL2, STEM1, CPSAA1.1)"
+                },
+                {
+                    "code": "1.7",
+                    "description": "Realizar un proceso de autoevaluación y coevaluación de los progresos y dificultades encontrados en el estudio de la lengua latina, mediante actividades de planificación del propio aprendizaje, recogidas en el Portfolio Europeo de las Lenguas (PEL) o en un diario de aprendizaje, para superar esas dificultades y consolidar su aprendizaje. (CP2)"
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "2.1 Identificar y conocer vocabulario transparente y de uso habitual de la lengua latina",
+            "description": "2.1 Identificar y conocer vocabulario transparente y de uso habitual de la lengua latina, organizando glosarios y listas de vocabulario. (CP2, CD1, CPSAA1.1) 2.2 Conocer los lexemas más frecuentes y productivos de la lengua latina y sus principales s…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Deducir el significado etimológico de términos aplicando estrategias de reconocimiento de formantes latinos y cambios lingüísticos."
+                },
+                {
+                    "code": "2.2",
+                    "description": "El alumnado explica cambios fonéticos, morfológicos o semánticos del latín a las lenguas de enseñanza, comparando con otras lenguas."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Explica la relación del latín con lenguas modernas analizando elementos comunes de origen griego y usando su repertorio lingüístico."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Identificar prejuicios lingüísticos en ejemplos dados y valorar la diversidad dialectal."
+                },
+                {
+                    "code": "2.5",
+                    "description": "Respetar y valorar de forma positiva, la diversidad lingüística y dialectal, a través de criterios dados, considerándola como parte fundamental de la riqueza y patrimonio culturales. (CP3)"
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "3.1 Leer, comprender, interpretar y comentar de forma guiada textos y",
+            "description": "3.1 Leer, comprender, interpretar y comentar de forma guiada textos y fragmentos de la literatura latina de géneros y temática diversos y de complejidad creciente, aplicando estrategias de análisis y reflexión que impliquen movilizar la propia experi…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Interpretar y comentar textos latinos guiados aplicando análisis y reflexión personal para desarrollar sensibilidad estética y hábito lector."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Comparar fragmentos latinos con obras posteriores, identificando géneros, temas y tópicos desde un enfoque intertextual guiado."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Identificar y definir palabras latinas clave (imperium, natura, civis, paterfamilias) en textos variados, combinando léxico y cultura."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Crear textos literarios propios basados en la lectura de obras latinas."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "4.1 Conocer, analizar y explicar, a partir de criterios dados, los hechos y",
+            "description": "4.1 Conocer, analizar y explicar, a partir de criterios dados, los hechos y procesos históricos y políticos del mundo romano encuadrándolos en su período correspondiente, así como las principales líneas de pensamiento, instituciones, modos de vida y …",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Comparar instituciones, costumbres y modos de vida romanos con los actuales, valorando cambios y derechos humanos."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Debatir sobre el legado romano usando estrategias retóricas y mediando entre posturas."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Investigar sobre el legado romano analizando fuentes y valorando su fiabilidad."
+                },
+                {
+                    "code": "4.4",
+                    "description": "Reflexionar acerca de la importancia de los diferentes aspectos del legado romano en nuestra sociedad, de su evolución y asimilación, y debatir sobre ellos, cuestionándolos si fuera preciso, utilizando estrategias retóricas y oratorias de manera guiada, mediando entre posturas cuando sea necesario, seleccionando y contrastando información y experiencias veraces y mostrando interés, respeto y empatía por otras opiniones y argumentaciones. (CCL3, CP3, CPSAA3.1, CC1, CC2, CC3)"
+                },
+                {
+                    "code": "4.5",
+                    "description": "Elaborar trabajos de investigación en diferentes soportes sobre aspectos del legado de la civilización latina en el ámbito personal, religioso y sociopolítico haciendo uso de diferentes fuentes, analizando su fiabilidad y pertinencia y respetando los principios de rigor y propiedad intelectual. (CCL3, CD1, CD2)"
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "5.1 Describir las características fundamentales del arte romano, explicando su",
+            "description": "5.1 Describir las características fundamentales del arte romano, explicando su funcionalidad y señalando su presencia en las manifestaciones artísticas actuales, relacionándolas con sus modelos clásicos. (CCL3, CD1, CE1, CEC1, CCEC2) 5.2 Planificar y…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Explicar cómo el legado latino inspira creaciones culturales posteriores a partir del análisis de obras dadas."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Investiga guiadamente un elemento del patrimonio latino, actuando con respeto y conciencia de su conservación."
+                },
+                {
+                    "code": "5.3",
+                    "description": "El alumnado explora el legado romano local, reflexiona sobre sus usos y presenta ejemplos de pervivencia clásica en soportes variados."
+                }
+            ]
+        }
+    ]
+}

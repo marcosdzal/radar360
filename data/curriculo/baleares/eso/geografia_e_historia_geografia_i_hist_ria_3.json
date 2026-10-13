@@ -1,0 +1,157 @@
+{
+    "community": "baleares",
+    "stage": "eso",
+    "decree": "",
+    "subject": "geografia_e_historia_geografia_i_hist_ria",
+    "subject_name": "Geografia i Història",
+    "grade": 3,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Cercar, seleccionar, tractar i organitzar informacio sobre temes rellevants del",
+            "description": "cercar, seleccionar, tractar i organitzar informacio sobre temes rellevants del present i del passat, usant críticament fonts històriques i geogràfiques, per adquirir coneixements, elaborar i expressar continguts en diversos formats. Les destreses i …",
+            "criterios": [
+                {
+                    "code": "CA1.1",
+                    "description": "Elaborar continguts propis en diferents formats, mitjançant aplicacions i estratègies de recollida i representació de dades més complexes, usant i contrastant críticament fonts fiables, tant analògiques com digitals, del present i de la història contemporània, identificant la desinformació i la manipulació. - Elaborar continguts en diferents formats, mitjançant estratègies de recollida i representació variades. - Contrastar les fonts, analògiques i digitals, per identificar la desinformació i la manipulació."
+                },
+                {
+                    "code": "CA1.2",
+                    "description": "Establir connexions i relacions entre els coneixements i informacions adquirits, elaborant síntesis interpretatives i explicatives, mitjançant informes, estudis o dossiers informatius, que reflecteixin un domini i consolidació dels continguts tractats. - Relacionar els coneixements adquirits amb resums interpretatius i explicatius. - Consolidar els continguts tractats amb l'elaboració d'informes, estudis o dossiers."
+                },
+                {
+                    "code": "CA1.3",
+                    "description": "Transferir adequadament la informació i el coneixement per mitjà de narracions, pòsters, presentacions, exposicions orals, mitjans audiovisuals i altres productes. - Transferir adequadament la informació i el coneixement utilitzant diferents formats."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Indagar, argumentar i elaborar productes propis sobre problemes geografics,",
+            "description": "indagar, argumentar i elaborar productes propis sobre problemes geografics, historics i socials que resultin rellevants actualment, des del local al global, per desenvolupar un pensament crític, respectuós amb les diferències, que contribueixi a la c…",
+            "criterios": [
+                {
+                    "code": "CA2.1",
+                    "description": "Generar productes originals i creatius mitjançant la reelaboració de coneixements previs a través d'eines de recerca que permetin explicar problemes presents i passats de la humanitat a distintes escales temporals i espacials, del local al global, utilitzant conceptes, situacions i dades rellevants. - Utilitzar conceptes, situacions i dades rellevants per explicar problemes presents de la humanitat. - Utilitzar conceptes, situacions i dades rellevants per explicar problemes de la humanitat a l'edat contemporània. - Plasmar coneixements adquirits generant nous materials originals per explicar els problemes presents de la humanitat. - Reelaborar coneixements adquirits generant nous materials originals per explicar els problemes de la societat a l'edat contemporània."
+                },
+                {
+                    "code": "CA2.2",
+                    "description": "Produir i expressar judicis i arguments personals i criteris de forma oberta i respectuosa, fent patent la pròpia identitat i enriquint el patrimoni comú en el context del món actual, els seus reptes i els seus conflictes, des d'una perspectiva sistèmica i global. - Expressar judicis, arguments i criteris personals de manera respectuosa. - Construir una identitat pròpia i respectar la resta d'identitats del món actual."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Coneixer els principals desafiaments als quals s'han enfrontat diferents",
+            "description": "coneixer els principals desafiaments als quals s'han enfrontat diferents societats al llarg del temps, identificant les causes i conseqüències dels canvis produïts i els problemes als quals s'enfronten en l'actualitat, mitjançant el desenvolupament d…",
+            "criterios": [
+                {
+                    "code": "CA3.1",
+                    "description": "Realitzar propostes que contribueixin a l'assoliment dels Objectius de Desenvolupament Sostenible, aplicant mètodes i projectes de recerca, incidint en l'ús de mapes i altres representacions gràfiques, així com de mitjans accessibles d'interpretació d'imatges. - Aplicar mètodes i projectes de recerca per realitzar propostes que contribueixen a assolir els ODS. - Utilitzar mapes i representacions gràfiques per fer propostes que duguin a la consecució dels ODS."
+                },
+                {
+                    "code": "CA3.2",
+                    "description": "Entendre i afrontar, des d'un enfocament ecosocial, problemes i desafiaments passats, actuals o futurs de les societats contemporànies tenint en compte les seves relacions d'interdependència i ecodependència. - Mantindre un enfocament ecosocial per a la resolució de problemes i desafiaments passats, actuals i futurs de les societats contemporànies. - Entendre i valorar les relacions d'interdependència i ecodependència a les societats contemporànies."
+                },
+                {
+                    "code": "CA3.3",
+                    "description": "Utilitzar seqüències cronològiques complexes en les que identificar, comparar i relacionar fets i processos en diferents períodes i llocs històrics (simultaneïtat, durada, causalitat) utilitzant termes i conceptes específics de l'àmbit de la història i la geografia. - Comparar i relacionar fets i processos en diferents períodes i llocs utilitzant termes i conceptes geogràfics i històrics."
+                },
+                {
+                    "code": "CA3.4",
+                    "description": "Analitzar processos de canvi històric i comparar casos de la història i la geografia a través de l'ús de fonts d'informacions diverses, tenint en compte transformacions de curta i llarga durada (conjuntura i estructura), les continuïtats i permanències en diferents períodes i llocs. - Analitzar processos de canvi amb diverses fonts i observar les transformacions i les permanències des d'una perspectiva geogràfica. - Comparar les transformacions conjunturals i les estructurals que es donen en els processos de canvi."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Identificar i analitzar els elements del paisatge i la seva articulacio en",
+            "description": "identificar i analitzar els elements del paisatge i la seva articulacio en sistemes complexos naturals, rurals i urbans, com també la seva evolució en el temps, interpretant les causes de les transformacions i valorant el grau d'equilibri existent en…",
+            "criterios": [
+                {
+                    "code": "CA4.1",
+                    "description": "Identificar els elements de l'entorn i comprendre el seu funcionament com un sistema complex per mitjà de l'anàlisi multicausal de les seves relacions naturals i humanes, presents i passades, valorant-ne el grau de conservació i d'equilibri dinàmic. - Comprendre a través de l'anàlisi multicausal l'entorn, el seu funcionament i les relacions naturals i humanes."
+                },
+                {
+                    "code": "CA4.2",
+                    "description": "Idear i adoptar, quan sigui possible, comportaments i accions que contribueixin a la conservació i millora de l'entorn natural, rural i urbà, a través del respecte a tots els éssers vius, mostrant comportaments orientats a l'assoliment d'un desenvolupament sostenible d'aquests entorns, i defensant l'accés universal, just i equitatiu als recursos que ens ofereix el planeta. - Contribuir a la conservació i millora de l'entorn natural, rural i urbà des d'una perspectiva adient per assolir un desenvolupament sostenible. - Defensar l'accés universal, just i equitatiu als recursos que ens ofereix el planeta."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Analitzar de manera critica plantejaments historics i geografics explicant la",
+            "description": "analitzar de manera critica plantejaments historics i geografics explicant la construccio dels sistemes democràtics i els principis constitucionals que regeixen la vida en comunitat, com també assumint els deures i drets propis del nostre marc de con…",
+            "criterios": [
+                {
+                    "code": "CA5.1",
+                    "description": "Conèixer, valorar i exercir responsabilitats, drets i deures i actuar en favor del seu desenvolupament i afirmació a través del coneixement del nostre ordenament jurídic i constitucional, de la comprensió i posada en valor de la nostra memòria democràtica i dels aspectes fonamentals que la conformen, de la contribució dels homes i dones a aquesta, i la defensa dels nostres valors constitucionals. - Conèixer, valorar i exercir responsabilitats, drets i deures que emanen del nostre ordenament jurídic i constitucional i actuar en favor del seu desenvolupament. - Comprendre i posar en valor la nostra memòria democràtica i els seus valors, així com la contribució dels homes i de les dones a aquesta."
+                },
+                {
+                    "code": "CA5.2",
+                    "description": "Reconèixer moviments i causes que generin una consciència solidària, promoguin la cohesió social, i treballin per a l'eliminació de la desigualtat, especialment la motivada per qüestió de gènere, i per al ple desenvolupament de la ciutadania, mitjançant la mobilització de coneixements i estratègies de participació, treball en equip, mediació i resolució pacífica de conflictes. - Reconèixer moviments i causes que generin consciència solidària, cohesió social i cerquin eliminar desigualtats, en especial les de gènere. - Promoure i realitzar les estratègies de participació, treball en equip, mediació i resolució pacífica de conflictes."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Comprendre els processos geografics, historics i culturals que han conformat la",
+            "description": "comprendre els processos geografics, historics i culturals que han conformat la realitat multicultural en què vivim, coneixent i difonent la història i la cultura de les minories ètniques presents al nostre país i valorant l'aportació dels moviments …",
+            "criterios": [
+                {
+                    "code": "CA6.1",
+                    "description": "Rebutjar actituds discriminatòries i reconèixer la riquesa de la diversitat, a partir de l'anàlisi de la relació entre els aspectes geogràfics, històrics, ecosocials i culturals que han conformat la societat globalitzada i multicultural actual, i del coneixement de l'aportació dels moviments en defensa dels drets de les minories i en favor de la inclusivitat i la igualtat real, especialment de les dones. - Rebutjar actituds discriminatòries a partir de l'anàlisi de la relació entre els aspectes geogràfics, històrics, ecosocials i culturals que han conformat la societat globalitzada i multicultural actual. - Conèixer l'aportació dels moviments en defensa dels drets de les minories i en favor de la inclusivitat i la igualtat real, especialment de les dones."
+                },
+                {
+                    "code": "CA6.2",
+                    "description": "Contribuir al benestar individual i col·lectiu a través del disseny, exposició i posada en pràctica d'iniciatives orientades a promoure un compromís actiu amb els valors comuns, la millora de l'entorn i el servei a la comunitat. - Dissenyar, exposar i posar en pràctica iniciatives que promoguin la millora de l'entorn i el servei a la comunitat per contribuir al benestar individual i col·lectiu."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Identificar els fonaments que sostenen les diverses identitats propies i les",
+            "description": "identificar els fonaments que sostenen les diverses identitats propies i les dels altres, a través del coneixement i la valoració del patrimoni material i immaterial que compartim per conservar-lo i respectar els sentiments de pertinença, com també p…",
+            "criterios": [
+                {
+                    "code": "CA7.1",
+                    "description": "Reconèixer els trets que van conformant la identitat pròpia i dels altres, la riquesa de les identitats múltiples en relació amb diferents escales espacials, a través de la investigació i l'anàlisi dels seus fonaments geogràfics, històrics, artístics, ideològics i lingüístics, i el reconeixement de les seves expressions culturals. - Reconèixer trets de la identitat pròpia i dels altres, a través de la recerca i l'anàlisi dels seus fonaments geogràfics, històrics, artístics, ideològics i lingüístics."
+                },
+                {
+                    "code": "CA7.2",
+                    "description": "Conèixer i contribuir a conservar el patrimoni material i immaterial comú, respectant els sentiments de pertinença i adoptant compromisos amb principis i accions orientades a la cohesió i la solidaritat territorial de la comunitat política, els valors de l'europeisme i de la Declaració Universal dels Drets Humans. - Adoptar compromisos amb els principis i valors de l'europeisme i la Declaració Universal dels Drets Humans. - Respectar, conèixer i contribuir a la conservació del patrimoni material i immaterial."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Prendre consciencia del paper dels cicles demografics, el cicle vital, les",
+            "description": "prendre consciencia del paper dels cicles demografics, el cicle vital, les formes de vida i les relacions intergeneracionals i de dependència en la societat actual i la seva evolució al llarg del temps, analitzant-les de manera crítica, per promoure …",
+            "criterios": [
+                {
+                    "code": "CA8.1",
+                    "description": "Adoptar un paper actiu i compromès amb l'entorn, d'acord amb aptituds, aspiracions, interessos i valors propis, a partir de l'anàlisi crítica de la realitat econòmica, de la distribució i gestió del treball, i l'adopció d'hàbits responsables, saludables, sostenibles i respectuosos amb la dignitat humana i la d'altres d'éssers vius, així com de la reflexió ètica davant els usos de la tecnologia i la gestió del temps lliure. - Adoptar un paper actiu i compromès amb l'entorn a partir de l'anàlisi crítica de la realitat econòmica, de la distribució i gestió del treball. - Adquirir hàbits responsables, saludables, sostenibles i respectuosos amb la dignitat humana i altres éssers vius. - Assolir una reflexió ètica davant els usos de la tecnologia i la gestió del temps lliure. - Reconèixer les iniciatives de les associacions i entitats socials civils. - Adoptar actituds proactives per a la participació i transformació en l'àmbit local i comunitari i a través de les relacions intergeneracionals."
+                },
+                {
+                    "code": "CA8.2",
+                    "description": "Reconèixer les iniciatives de la societat civil, reflectides en associacions i entitats socials, adoptant actituds de participació i transformació en l'àmbit local i comunitari, especialment a l'àmbit de les relacions intergeneracionals."
+                }
+            ]
+        },
+        {
+            "code": "CE9",
+            "name": "Coneixer i valorar la importancia de la seguretat integral ciutadana en la",
+            "description": "coneixer i valorar la importancia de la seguretat integral ciutadana en la cultura de convivència nacional i internacional, reconèixer la contribució de l'Estat, les seves institucions i altres entitats socials a la ciutadania global, a la pau, a la …",
+            "criterios": [
+                {
+                    "code": "CA9.1",
+                    "description": "Interpretar i explicar de manera argumentada la connexió d'Espanya amb els grans processos històrics de l'època contemporània, valorant el que han suposat per a la vostra evolució i assenyalant les aportacions dels seus habitants al llarg de la història, així com les aportacions de l'Estat i les seves institucions a la cultura europea i mundial. - Interpretar i explicar la connexió d' Espanya amb els grans processos històrics de l'època contemporània. - Valorar les aportacions que les persones de l'estat espanyol han fet al llarg de la història, així com les de l'Estat, les seves institucions i les Illes Balears a la cultura europea i mundial."
+                },
+                {
+                    "code": "CA9.2",
+                    "description": "Contribuir a la consecució d'un món més segur, just, solidari i sostenible, a través de l'anàlisi dels principals conflictes del present i el reconeixement de les institucions de l'Estat i de les associacions civils que garanteixen la seguretat integral i la convivència social, així com els compromisos internacionals del nostre país en favor de la pau, la seguretat, la cooperació, la sostenibilitat, els valors democràtics i els Objectius de Desenvolupament Sostenible. - Analitzar els principals conflictes del món actual per contribuir a un món més segur, solidari i sostenible. - Reconèixer les institucions de l'Estat i les associacions civils que garanteixen la seguretat integral i la convivència socials. - Conèixer els compromisos internacionals del nostre país en favor de la pau, la seguretat, la cooperació, la sostenibilitat, els valors democràtics i els Objectius de Desenvolupament Sostenible."
+                }
+            ]
+        }
+    ]
+}

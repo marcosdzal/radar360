@@ -1,0 +1,150 @@
+{
+    "community": "galicia",
+    "stage": "eso",
+    "decree": "Decreto 156\/2022, de 15 de septiembre",
+    "subject": "educacion_plastica",
+    "subject_name": "Educación Plástica, Visual y Audiovisual",
+    "grade": 3,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Comprender la importancia que tuvieron en el desarrollo del ser humano algunos",
+            "description": "Comprender la importancia que tuvieron en el desarrollo del ser humano algunos ejemplos seleccionados de las distintas manifestaciones culturales y artísticas, mostrando interés por el patrimonio como parte de la propia cultura, para entender cómo se…",
+            "criterios": [
+                {
+                    "code": "CE1.1",
+                    "description": "Reconocer los factores históricos y sociales que rodean las producciones plásticas, visuales y audiovisuales más relevantes, así como su función y su finalidad, y describir sus particularidades y su papel como transmisoras de conceptos, valores y convicciones, con interés y respeto, desde una perspectiva de género."
+                },
+                {
+                    "code": "CE1.2",
+                    "description": "Valorar la importancia de la conservación del patrimonio cultural y artístico universal y gallego a través del conocimiento y el análisis guiado de obras de arte."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Explicar las producciones plásticas, visuales y audiovisuales propias,",
+            "description": "Explicar las producciones plásticas, visuales y audiovisuales propias, comparándolas con las de sus iguales y con algunas de las que conforman el patrimonio cultural y artístico, justificando las opiniones y teniendo en cuenta el progreso desde la in…",
+            "criterios": [
+                {
+                    "code": "CE1.3",
+                    "description": "Analizar diversas producciones artísticas y culturales, incluidas las propias y las de sus iguales, desarrollando con interés una visual estética hacia el mundo y respetando la diversidad de las expresiones culturales."
+                },
+                {
+                    "code": "CE2.3",
+                    "description": "Explicar, de forma razonada, la importancia del proceso que media entre la realidad, lo imaginario y la producción, superando estereotipos y mostrando un comportamiento respetuoso con la diversidad cultural."
+                },
+                {
+                    "code": "CE4.1",
+                    "description": "Analizar de manera guiada diversas producciones visuales y audiovisuales, incluidas las propias y las de sus iguales, desarrollando con interés una visual estética hacia el mundo y respetando la diversidad de las expresiones culturales."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Analizar diferentes propuestas plásticas, visuales y audiovisuales, mostrando",
+            "description": "Analizar diferentes propuestas plásticas, visuales y audiovisuales, mostrando respeto y desarrollando la capacidad de observación e interiorización de la experiencia y de la satisfacción estética, para enriquecer la cultura artística individual y ali…",
+            "criterios": [
+                {
+                    "code": "CE1.4",
+                    "description": "Seleccionar y describir propuestas plásticas, visuales y audiovisuales de diversos tipos y épocas, analizarlas con curiosidad y respeto desde una perspectiva de género, e incorporarlas a su cultura personal y su imaginario propio."
+                },
+                {
+                    "code": "CE1.5",
+                    "description": "Argumentar la satisfacción producida por la recepción del arte en todas sus formas y vertientes, compartiendo con respeto impresiones y emociones, y expresar la opinión personal de forma abierta."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Explorar las técnicas, los lenguajes y las intenciones de diferentes producciones culturales y artísticas, analizando",
+            "description": "Explorar las técnicas, los lenguajes y las intenciones de diferentes producciones culturales y artísticas, analizando, de forma abierta y respetuosa tanto el proceso como el producto final, su recepción y su contexto, para descubrir las posibilidades…",
+            "criterios": [
+                {
+                    "code": "CE2.1",
+                    "description": "Analizar de manera guiada las especificidades de los lenguajes de diferentes producciones culturales y artísticas, estableciendo conexiones entre ellas, e incorporarlas con creatividad en las producciones propias."
+                },
+                {
+                    "code": "CE3.1",
+                    "description": "Reconocer los rasgos particulares de diversas técnicas y lenguajes artísticos, así como sus procesos y resultados en función de los contextos sociales, históricos, geográficos y tecnológicos, procurando y analizando la información con interés y eficacia."
+                },
+                {
+                    "code": "CE4.2",
+                    "description": "Reconocer los rasgos particulares de diversas técnicas y lenguajes visuales y audiovisuales, así como sus procesos y resultados en función de los contextos sociales, históricos, geográficos y tecnológicos, procurando y analizando la información con interés y eficacia."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Realizar producciones artísticas individuales o colectivas con creatividad e",
+            "description": "Realizar producciones artísticas individuales o colectivas con creatividad e imaginación, seleccionando y aplicando herramientas, técnicas y soportes en función de la intencionalidad, para expresar la visión del mundo, las emociones y los sentimiento…",
+            "criterios": [
+                {
+                    "code": "CE2.2",
+                    "description": "Expresar conceptos, ideas y sentimientos en diferentes producciones plásticas y visuales, a través de la experimentación con diversas herramientas, técnicas y soportes, desarrollando la capacidad de comunicación y la reflexión crítica."
+                },
+                {
+                    "code": "CE3.2",
+                    "description": "Expresar conceptos, ideas y sentimientos en diferentes producciones plásticas y visuales, a través de la experimentación con diversas herramientas, técnicas y soportes, desarrollando la capacidad de comunicación y la reflexión crítica."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Apropiarse de las referencias culturales y artísticas del entorno, identificando sus singularidades",
+            "description": "Apropiarse de las referencias culturales y artísticas del entorno, identificando sus singularidades, para enriquecer las creaciones propias y desarrollar la identidad personal, cultural y social. - Para el desarrollo de la identidad personal del alum…",
+            "criterios": [
+                {
+                    "code": "CE1.6",
+                    "description": "Explicar su pertenencia a un contexto cultural concreto, a través del análisis de los aspectos formales y de los factores sociales que determinan diversas producciones culturales y artísticas actuales."
+                },
+                {
+                    "code": "CE3.3",
+                    "description": "Utilizar con creatividad referencias culturales y artísticas del entorno en la elaboración de producciones propias, mostrando una visión personal."
+                },
+                {
+                    "code": "CE4.3",
+                    "description": "Utilizar con creatividad referencias culturales y artísticas del entorno en la elaboración de producciones audiovisuales propias, mostrando una visión personal."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Aplicar las técnicas, los recursos y las convenciones principales de los",
+            "description": "Aplicar las técnicas, los recursos y las convenciones principales de los lenguajes artísticos, incorporando de forma creativa las posibilidades que ofrecen las tecnologías, para integrarlas y enriquecer el diseño y la realización de un proyecto artís…",
+            "criterios": [
+                {
+                    "code": "CE2.4",
+                    "description": "Realizar un proyecto gráfico-plástico, con creatividad y de manera consciente, ajustándose al objetivo propuesto, experimentando con distintas técnicas visuales en la generación de mensajes propios, y mostrando iniciativa en el empleo de lenguajes, materiales, soportes y herramientas."
+                },
+                {
+                    "code": "CE3.4",
+                    "description": "Realizar un proyecto artístico, con creatividad y de manera consciente, ajustándose al objetivo propuesto, experimentando con distintas técnicas visuales en la generación de mensajes propios, y mostrando iniciativa en el empleo de lenguajes, materiales, soportes y herramientas de creación gráfico-plástica."
+                },
+                {
+                    "code": "CE4.4",
+                    "description": "Realizar un proyecto audiovisual con creatividad y de manera consciente, ajustándose al objetivo propuesto, experimentando con distintas técnicas visuales o audiovisuales en la generación de mensajes propios, y mostrando iniciativa en el empleo de lenguajes, materiales, soportes y herramientas."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Compartir producciones y manifestaciones artísticas, adaptando el proyecto a la",
+            "description": "Compartir producciones y manifestaciones artísticas, adaptando el proyecto a la intención y a las características del público destinatario, para valorar distintas oportunidades de desarrollo personal. - La obra artística alcanza todo su sentido y su …",
+            "criterios": [
+                {
+                    "code": "CE3.5",
+                    "description": "Exponer los procesos de elaboración y el resultado final de producciones gráfico-plásticas, realizadas de forma individual o colectiva, reconociendo los errores, procurando las soluciones y las estrategias más adecuadas para mejorarlas, y valorando las oportunidades de desarrollo personal que ofrecen."
+                },
+                {
+                    "code": "CE4.5",
+                    "description": "Reconocer los diferentes usos y las funciones de las producciones y de las manifestaciones visuales y audiovisuales, y argumentar de forma individual o colectiva sus conclusiones acerca de las oportunidades que pueden generar, con una actitud abierta y con interés por conocer su importancia en la sociedad."
+                },
+                {
+                    "code": "CE4.6",
+                    "description": "Exponer los procesos de elaboración y el resultado final de producciones audiovisuales, realizadas de forma individual o colectiva, reconociendo los errores, buscando las soluciones y las estrategias más adecuadas para mejorarlas, y valorando las oportunidades de desarrollo personal que ofrecen."
+                }
+            ]
+        }
+    ]
+}

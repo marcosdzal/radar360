@@ -1,0 +1,86 @@
+{
+    "community": "cataluna",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "educacion_fisica",
+    "subject_name": "Educació Física",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Autogestionar la condició física per a l'adopció d'un estil de vida actiu i",
+            "description": "Autogestionar la condició física per a l'adopció d'un estil de vida actiu i saludable.",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Elaborar un pla de treball personalitzat per al manteniment o la millora de la salut."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Consolidar els hàbits saludables valorant els beneficis que suposen al llarg de la vida."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Utilitzar els protocols d’actuació dels primers auxilis i de prevenció de lesions."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Aplicar recursos digitals per a la monitorització de l’activitat física i l’adquisició d’hàbits saludables."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Resoldre situacions motrius diverses amb control i domini corporal per a la",
+            "description": "Resoldre situacions motrius diverses amb control i domini corporal per a la superació de reptes.",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Resoldre situa tècniques, tàctiques i estratègiques."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Aplicar els elements i tècniques d’expressió corporal adequats a cada composició."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Organitzar activitats fisicoesportives per a l'ocupació i el gaudi del temps de",
+            "description": "Organitzar activitats fisicoesportives per a l'ocupació i el gaudi del temps de lleure activament.",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Gestionar activitats, sessions o jornades esportives d’organització i dinamització."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Crear produccions d’expressió corporal incorporant-hi elements de crítica social."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Organitzar activitats físiques en el medi natural i urbà aplicant normes de seguretat i de conservació del medi ambient."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Valorar les sortides professionals associades a l’activitat física i l’esport."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Aplicar actituds, valors i habilitats socials de forma proactiva en la pràctica",
+            "description": "Aplicar actituds, valors i habilitats socials de forma proactiva en la pràctica d'activitat física i esportiva per a la millora de la convivència.",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Cooperar en diferents situacions motrius mostrant maduresa en la gestió emocional i personal en l’assumpció dels diferents rols."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Resoldre conflictes mitjançant l’aplicació d’habilitats socials i valors davant situacions discriminatòries i de violència en la pràctica fisicoesportiva."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,149 @@
+{
+    "community": "galicia",
+    "stage": "bachillerato",
+    "decree": "Decreto 157\/2022, de 15 de septiembre",
+    "subject": "literatura_universal",
+    "subject_name": "Literatura Universal",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Leer, interpretar y valorar clásicos de la literatura universal atendiendo",
+            "description": "Leer, interpretar y valorar clásicos de la literatura universal atendiendo tanto a las relaciones internas de los elementos constitutivos del género y a sus funciones en las obras como a las relaciones externas de las obras con su contexto de producc…",
+            "criterios": [
+                {
+                    "code": "CE1.1",
+                    "description": "Explicar y argumentar la interpretación de las obras leídas a partir del análisis de las relaciones internas de sus elementos constitutivos con el sentido de la obra y de las relaciones externas del texto con su contexto sociohistórico y con la tradición literaria, utilizando un metalenguaje específico e incorporando juicios de valor vinculados a la apreciación estética de las obras."
+                },
+                {
+                    "code": "CE1.2",
+                    "description": "Crear textos personales o colectivos con intención literaria y conciencia de estilo, en distintos soportes y con la ayuda de otros lenguajes artísticos y audiovisuales, a partir de la lectura de obras o fragmentos significativos en los que se empleen las convenciones formales de los diversos géneros y estilos literarios."
+                },
+                {
+                    "code": "CE2.1",
+                    "description": "Explicar y argumentar la interpretación de las obras leídas a partir del análisis de las relaciones internas de sus elementos constitutivos con el sentido de la obra y de las relaciones externas del texto con su contexto sociohistórico y con la tradición literaria, utilizando un metalenguaje específico e incorporando juicios de valor vinculados a la apreciación estética de las obras."
+                },
+                {
+                    "code": "CE2.2",
+                    "description": "Crear textos personales o colectivos con intención literaria y conciencia de estilo, en distintos soportes y con ayuda de otros lenguajes artísticos y audiovisuales, a partir de la lectura de obras o fragmentos significativos en los que se empleen las convenciones formales de los diversos géneros y estilos literarios."
+                },
+                {
+                    "code": "CE3.1",
+                    "description": "Explicar y argumentar la interpretación de las obras leídas a partir del análisis de las relaciones internas de sus elementos constitutivos con el sentido de la obra y de las relaciones externas del texto con su contexto sociohistórico y con la tradición literaria, utilizando un metalenguaje específico e incorporando juicios de valor vinculados a la apreciación estética de las obras."
+                },
+                {
+                    "code": "CE3.2",
+                    "description": "Crear textos personales o colectivos con intención literaria y conciencia de estilo, en distintos soportes y con la ayuda de otros lenguajes artísticos y audiovisuales, a partir de la lectura de obras o fragmentos significativos en los que se empleen las convenciones formales de los diversos géneros y estilos literarios."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Leer de manera autónoma clásicos de la literatura universal como fuente de",
+            "description": "Leer de manera autónoma clásicos de la literatura universal como fuente de placer y de conocimiento, y compartir experiencias de lectura para construir la propia identidad lectora y disfrutar de la dimensión social de la lectura. - Desarrollar este o…",
+            "criterios": [
+                {
+                    "code": "CE1.3",
+                    "description": "Elaborar una interpretación personal a partir de la lectura autónoma de obras relevantes de la literatura universal, atendiendo a aspectos temáticos, estructurales y estilísticos, de género y subgénero, valores éticos y estéticos de las obras, estableciendo vínculos argumentados con otras obras y otras experiencias artísticas y culturales."
+                },
+                {
+                    "code": "CE1.4",
+                    "description": "Acceder a diversas manifestaciones de la cultura literaria en el marco de un itinerario lector personal que enriquezca, de forma consciente y sistemática, la propia identidad lectora y que facilite compartir las propias experiencias de lectura utilizando un metalenguaje específico."
+                },
+                {
+                    "code": "CE2.3",
+                    "description": "Elaborar una interpretación personal a partir de la lectura autónoma de obras relevantes de la literatura universal, atendiendo a aspectos temáticos, estructurales y estilísticos, de género y subgénero, valores éticos y estéticos de las obras, estableciendo vínculos argumentados con otras obras y otras experiencias artísticas y culturales."
+                },
+                {
+                    "code": "CE2.4",
+                    "description": "Acceder a diversas manifestaciones de la cultura literaria en el marco de un itinerario lector personal que enriquezca, de forma consciente y sistemática, la propia identidad lectora y que facilite compartir las propias experiencias de lectura utilizando un metalenguaje específico."
+                },
+                {
+                    "code": "CE3.3",
+                    "description": "Elaborar una interpretación personal a partir de la lectura autónoma de obras relevantes de la literatura universal, atendiendo a aspectos temáticos, estructurales y estilísticos, de género y subgénero, valores éticos y estéticos de las obras, y estableciendo vínculos argumentados con otras obras y otras experiencias artísticas y culturales."
+                },
+                {
+                    "code": "CE3.4",
+                    "description": "Acceder a diversas manifestaciones de la cultura literaria en el marco de un itinerario lector personal que enriquezca, de forma consciente y sistemática, la propia identidad lectora y que facilite compartir las propias experiencias de lectura utilizando un metalenguaje específico."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Establecer vínculos entre obras de diferentes épocas, contextos, géneros y",
+            "description": "Establecer vínculos entre obras de diferentes épocas, contextos, géneros y lenguajes artísticos reconociendo las semejanzas y las diferencias en función de sus respectivos contextos de producción y de la interrelación entre literatura y sociedad, par…",
+            "criterios": [
+                {
+                    "code": "CE1.5",
+                    "description": "Comparar textos o fragmentos literarios entre sí y con otras manifestaciones artísticas, argumentando oralmente o por escrito los elementos de semejanza y contraste, tanto en lo relativo a aspectos temáticos y de contenido como formales y expresivos, atendiendo también a sus valores éticos y estéticos."
+                },
+                {
+                    "code": "CE1.6",
+                    "description": "Desarrollar proyectos de investigación que se concreten en una exposición oral, en un texto argumentativo o en una presentación multimodal, que muestren una respuesta personal alrededor de una cuestión que establezca vínculos argumentados entre los clásicos de la literatura universal objeto de lectura guiada y otros textos y manifestaciones artísticas, en función de temas, tópicos, estructuras, lenguaje, recursos expresivos y valores éticos y estéticos."
+                },
+                {
+                    "code": "CE2.5",
+                    "description": "Comparar textos o fragmentos literarios entre sí y con otras manifestaciones artísticas, argumentando oralmente o por escrito los elementos de semejanza y contraste, tanto en lo relativo a aspectos temáticos y de contenido como formales y expresivos, atendiendo también a sus valores éticos y estéticos."
+                },
+                {
+                    "code": "CE2.6",
+                    "description": "Desarrollar proyectos de investigación que se concreten en una exposición oral, en un texto argumentativo o en una presentación multimodal, que muestren una respuesta personal, alrededor de una cuestión que establezca vínculos argumentados entre los clásicos de la literatura universal objeto de lectura guiada y otros textos y manifestaciones artísticas, en función de temas, tópicos, estructuras, lenguaje, recursos expresivos y valores éticos y estéticos."
+                },
+                {
+                    "code": "CE3.5",
+                    "description": "Comparar textos o fragmentos literarios entre sí y con otras manifestaciones artísticas, argumentando oralmente o por escrito los elementos de semejanza y contraste, tanto en lo relativo a aspectos temáticos y de contenido como formales y expresivos, atendiendo también a sus valores éticos y estéticos."
+                },
+                {
+                    "code": "CE3.6",
+                    "description": "Desarrollar proyectos de investigación que se concreten en una exposición oral, en un texto argumentativo o en una presentación multimodal, que muestren una respuesta personal alrededor de una cuestión que establezca vínculos argumentados entre los clásicos de la literatura universal objeto de lectura guiada y otros textos y manifestaciones artísticas, en función de temas, tópicos, estructuras, lenguaje, recursos expresivos y valores éticos y estéticos."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Consolidar un marco de referencias compartidas a partir del conocimiento de",
+            "description": "Consolidar un marco de referencias compartidas a partir del conocimiento de algunos rasgos de los principales movimientos estéticos y algunas de las obras literarias más relevantes del patrimonio universal, para conformar un mapa cultural en el que i…",
+            "criterios": [
+                {
+                    "code": "CE1.7",
+                    "description": "Elaborar de manera individual o colectiva una exposición multimodal que sitúe los textos leídos en su horizonte histórico-cultural y que ofrezca una panorámica de conjunto sobre movimientos artísticos y obras relevantes de la literatura universal."
+                },
+                {
+                    "code": "CE2.7",
+                    "description": "Elaborar de manera individual o colectiva una exposición multimodal que sitúe los textos leídos en su horizonte histórico-cultural y que ofrezca una panorámica de conjunto sobre movimientos artísticos y obras relevantes de la literatura universal."
+                },
+                {
+                    "code": "CE3.7",
+                    "description": "Elaborar de manera individual o colectiva una exposición multimodal que sitúe los textos leídos en su horizonte histórico-cultural y que ofrezca una panorámica de conjunto sobre movimientos artísticos y obras relevantes de la literatura universal."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Participar en la construcción de un canon literario universal que integre la",
+            "description": "Participar en la construcción de un canon literario universal que integre la perspectiva de experiencia de las mujeres a través de la lectura de obras de escritoras y que supere los marcos de la cultura occidental para desarrollar el pensamiento crít…",
+            "criterios": [
+                {
+                    "code": "CE1.8",
+                    "description": "Realizar un proyecto de investigación sobre autoras de relevancia, obras literarias de contextos no occidentales o sobre cuestiones temáticas o formales que aporten una mirada diversa y crítica sobre la construcción de imaginarios que propone la tradición literaria."
+                },
+                {
+                    "code": "CE1.9",
+                    "description": "Comentar textos de manera crítica, de forma oral o por escrito, y participar en conversaciones literarias acerca de lecturas en las que se incorpore la perspectiva de género y en las que se ponga en cuestión la mirada etnocéntrica propia del canon occidental, así como cualquier otro discurso predominante en nuestra sociedad que suponga opresión sobre cualquier minoría."
+                },
+                {
+                    "code": "CE2.8",
+                    "description": "Realizar un proyecto de investigación sobre autoras de relevancia, obras literarias de contextos no occidentales o sobre cuestiones temáticas o formales que aporten una mirada diversa y crítica sobre la construcción de imaginarios que propone la tradición literaria."
+                },
+                {
+                    "code": "CE2.9",
+                    "description": "Comentar textos de manera crítica, de forma oral o por escrito, y participar en conversaciones literarias acerca de lecturas en las que se incorpore la perspectiva de género y en las que se ponga en cuestión la mirada etnocéntrica propia del canon occidental, así como cualquier otro discurso predominante en nuestra sociedad que suponga opresión sobre cualquier minoría."
+                },
+                {
+                    "code": "CE3.8",
+                    "description": "Comentar textos de manera crítica, de forma oral o por escrito, y participar en conversaciones literarias acerca de lecturas en las que se incorpore la perspectiva de género y en las que se ponga en cuestión la mirada etnocéntrica propia del canon occidental, así como cualquier otro discurso predominante en nuestra sociedad que suponga opresión sobre cualquier minoría."
+                }
+            ]
+        }
+    ]
+}

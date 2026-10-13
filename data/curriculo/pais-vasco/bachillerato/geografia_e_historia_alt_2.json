@@ -1,0 +1,119 @@
+{
+    "community": "pais-vasco",
+    "stage": "bachillerato",
+    "decree": "Decreto 82\/2023, de 13 de junio",
+    "subject": "geografia_e_historia_alt",
+    "subject_name": "Geografía",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Argumentar de forma crítica y con criterios geográficos sobre los retos",
+            "description": "Argumentar de forma crítica y con criterios geográficos sobre los retos ecosociales actuales y futuros del País Vasco y de España, identificando la calidad, fiabilidad e intención de los mensajes recibidos a través de canales oficiales y extraoficial…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Cuestionar modos de vida insostenibles analizando fuentes geográficas y argumentando la necesidad de acciones."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Debatir sobre retos naturales y sociales de España usando datos rigurosos y apoyo digital."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Identificar y analizar los elementos que componen los paisajes naturales y",
+            "description": "Identificar y analizar los elementos que componen los paisajes naturales y humanizados, mediante la interpretación de fuentes de información visuales, cartográficas, estadísticas, gráficas y escritas, para comprender la complejidad del espacio geográ…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Valorar impactos humanos desde la sostenibilidad, reconociendo la complejidad sistémica del medio natural y las actividades humanas."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Analizar paisajes naturales y humanizados a partir de fuentes visuales, distinguiendo elementos geográficos e interpretando la influencia de factores físicos y humanos."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Analizar la diversidad natural del País Vasco y de España y sus singularidades",
+            "description": "Analizar la diversidad natural del País Vasco y de España y sus singularidades geográficas dentro de Europa, a través de la comparación de características comunes y específicas del relieve, el clima, la hidrografía y la biodiversidad, para reflexiona…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "El alumnado reflexiona sobre su percepción del espacio al localizar en mapas regiones geomorfológicas y bioclimáticas, comparando sus características y valorando su contribución a la sostenibilidad."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Comparar paisajes naturales de España y Europa, analizando su distribución, características y la relación humana con ellos."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Localizar fenómenos naturales y humanos, y argumentar con rigor sus límites o categorías",
+            "description": "Localizar fenómenos naturales y humanos, y argumentar con rigor sus límites o categorías, aplicando las Tecnologías de la Información Geográfica (TIG), así como otros métodos y técnicas propios de la Geografía y de otras ciencias afines, para compren…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Usar la escala adecuada con TIG para localizar fenómenos, justificando métodos y delimitando regiones y áreas de transición."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Crear productos geográficos propios con TIG comunicando diagnósticos, hipótesis o conclusiones."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Comprender las causas y efectos de la globalización, así como su influencia en",
+            "description": "Comprender las causas y efectos de la globalización, así como su influencia en la evolución de los sistemas económicos y los comportamientos sociales recientes, creando productos propios que indaguen sobre la interconexión e interdependencia del mund…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Valorar la dignidad humana analizando críticamente consecuencias de acciones sobre condiciones laborales y de vida en España y otros países, investigando relaciones económicas globalizadas y proponiendo soluciones."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Argumentar la necesidad de preservar el medio ambiente analizando impactos de producción, distribución y consumo, y proponer actuaciones de mejora a escala local y global."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Expresar la necesidad de preservar el medio ambiente indagando sobre los impactos de los modos de producción, distribución y consumo a escala local y global, y proponiendo actuaciones de mejora."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Explicar de forma crítica los desequilibrios territoriales y la estructura",
+            "description": "Explicar de forma crítica los desequilibrios territoriales y la estructura sociolaboral y demográfica del País Vasco y de España, investigando sobre sus causas, para reconocer la interdependencia entre territorios y valorar la solidaridad, los mecani…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Justifica la necesidad de compensar desigualdades territoriales e individuales mediante el análisis de causas y consecuencias pasadas y recientes."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Argumentar el origen de desequilibrios socioeconómicos analizando factores de localización en una sociedad terciarizada."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Argumentar sobre la necesidad de los mecanismos de compensación de las desigualdades individuales y territoriales, identificando cuáles han sido los procesos y causas que las han generado, y sus consecuencias sociolaborales y demográficas."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Movilizar conocimientos previos, nuevos y de otros campos del saber al abordar",
+            "description": "Movilizar conocimientos previos, nuevos y de otros campos del saber al abordar situaciones del pasado, del presente o del futuro, planificando y reorientando eficazmente decisiones y estrategias de trabajo individual o en equipo, para identificar ret…",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Reelabora conocimientos geográficos previos y nuevos para diagnosticar problemas y proponer soluciones innovadoras en contextos cambiantes."
+                }
+            ]
+        }
+    ]
+}

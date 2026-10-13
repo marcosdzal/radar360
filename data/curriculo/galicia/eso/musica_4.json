@@ -1,0 +1,109 @@
+{
+    "community": "galicia",
+    "stage": "eso",
+    "decree": "Decreto 156\/2022, de 15 de septiembre",
+    "subject": "musica",
+    "subject_name": "Música",
+    "grade": 4,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Analizar obras de diferentes épocas y culturas identificando sus principales",
+            "description": "Analizar obras de diferentes épocas y culturas identificando sus principales características estilísticas y estableciendo relaciones con su contexto, para valorar el patrimonio musical y dancístico como fuente de gozo y de enriquecimiento personal. -…",
+            "criterios": [
+                {
+                    "code": "CE1.1",
+                    "description": "Analizar obras o fragmentos, musicales y dancísticos de diferentes épocas y culturas, grabados o en directo, identificando sus rasgos estilísticos y sus aspectos técnicos, explicando su relación con el contexto y evidenciando una actitud de apertura, interés y respeto en la escucha o en la visualización de estas."
+                },
+                {
+                    "code": "CE1.2",
+                    "description": "Valorar críticamente los hábitos, los gustos y los referentes musicales y dancísticos de diferentes épocas y culturas, reflexionando sobre su evolución y sobre su relación con los del presente y desmitificando los estereotipos referidos a los roles de género en el ámbito de la música y de la danza."
+                },
+                {
+                    "code": "CE1.3",
+                    "description": "Valorar los efectos que provoca la polución sonora y el consumo indiscriminado de música, analizando los contextos en los que se producen y su incidencia en los hábitos saludables de escucha."
+                },
+                {
+                    "code": "CE1.4",
+                    "description": "Conocer la organización, los procedimientos y los elementos del lenguaje musical y dancístico que nos permiten analizar y encuadrar una obra artística o un fragmento en el contexto cultural e histórico al que pertenece, utilizando herramientas digitales de recepción y de búsqueda fidedigna de información."
+                },
+                {
+                    "code": "CE1.5",
+                    "description": "Conocer, respetar y valorar a los agentes que intervienen en el proceso creativo e interpretativo de una obra artística, musical, escénica y dancística, a través del patrimonio cultural propio y ajeno, identificando los rasgos estilísticos que los caracterizan."
+                },
+                {
+                    "code": "CE3.1",
+                    "description": "Conocer la historia de la música en España, en Galicia y en otras culturas del mundo a través de obras o fragmentos musicales y dancísticos, identificando sus principales rasgos estilísticos y características, explicando su relación con el contexto en el que fueron creados y manifestando una actitud de tolerancia, interés y respeto."
+                },
+                {
+                    "code": "CE3.2",
+                    "description": "Conocer y valorar críticamente todo tipo de manifestaciones musicales y escénicas del siglo XX hasta la actualidad, tanto en el cine como en la música popular urbana y en otros medios artísticos, audiovisuales y tecnológicos, a través de la identificación de sus especificidades y reflexionando sobre su evolución y su relación con los del presente."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Explorar las posibilidades expresivas de diferentes técnicas musicales y",
+            "description": "Explorar las posibilidades expresivas de diferentes técnicas musicales y dancísticas, a través de actividades de improvisación, para incorporarlas al repertorio personal de recursos y desarrollar un criterio de selección de las técnicas más adecuadas…",
+            "criterios": [
+                {
+                    "code": "CE2.1",
+                    "description": "Participar, con iniciativa, confianza y creatividad, en la exploración de técnicas musicales y dancísticas de mayor complejidad, por medio de la interpretación y de improvisaciones libres y pautadas, individuales o grupales, en las que se empleen la voz, el cuerpo, instrumentos musicales o herramientas tecnológicas."
+                },
+                {
+                    "code": "CE2.2",
+                    "description": "Elaborar piezas musicales o dancísticas estructuradas a partir de actividades de improvisación, seleccionando las técnicas del repertorio personal de recursos más adecuadas a la intención expresiva."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Interpretar piezas musicales y dancísticas gestionando adecuadamente las",
+            "description": "Interpretar piezas musicales y dancísticas gestionando adecuadamente las emociones y empleando diversas estrategias y técnicas vocales, corporales o instrumentales, para ampliar las posibilidades de expresión personal. - La interpretación individual …",
+            "criterios": [
+                {
+                    "code": "CE2.3",
+                    "description": "Leer partituras sencillas, identificando los elementos básicos del lenguaje musical y analizando de forma guiada las estructuras de las piezas, con o sin apoyo de la audición."
+                },
+                {
+                    "code": "CE2.4",
+                    "description": "Emplear diferentes técnicas de interpretación vocal, corporal o instrumental, aplicando estrategias de memorización y valorando los ensayos como espacios de escucha y de aprendizaje."
+                },
+                {
+                    "code": "CE2.5",
+                    "description": "Interpretar con corrección y expresividad un repertorio de piezas musicales y dancísticas, individuales y grupales, de diferentes géneros y estilos, dentro y fuera del aula, gestionando la ansiedad y el miedo escénico y manteniendo la concentración."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Crear propuestas artístico-musicales, de manera individual o grupal, empleando",
+            "description": "Crear propuestas artístico-musicales, de manera individual o grupal, empleando la voz, el cuerpo, instrumentos musicales y herramientas tecnológicas para potenciar la creatividad e identificar oportunidades de desarrollo personal, social, académico y…",
+            "criterios": [
+                {
+                    "code": "CE2.6",
+                    "description": "Planificar y desarrollar, con creatividad, propuestas artístico-musicales, tanto individuales como colaborativas, seleccionando, de entre los disponibles, los medios musicales y dancísticos más oportunos, así como las herramientas analógicas o digitales más adecuadas, respetando y valorando el consumo responsable en las diferentes plataformas y redes sociales."
+                },
+                {
+                    "code": "CE2.7",
+                    "description": "Participar activamente en la planificación y en la ejecución de propuestas artísticomusicales colaborativas, asumiendo diferentes funciones, valorando las aportaciones del resto de integrantes del grupo e identificando diversas oportunidades de desarrollo personal, social, académico y profesional."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Conocer, valorar y respetar el patrimonio artístico y musical de Galicia y del",
+            "description": "Conocer, valorar y respetar el patrimonio artístico y musical de Galicia y del entorno, a través de las aportaciones relevantes en la cultura y en la sociedad gallegas, para apreciar la importancia de nuestro acervo dentro de los procesos de globaliz…",
+            "criterios": [
+                {
+                    "code": "CE1.6",
+                    "description": "Identificar, analizar y valorar las características culturales y sociales, así como los elementos propios del lenguaje musical y dancístico que definen el patrimonio gallego."
+                },
+                {
+                    "code": "CE2.8",
+                    "description": "Interpretar a través de la danza, de la voz, del cuerpo o de los instrumentos –en formación orquestal o vocal, con o sin acompañamiento instrumental– diferentes piezas musicales y manifestaciones artísticas con elementos propios de la cultura gallega."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "community": "baleares",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "historia_de_la_musica_y_de_la_danza",
+    "subject_name": "Historia de la Música y de la Danza",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Identificar les característiques tècniques de la música i de la dansa,",
+            "description": "Identificar les característiques tècniques de la música i de la dansa, apreciant la seva evolució al llarg de la història a través de l'anàlisi de les fonts d'estudi disponibles, per reconèixer els seus trets estilístics i la seva funció en un determ…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar los rasgos estilísticos de la música y la danza en distintas épocas mediante el análisis activo de audiciones, partituras y textos representativos."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Explicar la función de la música y la danza vinculando sus características con el contexto histórico-estético."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Relacionar la música i la dansa amb altres formes d'expressió artística,",
+            "description": "Relacionar la música i la dansa amb altres formes d'expressió artística, vinculant-les amb l'evolució del pensament humà, per comprendre el caràcter interdisciplinari de l'art i valorar la importància de la seva conservació i difusió com a patrimoni …",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Explica cómo la música y la danza se relacionan con otras artes, identificando factores históricos y estéticos comunes."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Analiza cómo la música, danza y arte de una época reflejan el pensamiento humano y valora la conservación del patrimonio."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Interpretar fragments musicals o adaptacions d'obres rellevants de la música i",
+            "description": "Interpretar fragments musicals o adaptacions d'obres rellevants de la música i de la dansa de diferents èpoques i estils, a través de la dramatització i l'ús de la veu, el cos i diferents instruments, per viure el fet artístic i comprendre'l des de l…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Interpretar, mediante la voz, el cuerpo o instrumentos, fragmentos musicales o danzas de un periodo histórico para vivenciar sus características."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Contrastar adaptaciones de obras musicales y dancísticas con originales para valorar su riqueza patrimonial."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Participa activamente en interpretaciones asumiendo roles y mostrando interés por el repertorio."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Investigar sobre els principals compositors, intèrprets i obres de la història",
+            "description": "Investigar sobre els principals compositors, intèrprets i obres de la història de la música i de la dansa, utilitzant fonts d'informació fiables, per analitzar els diferents corrents interpretatius i reflexionar sobre la riquesa del patrimoni musical…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Comparar distintas versiones de una misma obra musical y relacionar las diferencias interpretativas con la estética del periodo."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Buscar, seleccionar y reelaborar información de fuentes fiables sobre compositores, intérpretes y obras de la historia de la música y la danza."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Identificar la identidad cultural propia a partir del análisis del patrimonio musical investigado."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Transmetre opinions i idees pròpies, informades i fonamentades, sobre",
+            "description": "Transmetre opinions i idees pròpies, informades i fonamentades, sobre l'evolució de la música i de la dansa, usant un vocabulari específic, formulant arguments de caràcter teòric i estètic i analitzant críticament el context de creació de les obres, …",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Explica conceptos teórico-estéticos de música y danza usando tecnologías digitales de forma fiable y responsable."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Expresar opiniones fundamentadas sobre el patrimonio musical y dancístico analizando su contexto de creación."
+                }
+            ]
+        }
+    ]
+}

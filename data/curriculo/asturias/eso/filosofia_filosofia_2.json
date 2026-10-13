@@ -1,0 +1,77 @@
+{
+    "community": "asturias",
+    "stage": "eso",
+    "decree": "Decreto 41\/2022, de 1 de agosto",
+    "subject": "filosofia_filosofia",
+    "subject_name": "Filosofía",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Comprender qué es la reflexión filosófica, diferenciándola de otros tipos de",
+            "description": "Comprender qué es la reflexión filosófica, diferenciándola de otros tipos de saberes que estudian aspectos concretos de la realidad y el individuo a partir del análisis e interpretación de textos y otras formas de expresión filosófica y cultural, par…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar y argumentar sobre los distintos planteamientos filosóficos, demostrando un esfuerzo académico y creativo en la identificación de las problemáticas y las soluciones expuestas, distinguiendo las tesis principales, el orden de la argumentación y la relación de los problemas planteados con las fuentes propuestas."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Reflexionar y argumentar",
+            "description": "Reflexionar y argumentar, de forma oral y escrita, sobre los aspectos clave de la Filosofía, a través de la realización de pequeños ensayos, disertaciones y otras producciones de carácter filosófico basadas en el uso riguroso de las fuentes documenta…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Desarrollar una argumentación razonada de forma oral y escrita, hecha con claridad y coherencia, que demuestre un esfuerzo académico y creativo en la valoración personal de los problemas filosóficos analizados a la hora de explicar algunas de las tesis fundamentales de algunas de las corrientes filosóficas más importantes del pensamiento occidental."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Demostrar un conocimiento práctico de los procedimientos elementales de la investigación filosófica a través de tareas como la identificación de fuentes fiables, la búsqueda eficiente y segura de información, y la correcta organización, análisis, interpretación, evaluación, producción y comunicación de esta."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Practicar el ejercicio del diálogo filosófico de manera rigurosa, crítica,",
+            "description": "Practicar el ejercicio del diálogo filosófico de manera rigurosa, crítica, tolerante y empática, interiorizando las pautas éticas y formales que este requiere, mediante la participación en actividades grupales y a través del planteamiento dialógico d…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Producir y evaluar discursos argumentativos, orales y escritos, acerca de cuestiones y problemas filosóficos, mostrando un uso correcto y eficaz de l a s normas y pautas lógicas, retóricas y argumentativas."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Conocer las normas básicas de la lógica del discurso, apreciando su valor para mostrar el razonamiento correcto y la expresión del pensamiento, evitando modos sesgados o falaces como condición fundamental para las relaciones humanas."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Analizar problemas éticos y políticos seleccionando información obtenida de",
+            "description": "Analizar problemas éticos y políticos seleccionando información obtenida de diversas fuentes, llevando a cabo una exposición crítica de las posiciones filosóficas adecuadas para la resolución de dichos problemas, para desarrollar una conciencia cívic…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Identificar la especificidad de la razón en su dimensión práctica, en tanto que orientadora de la acción humana, a través del enunciado y desarrollo crítico de las argumentaciones de las principales teorías éticas sobre la felicidad y la virtud, razonando sus propias ideas."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Contribuir a generar un compromiso activo con el bien común, reflexionando sobre la relación del ser humano con la naturaleza, la globalización y sus consecuencias, los derechos humanos, la igualdad y la justicia, así como sobre los fines y los límites de la investigación científica y tecnológica, a través del análisis crítico y la toma razonada y dialogante de posiciones éticas actuales."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Reflexionar acerca de las aportaciones de las principales construcciones",
+            "description": "Reflexionar acerca de las aportaciones de las principales construcciones simbólicas culturales, analizando críticamente diferentes materiales en los que se comprenda el valor del arte, la literatura y la música como vehículos de transmisión del pensa…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Generar una concepción compleja y no dogmática de la creación artística y de su relación con otros campos como la ética, el conocimiento y la técnica, que promueva la comprensión de otras posturas y otros posicionamientos estéticos y la necesidad de pensar y expresar las diferencias como momentos de un proceso dinámico y siempre abierto de reflexión y diálogo filosófico."
+                }
+            ]
+        }
+    ]
+}

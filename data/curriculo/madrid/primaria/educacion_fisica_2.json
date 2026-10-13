@@ -1,0 +1,106 @@
+{
+    "community": "madrid",
+    "stage": "primaria",
+    "decree": "Decreto 61/2022, de 13 de julio",
+    "subject": "educacion_fisica",
+    "subject_name": "Educación Física",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Adoptar un estilo de vida activo y adecuado, practicando",
+            "description": "Adoptar un estilo de vida activo y adecuado, practicando regularmente actividades físicas, lúdicas y deportivas, adoptando comportamientos que potencien la salud, así como medidas de responsabilidad durante la práctica motriz.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Identificar los desplazamientos activos como práctica saludable, conociendo sus beneficios físicos y sociales para el establecimiento de un estilo de vida activo."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Explorar las posibilidades de la propia motricidad y de la de los demás a través del juego, aplicando en distintas situaciones cotidianas medidas básicas de cuidado de la salud personal a través de la higiene corporal, el descanso, la educación postural y la alimentación."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Participar en juegos de activación y vuelta a la calma, reconociendo su utilidad para adaptar el cuerpo a la actividad física y evitar lesiones, así como recuperar el equilibrio psicosomático después del esfuerzo manteniendo la calma y sabiendo cómo actuar en caso de que se produzca algún accidente en contextos de práctica motriz. Tomando medidas de seguridad previas a la práctica motriz y utilizando los diferentes materiales de forma correcta."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Conocer los valores positivos que fomenta la práctica motriz, realizada ya sea de manera individual como compartida, reconociendo, vivenciando y disfrutando sus beneficios en contextos variados, y respetando a todos los participantes con independencia de sus diferencias."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Adaptar los elementos propios del esquema corporal, las",
+            "description": "Adaptar los elementos propios del esquema corporal, las capacidades físicas, perceptivo- motrices y coordinativas, así como las habilidades y destrezas motrices, aplicando procesos de percepción, decisión y ejecución, para dar respuesta a las demandas de proyectos motores y de prácticas motrices con distintas finalidades en contextos de la vida diaria.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Reconocer la importancia de establecer metas y objetivos claros, conocer los recursos materiales, los roles de los participantes y las reglas básicas a la hora de desarrollar proyectos motores de carácter individual o grupal, valorando su consecución a partir de un análisis de los resultados obtenidos, ya sean de proceso o finales."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Adoptar decisiones en contextos de práctica motriz de manera ajustada según las circunstancias personales, materiales y ambientales."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Descubrir, reconocer y emplear los componentes cualitativos y cuantitativos de la motricidad de manera lúdica responsable e integrada en diferentes situaciones y contextos, mejorando progresivamente su control y su dominio corporal."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Desarrollar procesos de regulación e interacción en el",
+            "description": "Desarrollar procesos de regulación e interacción en el marco de la práctica motriz, haciendo uso de habilidades sociales y actitudes de respeto, trabajo en equipo y deportividad, con independencia de las diferencias y de las habilidades de los participantes, para contribuir a la convivencia.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Identificar y reconocer las emociones que se producen durante el juego, intentando gestionarlas, disfrutando de la actividad física."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Respetar las normas consensuadas, así como las reglas de juego, y actuar desde los parámetros de la deportividad y el juego limpio, gestionando la tolerancia a la frustración y aceptando las características y niveles de los participantes, así como los roles de juego asignado."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Participar en las prácticas motrices cotidianas, comenzando a desarrollar habilidades sociales de acogida, ayuda y colaboración, iniciándose en la resolución de conflictos personales fomentando el dialogo y la mejora de la convivencia."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Reconocer y practicar diferentes manifestaciones lúdicas,",
+            "description": "Reconocer y practicar diferentes manifestaciones lúdicas, físico-deportivas y artístico-expresivas propias de la cultura motriz, valorando su influencia y sus aportaciones a la cultura para integrarlas en las situaciones motrices que se utilizan regularmente en la vida cotidiana.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Participar activamente en la reproducción de juegos y otras manifestaciones artístico-expresivas de carácter cultural del entorno, valorando su componente lúdico-festivo y disfrutando de su puesta en práctica."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Conocer y valorar los logros de personas y distintos colectivos referentes del deporte de ambos géneros, reconociendo el esfuerzo, la dedicación su actitud ante la derrota y los sacrificios requeridos para alcanzar dichos éxitos."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Adecuar los distintos usos comunicativos de la corporalidad (gestos, muecas, representación de personajes) y sus manifestaciones a diferentes ritmos y contextos expresivos."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Valorar diferentes medios naturales y urbanos como",
+            "description": "Valorar diferentes medios naturales y urbanos como contextos de práctica motriz, interactuando con ellos y comprendiendo la importancia de su conservación, adoptando medidas de responsabilidad durante la práctica de juegos y actividades físico-deportivas, para realizar una práctica eficiente y respetuosa con el entorno y participar en su cuidado y mejora.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Participar en actividades lúdico-recreativas de forma segura en los entornos natural y urbano y en contextos terrestres o acuáticos, conociendo otros usos desde la motricidad y adoptando actitudes de cuidado y conservación de dichos entornos."
+                }
+            ]
+        }
+    ]
+}

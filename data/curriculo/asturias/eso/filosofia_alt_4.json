@@ -1,0 +1,90 @@
+{
+    "community": "asturias",
+    "stage": "eso",
+    "decree": "Decreto 41\/2022, de 1 de agosto",
+    "subject": "filosofia_alt",
+    "subject_name": "Educación en Valores Cívicos y Éticos",
+    "grade": 4,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Inquirir e investigar cuanto se refiere a la identidad humana y a cuestiones",
+            "description": "Inquirir e investigar cuanto se refiere a la identidad humana y a cuestiones éticas relativas al propio proyecto vital, analizando críticamente información fiable y generando una actitud reflexiva al respecto, para promover el autoconocimiento y la e…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Construir y e x p r e s a r u n c o n c e p t o a j u s t a d o de su propia persona reconociendo las múltiples dimensiones de su naturaleza y personalidad, así como de la dimensión cívica y moral de la misma, a partir de la investigación y el diálogo en torno a diversas concepciones sobre la naturaleza humana."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Identificar, gestionar y comunicar ideas, emociones, afectos y deseos con comprensión y empatía hacia las demás personas, demostrando autoestima y compartiendo un concepto adecuado de lo que deben ser las relaciones con otras personas, incluyendo el ámbito afectivo-sexual."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Desarrollar y demostrar autonomía moral a través de la práctica de la deliberación racional, el uso de conceptos éticos, y el diálogo respetuoso con los y las demás en torno a distintos valores y modos de vida, así como a problemas relacionados con el ejercicio de los derechos individuales, el uso responsable y seguro de las redes, las conductas adictivas y el acoso escolar."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Actuar e interactuar de acuerdo con normas y valores cívicos y éticos, a partir",
+            "description": "Actuar e interactuar de acuerdo con normas y valores cívicos y éticos, a partir del reconocimiento fundado de su importancia para regular la vida comunitaria y su aplicación efectiva y justificada en distintos contextos, para promover una convivencia…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Promover y demostrar una convivencia pacífica, respetuosa, democrática y comprometida con el bien común, a partir de la investigación sobre la naturaleza social y política del ser humano y el uso y comprensión crítica de los conceptos de ley, poder, soberanía, justicia, Estado, democracia, memoria democrática, dignidad y derechos humanos."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Fomentar el ejercicio de la ciudadanía activa y democrática a través del conocimiento del movimiento asociativo y la participación respetuosa, dialogante y constructiva en actividades de grupo que impliquen tomar decisiones colectivas, planificar acciones coordinadas y resolver problemas aplicando procedimientos y principios cívicos, éticos y democráticos explícitos."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Contribuir a generar un compromiso activo con el bien común a través del análisis y la"
+                },
+                {
+                    "code": "2.4",
+                    "description": "Tomar consciencia de la lucha por una efectiva igualdad de género, y del problema de la violencia y explotación sobre las mujeres, a través del análisis de las diversas olas y corrientes del feminismo y de las medidas de prevención de la desigualdad, la violencia y la discriminación por razón de género y orientación sexual, mostrando igualmente conocimiento de los derechos LGTBIQ+ y reconociendo la necesidad de respetarlos."
+                },
+                {
+                    "code": "2.5",
+                    "description": "Contribuir activamente al bienestar social adoptando una posición propia, explícita, informada y éticamente fundamentada, sobre el valor y pertinencia de los derechos humanos, el respeto por la diversidad étnico-cultural, la consideración de los bienes públicos globales, la percepción del valor social de los impuestos."
+                },
+                {
+                    "code": "2.6",
+                    "description": "Contribuir a la consecución de un mundo más justo y pacífico a través del análisis y reconocimiento de la historia democrática de nuestro país y de las funciones del Estado de derecho y sus instituciones, los organismos internacionales, las asociaciones civiles y los cuerpos y fuerzas de seguridad del Estado, en su empeño por lograr la paz y la seguridad integral, atender a las víctimas de la violencia y promover la solidaridad y cooperación entre las personas y los pueblos."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Entender la naturaleza interconectada e inter y ecodependiente de las",
+            "description": "Entender la naturaleza interconectada e inter y ecodependiente de las actividades humanas, mediante la identificación y análisis de problemas ecosociales de relevancia, para promover hábitos y actitudes éticamente comprometidos con el logro de formas…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Describir las relaciones históricas de interconexión, interdependencia y ecodependencia entre nuestras vidas y el entorno a través del análisis de las causas y consecuencias de los más graves problemas ecosociales que nos afectan."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Valorar distintos planteamientos científicos, políticos y éticos con los que afrontar la emergencia climática y la crisis medioambiental a través de la exposición y el debate argumental en torno a los mismos."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Promover estilos de vida éticamente comprometidos con el logro de un desarrollo sostenible, contribuyendo a la gestión sostenible de los recursos, los residuos y la movilidad, el comercio justo, el consumo responsable, el cuidado del patrimonio natural, el respeto por la diversidad etnocultural, y el cuidado y protección de los animales."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Mostrar una adecuada estima propia y del entorno",
+            "description": "Mostrar una adecuada estima propia y del entorno, reconociendo y valorando las emociones y los sentimientos propios y ajenos, para el logro de una actitud empática y cuidadosa con respecto a los y las demás y a la naturaleza.",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Desarrollar una actitud de gestión equilibrada de las emociones, de estima y cuidado de su propia persona y de las demás, identificando, analizando y expresando de manera asertiva las propias emociones y reconociendo y valorando las ajenas en distintos contextos y en torno a actividades creativas y de reflexión individual o dialogada sobre cuestiones éticas y cívicas."
+                }
+            ]
+        }
+    ]
+}

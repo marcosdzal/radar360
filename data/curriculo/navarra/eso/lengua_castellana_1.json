@@ -1,0 +1,153 @@
+{
+    "community": "navarra",
+    "stage": "eso",
+    "decree": "Real Decreto 217\/2022",
+    "subject": "lengua_castellana",
+    "subject_name": "Lengua Castellana y Literatura",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE2",
+            "name": "Comprender e interpretar textos orales y multimodales, recogiendo el sentido",
+            "description": "Comprender e interpretar textos orales y multimodales, recogiendo el sentido general y la información más relevante, identificando el punto de vista y la intención de la persona emisora y valorando su fiabilidad, su forma y su contenido, para constru…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Extraer la idea principal, la estructura y la intención de mensajes orales o audiovisuales sencillos, analizando cómo se combinan sonidos, imágenes y palabras."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Evaluar críticamente la calidad, fiabilidad y eficacia comunicativa de textos orales y multimodales sencillos, analizando tanto su contenido como los recursos y el canal empleados."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Producir textos orales y multimodales con fluidez, coherencia, cohesión y",
+            "description": "Producir textos orales y multimodales con fluidez, coherencia, cohesión y registro adecuado, atendiendo a las convenciones propias de los diferentes géneros discursivos, y participar en interacciones orales con actitud cooperativa y respetuosa, tanto…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Realizar exposiciones y narraciones orales breves sobre temas cercanos, cuidando la estructura, el vocabulario y el lenguaje corporal de forma planificada."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Intervenir de forma activa y respetuosa en diálogos, debates y trabajos grupales, empleando normas de cortesía, escucha atenta y estrategias de cooperación comunicativa."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Comprender, interpretar y valorar textos escritos, con sentido crítico y diferentes propósitos de lectura",
+            "description": "Comprender, interpretar y valorar textos escritos, con sentido crítico y diferentes propósitos de lectura, reconociendo el sentido global y las ideas principales y secundarias, identificando la intención de la persona emisora, reflexionando sobre el …",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Analizar textos escritos y multimodales sencillos para identificar su tema, estructura e intención comunicativa, realizando deducciones lógicas sobre la información no explícita."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Evaluar críticamente textos sencillos analizando su fiabilidad, la adecuación del canal y la eficacia de los recursos lingüísticos y formales utilizados por el autor."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Producir textos escritos y multimodales coherentes, cohesionados, adecuados y",
+            "description": "Producir textos escritos y multimodales coherentes, cohesionados, adecuados y correctos, atendiendo a las convenciones propias del género discursivo elegido, para construir conocimiento y para dar respuesta de manera informada, eficaz y creativa a de…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Planificar y elaborar borradores de textos sencillos, adaptándolos a la situación comunicativa, el destinatario y el propósito antes de la redacción definitiva."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Mejorar la calidad de los textos escritos aplicando recursos de estilo, vocabulario variado y corrección gramatical para lograr una comunicación precisa y eficaz."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Seleccionar y contrastar información procedente de diferentes fuentes de manera progresivamente autónoma",
+            "description": "Seleccionar y contrastar información procedente de diferentes fuentes de manera progresivamente autónoma, evaluando su fiabilidad y pertinencia en función de los objetivos de lectura y evitando los riesgos de manipulación y desinformación, e integrar…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Buscar y contrastar información de diversas fuentes, evaluando su fiabilidad y organizando los datos en esquemas propios para generar conocimiento de forma autónoma."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Realizar investigaciones guiadas sobre temas variados, organizando la información obtenida en diferentes formatos y soportes de forma estructurada y coherente."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Utilizar herramientas digitales para buscar información de forma segura y crítica, citando fuentes correctamente y manteniendo hábitos saludables en el entorno virtual."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Seleccionar y leer de manera progresivamente autónoma obras diversas como",
+            "description": "Seleccionar y leer de manera progresivamente autónoma obras diversas como fuente de placer y conocimiento, configurando un itinerario lector que evolucione en cuanto a diversidad, complejidad y calidad de las obras, y compartir experiencias de lectur…",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Elegir y leer libros de forma autónoma, registrando el progreso en un diario personal donde se expliquen los motivos de la elección y la experiencia vivida."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Expresar y compartir impresiones personales sobre las lecturas, vinculando los temas de la obra con la propia vida y otros libros conocidos."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Leer, interpretar y valorar obras o fragmentos literarios del patrimonio",
+            "description": "Leer, interpretar y valorar obras o fragmentos literarios del patrimonio nacional y universal, utilizando un metalenguaje específico y movilizando la experiencia biográfica y los conocimientos literarios y culturales que permiten establecer vínculos …",
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Explicar el sentido de obras literarias analizando sus elementos internos y su pertenencia a un género o subgénero específico mediante guías de trabajo."
+                },
+                {
+                    "code": "8.2",
+                    "description": "Comparar de forma guiada los textos leídos con otras obras artísticas o culturales, identificando temas y estructuras comunes para expresar una opinión personal razonada."
+                },
+                {
+                    "code": "8.3",
+                    "description": "Escribir textos originales con intención estética, aplicando las características de los géneros literarios estudiados y utilizando diversos soportes creativos o audiovisuales."
+                }
+            ]
+        },
+        {
+            "code": "CE9",
+            "name": "Movilizar el conocimiento sobre la estructura de la lengua y sus usos y",
+            "description": "Movilizar el conocimiento sobre la estructura de la lengua y sus usos y reflexionar de manera progresivamente autónoma sobre las elecciones lingüísticas y discursivas, con la terminología adecuada, para desarrollar la conciencia lingüística, para aum…",
+            "criterios": [
+                {
+                    "code": "9.1",
+                    "description": "Mejorar los propios escritos mediante la revisión autónoma, aplicando conocimientos gramaticales y explicando los cambios con propiedad técnica para perfeccionar la expresión."
+                },
+                {
+                    "code": "9.3",
+                    "description": "Deducir reglas gramaticales básicas mediante la observación y manipulación de textos, utilizando terminología técnica y consultando diccionarios o gramáticas de apoyo."
+                }
+            ]
+        },
+        {
+            "code": "CE0",
+            "name": "Poner las propias prácticas comunicativas al servicio de la convivencia",
+            "description": "Poner las propias prácticas comunicativas al servicio de la convivencia democrática, la resolución dialogada de los conflictos y la igualdad de derechos de todas las personas, utilizando un lenguaje no discriminatorio y desterrando los abusos de pode…",
+            "criterios": [
+                {
+                    "code": "10.1",
+                    "description": "Detectar y corregir expresiones discriminatorias o manipuladoras en textos y discursos, analizando cómo el lenguaje influye en la convivencia y la igualdad."
+                },
+                {
+                    "code": "10.2",
+                    "description": "Aplicar el diálogo y la escucha activa para resolver conflictos comunicativos y alcanzar acuerdos, evitando prejuicios lingüísticos y fomentando el respeto a la diversidad."
+                }
+            ]
+        }
+    ]
+}

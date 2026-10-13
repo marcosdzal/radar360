@@ -1,0 +1,112 @@
+{
+    "community": "cataluna",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "economia_alt",
+    "subject_name": "Economía",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Prendre consciència de la importància de prendre decisions a escala econòmica,",
+            "description": "Prendre consciència de la importància de prendre decisions a escala econòmica, comparant els sistemes econòmics i reflexionant sobre la interdependència dels factors i dels agents econòmics, valorant els processos d'integració econòmica per interveni…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar la repercusión de decisiones económicas, valorar la integración y comparar sistemas para comprender la realidad actual."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Identificar las causas de la escasez y comparar distintas estrategias económicas, justificando cuál es más eficiente."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Analizar los procesos individuales y colectivos en la toma de decisiones económicas y su impacto social."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Analitzar el funcionament de mercat, utilitzant i valorant els models per a",
+            "description": "Analitzar el funcionament de mercat, utilitzant i valorant els models per a l'anàlisi de la realitat econòmica, per prendre decisions en l'àmbit microeconòmic.",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Valorar los efectos de fallos del mercado microeconómicos y aplicar ese análisis a la toma de decisiones."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Explica el funcionamiento del mercado analizando oferta, demanda, precios y tipos de mercado."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Analizar críticamente los fallos del mercado, evaluar sus consecuencias y reflexionar sobre soluciones."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Interpretar les interrelacions que es produeixen entre els agents econòmics en",
+            "description": "Interpretar les interrelacions que es produeixen entre els agents econòmics en el flux circular de la renda, valorant-ne els beneficis i els costos que provoquen, per contribuir a un desenvolupament econòmic sostenible i al benestar de la societat.",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Valorar críticamente el papel de los agentes económicos en el flujo circular de la renta y su contribución al desarrollo y bienestar."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Diferencia costes y beneficios de los agentes en el flujo circular y analiza su impacto en desarrollo y bienestar."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Comprendre i valorar el funcionament del sistema financer, comparant diverses",
+            "description": "Comprendre i valorar el funcionament del sistema financer, comparant diverses fonts de finançament, valorant-ne els efectes sobre l'economia real, per planificar i gestionar les pròpies finances com a ciutadans responsables.",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Analiza el sistema financiero y la política monetaria, valorando sus efectos en la economía real y en las decisiones financieras personales."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Planificar y gestionar finanzas personales usando conocimientos del sistema financiero, valorando su impacto en la economía real."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Conectar el análisis del sistema financiero con las decisiones financieras personales cotidianas."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Identificar i valorar els reptes i els desafiaments de l'economia actual,",
+            "description": "Identificar i valorar els reptes i els desafiaments de l'economia actual, analitzant críticament la globalització, la nova economia i la revolució digital, per proposar iniciatives que fomentin l'equitat, la justícia i la sostenibilitat.",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Propone iniciativas que fomentan equidad, justicia y sostenibilidad, analizando críticamente los impactos de la globalización, nueva economía y revolución digital."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Analizar críticamente los retos económicos actuales y proponer iniciativas equitativas y sostenibles."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Analitzar els problemes econòmics actuals, utilitzant diverses fonts",
+            "description": "Analitzar els problemes econòmics actuals, utilitzant diverses fonts d'informació, tècniques de l'anàlisi econòmica i procediments de recerca, per plantejar solucions innovadores i sostenibles que responguin a necessitats individuals i col·lectives.",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "El alumnado diseña propuestas de solución a problemas económicos reales usando herramientas de análisis económico y considerando factores individuales y colectivos."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Comprendre els factors psicològics, socials, cognitius, emocionals i mediambientals que condicionen les decisions dels agents econòmics que responguin a necessitats individuals i col·lectives."
+                }
+            ]
+        }
+    ]
+}

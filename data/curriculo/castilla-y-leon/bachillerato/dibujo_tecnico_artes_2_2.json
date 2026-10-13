@@ -1,0 +1,93 @@
+{
+    "community": "castilla-y-leon",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "dibujo_tecnico_artes_2",
+    "subject_name": "Dibujo Técnico Aplicado a las Artes Plásticas y al Diseño II",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "1.1 Identificar y explicar la presencia de formas y relaciones geométricas en",
+            "description": "1.1 Identificar y explicar la presencia de formas y relaciones geométricas en el arte, y el diseño, comprendiendo el motivo, interés o intencionalidad con la que se han utilizado. (CCL1, CCL2, CCL3, STEM2, CD1, CPSAA4, CC1, CC2, CCEC1, CCEC2) 1.2 Con…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar y justificar el uso de estructuras y proporciones geométricas en obras artísticas o de diseño, determinando su función compositiva y comunicativa."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Conocer referencias de arquitectura, diseño, escultura y pintura que exploren cánones aritméticos y simbólicos entre otros estableciendo las relaciones entre estos y las diferentes épocas y contextos. (CCL2, CCL3, STEM2, CD1, CC2, CCEC1, CCEC2)"
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "2.1 Diseñar y ejecutar patrones y mosaicos",
+            "description": "2.1 Diseñar y ejecutar patrones y mosaicos, aplicando las transformaciones geométricas al diseño de patrones y mosaicos. (CCL1, STEM1, STEM2, CD2, CD3, CPSAA5, CE3, CCEC3.1, CCEC3.2, CCEC4.1) 2.2 Diseñar formas creativas, empleando tangencias, enlace…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Crear composiciones modulares y teselaciones mediante el uso de transformaciones geométricas planas, integrando precisión técnica y creatividad en el diseño de superficies."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Crear composiciones gráficas originales aplicando trazados geométricos de tangencias, enlaces y curvas cónicas para resolver problemas de diseño artístico o funcional."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Desarrollar la observación y el análisis a través del ejercicio sistemático de diversas formas de registro, utilizando el esbozo, cuaderno de campo y diario gráfico, estructurando toda la información de forma lógica, racional y creativa. (STEM1, STEM2, CD2, CD3, CE3)"
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "3.1 Dibujar, en las perspectivas isométrica y caballera, formas volumétricas incorporando curvas",
+            "description": "3.1 Dibujar, en las perspectivas isométrica y caballera, formas volumétricas incorporando curvas. (STEM1, STEM2, STEM3, STEM4, CD3, CPSAA5, CE3) 3.2 Diseñar espacios o escenografías aplicando la perspectiva cónica, representando las luces y sombras d…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Representar objetos tridimensionales con elementos curvos utilizando los sistemas axonométricos, asegurando la correcta construcción de elipses y arcos en los planos isométrico y de caballera."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Diseñar y representar espacios tridimensionales o escenografías mediante perspectiva cónica, integrando el estudio de luces y sombras y analizando críticamente el resultado final."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Manifestar el dominio progresivo en la realización a mano alzada de ejercicios de representación del espacio, ajustándose a los sistemas de representación convencionales. (STEM1, STEM2, STEM3, STEM4, CD3)"
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "4.1 Proyectar, de manera individual o en grupo, un diseño sencillo, comunicando",
+            "description": "4.1 Proyectar, de manera individual o en grupo, un diseño sencillo, comunicando de manera clara e inequívoca su forma y dimensiones mediante el uso de la normalización, aplicando estrategias y destrezas que agilicen el trabajo colaborativo. (CCL2, CP…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Proyectar, de manera individual o en grupo, un diseño sencillo, comunicando de manera clara e inequívoca su forma y dimensiones mediante el uso de la normalización, aplicando estrategias y destrezas que agilicen el trabajo colaborativo. (CCL2, CP2, STEM1, STEM4, CD1, CD2, CPSAA1.1, CPSAA4, CPSAA5, CE3, CCEC3.2, CCEC4.1, CCEC4.2)"
+                },
+                {
+                    "code": "4.2",
+                    "description": "Justificar el proceso de diseño movilizando conocimientos, referenciando fuentes de investigación y utilizando el vocabulario específico adecuado al contexto. (CCL2, CP2, STEM4, CD1, CD2)"
+                },
+                {
+                    "code": "4.3",
+                    "description": "Dominar el croquizado a mano alzada utilizándolo como elemento imprescindible en el proceso de trabajo. (STEM4, CD1, CD2)"
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "5.1 Realizar y presentar",
+            "description": "5.1 Realizar y presentar, de forma individual y colectiva proyectos sencillos relacionados con el diseño industrial o arquitectónico, valorando la exactitud, rapidez y limpieza que proporciona la utilización de aplicaciones informáticas, planificando…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Diseñar y presentar proyectos artísticos o de diseño utilizando herramientas de dibujo vectorial, aprovechando sus ventajas técnicas para la creación y edición de imágenes escalables."
+                }
+            ]
+        }
+    ]
+}

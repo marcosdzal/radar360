@@ -1,0 +1,96 @@
+{
+    "community": "cataluna",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "geografia_e_historia_hist_ria_de_la_musica_i_de_la_dansa",
+    "subject_name": "Història de la Música i de la Dansa",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Explicar el valor social que les manifestacions musicals, dansístiques i",
+            "description": "Explicar el valor social que les manifestacions musicals, dansístiques i escèniques han tingut en el desenvolupament de la cultura, a través del coneixement de cada època històrica i la relació amb altres arts, per reflexionar sobre la identitat i co…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Identificar els factors socials i culturals inherents a determinades propostes musicals, dansístiques i escèniques, assimilant-ne les funcions i les característiques, per mitjà de l’anàlisi de diferents exemples, amb una actitud oberta i respectuosa."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Conèixer la importància de la conservació i la transmissió del patrimoni musical, dansístic i escènic de qualsevol època, a partir de la recepció i l’anàlisi de diferents propostes, comprenent la importància de la llibertat d’expressió, la tolerància i la igualtat."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Identificar i descriure les característiques més rellevants de la dansa, les",
+            "description": "Identificar i descriure les característiques més rellevants de la dansa, les arts escèniques i la música, identificant els seus elements i intencions dins de la societat, per desenvolupar una posició oberta, assentar la pròpia identitat cultural i am…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Explicar les diferències entre les característiques més importants de diferents manifestacions musicals, dansístiques i escèniques, mitjançant una recepció activa, evidenciant una actitud d’obertura i respecte cap a la diversitat artística."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Analitzar diferents tipus de representacions artístiques per mitjà del coneixement dels seus diferents elements i llenguatges, valorant-ne la relació amb el context en què es produeixen."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Expressar idees, sensacions i opinions pròpies, a través de diversos mitjans i",
+            "description": "Expressar idees, sensacions i opinions pròpies, a través de diversos mitjans i llenguatges vinculats amb la música, les arts escèniques i la dansa, per desenvolupar l'autoconcepte, la creativitat, la imaginació i la identitat cultural.",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Expressar l’opinió personal argumentada sobre diferents propostes musicals, dansístiques i escèniques, mitjançant l’audició, el visionat o l’assistència a esdeveniments musicals, dansístics"
+                },
+                {
+                    "code": "3.2",
+                    "description": "Elaborar valoracions estètiques pròpies sobre autors i autores relacionats amb la música, la dansa i les arts escèniques a través del coneixement de textos o documents gràfics sobre el pensament i l’art en els diferents períodes històrics."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Expressar emocions i sentiments per mitjà de l'execució de produccions musicals",
+            "description": "Expressar emocions i sentiments per mitjà de l'execució de produccions musicals i dansístiques per desenvolupar la identitat personal, la participació activa en el grup i la creativitat.",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Demostrar habilitats musicals, escèniques i dansístiques, individuals i grupals, adquirint autoestima i consciència global per mitjà de la interpretació."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Aplicar coneixements de música i dansa de forma col·laborativa i creativa",
+            "description": "Aplicar coneixements de música i dansa de forma col·laborativa i creativa participant en l'elaboració i l'execució de projectes artístics perquè la música i la dansa en siguin protagonistes.",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Participar com a intèrpret en actuacions i manifestacions musicals, escèniques i dansístiques, dins i fora del centre, mostrant iniciativa i lideratge en els processos creatius i interpretatius."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Analitzar el desenvolupament de les destreses musicals, escèniques i dansístiques en grup, adquirint autoestima i consciència global, valorant la interpretació i la creació musical."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Crear propostes artístiques de manera individual o grupal, mitjançant la veu, el cos,"
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Crear propostes artístiques de forma individual o grupal, mitjançant la veu, el",
+            "description": "Crear propostes artístiques de forma individual o grupal, mitjançant la veu, el cos, els instruments i les eines tecnològiques, per potenciar la creativitat i identificar les oportunitats de desenvolupament personal, social i econòmic.",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Crear propostes artístiques i musicals de manera individual o grupal, mitjançant la veu, el cos, diferents instruments i el suport de diferents eines tecnològiques, per potenciar la creativitat i identificar les oportunitats de desenvolupament personal, social i econòmic."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "community": "baleares",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "artes_escenicas_2",
+    "subject_name": "Artes Escénicas II",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Analitzar manifestacions escèniques de diferents èpoques i tradicions,",
+            "description": "Analitzar manifestacions escèniques de diferents èpoques i tradicions, descriure'n les característiques, establir relacions amb el seu context i identificar possibles influències i projeccions, per valorar el patrimoni i enriquir l'imaginari propi. L…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar manifestaciones escénicas de diferentes épocas y tradiciones describiendo sus características y contexto, con actitud abierta y respetuosa."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Valorar críticamente la evolución de hábitos y gustos escénicos relacionándolos con el presente."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Explorar les possibilitats expressives de diferents sistemes, mitjans i codis",
+            "description": "Explorar les possibilitats expressives de diferents sistemes, mitjans i codis de significació escènica, a través d'activitats de caràcter pràctic, per incorporar-los al repertori personal de recursos i desenvolupar el criteri de selecció dels més ade…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Interpretar sistemas escénicos mediante actividades prácticas con iniciativa y creatividad."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Crear una escena dramática con personajes y situaciones, eligiendo las técnicas adecuadas para la intención comunicativa."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Abordar la recreació i representació de l'acció dramàtica, a partir de la",
+            "description": "Abordar la recreació i representació de l'acció dramàtica, a partir de la construcció col·lectiva d'escenes que mostrin tot tipus de personatges i conflictes, per desenvolupar habilitats de comunicació i negociació i reforçar l'autoconeixement, la cr…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Aplicar técnicas de interpretación creativa en ensayos grupales, usando memorización y valorando el diálogo."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Representa escenas siguiendo dirección, con precisión y expresividad, gestionando la ansiedad escénica."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Realitzar projectes de creació i difusió escènica, planificar les fases,",
+            "description": "Realitzar projectes de creació i difusió escènica, planificar les fases, seleccionar i estructurar els elements de significació i assumir diferents funcions amb iniciativa i responsabilitat, per expressar una intenció comunicativa, enriquir l'entorn …",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Participar en proyectos escénicos colectivos diseñando, planificando y realizando con iniciativa, responsabilidad y organización."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Evaluar y presentar los resultados del proyecto, comparando objetivos con producto final y explicando diferencias."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Analiza oportunidades personales, sociales, académicas o profesionales en el ámbito artístico, valora su impacto y expresa opinión crítica y respetuosa."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Valorar críticament manifestacions escèniques, identificar el públic al qual es",
+            "description": "Valorar críticament manifestacions escèniques, identificar el públic al qual es dirigeixen i analitzar-ne les característiques i els pressuposts artístics, per desenvolupar el criteri estètic, difondre el patrimoni i ampliar les possibilitats de gaud…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Analizar la acogida de un espectáculo vinculando obra, puesta en escena y respuesta del público."
+                },
+                {
+                    "code": "5.2",
+                    "description": "El alumnado escribe y comparte críticas escénicas rigurosas usando terminología adecuada y fuentes fiables."
+                }
+            ]
+        }
+    ]
+}

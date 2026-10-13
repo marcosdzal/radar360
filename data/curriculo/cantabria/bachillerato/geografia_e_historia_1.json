@@ -1,0 +1,142 @@
+{
+    "community": "cantabria",
+    "stage": "bachillerato",
+    "decree": "Decreto 73\/2022, de 14 de julio",
+    "subject": "geografia_e_historia",
+    "subject_name": "Historia del Mundo Contemporáneo",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Reconocer los movimientos, acciones y transformaciones históricas que han",
+            "description": "Reconocer los movimientos, acciones y transformaciones históricas que han contribuido al afianzamiento de la libertad en el mundo contemporáneo, a través del estudio comparado de casos y el uso correcto de términos y conceptos históricos, para valora…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar cómo los sistemas democráticos actuales son resultado no lineal de procesos históricos."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Analizar conceptos de revolución y cambio mediante estudio comparado de revoluciones burguesas y socialistas."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Analizar transiciones políticas y democratización para valorar su papel en la convivencia y derechos fundamentales."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Tomar conciencia del grado de violencia, barbarie y destrucción de los",
+            "description": "Tomar conciencia del grado de violencia, barbarie y destrucción de los conflictos de la Edad Contemporánea, a través del empleo de fuentes históricas fiables, la lectura de textos historiográficos y la elaboración de argumentos propios que prevengan …",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Analizar la violencia en conflictos contemporáneos usando fuentes fiables y argumentar sobre el papel de las instituciones de paz."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Analiza conflictos civiles contemporáneos mediante textos historiográficos y elabora juicios argumentados sobre memoria histórica y justicia universal."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Identificar la desigualdad como uno de los principales problemas de las sociedades contemporáneas",
+            "description": "Identificar la desigualdad como uno de los principales problemas de las sociedades contemporáneas, reconociendo las experiencias históricas de determinados colectivos, empleando el análisis multicausal y valorando el papel transformador del sujeto en…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Describir la evolución de los conceptos de igualdad y de ciudadanía en la historia contemporánea y sus derivaciones sociales y políticas, a través del análisis multicausal de los principales sistemas políticos y sociales de los siglos XIX y XX, identificando las desigualdades y la concentración del poder en determinados grupos sociales."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Analizar condiciones laborales y conflictividad mediante movimientos obreros, valorando la acción colectiva y el sujeto histórico."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Analizar la evolución del estado social mediante el estudio crítico de noticias y datos estadísticos."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Comprender la importancia de las identidades colectivas en la configuración",
+            "description": "Comprender la importancia de las identidades colectivas en la configuración social, política y cultural del mundo contemporáneo, utilizando el pensamiento histórico, sus conceptos y métodos, para analizar críticamente cómo se han ido construyendo y c…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Analizar críticamente la construcción histórica de identidades colectivas, respetando la pluralidad y valorando el legado cultural."
+                },
+                {
+                    "code": "4.2",
+                    "description": "El alumnado elabora argumentos propios sobre la construcción de identidades colectivas mediante el análisis crítico de fuentes."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Identificar y reconocer los principales retos del siglo XXI a través de",
+            "description": "Identificar y reconocer los principales retos del siglo XXI a través de procesos avanzados de búsqueda, selección y tratamiento de la información, el contraste y la lectura crítica de fuentes, para entender el fenómeno histórico de la globalización, …",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Analizar críticamente la globalización contrastando fuentes para evitar desinformación y proponer compromisos ecosociales."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Analizar retos del siglo XXI y su origen histórico, argumentando la necesidad de comportamientos ecosocialmente responsables."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Elaborar discursos coherentes, argumentados y con una correcta sintaxis del lenguaje con un sentido crítico frente a las desigualdades sociales y situaciones de discriminación."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Valorar el significado histórico de la idea de progreso y sus repercusiones",
+            "description": "Valorar el significado histórico de la idea de progreso y sus repercusiones sociales, ambientales y territoriales en el mundo contemporáneo, a través del uso de métodos cuantitativos y del análisis multifactorial del desarrollo económico, los ritmos …",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Argumentar sobre el progreso y sus consecuencias sociales, ambientales y territoriales usando datos y gráficos, defendiendo comportamientos sostenibles."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Compara sistemas económicos contemporáneos y justifica la necesidad de acceso universal a recursos básicos."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Interpretar la función que han desempeñado el pensamiento y las ideologías en",
+            "description": "Interpretar la función que han desempeñado el pensamiento y las ideologías en la transformación de la realidad desde los orígenes de la Edad Contemporánea hasta la actualidad, a través de la aproximación a la historiografía y a los debates sobre tema…",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Argumentar y debatir sobre el papel de las ideologías en la historia contemporánea usando fuentes variadas."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Evaluar críticamente temas históricos y actuales mediante corrientes historiográficas y usos de la historia, desde la ética de la DUDH."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Describir y analizar los cambios y permanencias que se han producido en la",
+            "description": "Describir y analizar los cambios y permanencias que se han producido en la sociedad contemporánea, los comportamientos demográficos, los modos de vida y el ciclo vital, prestando especial interés a la situación de la mujer, a los roles de género y ed…",
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Analizar cambios y permanencias demográficas, de género y lucha por la dignidad en la sociedad contemporánea mediante proyectos de investigación."
+                },
+                {
+                    "code": "8.2",
+                    "description": "Contrastar el papel relegado de la mujer en la historia contemporánea, identificando a protagonistas anónimas y el impacto de los movimientos feministas en la igualdad y corresponsabilidad."
+                }
+            ]
+        }
+    ]
+}

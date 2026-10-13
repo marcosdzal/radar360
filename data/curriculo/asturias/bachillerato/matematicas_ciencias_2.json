@@ -1,0 +1,130 @@
+{
+    "community": "asturias",
+    "stage": "bachillerato",
+    "decree": "Decreto 39\/2022, de 11 de agosto",
+    "subject": "matematicas_ciencias",
+    "subject_name": "Matemáticas II",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Modelizar y resolver problemas de la vida cotidiana y de la ciencia y la",
+            "description": "Modelizar y resolver problemas de la vida cotidiana y de la ciencia y la tecnología aplicando diferentes estrategias y formas de razonamiento para obtener posibles soluciones.",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Seleccionar y aplicar las estrategias y herramientas tecnológicas más eficientes para modelizar y resolver problemas complejos de contextos científicos, tecnológicos o de la vida cotidiana."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Resolver problemas reales o científicos hallando todas sus soluciones posibles y explicando detalladamente los pasos seguidos para llegar al resultado final."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Verificar la validez de las posibles soluciones de un problema empleando el",
+            "description": "Verificar la validez de las posibles soluciones de un problema empleando el razonamiento y la argumentación para contrastar su idoneidad.",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Justificar razonadamente por qué los resultados obtenidos en un problema matemático son correctos y coherentes con los datos y restricciones iniciales."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Elegir y argumentar la solución óptima de un problema matemático considerando criterios de sostenibilidad, consumo responsable o equidad social en el contexto planteado."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Formular o investigar conjeturas o problemas, utilizando el razonamiento, la",
+            "description": "Formular o investigar conjeturas o problemas, utilizando el razonamiento, la argumentación, la creatividad y el uso de herramientas tecnológicas, para generar nuevo conocimiento matemático.",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Investigar y validar propiedades matemáticas de forma autónoma, planteando hipótesis y demostrándolas mediante razonamientos lógicos o herramientas tecnológicas para profundizar en los contenidos de la materia."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Utilizar herramientas digitales y calculadoras gráficas para comprobar hipótesis, visualizar conceptos geométricos y agilizar cálculos complejos en la resolución de problemas matemáticos."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Establecer, investigar y utilizar conexiones entre las diferentes ideas",
+            "description": "Establecer, investigar y utilizar conexiones entre las diferentes ideas matemáticas estableciendo vínculos entre conceptos, procedimientos, argumentos y modelos para dar significado y estructurar el aprendizaje matemático. Establecer conexiones entre…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Relacionar distintos bloques de contenido, como álgebra, geometría y análisis, para resolver problemas complejos que requieren una visión global y no fragmentada de las matemáticas."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Resolver problemas complejos integrando conocimientos de distintos bloques matemáticos, como el uso del cálculo diferencial para resolver problemas de optimización geométrica o algebraica."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Descubrir los vínculos de las Matemáticas con otras áreas de conocimiento y profundizar en sus conexiones",
+            "description": "Descubrir los vínculos de las Matemáticas con otras áreas de conocimiento y profundizar en sus conexiones, interrelacionando conceptos y procedimientos, para modelizar, resolver problemas y desarrollar la capacidad crítica, creativa e innovadora en s…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Aplicar modelos matemáticos para resolver problemas contextualizados en situaciones reales o de otras ciencias, justificando la conexión entre los conceptos teóricos y la realidad."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Representar conceptos, procedimientos e información matemáticos seleccionando diferentes tecnologías",
+            "description": "Representar conceptos, procedimientos e información matemáticos seleccionando diferentes tecnologías, para visualizar ideas y estructurar razonamientos matemáticos.",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Utilizar herramientas digitales para modelizar y visualizar conceptos matemáticos complejos, organizando los pasos del razonamiento lógico de forma coherente y estructurada."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Elegir y emplear distintos formatos (gráficos, tablas, expresiones algebraicas) para presentar resultados matemáticos, justificando por qué esa representación es la más adecuada para transmitir la información."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Comunicar las ideas matemáticas",
+            "description": "Comunicar las ideas matemáticas, de forma individual y colectiva, empleando el soporte, la terminología y el rigor apropiados, para organizar y consolidar el pensamiento matemático.",
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Expresar razonamientos matemáticos de forma estructurada y precisa, utilizando el lenguaje simbólico y la terminología técnica propia de la materia en diferentes soportes."
+                },
+                {
+                    "code": "8.2",
+                    "description": "Expresar conceptos y procedimientos matemáticos utilizando la notación y el vocabulario técnico adecuados, garantizando la coherencia y el rigor en la resolución de problemas."
+                }
+            ]
+        },
+        {
+            "code": "CE9",
+            "name": "Utilizar destrezas personales y sociales, identificando y gestionando las",
+            "description": "Utilizar destrezas personales y sociales, identificando y gestionando las propias emociones, respetando las ajenas y organizando activamente el trabajo en equipos heterogéneos, aprendiendo del error como parte del proceso de aprendizaje y afrontando …",
+            "criterios": [
+                {
+                    "code": "9.1",
+                    "description": "Gestionar el bloqueo ante problemas complejos de Matemáticas II, analizando errores cometidos y ajustando estrategias de resolución con autonomía y perseverancia."
+                },
+                {
+                    "code": "9.2",
+                    "description": "Mantener una actitud resiliente y constructiva ante dificultades matemáticas, aceptando correcciones técnicas y persistiendo en la resolución de problemas complejos propios de Bachillerato."
+                },
+                {
+                    "code": "9.3",
+                    "description": "Colaborar activamente en grupos diversos para resolver problemas matemáticos, manteniendo una actitud de escucha empática, respeto mutuo y fomento de un clima de trabajo saludable."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "community": "baleares",
+    "stage": "eso",
+    "decree": "",
+    "subject": "fisica_y_quimica_alt",
+    "subject_name": "Física i Química",
+    "grade": 4,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Comprendre i relacionar els motius pels quals ocorren els principals fenomens",
+            "description": "comprendre i relacionar els motius pels quals ocorren els principals fenomens fisicoquímics de l'entorn, explicant-los en termes de les lleis i teories científiques adequades per resoldre problemes, amb la finalitat d'aplicar-les per millorar la real…",
+            "criterios": [
+                {
+                    "code": "CA1.1",
+                    "description": "Comprendre i explicar amb rigor els fenòmens fisicoquímics quotidians a partir dels principis, teories i lleis científiques adequades, expressant-los de manera argumentada, utilitzant diversitat de suports i mitjans de comunicació. - Entendre i explicar fenòmens físics i químics quotidians de manera clara i utilitzant els principis, les teories i les lleis científiques adequades. - Utilitzar varietats de suports com gràfics, vídeos o presentacions, entre d'altres, i mitjans de comunicació per argumentar amb rigor els fenòmens fisicoquímics."
+                },
+                {
+                    "code": "CA1.2",
+                    "description": "Resoldre els problemes fisicoquímics que es plantegin mitjançant les lleis i teories científiques adequades, raonant els procediments utilitzats per trobar les solucions i expressant els resultats amb correcció i precisió. - Aplicar les lleis i teories pròpies per resoldre problemes fisicoquímics raonant els procediments emprats. - Expressar els resultats amb correcció i amb les unitats adequades."
+                },
+                {
+                    "code": "CA1.3",
+                    "description": "Reconèixer i descriure situacions problemàtiques reals de caire científic i emprendre iniciatives col·laboratives en les quals la ciència, i en particular la física i la química, poden contribuir a la seva solució, analitzant-ne críticament el seu impacte en la societat i en el medi ambient. - Reconèixer i descriure problemes reals fisicoquímics i resoldre'ls de forma col·laborativa valorant les solucions que la física i la química poden aportar. - Entendre l'impacte socioeconòmic i mediambiental de la ciència, i en particular de la física i la química, en la vida quotidiana i saber argumentar-ne la importància mitjançant una anàlisi crítica."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Expressar les observacions realitzades pels alumnes en forma de preguntes,",
+            "description": "expressar les observacions realitzades pels alumnes en forma de preguntes, formulant hipòtesis per explicar-les i demostrant aquestes hipòtesis a través de l'experimentació científica, la indagació i la cerca d'evidències, per desenvolupar els raonam…",
+            "criterios": [
+                {
+                    "code": "CA2.1",
+                    "description": "Emprar les metodologies pròpies de la ciència en la identificació i descripció de fenòmens científics a partir de situacions tant observades en el món natural com plantejades a través d'enunciats amb informació textual, gràfica o numèrica. - Aplicar les etapes del mètode científic per analitzar, identificar i descriure processos fisicoquímics. - Interpretar la informació obtinguda tant per observació directa del món natural com la presentada en diferents formats: gràfics, taules, texts,…"
+                },
+                {
+                    "code": "CA2.2",
+                    "description": "Predir, per a les qüestions plantejades, respostes que es puguin comprovar amb les eines i coneixements adquirits, tant de manera experimental com deductiva, aplicant el raonament logicomatemàtic en el procés de validació. - Formular hipòtesis basades en observacions prèvies i coneixements adquirits. - Aplicar el raonament logicomatemàtic per a la comprovació experimental o deductiva de les hipòtesis plantejades."
+                },
+                {
+                    "code": "CA2.3",
+                    "description": "Aplicar les lleis i teories científiques més importants per validar hipòtesis de manera informada i coherent mitjançant el coneixement científic existent, dissenyant els procediments experimentals o deductius necessaris per resoldre-les i analitzant-ne els resultats críticament. - Aplicar les lleis i teories científiques més importants per validar hipòtesis de manera informada i coherent amb el coneixement científic existent. - Dissenyar procediments experimentals o deductius necessaris per resoldre les hipòtesis analitzant-ne els resultats críticament."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Manejar amb desimboltura les regles i normes basiques de la fisica i la quimica",
+            "description": "manejar amb desimboltura les regles i normes basiques de la fisica i la quimica en referència al llenguatge de la IUPAC, al llenguatge matemàtic, a l'ús d'unitats de mesura correctes, a l'ús segur del laboratori i a la interpretació i producció de da…",
+            "criterios": [
+                {
+                    "code": "CA3.1",
+                    "description": "Emprar fonts variades, fiables i segures per seleccionar, interpretar. organitzar i comunicar informació relativa a un procés fisicoquímic concret, relacionant entre si el que cadascuna d'elles conté, extraient en cada cas allò més rellevant per a la resolució d'un problema i rebutjant tot el que sigui irrellevant. - Seleccionar, interpretar i comunicar informació referent a un fenomen fisicoquímic emprant fonts fiables, variades i segures (articles científics, publicacions reconegudes…). - Extreure la informació rellevant necessària per a la resolució d'un problema."
+                },
+                {
+                    "code": "CA3.2",
+                    "description": "Utilitzar adequadament les regles bàsiques de la física i la química, incloent l'ús correcte de diversos sistemes d'unitats, les eines matemàtiques necessàries i les regles de nomenclatura avançades, aconseguint una comunicació efectiva amb tota la comunitat científica. - Utilitzar correctament les regles de nomenclatura de la IUPAC per formular i anomenar els composts aconseguint una bona comunicació amb tota la comunitat científica. - Utilitzar de manera adequada les eines matemàtiques, les unitats de mesura, especialment aquelles del Sistema Internacional, tant en la resolució de problemes com en la presentació de resultats."
+                },
+                {
+                    "code": "CA3.3",
+                    "description": "Aplicar amb rigor les normes d'ús dels espais específics de la ciència, com el laboratori de Física i Química, assegurant la salut pròpia i col·lectiva, la conservació sostenible del medi ambient i la cura per les instal·lacions. - Aplicar de forma rigorosa les normes de seguretat del laboratori, assegurant la salut pròpia i la dels companys. - Prendre mesures per minimitzar l'impacte ambiental de les pràctiques de laboratori, com ara utilitzar materials sostenibles quan sigui possible, gestionar correctament els residus perillosos, i aplicar mètodes que redueixin la contaminació."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Utilitzar de manera critica, eficient i segura plataformes digitals i recursos",
+            "description": "utilitzar de manera critica, eficient i segura plataformes digitals i recursos variats, tant per al treball individual com en equip, per fomentar la creativitat, el desenvolupament personal i l'aprenentatge individual i social, mitjançant la consulta…",
+            "criterios": [
+                {
+                    "code": "CA4.1",
+                    "description": "Utilitzar de manera eficient recursos variats, tradicionals i digitals, millorant l'aprenentatge autònom i la interacció amb altres membres de la comunitat educativa, de manera rigorosa i respectuosa i analitzant críticament les aportacions de cada participant. - Seleccionar i utilitzar de forma eficient recursos tradicionals i digitals, millorant l'aprenentatge autònom, en equip i la interacció amb altres membres de la comunitat educativa. - Acceptar i respectar les aportacions de tothom, analitzant-les de forma rigorosa i crítica."
+                },
+                {
+                    "code": "CA4.2",
+                    "description": "Treballar de manera versàtil amb mitjans variats, tradicionals i digitals, en la consulta d'informació i la creació de continguts, seleccionant i emprant amb criteri les fonts i eines més fiables i rebutjant les menys adequades per a la millora de l'aprenentatge propi i col·lectiu. - Treballar de manera versàtil amb mitjans variats, tradicionals i digitals, en la consulta d'informació i la creació de continguts. - Seleccionar i emprar amb criteri les fonts i eines més fiables i rebutjant les menys adequades per a la millora de l'aprenentatge propi i col·lectiu."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Utilitzar les estrategies propies del treball col·laboratiu que permetin",
+            "description": "utilitzar les estrategies propies del treball col·laboratiu que permetin potenciar el creixement entre iguals com a base emprenedora d'una comunitat científica crítica, ètica i eficient, per comprendre la importància de la ciència en la millora de la…",
+            "criterios": [
+                {
+                    "code": "CA5.1",
+                    "description": "Establir interaccions constructives i coeducatives emprenent activitats de cooperació i iniciant l'ús de les estratègies pròpies del treball col·laboratiu, com a manera de construir un mitjà de treball eficient en la ciència. - Establir interaccions constructives i coeducatives emprenent activitats de cooperació. - Emprar les estratègies del treball col·laboratiu com a manera de construir un mitjà de treball eficient en la ciència."
+                },
+                {
+                    "code": "CA5.2",
+                    "description": "Emprendre, de manera autònoma i d'acord amb la metodologia adequada, projectes científics que involucrin els alumnes en la millora de la societat i que creïn valor per a l'individu i per a la comunitat. - Emprendre de manera autònoma projectes científics utilitzant la metodologia pròpia de les ciències. - Analitzar l'impacte que aquestes iniciatives tenen en la millora de la societat, la salut o el medi ambient creant valor tant a nivell individual com per a la comunitat."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Comprendre i valorar la ciencia com una construccio col·lectiva en continu",
+            "description": "comprendre i valorar la ciencia com una construccio col·lectiva en continu canvi i evolució, en la qual no sols participen les persones que s'hi dediquen, sinó que també requereix d'una interacció amb la resta de la societat, per obtenir resultats qu…",
+            "criterios": [
+                {
+                    "code": "CA6.1",
+                    "description": "Reconèixer i valorar, a través de l'anàlisi històrica dels avanços científics assolits per dones i homes, com també de situacions i contexts actuals (línies de recerca, institucions científiques, etc.), que la ciència és un procés en permanent construcció que té repercussions i implicacions sobre la societat actual. - Reconèixer i valorar la importància dels avenços científics al llarg de la història, realitzats tant per dones com per homes, argumentant i sent conscient dels biaixos de gènere en ciències. - Entendre la recerca científica com una tasca col·lectiva, interdisciplinària i en constant evolució valorant les repercussions i implicacions que té sobre la societat actual."
+                },
+                {
+                    "code": "CA6.2",
+                    "description": "Detectar les necessitats tecnològiques, ambientals, econòmiques i socials més importants que demanda la societat, entenent la capacitat de la ciència per donar-los solució sostenible a través de la implicació de la ciutadania. - Identificar les necessitats de la societat (tant tecnològiques, com econòmiques i ambientals) i reconèixer que la ciència, en particular la física i la química, pot millorar i solucionar, contribuint a la sostenibilitat ambiental."
+                }
+            ]
+        }
+    ]
+}

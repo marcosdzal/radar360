@@ -1,0 +1,74 @@
+{
+    "community": "aragon",
+    "stage": "eso",
+    "decree": "Orden ECD\/1172\/2022, de 2 de agosto",
+    "subject": "filosofia",
+    "subject_name": "Filosofía",
+    "grade": 4,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Identificar problemas y formular preguntas acerca del fundamento y sentido de",
+            "description": "Identificar problemas y formular preguntas acerca del fundamento y sentido de la realidad y de la existencia humana, a partir del análisis e interpretación tanto de problemas de actualidad como de diferentes formas de expresión filosófica y cultural,…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Reconocer y formular los problemas filosóficos y su trascendencia mediante el análisis de los mismos, a través del trabajo con textos y otros medios de expresión, tanto filosófica como de cualquier otro ámbito cultural."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Comprender la necesidad de afrontar los problemas filosóficos en la vida del ser humano y en la propia vida."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Buscar, interpretar y transmitir correctamente información relativa a",
+            "description": "Buscar, interpretar y transmitir correctamente información relativa a cuestiones filosóficas, a partir del empleo contrastado y riguroso de fuentes, así como de procedimientos elementales de investigación y comunicación, para fomentar una actitud ind…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Practicar los procedimientos elementales de la investigación filosófica: buscar eficientemente información fiable, organizarla con claridad, analizarla, interpretarla y evaluarla con criterio, producirla y comunicarla adecuadamente, a través de medios digitales o más tradicionales."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Desarrollar una actitud filosófica indagadora, mediante el diseño, elaboración y comunicación pública de productos originales (tales como trabajos de investigación, disertaciones, comentarios de texto u otros)."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Practicar el diálogo filosófico con actitud crítica y tolerancia, utilizando",
+            "description": "Practicar el diálogo filosófico con actitud crítica y tolerancia, utilizando adecuadamente los argumentos en la exposición razonada de las ideas, para apreciar el carácter plural de las concepciones filosóficas, practicar la gestión de las emociones …",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Producir y evaluar discursos argumentativos, orales y escritos, acerca de cuestiones y problemas filosóficos, demostrando un uso correcto de normas lógicas y argumentativas."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Detectar y evitar modos dogmáticos, falaces y sesgados de sostener opiniones e hipótesis, explicando la naturaleza de dichas falacias y sesgos."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Reconocer la importancia de la cooperación, el compromiso con la verdad, el respeto a la pluralidad, esenciales en una ciudadanía democrática y el rechazo de toda actitud discriminatoria o arbitraria, aplicando el diálogo filosófico."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Adquirir una perspectiva filosófica global de cuestiones fundamentales y de",
+            "description": "Adquirir una perspectiva filosófica global de cuestiones fundamentales y de actualidad que permita relacionar coherentemente los saberes de diferentes disciplinas con criterio, para poder afrontarlas de modo crítico, creativo y transformador, especia…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Afrontar temas complejos, fundamentales y de actualidad, de modo interdisciplinar, sistémico y transformador, utilizando conceptos, ideas y procedimientos provenientes de distintos campos del saber, articularlos críticamente desde una perspectiva filosófica."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Desarrollar la propia autonomía mediante el análisis filosófico de problemas éticos, políticos, estéticos, fundamentales y de actualidad, considerando con actitud crítica las distintas posiciones en diálogo con las propias."
+                }
+            ]
+        }
+    ]
+}

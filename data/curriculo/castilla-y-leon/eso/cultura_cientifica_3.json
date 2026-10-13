@@ -1,0 +1,132 @@
+{
+    "community": "castilla-y-leon",
+    "stage": "eso",
+    "decree": "",
+    "subject": "cultura_cientifica",
+    "subject_name": "Cultura Científica",
+    "grade": 3,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Interpretar y transmitir información y datos científicos y argumentar sobre",
+            "description": "Interpretar y transmitir información y datos científicos y argumentar sobre ellos utilizando diferentes formatos para analizar conceptos y procesos de las ciencias.",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar conceptos y procesos relacionados con los contenidos de las ciencias interpretando información en diferentes formatos (textos, modelos, gráficos, tablas, diagramas, fórmulas, esquemas, mapas conceptuales, símbolos, libros, páginas web...) y\/o en idiomas diferentes, procedentes de fuentes de información fiables, manteniendo una actitud crítica, obteniendo conclusiones y formando opiniones propias fundamentadas evitando la propagación y consolidación en la sociedad de ideas sin fundamento científico. (CCL2, CP1, STEM2, CD1, CD2, CPSAA4)"
+                },
+                {
+                    "code": "1.2",
+                    "description": "Promover la comprensión y análisis de opiniones fundamentadas y de información relacionada con las ciencias, transmitiéndola de forma clara y rigurosa utilizando la terminología y el formato adecuados como textos, modelos, gráficos, tablas, vídeos, informes, diagramas, fórmulas, esquemas o símbolos, entre otros, destacando el uso de contenidos digitales. (CCL1, CCL2, CCL5, STEM2, STEM4, CD2, CD3, CE1)"
+                },
+                {
+                    "code": "1.3",
+                    "description": "Analizar y explicar fenómenos científicos representándolos mediante el diseño y la realización de modelos y diagramas, aplicando la metodología científica o el diseño de la ingeniería (identificación del problema, planteamiento de hipótesis, exploración, diseño, creación, desarrollo, análisis y presentación de resultados, evaluación y mejora). (CCL1, STEM2, STEM4, CPSAA4, CE1, CE3, CCEC4)"
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Identificar, localizar y seleccionar información, contrastando su veracidad,",
+            "description": "Identificar, localizar y seleccionar información, contrastando su veracidad, organizándola y evaluándola críticamente para resolver preguntas relacionadas con la ciencia.",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Resolver cuestiones y problemas relacionados con la ciencia, localizando, seleccionando, organizando y analizando críticamente la información de distintas fuentes citándolas con respeto por la propiedad intelectual, entendiendo el método científico como motor de desarrollo. (CCL2, CCL3, STEM2, CP1, STEM4, CD1, CD2, CD5, CPSAA4, CC3)"
+                },
+                {
+                    "code": "2.2",
+                    "description": "Contrastar la veracidad de la información sobre temas científicos utilizando fuentes fiables adoptando una actitud crítica y escéptica hacia informaciones sin una base científica como pseudociencias, teorías conspiratorias, creencias infundadas, bulos, etc. contribuyendo de esta manera a la consecución de una sociedad democrática y comprometida con los problemas éticos y de otra índole actuales afrontando la controversia moral con actitud dialogante, argumentativa, respetuosa, y opuesta a cualquier tipo de discriminación o violencia. (CCL3, CD3, CD4, CPSAA4, CC3)"
+                },
+                {
+                    "code": "2.3",
+                    "description": "Valorar la contribución de la ciencia a la sociedad y la labor de las personas dedicadas a ella destacando el papel de la mujer y entendiendo la investigación como una labor colectiva e interdisciplinar en constante evolución, no dogmática e influida por el contexto político y los recursos económicos, lo que permite la comprensión de los fenómenos naturales que nos rodean y la contribución a la mejora ética, innovadora y sostenible de nuestra sociedad, no solamente en términos económicos, sino también en una dimensión cultural, social e incluso personal. (, CC3, CE1)"
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Planificar y desarrollar proyectos de investigación, siguiendo los pasos de las",
+            "description": "Planificar y desarrollar proyectos de investigación, siguiendo los pasos de las metodologías propias de la ciencia y cooperando cuando sea necesario para indagar en aspectos científicos.",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Plantear preguntas e hipótesis que puedan ser respondidas o contrastadas utilizando la metodología científica mediante textos escritos o búsquedas en internet,"
+                },
+                {
+                    "code": "3.2",
+                    "description": "Diseñar la experimentación, la toma de datos y el análisis de fenómenos en los campos de las distintas ciencias, de modo que permitan responder a preguntas concretas y contrastar una hipótesis planteada con rigurosidad. (STEM1, STEM2, STEM3, CCEC3)"
+                },
+                {
+                    "code": "3.3",
+                    "description": "Realizar experimentos y tomar datos cuantitativos o cualitativos sobre fenómenos en ciencias utilizando los instrumentos, herramientas, métodos y técnicas adecuadas con corrección y precisión, identificando variables, controles y limitaciones y valorando su posible impacto sobre el entorno. (STEM2, STEM3, CE1)"
+                },
+                {
+                    "code": "3.4",
+                    "description": "Interpretar y analizar los resultados obtenidos en el proyecto de investigación utilizando herramientas matemáticas y tecnológicas obteniendo conclusiones razonadas y fundamentadas o valorar la imposibilidad de hacerlo y proponiendo nuevos problemas a investigar, contribuyendo de esta manera a la autoevaluación y mejora del propio proceso de aprendizaje. (STEM1, STEM2, STEM4, CD2, CE3, CPSAA1, CPSAA4.)"
+                },
+                {
+                    "code": "3.5",
+                    "description": "Fomentar la colaboración en equipo en las distintas fases del proyecto científico trabajando así con mayor eficiencia, valorando la importancia de la cooperación en la investigación, respetando la diversidad y la igualdad de género, y favoreciendo la inclusión. (CCL1, CP1, STEM3, STEM4, CD3, CPSAA3, CE3)"
+                },
+                {
+                    "code": "3.6",
+                    "description": "Presentar de forma clara y rigurosa la información y las conclusiones obtenidas mediante la experimentación y observación utilizando el formato adecuado (textos, modelos, tablas, gráficos, informes, diagramas, etc.) destacando el potencial del uso de las herramientas digitales. (CCL1, CCL3, STEM2, STEM4, CD2, CD3, CE1)"
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Utilizar el razonamiento y el pensamiento computacional, resolviendo problemas",
+            "description": "Utilizar el razonamiento y el pensamiento computacional, resolviendo problemas o dando explicación a procesos científicos de la vida cotidiana, analizando críticamente las respuestas y soluciones para reformular y mejorar el procedimiento.",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Resolver problemas o dar explicación a procesos científicos utilizando conocimientos, datos e información científica correctamente contrastada, aplicando el razonamiento lógico, el pensamiento computacional o los recursos digitales. (STEM1, STEM2, CD2, CD5, CCEC4)"
+                },
+                {
+                    "code": "4.2",
+                    "description": "Analizar críticamente la solución a un problema científico, valorando con criterio los resultados, cambiando los procedimientos utilizados o conclusiones si dicha solución no fuese viable o fuera necesario tener en cuenta nuevos datos aportados con posterioridad. (STEM1, STEM2, CPSAA5, CE1, CE3)"
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Analizar los impactos de determinadas acciones sobre el medio ambiente o la",
+            "description": "Analizar los impactos de determinadas acciones sobre el medio ambiente o la disponibilidad de recursos, a través de observaciones de campo y de información en diferentes formatos y basándose en fundamentos científicos, para promover y adoptar hábitos…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Promover y adoptar hábitos sostenibles realizando un análisis crítico del impacto ambiental de las acciones humanas que contribuirán a mejorar la situación de los recursos naturales en el entorno. (STEM2, STEM5, CPSAA2, CC3, CC4, CE1)"
+                },
+                {
+                    "code": "5.2",
+                    "description": "Relacionar el impacto de la sobreexplotación de determinados recursos con el deterioro medioambiental argumentando sobre la importancia de su consumo y aprovechamiento responsables, adquiriendo una conciencia ciudadana mediante el respeto hacia los demás y con el entorno. (STEM2)"
+                },
+                {
+                    "code": "5.3",
+                    "description": "Elaborar un plan de mejora en el uso responsable de los recursos a nivel grupal, aportando ideas creativas, soluciones innovadoras con sentido crítico y ético, distribuyendo las tareas, recursos y responsabilidades y evaluando la solución al problema de actualidad con autonomía, basado en el logro de algunos de los ODS. (CCL3, STEM2, STEM5, CD4, CPSAA1, CC2, CC3, CC4, CE3)"
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Identificar los seres vivos que aparecen en el planeta Tierra utilizando",
+            "description": "Identificar los seres vivos que aparecen en el planeta Tierra utilizando conocimientos científicos para explicar su aparición y analizar su potencial influencia en los ecosistemas.",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Identificar la diversidad de seres vivos que habitan en nuestro planeta, conociendo la variación en la clasificación y organización de estos a lo largo de la historia,"
+                },
+                {
+                    "code": "6.2",
+                    "description": "Relacionar, con fundamentos científicos, las aplicaciones que los recursos naturales, tanto vegetales como animales, proporcionan al ser humano, conociendo los diferentes usos de estos y su influencia en la biodiversidad del planeta, desarrollando una actitud crítica y sostenible. (CCL1, STEM1, STEM2, STEM5, CPSAA3)"
+                },
+                {
+                    "code": "6.3",
+                    "description": "Comprender la importancia que supone la gestión de la explotación de recursos naturales asegurando su disponibilidad a lo largo de las futuras generaciones, elaborando planes de gestión sostenible y fomentando un pensamiento responsable con el medio ambiente. ("
+                }
+            ]
+        }
+    ]
+}

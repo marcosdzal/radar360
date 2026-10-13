@@ -1,0 +1,104 @@
+{
+    "community": "pais-vasco",
+    "stage": "bachillerato",
+    "decree": "Decreto 82\/2023, de 13 de junio",
+    "subject": "cultura_audiovisual",
+    "subject_name": "Cultura Audiovisual",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Reconocer el medio fotográfico y el audiovisual como formas de conocimiento y",
+            "description": "Reconocer el medio fotográfico y el audiovisual como formas de conocimiento y comprensión del mundo, a través de una mirada consciente, curiosa, respetuosa y crítica de diversas formas de narración fotográficas y audiovisuales para ampliar su imagina…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "El alumnado explica los cambios históricos esenciales del lenguaje fotográfico y audiovisual valorando su evolución."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Analizar cualidades plásticas, formales y semánticas de fotografías y audiovisuales, identificando reglas y códigos."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Analizar sin prejuicios diversas imágenes fotográficas fijas y producciones audiovisuales",
+            "description": "Analizar sin prejuicios diversas imágenes fotográficas fijas y producciones audiovisuales, reconociendo el lenguaje, elementos técnicos, procedimientos, contextos y la función presente en ellas, para fomentar el deleite estético, construir su identid…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Diseñar producciones audiovisuales creativas que expresen ideas y sentimientos propios a partir de un tema, incorporando experiencias personales y otros medios."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Evaluar el rigor ético y formal de producciones audiovisuales mediante análisis crítico, identificando manipulación y respetando la propiedad intelectual."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Conocer y experimentar, con progresiva autonomía, con las principales técnicas,",
+            "description": "Conocer y experimentar, con progresiva autonomía, con las principales técnicas, recursos y convenciones del lenguaje audiovisual, identificando los equipos y competencias necesarios e incorporando las posibilidades que ofrecen las diversas tecnología…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Organizar equipos de trabajo identificando habilidades y distribuyendo tareas para producciones audiovisuales colectivas."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Planificar una producción audiovisual justificando medios, habilidades y soluciones a imprevistos."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Utilizar la producción audiovisual",
+            "description": "Utilizar la producción audiovisual, de forma creativa y crítica, como medio de expresión, empleando su propia imagen como un recurso, aceptándose a sí mismo y al otro, para aumentar su autoconocimiento, autoconfianza y empatía. Llevar a buen término …",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Justificar las decisiones técnicas y de lenguaje de una producción audiovisual en función del público destinatario."
+                },
+                {
+                    "code": "4.2",
+                    "description": "El alumnado selecciona canales de difusión para producciones audiovisuales, justificando su elección según el propósito y el público, con respeto a la propiedad intelectual."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Realizar de forma individual o colectiva, producciones audiovisuales, diseñando",
+            "description": "Realizar de forma individual o colectiva, producciones audiovisuales, diseñando las fases del proceso y seleccionando las técnicas adecuadas, teniendo en cuenta sus destinatarios y adoptando criterios de sostenibilidad, para valorar las oportunidades…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Identificar diferentes ejemplos de profesiones relacionadas con la cultura audiovisual, comprendiendo las oportunidades que ofrecen y el valor añadido de la creatividad en el trabajo, expresando la opinión propia de forma razonada y respetuosa."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Planificar una producción audiovisual sostenible, asumiendo responsabilidades, expresando su opinión de forma ra zonada y respetuosa, comprendiendo los retos planteados y la importancia del trabajo colaborativo en la consecución de un resultado profesional."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Crear una producción audiovisual sostenible individual o grupal, abierta y colaborativa, diseñando las fases del proce so y seleccionando las técnicas adecuadas para conseguir un resultado que amplíe su personalidad artística."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Comunicar públicamente producciones audiovisuales",
+            "description": "Comunicar públicamente producciones audiovisuales, evaluando tanto el proceso conjunto de producción como el resultado final, para reflexionar sobre las reacciones de sus espectadores de forma abierta y respetuosa.",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Exponer el resultado final de una producción audiovisual, utilizando de manera crítica, segura y responsable las herramientas digitales, compartiendo el desarrollo de su elaboración, las dificultades encontradas, los progresos realizados y una valoración de los logros alcanzados."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Analizar la recepción de las producciones audiovisuales presentadas de manera abierta y respetuosa, considerando tanto las opiniones positivas como las negativas y extrayendo de ello un aprendizaje para el crecimiento artístico."
+                }
+            ]
+        }
+    ]
+}

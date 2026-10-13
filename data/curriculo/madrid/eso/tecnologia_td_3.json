@@ -1,0 +1,175 @@
+{
+    "community": "madrid",
+    "stage": "eso",
+    "decree": "Decreto 65/2022, de 20 de julio",
+    "subject": "tecnologia_td",
+    "subject_name": "Tecnología y Digitalización",
+    "grade": 3,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Buscar y seleccionar la información adecuada proveniente de",
+            "description": "Buscar y seleccionar la información adecuada proveniente de diversas fuentes, de manera crítica y segura, aplicando procesos de investigación, métodos de análisis de productos y experimentando con herramientas de simulación, para definir problemas tecnológicos e iniciar procesos de creación de soluciones a partir de la información obtenida.",
+            "descriptors": [
+                "CCL3",
+                "STEM2",
+                "CD1",
+                "CD4",
+                "CPSAA4",
+                "CE1"
+            ],
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar problemas o necesidades planteadas, buscando y contrastando información procedente de diferentes fuentes de manera crítica y segura, evaluando su fiabilidad y pertinencia."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Comprender y examinar productos tecnológicos de uso habitual a través del análisis de objetos y sistemas de diversa índole, empleando el método científico y utilizando herramientas de simulación en la construcción de conocimiento."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Adoptar medidas preventivas para la protección de los dispositivos, los datos y la salud personal, identificando problemas y riesgos relacionados con el uso de la tecnología."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Abordar problemas tecnológicos con autonomía y actitud",
+            "description": "Abordar problemas tecnológicos con autonomía y actitud creativa, aplicando conocimientos interdisciplinares y trabajando en grupo, para diseñar y planificar soluciones a un problema o necesidad de forma eficaz e innovadora.",
+            "descriptors": [
+                "CCL1",
+                "STEM1",
+                "STEM3",
+                "CD3",
+                "CPSAA3",
+                "CPSAA5",
+                "CE1",
+                "CE3"
+            ],
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Idear y diseñar soluciones eficaces e innovadoras a problemas definidos, aplicando conceptos, técnicas y procedimientos interdisciplinares."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Seleccionar, planificar y organizar los materiales y herramientas necesarios, así como secuenciar las tareas necesarias para la construcción de una solución a un problema planteado con previsión de los tiempos necesarios para el desempeño de cada tarea, trabajando individualmente o en grupo."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Aplicar de forma apropiada y segura distintas técnicas y",
+            "description": "Aplicar de forma apropiada y segura distintas técnicas y conocimientos interdisciplinares utilizando operadores, sistemas tecnológicos y herramientas, teniendo en cuenta la planificación y el diseño previo para construir o fabricar soluciones tecnológicas adecuadas que den respuesta a necesidades en diferentes contextos.",
+            "descriptors": [
+                "STEM2",
+                "STEM3",
+                "STEM5",
+                "CD5",
+                "CPSAA1",
+                "CE3",
+                "CCEC3"
+            ],
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Fabricar objetos o modelos mediante la manipulación y conformación de materiales, empleando herramientas y máquinas adecuadas, incluidas máquinas de fabricación digital como las impresoras 3D, aplicando los fundamentos de estructuras, mecanismos, electricidad y electrónica y respetando las normas de seguridad y salud correspondientes."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Medir y realizar cálculos de magnitudes eléctricas en circuitos sencillos, comprobando la coherencia de los datos obtenidos."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Estimar cualitativamente el consumo de dispositivos eléctricos y electrónicos, valorando medidas de ahorro energético y el consumo responsable."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Describir, representar e intercambiar ideas o soluciones a",
+            "description": "Describir, representar e intercambiar ideas o soluciones a problemas tecnológicos o digitales, utilizando medios de representación, simbología y vocabulario adecuados, así como los instrumentos y recursos disponibles y valorando la utilidad de las herramientas digitales para comunicar y difundir información y propuestas.",
+            "descriptors": [
+                "CCL1",
+                "STEM4",
+                "CD3",
+                "CCEC3",
+                "CCEC4"
+            ],
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Representar y comunicar el proceso de creación de un producto desde su diseño hasta su difusión, elaborando documentación técnica y gráfica con la ayuda de herramientas digitales, empleando los formatos, la simbología y el vocabulario técnico adecuados, de manera colaborativa, tanto presencialmente como en remoto."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Difundir la información de un proyecto a través de internet, mediante páginas web sencillas, blogs, wikis u otras herramientas."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Desarrollar algoritmos y aplicaciones informáticas en",
+            "description": "Desarrollar algoritmos y aplicaciones informáticas en distintos entornos, aplicando los principios del pensamiento computacional e incorporando las tecnologías emergentes, para crear soluciones a problemas concretos, automatizar procesos y aplicarlos en sistemas de control o en robótica.",
+            "descriptors": [
+                "CP2",
+                "STEM1",
+                "STEM3",
+                "CD5",
+                "CPSAA5",
+                "CE3"
+            ],
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Programar aplicaciones sencillas para distintos dispositivos (ordenadores, dispositivos móviles y otros) empleando, los elementos de programación por bloques de manera apropiada y aplicando herramientas de edición así como módulos de inteligencia artificial que añadan funcionalidades."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Automatizar procesos, máquinas y objetos de manera autónoma, con conexión a internet, mediante el análisis, construcción y programación por bloques de robots y sistemas de control."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Comprender los fundamentos del funcionamiento de los",
+            "description": "Comprender los fundamentos del funcionamiento de los dispositivos y aplicaciones habituales de su entorno digital de aprendizaje, analizando sus componentes y funciones y ajustándolos a sus necesidades para hacer un uso más eficiente y seguro de los mismos y para detectar y resolver problemas técnicos sencillos.",
+            "descriptors": [
+                "CP2",
+                "CD2",
+                "CD4",
+                "CD5",
+                "CPSAA4",
+                "CPSAA5"
+            ],
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Usar de manera eficiente y segura los dispositivos digitales de uso cotidiano en la resolución de problemas sencillos, analizando los componentes y los sistemas de comunicación, conociendo los riesgos y adoptando medidas de seguridad para la protección de datos y equipos."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Crear contenidos, elaborar materiales y difundirlos en distintas plataformas, configurando correctamente las herramientas digitales habituales del entorno de aprendizaje, ajustándolas a sus necesidades y respetando los derechos de autor y la etiqueta digital."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Hacer un uso responsable de la tecnología, mostrando",
+            "description": "Hacer un uso responsable de la tecnología, mostrando interés por un desarrollo equilibrado, identificando sus repercusiones y valorando la contribución de las tecnologías emergentes, para identificar las aportaciones y el impacto del desarrollo tecnológico.",
+            "descriptors": [
+                "STEM2",
+                "STEM5",
+                "CD4",
+                "CC4"
+            ],
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Identificar las aportaciones de las tecnologías emergentes."
+                }
+            ]
+        }
+    ]
+}

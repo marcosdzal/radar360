@@ -1,0 +1,102 @@
+{
+    "community": "madrid",
+    "stage": "infantil",
+    "decree": "Decreto 36/2022, de 8 de junio",
+    "subject": "descubrimiento_entorno",
+    "subject_name": "Descubrimiento y exploración del entorno",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Identificar las características de materiales y objetos",
+            "description": "Identificar las características de materiales, objetos y establecer relaciones entre ellos, mediante la exploración, la manipulación sensorial, el manejo de herramientas sencillas y el desarrollo de destrezas lógico-matemáticas.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Establecer distintas relaciones entre los objetos a partir de sus cualidades o atributos, mostrando curiosidad e interés."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Emplear los cuantificadores básicos más significativos en el contexto del juego y en las relaciones con los demás."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Ubicarse adecuadamente en los espacios habituales, tanto en reposo como en movimiento, aplicando sus conocimientos acerca de las nociones espaciales básicas y jugando con el propio cuerpo y con objetos."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Identificar las situaciones cotidianas en las que es preciso medir, utilizando el cuerpo u otros materiales y herramientas para efectuar las medidas."
+                },
+                {
+                    "code": "1.5",
+                    "description": "Organizar su actividad, ordenando las secuencias y utilizando las nociones temporales básicas."
+                },
+                {
+                    "code": "1.6",
+                    "description": "Utilizar nociones temporales básicas para investigar sobre el paso del tiempo y descubrir algunos hechos del pasado."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Desarrollar los procedimientos del método científico",
+            "description": "Desarrollar los procedimientos del método científico, a través de procesos de observación y manipulación de objetos, para iniciarse en la interpretación del entorno y responder a las situaciones y retos que se plantean.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Gestionar situaciones, dificultades, retos o problemas mediante la planificación de secuencias de actividades, la manifestación de interés e iniciativa y el trabajo con sus compañeros."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Canalizar la frustración ante las dificultades o problemas mediante la aplicación de diferentes estrategias."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Plantear ideas acerca del comportamiento de ciertos elementos o materiales, comprobándolas a través de la manipulación y la actuación sobre ellos."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Utilizar diferentes estrategias para la toma de decisiones de manera autónoma, afrontando el proceso de creación de soluciones en respuesta a los retos que se le planteen."
+                },
+                {
+                    "code": "2.5",
+                    "description": "Programar secuencias de acciones o instrucciones para la resolución de tareas analógicas y digitales."
+                },
+                {
+                    "code": "2.6",
+                    "description": "Participar en proyectos utilizando dinámicas de grupo, compartiendo y valorando opiniones propias y ajenas, expresando conclusiones personales a partir de ellas."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Reconocer elementos y fenómenos de la naturaleza",
+            "description": "Reconocer elementos y fenómenos de la naturaleza, mostrando interés por los hábitos que inciden sobre ella, para apreciar la importancia del cuidado y la conservación del entorno.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Mostrar una actitud de respeto, cuidado y protección hacia el medio natural y los animales, identificando el impacto de algunas acciones humanas."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Identificar rasgos comunes y diferentes entre seres vivos e inertes."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Establecer relaciones entre el medio natural y social a partir de conocimiento y observación de algunos fenómenos naturales y de los elementos patrimoniales presentes en el medio físico."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Identificar rasgos del entorno próximo, reconocer algunas señas de identidad cultural, física y social de la Comunidad de Madrid y de España."
+                },
+                {
+                    "code": "3.5",
+                    "description": "Participar en actividades sociales y culturales de la Comunidad de Madrid y de España."
+                }
+            ]
+        }
+    ]
+}

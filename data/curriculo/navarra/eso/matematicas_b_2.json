@@ -1,0 +1,172 @@
+{
+    "community": "navarra",
+    "stage": "eso",
+    "decree": "Real Decreto 217\/2022",
+    "subject": "matematicas_b",
+    "subject_name": "Matemáticas B",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "1.1",
+            "description": "1.1. Reformular de forma verbal y gráfica problemas matemáticos, interpretando los datos, las relaciones entre ellos y las preguntas planteadas. 1.2. Analizar y seleccionar diferentes herramientas y estrategias elaboradas en la resolución de un mismo…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Reformular problemas matemáticos expresándolos de forma verbal y gráfica, interpretando datos y relaciones."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Analizar y seleccionar estrategias de resolución de problemas, valorando su eficiencia, para justificar la elección más adecuada."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Resolver un problema usando conocimientos y herramientas tecnológicas para encontrar todas las soluciones posibles."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "2.1",
+            "description": "2.1. Comprobar la corrección matemática de las soluciones de un problema. 2.2. Justificar las soluciones óptimas de un problema desde diferentes perspectivas (matemática, de género, de sostenibilidad, de consumo responsable...)",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "El alumnado verifica que las soluciones obtenidas en un problema son matemáticamente correctas."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Justificar la solución óptima de un problema considerando perspectivas matemáticas, sociales y ambientales."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "3.1",
+            "description": "3.1. Formular, comprobar e investigar conjeturas de forma guiada. 3.2. Plantear variantes de un problema que lleven a una generalización. 3.3. Emplear herramientas tecnológicas adecuadas en la investigación y comprobación de conjeturas o problemas",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Formular y verificar conjeturas sencillas con ayuda guiada del docente."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Diseñar variantes de un problema detectando el patrón que permite formular una generalización."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Usar herramientas tecnológicas para investigar y verificar conjeturas matemáticas."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "4.1",
+            "description": "4.1. Generalizar patrones y proporcionar una representación computacional de situaciones problematizadas. 4.2. Modelizar situaciones y resolver problemas de forma eficaz interpretando, modificando, generalizando y creando algoritmos.",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Modelizar situaciones problemáticas mediante la generalización de patrones y la creación de representaciones computacionales."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Modelizar situaciones y resolver problemas eficaces mediante la creación y modificación de algoritmos."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "5.1",
+            "description": "5.1. Deducir relaciones entre los conocimientos y experiencias matemáticas, formando un todo coherente. 5.2. Analizar y poner en práctica conexiones entre diferentes procesos matemáticos aplicando conocimientos y experiencias previas.",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "El alumno establece relaciones entre conceptos matemáticos para construir una visión integrada y coherente."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Analizar y aplicar conexiones entre procesos matemáticos, usando conocimientos previos para resolver problemas integrados."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "6.1",
+            "description": "6.1. Proponer situaciones susceptibles de ser formuladas y resueltas mediante herramientas y estrategias matemáticas, estableciendo y aplicando conexiones entre el mundo real y las matemáticas, y usando los procesos inherentes a la investigación cien…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Proponer situaciones reales que puedan formularse y resolverse con matemáticas, conectando el mundo real con procesos científicos."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Analizar y aplicar conexiones matemáticas con otras materias mediante un análisis crítico."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Valorar cómo las matemáticas contribuyen al progreso humano y a resolver retos sociales actuales."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "7.1",
+            "description": "7.1. Representar matemáticamente la información más relevante de un problema, conceptos, procedimientos y resultados matemáticos visualizando ideas y estructurando procesos matemáticos. 7.2. Seleccionar entre diferentes herramientas, incluidas las di…",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Representar visualmente problemas y procesos matemáticos usando tecnología."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Evalúa distintas herramientas y formatos de representación matemática para elegir el más adecuado y compartir información."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "8.1",
+            "description": "8.1. Comunicar ideas, conclusiones, conjeturas y razonamientos matemáticos, utilizando diferentes medios, incluidos los digitales, con coherencia, claridad y terminología apropiada. 8.2. Reconocer y emplear el lenguaje matemático presente en la vida …",
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Comunicar ideas y razonamientos matemáticos con claridad y terminología adecuada, usando medios variados."
+                },
+                {
+                    "code": "8.2",
+                    "description": "Aplicar el lenguaje matemático a contextos cotidianos, comunicando mensajes precisos y rigurosos, tanto oral como por escrito."
+                }
+            ]
+        },
+        {
+            "code": "CE9",
+            "name": "Desarrollar destrezas personales, identificando y gestionando emociones,",
+            "description": "Desarrollar destrezas personales, identificando y gestionando emociones, poniendo en práctica estrategias de aceptación del error como parte del proceso de aprendizaje y adaptándose ante situaciones de incertidumbre, para mejorar la perseverancia en …",
+            "criterios": [
+                {
+                    "code": "9.1",
+                    "description": "Identificar y gestionar emociones propias y desarrollar autoconcepto matemático positivo."
+                },
+                {
+                    "code": "9.2",
+                    "description": "Valorar la propia perseverancia y aceptar la crítica razonada en el aprendizaje matemático."
+                }
+            ]
+        },
+        {
+            "code": "CE0",
+            "name": "Desarrollar destrezas sociales reconociendo y respetando las emociones y",
+            "description": "Desarrollar destrezas sociales reconociendo y respetando las emociones y experiencias de las demás personas, participando activa y reflexivamente en proyectos en equipos heterogéneos con roles asignados, para construir una identidad positiva como est…",
+            "criterios": [
+                {
+                    "code": "10.1",
+                    "description": "Colaborar en equipos heterogéneos, comunicarse eficazmente, pensar críticamente y tomar decisiones informadas al resolver retos matemáticos."
+                },
+                {
+                    "code": "10.2",
+                    "description": "Distribuir tareas en equipo de forma inclusiva, asumiendo roles y responsabilizándose de la propia contribución, con escucha activa."
+                }
+            ]
+        }
+    ]
+}

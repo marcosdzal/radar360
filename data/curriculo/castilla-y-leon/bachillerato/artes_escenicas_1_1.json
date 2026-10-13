@@ -1,0 +1,85 @@
+{
+    "community": "castilla-y-leon",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "artes_escenicas_1",
+    "subject_name": "Artes Escénicas I",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "1.1 Identificar las principales características de manifestaciones escénicas de",
+            "description": "1.1 Identificar las principales características de manifestaciones escénicas de diferentes épocas y tradiciones, incluidas las propias de la comunidad de Castilla y León, estableciendo relaciones con su contexto, mediante el uso de un vocabulario ade…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Identificar las principales características de manifestaciones escénicas de diferentes épocas y tradiciones, estableciendo relaciones con su contexto y mostrando una actitud de apertura e interés."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Establecer conexiones descriptivas entre manifestaciones escénicas de pocas y tradiciones variadas, valorando su influencia sobre las artes escénicas actuales. (STEM1, CD1, CD2, CPSAA4, CE1, CCEC2)"
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "2.1 Participar, con iniciativa, confianza y creatividad, en la exploración de",
+            "description": "2.1 Participar, con iniciativa, confianza y creatividad, en la exploración de sistemas, medios y códigos de significación escénica, incorporando dicho aprendizaje a la realización de actividades de carácter práctico. (CCL1, CCL2, CD1, CD2, CPSAA4, CE…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Participa en la exploración práctica de sistemas y códigos escénicos mostrando iniciativa, confianza y creatividad."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Recrea escenas y personajes seleccionando técnicas expresivas adecuadas de su repertorio personal."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "3.1 Emplear técnicas elementales de interpretación",
+            "description": "3.1 Emplear técnicas elementales de interpretación, aplicando estrategias de memorización y valorando los ensayos como espacios de escucha, diálogo y aprendizaje colaborando en su construcción. (CCL1, CP3, STEM3, CD2, CPSAA3.2, CC1, CC3, CE1) 3.2 Rec…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Aplicar técnicas básicas de interpretación usando estrategias de memorización y reconociendo los ensayos como espacios de aprendizaje colaborativo."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Recrear y representar una escena dramática siguiendo dirección, manteniendo concentración y gestionando el miedo escénico."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "4.1 Participar activamente en la realización de proyectos colectivos de",
+            "description": "4.1 Participar activamente en la realización de proyectos colectivos de creación y difusión escénica en diferentes espacios y soportes, asumiendo funciones diversas con iniciativa y responsabilidad, y valorando y respetando las aportaciones y experie…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Participar en proyectos escénicos grupales asumiendo roles con iniciativa y respeto."
+                },
+                {
+                    "code": "4.2",
+                    "description": "El alumnado evalúa y presenta los resultados de proyectos escénicos, analizando la relación entre objetivos y producto final."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "5.1 Identificar el tipo de público al que se dirige un espectáculo determinado,",
+            "description": "5.1 Identificar el tipo de público al que se dirige un espectáculo determinado, analizando la experiencia como espectador crítico, basando sus argumentos en el análisis de la obra y en las reacciones del público. (CCL2, CCL3, STEM1, CCEC2) 5.2 Coment…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Analizar el público objetivo de un espectáculo a partir del estudio de la obra y las reacciones del público."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Comentar manifestaciones escénicas usando terminología específica y fuentes fiables, con reflexión crítica."
+                }
+            ]
+        }
+    ]
+}

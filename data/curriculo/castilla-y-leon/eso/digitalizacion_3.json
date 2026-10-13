@@ -1,0 +1,114 @@
+{
+    "community": "castilla-y-leon",
+    "stage": "eso",
+    "decree": "",
+    "subject": "digitalizacion",
+    "subject_name": "Digitalización",
+    "grade": 3,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Identificar y resolver problemas técnicos sencillos, conectar y configurar dispositivos a redes domésticas",
+            "description": "Identificar y resolver problemas técnicos sencillos, conectar y configurar dispositivos a redes domésticas, aplicando los conocimientos de hardware y sistemas operativos, para gestionar las herramientas e instalaciones informáticas y de comunicación …",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Configurar y conectar dispositivos a redes locales (WiFi o cable), asegurando la comunicación entre ellos y gestionando los parámetros básicos de red."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Instalar y configurar sistemas operativos según necesidades personales, manteniendo su funcionamiento."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Diagnosticar y solucionar fallos técnicos básicos en equipos digitales mediante el análisis de sus componentes, documentando el proceso y ajustando la solución según los resultados obtenidos."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Configurar y conectar dispositivos IoT y Wearables, midiendo, mandando y recibiendo información a través de Internet. (CD1, CD5, CCEC4)"
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Configurar el entorno personal de aprendizaje, interactuando y aprovechando los recursos del ámbito digital",
+            "description": "Configurar el entorno personal de aprendizaje, interactuando y aprovechando los recursos del ámbito digital, para optimizar y gestionar el aprendizaje permanente.",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Organizar y personalizar un entorno digital de aprendizaje propio, seleccionando e integrando herramientas y recursos que faciliten el estudio y la formación continua de forma autónoma."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Localizar, filtrar y organizar información digital de manera crítica y segura, empleando herramientas específicas para gestionar el propio aprendizaje de forma eficiente."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Desarrollar y modificar contenidos digitales originales o adaptados, utilizando herramientas adecuadas y respetando la propiedad intelectual para generar nuevos materiales de aprendizaje."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Participar activamente en plataformas educativas y redes de colaboración, compartiendo contenidos de forma respetuosa y adaptando el mensaje al destinatario para fomentar el aprendizaje compartido."
+                },
+                {
+                    "code": "2.5",
+                    "description": "Crear y gestionar blogs, seleccionando las herramientas adecuadas para generar contenido de modo creativo, gestionando sus configuraciones, su privacidad y posibilidad de uso compartido, y respetando los derechos de autor y licencias. (CCL3, CD1, CD2, CD3, CCEC4)"
+                },
+                {
+                    "code": "2.6",
+                    "description": "Editar y crear digitalmente imágenes en forma de mapas de bits, en diversos formatos, a través del uso creativo de herramientas adecuadas, respetando derechos de autor y licencias. (CCEC4)"
+                },
+                {
+                    "code": "2.7",
+                    "description": "Interactuar en espacios virtuales de comunicación y plataformas de aprendizaje colaborativo, compartiendo, y publicando y difundiendo información y datos, ejerciendo"
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Desarrollar hábitos que fomenten el bienestar digital, aplicando medidas preventivas y correctivas",
+            "description": "Desarrollar hábitos que fomenten el bienestar digital, aplicando medidas preventivas y correctivas, para proteger dispositivos, datos personales y la propia salud.",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Configurar de forma segura la privacidad de perfiles en redes sociales y entornos educativos para minimizar la exposición de datos personales y controlar la huella digital."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Asegurar dispositivos digitales mediante la configuración de contraseñas robustas y la actualización constante del sistema operativo y programas de protección antivirus."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Reconocer amenazas digitales y aplicar medidas de seguridad y ergonomía para proteger la integridad física, mental y la privacidad en entornos virtuales."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Ejercer una ciudadanía digital crítica, conociendo las posibles acciones que",
+            "description": "Ejercer una ciudadanía digital crítica, conociendo las posibles acciones que realizar en la red, e identificando sus repercusiones, para hacer un uso activo, responsable y ético de la tecnología.",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Aplicar principios éticos, normas de cortesía digital y respeto a la propiedad intelectual al comunicarse y colaborar en entornos virtuales compartidos."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Analizar las ventajas de la administración y el comercio electrónico, identificando las barreras de acceso y uso que generan exclusión digital en colectivos vulnerables."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Analizar críticamente la información y mensajes en medios digitales, identificando sesgos, intencionalidad y veracidad para fomentar una libertad de expresión responsable y ética."
+                },
+                {
+                    "code": "4.4",
+                    "description": "Evaluar el impacto ambiental y social de la tecnología, analizando la sostenibilidad, la accesibilidad universal y la responsabilidad ética en su desarrollo y uso cotidiano."
+                },
+                {
+                    "code": "4.5",
+                    "description": "Analizar la necesidad y los beneficios globales de un uso y desarrollo ecosocialmente responsable de las tecnologías digitales, teniendo en cuenta criterios de accesibilidad, sostenibilidad e impacto. (CD4, CC2, CC3, CE1)"
+                }
+            ]
+        }
+    ]
+}

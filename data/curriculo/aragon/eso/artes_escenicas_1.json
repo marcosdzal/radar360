@@ -1,0 +1,55 @@
+{
+    "community": "aragon",
+    "stage": "eso",
+    "decree": "Orden ECD\/1172\/2022, de 2 de agosto",
+    "subject": "artes_escenicas",
+    "subject_name": "Artes Escénicas",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Describir las características de las principales manifestaciones escénicas de",
+            "description": "Describir las características de las principales manifestaciones escénicas de nuestra cultura, identificando sus elementos comunicativos y expresivos básicos y llevándolos a la práctica en actividades elementales de exploración, improvisación, dramat…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Identificar el contexto histórico y social de obras escénicas, analizando su función comunicativa y los valores de igualdad o género que transmiten a la sociedad."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Analizar obras del patrimonio de las artes escénicas para comprender su valor histórico y cultural, reconociendo la importancia de proteger y conservar estas manifestaciones."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Abordar la recreación y representación de la acción dramática, a partir de la",
+            "description": "Abordar la recreación y representación de la acción dramática, a partir de la construcción colectiva de escenas teatrales o de pequeñas producciones dramáticas, que muestren variados tipos de personajes y conflictos, para desarrollar habilidades de c…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Explicar razonadamente el proceso creativo desde la idea inicial hasta la representación final, evitando prejuicios y valorando la diversidad cultural en sus propuestas escénicas."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Comentar y analizar obras escénicas propias y ajenas siguiendo pautas dadas, valorando la diversidad cultural y estética con una actitud de respeto y curiosidad."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Desarrollar las capacidades, habilidades y destrezas expresivas y creativas",
+            "description": "Desarrollar las capacidades, habilidades y destrezas expresivas y creativas propias a partir del trabajo individual y grupal a través del movimiento y la danza y de la expresión corporal con intención comunicativa de emociones, sentimientos e ideas y…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Identificar y describir elementos visuales y audiovisuales en manifestaciones escénicas de diversas épocas, analizando su impacto estético y social desde una perspectiva de género."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Justificar las emociones y opiniones personales tras la recepción de obras artísticas, compartiendo impresiones con respeto y fundamentando el disfrute estético de forma abierta."
+                }
+            ]
+        }
+    ]
+}

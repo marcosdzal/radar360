@@ -1,0 +1,200 @@
+{
+    "community": "galicia",
+    "stage": "bachillerato",
+    "decree": "Decreto 157\/2022, de 15 de septiembre",
+    "subject": "economia_alt",
+    "subject_name": "Economía",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Valorar el problema de la escasez y la importancia de adoptar decisiones en el",
+            "description": "Valorar el problema de la escasez y la importancia de adoptar decisiones en el ámbito económico, analizando su repercusión en los distintos sectores y comparando soluciones alternativas que ofrecen los diferentes sistemas para comprender el funcionam…",
+            "criterios": [
+                {
+                    "code": "CE1.1",
+                    "description": "Comprender la realidad económica actual, analizando la repercusión de las decisiones adoptadas en el ámbito económico, valorando los procesos de integración económica y estableciendo comparaciones sobre las soluciones alternativas que ofrecen los distintos sistemas."
+                },
+                {
+                    "code": "CE1.2",
+                    "description": "Comprender el problema de la escasez, identificando los motivos y comparando, de manera justificada, diferentes estrategias económicas de resolución de este."
+                },
+                {
+                    "code": "CE1.3",
+                    "description": "Conocer los procesos que intervienen en la toma de las decisiones económicas de maOBJ1 nera individual y colectiva analizando el impacto que tienen en la sociedad."
+                },
+                {
+                    "code": "CE1.4",
+                    "description": "Analizar con espíritu crítico los fallos del mercado, evaluando sus consecuencias y reOBJ2 flexionando sobre sus posibles soluciones según los diferentes sistemas económicos."
+                },
+                {
+                    "code": "CE3.1",
+                    "description": "Analizar el problema de la asignación de recursos en la satisfacción de las necesidades, tanto individuales como colectivas –la escasez–, identificando los motivos y comparando, de manera justificada, diferentes estrategias económicas de resolución de este."
+                },
+                {
+                    "code": "CE4.1",
+                    "description": "Comprender la realidad económica actual analizando la repercusión de las decisiones adoptadas por la intervención del Estado en materia de política económica y estableciendo comparaciones sobre las soluciones alternativas que ofrecen los distintos sistemas."
+                },
+                {
+                    "code": "CE4.2",
+                    "description": "Comprender el problema básico de la economía de la escasez de recursos para garantizar el estado del bienestar y analizar las diferentes alternativas de financiación y sus efectos en el conjunto de la sociedad."
+                },
+                {
+                    "code": "CE5.1",
+                    "description": "Comprender la realidad económica actual analizando las oportunidades y los riesgos de los procesos de integración económica entre países y de la globalización y su repercusión en la reducción de las desigualdades."
+                },
+                {
+                    "code": "CE5.2",
+                    "description": "Analizar la escasez de recursos y la pobreza para comprender los flujos migratorios identificando los motivos y comparando, de manera justificada, diferentes estrategias económicas de resolución de este."
+                },
+                {
+                    "code": "CE5.3",
+                    "description": "Conocer los procesos que intervienen en la toma de las decisiones económicas de manera individual y colectiva analizando el impacto que tienen en los retos económicos actuales."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Reconocer y comprender el funcionamiento del mercado, analizando sus fallos",
+            "description": "Reconocer y comprender el funcionamiento del mercado, analizando sus fallos, para estudiar la repercusión de estos en el entorno y facilitar la toma de decisiones en el ámbito económico. - El funcionamiento del mercado, así como de los distintos mode…",
+            "criterios": [
+                {
+                    "code": "CE2.1",
+                    "description": "Valorar la repercusión de los fallos del mercado en el ámbito microeconómico y facilitar el proceso de toma de decisiones en este ámbito, reconociendo y comprendiendo su funcionamiento."
+                },
+                {
+                    "code": "CE2.2",
+                    "description": "Entender el funcionamiento del mercado y la naturaleza de las transacciones que tienen lugar en él, analizando elementos como la oferta, la demanda, los precios, los tipos de mercado y los agentes implicados y reflexionado sobre su importancia como fuente de mejora económica y social."
+                },
+                {
+                    "code": "CE2.3",
+                    "description": "Analizar con espíritu crítico los fallos del mercado, evaluando sus consecuencias y reOBJ2 flexionando sobre sus posibles soluciones."
+                },
+                {
+                    "code": "CE3.2",
+                    "description": "Entender el funcionamiento del mercado laboral y la naturaleza de las transacciones que tienen lugar en él, analizando los agentes implicados y reflexionado sobre su importancia como fuente de mejora económica y social."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Distinguir y valorar el papel de los distintos agentes económicos que",
+            "description": "Distinguir y valorar el papel de los distintos agentes económicos que intervienen en el flujo circular de la renta reconociendo, con sentido crítico, los beneficios y los costes que genera, para determinar cómo se produce el desarrollo económico y su…",
+            "criterios": [
+                {
+                    "code": "CE1.5",
+                    "description": "Conocer cómo se produce el desarrollo económico, el bienestar social y la reducción de la pobreza valorando, con sentido crítico, el papel de los distintos agentes económicos que intervienen en el flujo circular de la renta."
+                },
+                {
+                    "code": "CE1.6",
+                    "description": "Comprender la organización de los agentes económicos en el flujo de la renta estableciendo relaciones entre ellos y determinando su repercusión en el desarrollo económico y bienestar social."
+                },
+                {
+                    "code": "CE3.3",
+                    "description": "Conocer cómo se produce el desarrollo económico y el bienestar social valorando, con sentido crítico, el papel de los distintos agentes económicos que intervienen en el flujo circular de la renta."
+                },
+                {
+                    "code": "CE3.4",
+                    "description": "Diferenciar los costes y los beneficios generados en el flujo circular de la renta para cada uno de los agentes económicos determinando su repercusión en el desarrollo económico y bienestar social."
+                },
+                {
+                    "code": "CE3.9",
+                    "description": "Comprender los retos económicos actuales en materia de comercio internacional y procesos de integración económica, analizando de forma crítica y constructiva los efectos econóOBJ5 mico-sociales a partir del análisis de casos reales y fomentando iniciativas que respondan a las necesidades que suponen estos retos."
+                },
+                {
+                    "code": "CE4.3",
+                    "description": "Diferenciar los costes y los beneficios que genera para cada uno de los agentes económicos en el flujo de la renta estableciendo relaciones entre ellos y determinando su repercusión en el estado del bienestar y en su financiación."
+                },
+                {
+                    "code": "CE5.4",
+                    "description": "Analizar, con sentido crítico, cómo se produce el desarrollo económico y el bienestar social con relación al desarrollo sostenible y a los retos económicos actuales. Estudio de casos."
+                },
+                {
+                    "code": "CE5.5",
+                    "description": "Diferenciar los costes y los beneficios que genera para cada uno de los agentes económicos en el flujo de la renta estableciendo relaciones entre ellos y determinando su repercusión en el desarrollo económico y en el bienestar social."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Conocer y comprender el funcionamiento del sistema financiero valorando sus",
+            "description": "Conocer y comprender el funcionamiento del sistema financiero valorando sus efectos sobre la economía real y analizando los elementos que intervienen en las decisiones financieras relacionadas con la inversión, el ahorro, los productos financieros y …",
+            "criterios": [
+                {
+                    "code": "CE1.7",
+                    "description": "Conocer y comprender el funcionamiento del sistema financiero valorando sus efectos sobre la economía real y analizando los elementos que intervienen en las decisiones financieras relacionadas con la inversión, con el ahorro, con los productos financieros y con la búsqueda de fuentes de financiación, para planificar y gestionar con mayor responsabilidad y autonomía las propias finanzas y adoptar decisiones financieras fundamentadas."
+                },
+                {
+                    "code": "CE1.8",
+                    "description": "Planificar y gestionar con responsabilidad y progresiva autonomía las finanzas personales y adoptar decisiones fundamentadas a partir del conocimiento y de la comprensión del sistema financiero valorando los elementos que intervienen en las decisiones financieras y los efectos que estos pueden provocar en la economía real."
+                },
+                {
+                    "code": "CE1.9",
+                    "description": "Adquirir conocimientos financieros a partir del análisis del sistema financiero, de su funcionamiento y de los efectos que se derivan de las decisiones adoptadas en él y estableciendo conexiones entre estos aprendizajes y sus decisiones financieras personales que afectan a su vida cotidiana."
+                },
+                {
+                    "code": "CE3.5",
+                    "description": "Conocer y comprender el funcionamiento del sistema financiero y su evolución en la era digital, analizando las nuevas tendencias tecnológicas que suponen una disrupción en el sector financiero, para planificar y gestionar con mayor responsabilidad y autonomía las propias finanzas y adoptar decisiones financieras fundamentadas."
+                },
+                {
+                    "code": "CE3.6",
+                    "description": "Planificar y gestionar con responsabilidad y progresiva autonomía las finanzas personales y adoptar decisiones fundamentadas a partir del conocimiento y de la comprensión del sistema financiero y su evolución en la era digital valorando los elementos que intervienen en las decisiones financieras y los efectos que estos pueden provocar en la economía real."
+                },
+                {
+                    "code": "CE3.7",
+                    "description": "Adquirir conocimientos financieros a partir del análisis del sistema financiero, de su funcionamiento, de su evolución y de los efectos que se derivan de las decisiones adoptadas en él y estableciendo conexiones entre estos aprendizajes y sus decisiones financieras personales que afectan a su vida cotidiana."
+                },
+                {
+                    "code": "CE4.4",
+                    "description": "Conocer y comprender el funcionamiento del sistema financiero, de la política monetaria y de la estabilidad de precios valorando sus efectos sobre la economía real y analizando los elementos que intervienen en las decisiones financieras, como el tipo de interés, la inflación, el ahorro, los productos financieros y la búsqueda de fuentes de financiación, para planificar y gestionar con mayor responsabilidad y autonomía las propias finanzas y adoptar decisiones financieras fundamentadas."
+                },
+                {
+                    "code": "CE4.5",
+                    "description": "Adquirir conocimientos financieros a partir del análisis del sistema financiero y de la política monetaria y estableciendo conexiones entre estos aprendizajes y sus decisiones financieras personales que afectan a su vida cotidiana."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Identificar y valorar los retos y los desafíos a los que se enfrenta la",
+            "description": "Identificar y valorar los retos y los desafíos a los que se enfrenta la economía actual, analizando el impacto de la globalización económica, la nueva economía y la revolución digital para proponer iniciativas que fomenten la equidad, la justicia y l…",
+            "criterios": [
+                {
+                    "code": "CE3.8",
+                    "description": "Identificar los retos y los desafíos de una economía global proponiendo iniciativas que fomenten la equidad, la justicia y la sostenibilidad y analizando, con sentido crítico, el impacto que provocan la globalización, la nueva economía y la revolución digital en el bienestar económico y social de los ciudadanos."
+                },
+                {
+                    "code": "CE5.6",
+                    "description": "Proponer iniciativas que fomenten la equidad, la justicia y la sostenibilidad a partir de la identificación de los retos y de los desafíos que supone la economía actual y analizando, con sentido crítico, el impacto que provoca la globalización, la nueva economía y la revolución digital en el bienestar económico y social de los ciudadanos."
+                },
+                {
+                    "code": "CE5.7",
+                    "description": "Comprender los retos económicos actuales analizando de forma crítica y constructiva el entorno, identificando aquellos elementos que condicionan y transforman la economía y fomentando iniciativas que respondan a las necesidades que suponen estos retos."
+                },
+                {
+                    "code": "CE5.8",
+                    "description": "Plantear soluciones socioeconómicas que respondan a necesidades individuales y colectivas con relación a los retos económicos actuales, investigando y explorando la realidad ecoOBJ6 nómica teniendo en cuenta diversos factores y aplicando las herramientas propias del ámbito de la economía."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Analizar los problemas económicos actuales mediante el estudio de casos, la",
+            "description": "Analizar los problemas económicos actuales mediante el estudio de casos, la investigación y la experimentación, utilizando herramientas del análisis económico y teniendo en cuenta los factores que condicionan las decisiones de los agentes económicos,…",
+            "criterios": [
+                {
+                    "code": "CE1.10",
+                    "description": "Plantear soluciones socioeconómicas que respondan a necesidades individuales y colectivas investigando y explorando la realidad económica teniendo en cuenta diversos factores y aplicando las herramientas propias del ámbito de la economía."
+                },
+                {
+                    "code": "CE3.10",
+                    "description": "Plantear soluciones socioeconómicas que respondan a necesidades individuales y colectivas tanto en el marco de las relaciones nacionales como internacionales, investigando y explorando la realidad económica teniendo en cuenta diversos factores y aplicando las herramientas propias del ámbito de la economía."
+                },
+                {
+                    "code": "CE4.6",
+                    "description": "Plantear soluciones socioeconómicas que respondan a necesidades individuales y colectivas propias del estado del bienestar investigando y explorando la realidad económica teniendo en cuenta diversos factores y aplicando las herramientas propias del ámbito de la economía."
+                }
+            ]
+        }
+    ]
+}

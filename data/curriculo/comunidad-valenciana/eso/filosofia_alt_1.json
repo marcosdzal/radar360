@@ -1,0 +1,151 @@
+{
+    "community": "comunidad-valenciana",
+    "stage": "eso",
+    "decree": "Decreto 107\/2022, de 5 de agosto",
+    "subject": "filosofia_alt",
+    "subject_name": "Educació en Valors Cívics i Ètics",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Dialogar i debatre de manera assertiva, respectuosa i correctament argumentada",
+            "description": "Dialogar i debatre de manera assertiva, respectuosa i correctament argumentada sobre problemes morals plantejats en qualsevol situació de la vida diària per a poder arribar a acords o consensos. 2.1.1. Descripció de la competència 1 La capacitat de m…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Participar en els debats plantejats a classe de manera assertiva, escoltant de manera activa i respectant el torn de paraula tant en l'aportació d'arguments, fonamentats en informació fiable, com quan exposa el seu acord o desacord."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Utilitzar els conceptes i els arguments de manera rigorosa per a exposar les seues pròpies idees i raonaments i per a aclarir els dubtes i malentesos que es plantegen."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Utilitzar un llenguatge oral i escrit inclusiu i igualitari en qualsevol situació d'aprenentatge."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Participar en equips de treball per a aconseguir metes comunes assumint rols amb eficiència i responsabilitat."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Gestionar les emocions en situacions de conflicte per a poder afrontar-les des",
+            "description": "Gestionar les emocions en situacions de conflicte per a poder afrontar-les des de la cultura de la pau i explorar i proposar solucions equitatives i creatives. 2.2.1. Descripció de la competència 2 El reconeixement de les pròpies emocions és essencia…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Reconéixer les diferents violències que constitueixen la cultura de la violència i analitzarne críticament les conseqüències per a la convivència democràtica."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Proposar i dur a terme accions encaminades a la construcció de la cultura de la pau en la vida diària del centre i en l'entorn social."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Arribar a un punt d'entesa integrant les intervencions i plantejaments de la resta de la classe a través del diàleg col·lectiu i el consens."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Analitzar de manera crítica les normes i lleis vigents en el marc de la",
+            "description": "Analitzar de manera crítica les normes i lleis vigents en el marc de la Declaració Universal dels Drets Humans i adequar-se a aquestes valorant-ne la legitimitat. 2.3.1. Descripció de la competència 3 La comprensió de les normes que regulen la conviv…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Explicar i exemplificar amb claredat la diferència entre legitimitat i legalitat."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Analitzar críticament la relació entre les normes i lleis vigents i la Declaració Universal dels Drets Humans."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Aplicar l'aprenentatge sobre la legitimitat de normes a altres situacions que requerisquen ser regulades."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Reconéixer, denunciar i combatre els estereotips i rols associats a partir d'una reflexió personal i crítica",
+            "description": "Reconéixer, denunciar i combatre els estereotips i rols associats a partir d'una reflexió personal i crítica. 2.4.1. Descripció de la competència 4 En un món globalitzat i canviant com l'actual, les societats cada vegada són més diverses i plurals. E…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Identificar els valors que sustenten els estereotips i els prejudicis presents en debats, produccions escrites, literatura, música, videojocs, publicitat, xarxes socials, etc."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Analitzar críticament les conseqüències d'adoptar els estereotips i prejudicis com a patró de comportament i relació amb les altres persones i denunciar les desigualtats i injustícies que generen."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Proposar conductes i desplegar accions per a combatre la discriminació i no inclusió de les persones víctimes dels estereotips socials a l'aula, el centre i la societat."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Identificar, analitzar i valorar en l'àmbit internacional els beneficis dels",
+            "description": "Identificar, analitzar i valorar en l'àmbit internacional els beneficis dels valors democràtics promoguts per lleis i institucions per a la construcció d'una ciutadania global. 2.5.1. Descripció de la competència 5 Els éssers humans som animals socia…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Buscar, seleccionar i exposar informació de fonts fiables referida a la situació dels valors democràtics en el món."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Participar en el debat sobre els beneficis dels valors democràtics en l'àmbit internacional amb aportacions raonades."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Analitzar i explicar les conseqüències socials que es desprenen del respecte o no dels principis de la Declaració Universal dels Drets Humans i de les institucions i lleis internacionals que vetlen perquè es complisquen."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Proposar i desplegar accions responsables i justes compromeses amb la",
+            "description": "Proposar i desplegar accions responsables i justes compromeses amb la transformació social i la lluita efectiva contra les desigualtats i injustícies en qualsevol situació real d'acord amb els principis d'una societat igualitària i inclusiva. 2.6.1. …",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Identificar amb claredat els pols d'un conflicte generat per una situació de desigualtat."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Exposar i argumentar la posició moral que s'adopta davant de la desigualtat i la injustícia social."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Proposar i desplegar accions que lluiten contra les desigualtats i injustícies socials identificades en qualsevol situació."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Explicar els desafiaments ecològics plantejats pels Objectius de",
+            "description": "Explicar els desafiaments ecològics plantejats pels Objectius de Desenvolupament Sostenible i actuar de manera compromesa amb la transformació de la situació mediambiental del planeta. 2.7.1. Descripció de la competència 7 L'alumnat forma part d'un e…",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Avaluar l'impacte de les pròpies accions en les esferes local i global en relació a la sostenibilitat ecològica."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Explicar de manera clara i precisa els desafiaments plantejats pels Objectius de Desenvolupament Sostenible."
+                },
+                {
+                    "code": "7.3",
+                    "description": "Idear, planificar i avaluar en grups col·laboratius accions innovadores encaminades a cuidar el planeta."
+                },
+                {
+                    "code": "7.4",
+                    "description": "Explicar els conflictes i les conseqüències que generen les polítiques de desenvolupament no sostenibles."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "community": "aragon",
+    "stage": "eso",
+    "decree": "Orden ECD\/1172\/2022, de 2 de agosto",
+    "subject": "oratoria",
+    "subject_name": "Oratoria y Escritura",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Leer, comprender, interpretar y valorar con conciencia crítica los discursos de",
+            "description": "Leer, comprender, interpretar y valorar con conciencia crítica los discursos de grandes oradores de la historia y de la actualidad, analizando los elementos propios de la argumentación, para constatar la importancia del lenguaje, tanto en su dimensió…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Reconocer, diferenciar y valorar la comunicación verbal y no verbal, sus elementos, características y usos aplicados en los discursos de grandes oradores de la historia y de la actualidad a partir del análisis de los elementos propios de la argumentación y de la persuasión, utilizando un lenguaje oral y\/o escrito específico."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Comentar discursos persuasivos de manera crítica, de forma individual o colectiva, oral y\/o escrita, apoyándose en distintos soportes, que sirvan, además, para generar conversaciones y debate en el aula que valoren la repercusión social de los mismos. Consolidar e incorporar activamente a la práctica personal la competencia para la comunicación verbal y no verbal, conociendo y valorando el proceso que contribuye a captar y mantener la atención del auditorio a través del diálogo y de argumentaciones razonadas y documentadas, para hablar en público y comunicar eficazmente."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Consolidar e incorporar activamente a la práctica personal la competencia para",
+            "description": "Consolidar e incorporar activamente a la práctica personal la competencia para la comunicación verbal y no verbal, conociendo y valorando el proceso que contribuye a captar y mantener la atención del auditorio a través del diálogo y de argumentacione…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Expresarse oralmente de forma eficaz, por medio del diálogo y la argumentación razonada y documentada, pronunciando con corrección, claridad y expresividad, y apoyándose en un buen uso de la dicción a través del ritmo, el volumen o el tono, entre otros aspectos."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Utilizar el lenguaje corporal, el espacio y la presencia escénica como códigos comunicativos para ensalzar la expresividad y la eficacia del discurso ante un público, dejando espacio también a la improvisación y espontaneidad para captar y mantener la atención del auditorio. Producir textos formales e informales, literarios y no literarios, pensados para su presentación oral, atendiendo a las convenciones propias de los géneros discursivos expositivos y argumentativos, para desarrollar la capacidad de estructurar los mensajes orales e intervenir de manera activa e informada en diferentes contextos sociales, transmitiendo y expresando las ideas y contenidos con fluidez, claridad, coherencia, corrección y un registro adecuado."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Producir textos formales e informales, literarios y no literarios, pensados",
+            "description": "Producir textos formales e informales, literarios y no literarios, pensados para su presentación oral, atendiendo a las convenciones propias de los géneros discursivos expositivos y argumentativos, para desarrollar la capacidad de estructurar los men…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Elegir, estructurar, expresar y valorar, de forma crítica, ordenada y eficaz, las ideas, tipos de argumentos y estrategias argumentativas más convenientes en la preparación, producción y presentación del discurso."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Expresarse con propiedad, corrección, claridad y creatividad comunicando un mensaje breve y claro que funcione como núcleo del discurso."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Adecuar la creación y el diseño del discurso a las características del género textual escogido, fundamentalmente el argumentativo, a través de los elementos de la comunicación (emisor, receptor, mensaje, canal, código y contexto)."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Escribir con coherencia, adecuación y cohesión textos propios de un ámbito formal, especialmente aquellos relacionados con el futuro académico o profesional del alumnado."
+                },
+                {
+                    "code": "3.5",
+                    "description": "Desarrollar e incorporar a la práctica individual diferentes técnicas de escritura creativa. Conocer mejor, adquirir, analizar y emplear de forma ética los recursos disponibles dentro y fuera de la red, así como una serie de herramientas propias del entorno digital, evaluando su fiabilidad y pertinencia en función de los objetivos de comunicación y evitando los riesgos de manipulación y desinformación, para incorporarlos a la preparación, construcción y posterior presentación oral valorando, también, la importancia de la propiedad intelectual."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Conocer mejor, adquirir, analizar y emplear de forma ética los recursos",
+            "description": "Conocer mejor, adquirir, analizar y emplear de forma ética los recursos disponibles dentro y fuera de la red, así como una serie de herramientas propias del entorno digital, evaluando su fiabilidad y pertinencia en función de los objetivos de comunic…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Reconocer y seleccionar con espíritu crítico y ético distintas fuentes de información propias de un entorno analógico y\/o digital, organizando y utilizando dicha información para profundizar en el conocimiento del tema del discurso."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Utilizar programas y aplicaciones informáticas y audiovisuales en la preparación, producción y presentación del discurso a fin de potenciar el significado y expresividad del mismo."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Citar y mencionar convenientemente las fuentes de procedencia de la información seleccionada y empleada en un discurso oral o escrito (bibliografía y webgrafía). Gestionar y dominar las emociones, miedos e inseguridades ante una situación de presentación oral, promoviendo estrategias de gestión de incertidumbre, haciendo hincapié en las fortalezas y debilidades, trabajando las habilidades sociales y logrando el control consciente de las emociones, para favorecer el desarrollo personal y la formación de personas capaces de pensar por sí mismas y actuar por convicción personal, con objetividad, sentido crítico y autocrítico, y capacidad creativa y de improvisación."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Gestionar y dominar las emociones, miedos e inseguridades ante una situación de",
+            "description": "Gestionar y dominar las emociones, miedos e inseguridades ante una situación de presentación oral, promoviendo estrategias de gestión de incertidumbre, haciendo hincapié en las fortalezas y debilidades, trabajando las habilidades sociales y logrando …",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Comprender y valorar la capacidad del ser humano para influir de manera consciente y voluntaria en la construcción de su propia personalidad a través de la oratoria, conforme a valores éticos, potenciando la asertividad y mejorando su autoestima."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Favorecer las emociones positivas y controlar las emociones negativas en la exposición ante el público que pudieran derivar en miedo escénico. Desarrollar y valorar la capacidad de trabajar en equipo, fomentando la cooperación, en contextos orales plurales (tales como un debate, cumbre o congreso), con actitud tolerante, solidaria y empática, alejada de estereotipos y prejuicios, para promover los valores democráticos y la construcción de un sistema de valores éticos basados en el respeto, la corresponsabilidad y el rechazo de cualquier tipo de violencia."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Desarrollar y valorar la capacidad de trabajar en equipo, fomentando la",
+            "description": "Desarrollar y valorar la capacidad de trabajar en equipo, fomentando la cooperación, en contextos orales plurales (tales como un debate, cumbre o congreso), con actitud tolerante, solidaria y empática, alejada de estereotipos y prejuicios, para promo…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Elaborar textos para intervenir en ámbitos de participación social, reales o simulados, cooperando y con respeto por las normas de convivencia y procurando la resolución pacífica de conflictos."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Desarrollar las relaciones interpersonales y la propia personalidad gracias al uso cívico de la palabra."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Autoevaluar y coevaluar los discursos y producciones trabajados y elaborados en el aula que podrán ser objeto de revisiones, correcciones y mejoras."
+                }
+            ]
+        }
+    ]
+}

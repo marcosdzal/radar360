@@ -1,0 +1,120 @@
+{
+    "community": "baleares",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "tecnologia_ingenieria_1",
+    "subject_name": "Tecnología e Ingeniería I",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Coordinar i desenvolupar projectes de recerca amb actitud critica i",
+            "description": "coordinar i desenvolupar projectes de recerca amb actitud critica i emprenedora, implementant estratègies i tècniques eficients de resolució de problemes i comunicant els resultats de manera adequada, per crear i millorar productes i sistemes de mane…",
+            "criterios": [
+                {
+                    "code": "CA1.1",
+                    "description": "Investigar i dissenyar projectes que mostrin de manera gràfica la creació i la millora d'un producte, seleccionant, referenciant i interpretant la informació relacionada. Cercar informació aplicada al disseny gràfic de projectes. Interpretar i analitzar la informació obtinguda en la recerca, amb esperit crític, per plantejar solucions noves o extreure conclusions. Referenciar i citar les fonts d'informació emprades, fent ús de normes estàndard."
+                },
+                {
+                    "code": "CA1.2",
+                    "description": "Participar en el desenvolupament, la gestió i la coordinació de projectes de creació i millora contínua de productes viables i socialment responsables, identificant millores i creant prototips mitjançant un procés iteratiu, amb actitud crítica, creativa i emprenedora. Participar i interactuar activament en el desenvolupament de projectes. Gestionar i coordinar projectes de manera pautada i seqüenciada, prenent acords a nivell individual i grupal i emprant fulls de processos. Crear, fabricar i millorar prototips dels productes tecnològics generats, seguint un procés iteratiu de revisió constant amb actitud crítica, sostenible, creativa i emprenedora."
+                },
+                {
+                    "code": "CA1.3",
+                    "description": "Col·laborar en tasques tecnològiques, escoltant el raonament dels altres, aportant a l'equip a través del rol assignat i fomentant el benestar grupal i les relacions saludables i inclusives. Organitzar equips de treball heterogenis, per desenvolupar tasques tecnològiques. Debatre sobre l'assignació dels diferents rols a un equip de treball. Respectar les aportacions de l'equip, animant a seguir en una mateixa línea de treball definida. Fomentar la cooperació en les diferents tasques entre els membres de l'equip de treball. Fomentar relacions saludables i inclusives."
+                },
+                {
+                    "code": "CA1.4",
+                    "description": "Elaborar documentació tècnica amb precisió i rigor, generant diagrames funcionals i utilitzant mitjans manuals i aplicacions digitals. Confeccionar documentació tècnica, de manera planificada i estructurada, amb un índex o esquema preliminar. Utilitzar un llenguatge clar, precís i sense ambigüitats, adoptant un estil formal i professional per elaborar la documentació tècnica. Generar diagrames de blocs funcionals, visualment clars, per representar processos funcionals dels projectes a la documentació tècnica. Combinar mitjans manuals amb aplicacions digitals per millorar la precisió i la presentació de la documentació."
+                },
+                {
+                    "code": "CA1.5",
+                    "description": "Comunicar de manera eficaç i organitzada les idees i solucions tecnològiques, emprant el suport, la terminologia i el rigor apropiats. Expressar idees i solucions tecnològiques de forma precisa i ordenada utilitzant vocabulari tècnic mitjançant el suport necessari i de forma adequada."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Seleccionar materials i elaborar estudis d'impacte, aplicant-hi criteris",
+            "description": "seleccionar materials i elaborar estudis d'impacte, aplicant-hi criteris tecnics i de sostenibilitat, per fabricar productes de qualitat que donin resposta a problemes i tasques plantejats, amb un enfocament responsable i ètic.",
+            "criterios": [
+                {
+                    "code": "CA2.1",
+                    "description": "Determinar el cicle de vida d'un producte, planificant i aplicant mesures de control de qualitat en les seves diferents etapes, des del disseny a la comercialització, tenint en consideració estratègies de millora contínua. Analitzar el cicle de vida dels productes i identificar oportunitats de millora en totes les etapes, sempre tenint en compte criteris de qualitat. Analitzar i concretar com es pot millorar i controlar la qualitat d'un producte des del disseny fins a la seva comercialització i distribució."
+                },
+                {
+                    "code": "CA2.2",
+                    "description": "Seleccionar els materials, tradicionals o de nova generació, adequats per fabricar productes de qualitat basant-se en les seves característiques tècniques i tenint en compte criteris de sostenibilitat de manera responsable i ètica. Analitzar les característiques tècniques dels diferents materials que es poden fer servir per fabricar objectes tecnològics. Seleccionar els materials més adients per fabricar productes, segons les característiques tècniques i propietats. Seleccionar, amb criteris de sostenibilitat i d'obtenció ètica i responsable, els materials adequats."
+                },
+                {
+                    "code": "CA2.3",
+                    "description": "Fabricar models o prototips emprant les tècniques de fabricació més adequades i aplicant els criteris tècnics i de sostenibilitat necessaris. Analitzar les tècniques de construcció més adients per fabricar productes. Seleccionar les tècniques de fabricació, amb criteris de sostenibilitat de forma ètica i responsable. Construir amb tècniques adients els models, prototips o altres productes necessaris."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Utilitzar les eines digitals adequades, analitzar-ne les seves possibilitats,",
+            "description": "utilitzar les eines digitals adequades, analitzar-ne les seves possibilitats, configurar-les d'acord amb les necessitats i aplicar-hi coneixements interdisciplinaris, per resoldre tasques, com també per realitzar la presentació dels resultats de mane…",
+            "criterios": [
+                {
+                    "code": "CA3.1",
+                    "description": "Resoldre tasques proposades i funcions assignades, mitjançant l'ús i configuració de diferents eines digitals de manera òptima i autònoma. Utilitzar eines digitals adients per solucionar diferents tasques i funcions assignades. Configurar i optimitzar els recursos digitals."
+                },
+                {
+                    "code": "CA3.2",
+                    "description": "Realitzar la presentació de projectes emprant eines digitals adequades. Presentar els projectes utilitzant eines digitals adequades de difusió. Elaborar presentacions de forma autònoma. Gestionar els recursos adequats."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Generar coneixements i millorar destreses tecniques, transferint i aplicant",
+            "description": "generar coneixements i millorar destreses tecniques, transferint i aplicant sabers d'altres disciplines científiques amb actitud creativa, per calcular i resoldre problemes o donar resposta a necessitats dels diferents àmbits de l'enginyeria. La reso…",
+            "criterios": [
+                {
+                    "code": "CA4.1",
+                    "description": "Resoldre problemes associats a sistemes i instal·lacions mecàniques, aplicant fonaments de mecanismes de transmissió i transformació de moviments, suport i unió al desenvolupament de muntatges o simulacions. Calcular i resoldre problemes envers els diferents mecanismes de transmissió i transformació de moviments. Resoldre problemes sobre suport i unió de muntatges tenint present l'ajustament i tolerància. Simular els diferents mecanismes de transmissió i transformació."
+                },
+                {
+                    "code": "CA4.2",
+                    "description": "Resoldre problemes associats a sistemes i instal·lacions elèctriques i electròniques, aplicant fonaments de corrent continu i màquines elèctriques al desenvolupament de muntatges o simulacions. Resoldre problemes d'instal·lacions elèctriques i electròniques. Aplicar els fonaments de corrent continu i màquines elèctriques al desenvolupament de muntatges o simulacions."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Dissenyar, crear i avaluar sistemes tecnologics, aplicant coneixements de",
+            "description": "dissenyar, crear i avaluar sistemes tecnologics, aplicant coneixements de programacio informàtica, regulació automàtica i control, com també les possibilitats que ofereixen les tecnologies emergents, per estudiar, controlar i automatitzar tasques.",
+            "criterios": [
+                {
+                    "code": "CA5.1",
+                    "description": "Controlar el funcionament de sistemes tecnològics i robòtics, utilitzant llenguatges de programació informàtica i aplicant les possibilitats que ofereixen les tecnologies emergents, com ara intel·ligència artificial, internet de les coses, dades massives (big data). Descompondre problemes en diferents fases amb patrons repetitius per resoldre problemes tecnològics de manera estructurada. Programar en diferents llenguatges, tant en codi com en blocs. Reconèixer els diferents sistemes i elements de control com també els de retroalimentació i reguladors de control. Extreure i gestionar informació de bases de dades i dades massives. Simular escenaris amb l'ajuda de la intel·ligència artificial, analitzant de forma crítica la informació gestionada."
+                },
+                {
+                    "code": "CA5.2",
+                    "description": "Automatitzar, programar i avaluar moviments de robots, mitjançant la modelització, l'aplicació d'algorismes senzills i l'ús d'eines informàtiques. Crear models matemàtics o simulacions virtuals de robots. Utilitzar algorismes senzills per guiar els moviments i les decisions dels robots amb eficàcia i precisió. Utilitzar programari informàtic especialitzat per programar i controlar els robots, mitjançant codificació o blocs gràfics."
+                },
+                {
+                    "code": "CA5.3",
+                    "description": "Conèixer i comprendre conceptes bàsics de programació textual, mostrant el progrés pas a pas de l'execució d'un programa a partir d'un estat inicial i predient el seu estat final després de l'execució. Valorar la utilitat dels llenguatges de programació textuals i les estructures bàsiques de dades. Executar un programa des del començament fins al final, pas a pas i revisar els errors. Predir com es modificaran les variables i quin serà el resultat final del programa després de d'haver seguit l'execució."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Analitzar i comprendre sistemes tecnologics dels diferents ambits de",
+            "description": "analitzar i comprendre sistemes tecnologics dels diferents ambits de l'enginyeria, estudiant-ne les característiques, el consum i l'eficiència energètica, per avaluar l'ús responsable i sostenible que es fa de la tecnologia. L'objectiu que persegueix…",
+            "criterios": [
+                {
+                    "code": "CA6.1",
+                    "description": "Avaluar els diferents sistemes de generació d'energia elèctrica i mercats energètics, estudiant les característiques, calculant les magnituds i valorant-ne l'eficiència. Analitzar les característiques dels sistemes de generació d'energia elèctrica i les seves magnituds. Calcular l'eficiència dels sistemes productors d'energia, cogeneració i rendiments. Comparar i avaluar els mercats energètics."
+                },
+                {
+                    "code": "CA6.2",
+                    "description": "Analitzar les diferents instal·lacions d'un habitatge des del punt de vista de l'eficiència energètica, buscant les opcions més compromeses amb la sostenibilitat i fomentant l'ús responsable d'aquestes. Analitzar l'eficiència de les instal·lacions d'un habitatge. Proposar models d'habitatges amb instal·lacions eficients i sostenibles. Emprar de manera responsable les instal·lacions d'un habitatge."
+                }
+            ]
+        }
+    ]
+}

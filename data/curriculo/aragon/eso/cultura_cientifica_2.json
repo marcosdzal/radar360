@@ -1,0 +1,142 @@
+{
+    "community": "aragon",
+    "stage": "eso",
+    "decree": "Orden ECD\/1172\/2022, de 2 de agosto",
+    "subject": "cultura_cientifica",
+    "subject_name": "Cultura Científica",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Reconocer los motivos por los que ocurren los principales fenómenos naturales,",
+            "description": "Reconocer los motivos por los que ocurren los principales fenómenos naturales, a partir de situaciones cotidianas, y explicarlos en términos de las leyes y teorías científicas adecuadas. La esencia del pensamiento científico es comprender cuáles son …",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Diferenciar entre explicaciones científicas y no científicas de los fenómenos naturales."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Explicar los fenómenos naturales más relevantes en términos de principios, teorías y leyes científicos adecuados como estrategia en la toma de decisiones fundamentadas."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Identificar, localizar y seleccionar información, contrastando su veracidad,",
+            "description": "Identificar, localizar y seleccionar información, contrastando su veracidad, organizándola y evaluándola críticamente para resolver preguntas relacionadas con las ciencias y con su impacto en la vida cotidiana y en el desarrollo de la sociedad La par…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Resolver cuestiones y profundizar en aspectos relacionados con los saberes del ámbito de la ciencia localizando, seleccionando, organizando y analizando críticamente la información de distintas fuentes citándolas con respeto por la propiedad intelectual."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Contrastar la veracidad de la información sobre temas relacionados con los saberes del ámbito de la ciencia utilizando fuentes fiables adoptando una actitud crítica y escéptica hacia informaciones sin una base científica como pseudociencias, teorías conspiratorias, creencias infundadas, bulos, etc."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Interpretar y transmitir información y datos científicos, y argumentar sobre",
+            "description": "Interpretar y transmitir información y datos científicos, y argumentar sobre ellos utilizando diferentes formatos y utilizando lenguaje verbal o gráfico apropiado, para adquirir y afianzar conocimientos y analizar conceptos y procesos del entorno soc…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Analizar conceptos y procesos relacionados con los saberes científicos interpretando información en diferentes formatos (modelos, gráficos, tablas, diagramas, fórmulas, esquemas, símbolos, páginas web...), manteniendo una actitud crítica, obteniendo conclusiones y formando opiniones propias fundamentadas."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Facilitar la comprensión y análisis de opiniones propias fundamentadas y de información relacionada con los saberes del ámbito de las ciencias, transmitiéndola de forma clara y rigurosa utilizando la terminología y el formato adecuados (modelos, gráficos, tablas, vídeos, informes, diagramas, fórmulas, esquemas, símbolos, contenidos digitales...)."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Analizar y explicar fenómenos científicos representándolos mediante el diseño y la realización de modelos y diagramas, utilizando, cuando sea necesario, los pasos del diseño de ingeniería (identificación del problema, exploración, diseño, creación, evaluación y mejora."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Utilizar el razonamiento, el pensamiento y las prácticas científicas",
+            "description": "Utilizar el razonamiento, el pensamiento y las prácticas científicas, para resolver problemas o dar explicación a procesos de la vida cotidiana relacionados con la ciencia, analizando críticamente las respuestas y soluciones y reformulando el procedi…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Resolver problemas o dar explicación a procesos científicos utilizando conocimientos, datos e información aportados, el razonamiento lógico, el pensamiento computacional o recursos digitales."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Analizar críticamente la solución a un problema sobre fenómenos científicos y cambiar los procedimientos utilizados o conclusiones si dicha solución no fuese viable o ante nuevos datos aportados con posterioridad."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Utilizar de forma crítica, eficiente y segura plataformas digitales y recursos",
+            "description": "Utilizar de forma crítica, eficiente y segura plataformas digitales y recursos variados, tanto para el trabajo individual como en equipo, para fomentar la creatividad, el desarrollo personal y el aprendizaje individual y social, mediante la consulta …",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Utilizar de forma eficiente recursos variados, tradicionales y digitales, para mejorar la interacción con otros miembros de la comunidad educativa, de forma rigurosa y respetuosa y analizando críticamente las aportaciones de todos."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Trabajar de forma versátil con medios variados, tradicionales y digitales, en la consulta de información y la creación de contenidos, seleccionando y empleando con criterio las fuentes y herramientas más fiables y desechando las menos adecuadas para la mejora del aprendizaje propio y colectivo."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Utilizar las estrategias propias del trabajo colaborativo que permitan",
+            "description": "Utilizar las estrategias propias del trabajo colaborativo que permitan potenciar el crecimiento entre iguales como base emprendedora de una comunidad científica crítica, ética y eficiente, para comprender la importancia de la ciencia en la mejora de …",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Establecer interacciones constructivas y coeducativas emprendiendo actividades de cooperación e iniciando el uso de las estrategias propias del trabajo colaborativo, como forma de construir un medio de trabajo eficiente en la ciencia."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Emprender, de forma autónoma y de acuerdo a la metodología adecuada, proyectos científicos que involucren al alumnado en la mejora de la sociedad y que creen valor para el individuo y para la comunidad."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Analizar los efectos de determinadas acciones sobre la salud, el medio ambiente",
+            "description": "Analizar los efectos de determinadas acciones sobre la salud, el medio ambiente natural y social y el patrimonio cultural, basándose en los fundamentos científicos, para promover, adoptar y valorar hábitos que mejoren la salud individual y colectiva,…",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Relacionar con fundamentos científicos la preservación de la biodiversidad, la conservación del medio ambiente, la protección de los seres vivos del entorno, el desarrollo sostenible, la calidad de vida y el patrimonio cultural."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Proponer y adoptar hábitos sostenibles analizando de una manera crítica las actividades propias y ajenas y basándose en los propios razonamientos, conocimientos adquiridos e información disponible."
+                },
+                {
+                    "code": "7.3",
+                    "description": "Evaluar los efectos de determinadas acciones individuales sobre el organismo y el medio natural y social y proponer hábitos saludables y sostenibles basados en los conocimientos adquiridos y la información disponible."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Comprender y valorar la ciencia como una construcción colectiva en continuo",
+            "description": "Comprender y valorar la ciencia como una construcción colectiva en continuo cambio y evolución, en la que no solo participan las personas dedicadas a la ciencia, sino que también requiere de una interacción con el resto de la sociedad, para obtener r…",
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Justificar la contribución de la ciencia a la sociedad y la labor de los hombres y mujeres dedicados a su desarrollo, entendiendo la investigación como una labor colectiva en constante evolución fruto de la interacción entre la ciencia, la tecnología, la sociedad y el medio ambiente."
+                },
+                {
+                    "code": "8.2",
+                    "description": "Reconocer y valorar, a través del análisis histórico de los avances científicos logrados por mujeres y hombres y de situaciones y contextos actuales (líneas de investigación, instituciones científicas y hombres y mujeres en ellas, aplicaciones directas, etc.), que la ciencia es un proceso en permanente construcción y las repercusiones e implicaciones sociales, económicas y medioambientales de la ciencia actual en la sociedad."
+                },
+                {
+                    "code": "8.3",
+                    "description": "Detectar las necesidades tecnológicas, ambientales, económicas y sociales más importantes que demanda la sociedad para entender la capacidad de la ciencia para darles solución sostenible a través de la implicación de toda la ciudadanía."
+                }
+            ]
+        }
+    ]
+}

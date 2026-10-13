@@ -1,0 +1,113 @@
+{
+    "community": "murcia",
+    "stage": "eso",
+    "decree": "",
+    "subject": "educacion_fisica",
+    "subject_name": "Educación Física",
+    "grade": 3,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Adoptar un estilo de vida activo y saludable, seleccionando e incorporando",
+            "description": "Adoptar un estilo de vida activo y saludable, seleccionando e incorporando intencionalmente actividades físicas y deportivas en las rutinas diarias a partir de un análisis crítico de los modelos corporales y del rechazo de las prácticas que carezcan …",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Diseñar y estructurar rutinas de ejercicio físico personalizadas, basándose en una autoevaluación previa de la condición física y orientándolas hacia la mejora de la salud."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Integrar hábitos de calentamiento, hidratación, higiene y postura correcta de forma autónoma durante las sesiones de actividad física para mejorar el bienestar personal."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Aplicar medidas de prevención de lesiones de forma autónoma antes, durante y después de la actividad física, identificando riesgos potenciales en el entorno deportivo."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Aplicar protocolos de actuación ante accidentes en la práctica físico-deportiva, ejecutando técnicas básicas de primeros auxilios de forma segura y eficaz."
+                },
+                {
+                    "code": "1.5",
+                    "description": "Analizar críticamente hábitos perjudiciales para la salud y la convivencia, identificando sus consecuencias y proponiendo alternativas saludables y respetuosas en el entorno deportivo y cotidiano."
+                },
+                {
+                    "code": "1.6",
+                    "description": "Diseñar y ejecutar un plan de actividad física diaria utilizando aplicaciones digitales para registrar el progreso y compartirlo de forma segura con los compañeros."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Adaptar, con progresiva autonomía en su ejecución, las capacidades físicas,",
+            "description": "Adaptar, con progresiva autonomía en su ejecución, las capacidades físicas, perceptivo-motrices y coordinativas, así como las habilidades y destrezas motrices, aplicando procesos de percepción, decisión y ejecución adecuados a la lógica interna y a l…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Diseñar y ejecutar proyectos motores individuales o grupales, ajustando el proceso mediante la autoevaluación y la coevaluación para mejorar tanto el trabajo realizado como el resultado final."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Tomar decisiones tácticas acertadas en juegos y deportes, anticipándose a las acciones de compañeros y oponentes para resolver situaciones de juego de forma eficaz."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Resolver problemas motrices con eficiencia y creatividad, demostrando dominio corporal y autonomía en situaciones físicas, deportivas o expresivas vinculadas a su realidad cotidiana."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Compartir espacios de práctica físico-deportiva con independencia de las",
+            "description": "Compartir espacios de práctica físico-deportiva con independencia de las diferencias culturales, sociales, de género y de habilidad, priorizando el respeto entre participantes y a las reglas sobre los resultados, adoptando una actitud crítica ante co…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Participar en diversas actividades motrices mostrando deportividad, respetando las normas y asumiendo diferentes roles con una actitud ética y sin competitividad excesiva."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Trabajar en equipo en actividades físicas para lograr objetivos comunes, tomando decisiones conjuntas y cumpliendo con las funciones y responsabilidades asignadas a cada rol."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Aplicar habilidades sociales y diálogo para resolver conflictos, respetando la diversidad y rechazando activamente cualquier tipo de discriminación o violencia en las actividades físicas."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Practicar, analizar y valorar distintas manifestaciones de la cultura motriz",
+            "description": "Practicar, analizar y valorar distintas manifestaciones de la cultura motriz aprovechando las posibilidades y recursos expresivos que ofrecen el cuerpo y el movimiento y profundizando en las consecuencias del deporte como fenómeno social, analizando …",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Organizar y participar en juegos tradicionales y actividades expresivas de diversas culturas, comprendiendo su origen histórico y su importancia social en la actualidad."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Identificar y describir las características de diversos deportes analizando de forma crítica los estereotipos de género y capacidad asociados a su práctica habitual."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Diseñar y representar coreografías o escenas de expresión corporal, utilizando el cuerpo de forma creativa y autónoma para comunicar mensajes con o sin música."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Adoptar un estilo de vida sostenible y ecosocialmente responsable aplicando",
+            "description": "Adoptar un estilo de vida sostenible y ecosocialmente responsable aplicando medidas de seguridad individuales y colectivas en la práctica físico-deportiva según el entorno y desarrollando colaborativa y cooperativamente acciones de servicio a la comu…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Participar en actividades físicas en el medio natural o urbano, aplicando prácticas sostenibles para minimizar el impacto ambiental y reducir la huella ecológica personal."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Realizar actividades físicas en entornos naturales o urbanos cumpliendo los protocolos de seguridad y respetando el medio ambiente para fomentar hábitos sostenibles."
+                }
+            ]
+        }
+    ]
+}

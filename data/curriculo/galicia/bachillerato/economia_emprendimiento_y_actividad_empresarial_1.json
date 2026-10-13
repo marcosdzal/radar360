@@ -1,0 +1,104 @@
+{
+    "community": "galicia",
+    "stage": "bachillerato",
+    "decree": "Decreto 157\/2022, de 15 de septiembre",
+    "subject": "economia_emprendimiento_y_actividad_empresarial",
+    "subject_name": "Economía, Emprendimiento y Actividad Empresarial",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Analizar de forma crítica y reflexiva las aportaciones de la ciencia económica,",
+            "description": "Analizar de forma crítica y reflexiva las aportaciones de la ciencia económica, valorando su interrelación con otras disciplinas, para entender la realidad desde una visión integral y actuar como ciudadanos responsables, autónomos y comprometidos. - …",
+            "criterios": [
+                {
+                    "code": "CE1.1",
+                    "description": "Entender la realidad partiendo del análisis crítico y reflexivo sobre las aportaciones que ofrece la ciencia económica y valorando su interrelación con otras disciplinas, de modo que el alumnado adquiera una visión integral de esta y asuma responsabilidades y compromisos."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Analizar, desde un enfoque interdisciplinario, el comportamiento tanto",
+            "description": "Analizar, desde un enfoque interdisciplinario, el comportamiento tanto individual como colectivo en la toma de decisiones económicas, evaluando el problema de la escasez y sus efectos, para comprender los cambios económicos y sociales derivados de di…",
+            "criterios": [
+                {
+                    "code": "CE1.2",
+                    "description": "Comprender los cambios económicos y sociales desde un análisis interdisciplinario sobre el comportamiento humano en el proceso de toma de decisiones y evaluando el problema de la escasez y sus efectos, estimulando al alumnado para actuar en consecuencia."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Establecer correspondencias entre los objetivos de desarrollo sostenible y los",
+            "description": "Establecer correspondencias entre los objetivos de desarrollo sostenible y los aprendizajes adquiridos a través del estudio de casos reales, analizándolos con ayuda de herramientas económicas y empresariales para generar una actitud sensible y un com…",
+            "criterios": [
+                {
+                    "code": "CE1.3",
+                    "description": "Generar actitudes sensibles y comportamientos responsables y proactivos que contribuyan a dar respuesta a los retos actuales a partir del estudio de casos reales estableciendo correspondencias entre la realidad mundial y los aprendizajes adquiridos."
+                },
+                {
+                    "code": "CE1.4",
+                    "description": "Tomar conciencia de los problemas mundiales analizándolos a través de herramientas económicas y empresariales."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Identificar y valorar habilidades y competencias que caracterizan a las",
+            "description": "Identificar y valorar habilidades y competencias que caracterizan a las personas emprendedoras dentro de la realidad actual, analizando sus perfiles y su forma de afrontar los retos, para reconocer y potenciar las destrezas emprendedoras propias y ap…",
+            "criterios": [
+                {
+                    "code": "CE2.1",
+                    "description": "Reconocer y potenciar las destrezas emprendedoras propias, identificando y valorando previamente las habilidades que poseen personas emprendedoras reales y analizando sus competencias a la hora de afrontar los retos que se les presentan."
+                },
+                {
+                    "code": "CE2.2",
+                    "description": "Afrontar retos sencillos de la vida cotidiana aplicando las destrezas propias que caracterizan a una persona emprendedora."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Comprender las estrategias empresariales, analizando su evolución y",
+            "description": "Comprender las estrategias empresariales, analizando su evolución y distinguiendo los nuevos modelos de negocio desarrollados por entidades vinculadas a diferentes ámbitos y sectores, para identificar la filosofía de las empresas, reconocer las tende…",
+            "criterios": [
+                {
+                    "code": "CE2.3",
+                    "description": "Conocer la evolución en la gestión de grupos y relaciones humanas en la empresa, comprendiendo y valorando las tendencias actuales."
+                },
+                {
+                    "code": "CE3.1",
+                    "description": "Reconocer las tendencias e identificar la filosofía de las empresas comprendiendo las estrategias empresariales llevadas a cabo por distintas entidades y analizando su evolución, así como los modelos de negocio desarrollados valorando, con sentido crítico, su actividad empresarial."
+                },
+                {
+                    "code": "CE3.2",
+                    "description": "Distinguir los nuevos modelos de negocio desarrollados por entidades pertenecientes a diversos sectores y ámbitos analizando sus posibilidades y limitaciones en el mercado."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Analizar la transformación económica y social y sus consecuencias",
+            "description": "Analizar la transformación económica y social y sus consecuencias, reconociendo la importancia que tienen la innovación y la revolución digital en la actividad empresarial, para comprender las respuestas que las empresas ofrecen a los desafíos actual…",
+            "criterios": [
+                {
+                    "code": "CE1.5",
+                    "description": "Comprender las respuestas que ofrecen las empresas a los desafíos ambientales y retos económicos, analizando, a través de casos reales, las medidas que implementan."
+                },
+                {
+                    "code": "CE1.6",
+                    "description": "Proponer alternativas y nuevas soluciones a los desafíos ambientales y a los retos económicos actuales, analizando los efectos de la transformación económica y social y reconociendo la importancia que tienen la innovación y la revolución digital en la actividad empresarial."
+                },
+                {
+                    "code": "CE3.3",
+                    "description": "Comprender las respuestas que ofrecen las empresas a los desafíos actuales, analizando la transformación económica y social que está experimentando la sociedad."
+                },
+                {
+                    "code": "CE3.4",
+                    "description": "Proponer alternativas y nuevas soluciones a los desafíos actuales, analizando los efectos de la transformación económica y social y reconociendo la importancia que tienen la innovación y la revolución digital en la actividad empresarial."
+                }
+            ]
+        }
+    ]
+}

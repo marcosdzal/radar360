@@ -1,0 +1,299 @@
+{
+    "community": "comunidad-valenciana",
+    "stage": "eso",
+    "decree": "Decreto 107\/2022, de 5 de agosto",
+    "subject": "fisica_y_quimica_alt",
+    "subject_name": "Física i Química",
+    "grade": 4,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Resoldre problemes científics abordables en l’àmbit escolar a partir de",
+            "description": "Resoldre problemes científics abordables en l’àmbit escolar a partir de treballs d’investigació de caràcter experimental",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Investigar si una substància és simple o composta a partir de les reaccions de descomposició o síntesi a què dona lloc. Investigar experimentalment el comportament de substàncies orgàniques."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Realitzar en el laboratori síntesi de polímers."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Realitzar dissenys experimentals per al càlcul de la velocitat i l'acceleració d'un mòbil."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Realitzar dissenys experimentals per a l'estudi de la caiguda de greus."
+                },
+                {
+                    "code": "1.5",
+                    "description": "Investigar experimentalment processos ondulatoris com la reflexió i refracció de la llum."
+                },
+                {
+                    "code": "1.6",
+                    "description": "Realitzar investigacions sobre l'equilibri dels cossos rígids basant-se en la noció de centre de gravetat."
+                },
+                {
+                    "code": "1.7",
+                    "description": "Construir dispositius de transformació energètica, com motors o piles."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Analitzar i resoldre situacions problemàtiques de l’àmbit de la física i la",
+            "description": "Analitzar i resoldre situacions problemàtiques de l’àmbit de la física i la química utilitzant la lògica científica i alternant les estratègies del treball individual amb el treball en equip",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Analitzar els enunciats de les situacions plantejades i descriure la situació a la qual es pretén donar resposta, identificant les variables que hi intervenen així com el seu caràcter escalar o vectorial."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Triar, a l'hora de resoldre un determinat problema, el tipus d'estratègia més adequada, justificant-ne adequadament l'elecció."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Buscar i seleccionar la informació necessària per a la resolució de la situació en problemes amb alguns graus d'obertura."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Expressar, utilitzant el llenguatge matemàtic adequat al seu nivell, el procediment que s'ha seguit en la resolució d'un problema."
+                },
+                {
+                    "code": "2.5",
+                    "description": "Comprovar i interpretar les solucions trobades."
+                },
+                {
+                    "code": "2.6",
+                    "description": "Participar en equips de treball per a resoldre els problemes plantejats, donar suport a companys i companyes demostrant empatia i reconeixent les seues aportacions i utilitzar el diàleg igualitari per a resoldre conflictes i discrepàncies."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Utilitzar el coneixement científic com a instrument del pensament crític,",
+            "description": "Utilitzar el coneixement científic com a instrument del pensament crític, interpretant i comunicant missatges científics, desenvolupant argumentacions i accedint a fonts fiables, per a distingir la informació contrastada de les faules i opinions",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Aportar arguments consistents, coherents i congruents per a defensar una postura davant del plantejament de determinades controvèrsies científiques."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Aportar raons a favor i en contra d'una conclusió determinada. Explicitar els criteris pels quals unes teories ofereixen una millor interpretació que unes altres davant d'un fenomen determinat."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Utilitzar estratègies de filtratge per a seleccionar informació en mitjans digitals, identificant les fonts de les quals procedeix i aportant raons per a descartar les fonts no fiables."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Justificar la validesa del model científic com a producte dinàmic que es va",
+            "description": "Justificar la validesa del model científic com a producte dinàmic que es va revisant i reconstruint sota la influència del context social i històric, atenent la importància de la ciència en l’avanç de les societats, així com els riscos d’un ús inadeq…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Descriure les causes per les quals es produeix en el segle XX un moment propici per al desenvolupament dels models atòmics."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Descriure el desenvolupament i la importància de les societats científiques i el seu reconeixement social."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Descriure el paper dels i les científiques en els conflictes bèl·lics, establint com afecten aquests al desenvolupament de la ciència i discutint postures ètiques."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Analitzar alguns fenòmens naturals i predir el seu comportament utilitzant",
+            "description": "Analitzar alguns fenòmens naturals i predir el seu comportament utilitzant models de la física i la química per a poder identificar-los, caracteritzar-los i explicar altres fenòmens nous",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Utilitzar el model atòmic de Thomson per a explicar els fenòmens d'electrització i la formació d'ions."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Utilitzar el model atòmic de Rutherford per a explicar l'existència d'isòtops i alguns fenòmens radioactius."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Utilitzar el model d'interacció física per a explicar les forces i els canvis en el moviment."
+                },
+                {
+                    "code": "5.4",
+                    "description": "Utilitzar el model d'energia per a explicar alguns fenòmens ondulatoris."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Utilitzar adequadament el llenguatge científic propi de la física i la química",
+            "description": "Utilitzar adequadament el llenguatge científic propi de la física i la química en la interpretació i transmissió d’informació",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Reconéixer la terminologia conceptual pròpia de l'àrea i utilitzar-la correctament en activitats orals i escrites."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Llegir textos, tant argumentatius com expositius, en formats diversos propis de l'àrea utilitzant les estratègies de comprensió lectora per a obtindre informació i aplicar-la en la reflexió sobre el contingut."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Escriure textos argumentatius propis de l'àrea en diversos formats i suports, cuidant els seus aspectes formals, aplicant les normes de correcció ortogràfica i gramatical, per a transmetre de forma organitzada els seus coneixements amb un llenguatge no discriminatori."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Interpretar correctament la informació presentada en diferents formats de",
+            "description": "Interpretar correctament la informació presentada en diferents formats de representació gràfica i simbòlica utilitzats habitualment en la física i la química",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Representar gràficament les forces que actuen sobre un cos en una dimensió."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Relacionar les magnituds de velocitat, acceleració i força amb una expressió matemàtica i aplicar correctament les principals equacions."
+                },
+                {
+                    "code": "7.3",
+                    "description": "Distingir clarament entre les unitats de velocitat i acceleració, així com entre magnituds lineals i angulars."
+                },
+                {
+                    "code": "7.4",
+                    "description": "Utilitzar un sistema de referència per a representar els elements del moviment mitjançant vectors, justificant la relativitat del moviment i classificant els moviments per les seues característiques."
+                },
+                {
+                    "code": "7.5",
+                    "description": "Emprar les representacions gràfiques de posició i velocitat en funció del temps per a deduir la velocitat mitjana i instantània i justificar si un moviment és accelerat o no."
+                },
+                {
+                    "code": "7.6",
+                    "description": "Emprar les representacions gràfiques d'espai i velocitat en funció del temps per a deduir la velocitat mitjana i instantània i justificar si un moviment és accelerat o no."
+                },
+                {
+                    "code": "7.7",
+                    "description": "Representar mitjançant equacions les transformacions de la matèria de manera consistent amb el principi de conservació de la matèria."
+                },
+                {
+                    "code": "7.8",
+                    "description": "Escriure fórmules senzilles dels compostos de carboni."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Distingir les diferents manifestacions de l’energia i identificar-ne les formes",
+            "description": "Distingir les diferents manifestacions de l’energia i identificar-ne les formes de transmissió i la seua conservació i dissipació en contextos pròxims",
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Diferenciar entre treball mecànic i treball fisiològic. Explicar que el treball consisteix en la transmissió d'energia d'un cos a un altre mitjançant una força que desplaça el seu punt d'aplicació. Identificar la potència amb la rapidesa amb què es fa un treball i explicar la importància d'aquesta magnitud en la indústria i la tecnologia."
+                },
+                {
+                    "code": "8.2",
+                    "description": "Relacionar la variació d'energia mecànica que ha tingut lloc en un procés amb el treball amb què s'ha realitzat. Aplicar de manera correcta el principi de conservació de l'energia en l'àmbit de la mecànica."
+                },
+                {
+                    "code": "8.3",
+                    "description": "Explicar les característiques fonamentals dels moviments ondulatoris. Identificar fets reals en els quals es manifeste un moviment ondulatori."
+                },
+                {
+                    "code": "8.4",
+                    "description": "Relacionar la formació d'una ona amb la propagació de la pertorbació que l'origina."
+                },
+                {
+                    "code": "8.5",
+                    "description": "Indicar les característiques que han de tindre els sons per a ser audibles. Descriure la naturalesa de l'emissió sonora."
+                }
+            ]
+        },
+        {
+            "code": "CE9",
+            "name": "Identificar i caracteritzar les substàncies a partir de les seues propietats",
+            "description": "Identificar i caracteritzar les substàncies a partir de les seues propietats físiques per a relacionar els materials del nostre entorn amb l’ús que se’n fa",
+            "criterios": [
+                {
+                    "code": "9.1",
+                    "description": "Identificar hidrocarburs senzills i representar-los mitjançant la seua fórmula molecular, descrivint les seues aplicacions, i reconéixer els grups funcionals presents en molècules d'especial interés."
+                },
+                {
+                    "code": "9.2",
+                    "description": "Justificar la gran quantitat de compostos orgànics existents, així com la formació de macromolècules i la seua importància en els éssers vius."
+                },
+                {
+                    "code": "9.3",
+                    "description": "Descriure algunes de les principals substàncies químiques aplicades en diversos àmbits de la societat: agrícola, alimentari, construcció i industrial."
+                },
+                {
+                    "code": "9.4",
+                    "description": "Explicar les característiques bàsiques de compostos químics d'interés social: petroli i derivats, i fàrmacs. Explicar els perills de l'ús inadequat dels medicaments."
+                },
+                {
+                    "code": "9.5",
+                    "description": "Explicar les característiques bàsiques dels processos radioactius, la seua perillositat i les seues aplicacions."
+                }
+            ]
+        },
+        {
+            "code": "CE0",
+            "name": "Caracteritzar els canvis químics com a transformació d’unes substàncies en",
+            "description": "Caracteritzar els canvis químics com a transformació d’unes substàncies en altres de diferents i reconéixer la importància de les transformacions químiques en activitats i processos quotidians",
+            "criterios": [
+                {
+                    "code": "10.1",
+                    "description": "Explicar els processos d'oxidació i combustió, i analitzar la seua incidència en el medi ambient."
+                },
+                {
+                    "code": "10.2",
+                    "description": "Explicar les característiques dels àcids i de les bases i realitzar experiències de neutralització."
+                },
+                {
+                    "code": "10.3",
+                    "description": "Utilitzar la noció de quantitat de substància per a realitzar càlculs en reaccions químiques."
+                }
+            ]
+        },
+        {
+            "code": "CE1",
+            "name": "Identificar les interaccions com a causa de les transformacions que tenen lloc",
+            "description": "Identificar les interaccions com a causa de les transformacions que tenen lloc en el nostre entorn físic per a poder intervindre en aquest modificant les condicions que ens permeten una millora en les nostres condicions de vida",
+            "criterios": [
+                {
+                    "code": "11.1",
+                    "description": "Utilitzar les nocions bàsiques de l'estàtica de fluids per a descriure les seues aplicacions."
+                },
+                {
+                    "code": "11.2",
+                    "description": "Explicar com actuen els fluids sobre els cossos que hi suren o estan submergits aplicant el principi d'Arquímedes."
+                },
+                {
+                    "code": "11.3",
+                    "description": "Identificar les forces que actuen sobre un cos, generen acceleracions o no."
+                },
+                {
+                    "code": "11.4",
+                    "description": "Descriure els principis de la dinàmica i aportar a partir d'aquests una explicació científica als moviments quotidians. Determinar la importància de la força de fregament en la vida real."
+                },
+                {
+                    "code": "11.5",
+                    "description": "Identificar les forces implicades en fenòmens quotidians assenyalant les interaccions del cos en relació amb altres cossos."
+                },
+                {
+                    "code": "11.6",
+                    "description": "Identificar el caràcter universal de la força de la gravitació i vincular-lo a una visió del món subjecte a lleis que s'expressen en forma matemàtica."
+                }
+            ]
+        }
+    ]
+}

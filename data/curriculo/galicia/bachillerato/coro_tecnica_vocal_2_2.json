@@ -1,0 +1,98 @@
+{
+    "community": "galicia",
+    "stage": "bachillerato",
+    "decree": "Decreto 157\/2022, de 15 de septiembre",
+    "subject": "coro_tecnica_vocal_2",
+    "subject_name": "Coro y Técnica Vocal II",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Escuchar y visionar de forma activa piezas vocales de distintos estilos,",
+            "description": "Escuchar y visionar de forma activa piezas vocales de distintos estilos, géneros y culturas, analizando los rasgos de estilo y las características de la interpretación, para desarrollar el criterio estético, estimular el hábito de escucha activa y am…",
+            "criterios": [
+                {
+                    "code": "CE1.1",
+                    "description": "Analizar piezas vocales explicando de manera razonada las cualidades que las hacen afines a un estilo, a un género o a una cultura, así como otras características de la interpretación y de la puesta en escena."
+                },
+                {
+                    "code": "CE1.2",
+                    "description": "Explicar la relación del texto con la música en diferentes composiciones vocales, analizando el texto y la curva de tensiones musicales, mejorando la comprensión de este y buscando soluciones que ayuden a su mejor interpretación."
+                },
+                {
+                    "code": "CE1.3",
+                    "description": "Apreciar la importancia del silencio, la concentración y la atención como premisas básicas para realizar y trabajar la escucha activa."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Expresarse vocal y corporalmente",
+            "description": "Expresarse vocal y corporalmente, de forma individual y colectiva, a través de la aplicación de diferentes técnicas y la realización de actividades de improvisación, para reforzar la autoestima y la autoconfianza y desarrollar la voz y el cuerpo como…",
+            "criterios": [
+                {
+                    "code": "CE2.2",
+                    "description": "Relacionar la interpretación con la expresión de sentimientos y emociones, aplicando técnicas vocales y reforzando la autoestima y la confianza en uno mismo."
+                },
+                {
+                    "code": "CE2.4",
+                    "description": "Demostrar interés en el desarrollo técnico continuo de la competencia vocal, dominio de la técnica vocal trabajada, así como en las técnicas de improvisación, a través de las distintas propuestas musicales y ejercicios trabajados en el aula."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Interpretar piezas de diferentes estilos y géneros musicales, participando en distintas formaciones vocales",
+            "description": "Interpretar piezas de diferentes estilos y géneros musicales, participando en distintas formaciones vocales, para potenciar una comunicación artística rica y el desarrollo de valores colectivos.",
+            "criterios": [
+                {
+                    "code": "CE1.4",
+                    "description": "Aplicar con interés de mejora los conocimientos del lenguaje musical a través del análisis, la escucha activa y la interpretación de variedad de partituras."
+                },
+                {
+                    "code": "CE2.3",
+                    "description": "Participar como intérprete de coro demostrando eficacia, escucha activa y una expresión vocal y corporal adecuada al servicio del conjunto y a las directrices de la dirección, reconociendo las indicaciones, gestos básicos y pautas marcadas por el director o directora."
+                },
+                {
+                    "code": "CE2.5",
+                    "description": "Reconocer la importancia de trabajar en un marco de silencio, respetando las normas de comportamiento individuales y grupales y las pautas técnicas e interpretativas marcadas por la directora o el director, interpretando los ejercicios vocales, improvisatorios, coreográficos o repertorios musicales propuestos."
+                },
+                {
+                    "code": "CE3.1",
+                    "description": "Aplicar los conceptos técnicos e interpretativos trabajados a las actuaciones grupales tanto en el aula como fuera de esta."
+                },
+                {
+                    "code": "CE3.2",
+                    "description": "Participar como intérprete de coro demostrando eficacia, escucha activa y una expresión vocal y corporal adecuada al servicio del conjunto y a las directrices de la dirección, reconociendo las indicaciones, gestos básicos y pautas marcadas por la directora o por el director."
+                },
+                {
+                    "code": "CE3.5",
+                    "description": "Valorar la práctica vocal de conjunto como forma de expresión musical y disfrute, utilizando fuentes musicales de notación convencional y no convencional como apoyo a la interpretación."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "3-5 1.1-1.2 1 3.1-4.1 Líneas de actuación en el proceso de enseñanza y aprendizaje",
+            "description": "3-5 1.1-1.2 1 3.1-4.1 Líneas de actuación en el proceso de enseñanza y aprendizaje. – La asimilación de los contenidos, los procesos de análisis y vocabulario técnico comprendiéndolo siempre desde la práctica como base de nuestra enseñanza. – La vive…",
+            "criterios": [
+                {
+                    "code": "CE3.3",
+                    "description": "Mostrar en la actuación una actitud escénica adecuada, cumpliendo las normas de comportamiento grupales y respetando al público y sus opiniones."
+                },
+                {
+                    "code": "CE3.4",
+                    "description": "Participar con iniciativa, responsabilidad y conciencia de grupo en el montaje de proyectos escénicos, integrando de forma abierta los diferentes conocimientos adquiridos previamente sobre la voz y el canto, para crear proyectos innovadores que utilicen diversos soportes audiovisuales, relacionando inclusivamente las oportunidades artísticas actuales mediante el conocimiento de iniciativas musicales y su impacto social y profesional."
+                },
+                {
+                    "code": "CE3.6",
+                    "description": "Reconocer y ejecutar con corrección los gestos básicos e indicaciones de la dirección, respetando las normas de comportamiento grupales y las pautas técnicas e interpretativas marcadas por la directora o por el director, interpretando propuestas musicales en distintas formaciones y agrupaciones."
+                },
+                {
+                    "code": "CE3.7",
+                    "description": "Conectar las interpretaciones vocales con otras artes y disciplinas, diseñando proyectos artísticos innovadores y creativos que utilicen diversos medios o soportes audiovisuales, asumiendo diferentes roles en el montaje y construyendo un proyecto musical cooperativo que respete las opiniones de los miembros del grupo y sepa concordarlas."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,180 @@
+{
+    "community": "castilla-y-leon",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "anatomia_aplicada",
+    "subject_name": "Anatomía Aplicada",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Localizar y utilizar fuentes fiables de información relacionada con la Anatomía",
+            "description": "Localizar y utilizar fuentes fiables de información relacionada con la Anatomía Aplicada, evaluándola críticamente, a través del pensamiento científico de forma autónoma, y contrastando su veracidad, para contribuir al desarrollo de su propia persona…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Plantear y resolver cuestiones innovadoras y sostenibles relacionadas con los contenidos de la materia, localizando, contrastando y analizando críticamente la información mediante el desarrollo de estrategias que mejoren eficazmente su comunicación ampliando su repertorio lingüístico individual. (CCL1, CCL3, CP2, STEM2, STEM4, CD1, CD2, CD3, CPSAA5, CE3)"
+                },
+                {
+                    "code": "1.2",
+                    "description": "Justificar la veracidad de información relacionada con la materia, con especial énfasis en los textos académicos, incluidos en diferentes idiomas\/lenguas, utilizando fuentes tecnológicas digitales con medidas de protección, para así crear contenidos creativos y consolidar un juicio propio sobre los aspectos éticos y de actualidad en el"
+                },
+                {
+                    "code": "1.3",
+                    "description": "Identificar las publicaciones científicas, seleccionando las bases de datos fiables, que recogen los artículos correctamente revisados haciendo un uso legal, seguro, saludable y sostenible de ellas, para evaluar las conclusiones teniendo la capacidad de reformular el procedimiento del trabajo de investigación, si fuera necesario. (CCL3, STEM1, STEM2, STEM3, CD1, CD3, CD4, CPSAA4, CE1, CE3)"
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Interpretar y transmitir información y datos a partir de trabajos científicos",
+            "description": "Interpretar y transmitir información y datos a partir de trabajos científicos relacionados con la Anatomía Aplicada y argumentar sobre estos con precisión, utilizando de forma adecuada la terminología científica y empleando diferentes formatos (texto…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Analizar críticamente conceptos y procesos relacionados con la Anatomía Aplicada, interpretando información en diferentes formatos (modelos, tablas, gráficos, esquemas o diagramas), incluyendo aquellos en otras lenguas, aplicando métodos inductivos y deductivos, utilizando el pensamiento científico y seleccionando y contrastando de forma autónoma dicha información. (CCL2, CCL3, CP1, STEM1, STEM4, CPSAA4, CC1)"
+                },
+                {
+                    "code": "2.2",
+                    "description": "Comunicar informaciones u opiniones razonadas relacionadas con los contenidos de la materia, transmitiéndolas de forma clara y rigurosa, utilizando la terminología y el formato adecuados (modelos, gráficos, tablas, vídeos, informes, diagramas, presentaciones, tablas o pósteres) priorizando los contenidos digitales, aplicando la terminología científica, tanto en castellano como en otras lenguas y respondiendo de manera fundamentada a las cuestiones que puedan surgir durante el proceso, expresando sus opiniones y argumentos con creatividad y espíritu crítico, así como manteniendo una actitud cooperativa y respetuosa. (CCL1, CP1, STEM2, STEM4, CD2, CD3, CPSAA5, CE3, CCEC3.2, CCEC4.2)"
+                },
+                {
+                    "code": "2.3",
+                    "description": "Argumentar sobre aspectos relacionados con los contenidos de la materia defendiendo una postura de forma razonada y con una actitud abierta, flexible, receptiva y respetuosa ante la opinión de los demás, conociendo la diversidad cultural de la sociedad y valorando cómo esta diversidad influye en la salud de las personas. (CCL1, CCL5, STEM2, STEM4, CC1, CC3, CCEC1)"
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Diseñar, desarrollar y promover pruebas, experimentos, iniciativas y proyectos",
+            "description": "Diseñar, desarrollar y promover pruebas, experimentos, iniciativas y proyectos de investigación, siguiendo los pasos del método científico y cooperando, cuando sea necesario, para indagar en aspectos relacionados con la anatomía y fisiología humanas …",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Plantear preguntas e hipótesis que puedan ser respondidas o contrastadas utilizando la metodología científica, proponiendo y realizando tanto experimentos, como toma de datos relacionados con fenómenos anatómicos y fisiológicos, que permitan realizar predicciones sobre estos, utilizando los instrumentos, herramientas o técnicas adecuadas con corrección y valorando los riesgos que supone su uso. (CCL1, STEM2, STEM4, CPSAA1.1, CE1)"
+                },
+                {
+                    "code": "3.2",
+                    "description": "Diseñar la experimentación, la toma de datos y el análisis de fenómenos relacionados con el cuerpo humano a medio y largo plazo, de modo que permitan responder a preguntas concretas y contrastar una hipótesis planteada a través de mecanismos de autoevaluación mediante los cuales el alumnado aprenda de sus errores, interpretando los resultados obtenidos en la experimentación y utilizando el método científico junto con herramientas matemáticas y tecnológicas. (CCL2, STEM3, STEM4, CPSAA1.2, CPSAA5, CE1, CE3)"
+                },
+                {
+                    "code": "3.3",
+                    "description": "Conocer las normas de seguridad que se deben aplicar a la hora de realizar cualquier trabajo científico, valorando los riesgos que supone el trabajo en el laboratorio o el trabajo de campo, así como en el trato con las personas implicadas en el estudio, puesto que se trata de trabajar y experimentar fenómenos anatómicos y fisiológicos del ser humano. (CCL2, STEM5, CD4, CPSAA1.2, CPSAA3.1, CE1, CE2)"
+                },
+                {
+                    "code": "3.4",
+                    "description": "Reconocer la autonomía adquirida, estudiando y experimentando fenómenos del cuerpo humano, al desarrollar el trabajo científico en el laboratorio, u otras situaciones"
+                },
+                {
+                    "code": "3.5",
+                    "description": "Participar dentro de un proyecto científico asumiendo responsablemente una función concreta, aplicando estrategias cooperativas, utilizando espacios virtuales para buscar, almacenar y compartir material u organizar tareas, demostrando respeto hacia la diversidad, la igualdad de género, equidad y empatía, y favoreciendo la inclusión. ("
+                },
+                {
+                    "code": "3.6",
+                    "description": "Analizar el origen de los cambios que suceden en el cuerpo durante el desarrollo basándose en los contenidos de la fisiología y anatomía humanas. (CCL2, STEM2, STEM5, CD4, CPSAA2, CPSAA4, CC4)"
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Comprender cómo se desarrollan y evolucionan las funciones vitales estudiando",
+            "description": "Comprender cómo se desarrollan y evolucionan las funciones vitales estudiando la relación entre los diferentes sistemas y aparatos del cuerpo humano para interpretar adecuadamente las adaptaciones producidas en el organismo ante cualquier variación e…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Interpretar el funcionamiento del cuerpo humano, entendido como una unidad estructural y funcional, comprendiendo la integración anatómica y funcional de los elementos que conforman sus distintos niveles de organización. (CCL2, STEM2, STEM4)"
+                },
+                {
+                    "code": "4.2",
+                    "description": "Deducir y explicar el funcionamiento del cuerpo humano identificando las características anatómicas y fisiológicas que lo condicionan según los sistemas implicados en cada proceso. (CCL1, CCL2, STEM2)"
+                },
+                {
+                    "code": "4.3",
+                    "description": "Relacionar los aparatos y sistemas del cuerpo humano con la función vital que realizan, considerando la anatomía y fisiología de las estructuras corporales implicadas, comprendiendo la relación que estos tienen con el resto de los aparatos y sistemas del cuerpo humano. (CCL2, STEM2)"
+                },
+                {
+                    "code": "4.4",
+                    "description": "Argumentar las adaptaciones que presenta el organismo humano ante cambios producidos en el organismo relacionados con las funciones vitales, con el objetivo de recuperar la homeostasis. (CCL1, STEM1, STEM2, STEM4, CPSAA1.2, CC4)"
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Plantear y resolver problemas motrices y expresivos, buscando y utilizando las estrategias más adecuadas",
+            "description": "Plantear y resolver problemas motrices y expresivos, buscando y utilizando las estrategias más adecuadas, aplicando los conocimientos sobre el funcionamiento y la capacidad de adaptación del organismo y sus posibilidades de movimiento, para analizar …",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Entender el cuerpo como unidad funcional interpretando las relaciones entre los diferentes aparatos y sistemas y sus respuestas ante diferentes estímulos. (CCL2, STEM2)"
+                },
+                {
+                    "code": "5.2",
+                    "description": "Analizar los mecanismos que intervienen en una acción motora, relacionándolos con la eficiencia mecánica y la finalidad expresiva del movimiento humano. (CCL1, STEM2, CCEC3.1, CCEC3.2)"
+                },
+                {
+                    "code": "5.3",
+                    "description": "Analizar la ejecución de movimientos, aplicando los principios anatómicos funcionales, la fisiología muscular y las bases de la biomecánica, estableciendo relaciones razonadas entre estos elementos. (CCL1, STEM2, STEM5, CPSAA2)"
+                },
+                {
+                    "code": "5.4",
+                    "description": "Conocer y comprender los mecanismos de producción energética y su utilización por el cuerpo humano en la actividad física, relacionándolos con la mejora de la eficiencia motriz. (CCL2, STEM1, STEM2)"
+                },
+                {
+                    "code": "5.5",
+                    "description": "Identificar el papel del sistema cardiopulmonar en la mejora del rendimiento motor, valorando sus respuestas y adaptaciones ante diferentes actividades físicas. (CCL2, STEM1, STEM2)"
+                },
+                {
+                    "code": "5.6",
+                    "description": "Identificar las diferentes acciones y posibilidades que permiten al ser humano expresarse corporalmente, utilizándolas en su relación con el entorno. (CCL1, CCL5, STEM3, CD2, CD4, CPSAA2, CPSAA3.1, CPSAA5, CC1, CC4, CE3, CCEC3.1, CCEC3.2, CCEC4.2)"
+                },
+                {
+                    "code": "5.7",
+                    "description": "Reconocer las características principales de la motricidad humana valorando su papel en el desarrollo personal y social. (CCL1, CCL2, STEM3, CPSAA1.2, CPSAA2, CC1, CC3, CCEC3.2)"
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Analizar críticamente determinadas acciones, hábitos y actitudes relacionados",
+            "description": "Analizar críticamente determinadas acciones, hábitos y actitudes relacionados con la salud, basándose en los fundamentos de la anatomía y fisiología humana, para argumentar acerca de la importancia de adoptar aquellos hábitos de vida que protejan y s…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Valorar los hábitos nutricionales que inciden favorablemente en la salud y en el rendimiento de las actividades motrices, elaborando un plan nutricional básico y personalizado. (CCL1, STEM1, STEM2, STEM4, STEM5, CPSAA1.1, CPSAA1.2, CPSAA2, CPSAA4, CPSAA5, CC3, CC4)"
+                },
+                {
+                    "code": "6.2",
+                    "description": "Identificar los trastornos del comportamiento nutricional más comunes y los efectos que tienen sobre la salud, reconociendo sus rasgos característicos y obteniendo recursos que dificulten su aparición y desarrollo. (CCL2, STEM1, STEM5, CPSAA2)"
+                },
+                {
+                    "code": "6.3",
+                    "description": "Relacionar el sistema cardiopulmonar con la salud, reconociendo hábitos y costumbres saludables y evitando aquellas acciones que lo perjudiquen. (CCL2, STEM5, CPSAA2)"
+                },
+                {
+                    "code": "6.4",
+                    "description": "Valorar la correcta higiene postural, identificando y corrigiendo los malos hábitos posturales, con el fin de trabajar de forma segura y evitar lesiones. (STEM1, STEM2, STEM5, CPSAA2)"
+                },
+                {
+                    "code": "6.5",
+                    "description": "Identificar las lesiones más comunes del aparato locomotor en las actividades físicas, relacionándolas con sus causas fundamentales y aplicando mecanismos de prevención. (STEM1, STEM2, STEM5, CPSAA2)"
+                },
+                {
+                    "code": "6.6",
+                    "description": "Comprender la importancia que tienen las enfermedades de trasmisión sexual (ETS) en nuestra sociedad, sobre todo entre los adolescentes, valorando sus causas y consecuencias e identificando los hábitos saludables que evitan padecerlas. (CCL2, CCL3, STEM2, CPSAA3.1, CPSAA4, CC3, CC4)"
+                },
+                {
+                    "code": "6.7",
+                    "description": "Adoptar un estilo de vida saludable, basado en los conocimientos científicos abordados en la materia, demostrando un compromiso ético y ecosocialmente responsable con actividades y hábitos que conduzcan al logro de los Objetivos de Desarrollo Sostenible. (STEM5, CPSAA1.1, CPSAA1.2, CPSAA2, CC3, CC4)"
+                },
+                {
+                    "code": "6.8",
+                    "description": "Reconocer y evaluar los avances en el estudio de la anatomía que han permitido explicar cómo es, cómo evoluciona y se adapta el cuerpo humano ante los cambios que se producen en él a diario, relacionando todo ello con la influencia que supone la adopción de distintos hábitos de vida en la mejora o no de la salud. (CCL2, CCL3, STEM4, CPSAA2, CC1, CCEC1)"
+                },
+                {
+                    "code": "6.9",
+                    "description": "Valorar la contribución de la ciencia a la sociedad y la labor de personas dedicadas a ella destacando el papel de la mujer y entendiendo la investigación relacionada con el ser humano como una labor colectiva e interdisciplinar en constante evolución. (CCL2, STEM4, CC1, CC4)"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "community": "galicia",
+    "stage": "eso",
+    "decree": "Decreto 156\/2022, de 15 de septiembre",
+    "subject": "tecnologia",
+    "subject_name": "Tecnología",
+    "grade": 4,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Identificar y proponer problemas tecnológicos con iniciativa y creatividad,",
+            "description": "Identificar y proponer problemas tecnológicos con iniciativa y creatividad, estudiando las necesidades de su entorno próximo y aplicando estrategias y procesos colaborativos e iterativos relativos a proyectos, para idear y planificar soluciones de ma…",
+            "criterios": [
+                {
+                    "code": "CE1.1",
+                    "description": "Idear y planificar soluciones tecnológicas emprendedoras que generen un valor para la comunidad a partir de la observación y del análisis del entorno más próximo, estudiando sus necesidades, requisitos y posibilidades de mejora."
+                },
+                {
+                    "code": "CE1.2",
+                    "description": "Aplicar con iniciativa estrategias colaborativas de gestión de proyectos con una perspectiva interdisciplinaria y siguiendo un proceso iterativo de validación desde la fase de ideación hasta la difusión de la solución."
+                },
+                {
+                    "code": "CE1.3",
+                    "description": "Abordar la gestión del proyecto de forma creativa, aplicando estrategias y técnicas colaborativas idóneas, así como métodos de investigación para la ideación de soluciones lo más eficientes, accesibles e innovadoras posibles."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Aplicar de forma apropiada y segura distintas técnicas y conocimientos",
+            "description": "Aplicar de forma apropiada y segura distintas técnicas y conocimientos interdisciplinarios utilizando procedimientos y recursos tecnológicos, al tiempo que se analiza el ciclo de vida de productos para fabricar soluciones tecnológicas accesibles y so…",
+            "criterios": [
+                {
+                    "code": "CE1.4",
+                    "description": "Analizar el diseño de un producto que dé respuesta a una necesidad expuesta, evaluando su demanda, evolución y previsión de fin de ciclo de vida, con un criterio ético, responsable e inclusivo."
+                },
+                {
+                    "code": "CE2.1",
+                    "description": "Fabricar productos y soluciones tecnológicas aplicando herramientas de diseño asistido, técnicas de elaboración manual, mecánica y digital y utilizando los materiales y recursos mecánicos, eléctricos, electrónicos y digitales adecuados."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Expresar, comunicar y difundir ideas, propuestas o soluciones tecnológicas en",
+            "description": "Expresar, comunicar y difundir ideas, propuestas o soluciones tecnológicas en diferentes foros de manera efectiva con un lenguaje inclusivo y no sexista, empleando los recursos disponibles y aplicando los elementos y las técnicas necesarias para inte…",
+            "criterios": [
+                {
+                    "code": "CE1.5",
+                    "description": "Intercambiar información y fomentar el trabajo en equipo de manera asertiva."
+                },
+                {
+                    "code": "CE3.2",
+                    "description": "Utilizar vocabulario técnico, símbolos y esquemas de sistemas tecnológicos apropiados."
+                },
+                {
+                    "code": "CE5.2",
+                    "description": "Presentar y difundir las propuestas o soluciones tecnológicas de manera efectiva, empleando la entonación, expresión, gestión del tiempo y adaptación adecuado del discurso, así como un lenguaje inclusivo y no sexista."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Desarrollar soluciones automatizadas a problemas expuestos aplicando los",
+            "description": "Desarrollar soluciones automatizadas a problemas expuestos aplicando los conocimientos necesarios e incorporando tecnologías emergentes para diseñar y construir sistemas de control programables y robóticos. - Este objetivo hace referencia a la aplica…",
+            "criterios": [
+                {
+                    "code": "CE3.1",
+                    "description": "Diseñar, construir, controlar y\/o simular sistemas automáticos o robots que sean capaces de realizar tareas de forma autónoma, aplicando conocimientos de mecánica, electrónica, neumática y componentes de los sistemas de control, así como otros conocimientos interdisciplinarios."
+                },
+                {
+                    "code": "CE4.1",
+                    "description": "Automatizar procesos, máquinas y sistemas, mediante el análisis, la programación de robots y los sistemas de control."
+                },
+                {
+                    "code": "CE4.2",
+                    "description": "Utilizar, con sentido crítico y ético, aplicaciones informáticas y tecnologías digitales de control y simulación como el internet de las cosas, el big data y\/o la inteligencia artificial."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Aprovechar y emplear de manera responsable las posibilidades de las",
+            "description": "Aprovechar y emplear de manera responsable las posibilidades de las herramientas digitales, adaptándolas a sus necesidades, configurándolas y aplicando conocimientos interdisciplinarios para la resolución de tareas de una manera más eficiente. - La i…",
+            "criterios": [
+                {
+                    "code": "CE4.3",
+                    "description": "Resolver tareas propuestas de manera eficiente mediante el uso y la configuración de diferentes aplicaciones y herramientas digitales, aplicando conocimientos interdisciplinarios con autonomía."
+                },
+                {
+                    "code": "CE5.1",
+                    "description": "Crear contenidos, elaborar materiales y difundirlos en distintas plataformas, configurando correctamente las herramientas digitales habituales del entorno de aprendizaje, ajustándolas a sus necesidades y respetando los derechos de autor."
+                },
+                {
+                    "code": "CE5.3",
+                    "description": "Organizar la información de manera estructurada aplicando técnicas de almacenamiento seguro."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Analizar procesos tecnológicos, teniendo en cuenta su impacto en la sociedad y",
+            "description": "Analizar procesos tecnológicos, teniendo en cuenta su impacto en la sociedad y el entorno aplicando criterios de sostenibilidad y accesibilidad, para hacer un uso ético y ecosocialmente responsable de la tecnología. - La tecnología fue respondiendo a…",
+            "criterios": [
+                {
+                    "code": "CE1.6",
+                    "description": "Analizar los beneficios que, en el cuidado del entorno, acercan la arquitectura bioclimática y el eco-transporte, valorando la contribución de las tecnologías al desarrollo sostenible."
+                },
+                {
+                    "code": "CE1.7",
+                    "description": "Identificar y valorar la repercusión y los beneficios del desarrollo de proyectos tecnológicos de carácter social por medio de comunidades abiertas, acciones de voluntariado o proyectos de servicio a la comunidad."
+                },
+                {
+                    "code": "CE2.2",
+                    "description": "Hacer un uso responsable de la tecnología, mediante el análisis y la aplicación de criterios de sostenibilidad y accesibilidad en la selección de los materiales y en su diseño, así como en los procesos de fabricación de productos tecnológicos, minimizando el impacto negativo sobre la sociedad y el medio ambiente."
+                }
+            ]
+        }
+    ]
+}

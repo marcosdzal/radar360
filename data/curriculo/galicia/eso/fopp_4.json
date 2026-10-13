@@ -1,0 +1,138 @@
+{
+    "community": "galicia",
+    "stage": "eso",
+    "decree": "Decreto 156\/2022, de 15 de septiembre",
+    "subject": "fopp",
+    "subject_name": "Formación y Orientación Personal y Profesional",
+    "grade": 4,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Comprender los procesos físicos y psicológicos implicados en la cognición, la",
+            "description": "Comprender los procesos físicos y psicológicos implicados en la cognición, la motivación y el aprendizaje, junto con las principales características del desarrollo evolutivo de la persona estudiadas por las ciencias sociales, analizando sus implicaci…",
+            "criterios": [
+                {
+                    "code": "CE1.1",
+                    "description": "Reflexionar de manera crítica sobre la condición humana, la sociedad y la cultura, a partir del conocimiento que proporcionan las ciencias humanas y sociales."
+                },
+                {
+                    "code": "CE1.2",
+                    "description": "Analizar los factores personales y socioculturales que intervienen en la configuración psicológica de la persona a partir del conocimiento comparado de la dimensión social y antropológica del ser humano."
+                },
+                {
+                    "code": "CE1.3",
+                    "description": "Analizar la relación de la cognición, la motivación, el aprendizaje y la gestión emocional con la conducta, tanto propia como de los demás, a partir de las bases teóricas fundamentales de los procesos físicos y psicológicos que intervienen en ellos."
+                },
+                {
+                    "code": "CE1.4",
+                    "description": "Identificar y aplicar los procesos que intervienen en el aprendizaje, analizando sus implicaciones y desarrollando estrategias que favorezcan la adquisición de conocimientos, destrezas y actitudes."
+                },
+                {
+                    "code": "CE1.5",
+                    "description": "Analizar la importancia del componente emocional, tomando conciencia de su repercusión en el aprendizaje y desarrollando estrategias que lo mejoren."
+                },
+                {
+                    "code": "CE1.6",
+                    "description": "Analizar y comprender en el desarrollo evolutivo de las personas las principales características de la madurez que conforman la persona en los distintos planos: físico, cognitivo, social, emocional y sexual."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Analizar y describir aquellos elementos de la madurez que condicionan los",
+            "description": "Analizar y describir aquellos elementos de la madurez que condicionan los comportamientos, identificando las cualidades personales y de relación social propias y de los demás, desarrollando estrategias de gestión emocional y del propio proceso de apr…",
+            "criterios": [
+                {
+                    "code": "CE1.7",
+                    "description": "Desarrollar estrategias y habilidades que faciliten la adaptación a nuevos grupos y contextos a partir del conocimiento social y antropológico del ser humano."
+                },
+                {
+                    "code": "CE2.1",
+                    "description": "Analizar y comprender en el desarrollo evolutivo de las personas las principales características de la madurez que conforman la persona en los distintos planos: físico, cognitivo, social, emocional y sexual."
+                },
+                {
+                    "code": "CE2.2",
+                    "description": "Identificar cualidades personales y sociales propias y de los demás reflexionando sobre la importancia de potenciar aquellas que permitan afrontar nuevos retos eficazmente y de modo progresivamente autónomo, y faciliten así el proceso de transición de la adolescencia a la vida adulta."
+                },
+                {
+                    "code": "CE2.3",
+                    "description": "Mejorar el desempeño personal, social y académico aplicando estrategias de aprendizaje y gestión emocional que permitan mayor control sobre las acciones y sus consecuencias."
+                },
+                {
+                    "code": "CE2.4",
+                    "description": "Desarrollar estrategias y habilidades que faciliten la adaptación a nuevos grupos y contextos a partir del conocimiento social y antropológico del ser humano."
+                },
+                {
+                    "code": "CE3.3",
+                    "description": "Analizar y comprender en el desarrollo evolutivo de las personas las principales características de la madurez que conforman la persona en los distintos planos: físico, cognitivo, social, emocional y sexual."
+                },
+                {
+                    "code": "CE3.4",
+                    "description": "Identificar cualidades personales y sociales propias y de los demás, reflexionando sobre la importancia de potenciar aquellas que permitan afrontar nuevos retos eficazmente y de modo progresivamente autónomo, y faciliten así el proceso de transición de la adolescencia a la vida adulta."
+                },
+                {
+                    "code": "CE3.5",
+                    "description": "Mejorar el desempeño personal, social y académico aplicando estrategias de aprendizaje y gestión emocional que permitan mayor control sobre las acciones y sus consecuencias."
+                },
+                {
+                    "code": "CE3.6",
+                    "description": "Desarrollar estrategias y habilidades que faciliten la adaptación a nuevos grupos y contextos a partir del conocimiento social y antropológico del ser humano."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Explorar las oportunidades académicas y profesionales que ofrece el entorno,",
+            "description": "Explorar las oportunidades académicas y profesionales que ofrece el entorno, descubriendo y priorizando las necesidades e intereses personales y vocacionales y desarrollando el espíritu de iniciativa y de superación, así como las destrezas necesarias…",
+            "criterios": [
+                {
+                    "code": "CE2.5",
+                    "description": "Realizar un proyecto personal, académico y profesional propio y aproximarse al proceso de búsqueda activa de empleo, priorizando las necesidades y descubriendo los intereses personales y vocacionales mediante la exploración de las oportunidades académicas y profesionales que ofrece el entorno presencial y virtual, y desarrollando las destrezas necesarias en el proceso de toma de decisiones."
+                },
+                {
+                    "code": "CE2.6",
+                    "description": "Explorar el entorno próximo identificando las oportunidades académicas y profesionales que ofrece, valorando aquellas que mejor se adaptan a las cualidades e intereses personales y potenciando el espíritu de iniciativa y superación."
+                },
+                {
+                    "code": "CE3.1",
+                    "description": "Realizar un proyecto personal, académico y profesional propio y aproximarse al proceso de búsqueda activa de empleo, priorizando las necesidades y descubriendo los intereses personales y vocacionales mediante la exploración de las oportunidades académicas y profesionales que ofrece el entorno presencial y virtual, y desarrollando las destrezas necesarias en el proceso de toma de decisiones."
+                },
+                {
+                    "code": "CE3.2",
+                    "description": "Explorar el entorno próximo identificando las oportunidades académicas y profesionales que ofrece, valorando aquellas que mejor se adaptan a las cualidades e intereses personales y potenciando el espíritu de iniciativa y superación."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Conocer y comprender el ser humano, en sus dimensiones social y antropológica,",
+            "description": "Conocer y comprender el ser humano, en sus dimensiones social y antropológica, y atender a la variedad de sociedades y culturas, analizando con empatía su diversidad y complejidad desde diferentes perspectivas para comprenderse a un mismo e interactu…",
+            "criterios": [
+                {
+                    "code": "CE1.8",
+                    "description": "Analizar la diversidad personal, social y cultural desde distintas perspectivas a partir del conocimiento que proporcionan las ciencias humanas y sociales, mostrando actitudes de respeto y empatía por lo diferente, y valorando la equidad y la no discriminación."
+                },
+                {
+                    "code": "CE1.9",
+                    "description": "Valorar la diversidad, desde el respeto, la inclusión y la igualdad real y efectiva entre mujeres y hombres, considerándola un elemento enriquecedor en el ámbito personal, social y cultural."
+                },
+                {
+                    "code": "CE2.7",
+                    "description": "Analizar la diversidad personal, social y cultural desde distintas perspectivas a partir del conocimiento que proporcionan las ciencias humanas y sociales, mostrando actitudes de respeto y empatía por lo diferente, y valorando la equidad y la no discriminación."
+                },
+                {
+                    "code": "CE2.8",
+                    "description": "Valorar la diversidad desde el respeto, la inclusión y la igualdad real y efectiva entre hombres y mujeres, considerándola un elemento enriquecedor en el ámbito personal, social y cultural."
+                },
+                {
+                    "code": "CE3.7",
+                    "description": "Analizar la diversidad personal, social y cultural desde distintas perspectivas a partir del conocimiento que proporcionan las ciencias humanas y sociales, mostrando actitudes de respeto y empatía por lo diferente, y valorando la equidad y la no discriminación."
+                },
+                {
+                    "code": "CE3.8",
+                    "description": "Valorar la diversidad, desde el respeto, la inclusión y la igualdad real y efectiva entre mujeres y hombres, considerándola un elemento enriquecedor en el ámbito personal, social y cultural."
+                }
+            ]
+        }
+    ]
+}

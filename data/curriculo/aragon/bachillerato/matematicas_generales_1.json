@@ -1,0 +1,21 @@
+{
+    "community": "aragon",
+    "stage": "bachillerato",
+    "decree": "Orden ECD\/1112\/2022, de 18 de julio",
+    "subject": "matematicas_generales",
+    "subject_name": "Matemáticas Generales",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE9",
+            "name": "Utilizar destrezas personales y sociales, identificando y gestionando las",
+            "description": "Utilizar destrezas personales y sociales, identificando y gestionando las propias emociones y respetando las de los demás y organizando activamente el trabajo en equipos heterogéneos, aprendiendo del error como parte del proceso de aprendizaje y afro…",
+            "criterios": [
+                {
+                    "code": "9.3",
+                    "description": "Trabajar colaborativamente en grupos diversos, manteniendo una actitud de escucha activa, respeto mutuo y contribuyendo positivamente al clima de trabajo y bienestar del equipo."
+                }
+            ]
+        }
+    ]
+}

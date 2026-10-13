@@ -1,0 +1,133 @@
+{
+    "community": "galicia",
+    "stage": "bachillerato",
+    "decree": "Decreto 157\/2022, de 15 de septiembre",
+    "subject": "latin_2",
+    "subject_name": "Latín II",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Traducir y comprender textos latinos de dificultad creciente y justificar la",
+            "description": "Traducir y comprender textos latinos de dificultad creciente y justificar la traducción, identificando y analizando los aspectos básicos de la lengua latina y sus unidades lingüísticas y reflexionando sobre ellas mediante la comparación con las lengu…",
+            "criterios": [
+                {
+                    "code": "CE1.1",
+                    "description": "Realizar traducciones directas y\/o inversas de textos o fragmentos adaptados u originales, de dificultad adecuada y progresiva, con corrección ortográfica y expresiva, identificando y analizando, cuando se considere necesario, unidades lingüísticas regulares de la lengua y apreciando variantes y coincidencias con otras lenguas conocidas."
+                },
+                {
+                    "code": "CE1.2",
+                    "description": "Seleccionar el significado apropiado de palabras polisémicas y justificar la decisión, teniendo en cuenta la información cotextual o contextual y utilizando herramientas diversas de apoyo al proceso de traducción en distintos soportes cuando se considere necesario."
+                },
+                {
+                    "code": "CE1.3",
+                    "description": "Revisar y enmendar las propias traducciones y las de las compañeras y los compañeros, realizando propuestas de mejora y argumentando los cambios con terminología especializada a partir de la reflexión lingüística."
+                },
+                {
+                    "code": "CE1.4",
+                    "description": "Realizar la lectura directa de textos latinos de dificultad adecuada identificando las unidades lingüísticas más frecuentes de la lengua latina, comparándolas con las de las lenguas del repertorio lingüístico propio y asimilando los aspectos morfológicos, sintácticos y léxicos elementales del latín."
+                },
+                {
+                    "code": "CE1.5",
+                    "description": "Registrar los progresos y dificultades de aprendizaje de la lengua latina seleccionando las estrategias más adecuadas y eficaces para superar esas dificultades y consolidar su aprendizaje, realizando actividades de planificación del propio aprendizaje, autoevaluación y coevaluación."
+                },
+                {
+                    "code": "CE1.6",
+                    "description": "Extraer, analizar y reflejar oralmente o, preferentemente, por escrito y, si puede ser, en latín, mediante paráfrasis simples, las ideas principales de los textos objeto de trabajo."
+                },
+                {
+                    "code": "CE1.7",
+                    "description": "Planificar y participar, cuando se considere necesario, en diálogos breves y sencillos sobre los contenidos de los textos objeto de trabajo, con la finalidad de facilitar su comprensión integral."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Distinguir los formantes latinos y explicar los cambios que hayan tenido lugar",
+            "description": "Distinguir los formantes latinos y explicar los cambios que hayan tenido lugar a lo largo del tiempo, comparándolos con los de las lenguas de enseñanza y otras lenguas del repertorio individual del alumnado, para deducir el significado etimológico de…",
+            "criterios": [
+                {
+                    "code": "CE1.8",
+                    "description": "Explicar cambios fonéticos, morfológicos o semánticos de complejidad creciente que se produjeron tanto desde el latín culto como desde el latín vulgar hasta la lengua de enseñanza, sirviéndose, cuando sea posible, de la comparación con otras lenguas del repertorio propio."
+                },
+                {
+                    "code": "CE2.1",
+                    "description": "Deducir el significado etimológico de un término de uso común e inferir el significado de términos de nueva aparición o procedentes de léxico especializado, aplicando estrategias de reconocimiento de formantes latinos atendiendo a los cambios fonéticos, morfológicos o semánticos que tuvieran lugar."
+                },
+                {
+                    "code": "CE2.2",
+                    "description": "Explicar cambios fonéticos, morfológicos o semánticos de complejidad creciente que se produjeron tanto desde el latín culto como desde el latín vulgar hasta las lenguas de enseñanza, sirviéndose, cuando sea posible, de la comparación con otras lenguas de su repertorio propio."
+                },
+                {
+                    "code": "CE2.3",
+                    "description": "Explicar la relación del latín con las lenguas modernas, analizando los elementos lingüísticos comunes de origen latino y utilizando estrategias y conocimientos de las lenguas y lenguajes que conforman el repertorio del alumnado."
+                },
+                {
+                    "code": "CE2.4",
+                    "description": "Analizar críticamente prejuicios y estereotipos lingüísticos adoptando una actitud de respeto y valoración de la diversidad como riqueza cultural, lingüística y dialectal, a partir de criterios dados."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Leer, interpretar y comentar textos latinos de diferentes géneros y épocas,",
+            "description": "Leer, interpretar y comentar textos latinos de diferentes géneros y épocas, asumiendo el proceso creativo como complejo e inseparable del contexto histórico, social y político y de sus influencias artísticas, para identificar su genealogía y su aport…",
+            "criterios": [
+                {
+                    "code": "CE1.9",
+                    "description": "Analizar, interpretar y comentar textos y fragmentos literarios de diversa índole de creciente complejidad, aplicando estrategias de análisis y reflexión que impliquen movilizar la propia experiencia, comprender el mundo y la condición humana, y desarrollar la sensibilidad estética y el hábito lector."
+                },
+                {
+                    "code": "CE2.5",
+                    "description": "Crear textos individuales o colectivos con intención literaria y conciencia de estilo, en distintos soportes y con ayuda de otros lenguajes artísticos y audiovisuales, a partir de la lectura de obras o fragmentos significativos en los que se parta de la civilización y cultura latinas como fuente de inspiración."
+                },
+                {
+                    "code": "CE3.1",
+                    "description": "Interpretar y comentar textos y fragmentos literarios de diversa índole de creciente complejidad, aplicando estrategias de análisis y reflexión que impliquen despertar el espíritu crítico, movilizar la propia experiencia, comprender el mundo y la condición humana y desarrollar la sensibilidad estética y el hábito lector."
+                },
+                {
+                    "code": "CE3.2",
+                    "description": "Analizar y explicar los géneros, temas, tópicos y valores éticos o estéticos de obras o fragmentos literarios latinos, comparándolos con obras o fragmentos literarios posteriores, desde un enfoque intertextual."
+                },
+                {
+                    "code": "CE3.3",
+                    "description": "Identificar y definir palabras latinas que designan conceptos fundamentales para el estudio y comprensión de la civilización latina y cuyo aprendizaje combina conocimientos léxicos y culturales, en textos de diferentes formatos."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Analizar las características de la civilización latina en el ámbito personal,",
+            "description": "Analizar las características de la civilización latina en el ámbito personal, religioso y sociopolítico, adquiriendo conocimientos sobre el mundo romano y comparando críticamente el presente y el pasado, para valorar las aportaciones del mundo clásic…",
+            "criterios": [
+                {
+                    "code": "CE3.4",
+                    "description": "Investigar aspectos del legado de la civilización latina en el ámbito personal, religioso y sociopolítico, localizando, seleccionando, contrastando y reelaborando información procedente de diferentes fuentes, calibrando su fiabilidad y pertinencia, y respetando los principios de rigor y propiedad intelectual."
+                },
+                {
+                    "code": "CE4.1",
+                    "description": "Investigar aspectos del legado de la civilización latina en el ámbito personal, religioso y sociopolítico, localizando, seleccionando, contrastando y reelaborando información procedente de diferentes fuentes, calibrando su fiabilidad y pertinencia y respetando los principios de rigor y propiedad intelectual."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Valorar críticamente el patrimonio histórico, arqueológico, artístico y",
+            "description": "Valorar críticamente el patrimonio histórico, arqueológico, artístico y cultural heredado de la civilización latina, interesándose por su sostenibilidad y reconociéndolo como producto de la creación humana y como testimonio de la historia, para expli…",
+            "criterios": [
+                {
+                    "code": "CE4.2",
+                    "description": "Identificar y explicar el legado material e inmaterial de la civilización latina como fuente de inspiración, analizando producciones culturales y artísticas posteriores."
+                },
+                {
+                    "code": "CE4.3",
+                    "description": "Investigar el patrimonio histórico, arqueológico, artístico y cultural heredado de la civilización latina, actuando de forma adecuada, empática y respetuosa, e interesándose por los procesos de construcción, preservación, conservación y restauración y por aquellas actitudes cívicas que aseguran su sostenibilidad."
+                },
+                {
+                    "code": "CE4.4",
+                    "description": "Explorar las huellas de la romanización y el legado romano en el entorno del alumnado aplicando los conocimientos adquiridos y reflexionando sobre las implicaciones de sus distintos usos, dando ejemplos de la persistencia de la Antigüedad clásica en su vida cotidiana y presentando sus resultados a través de diferentes soportes."
+                }
+            ]
+        }
+    ]
+}

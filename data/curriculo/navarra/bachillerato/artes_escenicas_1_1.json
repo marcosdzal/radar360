@@ -1,0 +1,78 @@
+{
+    "community": "navarra",
+    "stage": "bachillerato",
+    "decree": "Real Decreto 217\/2022",
+    "subject": "artes_escenicas_1",
+    "subject_name": "Artes Escénicas I",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE2",
+            "name": "Explorar las posibilidades expresivas de diferentes sistemas, medios y códigos",
+            "description": "Explorar las posibilidades expresivas de diferentes sistemas, medios y códigos de significación escénica, a través de actividades de carácter práctico, para incorporar su uso al repertorio personal de recursos y desarrollar el criterio de selección d…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Participa en la exploración práctica de sistemas y códigos escénicos mostrando iniciativa, confianza y creatividad."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Recrea escenas y personajes seleccionando técnicas expresivas adecuadas de su repertorio personal."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Abordar la recreación y representación de la acción dramática, a partir de la",
+            "description": "Abordar la recreación y representación de la acción dramática, a partir de la construcción colectiva de escenas que muestren todo tipo de personajes y conflictos, para desarrollar habilidades de comunicación y negociación y reforzar el autoconocimien…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Aplicar técnicas básicas de interpretación usando estrategias de memorización y reconociendo los ensayos como espacios de aprendizaje colaborativo."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Recrear y representar una escena dramática siguiendo dirección, manteniendo concentración y gestionando el miedo escénico."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Leer en voz alta y colectivamente fragmentos y obras teatrales prestando especial atención a la configuración de situaciones y escenas, enfatizando las emociones, la intensidad de las palabras y los elementos prosódicos, así como demostrando motivación, interés y capacidad para la implicación en tareas colectivas."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Realizar proyectos de creación y difusión escénica, planificando sus fases,",
+            "description": "Realizar proyectos de creación y difusión escénica, planificando sus fases, seleccionando y estructurando los elementos de significación y asumiendo diferentes funciones con iniciativa y responsabilidad, para expresar una intención comunicativa, enri…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Participar en proyectos escénicos grupales asumiendo roles con iniciativa y respeto."
+                },
+                {
+                    "code": "4.2",
+                    "description": "El alumnado evalúa y presenta los resultados de proyectos escénicos, analizando la relación entre objetivos y producto final."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Identificar oportunidades de desarrollo personal, social, académico o profesional relacionadas con el ámbito artístico, comprendiendo su valor añadido y expresando la opinión personal de forma crítica y respetuosa."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Valorar críticamente manifestaciones escénicas, identificando el público al que",
+            "description": "Valorar críticamente manifestaciones escénicas, identificando el público al que se dirigen y analizando sus características y sus presupuestos artísticos, para desarrollar el criterio estético, difundir el patrimonio y ampliar las posibilidades de di…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Analizar el público objetivo de un espectáculo a partir del estudio de la obra y las reacciones del público."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Comentar manifestaciones escénicas usando terminología específica y fuentes fiables, con reflexión crítica."
+                }
+            ]
+        }
+    ]
+}

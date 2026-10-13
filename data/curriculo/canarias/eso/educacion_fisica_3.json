@@ -1,0 +1,69 @@
+{
+    "community": "canarias",
+    "stage": "eso",
+    "decree": "Decreto 30\/2023, de 16 de marzo",
+    "subject": "educacion_fisica",
+    "subject_name": "Educación Física",
+    "grade": 3,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "(c1) Con el desarrollo de esta competencia se incide en la adquisición de un",
+            "description": "(c1) Con el desarrollo de esta competencia se incide en la adquisición de un estilo de vida saludable a partir de la actividad física, hecho que debe estar siempre como horizonte de aprendizaje en la comunidad canaria por los altos niveles de sobrepe…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Diseñar y estructurar rutinas de ejercicio físico personalizadas, basándose en una autoevaluación previa de la condición física y orientándolas hacia la mejora de la salud."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "(c2) Esta competencia específica supone la adecuación progresiva de los",
+            "description": "(c2) Esta competencia específica supone la adecuación progresiva de los procesos de percepción, decisión y ejecución en retos motores variados, reflexionando sobre el desempeño del proceso y la calidad del resultado. Implica la comprensión de la lógi…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Diseñar y ejecutar proyectos motores individuales o grupales, ajustando el proceso mediante la autoevaluación y la coevaluación para mejorar tanto el trabajo realizado como el resultado final."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "(c3) Esta competencia plantea que el alumnado intervenga en numerosas",
+            "description": "(c3) Esta competencia plantea que el alumnado intervenga en numerosas situaciones motrices con distintos grados y tipos de interacción, mostrando una actitud positiva, crítica y respetuosa en las relaciones interpersonales. El alumnado aprenderá a ge…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Participar en diversas actividades motrices mostrando deportividad, respetando las normas y asumiendo diferentes roles con una actitud ética y sin competitividad excesiva."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "(c4) El desarrollo de esta competencia desarrollará la experimentación por",
+            "description": "(c4) El desarrollo de esta competencia desarrollará la experimentación por parte del alumnado de distintas manifestaciones de la cultura motriz como elemento consolidador de la identidad propia y se desarrollará a través de la contextualización en un…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Organizar y participar en juegos tradicionales y actividades expresivas de diversas culturas, comprendiendo su origen histórico y su importancia social en la actualidad."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Identificar y describir las características de diversos deportes analizando de forma crítica los estereotipos de género y capacidad asociados a su práctica habitual."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "(c5) Esta competencia pretende que el alumnado adopte una actitud",
+            "description": "(c5) Esta competencia pretende que el alumnado adopte una actitud ecosocialmente responsable, avanzando hacia un estilo de vida sostenible de manera activa y comprometida a través de la práctica motriz, con la posibilidad de prestar servicios a la co…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Participar en actividades físicas en el medio natural o urbano, aplicando prácticas sostenibles para minimizar el impacto ambiental y reducir la huella ecológica personal."
+                }
+            ]
+        }
+    ]
+}

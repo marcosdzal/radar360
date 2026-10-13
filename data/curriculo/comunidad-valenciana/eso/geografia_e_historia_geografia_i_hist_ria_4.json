@@ -1,0 +1,162 @@
+{
+    "community": "comunidad-valenciana",
+    "stage": "eso",
+    "decree": "Decreto 107\/2022, de 5 de agosto",
+    "subject": "geografia_e_historia_geografia_i_hist_ria",
+    "subject_name": "Geografia i Història",
+    "grade": 4,
+    "competencias": [
+        {
+            "code": "CE2",
+            "name": "Buscar, identificar i seleccionar la informació referent a fets històrics,",
+            "description": "Buscar, identificar i seleccionar la informació referent a fets històrics, geogràfics i artístics a partir de diferents fonts documentals, i fer un tractament correcte quant a investigació, classificació, recollida, organització, crítica i respecte",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Contrastar la informació seleccionada per a comprendre fets històrics, geogràfics i artístics procedent de diferents fonts amb la provinent d'organismes oficials o emissors de prestigi reconegut."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Identificar i rebutjar prejudicis i estereotips identificant opinions no fonamentades en fets i sabers i comparant-les amb informació obtinguda a partir de fonts fiables."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Utilitzar la informació que contenen diferents fonts documentals per a explicar fets històrics, geogràfics i artístics relacionant-los amb la seua època."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Formular i comunicar de manera textual, gràfica o audiovisual conclusions i valoracions pròpies sobre fets històrics, geogràfics i artístics, mostrant un domini adequat dels conceptes i la metodologia de treball d'aquest àmbit de coneixement. QUART CURS"
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Explicar les nocions bàsiques de canvi i continuïtat en la història emprant una",
+            "description": "Explicar les nocions bàsiques de canvi i continuïtat en la història emprant una perspectiva causal i contextualitzada, reconéixer en el passat l’origen i l’evolució de les qüestions més rellevants del món actual i expressar judicis i opinions sobre e…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Construir un relat o una síntesi, cronològicament ordenada, coherent i emprant la terminologia adequada, sobre fets, processos i personatges rellevants del passat i la seua relació amb el present."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Contextualitzar i valorar decisions preses per persones del passat i\/o de contextos socials, polítics i culturals diferents del propi, i debatre sobre els motius de les seues accions."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Produir opinions i judicis de valor coherents sobre qüestions socials i polítiques del passat i del present, manifestant actituds de tolerància, respecte i interés cap a altres cultures i cosmovisions. QUART CURS"
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Contrastar les identitats individuals amb les col·lectives, identificar les",
+            "description": "Contrastar les identitats individuals amb les col·lectives, identificar les aportacions decisives en la seua construcció, reconeixent i valorant les actuacions de tolerància i respecte",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Identificar els elements definitoris de les identitats individuals i col·lectives més significatives del present establint la seua connexió amb fets del passat."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Argumentar a favor de les actituds tolerants, respectuoses i d'interés cap a altres identitats, tant individuals com col·lectives."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Promoure i exercir propostes pràctiques de convivència a l'aula i en el propi entorn social. QUART CURS"
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Explicar les interrelacions econòmiques fonamentals entre els elements de",
+            "description": "Explicar les interrelacions econòmiques fonamentals entre els elements de l’espai físic i les activitats de les societats humanes, així com la seua repercussió en la sostenibilitat",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Identificar i descriure les interrelacions entre els grups i les societats humanes i el medi ambient que han donat lloc a problemes i conflictes per l'accés als recursos naturals."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Explicar les causes de problemes i conflictes territorials i mediambientals, diferenciant i relacionant les diferents variables que hi intervenen."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Plantejar alternatives sostenibles argumentades als problemes i els impactes ocasionats per les activitats humanes. QUART CURS"
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Contrastar els principals models d’ocupació territorial i d’organització",
+            "description": "Contrastar els principals models d’ocupació territorial i d’organització política i econòmica que expliquen la desigualtat entre els éssers humans, tant a escala local com global",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Descriure les principals característiques dels diferents models d'organització territorial, política i econòmica."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Exposar raonadament les desigualtats generades pels models d'organització territorial, política i econòmica i explicar-ne les causes."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Explicar els principals problemes territorials, polítics i econòmics generats per les desigualtats i com afecten la vida quotidiana de les persones. QUART CURS"
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Donar arguments des d’una perspectiva crítica, fonamentada en coneixements",
+            "description": "Donar arguments des d’una perspectiva crítica, fonamentada en coneixements històrics i la geografia sobre problemes socials rellevants, assumir valors democràtics i pronunciar-se en la defensa d’aquests",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Justificar com les accions personals incideixen directament en els problemes socials rellevants."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Proporcionar arguments propis, fonamentats en la història i en la geografia, sobre els problemes socials més rellevants, reconeixent la incidència que la seua resolució tindrà en la millora les condicions de vida de les persones."
+                },
+                {
+                    "code": "7.3",
+                    "description": "Proposar solucions per als problemes basades en arguments històrics i geogràfics i que consideren els Objectius de Desenvolupament Sostenible (ODS). QUART CURS"
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Promoure projectes cooperatius de convivència i participar-hi, prenent com a",
+            "description": "Promoure projectes cooperatius de convivència i participar-hi, prenent com a base la construcció històrica de la Unió Europea, que afavorisquen un entorn més just i solidari mitjançant l’aplicació de valors i procediments democràtics",
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Participar en projectes cooperatius, assumint diversos rols amb eficàcia i responsabilitat, fent costat a companys i companyes i demostrant empatia."
+                },
+                {
+                    "code": "8.2",
+                    "description": "Denunciar les situacions injustes i d'exclusió, argumentant a favor del diàleg i la inclusió com a maneres de superar-les."
+                },
+                {
+                    "code": "8.3",
+                    "description": "Argumentar i aplicar els principis democràtics i el diàleg per a plantejar la resolució dels conflictes, tant en l'àmbit quotidià com a escala global, especialment utilitzant el referent de la construcció històrica de la Unió Europea. QUART CURS"
+                }
+            ]
+        },
+        {
+            "code": "CE9",
+            "name": "Identificar l’origen i reconéixer el valor del patrimoni cultural i natural,",
+            "description": "Identificar l’origen i reconéixer el valor del patrimoni cultural i natural, especialment dels elements geogràfics, històrics i artístics, tant a escala local com global, i participar en l’elaboració i la difusió de propostes que n’afavorisquen la pr…",
+            "criterios": [
+                {
+                    "code": "9.1",
+                    "description": "Identificar les característiques dels elements patrimonials, i relacionar-les amb estils artístics, època històrica i entorn geogràfic."
+                },
+                {
+                    "code": "9.2",
+                    "description": "Elaborar i exposar propostes argumentades que contribuïsquen a la preservació del patrimoni i la seua valoració, i que el reconeguen com a bé social."
+                }
+            ]
+        }
+    ]
+}

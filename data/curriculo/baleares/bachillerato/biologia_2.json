@@ -1,0 +1,100 @@
+{
+    "community": "baleares",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "biologia",
+    "subject_name": "Biología",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Interpretar i transmetre informacio i dades a partir de treballs cientifics i",
+            "description": "interpretar i transmetre informacio i dades a partir de treballs cientifics i argumentar sobre aquests amb precisió i utilitzant diferents formats per analitzar conceptes, processos, mètodes, experiments o resultats de les ciències biològiques. En la…",
+            "criterios": [
+                {
+                    "code": "CA1.1",
+                    "description": "Analitzar críticament conceptes i processos biològics, seleccionant i interpretant informació en diferents formats (models, gràfics, taules, diagrames, fórmules, esquemes o uns altres). Distingir entre conceptes i processos biològics. Raonar, amb base científica, sobre els conceptes i els processos biològics. Triar i interpretar informació en diferents formats (models, gràfics, taules, diagrames, fórmules, esquemes o uns altres)."
+                },
+                {
+                    "code": "CA1.2",
+                    "description": "Comunicar informacions o opinions raonades relacionades amb els sabers de la matèria i transmetre-les de manera clara i rigorosa, utilitzant la terminologia i el format adequats (models, gràfics, taules, vídeos, informes, diagrames, fórmules, esquemes, símbols o continguts digitals, entre altres) i responent de manera fonamentada i precisa a les qüestions que puguin sorgir durant el procés. Comunicar informacions o opinions raonades relacionades amb els sabers de la biologia. Transmetre informació i opinions de manera clara i rigorosa. Utilitzar la terminologia i el format adequat (models, gràfics, etc.) en les comunicacions. Respondre de forma fonamentada i precisa les qüestions plantejades relacionades amb els sabers de la biologia que puguin sorgir en el procés de comunicació."
+                },
+                {
+                    "code": "CA1.3",
+                    "description": "Argumentar sobre aspectes relacionats amb els sabers de la matèria i considerar els punts forts i febles de diferents postures de forma raonada i amb una actitud oberta, flexible, receptiva i respectuosa davant l'opinió dels altres. Valorar diferents postures relacionades amb els sabers bàsics de la matèria. Debatre de forma raonada sobre aspectes relacionats amb la biologia, tot respectant les opinions alienes i considerant els punts forts i febles. Justificar les opinions pròpies sobre aspectes relacionats amb els sabers de la biologia."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Localitzar i utilitzar fonts fiables, identificar, seleccionar i organitzar la",
+            "description": "localitzar i utilitzar fonts fiables, identificar, seleccionar i organitzar la informacio, avaluant-la críticament i contrastant-ne la veracitat, per resoldre preguntes plantejades de manera autònoma i crear continguts relacionats amb les ciències bi…",
+            "criterios": [
+                {
+                    "code": "CA2.1",
+                    "description": "Plantejar i resoldre qüestions i crear continguts relacionats amb els sabers de la matèria, tot localitzant i citant fonts de manera adequada; seleccionant, organitzant i analitzant críticament la informació. Plantejar qüestions relacionades amb la biologia. Produir continguts relacionats amb la biologia. Localitzar i citar fonts de manera adequada. Seleccionar i classificar informació fiable. Analitzar críticament la informació relacionada amb la biologia."
+                },
+                {
+                    "code": "CA2.2",
+                    "description": "Contrastar i justificar la veracitat d'informació relacionada amb la matèria, utilitzant fonts fiables, aportant dades i adoptant una actitud crítica i escèptica cap a informacions sense una base científica com pseudociències, teories de conspiració, creences infundades, faules, etc. Comprovar la veracitat de la informació provinent de diferents fonts relacionada amb la matèria. Adoptar una actitud crítica envers informacions sense una base científica. Esbrinar o comprovar l'origen i l'autoria de les diferents fonts consultades relacionades amb la biologia."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Analitzar treballs de recerca o divulgacio relacionats amb les ciencies",
+            "description": "analitzar treballs de recerca o divulgacio relacionats amb les ciencies biologiques, comprovant amb sentit crític la seva veracitat o si han seguit les passes dels mètodes científics, per avaluar la fiabilitat de les seves conclusions. El pensament c…",
+            "criterios": [
+                {
+                    "code": "CA3.1",
+                    "description": "Avaluar la fiabilitat de les conclusions d'un treball de recerca o divulgació científica relacionat amb els sabers de la matèria d'acord amb la interpretació dels resultats obtinguts. Valorar la importància dels resultats en la recerca científica. Avaluar la fiabilitat de les conclusions en un treball de recerca o de divulgació científica utilitzant els sabers propis de la biologia."
+                },
+                {
+                    "code": "CA3.2",
+                    "description": "Argumentar, amb exemples concrets, sobre la contribució de la ciència a la societat i la labor de les persones que s'hi dediquen, destacar el paper de la dona i entendre la recerca com una labor col·lectiva i interdisciplinària en constant evolució influïda pel context polític i social i pels recursos econòmics. Argumentar, de forma raonada, sobre la importància de la ciència en la millora de la societat amb exemples concrets. Reconèixer la contribució de la ciència i dels científics a la societat, tot destacant el paper de la dona a la societat. Percebre la biologia com una ciència en construcció i evolució contínua gràcies a la tasca col·lectiva i interdisciplinària influïda per la societat."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Plantejar i resoldre problemes, cercant i utilitzant les estrategies adequades,",
+            "description": "plantejar i resoldre problemes, cercant i utilitzant les estrategies adequades, analitzant críticament les solucions i reformulant el procediment, si és necessari, per explicar fenòmens relacionats amb les ciències biològiques.",
+            "criterios": [
+                {
+                    "code": "CA4.1",
+                    "description": "Explicar fenòmens biològics a través del plantejament i resolució de problemes, cercant i utilitzant les estratègies i recursos adequats. Explicar fenòmens biològics, a través del plantejament i resolució de problemes, cercant i utilitzant les estratègies i recursos adequats. Utilitzar el mètode científic en la resolució de problemes de l'àmbit de la biologia."
+                },
+                {
+                    "code": "CA4.2",
+                    "description": "Analitzar críticament la solució a un problema utilitzant els sabers de la matèria de Biologia i reformular els procediments o les conclusions, si la solució no és viable o davant noves dades aportades o oposades amb posterioritat. Analitzar críticament si la solució proposada a un problema relacionat amb la biologia és adequada. Proposar, de manera fonamentada, esmenes a la solució d'un problema si la solució no és viable o apareixen noves dades."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Analitzar criticament determinades accions relacionades amb la sostenibilitat i",
+            "description": "analitzar criticament determinades accions relacionades amb la sostenibilitat i la salut, basant-se en els fonaments de la biologia molecular, per argumentar sobre la importància d'adoptar estils de vida sostenibles i saludables. Des de la matèria de…",
+            "criterios": [
+                {
+                    "code": "CA5.1",
+                    "description": "Argumentar sobre la importància d'adoptar estils de vida saludables i compatibles amb el desenvolupament sostenible, basant-se en els principis de la biologia molecular i relacionant-los amb els processos macroscòpics. Valorar, usant els sabers propis de la biologia molecular, la importància dels estils de vida saludable en el desenvolupament d'una bona salut (física, mental i social). Relacionar els estils de vida saludables amb els processos macroscòpics. Justificar i valorar la importància de la relació entre els estils de vida saludable i el desenvolupament sostenible."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Analitzar la funcio de les principals biomolecules, bioelements i les seves",
+            "description": "analitzar la funcio de les principals biomolecules, bioelements i les seves estructures i interaccions bioquímiques, argumentant sobre la importància que tenen en els organismes vius per explicar les característiques macroscòpiques d'aquests a partir…",
+            "criterios": [
+                {
+                    "code": "CA6.1",
+                    "description": "Explicar les característiques i processos vitals dels éssers vius mitjançant l'anàlisi de les seves biomolècules, de les interaccions bioquímiques entre elles i de les seves reaccions metabòliques. Explicar la relació entre els bioelements i biomolècules i els processos vitals en els éssers vius. Explicar la relació entre els principals tipus de biomolècules i les interaccions bioquímiques entre elles. Analitzar la relació de les biomolècules en relació amb la funció que desenvolupen en la cèl·lula i en els éssers vius. Explicar la participació de les biomolècules en les reaccions metabòliques cel·lulars. Explicar l'estructura i la funció dels enzims en les reaccions metabòliques cel·lulars."
+                },
+                {
+                    "code": "CA6.2",
+                    "description": "Aplicar metodologies analítiques en el laboratori utilitzant els materials adequats amb precisió. Utilitzar tècniques de laboratori pròpies de la biologia. Planificar experiments que permetin identificar elements i processos propis de la biologia. Manipular correctament el material de laboratori relacionat amb la biologia."
+                }
+            ]
+        }
+    ]
+}

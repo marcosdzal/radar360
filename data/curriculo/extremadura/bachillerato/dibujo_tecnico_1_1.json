@@ -1,0 +1,109 @@
+{
+    "community": "extremadura",
+    "stage": "bachillerato",
+    "decree": "Decreto 113\/2022, de 25 de agosto",
+    "subject": "dibujo_tecnico_1",
+    "subject_name": "Dibujo Técnico I",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Representar e interpretar elementos o conjuntos arquitectónicos y de",
+            "description": "Representar e interpretar elementos o conjuntos arquitectónicos y de ingeniería, empleando recursos asociados a la percepción, estudio, construcción e investigación de formas y analizando tanto las estructuras geométricas como los elementos té…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar la relación histórica entre matemáticas y dibujo geométrico, valorando su importancia en arquitectura e ingeniería con perspectiva de género y diversidad cultural, empleando vocabulario técnico y artístico."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Mostrar curiosidad por identificar los elementos geométricos que encontramos en nuestro entorno:en construcciones ingenieriles y arquitectónicas, en la naturaleza, en diseños gráficos, artes decorativas, patrones textiles, etc. Competencia específica 2."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Utilizar razonamientos y procedimientos inductivos, deductivos y lógicos en problemas de índole gráfico-matemática",
+            "description": "Utilizar razonamientos y procedimientos inductivos, deductivos y lógicos en problemas de índole gráfico-matemática, aplicando fundamentos de la geometría plana y apreciando la idoneidad y practicidad de las resoluciones gráficas de operaciones m…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Resolver gráficamente operaciones matemáticas y transformaciones geométricas usando conceptos de geometría plana."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Dibujar polígonos usando sus propiedades geométricas con precisión y limpieza."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Resolver gráficamente tangencias y curvas aplicando propiedades con rigor."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Mostrar curiosidad por las relaciones entre las matemáticas y el dibujo para asimilar conceptos geométricos sobre la base de su justificación matemática (lugares geométricos, proporcionalidad, paralelismo y perpendicularidad...). Competencia específica 3."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Utilizar, practicar y desarrollar la visión espacial, utilizando la geometría",
+            "description": "Utilizar, practicar y desarrollar la visión espacial, utilizando la geometría descriptiva en sus proyectos, interpretando y recreando gráficamente la realidad tridimensional sobre la superficie del plano y apreciando el papel insustituible del dib…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Representar puntos, rectas y planos en sistema diédrico, determinando su posición relativa y distancias."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Identificar y describir figuras planas en sistemas axonométricos explicando su función como representación espacial."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Representación e interpretación de elementos básicos en sistema de planos acotados aplicando sus fundamentos."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Representar objetos tridimensionales sobre el plano aplicando las reglas de la perspectiva cónica."
+                },
+                {
+                    "code": "3.5",
+                    "description": "Valorar el rigor gráfico, claridad y precisión en el proceso de resolución y construcción gráfica."
+                },
+                {
+                    "code": "3.6",
+                    "description": "Valorar el rigor gráfico del proceso; la claridad, la precisión y el proceso de resolución y construcción gráfica. Competencia específica 4."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "F ormalizar y definir, de manera apropiada e inequívoca y en todos sus",
+            "description": "F ormalizar y definir, de manera apropiada e inequívoca y en todos sus detalles, diseños técnicos aplicando las normas UNE e ISO, valorando asimismo la importancia que tiene el croquis para documentar gráficamente proyectos arquitectónicos y de i…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "El alumnado dibuja las vistas normalizadas de objetos sencillos, aplicando escalas y formatos según normas UNE e ISO."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Aplicar el croquis y el esbozo como herramientas de reflexión para explorar alternativas en procesos de trabajo."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Representar digitalmente elementos geométricos, planos y esquemas técnicos",
+            "description": "Representar digitalmente elementos geométricos, planos y esquemas técnicos mediante el uso de programas específicos CAD de manera individual o grupal para virtualizar objetos y espacios en 2D y 3D, apreciando su uso en las profesiones actuales y co…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "El alumnado crea figuras planas y 3D con software de dibujo vectorial, aplicando herramientas y técnicas propias del CAD."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Diseñar virtualmente piezas 3D mediante operaciones booleanas entre primitivas para presentar proyectos en grupo."
+                }
+            ]
+        }
+    ]
+}

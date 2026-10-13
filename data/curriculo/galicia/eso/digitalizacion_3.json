@@ -1,0 +1,82 @@
+{
+    "community": "galicia",
+    "stage": "eso",
+    "decree": "Decreto 156\/2022, de 15 de septiembre",
+    "subject": "digitalizacion",
+    "subject_name": "Digitalización",
+    "grade": 3,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Identificar y resolver problemas técnicos sencillos y conectar y configurar dispositivos a redes domésticas",
+            "description": "Identificar y resolver problemas técnicos sencillos y conectar y configurar dispositivos a redes domésticas, aplicando los conocimientos de hardware y sistemas operativos para gestionar las herramientas e instalaciones informáticas y de comunicación …",
+            "criterios": [
+                {
+                    "code": "CE1.1",
+                    "description": "Utilizar equipamientos informáticos, identificando los elementos que los configuran y su función en el conjunto."
+                },
+                {
+                    "code": "CE1.2",
+                    "description": "Mantener sistemas operativos, configurando sus características en función de sus necesidades personales."
+                },
+                {
+                    "code": "CE1.3",
+                    "description": "Organizar la información de manera segura, utilizando diferentes medios digitales para la búsqueda rápida y eficaz en su gestión."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Configurar el entorno personal de aprendizaje interactuando y aprovechando los",
+            "description": "Configurar el entorno personal de aprendizaje interactuando y aprovechando los recursos del ámbito digital para optimizar y gestionar el aprendizaje permanente. - La presencia de elementos tecnológicos y medios digitales en nuestras vidas es un hecho…",
+            "criterios": [
+                {
+                    "code": "CE2.1",
+                    "description": "Crear, integrar y reelaborar contenidos digitales de forma individual o colectiva, seleccionando las herramientas más apropiadas para generar nuevo conocimiento y contenidos digitales de manera creativa."
+                },
+                {
+                    "code": "CE2.2",
+                    "description": "Interactuar en plataformas digitales, compartiendo y publicando información y datos, con una actitud participativa."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Desarrollar hábitos que fomenten el bienestar digital aplicando medidas",
+            "description": "Desarrollar hábitos que fomenten el bienestar digital aplicando medidas preventivas y correctivas para proteger dispositivos, datos personales y la propia salud. - El objetivo hace referencia a las medidas de seguridad que deben de adoptarse para cui…",
+            "criterios": [
+                {
+                    "code": "CE3.1",
+                    "description": "Comprender el fundamento básico de los algoritmos y diagramas de flujo utilizando entornos de programación gráfica."
+                },
+                {
+                    "code": "CE3.2",
+                    "description": "Desarrollar aplicaciones sencillas para ordenadores, dispositivos o móviles, dando solución a problemas definidos con una actitud emprendedora, perseverante y creativa."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Ejercer una ciudadanía digital crítica conociendo las posibles acciones que se",
+            "description": "Ejercer una ciudadanía digital crítica conociendo las posibles acciones que se realizan en la red, identificando sus repercusiones para hacer un uso activo, responsable y ético de la tecnología. - El objetivo hace referencia al conocimiento de las po…",
+            "criterios": [
+                {
+                    "code": "CE4.1",
+                    "description": "Proteger los datos personales y la huella digital generada en internet, configurando las condiciones de privacidad de las redes sociales y en espacios virtuales de trabajo."
+                },
+                {
+                    "code": "CE4.2",
+                    "description": "Gestionar contraseñas en los distintos servicios y dispositivos digitales de uso habitual."
+                },
+                {
+                    "code": "CE4.3",
+                    "description": "Identificar y saber reaccionar ante situaciones que representan una amenaza en la red escogiendo la mejor solución entre diversas opciones y valorando el bienestar personal y colectivo."
+                },
+                {
+                    "code": "CE4.4",
+                    "description": "Valorar la importancia de la protección de los derechos de autoría, utilizando aplicaciones, datos y creación digitales de terceros de manera ética, respetando las licencias de utilización."
+                }
+            ]
+        }
+    ]
+}

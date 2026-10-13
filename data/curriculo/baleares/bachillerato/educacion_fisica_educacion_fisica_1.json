@@ -1,0 +1,105 @@
+{
+    "community": "baleares",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "educacion_fisica_educacion_fisica",
+    "subject_name": "Educación Física",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Interioritzar el desenvolupament d'un estil de vida actiu i saludable,",
+            "description": "Interioritzar el desenvolupament d'un estil de vida actiu i saludable, planificant de manera responsable i conscient la seva activitat física a partir de l'autoavaluació personal sobre la base de paràmetres científics i avaluables, per satisfer les s…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Planifica, elabora y aplica un programa personal de actividad física para mejorar o mantener la salud, evaluando los resultados."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Aplicar autónomamente procesos de activación, autorregulación, alimentación, postura y relajación, reflexionando sobre su vínculo con futuros estudios o profesiones."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Aplica medidas de prevención de lesiones y primeros auxilios, identificando transferencias al ámbito profesional."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Analizar críticamente estereotipos corporales y conductas de riesgo en la información recibida, aplicando criterios científicos."
+                },
+                {
+                    "code": "1.5",
+                    "description": "Usar autónomamente apps y dispositivos para gestionar actividad física respetando privacidad y seguridad de datos."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Adaptar autònomament les capacitats físiques, perceptives, motrius i",
+            "description": "Adaptar autònomament les capacitats físiques, perceptives, motrius i coordinatives com també les habilitats i destreses motrius específiques d'algunes modalitats practicades a diferents situacions amb diferents nivells de dificultat, i consolidar act…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Gestionar autónomamente proyectos motores, resolviendo imprevistos y ajustándose a objetivos de forma creativa y eficiente."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Resuelve autónomamente situaciones de oposición\/colaboración ajustando estrategias a cambios en el juego."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Analiza los factores que condicionan la motricidad en gestos técnicos, identifica errores y propone soluciones."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Difondre i promoure noves pràctiques motrius i compartir espais d'activitat",
+            "description": "Difondre i promoure noves pràctiques motrius i compartir espais d'activitat fisicoesportiva amb independència de les diferències culturals, socials, de gènere i d'habilitat, prioritzant el respecte cap als participants i a les regles sobre els result…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Diseñar y dirigir actividades motrices valorando su aplicación profesional y beneficios personales y sociales."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Cooperar mostrando iniciativa en proyectos motrices y resolver imprevistos de forma coordinada."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Mediar en conflictos y establecer relaciones de respeto durante prácticas motrices, aplicando estrategias de prevención y posicionándose críticamente ante la discriminación."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Analitzar críticament i investigar sobre les pràctiques i manifestacions",
+            "description": "Analitzar críticament i investigar sobre les pràctiques i manifestacions culturals vinculades amb la motricitat segons el seu origen i evolució des de la perspectiva de gènere i des dels interessos econòmics, polítics i socials que n'hagin condiciona…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Analizar el origen y evolución de manifestaciones motrices, rechazando componentes contrarios a valores inclusivos."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Crear y representar composiciones corporales expresivas individuales o colectivas con o sin música."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Implementar un estil de vida sostenible i compromès amb la conservació i",
+            "description": "Implementar un estil de vida sostenible i compromès amb la conservació i millora de l'entorn, organitzar i desenvolupar accions de servei a la comunitat vinculades a l'activitat física i a l'esport i assumir responsabilitats en la seguretat de les pr…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Participar en actividades físicas en entornos naturales minimizando el impacto ambiental y contribuyendo a su conservación."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Organizar y practicar actividades físicas seguras en espacios naturales y urbanos."
+                }
+            ]
+        }
+    ]
+}

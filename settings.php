@@ -100,6 +100,29 @@ if ($hassiteconfig) {
         1
     ));
 
+    // ── Currículo (LOMLOE) ─────────────────────────────────────────────────────
+    $settings->add(new admin_setting_heading(
+        'local_sentinel/heading_curriculum',
+        get_string('settings:heading_curriculum', 'local_sentinel'),
+        ''
+    ));
+
+    $community_choices = ['' => get_string('settings:community_none', 'local_sentinel')];
+    $catalog = \local_sentinel\curriculum_manager::get_catalog();
+    if (!empty($catalog['communities'])) {
+        foreach ($catalog['communities'] as $c) {
+            $community_choices[$c['id']] = $c['name'];
+        }
+    }
+
+    $settings->add(new admin_setting_configselect(
+        'local_sentinel/community',
+        get_string('settings:community', 'local_sentinel'),
+        get_string('settings:community_desc', 'local_sentinel'),
+        '',
+        $community_choices
+    ));
+
     // ── Perfil de salida (LOMLOE) ─────────────────────────────────────────────
     $settings->add(new admin_setting_heading(
         'local_sentinel/heading_descriptors',

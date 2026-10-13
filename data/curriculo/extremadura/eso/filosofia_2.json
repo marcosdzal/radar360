@@ -1,0 +1,144 @@
+{
+    "community": "extremadura",
+    "stage": "eso",
+    "decree": "Decreto 110\/2022, de 22 de agosto",
+    "subject": "filosofia",
+    "subject_name": "Educación en Valores Cívicos y Éticos",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Indagar sobre la identidad humana y las cuestiones éticas relativas al propio",
+            "description": "Indagar sobre la identidad humana y las cuestiones éticas relativas al propio proyecto vital, analizando críticamente información fiable, de manera que se promueva el autoconocimiento y la elaboración razonada de planteamientos y juicios morales. El …",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Definir la identidad personal integrando dimensiones cívicas y morales, basándose en la investigación de diversas concepciones humanas y el diálogo reflexivo con el grupo."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Expresar y regular las propias emociones y deseos de forma empática y asertiva, fomentando el autoconocimiento y estableciendo relaciones afectivas y sexuales sanas y respetuosas."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Participar en debates y reflexiones sobre dilemas éticos actuales, como el acoso o el uso de redes, empleando argumentos razonados y respetando las opiniones ajenas."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Aplicar el pensamiento crítico y filosófico al análisis de problemas morales relacionados con el uso responsable, seguro y ético de las redes y medios de comunicación, el problema de la desinformación, los límites de la libertad de expresión, las conductas adictivas, la prevención del abuso, el acoso y el ciberacoso."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Actuar e interactuar de acuerdo con normas y valores cívicos y éticos a partir",
+            "description": "Actuar e interactuar de acuerdo con normas y valores cívicos y éticos a partir del reconocimiento fundado de su importancia para regular la vida comunitaria y su aplicación efectiva y justificada en distintos contextos, para promover una convivencia …",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Investigar los fundamentos sociales y políticos del ser humano, aplicando conceptos como democracia y derechos humanos para fomentar una convivencia pacífica y comprometida con el bien común."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Participar activamente en proyectos grupales y toma de decisiones democráticas, aplicando principios cívicos y conociendo el funcionamiento de las asociaciones para resolver problemas colectivos."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Analizar problemas sociales contemporáneos y dilemas científicos para adoptar una postura razonada y dialogante que promueva el compromiso activo con el bienestar de la comunidad."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Analizar las etapas del feminismo y las medidas contra la violencia de género, reconociendo la importancia de los derechos LGTBIQ+ para una convivencia igualitaria."
+                },
+                {
+                    "code": "2.5",
+                    "description": "Defender una postura ética y razonada sobre los derechos humanos, la diversidad y la importancia de los impuestos para el sostenimiento de los servicios públicos."
+                },
+                {
+                    "code": "2.6",
+                    "description": "Analizar el papel de las instituciones democráticas, organismos internacionales y fuerzas de seguridad en la promoción de la paz, la justicia y la solidaridad entre los pueblos."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "I dentificar y analizar problemas ecosociales de relevancia, entendiendo la",
+            "description": "I dentificar y analizar problemas ecosociales de relevancia, entendiendo la naturaleza intitudes éticamente comprometidos con el logro de formas de vida sostenibles tanto en un contexto local como global. El conocimiento y descripción de las relacion…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Explicar cómo las acciones humanas y el medioambiente dependen entre sí, analizando históricamente el origen y los efectos de los problemas ecológicos y sociales actuales."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Analizar y debatir diversas soluciones científicas, políticas y éticas ante la crisis climática, fundamentando una postura personal crítica y comprometida con la sostenibilidad."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Fomentar hábitos sostenibles y éticos mediante propuestas concretas sobre consumo, movilidad y respeto al entorno natural y animal para mejorar la convivencia ecosocial."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Reconocer y comprometerse con valores, prácticas y actitudes que promuevan la movilidad segura, saludable y sostenible, la gestión sostenible de los recursos, la prevención y gestión de los residuos, la alimentación y soberanía alimentaria y la atención a la sostenibilidad del medio rural en Extremadura."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Desarrollar y expresar una adecuada estima de sí mismo y del entorno",
+            "description": "Desarrollar y expresar una adecuada estima de sí mismo y del entorno, reconociendo y valorando los sentimientos y emociones propios y ajenos, para el logro de una actitud empática y cuidadosa con respecto a los demás y a la naturaleza.",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Gestionar y expresar emociones de forma asertiva, reconociendo los sentimientos ajenos mediante la reflexión individual y el diálogo sobre problemas éticos y el cuidado personal."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Reflexionar sobre el lugar y el significado de las emociones y sentimientos, describiendo las diferencias entre unos y otros, investigando las experiencias, valores, creencias e ideas que están en su génesis, y analizando su importancia en la explicación de las acciones y creaciones humanas."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Aplicar el conocimiento de los ODS en la región de Extremadura, valorando su importancia y la puesta en práctica en nuestras vidas"
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Comprender y valorar el funcionamiento de la economía verde y circular,",
+            "description": "Comprender y valorar el funcionamiento de la economía verde y circular, analizando la función que tiene en el desarrollo sostenible del entorno socioeconómico. El deterioro del planeta y su diversidad, así como los daños que ha sufrido por la utiliza…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Conocer lo que es la economía circular en el marco de la Unión Europea y por tanto las 7R (rediseñar, reducir, reutilizar, reparar, renovar, recuperar y reciclar)."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Descubrir las necesidades y las formas de transformar, para aplicar tecnologías sostenibles en un proyecto sencillo, dentro de un entorno local."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Afrontar el reto, con un compromiso de servicio a la comunidad, de definir un proyecto básico de emprendimiento."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Comprender y valorar el funcionamiento general de las organizaciones generando",
+            "description": "Comprender y valorar el funcionamiento general de las organizaciones generando respuestas creativas e innovadoras frente a la obsolescencia programada, reciclaje y reutilización, usando la metodología design-thinking para conseguir realismo en el pro…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Conocer lo que es la economía circular en el marco de la Unión Europea y por tanto las 7R (rediseñar, reducir, reutilizar, reparar, renovar, recuperar y reciclar)."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Descubrir las necesidades y las formas de transformar para aplicar tecnologías en un proyecto sencillo a través de medios sostenibles, dentro de un entorno local."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Afrontar el reto, con un compromiso de servicio a la comunidad, de definir un proyecto básico de emprendimiento."
+                }
+            ]
+        }
+    ]
+}

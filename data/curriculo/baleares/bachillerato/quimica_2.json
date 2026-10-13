@@ -1,0 +1,128 @@
+{
+    "community": "baleares",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "quimica",
+    "subject_name": "Química",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Comprendre, descriure i aplicar els fonaments dels processos quimics mes",
+            "description": "comprendre, descriure i aplicar els fonaments dels processos quimics mes importants, atenent la seva base experimental i als fenòmens que descriuen, per reconèixer el paper rellevant de la química en el desenvolupament de la societat. La química, com…",
+            "criterios": [
+                {
+                    "code": "CA1.1",
+                    "description": "Reconèixer la importància de la química i les seves connexions amb altres àrees en el desenvolupament de la societat, el progrés de la ciència, la tecnologia, l'economia i el desenvolupament sostenible respectuós amb el medi ambient, identificant els avenços en el camp de la química que han estat fonamentals en aquests aspectes. Reconèixer la importància de la química com també les connexions amb altres àrees en el desenvolupament de la societat el progrés de la ciència, la tecnologia, l'economia i el desenvolupament sostenible i respectuós amb el medi ambient, identificant els avenços en el camp de la química que han estat fonamentals en aquests aspectes."
+                },
+                {
+                    "code": "CA1.2",
+                    "description": "Descriure els principals processos químics que succeeixen en l'entorn i les propietats dels sistemes materials a partir dels coneixements, destreses i actituds propis de les diferents branques de la química. Descriure i interpretar els principals processos químics que succeeixen en l'entorn (reaccions d'equilibri, àcid-base, reacciones d'oxidació-reducció i reaccions de composts orgànics) i les propietats dels sistemes materials aplicant les destreses, coneixements i actituds pròpies de la química."
+                },
+                {
+                    "code": "CA1.3",
+                    "description": "Reconèixer la naturalesa experimental i interdisciplinària de la química i la seva influència en la recerca científica i en els àmbits econòmic i laboral actuals, considerant els fets empírics i les seves aplicacions en altres camps del coneixement i l'activitat humana. Reconèixer la naturalesa interdisciplinària i experimental de la química, a partir de fets empírics i la seva influència en la investigació científica. Considerar la importància de la química en els aspectes econòmics i laborals com també l'aplicació en altres disciplines i en l'activitat humana."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Adoptar els models i lleis de la quimica acceptats com a base d'estudi de les",
+            "description": "adoptar els models i lleis de la quimica acceptats com a base d'estudi de les propietats dels sistemes materials, per inferir solucions generals als problemes quotidians relacionats amb les aplicacions pràctiques de la química i les seves repercussio…",
+            "criterios": [
+                {
+                    "code": "CA2.1",
+                    "description": "Relacionar els principis de la química amb els principals problemes de l'actualitat associats al desenvolupament de la ciència i la tecnologia, analitzant com es comuniquen a través dels mitjans de comunicació o són observats en l'experiència quotidiana. Analitzar amb actitud crítica com es comuniquen en els mitjans de comunicació o com s'observen en l'experiència quotidiana els principals problemes de l'actualitat associats a la tecnologia i la ciència relacionats amb la química."
+                },
+                {
+                    "code": "CA2.2",
+                    "description": "Reconèixer i comunicar que les bases de la química constitueixen un cos de coneixement imprescindible en un marc contextual d'estudi i discussió de qüestions significatives en els àmbits social, econòmic, polític i ètic identificant la presència i influència d'aquestes bases en aquests àmbits. Identificar i comunicar la presència de la química en qüestions significatives dels àmbits social, econòmic, polític i ètic establint discussions argumentades."
+                },
+                {
+                    "code": "CA2.3",
+                    "description": "Aplicar de manera informada, coherent i raonada els models i lleis de la química, explicant i predient les conseqüències d'experiments, fenòmens naturals, processos industrials i descobriments científics. Aplicar de manera informada, coherent i raonada els models i lleis de la química, explicant i predient les conseqüències d'experiments, fenòmens naturals, processos industrials i descobriments científics."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Utilitzar amb correccio els codis del llenguatge quimic (nomenclatura quimica,",
+            "description": "utilitzar amb correccio els codis del llenguatge quimic (nomenclatura quimica, unitats, equacions, etc.), aplicant les seves regles específiques, per emprar-los com a base de la comunicació adequada entre diferents comunitats científiques i com a ein…",
+            "criterios": [
+                {
+                    "code": "CA3.1",
+                    "description": "Utilitzar correctament les normes de nomenclatura de la IUPAC com a base d'un llenguatge universal per a la química que permeti la comunicació efectiva en tota la comunitat científica, aplicant aquestes normes al reconeixement i l'escriptura de fórmules i noms de diferents espècies químiques. Aplicar correctament les normes de nomenclatura IUPAC en l'escriptura de fórmules i noms de diferents espècies químiques com a base del llenguatge universal que permet la comunicació efectiva amb tota la comunitat educativa."
+                },
+                {
+                    "code": "CA3.2",
+                    "description": "Emprar amb rigor eines matemàtiques per donar suport al desenvolupament del pensament científic que s'aconsegueix amb l'estudi de la química, aplicant aquestes eines en la resolució de problemes usant equacions, unitats, operacions, etc. Aplicar amb rigor les eines matemàtiques en la resolució de problemes utilitzant equacions, unitats, operacions algebraiques, etc. reconeixent el desenvolupament científic al qual s'arriba amb la química."
+                },
+                {
+                    "code": "CA3.3",
+                    "description": "Practicar i fer respectar les normes de seguretat relacionades amb la manipulació de substàncies químiques en el laboratori i en altres entorns, com també els procediments per a la correcta gestió i eliminació dels residus, utilitzant correctament els codis de comunicació característics de la química. Valorar, posar en pràctica i promoure les normes de seguretat relacionades amb la manipulació de productes químics i actuar correctament en la gestió i l'eliminació d'aquests. Utilitzar correctament els codis de comunicació de la química."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Reconeixer la importancia de l'us responsable dels productes i processos",
+            "description": "reconeixer la importancia de l'us responsable dels productes i processos quimics, elaborant arguments informats sobre la influència positiva que la química té sobre la societat actual, per contribuir a superar les connotacions negatives que en moltes…",
+            "criterios": [
+                {
+                    "code": "CA4.1",
+                    "description": "Analitzar la composició química dels sistemes materials que es troben en l'entorn més pròxim, en el medi natural i en l'entorn industrial i tecnològic, demostrant que les seves propietats, aplicacions i beneficis estan basats en els principis de la química. Analitzar la composició química de la matèria que es troba en diferents entorns pròxims com el medi natural, industrial i tecnològic. Demostrar el fet de que les propietats, aplicacions i beneficis dels composts químics estan basats en els principis de la química."
+                },
+                {
+                    "code": "CA4.2",
+                    "description": "Argumentar de manera informada, aplicant les teories i les lleis de la química, que els efectes negatius de determinades substàncies en l'ambient i en la salut es deuen al mal ús que es fa d'aquests productes o negligència i no a la ciència química en sí. Aplicar les lleis i teories de la química per argumentar raonadament que els efectes negatius en el medi ambient i en la salut de certes substàncies és per l'ús negligent i no al producte químic en sí, per desestigmatitzar la ciència química."
+                },
+                {
+                    "code": "CA4.3",
+                    "description": "Explicar, emprant els coneixements científics adequats, quins són els beneficis dels nombrosos productes de la tecnologia química i com el seu ús i aplicació han contribuït al progrés de la societat. Emprar els coneixements científics i en especial els de química per explicar els beneficis dels productes de la tecnologia química i com l'ús i aplicacions d'aquests ha contribuït al progrés i benestar de la societat."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Aplicar tecniques de treball propies de les ciencies experimentals i el",
+            "description": "aplicar tecniques de treball propies de les ciencies experimentals i el raonament logicomatemàtic en la resolució de problemes de química i en la interpretació de situacions relacionades, valorant la importància de la cooperació, per posar en valor e…",
+            "criterios": [
+                {
+                    "code": "CA5.1",
+                    "description": "Reconèixer la important contribució en la química del treball col·laboratiu entre especialistes de diferents disciplines científiques posant en relleu les connexions entre les lleis i teories pròpies de cada una. Analitzar la contribució del treball col·laboratiu de diferents disciplines científiques reconeixent la important contribució de la química. Reconèixer les connexions entre lleis i teories de diferents disciplines científiques."
+                },
+                {
+                    "code": "CA5.2",
+                    "description": "Reconèixer l'aportació de la química al desenvolupament del pensament científic i a l'autonomia de pensament crític a través de la posada en pràctica de les metodologies de treball pròpies de les disciplines científiques. Reconèixer les aportacions de la química en la ciència. Posar en pràctica el mètode científic, l'autonomia i el pensament crític."
+                },
+                {
+                    "code": "CA5.3",
+                    "description": "Resoldre problemes relacionats amb la química i estudiar situacions relacionades amb aquesta ciència, tot reconeixent la importància de la contribució particular de cada membre de l'equip i la diversitat de pensament i consolidant habilitats socials positives en el si d'equips de treball. Resoldre i estudiar problemes i situacions relacionats amb la química de forma col·laborativa. Reconèixer la importància de cada membre de l'equip, valorant la diversitat de pensament i consolidant les habilitats socials positives en el sí dels equips."
+                },
+                {
+                    "code": "CA5.4",
+                    "description": "Representar i visualitzar de manera eficient els conceptes de química que presentin majors dificultats utilitzant eines digitals i recursos variats, incloent experiències de laboratori real i virtual. Utilitzar eines i recursos variats (com laboratori virtual) per visualitzar i representar els conceptes químics que presenten més dificultat."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Reconeixer i analitzar la quimica com una area de coneixement multidisciplinari",
+            "description": "reconeixer i analitzar la quimica com una area de coneixement multidisciplinari i versàtil, posant de manifest les relacions amb altres ciències i camps de coneixement, per realitzar a través d'aquesta una aproximació holística al coneixement científ…",
+            "criterios": [
+                {
+                    "code": "CA6.1",
+                    "description": "Explicar i raonar els conceptes fonamentals que es troben en la base de la química aplicant els conceptes, lleis i teories d'altres disciplines científiques (especialment de la física) a través de l'experimentació i la indagació. Explicar i raonar els conceptes fonamentals de la química aplicant els conceptes, lleis i teories d'altres disciplines científiques (física, biologia, etc.) a través del treball experimental i la recerca."
+                },
+                {
+                    "code": "CA6.2",
+                    "description": "Deduir les idees fonamentals d'altres disciplines científiques (per exemple, la biologia o la tecnologia) per mitjà de la relació entre els seus continguts bàsics i les lleis i teories que són pròpies de la química. Relacionar els continguts bàsics, lleis i teories propis de la química amb les idees d'altres disciplines com la biologia, la física, la tecnologia, etc."
+                },
+                {
+                    "code": "CA6.3",
+                    "description": "Solucionar problemes i qüestions que són característics de la química utilitzant les eines proveïdes per les matemàtiques i la tecnologia, reconeixent així la relació entre els fenòmens experimentals i naturals i els conceptes propis d'aquesta disciplina. Solucionar problemes i qüestions de la química utilitzant eines proveïdes per les matemàtiques i la tecnologia, reconeixent així la relació entre els fenòmens experimentals i naturals amb els conceptes propis d'aquesta disciplina."
+                }
+            ]
+        }
+    ]
+}

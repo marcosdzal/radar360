@@ -1,0 +1,122 @@
+{
+    "community": "la-rioja",
+    "stage": "bachillerato",
+    "decree": "Decreto 22\/2022, de 27 de julio",
+    "subject": "lengua_castellana",
+    "subject_name": "Lengua Castellana y Literatura I",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE2",
+            "name": "Comprender e interpretar textos orales y multimodales, con especial atención a",
+            "description": "Comprender e interpretar textos orales y multimodales, con especial atención a los textos académicos y de los medios de comunicación, recogiendo el sentido general y la información más relevante, identificando el punto de vista y la intención del emi…",
+            "criterios": [
+                {
+                    "code": "2.2",
+                    "description": "Evaluar la calidad y fiabilidad de textos orales y multimodales complejos, analizando forma, contenido y eficacia comunicativa."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Comprender, interpretar y valorar textos escritos, con sentido crítico y",
+            "description": "Comprender, interpretar y valorar textos escritos, con sentido crítico y diferentes propósitos de lectura, con especial atención a textos académicos y de los medios de comunicación, reconociendo el sentido global y las ideas principales y secundarias…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Analizar textos especializados (académicos y mediáticos) extrayendo sentido global, estructura, información relevante e intención del emisor mediante inferencias."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Producir textos escritos y multimodales coherentes, cohesionados, adecuados y",
+            "description": "Producir textos escritos y multimodales coherentes, cohesionados, adecuados y correctos, con especial atención a los géneros discursivos del ámbito académico, para construir conocimiento y dar respuesta de manera informada, eficaz y creativa a demand…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Elaborar textos académicos con planificación, redacción y revisión individual o grupal, asegurando coherencia, cohesión y registro adecuado."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Aplicar procedimientos discursivos, lingüísticos y estilísticos para enriquecer textos escritos con precisión y corrección."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Seleccionar y contrastar información procedente de diferentes fuentes",
+            "description": "Seleccionar y contrastar información procedente de diferentes fuentes, evaluando su fiabilidad y pertinencia en función de los objetivos de lectura y evitando los riesgos de manipulación y desinformación, e integrarla y transformarla en conocimiento …",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Elaborar trabajos de investigación autónoma seleccionando y contrastando fuentes, evaluando su fiabilidad y comunicando con creatividad y respeto a la propiedad intelectual."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Seleccionar y leer de manera autónoma obras relevantes de la literatura",
+            "description": "Seleccionar y leer de manera autónoma obras relevantes de la literatura contemporánea como fuente de placer y conocimiento, configurando un itinerario lector que se enriquezca progresivamente en cuanto a diversidad, complejidad y calidad de las obras…",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Explica con argumentos la selección de lecturas, el acceso a la cultura literaria y la experiencia lectora."
+                },
+                {
+                    "code": "7.2",
+                    "description": "El alumnado comunica su experiencia lectora usando metalenguaje y vinculando la obra con otras creaciones."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Leer, interpretar y valorar obras relevantes de la literatura española e",
+            "description": "Leer, interpretar y valorar obras relevantes de la literatura española e hispanoamericana, utilizando un metalenguaje específico y movilizando la experiencia biográfica y los conocimientos literarios y culturales, para establecer vínculos entre texto…",
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Explicar y argumentar la interpretación de obras literarias mediante análisis interno y externo usando metalenguaje y juicios estéticos."
+                },
+                {
+                    "code": "8.2",
+                    "description": "El alumnado produce un proyecto de investigación que relaciona clásicos con otras manifestaciones artísticas y expresa su respuesta personal."
+                }
+            ]
+        },
+        {
+            "code": "CE9",
+            "name": "Consolidar y profundizar en el conocimiento explícito y sistemático sobre la",
+            "description": "Consolidar y profundizar en el conocimiento explícito y sistemático sobre la estructura de la lengua y sus usos, reflexionando de manera autónoma sobre las elecciones lingüísticas y discursivas con la terminología adecuada, para desarrollar la concie…",
+            "criterios": [
+                {
+                    "code": "9.1",
+                    "description": "Revisar textos propios argumentando los cambios con metalenguaje y corregir problemas de comprensión lectora."
+                },
+                {
+                    "code": "9.2",
+                    "description": "Explicar y argumentar cómo el propósito del emisor condiciona sus elecciones lingüísticas y cómo afectan al receptor, usando metalenguaje."
+                },
+                {
+                    "code": "9.3",
+                    "description": "Investiga aspectos del funcionamiento de la lengua, formula hipótesis, generaliza y presenta resultados usando terminología lingüística."
+                }
+            ]
+        },
+        {
+            "code": "CE0",
+            "name": "Poner las prácticas comunicativas al servicio de la convivencia democrática, la",
+            "description": "Poner las prácticas comunicativas al servicio de la convivencia democrática, la resolución dialogada de los conflictos y la igualdad de derechos de todas las personas, utilizando un lenguaje no discriminatorio y desterrando los abusos de poder a trav…",
+            "criterios": [
+                {
+                    "code": "10.1",
+                    "description": "Analizar y eliminar usos discriminatorios y manipuladores del lenguaje mediante el análisis crítico de elementos lingüísticos y discursivos."
+                },
+                {
+                    "code": "10.2",
+                    "description": "Aplicar estrategias para resolver conflictos y buscar consensos mediante el diálogo en distintos ámbitos."
+                }
+            ]
+        }
+    ]
+}

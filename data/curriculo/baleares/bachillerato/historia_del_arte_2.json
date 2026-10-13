@@ -1,0 +1,114 @@
+{
+    "community": "baleares",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "historia_del_arte",
+    "subject_name": "Historia del Arte",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Identificar diferents concepcions de l'art al llarg de la història,",
+            "description": "Identificar diferents concepcions de l'art al llarg de la història, seleccionant i analitzant informació de manera crítica, per valorar la diversitat de manifestacions artístiques com a producte de la creativitat humana i fomentar el respecte per aqu…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Investigar y debatir sobre las distintas definiciones de arte a través del tiempo, analizando obras específicas para comprender la evolución del concepto artístico y su diversidad."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Reconèixer els diversos llenguatges artístics com una forma de comunicació i",
+            "description": "Reconèixer els diversos llenguatges artístics com una forma de comunicació i expressió d'idees, desigs i emocions, utilitzant amb correcció la terminologia i el vocabulari específic de la matèria, per expressar amb coherència i fluïdesa els judicis i…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Expresar juicios personales argumentados sobre obras de arte, empleando terminología técnica con fluidez y respetando las opiniones ajenas en un contexto de comunicación estética."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Distingir les diferents funcions de l'art al llarg de la història, analitzant",
+            "description": "Distingir les diferents funcions de l'art al llarg de la història, analitzant la dimensió religiosa, ideològica, política, social, econòmica, expressiva i pròpiament estètica de l'obra d'art, de la seva producció i la seva percepció, per promoure l'a…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Identificar y explicar las diversas funciones (política, religiosa, estética, etc.) de una obra de arte, valorando su impacto social y su propósito original."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Identificar i caracteritzar els principals moviments artístics al llarg de la",
+            "description": "Identificar i caracteritzar els principals moviments artístics al llarg de la història, reconeixent les relacions d'influència, préstec, continuïtat i ruptura que es produeixen entre ells, per comprendre els mecanismes que regeixen l'evolució de la h…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Explicar las características y el contexto de los movimientos artísticos, analizando su función social y evolución cronológica para comprender su importancia histórica."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Analizar comparativamente obras de arte de distintos periodos para explicar cómo evolucionan los estilos mediante influencias, continuidades o rupturas estéticas e ideológicas."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Identificar i contextualitzar en l'espai i el temps les manifestacions i",
+            "description": "Identificar i contextualitzar en l'espai i el temps les manifestacions i personalitats artístiques més rellevants, analitzant-ne l'entorn social, polític i cultural i els seus aspectes biogràfics, per valorar les obres i els seus artistes com a expre…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Realizar comentarios de obras de arte integrando el análisis formal con su contexto histórico, funciones originales y trascendencia social, política y cultural de la época."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Analizar la vida y obra de artistas relevantes mediante reseñas biográficas que expliquen cómo sus vivencias influyen en el significado y valor de sus creaciones."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Conèixer i valorar el patrimoni artístic en l'àmbit local, nacional i mundial,",
+            "description": "Conèixer i valorar el patrimoni artístic en l'àmbit local, nacional i mundial, analitzant exemples concrets del seu aprofitament i les seves funcions, per contribuir a la conservació, l'ús compromès a favor de la consecució dels objectius de desenvol…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Analizar los procesos de gestión, conservación y difusión del patrimonio artístico, evaluando el impacto de la actividad humana y la importancia de su uso sostenible."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Analizar cómo las obras de arte y el patrimonio construyen la identidad personal y colectiva mediante el estudio de la autorrepresentación y la simbología grupal."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Distingir i descriure els canvis estètics i els diferents cànons de bellesa al",
+            "description": "Distingir i descriure els canvis estètics i els diferents cànons de bellesa al llarg de la història de l'art, realitzant anàlisis comparatives entre obres de diversos estils, èpoques i llocs, per formar-se una imatge ajustada de si mateix i consolida…",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Analizar y comparar la evolución de los cánones estéticos en la historia del arte para desarrollar una visión crítica sobre la belleza y la diversidad cultural."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Integrar la perspectiva de gènere en l'estudi de la història de l'art,",
+            "description": "Integrar la perspectiva de gènere en l'estudi de la història de l'art, analitzant el paper que ha ocupat la dona i la imatge que se n'ha donat en els diferents estils i moviments artístics, per visibilitzar a les artistes i promoure la igualtat efect…",
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Identificar y analizar la obra de mujeres artistas a lo largo de la historia, vinculando su producción con su contexto histórico y las dificultades de género."
+                },
+                {
+                    "code": "8.2",
+                    "description": "Analizar la evolución de la imagen femenina y sus roles en el arte mediante la comparación crítica de obras de diferentes periodos y contextos culturales."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "community": "aragon",
+    "stage": "eso",
+    "decree": "Orden ECD\/1172\/2022, de 2 de agosto",
+    "subject": "segunda_lengua_aleman",
+    "subject_name": "Segunda Lengua Extranjera: Alemán",
+    "grade": 3,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Comprender e interpretar el sentido general y los detalles más relevantes de",
+            "description": "Comprender e interpretar el sentido general y los detalles más relevantes de textos expresados de forma clara y en la lengua estándar, buscando fuentes fiables y haciendo uso de estrategias como la inferencia de significados, para responder a necesid…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Interpretar y analizar textos orales, escritos y multimodales breves y sencillos sobre temas cotidianos y próximos."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Aplica estrategias para comprender textos cotidianos, inferir significados y extraer información esencial y detalles relevantes."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Aplicar estrategias de comprensión para extraer sentido general e información relevante de textos en alemán, gestionando fuentes fiables."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Producir textos originales, de extensión media, sencillos y con una",
+            "description": "Producir textos originales, de extensión media, sencillos y con una organización clara, usando estrategias tales como la planificación, la compensación o la autorreparación, para expresar de forma creativa, adecuada y coherente mensajes relevantes y …",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Expresar oralmente textos breves sobre asuntos cotidianos usando apoyos y estrategias."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Redactar textos breves y comprensibles sobre temas cotidianos, con claridad, coherencia y cohesión, usando pautas y herramientas digitales o analógicas."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Aplicar estrategias de planificación, producción y revisión para crear textos en alemán."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Interactuar con otras personas con creciente autonomía, usando estrategias de",
+            "description": "Interactuar con otras personas con creciente autonomía, usando estrategias de cooperación y empleando recursos analógicos y digitales, para responder a propósitos comunicativos concretos en intercambios respetuosos con las normas de cortesía.",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Planificar y participar en breves diálogos sobre temas cotidianos, usando soportes y mostrando empatía y cortesía."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Aplicar estrategias para iniciar, mantener y terminar conversaciones, turnarse y pedir aclaraciones en alemán, con ayuda."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Mediar en situaciones cotidianas entre distintas lenguas, usando estrategias y",
+            "description": "Mediar en situaciones cotidianas entre distintas lenguas, usando estrategias y conocimientos sencillos orientados a explicar conceptos o simplificar mensajes, para transmitir información de manera eficaz, clara y responsable.",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Explicar textos breves en alemán para mediar entre lenguas con respeto y empatía, usando recursos sencillos."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Aplicar estrategias guiadas de mediación con apoyos para facilitar comprensión y comunicación."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Ampliar y usar los repertorios lingüísticos personales entre distintas lenguas,",
+            "description": "Ampliar y usar los repertorios lingüísticos personales entre distintas lenguas, reflexionando de forma crítica sobre su funcionamiento y tomando conciencia de las estrategias y conocimientos propios, para mejorar la respuesta a necesidades comunicati…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Compara y contrasta lenguas para reflexionar sobre su funcionamiento de forma autónoma."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Aplica y distingue estrategias de aprendizaje y comunicación en alemán, usando apoyos analógicos y digitales."
+                },
+                {
+                    "code": "5.3",
+                    "description": "El alumnado registra sus progresos y dificultades en alemán usando el PEL o diario de aprendizaje, y comparte estrategias."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Valorar críticamente y adecuarse a la diversidad lingüística, cultural y",
+            "description": "Valorar críticamente y adecuarse a la diversidad lingüística, cultural y artística a partir de la lengua extranjera, identificando y compartiendo las semejanzas y las diferencias entre lenguas y culturas, para actuar de forma empática y respetuosa en…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Actuar con empatía y respeto en encuentros interculturales usando alemán, rechazando prejuicios y discriminaciones."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Aceptar y valorar la diversidad cultural y lingüística de países germanoparlantes, mostrando interés y compartiendo elementos que fomenten sostenibilidad y democracia."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Aplica estrategias guiadas para explicar y apreciar la diversidad lingüística, cultural y artística desde el alemán."
+                }
+            ]
+        }
+    ]
+}

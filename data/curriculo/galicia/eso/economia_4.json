@@ -1,0 +1,154 @@
+{
+    "community": "galicia",
+    "stage": "eso",
+    "decree": "Decreto 156\/2022, de 15 de septiembre",
+    "subject": "economia",
+    "subject_name": "Economía y Emprendimiento",
+    "grade": 4,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Analizar y valorar las fortalezas y debilidades propias y de los demás,",
+            "description": "Analizar y valorar las fortalezas y debilidades propias y de los demás, reflexionando sobre las aptitudes y gestionando de forma eficaz las emociones y las destrezas necesarias, para adaptarse a entornos cambiantes y diseñar un proyecto personal que …",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Crear un proyecto personal original adaptándose a entornos complejos, valorando aptitudes propias y controlando emociones."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Aplicar estrategias de análisis razonado para valorar fortalezas, debilidades, iniciativa y creatividad propias y ajenas."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Aplica estrategias de gestión emocional y destrezas personales para fomentar la creatividad en proyectos."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Poner en práctica las habilidades sociales de la persona emprendedora, de comunicación abierta, motivación, liderazgo y de cooperación e innovación ágil, tanto de manera presencial como a distancia, en distintos contextos de trabajo en equipo, valorando, respetando y asumiendo las aportaciones de los demás en las distintas dinámicas de trabajo en grupo."
+                },
+                {
+                    "code": "1.5",
+                    "description": "Superar los retos propuestos a partir de ideas y soluciones innovadoras y sostenibles, evaluando su impacto en la sociedad."
+                },
+                {
+                    "code": "1.6",
+                    "description": "Construir ideas creativas y sostenibles aplicando metodologías ágiles que faciliten la superación de los retos expuestos con sentido ético y solidario."
+                },
+                {
+                    "code": "1.7",
+                    "description": "Validar las ideas y soluciones utilizando estrategias comunicativas ágiles adaptadas a cada situación comunicativa."
+                },
+                {
+                    "code": "1.8",
+                    "description": "Presentar y exponer, con claridad y coherencia, las ideas y soluciones creativas, adquiriendo habilidades y técnicas de expresión oral con apoyo audiovisual en la puesta en común de estas."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Utilizar estrategias de conformación de equipos, así como habilidades sociales,",
+            "description": "Utilizar estrategias de conformación de equipos, así como habilidades sociales, de comunicación e innovación ágil, aplicándolas con autonomía y motivación a las dinámicas de trabajo en distintos contextos, para constituir equipos eficaces y descubrir…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Constituir equipos de trabajo equitativos, participativos y con metas comunes optimizando recursos humanos."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Aplicar de manera autónoma habilidades sociales, comunicación abierta, motivación, liderazgo y cooperación en equipos presenciales y a distancia."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Valorar y respetar las aportaciones de compañeros en dinámicas de equipo, aceptando decisiones colectivas."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Proponer ideas y soluciones innovadoras y sostenibles, evaluando el impacto que puedan generar en el ámbito personal y en el entorno y aplicando metodologías ágiles para la obtención de soluciones a las necesidades detectadas con sentido ético y solidario."
+                },
+                {
+                    "code": "2.5",
+                    "description": "Afrontar los retos en distintos contextos y situaciones, reales o simuladas, transfiriendo los conocimientos económicos y financieros necesarios y siendo consciente de la importancia para la persona emprendedora de la capacidad de anticipación a los cambios del entorno."
+                },
+                {
+                    "code": "2.6",
+                    "description": "Valorar críticamente el problema económico de la escasez de recursos, la necesidad de elegir y la propuesta de soluciones que supongan un mejor aprovechamiento de los recursos y la reutilización circular de los destrozos generados que contribuyan a la sostenibilidad del sistema."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Elaborar, con sentido ético y solidario, ideas y soluciones innovadoras y",
+            "description": "Elaborar, con sentido ético y solidario, ideas y soluciones innovadoras y sostenibles que den respuesta a las necesidades locales y globales detectadas, utilizando metodologías ágiles de ideación y analizando tanto sus puntos fuertes y débiles como e…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Elaborar propuestas locales y globales que preserven el medio natural, social, cultural y artístico con visión sostenible y emprendedora."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Evaluar ideas innovadoras y sostenibles para superar retos, analizando sus ventajas, inconvenientes e impacto personal y contextual."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Aplicar metodologías ágiles para construir ideas creativas y sostenibles con sentido ético, superando retos."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Utilizar con autonomía estrategias de captación y gestión de recursos conociendo sus características y aplicándolas al proceso de conversión de las ideas y soluciones en acciones y planificando con coherencia su organización, distribución, uso y optimización."
+                },
+                {
+                    "code": "3.5",
+                    "description": "Presentar y exponer, con claridad y coherencia, ideas y soluciones creativas, con el fin de captar recursos para la financiación y el mecenazgo de este."
+                },
+                {
+                    "code": "3.6",
+                    "description": "Desarrollar una idea o una solución emprendedora viendo la relación entre los conocimientos adquiridos y los recursos necesarios y disponibles que permitan su desarrollo, identificando los más adecuados en distintos contextos y situaciones, reales o simuladas y aplicando los conocimientos económicos y financieros necesarios."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Seleccionar y reunir los recursos disponibles en el proceso de desarrollo de la",
+            "description": "Seleccionar y reunir los recursos disponibles en el proceso de desarrollo de la idea o solución creativa propuesta, conociendo los medios de producción y las fuentes financieras que proporcionan dichos recursos y aplicando estrategias de captación de…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Poner en marcha un proyecto seleccionando y reuniendo los recursos disponibles de forma ética y eficiente."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Aplica con autonomía estrategias para captar y gestionar recursos, transformando ideas en acciones."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Analizar y seleccionar recursos disponibles para el proyecto emprendedor, planificando su organización y uso óptimo."
+                },
+                {
+                    "code": "4.4",
+                    "description": "Utilizar con autonomía estrategias de captación y de gestión de recursos conociendo sus características y aplicándolas al proceso de conversión de las ideas y soluciones en acciones."
+                },
+                {
+                    "code": "4.5",
+                    "description": "Validar las ideas y las soluciones presentadas mediante mensajes convincentes y ade-"
+                },
+                {
+                    "code": "4.6",
+                    "description": "Desarrollar una idea o una solución emprendedora a partir de los conocimientos, destrezas y actitudes adquiridos desde el ámbito de la economía y de las finanzas, viendo la relación entre estos y los recursos necesarios y disponibles que permitan su desarrollo."
+                },
+                {
+                    "code": "4.7",
+                    "description": "Conocer y comprender con precisión los contenidos necesarios del ámbito económico y financiero aplicándolos con coherencia a situaciones, actividades o proyectos concretos."
+                },
+                {
+                    "code": "4.8",
+                    "description": "Afrontar los retos de manera eficaz, equitativa y sostenible, en distintos contextos aplicando los conocimientos económicos y financieros necesarios."
+                },
+                {
+                    "code": "4.9",
+                    "description": "Utilizar estrategias eficaces de diseño y ejecución del prototipo final utilizando métodos de trabajo ágiles, cooperativos y autónomos, analizando de manera crítica el proceso de diseño y ejecución llevado a cabo y valorando su viabilidad y adecuación empleada en la construcción de este."
+                }
+            ]
+        }
+    ]
+}

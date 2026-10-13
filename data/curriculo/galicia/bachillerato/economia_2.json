@@ -1,0 +1,129 @@
+{
+    "community": "galicia",
+    "stage": "bachillerato",
+    "decree": "Decreto 157\/2022, de 15 de septiembre",
+    "subject": "economia",
+    "subject_name": "Empresa y Diseño de Modelos de Negocio",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Analizar la actividad empresarial y emprendedora",
+            "description": "Analizar la actividad empresarial y emprendedora, reconociendo el poder de transformación que ejercen en la sociedad y reflexionando sobre el valor de la innovación y la digitalización en este proceso, para comprender el papel que desempeñan dentro d…",
+            "criterios": [
+                {
+                    "code": "CE1.1",
+                    "description": "Comprender la importancia de la actividad empresarial y el emprendimiento en la economía actual, reconociendo el poder de transformación que ejercen en la sociedad y reflexionando sobre el valor de la innovación y la digitalización."
+                },
+                {
+                    "code": "CE1.2",
+                    "description": "Analizar el papel de la I+D+i en el desarrollo social y empresarial, identificando nuevas tendencias y tecnologías que tienen un alto impacto en la economía."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Investigar el entorno económico y social y su influencia en la actividad",
+            "description": "Investigar el entorno económico y social y su influencia en la actividad empresarial, analizando las interrelaciones empresas-entorno e identificando estrategias viables que partan de los criterios de responsabilidad social corporativa, de la igualda…",
+            "criterios": [
+                {
+                    "code": "CE1.4",
+                    "description": "Conocer los distintos tipos de empresa, sus elementos y funciones, así como las formas jurídicas que adoptan relacionando cada una de ellas con la responsabilidad legal de sus propietarios y gestores y con las exigencias de capital."
+                },
+                {
+                    "code": "CE1.5",
+                    "description": "Identificar y analizar las características del contexto en el que la empresa desarrolla su actividad, explicando, a partir de estas, las distintas estrategias y decisiones adoptadas y las posibles implicaciones sociales y medioambientales de su actividad."
+                },
+                {
+                    "code": "CE2.1",
+                    "description": "Identificar y analizar las distintas políticas empresariales de gestión, contratación y formación de recursos humanos, valorando y reconociendo las actuaciones de las empresas en materia de igualdad e inclusión."
+                },
+                {
+                    "code": "CE3.1",
+                    "description": "Valorar la capacidad de adaptación ágil, responsable y sostenible de las empresas a las exigencias del mercado, explorando ideas, escenarios futuros y nuevos patrones y modelos de negocio."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Reconocer y comprender modelos de negocio actuales comparándolos con otros",
+            "description": "Reconocer y comprender modelos de negocio actuales comparándolos con otros modelos tradicionales y aplicando estrategias y herramientas que faciliten el diseño creativo para proponer modelos de negocio que aporten valor, permitan satisfacer necesidad…",
+            "criterios": [
+                {
+                    "code": "CE2.2",
+                    "description": "Comprender el concepto de modelo de negocio como una forma de dar respuesta a las necesidades actuales, comparando distintos modelos, desde los más tradicionales a los más innovadores."
+                },
+                {
+                    "code": "CE2.3",
+                    "description": "Analizar las características organizativas y funcionales de la empresa, explicando, a partir de ellas, las decisiones de planificación, gestión y optimización de actividades, recursos y asociaciones clave de un modelo de negocio innovador."
+                },
+                {
+                    "code": "CE2.4",
+                    "description": "Analizar y tomar decisiones sobre los procesos productivos desde la eficiencia y la productividad, definiendo el soporte necesario para hacer realidad un modelo de negocio."
+                },
+                {
+                    "code": "CE2.5",
+                    "description": "Analizar y tomar decisiones sobre inversión y financiación, aplicando métodos de selección de inversiones y reconociendo las ventajas e inconvenientes de las distintas fuentes de financiación empresarial."
+                },
+                {
+                    "code": "CE2.6",
+                    "description": "Analizar las características del mercado, explicando, de acuerdo con ellas, la propuesta de valor, canales, relaciones con clientes y fuentes de ingresos de un modelo de negocio innovador."
+                },
+                {
+                    "code": "CE3.2",
+                    "description": "Conocer las distintas estrategias y herramientas de diseño creativo, aplicando estas a la generación de un modelo de negocio transformador que permita dar respuesta a las necesidades actuales."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Valorar y seleccionar estrategias comunicativas de aplicación al mundo",
+            "description": "Valorar y seleccionar estrategias comunicativas de aplicación al mundo empresarial, utilizando nuevas fórmulas y obteniendo la información que se genera tanto en el ámbito interno como externo de la empresa, para gestionar eficazmente la información …",
+            "criterios": [
+                {
+                    "code": "CE3.3",
+                    "description": "Gestionar eficazmente la información y facilitar el proceso de toma de decisiones a partir de la información obtenida, tanto en el ámbito interno como externo de la empresa, aplicando estrategias y nuevas fórmulas comunicativas."
+                },
+                {
+                    "code": "CE3.4",
+                    "description": "Seleccionar estrategias de comunicación aplicadas al mundo empresarial, utilizando nuevas fórmulas comunicativas que faciliten la gestión eficaz de la información y su transmisión."
+                },
+                {
+                    "code": "CE3.5",
+                    "description": "Conocer las herramientas necesarias que permitan exponer el proyecto de modelo de negocio, despertando el interés y cautivando a los demás con la propuesta de valor presentada."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "2-3 1.1-5 1-2-3 Líneas de actuación en el proceso de enseñanza y aprendizaje",
+            "description": "2-3 1.1-5 1-2-3 Líneas de actuación en el proceso de enseñanza y aprendizaje. – El uso de distintos métodos que tengan en cuenta los diferentes ritmos de aprendizaje del alumnado, favorezcan la capacidad de aprender por sí mismo y promuevan el trabaj…",
+            "criterios": [
+                {
+                    "code": "CE2.7",
+                    "description": "Analizar y explicar la situación económico-financiera de la empresa a partir de la información recogida en las cuentas anuales, indicando las posibles soluciones a los desequilibrios encontrados y analizando el impacto de los tributos que tiene que satisfacer la empresa."
+                },
+                {
+                    "code": "CE4.1",
+                    "description": "Validar la propuesta de modelo de negocio diseñado dentro de un contexto determinado, definiéndolo a partir de las tendencias clave del momento, la situación macroeconómica, el mercado y la competencia, comprendiendo todo el proceso llevado a cabo y aplicando técnicas de estudio previsional y herramientas de análisis empresarial."
+                },
+                {
+                    "code": "CE4.2",
+                    "description": "Determinar previsionalmente la estructura de ingresos y costes, calculando su beneficio y umbral de rentabilidad a partir del modelo de negocio propuesto."
+                },
+                {
+                    "code": "CE4.3",
+                    "description": "Elaborar un plan de negocio básico sobre un escenario simulado concreto, justificando las decisiones tomadas."
+                },
+                {
+                    "code": "CE4.4",
+                    "description": "Determinar la estrategia de propiedad industrial de la empresa, estableciendo las líneas de actuación en materia de protección de idea, producto y marca."
+                },
+                {
+                    "code": "CE4.5",
+                    "description": "Valorar la situación económico-financiera de la propuesta presentada, analizando e interpretando la información recogida tanto en el balance como en la cuenta de pérdidas y ganancias e indicando las posibles soluciones a los desequilibrios encontrados."
+                }
+            ]
+        }
+    ]
+}

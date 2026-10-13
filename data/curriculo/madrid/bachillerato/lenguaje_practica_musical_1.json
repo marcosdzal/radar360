@@ -1,0 +1,93 @@
+{
+    "community": "madrid",
+    "stage": "bachillerato",
+    "decree": "Decreto 64\/2022, de 20 de julio",
+    "subject": "lenguaje_practica_musical",
+    "subject_name": "Lenguaje y Práctica Musical",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Cultivar la escucha activa, desarrollando estrategias de atención",
+            "description": "Cultivar la escucha activa, desarrollando estrategias de atención, para reconocer y describir con un vocabulario adecuado los elementos que forman parte de una obra y para reflexionar sobre aspectos subjetivos y emocionales inherentes a la percepción…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Explicar los parámetros musicales de una obra mediante escucha activa y vocabulario técnico adecuado."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Describe sensaciones musicales y las vincula con características de la obra, reflexionando sobre aspectos subjetivos."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Identificar los elementos musicales de obras de diferentes estilos y épocas,",
+            "description": "Identificar los elementos musicales de obras de diferentes estilos y épocas, analizando y comparando partituras con diversas grafías, para describir sus características y reflexionar sobre los factores que afectan a la evolución de la notación musica…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Describir los elementos musicales de partituras convencionales y no convencionales de distintas épocas."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Comparar la representación musical en partituras de distintas épocas y reflexionar sobre los factores que influyen en la evolución de la notación."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Aplicar métodos de interpretación musical, utilizando la lectura como medio de",
+            "description": "Aplicar métodos de interpretación musical, utilizando la lectura como medio de aproximación a la obra y adquiriendo de forma progresiva habilidades de",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Leer e interpretar partituras sencillas de forma autónoma, con o sin apoyo auditivo."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Interpretar fragmentos musicales sencillos desde la partitura, de forma individual o colectiva, usando voz, cuerpo o instrumentos."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Aplica técnicas de interpretación y memorización en ensayos para ejecutar piezas vocales, instrumentales o coreográficas."
+                },
+                {
+                    "code": "3.4",
+                    "description": "El alumnado improvisa breves ideas musicales o coreográficas con instrumentos, voz o cuerpo, libres o guiadas."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Realizar proyectos musicales colaborativos, planificando e implementando sus",
+            "description": "Realizar proyectos musicales colaborativos, planificando e implementando sus fases y asumiendo funciones diversas dentro del grupo, para favorecer procesos creativos e identificar oportunidades de desarrollo personal, social, académico y profesional.",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Planificar y desarrollar un proyecto musical en grupo seleccionando o creando materiales a partir de los aprendizajes."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Asume distintos roles en proyectos musicales colaborativos, valora las aportaciones del grupo y detecta oportunidades de desarrollo personal, social, académico y profesional."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Emplear las posibilidades que ofrecen las tecnologías digitales en el ámbito",
+            "description": "Emplear las posibilidades que ofrecen las tecnologías digitales en el ámbito musical, utilizando herramientas de procesamiento del sonido, de producción audiovisual y de edición de partituras, para desarrollar procesos de escritura, creación y difusi…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "El alumnado elabora proyectos musicales empleando herramientas digitales de edición, sonido y audiovisual."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Publicar creaciones musicales y audiovisuales en plataformas digitales seguras, respetando la propiedad intelectual."
+                }
+            ]
+        }
+    ]
+}

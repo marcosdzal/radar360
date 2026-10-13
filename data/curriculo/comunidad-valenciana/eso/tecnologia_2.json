@@ -1,0 +1,164 @@
+{
+    "community": "comunidad-valenciana",
+    "stage": "eso",
+    "decree": "Decreto 107\/2022, de 5 de agosto",
+    "subject": "tecnologia_alt",
+    "subject_name": "Tecnología",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Identificar problemes tecnològics a partir de l’estudi de les necessitats",
+            "description": "Identificar problemes tecnològics a partir de l’estudi de les necessitats presents en l’entorn pròxim, formular propostes per a abordar-los, i resoldre’ls de manera eficient i innovadora mitjançant processos de treball col·laboratiu i utilitzant estr…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Detectar necesidades en el entorno cercano para proponer y organizar soluciones tecnológicas creativas y sostenibles que aporten un beneficio real a la comunidad local."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Gestionar proyectos técnicos en equipo, empleando métodos de planificación y revisión continua desde la idea inicial hasta la presentación del resultado final."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Planificar y organizar el trabajo en equipo para resolver un problema tecnológico, utilizando técnicas de investigación y herramientas colaborativas para proponer soluciones creativas."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Gestionar de manera creativa el desenvolupament d'un projecte, el temps, els materials i els recursos disponibles, aplicant les estratègies i les tècniques de col·laboració pertinents amb una perspectiva interdisciplinària i seguint un procés iteratiu de validació, des de la fase d'ideació fins a la difusió de la solució."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Fabricar solucions tecnològiques utilitzant els coneixements",
+            "description": "Fabricar solucions tecnològiques utilitzant els coneixements interdisciplinaris, les tècniques i els recursos disponibles de manera apropiada i segura per a donar una resposta satisfactòria a les necessitats plantejades",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Analizar críticamente el diseño y ciclo de vida de un producto tecnológico, considerando su impacto social, ambiental y su accesibilidad universal."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Construir objetos tecnológicos mediante el uso de herramientas manuales, digitales y de diseño asistido, seleccionando los materiales y componentes técnicos más adecuados para cada solución."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Desenvolupar les destreses necessàries per a utilitzar les diferents tècniques de fabricació manual i digital aplicades a projectes, que permeten construir solucions tecnològiques que resolguen problemes o reptes tecnològics plantejats."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Utilitzar correctament eines, màquines i recursos, observant les mesures de seguretat corresponents i triant les que són adequades en funció de l'operació que cal realitzar i del material sobre el qual s'actua."
+                },
+                {
+                    "code": "2.5",
+                    "description": "Valorar la necessitat de fer un ús responsable dels materials respecte de la sostenibilitat evitant-ne el malbaratament durant el procés de fabricació."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Expressar, difondre i interpretar idees, propostes o solucions tecnològiques de",
+            "description": "Expressar, difondre i interpretar idees, propostes o solucions tecnològiques de manera efectiva, emprant els recursos disponibles i participant en espais d’intercanvi d’informació",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Comunicar ideas técnicas y colaborar en equipo usando herramientas digitales, simbología normalizada y vocabulario específico de forma asertiva y responsable."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Comunicar oralmente soluciones tecnológicas de forma estructurada, controlando el tiempo y el lenguaje, para transmitir ideas de manera inclusiva y profesional ante un público."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Presentar i difondre les propostes o les solucions tecnològiques de manera efectiva."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Expressar la informació rellevant en el desenvolupament del treball en equip de manera assertiva."
+                },
+                {
+                    "code": "3.5",
+                    "description": "Utilitzar l'entonació, l'expressió, la gestió del temps i l'adaptació adequada del discurs, i un llenguatge inclusiu, no sexista i no discriminatori en la presentació i la difusió de problemes, les necessitats, els projectes i les solucions tecnològiques."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Dissenyar i construir sistemes de control programables i robòtics,",
+            "description": "Dissenyar i construir sistemes de control programables i robòtics, desenvolupant solucions automatitzades mitjançant la implementació d’algorismes i operadors tecnològics",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Crear y programar prototipos robóticos o simulaciones capaces de ejecutar tareas autónomas integrando mecánica, electrónica y sistemas de control para resolver problemas técnicos."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Incorporar funciones de control digital, simulación o conectividad IoT en proyectos tecnológicos, analizando de forma crítica su utilidad y las implicaciones éticas de su uso."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Programar per blocs o amb codi l'algoritme de control del robot o el sistema automàtic que permet que interactue amb l'entorn."
+                },
+                {
+                    "code": "4.4",
+                    "description": "Controlar i\/o simular sistemes automàtics programables i robots mitjançant ordinadors, dispositius mòbils o plaques microcontroladores."
+                },
+                {
+                    "code": "4.5",
+                    "description": "Integrar en les màquines i els sistemes tecnològics aplicacions informàtiques i tecnologies digitals emergents de control i simulació com ara Internet de les coses, dades massives ( i intel·ligència artificial amb sentit crític i ètic. big data)"
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Aprofitar les possibilitats que ofereixen les eines digitals per a realitzar",
+            "description": "Aprofitar les possibilitats que ofereixen les eines digitals per a realitzar eficientment tasques tecnològiques, configurant-les i aplicant els coneixements interdisciplinaris adequats",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Utilizar y configurar herramientas digitales de forma autónoma para completar tareas técnicas, optimizando el flujo de trabajo mediante la aplicación de conocimientos de diversas áreas."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Fer tasques tecnològiques de manera eficient mitjançant l'ús d'eines digitals, aplicant coneixements interdisciplinaris amb autonomia."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Emprar èticament i responsablement les eines digitals."
+                },
+                {
+                    "code": "5.4",
+                    "description": "Utilitzar i respectar les llicències i els drets d'autoria propis de les eines digitals."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Contribuir al desenvolupament sostenible analitzant críticament l’ús",
+            "description": "Contribuir al desenvolupament sostenible analitzant críticament l’ús d’objectes, materials, productes, instal·lacions i processos tecnològics, valorant els impactes i les repercussions ambientals, socials i ètiques d’aquests, i proposant alternatives…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Seleccionar materiales y procesos de fabricación justificando su elección bajo criterios de sostenibilidad, accesibilidad y bajo impacto ambiental en proyectos tecnológicos."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Explicar las ventajas ambientales de la arquitectura bioclimática y el transporte sostenible, valorando cómo la tecnología ayuda a proteger el entorno y lograr el desarrollo sostenible."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Explicar los beneficios sociales de proyectos tecnológicos basados en comunidades abiertas, voluntariado o servicios a la comunidad, destacando su impacto positivo en la sociedad."
+                },
+                {
+                    "code": "6.4",
+                    "description": "Analitzar les repercussions mediambientals provocades per l'arquitectura bioclimàtica, l´ecotransport i les instal·lacions domèstiques valorant la contribució de les tecnologies al desenvolupament sostenible."
+                },
+                {
+                    "code": "6.5",
+                    "description": "Analitzar el disseny i la fabricació d'un producte que done resposta a una necessitat plantejada, avaluant-ne la demanda, l'evolució i la previsió de fi de cicle de vida amb un criteri ètic, responsable i inclusiu."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "community": "extremadura",
+    "stage": "bachillerato",
+    "decree": "Decreto 113\/2022, de 25 de agosto",
+    "subject": "diseno",
+    "subject_name": "Diseño",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "I dentificar las técnicas y recursos propios del diseño a partir del estudio",
+            "description": "I dentificar las técnicas y recursos propios del diseño a partir del estudio tanto de los elementos formales de obra diseñada, como de la dimensión simbólica y semántica de sus lenguajes, apreciando la variedad de posibilidades creativas que ofrecen …",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar la relación entre la estética y la utilidad de objetos o gráficos, identificando oportunidades de mejora en su configuración formal y funcional."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Explicar las dimensiones simbólica y semántica de objetos de diseño, identificando sus elementos sintácticos y constitutivos, con actitud receptiva."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Argumentar sobre aspectos relacionados con los saberes de la materia, considerando los puntos fuertes y débiles de diferentes posturas de forma razonada y con actitud, receptiva y respetuosa ante la opinión de los demás."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Crear contenidos relacionados con los saberes de la materia, localizando y citando fuentes de forma adecuada, respetando las licencias y los derechos de autoría."
+                },
+                {
+                    "code": "1.5",
+                    "description": "Comunicar informaciones u opiniones razonadas relacionadas con los saberes de la materia, transmitiéndolas de forma clara y rigurosa, utilizando el vocabulario y formato adecuado, y respondiendo con precisión a las cuestiones que puedan surgir durante la exposición."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "E xpresar opiniones razonadas sobre la influencia del diseño en la calidad de",
+            "description": "E xpresar opiniones razonadas sobre la influencia del diseño en la calidad de vida del ser humano, atendiendo a su impacto social, cultural y medioambiental, comparando y analizando la relación que se establece entre forma y función, identificando …",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Compara productos de diseño de distintos contextos y reflexiona críticamente sobre el papel de mujeres y culturas no occidentales."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Analizar críticamente soluciones de diseño para un mismo problema, valorando su impacto ambiental y promoviendo la sostenibilidad."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Estudiar objetos y productos de diseño, analizando con deleite las diferentes soluciones de diseño vinculadas a un mismo problema común y si se han tenido en cuenta soluciones respetuosas con los derechos humanos, inclusivas y sostenibles."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Descubrir las dimensiones simbólicas y semánticas propias del lenguaje del diseño, analizando los elementos sintácticos y constitutivos de obras de diseño. Competencia específica 3."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Desarrollar propuestas imaginativas de productos de diseño adaptando con",
+            "description": "Desarrollar propuestas imaginativas de productos de diseño adaptando con creatividad diferentes soluciones a necesidades expresivas y de comunicación propias, potenciando así la autoestima y el crecimiento personal. El diseño tiene entre sus funci…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Analizar críticamente las estructuras formales y funcionales de objetos de diseño, evaluando su impacto social y ambiental."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Analizar relaciones compositivas en productos de diseño e identificar elementos visuales explicando su impacto en inclusión, sostenibilidad y consumo responsable."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Diseñar, atendiendo a criterios éticos, formas y estructuras en distintos",
+            "description": "Diseñar, atendiendo a criterios éticos, formas y estructuras en distintos campos de actuación, que supongan un reto en la solución de problemas de diseño sostenible, eligiendo los distintos elementos plásticos, estéticos, funcionales y comunicativ…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Elaborar un plan de proyecto de diseño con objetivos, fases, herramientas y criterios de sostenibilidad."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Organizar el equipo de trabajo colaborativo, distribuyendo tareas según habilidades y asumiendo responsabilidades con criterio."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Evaluar con argumentos críticos propuestas de planificación propias y ajenas según su impacto comunicativo."
+                },
+                {
+                    "code": "4.4",
+                    "description": "Planificar propuestas de diseño sostenibles utilizando creativamente configuraciones formales y argumentando su selección, partiendo de una propuesta original, innovadora o preexistente."
+                },
+                {
+                    "code": "4.5",
+                    "description": "Resolver problemas de diseño donde la sostenibilidad sea un condicionante básico, usando para ello la metodología proyectual propia del diseño, afrontando el problema como un reto personal. Competencia específica 5."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Crear productos de diseño utilizando con criterio las herramientas, soportes,",
+            "description": "Crear productos de diseño utilizando con criterio las herramientas, soportes, técnicas, formas y sistemas de representación y presentación necesarios para elaborar diseños funcionales, y por tanto, inclusivos, sostenibles, que defiendan los derec…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Diseñar soluciones innovadoras a partir de ideas preexistentes para responder a necesidades propias o de expresión."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Evaluar críticamente propuestas de diseño propias analizando coherencia, adecuación y respeto a la propiedad intelectual."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Planificar proyectos individuales o colectivos, aplicando estrategias creativas, gestionando con flexibilidad y eficacia las diferentes fases, el plan de desarrollo, los objetivos propuestos y la evaluación del proyecto, y buscando la coherencia sostenible entre el producto final, el público objetivo, el proceso del diseño y los recursos disponibles."
+                },
+                {
+                    "code": "5.4",
+                    "description": "Identificar las posibilidades de intervención del diseño inclusivo en diferentes ámbitos de la actividad humana, valorando la adecuación de proyectos innovadores y transformadores de la sociedad. Competencia específica 6."
+                },
+                {
+                    "code": "5.5",
+                    "description": "Proponer, individual y colectivamente, medidas y soluciones innovadoras para mejorar el medioambiente."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Desarrollar proyectos de diseño apreciando las oportunidades personales,",
+            "description": "Desarrollar proyectos de diseño apreciando las oportunidades personales, económicas y sociales que generan, valorando tanto el intercambio de ideas como el trabajo colaborativo, para integrarlos en la construcción de una personalidad creativa e in…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Elaborar proyectos elementales de diseño gráfico, industrial o de espacios, individual o en grupo, aplicando soluciones creativas e innovadoras y considerando aspectos sociales, económicos y de propiedad intelectual."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Evaluar crítica y argumentadamente trabajos de diseño propios y ajenos, valorando recursos técnicos, técnicas y adecuación comunicativa."
+                }
+            ]
+        }
+    ]
+}

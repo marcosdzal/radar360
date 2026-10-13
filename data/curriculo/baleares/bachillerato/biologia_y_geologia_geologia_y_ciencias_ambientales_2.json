@@ -1,0 +1,96 @@
+{
+    "community": "baleares",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "biologia_y_geologia_geologia_y_ciencias_ambientales",
+    "subject_name": "Geología y Ciencias Ambientales",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Interpretar i transmetre amb precisió informació i dades extretes de treballs",
+            "description": "Interpretar i transmetre amb precisió informació i dades extretes de treballs científics per analitzar conceptes, processos, mètodes, experiments o resultats relacionats amb les ciències geològiques i ambientals. Les ciències geològiques i ambientals…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Interpretar y analizar críticamente información geológica y ambiental en diversos formatos, como mapas y cortes, para explicar procesos y conceptos de la materia."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Localitzar i utilitzar fonts fiables, identificant, seleccionant i organitzant",
+            "description": "Localitzar i utilitzar fonts fiables, identificant, seleccionant i organitzant informació, avaluant-la críticament i contrastant-ne la veracitat, per resoldre preguntes plantejades de manera autònoma i crear continguts relacionats amb les ciències ge…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Investigar y resolver problemas geológicos o ambientales mediante la búsqueda, selección y análisis crítico de información en fuentes fiables, citándolas correctamente en sus producciones."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Justificar la veracidad de información científica usando fuentes fiables y actitud crítica frente a pseudociencias."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Analitzar críticament resultats de treballs de recerca o divulgació relacionats",
+            "description": "Analitzar críticament resultats de treballs de recerca o divulgació relacionats amb les ciències geològiques i ambientals comprovant si segueixen correctament els passos dels mètodes científics per avaluar la fiabilitat de les seves conclusions. Qual…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Determinar si las conclusiones de un estudio geológico o ambiental son válidas y fiables analizando la coherencia de sus datos y resultados."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Explicar razonadamente la importancia social de la geología, visibilizando el papel de la mujer y la influencia del contexto socioeconómico en la evolución de la investigación científica."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Plantejar i resoldre problemes, cercant i utilitzant les estratègies adequades,",
+            "description": "Plantejar i resoldre problemes, cercant i utilitzant les estratègies adequades, analitzant críticament les solucions i reformulant el procediment si fos necessari, per explicar fenòmens relacionats amb les ciències geològiques i ambientals. L'ús del …",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Resolver problemas prácticos de geología y medio ambiente, aplicando estrategias adecuadas para explicar fenómenos naturales y justificar razonadamente las soluciones obtenidas."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Evaluar la validez de los resultados obtenidos en problemas geológicos o ambientales, ajustando el método o las conclusiones ante incoherencias o nueva información."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Analitzar els impactes de determinades accions sobre el medi ambient o la",
+            "description": "Analitzar els impactes de determinades accions sobre el medi ambient o la disponibilitat de recursos a través d'observacions de camp i d'informació en diferents formats i basant-se en fonaments científics per promoure i adoptar estils de vida compati…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Justificar la adopción de hábitos sostenibles mediante el análisis científico de la procedencia, usos y límites de renovación de los recursos geológicos y biológicos."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Relacionar el impacto de la explotación de recursos con el deterioro ambiental, argumentando sobre la importancia del consumo y aprovechamiento responsables."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Identificar i analitzar els elements geològics del relleu a partir",
+            "description": "Identificar i analitzar els elements geològics del relleu a partir d'observacions de camp o d'informació en diferents formats per a explicar fenòmens, reconstruir la història geològica, fer prediccions i identificar possibles riscs geològics d'una zo…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Interpretar la evolución temporal de un terreno analizando sus materiales, estructuras y procesos geológicos mediante el uso de mapas y cortes."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Evaluar riesgos geológicos en zonas específicas analizando factores naturales y humanos para proponer medidas de prevención y mitigación de desastres."
+                }
+            ]
+        }
+    ]
+}

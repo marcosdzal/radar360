@@ -1,0 +1,115 @@
+{
+    "community": "aragon",
+    "stage": "bachillerato",
+    "decree": "Orden ECD\/1112\/2022, de 18 de julio",
+    "subject": "fundamentos_artisticos",
+    "subject_name": "Fundamentos Artísticos",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Comprender los cambios en la concepción del arte, analizando las semejanzas y",
+            "description": "Comprender los cambios en la concepción del arte, analizando las semejanzas y las diferencias entre distintos periodos históricos o contextos culturales, para explicar el enriquecimiento que supone la diversidad.",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Explicar cómo la diversidad enriquece el arte analizando obras de distintas épocas y culturas en su contexto."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Argumentar la evolución del arte en la historia comparando significados entre culturas y analizando semejanzas y diferencias."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Reflexionar sobre las funciones del arte a lo largo de la historia, analizando la evolución de su papel en cada periodo",
+            "description": "Reflexionar sobre las funciones del arte a lo largo de la historia, analizando la evolución de su papel en cada periodo, para apreciar sus singularidades y poner en valor el patrimonio cultural y artístico de cualquier época.",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Identificar las funciones del arte a lo largo de la historia analizando su evolución sin prejuicios a partir del estudio de obras de distintos estilos y épocas."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Explica singularidades de manifestaciones artísticas relacionándolas con su función de forma crítica y respetuosa."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Analizar formal, funcional y semánticamente producciones artísticas de diversos periodos y estilos",
+            "description": "Analizar formal, funcional y semánticamente producciones artísticas de diversos periodos y estilos, reconociendo sus elementos constituyentes y las claves de sus lenguajes y usando vocabulario específico, para desarrollar el criterio estético y ampli…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Identifica los elementos de una obra y justifica su relación con la época, artista o movimiento."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Analizar obras artísticas describiendo forma, función y significado con vocabulario específico."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Explicar obras artísticas realizadas en distintos medios y soportes,",
+            "description": "Explicar obras artísticas realizadas en distintos medios y soportes, identificando el contexto social, geográfico e histórico en el que se crearon, así como sus posibles influencias y proyecciones, para valorarlas como testimonios de una época y una …",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Analizar obras artísticas relacionándolas con su contexto social, geográfico e histórico y con otras épocas."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Comunicar conclusiones de investigaciones sobre obras artísticas, relacionándolas con su contexto y usando medios analógicos o digitales."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Comprender el poder comunicativo del arte, identificando y reconociendo el",
+            "description": "Comprender el poder comunicativo del arte, identificando y reconociendo el reflejo de las experiencias vitales en diferentes producciones, para valorar la expresión artística como herramienta potenciadora de la creatividad, la imaginación, la autoest…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Explicar posibilidades expresivas del arte y su poder transmisor analizando interpretaciones diversas."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Analizar obras artísticas de distintos periodos conectándolas con vivencias personales y valorando su impacto en la creatividad y autoestima."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Interpretar diversas creaciones artísticas a partir del estudio de su forma, su",
+            "description": "Interpretar diversas creaciones artísticas a partir del estudio de su forma, su significado, su contexto de creación y su recepción, para desarrollar la sensibilidad y el sentido crítico y para apreciar la diversidad de percepciones y opiniones ante …",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Interpreta creaciones artísticas analizando forma, significado y contexto, incorporando ideas y emociones propias."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Comparar interpretaciones artísticas y valorar personalmente tras analizar distintos puntos de vista."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Elaborar con creatividad proyectos artísticos individuales o colectivos,",
+            "description": "Elaborar con creatividad proyectos artísticos individuales o colectivos, investigando estilos, técnicas y lenguajes multidisciplinares y seleccionando y aplicando los más adecuados, para dar forma a las ideas y objetivos planteados y para aprender a …",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Planificar proyectos artísticos seleccionando estilos, técnicas y lenguajes adecuados de diversas disciplinas y distribuyendo tareas de forma razonada."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Elaborar proyectos artísticos creativos, individuales o colectivos, aplicando aprendizajes y respetando aportaciones de los demás."
+                }
+            ]
+        }
+    ]
+}

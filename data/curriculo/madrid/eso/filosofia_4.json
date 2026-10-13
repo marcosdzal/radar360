@@ -1,0 +1,144 @@
+{
+    "community": "madrid",
+    "stage": "eso",
+    "decree": "Decreto 65/2022, de 20 de julio",
+    "subject": "filosofia",
+    "subject_name": "Filosofía",
+    "grade": 4,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Reconocer la especificidad y las principales funciones de",
+            "description": "Reconocer la especificidad y las principales funciones de la filosofía, entendida como un instrumento de análisis de la realidad, que favorezca la capacidad de elaborar y expresar articuladamente un modo de pensar libre, veraz y responsable promoviendo el intercambio de ideas, así como formas de actuación lúcidas y racionalmente fundamentadas.",
+            "descriptors": [
+                "CCL1",
+                "STEM5",
+                "CPSAA1",
+                "CC1"
+            ],
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Comprender qué es la reflexión filosófica, diferenciándola de otros saberes, como las diferentes ciencias, del arte, o de la fe. La filosofía como saber que se hace cuestión de la realidad entera usando la razón. Al filosofía como forma de vida y toma de postura ante la realidad."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Conocer el origen de la filosofía occidental, distinguiéndola del saber mítico, identificando sus principales características y reconociendo las principales disciplinas que la integran."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Identificar el primer interrogante de la filosofía griega, la pregunta por el origen de todo cuanto existe, y conocer el giro antropológico de la filosofía en el s. V a. C., reflexionando sobre la conexión de la filosofía con el individuo y la sociedad en la que vive."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Entender la facultad racional como algo específicamente",
+            "description": "Entender la facultad racional como algo específicamente humano y problematizador, que da lugar a diferentes teorías respecto a la verdad y a la posibilidad y límites del conocimiento, haciendo hincapié en el peligro que supone la desinformación o el uso sesgado e interesado de la información.",
+            "descriptors": [
+                "CCL3",
+                "CCL5",
+                "STEM4",
+                "CC1",
+                "CC3"
+            ],
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Comprender la facultad racional como específica del ser humano, definirla, determinar su funcionalidad y describir sus principales características."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Explicar las principales tesis de algunas concepciones filosóficas acerca del origen, los límites y la posibilidad de conocimiento y comprender algunas de las principales teorías sobre la verdad, reflexionando sobre la posibilidad de alcanzar la verdad ."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Entender la importancia personal, social, política y económica del saber y la verdad. Analizar las implicaciones de la mentira, la manipulación, los bulos y la propaganda."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Descubrir el carácter problemático de lo real, aprendiendo",
+            "description": "Descubrir el carácter problemático de lo real, aprendiendo a diferenciar entre lo real y lo aparente, lo transitorio y lo permanente, lo esencial y lo accidental, al tiempo que se reflexiona sobre el sentido de la vida, el significado de la muerte y la necesidad, generalmente común en la persona , de trascendencia.",
+            "descriptors": [
+                "CCL2",
+                "CCL3",
+                "STEM4",
+                "CPSAA1",
+                "CC1",
+                "CC3",
+                "CC4"
+            ],
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Conocer el significado del término metafísica, identificando su objetivo fundamental, consistente en un análisis radical de la realidad."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Definir qué es el determinismo y qué es el indeterminismo, comprendiendo la importancia de saber si la naturaleza se rige por leyes o es producto del azar."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Reflexionar sobre el sentido de la vida humana, explicando las tesis centrales de las principales teorías de la vida, reflexionando sobre la vida y la muerte, entre otras cuestiones metafísicas. La trascendencia, Dios y su ausencia, la relación entre la religión, el arte y la filosofía."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Conocer y aceptar la propia identidad personal, aprendiendo",
+            "description": "Conocer y aceptar la propia identidad personal, aprendiendo a valorar la de los demás mediante el reconocimiento de la inmensa diversidad del género humano.",
+            "descriptors": [
+                "CCL1",
+                "CPSAA1",
+                "CPSAA2",
+                "CPSAA4",
+                "CC1",
+                "CC3",
+                "CCEC3"
+            ],
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Comprender la profundidad de la pregunta por la vida personal, conociendo algunas respuestas dadas por la filosofía y la psicología, valorando la importancia de conocerse a uno mismo."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Comprender las diferentes facetas de la personalidad de cada uno, en las correspondientes etapas de la vida. La vocación y la motivación. El argumento de la vida humana. La libertad. La felicidad y la infelicidad humanas."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Identificar las emociones y los sentimientos y su papel en la vida humana. El deseo, la tentación. La satisfacción y la frustración. El amor y el desamor. El enamoramiento. El papel esencial de la imaginación. La vida como narración: el papel de la literatura y el cine en la educación sentimental."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Descubrir la dimensión social y cultural del ser humano,",
+            "description": "Descubrir la dimensión social y cultural del ser humano, estudiando las distintas formas de articulación social y su grado de legitimidad, como la forma básica de instalación en el mundo y en la Historia.",
+            "descriptors": [
+                "CCL2",
+                "CPSAA1",
+                "CC1",
+                "CC2",
+                "CC3",
+                "CC4"
+            ],
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Reconocer la dimensión social y cultural del ser humano, identificando y distinguiendo los conceptos de cultura y sociedad."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Identificar la cultura como las distintas versiones de las formas de vida en la Historia y en el mundo; lo que tienen en común, de diferente, y la permanencia de elementos comunes."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Conocer las teorías sobre el origen de la sociedad y explicar las tesis fundamentales sobre el origen de la sociedad y el estado."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "community": "comunidad-valenciana",
+    "stage": "bachillerato",
+    "decree": "Decreto 108\/2022, de 5 de agosto",
+    "subject": "geografia_e_historia_hist_ria_de_la_musica_i_de_la_dansa",
+    "subject_name": "Història de la Música i de la Dansa",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Relacionar les manifestacions musicals i coreogràfiques de la història amb les",
+            "description": "Relacionar les manifestacions musicals i coreogràfiques de la història amb les característiques de la societat que les ha creades, analitzar-ne la vinculació amb les diferents concepcions estètiques de la música i la dansa",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Reconéixer el patrimoni musical i escènic de la Comunitat Valenciana i de la resta del món, i justificar-ne la pertinença a un període històric amb respecte i sentit crític"
+                },
+                {
+                    "code": "1.2",
+                    "description": "Relacionar les manifestacions musicals i coreogràfiques amb aspectes socioculturals, tenint-ne en compte l’ús i funcionalitat"
+                },
+                {
+                    "code": "1.3",
+                    "description": "Analitzar el fet musical i coreogràfic i vincular-lo amb el pensament estètic del moment i amb les manifestacions artístiques del mateix període històric"
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Analitzar les característiques més rellevants del llenguatge musical i",
+            "description": "Analitzar les característiques més rellevants del llenguatge musical i coreogràfic, identificant els elements estructurals i tècnics per mitjà de la partitura, l’audició i el visionat de mostres musicals i coreogràfiques de diverses èpoques, estils i…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Conéixer les característiques principals de propostes musicals de diferents gèneres, èpoques i estils, partint dels seus elements estructurals i tècnics"
+                },
+                {
+                    "code": "2.2",
+                    "description": "Descriure les característiques i els elements estructurals i tècnics de les diferents produccions artístiques utilitzant un lèxic musical adequat de manera oral i escrita"
+                },
+                {
+                    "code": "2.3",
+                    "description": "Analitzar exemples de músiques i coreografies de qualsevol època, gènere o estil, a partir de partitures, audicions i el visionat, amb un discurs informat i respectuós amb la diversitat, ajudant-se de mitjans digitals"
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Construir arguments i opinions fonamentades sobre obres musicals i",
+            "description": "Construir arguments i opinions fonamentades sobre obres musicals i coreogràfiques de diferents èpoques, estils i gèneres, a partir dels diversos llenguatges vinculats a la música i la dansa, i mostrar hàbits de consum culturals crítics i oberts",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Identificar diferents tipus de manifestacions artístiques per mitjà del coneixement dels diversos elements i llenguatges vinculats amb la música i la dansa, i valorar-ne la relació amb el context en el qual s’han produït"
+                },
+                {
+                    "code": "3.2",
+                    "description": "Manifestar opinions personals fonamentades en relació amb diferents propostes musicals i coreogràfiques, i mostrar una actitud respectuosa i empàtica"
+                },
+                {
+                    "code": "3.3",
+                    "description": "Elaborar arguments crítics sobre diverses obres o fragments musicals i coreogràfics seleccionats utilitzant una terminologia específica de manera oral i escrita"
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Interpretar música i coreografies de diverses èpoques, estils i gèneres, a",
+            "description": "Interpretar música i coreografies de diverses èpoques, estils i gèneres, a partir de les possibilitats expressives de la veu, els instruments musicals, el cos i els mitjans digitals, participant activament de manera individual o grupal",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Manifestar idees, sentiments i emocions per mitjà de la interpretació musical i el moviment corporal, afavorint processos comunicatius des de l’empatia i el respecte"
+                },
+                {
+                    "code": "4.2",
+                    "description": "Interpretar música i danses de diferents èpoques, estils i gèneres, de manera individual i col·lectiva, utilitzant la veu, els instruments, el cos i mitjans digitals"
+                },
+                {
+                    "code": "4.3",
+                    "description": "Utilitzar tècniques interpretatives, individualment i en grup, amb consciència global, valorant la interpretació i la creació musical"
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Elaborar projectes, participant en el disseny, la planificació i la realització",
+            "description": "Elaborar projectes, participant en el disseny, la planificació i la realització de manera activa i crítica, mitjançant la investigació històrica i la realització de produccions artístiques, valorant tant el procés com el resultat",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Elaborar projectes d’investigació científica de manera individual i grupal, aplicant estratègies de recerca i selecció de fonts històriques"
+                },
+                {
+                    "code": "5.2",
+                    "description": "Identificar i explicar les oportunitats de desenvolupament personal, professional, social i econòmic que ofereix la participació en diferents projectes artístics"
+                },
+                {
+                    "code": "5.3",
+                    "description": "Dissenyar i desenvolupar projectes artístics relacionats amb la música i la dansa, aplicant estratègies de gestió vinculades a la planificació, la producció i la difusió d’espectacles escènics i musicals, de manera activa i col·laborativa"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "community": "murcia",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "coro_tecnica_vocal_2",
+    "subject_name": "Coro y Técnica Vocal II",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Escuchar y visionar de forma activa piezas vocales de distintos estilos,",
+            "description": "Escuchar y visionar de forma activa piezas vocales de distintos estilos, géneros y culturas, analizando los rasgos de estilo y las características de la interpretación, para desarrollar el criterio estético, estimular el hábito de escucha activa y am…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar piezas vocales justificando su pertenencia a un estilo, género o cultura y los rasgos de interpretación y puesta en escena."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Explicar la relación entre texto y música mediante análisis del texto y de la curva de tensiones en obras vocales."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Expresarse vocal y corporalmente",
+            "description": "Expresarse vocal y corporalmente, de forma individual y colectiva, a través de la aplicación de diferentes técnicas y la realización de actividades de improvisación, para reforzar la autoestima y la autoconfianza y desarrollar la voz y el cuerpo como…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "El alumnado aplica técnicas vocales y corporales sanas en ejercicios e improvisaciones para potenciar la escucha activa y la capacidad vocal, reforzando autoestima y autoconfianza."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Interpretar piezas de diferentes estilos y géneros musicales, participando en distintas formaciones vocales",
+            "description": "Interpretar piezas de diferentes estilos y géneros musicales, participando en distintas formaciones vocales, para potenciar una comunicación artística rica y el desarrollo de valores colectivos.",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Participa en el coro mostrando eficacia, escucha activa, precisión técnica y expresión vocal y corporal adecuadas al conjunto."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Participar en proyectos escénicos, realizando actuaciones y asumiendo tareas propias de la producción",
+            "description": "Participar en proyectos escénicos, realizando actuaciones y asumiendo tareas propias de la producción, para favorecer el crecimiento artístico personal, enriquecer el entorno cultural e identificar oportunidades de desarrollo personal, social, académ…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Comunicar actitud escénica y respeto al público durante la actuación."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Participar en el montaje escénico asumiendo funciones de producción y reflexionando sobre oportunidades de desarrollo personal, social, académico o profesional."
+                }
+            ]
+        }
+    ]
+}

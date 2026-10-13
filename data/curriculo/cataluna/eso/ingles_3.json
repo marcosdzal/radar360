@@ -1,0 +1,184 @@
+{
+    "community": "cataluna",
+    "stage": "eso",
+    "decree": "",
+    "subject": "ingles",
+    "subject_name": "Llengua Estrangera",
+    "grade": 3,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Descriure i valorar la diversitat lingüística i cultural a partir del",
+            "description": "Descriure i valorar la diversitat lingüística i cultural a partir del reconeixement de les llengües de l'alumnat i la realitat plurilingüe, pluricultural i intercultural, per afa orir la transferència lingüística, identificar i rebut ar estereotips i…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Valorar críticament la diversitat lingüística, cultural i artística pròpia de països on es parla la llengua estrangera, en relació amb els drets humans, i adequar-se a aquesta diversitat, tot afavorint el desenvolupament d’una cultura compartida i una ciutadania compromesa amb la sostenibilitat i els valors democràtics."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Participar de manera adequada, empàtica i respectuosa en situacions interculturals, construint vincles entre les diferents llengües i cultures, rebutjant qualsevol tipus de discriminació, prejudici i estereotip en contextos comunicatius quotidians, i proposant vies de solució a aquells factors socioculturals que dificulten la comunicació."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Aplicar estratègies per defensar i apreciar la diversitat lingüística, cultural i artística."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Comprendre i interpretar textos orals i multimodals, en la llengua estàndard,",
+            "description": "Comprendre i interpretar textos orals i multimodals, en la llengua estàndard, recollint el sentit general i la informació m s relle ant, la se a forma i el seu contingut, per construir coneixement, formar se opinió i eixamplar les possibilitats de ga…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Extreure i analitzar el sentit global i les idees principals, i seleccionar informació pertinent de textos orals i multimodals sobre temes quotidians, de rellevància personal o d’interès públic propers a la seva experiència expressats de manera clara i en la llengua estàndard a través de diversos suports."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Interpretar i valorar el contingut i els trets discursius de textos progressivament més complexos propis dels àmbits de les relacions"
+                },
+                {
+                    "code": "2.3",
+                    "description": "Seleccionar, organitzar i aplicar les estratègies i els coneixements més adequats en cada situació comunicativa per comprendre el sentit general, la informació essencial i els detalls més rellevants dels textos; inferir significats i interpretar elements no verbals, i cercar, seleccionar i gestionar informació veraç."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Produir textos orals i multimodals amb coherència, claredat i registre",
+            "description": "Produir textos orals i multimodals amb coherència, claredat i registre adequats, atenent les con encions pròpies dels diferents gèneres discursius, i participar en interaccions orals ariades, amb autonomia, per expressar idees, sentiments i conceptes…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Expressar oralment textos senzills, estructurats, comprensibles, coherents i adequats a la situació comunicativa sobre temes quotidians, de rellevància personal o d’interès públic proper a la seva experiència, per tal de descriure, narrar, argumentar i informar, en diferents suports, utilitzant recursos verbals i no verbals, així com estratègies de planificació, control, compensació i cooperació."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Aplicar coneixements i estratègies per planificar, produir, revisar i cooperar en l’elaboració de textos coherents, cohesionats i adequats a les intencions comunicatives, les característiques contextuals, els aspectes socioculturals i la tipologia textual, usant els recursos físics o digitals més adequats en funció de la tasca i de les necessitats de l’audiència o el destinatari del text."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Participar i col·laborar activament, a través de diversos suports, en situacions interactives sobre temes quotidians, de rellevància personal o d’interès públic propers a la seva experiència, mostrant iniciativa, empatia i respecte per la cortesia lingüística i l’etiqueta digital, així com per les diferents necessitats, idees, inquietuds, iniciatives i motivacions dels interlocutors."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Utilitzar estratègies adequades per iniciar, mantenir i acabar la comunicació, prendre i cedir la paraula, sol·licitar i formular aclariments i explicacions, reformular, comparar i contrastar, resumir, col·laborar, debatre, resoldre problemes i gestionar situacions compromeses."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Comprendre, interpretar i analitzar, amb sentit crític i diferents prop sits de",
+            "description": "Comprendre, interpretar i analitzar, amb sentit crític i diferents prop sits de lectura, textos escrits i multimodals reconeixent el sentit global i les idees principals i secundàries, identificant la intenció de l'emissor, reflexionant sobre el cont…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Comprendre i interpretar el sentit global, l’estructura, la informació més rellevant i la intenció de l’emissor de textos escrits i multimodals de certa complexitat, que responguin a diferents propòsits de lectura, realitzant les inferències necessàries."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Valorar críticament el contingut i la forma de textos de certa complexitat, avaluant-ne la qualitat, la fiabilitat i la idoneïtat de canal utilitzat, així com l’eficàcia dels procediments lingüístics emprats."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Produir textos escrits i multimodals amb adequació, coherència i cohesió,",
+            "description": "Produir textos escrits i multimodals amb adequació, coherència i cohesió, aplicant estratègies elementals de planificació, redacció, re visió, correcció i edició, amb regulació dels iguals i autoregulació progressi ament aut noma, i atenent les con e…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Redactar i difondre textos d’extensió mitjana amb acceptable claredat, coherència, cohesió, correcció i adequació a la situació comunicativa proposada, a la tipologia textual i a les eines analògiques i digitals utilitzades, sobre assumptes quotidians, de rellevància personal o d’interès públic pròxims a la seva experiència, respectant la propietat intel·lectual i evitant el plagi."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Aplicar coneixements i estratègies per a planificar, produir, revisar i cooperar en l’elaboració de textos coherents, cohesionats i adequats a les intencions comunicatives, les característiques contextuals, els aspectes socioculturals i la tipologia textual, usant els recursos físics o digitals més adequats en funció de la tasca i de les necessitats de l’audiència o del lector potencial a qui s’adreça el text."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Cercar, seleccionar i contrastar informació procedent de diferents fonts de",
+            "description": "Cercar, seleccionar i contrastar informació procedent de diferents fonts de manera progressi ament aut noma, a aluant ne la fiabilitat i pertinència en funció dels ob ectius de lectura i e itant els riscos de manipulació i desinformació, i integrar l…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Aplicar estratègies de cerca d’informació (localització, selecció i contrast), en diferents fonts, incloses les digitals, calibrant-ne la fiabilitat i pertinència en funció dels objectius de lectura, sobre temes d’interès acadèmic, personal, ecològic i social, de forma autònoma, a la xarxa i a la biblioteca, valorant críticament el resultat de la cerca."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Elaborar treballs d’investigació i comunicar de forma creativa i respectant els drets de la propietat intel·lectual, els resultats d’un procés d’investigació, individual o grupal, organitzant la informació, integrant-la en esquemes propis i reelaborant-la, i adoptant un punt de vista crític i respectuós amb els principis de propietat intel·lectual, sobre temes d’interès acadèmic, personal, ecològic i social, que incloguin els"
+                },
+                {
+                    "code": "6.3",
+                    "description": "Adoptar hàbits d’ús crític, segur, sostenible i saludable de les tecnologies digitals en relació amb la cerca i la comunicació de la informació."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Seleccionar i llegir de manera aut noma obres diverses com a font de plaer i",
+            "description": "Seleccionar i llegir de manera aut noma obres diverses com a font de plaer i coneixement, configurant un itinerari lector que s'enriqueixi progressi ament pel que fa a diversitat, complexitat i qualitat de les obres, i compartir experiències de lectu…",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Llegir de manera autònoma textos i obres seleccionats en funció dels propis gustos, interessos i necessitats, i deixar constància del progrés del propi itinerari lector i cultural explicant els criteris de selecció de les lectures, les formes d’accés a la cultura literària i l’experiència de lectura."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Compartir l’experiència de lectura en suports diversos tot relacionant el"
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Mediar entre diferents llengües, fent ser ir estratègies i coneixements sen",
+            "description": "Mediar entre diferents llengües, fent ser ir estratègies i coneixements sen ills orientats a explicar conceptes o simplificar missatges, per transmetre informació de manera eficaç, clara i responsable",
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Inferir i explicar textos, conceptes i comunicacions breus i senzilles en situacions de diversitat lingüística, social i cultural, mostrant respecte i empatia per les i els interlocutors i per les llengües emprades, i participant en la solució de problemes d’intercomprensió i d’entesa en l’entorn."
+                },
+                {
+                    "code": "8.2",
+                    "description": "Aplicar estratègies que ajudin a crear ponts, facilitin la comunicació i serveixin per explicar i simplificar textos, conceptes i missatges, i que siguin adequades a les intencions comunicatives, les característiques contextuals i la tipologia textual, usant recursos i suports físics o digitals en funció de les necessitats de cada moment."
+                }
+            ]
+        },
+        {
+            "code": "CE9",
+            "name": "Ampliar i usar els repertoris lingüístics personals entre diferents llengües,",
+            "description": "Ampliar i usar els repertoris lingüístics personals entre diferents llengües, reflexionant de manera crítica sobre el seu funcionament i prenent consciència de les estratègies i coneixements propis, per millorar la resposta a necessitats comunicati e…",
+            "criterios": [
+                {
+                    "code": "9.1",
+                    "description": "Comparar i argumentar les similituds i diferències entre diferents llengües reflexionant de manera progressivament autònoma sobre el seu funcionament."
+                },
+                {
+                    "code": "9.2",
+                    "description": "Utilitzar de forma creativa estratègies i coneixements de millora de la pròpia capacitat de comunicar i d’aprendre la llengua estrangera, amb suport d’altres participants i de suports analògics i digitals."
+                },
+                {
+                    "code": "9.3",
+                    "description": "Registrar i reflexionar sobre els progressos i dificultats d’aprenentatge de la llengua estrangera, seleccionant les estratègies més eficaces per superar aquestes dificultats i consolidar el seu aprenentatge, realitzant activitats de planificació del propi aprenentatge,"
+                }
+            ]
+        },
+        {
+            "code": "CE0",
+            "name": "Posar al ser ei de la con i ència democràtica, la resolució dialogada dels",
+            "description": "Posar al ser ei de la con i ència democràtica, la resolució dialogada dels conflictes i la igualtat de drets de totes les persones, les pròpies pràctiques comunicati es, utilitzant un llenguatge no discriminatori i desterrant els abusos de poder a tr…",
+            "criterios": [
+                {
+                    "code": "10.1",
+                    "description": "Identificar i rebutjar els usos discriminatoris de la llengua, els abusos de poder a través de la paraula i els usos manipuladors del llenguatge a partir de la reflexió i l’anàlisi dels elements lingüístics, textuals i discursius utilitzats, així com dels elements no verbals de la comunicació."
+                },
+                {
+                    "code": "10.2",
+                    "description": "Utilitzar estratègies per a la resolució dialogada dels conflictes i la"
+                }
+            ]
+        }
+    ]
+}

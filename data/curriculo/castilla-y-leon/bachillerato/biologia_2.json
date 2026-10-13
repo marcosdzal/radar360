@@ -1,0 +1,112 @@
+{
+    "community": "castilla-y-leon",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "biologia",
+    "subject_name": "Biología",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Interpretar y transmitir información y datos a partir de trabajos científicos y",
+            "description": "Interpretar y transmitir información y datos a partir de trabajos científicos y argumentar sobre estos con precisión utilizando de forma adecuada la terminología científica y empleando diferentes formatos para analizar conceptos, procesos, métodos, e…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Interpretar y explicar de forma crítica datos biológicos presentados en diversos formatos visuales para comprender procesos celulares, genéticos o metabólicos complejos."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Transmitir información biológica con rigor científico y terminología adecuada, utilizando diversos formatos y respondiendo de forma fundamentada a preguntas sobre procesos o experimentos."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Defender posturas científicas razonadas sobre temas biológicos, analizando pros y contras de diferentes perspectivas con una actitud crítica, dialogante y respetuosa hacia otras opiniones."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Localizar y utilizar fuentes fiables, identificando, seleccionando y",
+            "description": "Localizar y utilizar fuentes fiables, identificando, seleccionando y organizando la información, evaluándola críticamente y contrastando su veracidad, para resolver preguntas planteadas de forma autónoma y crear contenidos relacionados con las cienci…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Investigar y resolver cuestiones biológicas mediante la búsqueda, análisis crítico y organización de información de fuentes fiables, citando correctamente las referencias utilizadas."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Evaluar la fiabilidad de informaciones biológicas mediante el contraste de fuentes científicas para identificar y refutar bulos, pseudociencias o teorías sin base empírica."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Identificar las publicaciones científicas, seleccionando las bases de datos fiables, veraces y que recogen los artículos correctamente revisados, evaluando los riesgos de usar las tecnologías para dichas búsquedas, haciendo un uso legal, seguro, saludable y sostenible de ellas. (CCL3, STEM2, CD1, CD4)"
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Analizar trabajos de investigación o divulgación relacionados con las ciencias",
+            "description": "Analizar trabajos de investigación o divulgación relacionados con las ciencias biológicas, comprobando con sentido crítico su veracidad o si han seguido los pasos del método científico, para evaluar la fiabilidad de sus conclusiones.",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Analizar críticamente artículos o investigaciones biológicas, juzgando si las conclusiones son coherentes y válidas basándose en las evidencias y resultados presentados."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Explicar la importancia social de la biología y el papel de las mujeres científicas, analizando cómo el contexto económico y político condiciona la investigación colectiva."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Argumentar, utilizando ejemplos concretos, sobre la contribución de la ciencia a la sociedad y la labor de las personas dedicadas a ella, destacando el papel de la mujer y entendiendo la investigación como una labor colectiva e interdisciplinar y con sus limitaciones, en constante evolución influida por el contexto político y los recursos económicos. (CP1, CP2, CP3, STEM4, CC1, CC3)"
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Plantear y resolver problemas, buscando y utilizando las estrategias adecuadas,",
+            "description": "Plantear y resolver problemas, buscando y utilizando las estrategias adecuadas, analizando críticamente las soluciones y reformulando el procedimiento, si fuera necesario, para explicar fenómenos relacionados con las ciencias biológicas.",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Resolver problemas biológicos complejos mediante la selección de estrategias adecuadas, justificando razonadamente los procesos y resultados obtenidos a partir de principios científicos."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Evaluar la validez de soluciones a problemas biológicos, ajustando métodos o conclusiones basándose en la coherencia científica y la aparición de nueva información."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Analizar críticamente determinadas acciones relacionadas con la sostenibilidad",
+            "description": "Analizar críticamente determinadas acciones relacionadas con la sostenibilidad y la salud, basándose en los fundamentos de la biología molecular, para argumentar acerca de la importancia de adoptar hábitos sostenibles y saludables. Desde la materia B…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Justificar la adopción de hábitos saludables y sostenibles mediante la explicación de los procesos moleculares subyacentes y su impacto en el organismo y el medio ambiente."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Analizar y explicar los fundamentos de la biología molecular en relación con el funcionamiento de los sistemas biológicos apreciando la repercusión sobre la salud. (CCL1, STEM2, STEM5, CE1)"
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Analizar la función de las principales biomoléculas, bioelementos y sus",
+            "description": "Analizar la función de las principales biomoléculas, bioelementos y sus estructuras e interacciones bioquímicas, argumentando sobre su importancia en los organismos vivos para explicar las características macroscópicas de estos a partir de las molecu…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Relacionar la estructura química de las biomoléculas con sus funciones biológicas y procesos metabólicos esenciales para comprender el funcionamiento celular y orgánico."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Realizar técnicas experimentales de laboratorio para identificar y analizar biomoléculas, utilizando el material específico con rigor y siguiendo los protocolos de seguridad establecidos."
+                }
+            ]
+        }
+    ]
+}

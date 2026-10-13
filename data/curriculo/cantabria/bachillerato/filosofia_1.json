@@ -1,0 +1,141 @@
+{
+    "community": "cantabria",
+    "stage": "bachillerato",
+    "decree": "Decreto 73\/2022, de 14 de julio",
+    "subject": "filosofia",
+    "subject_name": "Filosofía",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Identificar problemas y formular preguntas acerca del fundamento, valor y",
+            "description": "Identificar problemas y formular preguntas acerca del fundamento, valor y sentido de la realidad y la existencia humana, a partir del análisis e interpretación de textos y otras formas de expresión filosófica y cultural, para reconocer la radicalidad…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analiza la radicalidad de problemas filosóficos reformulándolos a partir de textos y otras expresiones culturales."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Desarrollar una actitud indagadora, autónoma y activa en el ámbito de la reflexión filosófica, mediante el diseño, elaboración y comunicación pública de productos originales, tales como trabajos de investigación, composición escrita de ensayos filosóficos u otros."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Buscar, gestionar, interpretar, producir y transmitir correctamente información",
+            "description": "Buscar, gestionar, interpretar, producir y transmitir correctamente información relativa a cuestiones filosóficas a partir del empleo contrastado y seguro de fuentes, el uso y análisis riguroso de las mismas, y el empleo de procedimientos elementales…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Aplicar procedimientos básicos de investigación filosófica: identificar fuentes fiables, buscar, organizar, analizar, interpretar, evaluar, producir y comunicar información."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Usar y valorar adecuadamente argumentos y estructuras argumentales, a partir de su análisis tanto formal como informal",
+            "description": "Usar y valorar adecuadamente argumentos y estructuras argumentales, a partir de su análisis tanto formal como informal, para producir y apreciar distintos tipos de discurso de forma rigurosa, y evitar modos dogmáticos, falaces y sesgados de sostener …",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Producir y evaluar discursos argumentativos orales y escritos sobre problemas filosóficos aplicando normas lógicas y retóricas."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Detectar y explicar falacias y sesgos en argumentos para evitar dogmatismos y opiniones sesgadas."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Aplicar principios de cooperación, verdad y pluralidad al argumentar, evitando dogmatismo y discriminación."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Reconocer la importancia de la cooperación, el compromiso con la verdad, el respeto a la pluralidad y el rechazo de toda actitud discriminatoria o arbitraria, aplicando dichos principios a la práctica argumentativa y al diálogo con los demás."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Practicar el ejercicio del diálogo filosófico de manera rigurosa, crítica,",
+            "description": "Practicar el ejercicio del diálogo filosófico de manera rigurosa, crítica, tolerante y empática, interiorizando las pautas éticas y formales que este requiere, mediante la participación en actividades grupales y a través del planteamiento dialógico d…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Participar en diálogos filosóficos respetuosos y críticos para contrastar ideas y ejercer ciudadanía activa."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Reconocer el carácter plural de las concepciones, ideas y argumentos en torno a",
+            "description": "Reconocer el carácter plural de las concepciones, ideas y argumentos en torno a cada uno de los problemas fundamentales de la filosofía, mediante el análisis crítico de diversas tesis relevantes con respecto a los mismos, para generar una concepción …",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Analizar tesis filosóficas opuestas y elaborar una posición compleja y no dogmática."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Explica y compara distintas teorías filosóficas como parte de un diálogo abierto y dinámico."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Comprender las principales ideas y teorías filosóficas de los más importantes",
+            "description": "Comprender las principales ideas y teorías filosóficas de los más importantes pensadores y pensadoras, mediante el examen crítico y dialéctico de las mismas y de los problemas fundamentales a los que estas responden, para generar una concepción rigur…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Analizar ideas filosóficas en textos diversos y relacionarlas con experiencias y acontecimientos actuales."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Aplica y analiza críticamente ideas filosóficas de pensadores clave en contextos de indagación."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Adquirir una perspectiva global, sistémica y transdisciplinar en el",
+            "description": "Adquirir una perspectiva global, sistémica y transdisciplinar en el planteamiento de cuestiones fundamentales y de actualidad, analizando y categorizando sus múltiples aspectos, distinguiendo lo más substancial de lo accesorio e integrando informació…",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Analizar problemas complejos actuales y fundamentales de forma interdisciplinar y crítica, integrando conceptos de distintos saberes desde la filosofía."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Analizar problemas éticos y políticos fundamentales y de actualidad, mediante",
+            "description": "Analizar problemas éticos y políticos fundamentales y de actualidad, mediante la exposición crítica y dialéctica de distintas posiciones filosóficamente pertinentes en la interpretación y resolución de los mismos, para desarrollar el juicio propio y …",
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Analizar problemas éticos y políticos actuales mediante argumentación y diálogo para desarrollar juicio propio."
+                },
+                {
+                    "code": "8.2",
+                    "description": "Desarrollar una actitud tolerante respecto de las diferencias, crítica respecto de las discriminaciones y de las desigualdades (presentes e históricas) y activa respecto de la preservación de los valores democráticos."
+                }
+            ]
+        },
+        {
+            "code": "CE9",
+            "name": "Desarrollar la sensibilidad y la comprensión crítica del arte y otras",
+            "description": "Desarrollar la sensibilidad y la comprensión crítica del arte y otras manifestaciones y actividades con valor estético mediante el ejercicio del pensamiento filosófico acerca de la belleza y la creación artística, para contribuir a la educación de lo…",
+            "criterios": [
+                {
+                    "code": "9.1",
+                    "description": "Analizar problemas estéticos equilibrando razón y emoción, reflexionando sobre arte e imágenes contemporáneas."
+                },
+                {
+                    "code": "9.2",
+                    "description": "Desarrollar un conocimiento acerca de la naturaleza de la expresión artística y ponerlo en relación con el papel de las imágenes y el lenguaje audiovisual en la cultura contemporánea."
+                }
+            ]
+        }
+    ]
+}

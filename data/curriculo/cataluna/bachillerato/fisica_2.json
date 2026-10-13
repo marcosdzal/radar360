@@ -1,0 +1,112 @@
+{
+    "community": "cataluna",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "fisica",
+    "subject_name": "Física",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Analitzar fenòmens i resoldre problemes basats en situacions properes",
+            "description": "Analitzar fenòmens i resoldre problemes basats en situacions properes mitjançant l'ús de les teories, principis i lleis de la física, atenent la seva base experimental, la descripció teòrica i el desenvolupament matemàtic, per evidenciar la seva impl…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Explicar cómo los avances de la física impulsan la tecnología y la economía, valorando su impacto social y ambiental mediante argumentos científicos fundamentados."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Aplicar leyes físicas para solucionar problemas mediante cálculos matemáticos y prácticas de laboratorio, justificando los resultados obtenidos en diversos contextos científicos."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Analitzar l'entorn proper i predir-ne l'evolució a partir dels models, de les",
+            "description": "Analitzar l'entorn proper i predir-ne l'evolució a partir dels models, de les teories i les lleis de la física mitjançant la formulació de preguntes investigables, la indagació i la cerca d'evidències per proposar solucions generals a problemes quoti…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Explicar y predecir el comportamiento de sistemas naturales mediante la aplicación de leyes físicas fundamentales, justificando los resultados obtenidos en contextos reales y tecnológicos."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Resolver problemas complejos de física analizando casos particulares para extraer conclusiones generales y predecir el comportamiento de sistemas tecnológicos o naturales."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Explicar el funcionamiento de dispositivos tecnológicos, industriales o médicos aplicando las leyes y modelos físicos estudiados para comprender su utilidad y beneficio social."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Utilitzar amb propietat, correcció i fluïdesa, als diferents registres de",
+            "description": "Utilitzar amb propietat, correcció i fluïdesa, als diferents registres de comunicació de la ciència, el llenguatge de la física amb la formulació matemàtica dels seus principis, magnituds, unitats de mesura, etc., per evidenciar la necessitat d'estab…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Explicar fenómenos cotidianos o noticias científicas aplicando leyes físicas y lenguaje matemático para identificar causas y validar la veracidad de la información analizada."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Manejar con precisión las unidades de medida, realizar cambios entre sistemas y representar gráficamente las relaciones entre magnitudes físicas para comunicar resultados científicos."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Comunicar resultados de problemas de física justificando el significado físico de las soluciones obtenidas y empleando correctamente las unidades del Sistema Internacional."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Seleccionar i avaluar críticament informació i recursos, en diferents formats i",
+            "description": "Seleccionar i avaluar críticament informació i recursos, en diferents formats i plataformes, tant al treball individual com col·lectiu, per crear continguts científics i de divulgació relacionats amb la física i argumentar sobre el seu paper a la soc…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Crear y compartir materiales científicos o divulgativos de física en plataformas digitales, colaborando con compañeros de forma autónoma y organizada para difundir conocimientos."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Seleccionar y emplear fuentes de información científicas en medios digitales y tradicionales, citando correctamente y trabajando de forma colaborativa para profundizar en contenidos de física."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Aplicar tècniques de treball i indagació pròpies de la física com",
+            "description": "Aplicar tècniques de treball i indagació pròpies de la física com l'experimentació en entorns reals o virtuals, el raonament logicomatemàtic, de forma individual o en entorns col·laboratius similars als de la comunitat científica, per reconèixer el p…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Analizar datos experimentales mediante la toma de medidas, el cálculo de errores y la representación gráfica para establecer leyes físicas fundamentales."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Realizar experimentos en laboratorios reales o virtuales, analizando variables y leyes físicas para elaborar un informe técnico detallado con datos, gráficas y conclusiones."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Analizar y debatir críticamente el impacto de los avances de la física en la sociedad, considerando criterios de ética, sostenibilidad y bienestar social."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Justificar el caràcter multidisciplinari de la física i la seva contribució",
+            "description": "Justificar el caràcter multidisciplinari de la física i la seva contribució històrica a l'avenç del coneixement científic, per actuar com a agents crítics en l'anàlisi i la difusió de la informació i promoure una societat igualitària, saludable i sos…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Analizar hitos históricos de la física y su impacto en la construcción del conocimiento científico actual, comprendiendo la evolución y el carácter universal de la ciencia."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Identificar y explicar las conexiones entre los principios de la física y otras áreas científicas como las matemáticas o la biología en contextos reales."
+                }
+            ]
+        }
+    ]
+}

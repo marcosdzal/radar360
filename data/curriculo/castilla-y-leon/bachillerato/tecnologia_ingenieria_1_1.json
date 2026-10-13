@@ -1,0 +1,132 @@
+{
+    "community": "castilla-y-leon",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "tecnologia_ingenieria_1",
+    "subject_name": "Tecnología e Ingeniería I",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "1.1 Investigar y diseñar proyectos que muestren de forma gráfica la creación y",
+            "description": "1.1 Investigar y diseñar proyectos que muestren de forma gráfica la creación y mejora de un producto, seleccionando, referenciando e interpretando información relacionada. (CCL3, STEM1, STEM3, STEM4, CD1, CD2, CD5, CPSAA1.1, CPSAA5, CE1, CE2, CE3) 1.…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Diseñar proyectos gráficos de mejora de productos a partir de información seleccionada e interpretada."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Elabora y coordina proyectos de mejora continua, creando prototipos iterativos socialmente responsables, con actitud crítica y emprendedora."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Colaborar en equipo escuchando, aportando según rol y fomentando relaciones inclusivas y bienestar grupal."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Elaborar documentación técnica precisa con diagramas funcionales usando medios manuales y digitales."
+                },
+                {
+                    "code": "1.5",
+                    "description": "Comunicar ideas y soluciones técnicas con claridad, organización y terminología adecuada."
+                },
+                {
+                    "code": "1.6",
+                    "description": "Colaborar en tareas tecnológicas, escuchando el razonamiento de los demás, aportando al equipo a través del rol asignado y fomentando el bienestar grupal y las relaciones saludables e inclusivas. (CCL1, CCL3, STEM1, STEM3, STEM4, CD1, CD2, CD5, CPSAA1.1, CPSAA5, CE1, CE2, CE3)"
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "2.1 Determinar el ciclo de vida de un producto, planificando y aplicando",
+            "description": "2.1 Determinar el ciclo de vida de un producto, planificando y aplicando medidas de control de calidad en sus distintas etapas, desde el diseño a la comercialización, teniendo en consideración estrategias de mejora continua. (STEM3, STEM4, STEM5, CD1…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Analizar el ciclo de vida de un producto aplicando medidas de control de calidad y mejora continua desde el diseño hasta la comercialización."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Evaluar y seleccionar materiales tradicionales o de nueva generación considerando sus propiedades técnicas y sostenibilidad para fabricar productos de calidad."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Elaborar modelos o prototipos aplicando técnicas de fabricación adecuadas y criterios técnicos y de sostenibilidad."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "3.1 Resolver tareas propuestas y funciones asignadas de manera óptima, mediante",
+            "description": "3.1 Resolver tareas propuestas y funciones asignadas de manera óptima, mediante el uso y configuración de diferentes herramientas digitales, aplicando conocimientos interdisciplinares con autonomía. (CCL3, STEM1, STEM3, STEM4, CD1, CD2, CD3, CD5, CPS…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Resolver tareas asignadas usando y configurando herramientas digitales de forma óptima y autónoma."
+                },
+                {
+                    "code": "3.2",
+                    "description": "El alumnado comunica los resultados de su proyecto mediante presentaciones digitales, seleccionando y usando herramientas apropiadas."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Realizar la presentación de proyectos empleando aplicaciones digitales adecuadas. (CCL1, CCL3, CP3, STEM3, STEM4, CD1, CD2, CD3, CE1, CE3)"
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "4.1 Resolver problemas asociados a sistemas e instalaciones mecánicas",
+            "description": "4.1 Resolver problemas asociados a sistemas e instalaciones mecánicas, aplicando fundamentos de mecanismos de transmisión y transformación de movimientos, soporte y unión al desarrollo de montajes o simulaciones, bajo estándares de seguridad. (STEM1,…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Resolver problemas de sistemas mecánicos aplicando fundamentos de transmisión y transformación de movimientos."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Resolver problemas de sistemas eléctricos y electrónicos aplicando fundamentos de corriente continua y máquinas eléctricas."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "5.1 Controlar el funcionamiento de sistemas tecnológicos y robóticos,",
+            "description": "5.1 Controlar el funcionamiento de sistemas tecnológicos y robóticos, utilizando lenguajes de programación y aplicando las posibilidades que ofrecen las tecnologías emergentes, tales como Inteligencia Artificial, Telemetría, Internet de las cosas, o …",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "El alumnado aplica lenguajes de programación y tecnologías emergentes para controlar sistemas tecnológicos y robóticos."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Programar robots para automatizar movimientos, aplicando modelización y algoritmos, y evaluar su funcionamiento."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Interpretar la ejecución paso a paso de un programa textual y predecir su estado final."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "6.1 Evaluar los distintos sistemas de generación de energía eléctrica y",
+            "description": "6.1 Evaluar los distintos sistemas de generación de energía eléctrica y mercados energéticos, estudiando sus características, calculando sus magnitudes y valorando su eficiencia. (CCL3, STEM2, STEM5, CD1, CD2, CPSAA5, CE1, CE3) 6.2 Analizar las difer…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Evaluar sistemas de generación eléctrica y mercados energéticos calculando su eficiencia y magnitudes clave."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Analizar instalaciones de vivienda evaluando eficiencia energética y proponiendo opciones sostenibles para uso responsable."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Seleccionar y evaluar aquellos materiales y elementos más eficientes desde el punto de la sostenibilidad energética en construcción, dimensionando costes de instalación y estableciendo periodos de amortización para las distintas opciones. (STEM2, STEM5, CD1, CD2, CPSAA2, CPSAA5, CC4, CE1, CE3)"
+                }
+            ]
+        }
+    ]
+}

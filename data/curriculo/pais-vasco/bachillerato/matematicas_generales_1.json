@@ -1,0 +1,149 @@
+{
+    "community": "pais-vasco",
+    "stage": "bachillerato",
+    "decree": "Decreto 82\/2023, de 13 de junio",
+    "subject": "matematicas_generales",
+    "subject_name": "Matemáticas Generales",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Modelizar y resolver problemas de la vida cotidiana y de diversos ámbitos",
+            "description": "Modelizar y resolver problemas de la vida cotidiana y de diversos ámbitos aplicando diferentes estrategias y formas de razonamiento, con ayuda de herramientas tecnológicas, para obtener posibles soluciones.",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Resolver problemas de la vida cotidiana seleccionando la estrategia más eficiente y utilizando herramientas tecnológicas adecuadas para obtener y validar las soluciones."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Resolver problemas reales identificando todas las soluciones posibles y explicando detalladamente los pasos seguidos durante el proceso matemático."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Obtener diferentes soluciones de problemas de la vida cotidiana y de ámbitos diversos siguiendo las fases de resolución y describiendo el procedimiento utilizado."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Verificar la validez de las posibles soluciones de un problema empleando el",
+            "description": "Verificar la validez de las posibles soluciones de un problema empleando el razonamiento y la argumentación para contrastar su idoneidad.",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "El alumnado verifica la validez de las soluciones de un problema, justificando con razonamiento y argumentación, y usando herramientas digitales."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Evaluar y seleccionar la mejor solución a un problema considerando criterios contextuales (sostenibilidad, equidad, consumo responsable) mediante razonamiento y argumentación."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Generar preguntas de tipo matemático aplicando saberes y estrategias conocidas",
+            "description": "Generar preguntas de tipo matemático aplicando saberes y estrategias conocidas para dar respuesta a situaciones de la vida cotidiana.",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "El alumnado formula de forma autónoma preguntas matemáticas a partir de situaciones cotidianas para construir nuevo conocimiento."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Utilizar aplicaciones informáticas, calculadoras gráficas o simuladores para plantear, investigar y modelizar situaciones problemáticas reales de forma eficiente."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Reconocer el error en el planteamiento de preguntas o problemas entendiéndolo como una forma de progresar en el aprendizaje de las matemáticas."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Utilizar el pensamiento computacional de forma eficaz para modelizar y resolver",
+            "description": "Utilizar el pensamiento computacional de forma eficaz para modelizar y resolver situaciones de la vida cotidiana modificando o creando algoritmos.",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Diseñar y ajustar algoritmos o diagramas de flujo para automatizar la resolución de problemas cotidianos y financieros mediante procesos lógicos secuenciales."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Reconocer y utilizar conexiones entre las diferentes ideas matemáticas",
+            "description": "Reconocer y utilizar conexiones entre las diferentes ideas matemáticas estableciendo vínculos entre conceptos y procedimientos para generar una visión matemática integrada de la realidad. Establecer conexiones entre las diferentes ideas matemáticas p…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Relacionar conceptos de distintos bloques matemáticos para resolver problemas complejos, integrando procedimientos algebraicos, geométricos o estadísticos en una misma situación de aprendizaje."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Descubrir los vínculos y profundizar en las relaciones de las matemáticas con otras áreas de conocimiento",
+            "description": "Descubrir los vínculos y profundizar en las relaciones de las matemáticas con otras áreas de conocimiento, interrelacionando conceptos y procedimientos, para resolver problemas en situaciones diversas de la vida real. Observar relaciones y establecer…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Solucionar problemas prácticos integrando conceptos matemáticos con situaciones reales y de otras materias para obtener respuestas fundamentadas y contextualizadas en el entorno."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Explicar la utilidad de las matemáticas en la resolución de problemas sociales y tecnológicos, destacando su papel fundamental en el progreso y bienestar de la humanidad."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Representar fenómenos y situaciones comunes mediante conceptos y procesos",
+            "description": "Representar fenómenos y situaciones comunes mediante conceptos y procesos matemáticos seleccionando diferentes tecnologías para visualizar ideas y estructurar razonamientos.",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Modelizar ideas matemáticas estructurando razonamientos y seleccionando la tecnología adecuada."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Elegir y emplear distintos formatos como gráficos, tablas o diagramas para comunicar datos y conceptos matemáticos de forma comprensible y eficiente."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Comunicar las ideas matemáticas",
+            "description": "Comunicar las ideas matemáticas, de forma individual y colectiva, empleando el soporte, la terminología y el rigor apropiados, para organizar y consolidar el pensamiento matemático.",
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Expresar razonamientos matemáticos de forma estructurada y precisa, utilizando el vocabulario técnico adecuado y soportes variados para transmitir ideas con claridad."
+                },
+                {
+                    "code": "8.2",
+                    "description": "Utilizar con precisión la terminología, símbolos y notación matemática para explicar razonamientos y resultados en diversos contextos de forma clara y rigurosa."
+                }
+            ]
+        },
+        {
+            "code": "CE9",
+            "name": "Desarrollar destrezas, tanto personales como sociales identificando y",
+            "description": "Desarrollar destrezas, tanto personales como sociales identificando y gestionando emociones, aceptando el error y la incertidumbre, creando relaciones saludables y participando activa y reflexivamente en proyectos en grupos heterogéneos para mejorar …",
+            "criterios": [
+                {
+                    "code": "9.1",
+                    "description": "Afrontar situaciones de incertidumbre matemática mediante la toma de decisiones, gestionando las emociones negativas y transformando el error en una oportunidad de aprendizaje real."
+                },
+                {
+                    "code": "9.2",
+                    "description": "Mantener una actitud positiva y constante ante retos matemáticos, integrando correcciones y críticas constructivas para mejorar el proceso de resolución de problemas."
+                },
+                {
+                    "code": "9.3",
+                    "description": "Trabajar colaborativamente en grupos diversos, manteniendo una actitud de escucha activa, respeto mutuo y contribuyendo positivamente al clima de trabajo y bienestar del equipo."
+                }
+            ]
+        }
+    ]
+}

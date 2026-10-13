@@ -1,0 +1,159 @@
+{
+    "community": "madrid",
+    "stage": "primaria",
+    "decree": "Decreto 61/2022, de 13 de julio",
+    "subject": "segunda_lengua_extranjera",
+    "subject_name": "Segunda Lengua Extranjera",
+    "grade": 4,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Adquirir estrategias que faciliten la comprensión del",
+            "description": "Adquirir estrategias que faciliten la comprensión del sentido general e información concreta y previsible de pequeños textos sencillos, expresados de forma clara y en lengua estándar como medio para comunicar necesidades habituales y desarrollar el repertorio del lenguaje personal.",
+            "descriptors": [
+                "CCL2",
+                "CCL3",
+                "CP1",
+                "CP2",
+                "STEM1",
+                "CD1"
+            ],
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Comprender e interpretar el sentido global, así como palabras de uso frecuente y frases previamente indicadas en textos orales, escritos y multimodales breves y sencillos sobre temas habituales, de relevancia personal y próximos a su experiencia, adecuados al nivel de desarrollo del alumnado, expresados de manera comprensible, clara y en lengua estándar a través de distintos soportes, incluidos los audiovisuales e informáticos."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Aplicar de forma guiada estrategias adecuadas para captar el sentido global y procesar informaciones explícitas en textos breves y sencillos sobre temas familiares, en situaciones comunicativas cotidianas y de relevancia para el alumnado."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Desarrollar la producción oral, escrita y multimodal de",
+            "description": "Desarrollar la producción oral, escrita y multimodal de textos breves, sencillos, comprensibles y estructurados sobre temas cotidianos y de relevancia personal para el alumnado, utilizando estrategias como la planificación o la compensación a través del lenguaje verbal y no verbal.",
+            "descriptors": [
+                "CCL1",
+                "CP1",
+                "CP2",
+                "STEM1",
+                "CD2"
+            ],
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Atender al ritmo, la acentuación y la entonación durante la expresión oral de frases cortas con información básica sobre asuntos cotidianos y de relevancia para el alumnado, utilizando de forma guiada recursos verbales y no verbales."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Producir textos muy breves y sencillos, adecuados a la situación comunicativa propuesta, a partir de modelos y a través de herramientas analógicas y digitales, usando estructuras y léxico elemental sobre asuntos cotidianos y de relevancia personal para el alumnado."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Utilizar de forma guiada estrategias que faciliten la producción de mensajes breves y sencillos adecuados a las intenciones comunicativas usando, con ayuda, recursos y apoyos físicos o digitales en función de las necesidades de cada momento."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Participar en intercambios comunicativos para expresar o",
+            "description": "Participar en intercambios comunicativos para expresar o responder a necesidades inmediatas en situaciones de interés para el alumnado, mediante el uso de expresiones habituales, estrategias de colaboración mutua y recursos analógicos y digitales, mostrando respeto por las normas de cortesía establecidas.",
+            "descriptors": [
+                "CCL5",
+                "CP1",
+                "CP2",
+                "STEM1",
+                "CPSAA3"
+            ],
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Participar en situaciones interactivas breves y sencillas sobre temas cotidianos, de relevancia personal y próxima a su experiencia, preparadas previamente, a través de diversos soportes, apoyándose en recursos tales como la repetición, el ritmo pausado o el lenguaje no verbal, y mostrando respeto por la cortesía del lenguaje y la etiqueta digital."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Seleccionar y utilizar, de forma guiada y en situaciones cotidianas, estrategias elementales para saludar, despedirse y presentarse; expresar mensajes breves; y formular y contestar preguntas sencillas."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Actuar como intermediario en contextos predecibles y",
+            "description": "Actuar como intermediario en contextos predecibles y cotidianos, para procesar y transmitir información básica y sencilla, utilizando estrategias y conocimientos que faciliten la comunicación.",
+            "descriptors": [
+                "CCL5",
+                "CP1",
+                "CP2",
+                "CP3",
+                "STEM1",
+                "CPSAA1"
+            ],
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Mostrar empatía e interés por los interlocutores y por los problemas de entendimiento en su entorno más próximo, apoyándose en diversos recursos y soportes para interpretar y explicar textos, conceptos y comunicaciones breves y sencillas, de forma guiada, en situaciones en las que atender a la diversidad."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Adquirir estrategias elementales que ayuden a crear puentes y faciliten la comprensión y producción de información y la comunicación, usando, con ayuda, recursos y apoyos físicos o digitales en función de las necesidades de cada momento."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Reflexionar sobre el funcionamiento de las distintas",
+            "description": "Reflexionar sobre el funcionamiento de las distintas lenguas, reconociendo, utilizando y enriqueciendo los repertorios del lenguaje personal, usando los conocimientos previos y desarrollando las estrategias necesarias que faciliten la comunicación en situaciones cotidianas.",
+            "descriptors": [
+                "CP2",
+                "STEM1",
+                "CD2",
+                "CPSAA1"
+            ],
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Desarrollar destrezas personales que ayuden a enfrentarse al aprendizaje de otra lengua, fomentando la confianza en las propias posibilidades, aceptando el error como parte del proceso de aprendizaje y adaptándose ante situaciones de incertidumbre, para disfrutar en el aprendizaje de una segunda lengua."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Analizar las similitudes y diferencias entre distintas lenguas reflexionando, de forma guiada, sobre aspectos básicos de su funcionamiento."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Utilizar y diferenciar, de forma guiada, los conocimientos y estrategias de mejora de su capacidad de comunicar y de aprender una segunda extranjera, con apoyo de otros participantes y de soportes analógicos y digitales."
+                },
+                {
+                    "code": "5.4",
+                    "description": "Registrar y aplicar, de manera guiada, los avances y dificultades elementales del aprendizaje de la lengua extranjera, reconociendo los aspectos que ayudan a mejorar, participando en actividades de autoevaluación y evaluación, como las propuestas en el Portfolio Europeo de las Lenguas (PEL)."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Identificar las diferencias y semejanzas entre las",
+            "description": "Identificar las diferencias y semejanzas entre las diferentes lenguas, valorando y respetando su diversidad como medio para gestionar situaciones interculturales.",
+            "descriptors": [
+                "CCL5",
+                "CP3",
+                "CPSAA1",
+                "CPSAA3",
+                "CC3"
+            ],
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Mostrar respeto en diversas situaciones, identificando y comparando semejanzas y diferencias elementales entre lenguas y culturas en diferentes contextos comunicativos cotidianos y habituales."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Reconocer y apreciar la diversidad de países donde se habla la segunda lengua extranjera como fuente de enriquecimiento personal, mostrando interés por comprender elementos culturales y del lenguaje elemental y habitual que fomenten el respeto por los demás."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Reconocer y aplicar estrategias básicas para entender y apreciar los aspectos más relevantes de la diversidad del lenguaje, de la cultura y del arte."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "community": "aragon",
+    "stage": "bachillerato",
+    "decree": "Orden ECD\/1112\/2022, de 18 de julio",
+    "subject": "anatomia_aplicada",
+    "subject_name": "Anatomía Aplicada",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Utilizar recursos variados, con sentido crítico y ético",
+            "description": "Utilizar recursos variados, con sentido crítico y ético, para buscar y seleccionar información contrastada argumentando sobre ella, detectar los bulos y la desinformación y establecer colaboraciones con la sociedad.",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Reconocer la información en torno a temas sobre la salud y el bienestar con consistencia científica, distinguiéndola de pseudociencias, bulos, teorías conspiratorias y creencias infundadas y manteniendo una actitud escéptica ante estos."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Manejar con soltura diferentes medios de consulta para conseguir la información necesaria en la resolución de dudas o cuestiones sobre salud."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Utilizar la información adecuada respetando la autoría de las fuentes y citándolas correctamente."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Entender la investigación como una labor colectiva e interdisciplinar en constante evolución que debe compartirse a través de la divulgación responsable."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Planificar y desarrollar proyectos de investigación, siguiendo los pasos de las",
+            "description": "Planificar y desarrollar proyectos de investigación, siguiendo los pasos de las metodologías propias de la ciencia utilizando con precisión, procedimientos, materiales o instrumentos adecuados, y cooperando cuando sea necesario para indagar en aspect…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Plantear preguntas, realizar predicciones y formular hipótesis en torno a la salud y la anatomía y fisiología del cuerpo humano que puedan ser respondidas o contrastadas utilizando métodos científicos."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Diseñar la experimentación, la toma de datos y el análisis de fenómenos biológicos y ambientales y seleccionar los instrumentos necesarios que permitan responder a preguntas concretas o contrastar las hipótesis planteadas, minimizando los sesgos en la medida de lo posible."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Realizar la experimentación y la toma de datos cuantitativos y cualitativos seleccionando los materiales, herramientas o técnicas adecuadas con corrección y precisión."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Interpretar y analizar los resultados obtenidos de un proyecto de investigación usando, cuando sea necesario, herramientas matemáticas y tecnológicas, reconociendo su alcance y sus limitaciones y obteniendo conclusiones razonadas y fundamentadas o reconociendo la imposibilidad de hacerlo."
+                },
+                {
+                    "code": "2.5",
+                    "description": "Establecer colaboraciones dentro y fuera del centro educativo en las fases del proyecto de investigación que lo requieran para aumentar la eficacia y la difusión, usando las herramientas digitales adecuadas, valorando la cooperación en la investigación, respetando la diversidad y favoreciendo la discusión."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Comprender y explicar los procesos funcionales del cuerpo humano, utilizando",
+            "description": "Comprender y explicar los procesos funcionales del cuerpo humano, utilizando los principios, leyes y teorías científicas adecuadas, para adquirir una visión holística y sistémica de su funcionamiento y de su interacción con el medio natural.",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Comprender los procesos relacionados con las funciones de nutrición, relación y reproducción y establecer el papel que realiza cada uno de los sistemas y aparatos implicados en cada una de esas funciones."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Adquirir el vocabulario y las expresiones necesarias para expresarse con precisión y respeto alrededor de los temas relacionados con la anatomía, morfología y fisiología humanas."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Descubrir las estrechas relaciones de dependencia entre los diferentes sistemas y aparatos y visualizar el cuerpo humano como un todo, en el que los sistemas deben ser analizados en su conjunto y no solo a través del análisis de las partes que los componen."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Analizar los efectos de determinadas acciones humanas sobre el medio ambiente",
+            "description": "Analizar los efectos de determinadas acciones humanas sobre el medio ambiente cuyas consecuencias repercuten en la salud, basándose en fundamentos científicos, para promover y adoptar hábitos que eviten o minimicen los impactos medioambientales negat…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Analizar situaciones generadas por las acciones humanas que comportan modificaciones en el medio ambiente con consecuencias para la salud a nivel individual, local y global."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Comprender la relación directa que existe entre la calidad del medio ambiente en el que vivimos y el buen funcionamiento de los aparatos y sistemas del cuerpo humano y la propia sensación de bienestar."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Proponer y crear soluciones en el entorno cercano que contribuyan a minimizar el impacto medioambiental negativo para compatibilizar el entorno con el ejercicio de una vida sana individual y colectiva."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Argumentar sobre la importancia de los hábitos saludables y sostenibles, basándose en fundamentos científicos",
+            "description": "Argumentar sobre la importancia de los hábitos saludables y sostenibles, basándose en fundamentos científicos, para adoptarlos y promoverlos en su entorno familiar y social. Fomentar la salud en el presente y asegurarla para el futuro obliga a la adq…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Comprender y argumentar con fundamentos científicos la necesidad de abordar las actividades personales y colectivas de forma respetuosa con el propio cuerpo y con el medio ambiente del que depende la propia salud."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Observar y analizar las situaciones cotidianas individuales y colectivas y encontrar y descubrir cómo realizarlas respetando las necesidades del cuerpo humano y de su entorno, para determinar optimizarlas y evitar los malos hábitos que ponen en riesgo la salud y que se deben transformar en saludables."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Aplicar lo aprendido en relación a las necesidades fisiológicas y psicológicas del ser humano en la vida cotidiana para garantizar la salud y la sensación de bienestar físico, psíquico y social."
+                },
+                {
+                    "code": "5.4",
+                    "description": "Divulgar y difundir las actitudes respetuosas y los hábitos saludables con el cuerpo y con el entorno que promueven la salud y un ambiente saludable y colaboran en la sensación de bienestar."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Resolver problemas relacionados con la salud y los hábitos saludables aplicando",
+            "description": "Resolver problemas relacionados con la salud y los hábitos saludables aplicando el pensamiento científico y los razonamientos lógico-matemáticos, mediante la búsqueda y selección de estrategias y herramientas científicotecnológicas apropiadas. El mun…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Analizar las causas que llevan a la aparición de patologías, trastornos o enfermedades relacionadas con los diferentes aparatos y sistemas del cuerpo humano, comprendiendo las relaciones de causa-efecto y aplicando el razonamiento fundamentado en información científica contrastada."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Valorar las ventajas de la prevención de las enfermedades con el consecuente refuerzo hacia una estrategia vital basada en la adquisición de hábitos saludables."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Comprender y asumir las capacidades y limitaciones del sistema inmunitario a la hora de proteger al cuerpo humano de enfermedades y patologías intrínsecas y extrínsecas, conectando los agentes causales con los elementos defensivos del sistema y su relación con los métodos de inmunidad artificial activa."
+                },
+                {
+                    "code": "6.4",
+                    "description": "Asumir la responsabilidad de un uso racional de los medicamentos y el respeto a la opinión profesional en el tratamiento médico y en actuaciones preventivas a nivel individual y colectivo como los sistemas de vacunación nacional e internacional."
+                }
+            ]
+        }
+    ]
+}

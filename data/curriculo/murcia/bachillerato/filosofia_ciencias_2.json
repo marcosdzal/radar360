@@ -1,0 +1,96 @@
+{
+    "community": "murcia",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "filosofia_ciencias",
+    "subject_name": "Filosofía II",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Tomar conciencia de que las relaciones económicas entre los hogares, las",
+            "description": "Tomar conciencia de que las relaciones económicas entre los hogares, las empresas y las administraciones públicas generan flujos de renta que responden a sus necesidades o capacidades de financiación, reconociendo que estos flujos pueden ser prestado…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Explicar y representar las relaciones económicas entre economías domésticas, empresas y administraciones públicas, en el entorno próximo."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Identificar el concepto de tipo de interés, llevando a cabo cálculos que",
+            "description": "Identificar el concepto de tipo de interés, llevando a cabo cálculos que conduzcan a establecer los resultados de operaciones básicas de préstamo, inversión y seguro, conociendo la naturaleza y finalidad de las corrientes monetarias que estos generan…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Diferenciar entre los principales productos financieros que ofrecen las entidades financieras a los particulares, razonar por qué se pagan o reciben intereses y valorar las ventajas e inconvenientes para cada una de las alternativas, además de la oportunidad de usarlos con garantía y responsabilidad."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Comprender las causas por las que se originan los intereses y cómo estos se generan en función de la ley de capitalización empleada, resolviendo, mediante actividades, problemas reales de operaciones de préstamo e inversión, reconociendo los elementos implicados."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Conocer qué es un presupuesto personal, planificándolo y llevando a cabo su",
+            "description": "Conocer qué es un presupuesto personal, planificándolo y llevando a cabo su gestión efectiva, identificando y clasificando gastos e ingresos, siendo capaz de leer y entender los documentos que actúan de soporte de ingresos y gastos, como el contrato …",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Elaborar el presupuesto personal como instrumento para mejorar las finanzas personales, utilizando plantillas o aplicaciones para calcular en situaciones cotidianas, los distintos tipos de ingresos y gastos y su evolución, identificando aquellos gastos más elevados o no necesarios, determinando la necesidad de incrementar los ingresos, evaluando la capacidad de endeudamiento y estableciendo un plan de ahorro ante posibles situaciones imprevistas."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Preparar los documentos relacionados con una operación simulada de compraventa, tales como facturas, albaranes y recibos."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Resolver, a modo de retos planteados, situaciones relacionadas con un contrato de trabajo y una nómina e investigar y seleccionar aquella información que se considera relevante para dar solución a los mismos, de manera individual o en colectividad."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Conocer el paradigma del consumo responsable o consciente, identificando los",
+            "description": "Conocer el paradigma del consumo responsable o consciente, identificando los beneficios personales y valorando las consecuencias que tiene para la sociedad, el medio ambiente y las relaciones laborales una ciudadanía preocupada por sus actos de compr…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Valorar positivamente el consumo responsable o consciente como una herramienta para atajar el cambio climático, la desigualdad social y combatir la precarización del mercado laboral, promoviendo actitudes socialmente responsables en el entorno cercano."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Valorar y comprender los pilares básicos sobre los que se sustenta el Estado",
+            "description": "Valorar y comprender los pilares básicos sobre los que se sustenta el Estado del Bienestar, determinando la importancia del ahorro personal, la solidaridad entre generaciones como marco de nuestro sistema público de pensiones y reconociendo el papel …",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Comprender el concepto de esperanza de vida y analizar su relación con las políticas básicas del estado del bienestar, como la educación y sanidad públicas."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Tomar conciencia sobre la importancia del ahorro para afrontar los diferentes períodos que se dan en el ciclo financiero individual."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Utilizar el concepto de economía circular para proponer medidas de consumo",
+            "description": "Utilizar el concepto de economía circular para proponer medidas de consumo responsable, ahorro personal y eficiencia doméstica, valorando las consecuencias positivas sobre el entorno local, regional y global, siendo consciente de los retos a los que …",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Conocer el concepto de economía circular, valorando los impactos ambientales (huellas de carbono, hídrica y energética) de todas las etapas del ciclo de vida del producto, siendo consciente de la importancia de evolucionar hacia dicho sistema."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Valorar la necesidad de una transición energética, identificando sus principales retos tanto en el entorno cercano como a nivel internacional, reconociendo las repercusiones globales de los actos individuales."
+                }
+            ]
+        }
+    ]
+}

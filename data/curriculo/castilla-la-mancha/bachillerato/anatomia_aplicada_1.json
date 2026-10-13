@@ -1,0 +1,105 @@
+{
+    "community": "castilla-la-mancha",
+    "stage": "bachillerato",
+    "decree": "Decreto 83\/2022, de 12 de julio",
+    "subject": "anatomia_aplicada",
+    "subject_name": "Anatomía Aplicada",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Trasmitir información y datos científicos, interpretándolos y argumentando con",
+            "description": "Trasmitir información y datos científicos, interpretándolos y argumentando con precisión sobre ellos, mediante diferentes formatos, analizando los procesos, métodos, experimentos o resultados encontrados, para forjar una opinión fundamentada sobre di…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar críticamente conceptos y procesos asociados a la anatomía humana, interpretando información en diferentes formatos como modelos, gráficos, tablas, diagramas, fórmulas y esquemas, entre otros."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Comunicar informaciones u opiniones razonadas, en relación con los saberes de la materia o con trabajos científicos, transmitiéndolas de forma clara y rigurosa, utilizando la terminología y el formato adecuados, tales como: modelos, gráficos, tablas, vídeos, informes, diagramas, fórmulas, esquemas y símbolos, entre otros, además de herramientas digitales."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Argumentar sobre aspectos científicos y bioéticos, defendiendo una postura de forma razonada, con una actitud abierta, flexible, receptiva y respetuosa ante la op"
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Localizar y utilizar fuentes fiables, identificando, seleccionando y",
+            "description": "Localizar y utilizar fuentes fiables, identificando, seleccionando y organizando la información, evaluándola críticamente y contrastando su veracidad, para resolver preguntas, de carácter científico, planteadas de forma autónoma. Obtener información …",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Plantear y resolver cuestiones relacionadas con la anatomía humana, localizando y citando fuentes adecuadas, además de seleccionando, organizando y analizando críticamente la información."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Contrasta r y justificar la veracidad de la información de carácter científico, utilizando fuentes fiables y adoptando una actitud crítica y escéptica hacia informaciones sin una base científica, como: pseudociencias, teorías conspiratorias, creencias infundadas y bulos, entre otras."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Argumentar sobre la contribución de la ciencia y de las personas dedicadas a ella a la sociedad, destacando el papel de la mujer, acentuando su valor en Castilla colectiva e in terdisciplinar, en constante evolución, influida por el contexto político y los recursos económicos."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Diseñar, planear y desarrollar proyectos de investigación, siguiendo diversas",
+            "description": "Diseñar, planear y desarrollar proyectos de investigación, siguiendo diversas metodologías científicas, teniendo en cuenta los recursos disponibles, de forma realista y buscando vías de colaboración, para indagar en aspectos relacionados con la cienc…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Plantear preguntas, realizar predicciones y formular hipótesis, que intenten explicar fenómenos científicos y puedan ser re spondidas o contrastadas, utilizando métodos científicos."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Diseñar la experimentación, la toma de datos y el análisis de fenómenos científicos, seleccionando los instrumentos necesarios para ello, de modo que permitan responder a preguntas concretas y contrastar una hipótesis planteada, minimizando los sesgos, en la medida de lo posible."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Realizar experimentos y registro de datos, tanto cuantitativos como cualitativos, sobre fenómenos relacionados con la ciencia, seleccionando y utilizando los instrumentos, herramientas o técnicas adecuados, de forma correcta y precisa."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Interpretar y analizar resultados obtenidos en un proyecto de investigación, utilizando, cuando sea necesario, herramientas matemáticas y tecnológicas, reconociendo, por un lado, y llegando, por otro, a conclusiones razonadas y fundamentadas, valorando, incluso, la imposibilidad de hacerlo."
+                },
+                {
+                    "code": "3.5",
+                    "description": "Establecer colaboraciones dentro y fuera del centro educativo, en las distintas fases del trabajar con mayor eficiencia, utilizando las herramientas tecnológicas adecuadas, valorando la importancia de colaborar en una investigación, respetando la diversidad y favoreciendo la inclusión."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Buscar y utilizar estrategias en la resolución de problemas, analizando",
+            "description": "Buscar y utilizar estrategias en la resolución de problemas, analizando críticamente las soluciones y respuestas halladas, reformulando además el procedimiento, si fuera necesario, para dar explicación a procesos o fenómenos biológicos.",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Resolver problemas o dar explicación a procesos biológicos, utilizando recursos variados, como pueden ser: conocimientos propios, datos e información, razonamiento lógico, pensamiento computacional y herramientas digitales, entre otros."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Analizar crític amente la solución de problemas sobre fenómenos biológicos, modificando los procedimientos utilizados o las conclusiones extraídas, si dicha solución no fuese viable o ante nuevos datos aportados con posterioridad."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Analizar los efectos de determinadas acciones sobre la salud y el mantenimiento",
+            "description": "Analizar los efectos de determinadas acciones sobre la salud y el mantenimiento de nuestro cuerpo, basándose en los fundamentos de las ciencias biológicas, generando actitudes de respeto hacia nuestro propio cuerpo, promoviendo y adoptando hábitos qu…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Analizar el funcionamiento de nuestro cuerpo en las distintas actividades diarias y promover su adecuado mantenimiento, identificando, para ello, los tejidos, órganos y sistemas que lo componen."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Proponer y poner en práctica hábitos e iniciativas saludables, ad y la urgencia de adoptarlos, basándose en los saberes adquiridos sobre el funcionamiento de sistemas y aparatos del cuerpo humano."
+                }
+            ]
+        }
+    ]
+}

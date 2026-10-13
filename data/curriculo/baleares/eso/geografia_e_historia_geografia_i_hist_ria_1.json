@@ -1,0 +1,193 @@
+{
+    "community": "baleares",
+    "stage": "eso",
+    "decree": "",
+    "subject": "geografia_e_historia_geografia_i_hist_ria",
+    "subject_name": "Geografia i Història",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Cercar, seleccionar, tractar i organitzar informacio sobre temes rellevants del",
+            "description": "cercar, seleccionar, tractar i organitzar informacio sobre temes rellevants del present i del passat, usant críticament fonts històriques i geogràfiques, per adquirir coneixements, elaborar i expressar continguts en diversos formats. Les destreses i …",
+            "criterios": [
+                {
+                    "code": "CA1.1",
+                    "description": "Elaborar, expressar i presentar continguts propis en forma d'esquemes, taules informatives i altres formats mitjançant el desenvolupament d'estratègies de cerca, selecció i tractament d'informació relatives a processos i esdeveniments rellevants del present i del passat. - Elaborar, expressar i presentar la informació en taules, mapes conceptuals, esquemes, resums o quadres resum. - Cercar, seleccionar i sintetitzar informació de forma adequada a fonts tant analògiques com digitals. - Utilitzar de forma adequada dispositius, aplicacions informàtiques, plataformes digitals i xarxes de comunicació. - Expressar els continguts de forma correcta i seguint les normes ortogràfiques."
+                },
+                {
+                    "code": "CA1.2",
+                    "description": "Contrastar i argumentar sobre temes i esdeveniments de la Prehistòria, l'Edat Antiga, l'Edat Mitjana i l'Edat Moderna, localitzant i analitzant de manera crítica fonts primàries i secundàries com a proves històriques. - Identificar i classificar els diferents tipus de fonts històriques. - Investigar fets històrics a partir de diferents fonts històriques. - Valorar i argumentar sobre la validesa de diferents fonts històriques."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Indagar, argumentar i elaborar productes propis sobre problemes geografics,",
+            "description": "indagar, argumentar i elaborar productes propis sobre problemes geografics, historics i socials que resultin rellevants actualment, des del local al global, per desenvolupar un pensament crític, respectuós amb les diferències, que contribueixi a la c…",
+            "criterios": [
+                {
+                    "code": "CA2.1",
+                    "description": "Identificar, valorar i mostrar interès pels principals problemes que afecten la societat, adoptant una posició́ crítica i proactiva cap a aquests. - Identificar i valorar reptes i problemes de la societat actual (pobresa, desigualtat social, emergència climàtica, desafiaments demogràfics, despoblació, situacions discriminatòries de gènere…). - Proposar solucions a les problemàtiques i reptes de la societat actual."
+                },
+                {
+                    "code": "CA2.2",
+                    "description": "Argumentar de manera crítica sobre problemes d'actualitat a través de coneixements geogràfics i històrics, contrastant i valorant fonts diverses. - Expressar i respectar opinions sobre problemes de la societat actual mitjançant debats, redaccions o altres productes. - Analitzar i comparar diferents punts de vista temes i\/o problemes de la societat actual."
+                },
+                {
+                    "code": "CA2.3",
+                    "description": "Incorporar i utilitzar adequadament termes, conceptes i esdeveniments relacionats amb la geografia, la història i altres disciplines de les ciències socials, a través d'intervencions orals, texts escrits i altres productes, mostrant plantejaments originals i propostes creatives. - Utilitzar termes i conceptes específics de la matèria en les produccions escrites i orals."
+                },
+                {
+                    "code": "CA2.4",
+                    "description": "Elaborar judicis argumentats, respectant les opinions dels altres i enriquint el cabal comú en el context del món actual, els seus reptes i els seus conflictes des d'una perspectiva sistèmica i global."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Coneixer els principals desafiaments als quals s'han enfrontat diferents",
+            "description": "coneixer els principals desafiaments als quals s'han enfrontat diferents societats al llarg del temps, identificant les causes i conseqüències dels canvis produïts i els problemes als quals s'enfronten en l'actualitat, mitjançant el desenvolupament d…",
+            "criterios": [
+                {
+                    "code": "CA3.1",
+                    "description": "Adquirir i construir coneixement rellevant del món actual i de la història, a través de processos inductius, de la recerca i del treball per projectes, reptes o problemes, mitjançant l'elaboració de productes que reflecteixin la comprensió dels fenòmens i problemes abordats. - Elaborar tasques de recerca i investigació sobre temes d'història i d'actualitat. - Aprendre a cercar i seleccionar informació adequada i presenta-la sense fer ús de plagi."
+                },
+                {
+                    "code": "CA3.2",
+                    "description": "Identificar els principals problemes, reptes i desafiaments als quals s'ha enfrontat la humanitat al llarg de la història, els canvis produïts, les seves causes i conseqüències, com també els que, en l'actualitat, hem de plantejar i resoldre entorn dels Objectius de Desenvolupament Sostenible. - Conèixer els principals reptes i desafiaments de la Història de la humanitat. - Identificar causes i conseqüències en relació amb els fets històrics i actuals. - Conèixer els ODS i relacionar-los amb els desafiaments treballats."
+                },
+                {
+                    "code": "CA3.3",
+                    "description": "Representar adequadament informació geogràfica i històrica a través de diverses formes de representació gràfica, cartogràfica i visual. - Representar i interpretar informació geogràfica de forma gràfica, cartogràfica o visual: tipus de mapes, projeccions cartogràfiques, climogrames, piràmides de població, taules i gràfiques de dades meteorològiques, mapes històrics, piràmides socials... etc."
+                },
+                {
+                    "code": "CA3.4",
+                    "description": "Utilitzar una seqüència cronològica a fi d'examinar la relació entre fets i processos en diferents períodes i llocs històrics (simultaneïtat i durada), utilitzant termes i conceptes apropiats. - Elaborar i interpretar eixos cronològics. Distingir la diferent escala temporal de les etapes de la prehistòria i la història antiga, així com de l'edat mitjana fins a l'edat moderna."
+                },
+                {
+                    "code": "CA3.5",
+                    "description": "Analitzar processos de canvi històric de rellevància a través de l'ús de diferents fonts d'informació, tenint en compte les continuïtats i permanències en diferents períodes i llocs. - Explicar les característiques de cada temps històric i els esdeveniments que han determinat canvis fonamentals en el rumb de la història. - Entendre el procés d'hominització. Reconèixer els canvis evolutius fins a arribar a l'espècie humana. - Identificar les característiques de cada etapa de la prehistòria. - Analitzar la transcendència de la revolució neolítica. - Reconèixer la importància del descobriment de l'escriptura. - Conèixer l'origen i abast dels principals imperis de l'Edat Mitjana i Moderna. - Comprendre la rellevància de l'obertura de noves rutes comercials i de l'arribada a Amèrica. - Comparar l'Amèrica precolombina amb l'Amèrica colonial i analitzar els processos de canvi."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Identificar i analitzar els elements del paisatge i la seva articulacio en",
+            "description": "identificar i analitzar els elements del paisatge i la seva articulacio en sistemes complexos naturals, rurals i urbans, com també la seva evolució en el temps, interpretant les causes de les transformacions i valorant el grau d'equilibri existent en…",
+            "criterios": [
+                {
+                    "code": "CA4.1",
+                    "description": "Interpretar l'entorn des d'una perspectiva sistèmica i integradora, a través del concepte de paisatge, identificant els seus principals elements i les interrelacions existents. - Identificar els principals elements i factors que condicionen el clima. - Conèixer, localitzar i comparar els diversos paisatges i zones bioclimàtiques de la Terra, així com d'Espanya i Balears. - Identificar els climogrames del món, Espanya i Balears. - Comprendre l'estructura de la Terra i les diferents formes de modificació del relleu terrestre. - Identificar els principals elements i formes del relleu. - Localitzar les principals unitats del relleu dels continents, Espanya i Illes Balears."
+                },
+                {
+                    "code": "CA4.2",
+                    "description": "Valorar el grau de sostenibilitat i d'equilibri dels diferents espais i des de diferents escales i analitzar la seva transformació i degradació a través del temps per l'acció humana en l'explotació dels recursos, la seva relació amb l'evolució de la població i les estratègies desenvolupades per al seu control i domini i els conflictes que això ha provocat. - Conèixer i relacionar els conceptes d'escalfament global i canvi climàtic. - Identificar ecosistemes i espais fràgils i amenaçats a escala mundial, estatal o balear. - Analitzar casos d'espais transformats i degradats per l'acció humana."
+                },
+                {
+                    "code": "CA4.3",
+                    "description": "Argumentar la necessitat d'accions de defensa, protecció, conservació i millora de l'entorn (natural, rural i urbà) a través de propostes i iniciatives que reflecteixin compromisos i conductes en favor de la sostenibilitat i del repartiment just i solidari dels recursos. - Identificar les principals figures de protecció d'espais naturals. - Expressar opinions sobre la protecció d'espais de l'entorn i sobre el concepte de sostenibilitat. - Proposar accions de defensa, protecció, conservació i millora dels espais a escala global o local."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Analitzar de manera critica plantejaments historics i geografics explicant la",
+            "description": "analitzar de manera critica plantejaments historics i geografics explicant la construccio dels sistemes democràtics i els principis constitucionals que regeixen la vida en comunitat, com també assumint els deures i drets propis del nostre marc de con…",
+            "criterios": [
+                {
+                    "code": "CA5.1",
+                    "description": "Identificar, interpretar i analitzar els mecanismes que han regulat la convivència i la vida en comú al llarg de la història, des de l'origen de la societat a les diferents civilitzacions que s'han anat succeint, assenyalant els principals models d'organització social i política que s'han gestat. - Comprendre el sorgiment i les necessitats de l'organització política i social entre el Neolític i les Primeres Civilitzacions. - Comprendre el sorgiment de l'organització política durant la prehistòria. - Conèixer i identificar els diferents sistemes polítics de l'edat Antiga i de l'Edat Mitjana i Moderna. - Interpretar la seva evolució i comparar-los."
+                },
+                {
+                    "code": "CA5.2",
+                    "description": "Assenyalar i explicar aquelles experiències històriques més destacables, i anteriors a l'època contemporània, en les quals es va aconseguir establir sistemes polítics que van afavorir l'exercici de drets i llibertats dels individus i de la col·lectivitat, considerant-les com a antecedents de les posteriors conquestes democràtiques i referents històrics de les llibertats actuals. - Analitzar i comprendre l'Atenes de Pèricles i l'inici del sistema democràtic. - Descriure algunes de les diferències entre la democràcia grega i les democràcies actuals."
+                },
+                {
+                    "code": "CA5.3",
+                    "description": "Mostrar actituds pacífiques i respectuoses i assumir les normes com a marc necessari per a la convivència, demostrant capacitat crítica i identificant i responent de manera assertiva davant les situacions d'injustícia i desigualtat. - Participar de forma assertiva en els treballs en grup, debats, xerrades i col·loquis."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Comprendre els processos geografics, historics i culturals que han conformat la",
+            "description": "comprendre els processos geografics, historics i culturals que han conformat la realitat multicultural en què vivim, coneixent i difonent la història i la cultura de les minories ètniques presents al nostre país i valorant l'aportació dels moviments …",
+            "criterios": [
+                {
+                    "code": "CA6.1",
+                    "description": "Situar el naixement i desenvolupament de diferents civilitzacions en l'espai i en el temps, integrant els elements històrics, culturals, institucionals i religiosos que les han conformat, explicant la realitat multicultural generada al llarg del temps i identificant les seves aportacions més rellevants a la cultura universal. - Conèixer la influència del medi físic en el desenvolupament de primeres civilitzacions. - Localitzar i datar les civilitzacions de l'edat antiga i de l'Edat Mitjana - Conèixer les seves característiques culturals, institucionals i religioses més destacades de Mesopotàmia, Egipte, Grècia, Roma, l'Imperi Bizantí i l'Islam. - Identificar les aportacions més rellevants d'aquestes civilitzacions a la cultura universal. - Entendre l'origen de la religió i el significat magicoreligiós de les primeres manifestacions artístiques. - Conèixer les característiques de les religions politeistes de l'antiguitat. - Identificar els principals déus i rituals religiosos de l'època. - Localitzar l'origen del cristianisme i conèixer les novetats que aportava la seva doctrina i la seva difusió. - Explicar els motius de la persecució dels cristians. - Comprendre els seus preceptes principals de la doctrina islàmica i el seu abast en l'actualitat. - Explicar el poder de l'Església a l'Europa feudal. - Definir el concepte de croada i sintetitzar les croades principals i les seves conseqüències. - Conèixer els motius de la persecució dels jueus i les seves conseqüències. - Identificar les causes i les conseqüències de la reforma i la contrareforma. - Comparar les doctrines reformistes."
+                },
+                {
+                    "code": "CA6.2",
+                    "description": "Reconèixer les desigualtats socials existents en èpoques passades i els mecanismes de dominació i control que s'han aplicat, identificant aquells col·lectius que s'han vist sotmesos i silenciats, destacant la presència de personatges femenins. - Descriure el tipus de societat i els diferents grups socials (origen, drets…). - Reconèixer les desigualtats existents i entendre qui eren els col·lectius marginats durant l'època antiga: estrangers, esclaus i la dona. - Elaborar o completar piràmides socials. - Destacar el paper de la dona i identificar personatges femenins destacats. - Conèixer els trets bàsics de l'economia a l'antiguitat, l'Edat Mitjana i Moderna. - Descriure la societat estamental i els diferents grups socials que la formaven (origen, privilegis…). - Reconèixer les desigualtats existents i entendre qui eren els col·lectius marginats durant l'època medieval i moderna: serfs, minories ètniques, esclaus i la dona."
+                },
+                {
+                    "code": "CA6.3",
+                    "description": "Valorar la diversitat social i cultural, argumentant i intervenint a favor de la inclusió, així com rebutjant i actuant en contra de qualsevol actitud o comportament discriminatori o basat en estereotips. - Definir el terme cultura i els seus trets. - Identificar les diferents àrees culturals del món i els conflictes existents. - Entendre i valorar la multiculturalitat com un fenomen enriquidor."
+                },
+                {
+                    "code": "CA6.4",
+                    "description": "Argumentar i intervenir sobre la igualtat real d'homes i dones actuant en contra de qualsevol actitud i comportament discriminatori per raó de gènere. - Comprendre el paper de la dona i el seu rol a la societat actual. - Promoure el rebuig cap a les situacions discriminatòries de les nenes i de les dones en el món."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Identificar els fonaments que sostenen les diverses identitats propies i les",
+            "description": "identificar els fonaments que sostenen les diverses identitats propies i les dels altres, a través del coneixement i la valoració del patrimoni material i immaterial que compartim per conservar-lo i respectar els sentiments de pertinença, com també p…",
+            "criterios": [
+                {
+                    "code": "CA7.1",
+                    "description": "Relacionar les cultures i civilitzacions que s'han desenvolupat al llarg de la història antiga, medieval i moderna amb les diverses identitats col·lectives que s'han anat construint fins a l'actualitat, reflexionant sobre els múltiples significats que adopten i les seves aportacions a la cultura humana universal. - Conèixer el llegat cultural de la Grècia clàssica, de la civilització romana i de la cultura islàmica, bizantina i carolíngia. - Identificar i valorar les restes històriques que sobreviuen actualment fruit d'aquesta herència. - Comprendre i valorar la importància de les aportacions a la ciència universal des de l'edat mitjana fins l'edat moderna. - Identificar els principals avenços tecnològics de les distintes civilitzacions d'Edat Mitjana i Moderna."
+                },
+                {
+                    "code": "CA7.2",
+                    "description": "Identificar l'origen històric de diferents identitats col·lectives que s'han desenvolupat a Espanya, interpretant l'ús s'ha fet de les mateixes i mostrant una actitud de respecte cap als diferents sentits de pertinença, promovent la solidaritat i la cohesió social. - Identificar les característiques i localitzar els pobles preromans, bàrbars visigots, vàndals i Bizantins. - Conèixer el procés de colonització dels pobles fenicis, grecs i cartaginesos. L'Eivissa púnica. - Entendre les conseqüències del contacte dels pobles colonitzadors amb les cultures peninsulars. - Conèixer la conquesta romana i el procés de romanització peninsular i balear. - Conèixer les etapes, la distribució i organització territorial de Al-Àndalus i les Illes Orientals. - Entendre i valorar la conquesta cristiana peninsular i el Regne de Mallorca. - Descriure el pas de l'edat mitjana a l'edat moderna: el cas dels Àustries i dels Borbons."
+                },
+                {
+                    "code": "CA7.3",
+                    "description": "Assenyalar els fonaments de la idea d'Europa a través de les diferents experiències històriques del passat i identificar el llegat històric, institucional, artístic i cultural com a patrimoni comú de la ciutadania europea. - Explicar les característiques essencials de l'art grec i romà i la seva evolució. - Conèixer i identificar les principals aportacions de la Grècia clàssica i la civilització romana a la cultura europea. - Entendre el concepte de romanització i el seu abast. - Explicar els trets que defineixen les cultures de l'edat mitjana i moderna. - Explicar les característiques essencials de l'art romànic, gòtic, renaixentista i barroc. - Reconèixer les aportacions de la cultura musulmana i jueva a la cultura europea. - Comprendre la importància del cristianisme en la formació de la idea d'Europa."
+                },
+                {
+                    "code": "CA7.4",
+                    "description": "Valorar, protegir i conservar el patrimoni artístic, històric i cultural com a fonament de la identitat col·lectiva local, autonòmica, nacional, europea i universal, considerant-ho un bé per al gaudi recreatiu i cultural i un recurs per al desenvolupament dels pobles."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Prendre consciencia del paper dels cicles demografics, el cicle vital, les",
+            "description": "prendre consciencia del paper dels cicles demografics, el cicle vital, les formes de vida i les relacions intergeneracionals i de dependència en la societat actual i la seva evolució al llarg del temps, analitzant-les de manera crítica, per promoure …",
+            "criterios": [
+                {
+                    "code": "CA8.1",
+                    "description": "Conèixer i interpretar els comportaments demogràfics de la població, els canvis que ha experimentat i els seus cicles, identificant i analitzant els principals problemes i reptes als quals ens enfrontem en el món, a Espanya i a les Illes Balears. - Conèixer i dominar les tècniques per a l'estudi demogràfic com el càlcul de taxes o les piràmides de població. - Comprendre les principals característiques de la població mundial, espanyola i balear. - Identificar els principals desafiaments demogràfics actuals. - Localitzar els sistemes urbans mundials principals, espanyols i balears. - Conèixer els principals problemes del món urbà (contaminació, residus urbans…). - Analitzar casos de despoblació i sobrepoblació urbana."
+                },
+                {
+                    "code": "CA8.2",
+                    "description": "Prendre consciència del cicle vital i analitzar com han canviat les seves característiques, necessitats i obligacions en diferents moments històrics, com també les arrels de la distribució per motius de gènere del treball domèstic, assumint les responsabilitats i compromisos propis de l'edat en l'àmbit familiar, en l'entorn escolar i en la comunitat i valorant la riquesa que aporten les relacions intergeneracionals. - Valorar la lluita pels drets de la dona al llarg de la història. - Valorar els drets dels infants a la societat actual."
+                },
+                {
+                    "code": "CA8.3",
+                    "description": "Relacionar els canvis en els estils de vida tradicional i contrastar-los amb els que són saludables i sostenibles en l'entorn, a través de comportaments respectuosos amb la salut pròpia, la dels altres i amb altres éssers vius, prenent consciència de la importància de promoure el propi desenvolupament personal. - Comparar l'estil de vida urbà i rural. - Reconèixer la necessitat d'un creixement urbà sostenible i realitzar propostes."
+                }
+            ]
+        },
+        {
+            "code": "CE9",
+            "name": "Coneixer i valorar la importancia de la seguretat integral ciutadana en la",
+            "description": "coneixer i valorar la importancia de la seguretat integral ciutadana en la cultura de convivència nacional i internacional, reconèixer la contribució de l'Estat, les seves institucions i altres entitats socials a la ciutadania global, a la pau, a la …",
+            "criterios": [
+                {
+                    "code": "CA9.1",
+                    "description": "Identificar i interpretar la connexió d'Espanya amb els grans processos històrics (de les èpoques antiga, medieval i moderna), valorant el que han suposat per a la seva evolució i assenyalant les aportacions dels seus habitants al llarg de la història."
+                },
+                {
+                    "code": "CA9.2",
+                    "description": "Interpretar des de la perspectiva del desenvolupament sostenible i la ciutadania global els principals desafiaments del món actual, expressant la importància d'implicar-se en la recerca de solucions i en la manera de concretar-los des de la pròpia capacitat d'acció, tant local com global, valorant la contribució de l'Estat, les seves institucions i les associacions civils en programes i missions dirigits per organismes nacionals i internacionals per a l'assoliment de la pau, la seguretat integral, la convivència social i la cooperació entre els pobles. - Entendre el concepte de globalització i les seves implicacions a nivell global. - Valorar l'abast dels conflictes internacionals. - Proposar millores sobre aspectes de la nostra societat (repartiment just, pobresa…). S'estableixen els criteris d'avaluació (CA) de cada una de les competències específiques (CE), juntament amb uns aclariments orientatius per desenvolupar-los."
+                }
+            ]
+        }
+    ]
+}

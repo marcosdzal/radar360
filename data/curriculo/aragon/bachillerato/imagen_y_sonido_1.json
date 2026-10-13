@@ -1,0 +1,145 @@
+{
+    "community": "aragon",
+    "stage": "bachillerato",
+    "decree": "Orden ECD\/1112\/2022, de 18 de julio",
+    "subject": "imagen_y_sonido",
+    "subject_name": "Imagen y Sonido",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Analizar y producir imágenes secuenciales de distintos medios, formatos,",
+            "description": "Analizar y producir imágenes secuenciales de distintos medios, formatos, géneros y culturas, valorando sus cualidades plásticas, formales y semánticas; para elaborar proyectos, personales o colectivos, como vehículos de expresión y comunicación.",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar las cualidades pl á sticas, formales y sem á nticas de producciones fotogr formatos, g é neros y culturas, determinando las reglas y c"
+                },
+                {
+                    "code": "1.2",
+                    "description": "Dise ar y crear narraciones mediante imágenes secuenciales creativas que representen las ideas, opiniones y sentimientos propios a ñ partir de un tema o motivo previos, incorporando las experiencias personales y el acercamiento a distintos medios de expresi"
+                },
+                {
+                    "code": "1.3",
+                    "description": "Realizar el tratamiento y composición digital de im de generaci n, procesamiento y retoque de imagen fija, así como de maquetación de productos para impresión o multimedia. ó"
+                },
+                {
+                    "code": "1.4",
+                    "description": "Evaluar el rigor é tico y formal con el que se usan las herramientas de creaci distinguiendo cr ı ́ ticamente los modos de presentar las informaciones y los mensajes, identificando su posible manipulaci sobre la necesidad de respeto de la propiedad intelectual y los derechos de autor."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Escribir guion es para obras audiovisuales, dando una estructura dramática",
+            "description": "Escribir guion es para obras audiovisuales, dando una estructura dramática coherente a relatos, propios o ajenos, cuyas tramas y conflictos sirvan de vehículo a ideas, opiniones y emociones, manejando para ello las herramientas, recursos y convencion…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Inventar y extraer de distintas fuentes conflictos e ideas motoras con potencial para desarrollar un guion audiovisual."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Conocer y elaborar las distintas fases y documentos previos implicados en la génesis de un guion literario, desde las primeras ideas,,, sinopsis, argumentos y escaletas, hasta el tratamiento y el logline storyline"
+                },
+                {
+                    "code": "2.3",
+                    "description": "Construir personajes cuyo conflicto, función en la trama y evolución sirvan de vehículo para transmitir de manera óptima las ideas temáticas y dramáticas al público al que se dirige la obra."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Elaborar guiones literarios para obras audiovisuales de ficción, con estructuras narrativas sólidas y coherentes con las posibilidades expresivas de la imagen, el sonido y la música."
+                },
+                {
+                    "code": "2.5",
+                    "description": "Desglosar un guion literario en storyboard o guion gráfico."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Analizar y aplicar los códigos expresivos y comunicativos empleados para el",
+            "description": "Analizar y aplicar los códigos expresivos y comunicativos empleados para el diseño del sonido de productos audiovisuales, valorando la importancia de la función expresiva de la música y del sonido para elaborar bandas sonoras expresivas y lograr una …",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Descubrir la interrelación entre sonido e imagen en las producciones audiovisuales, y analizar las funciones del sonido en esta relación."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Conocer los recursos sonoros audiovisuales y la utilización narrativa del espacio sonoro."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Analizar cómo la música entreteje la estructura narrativa de la obra audiovisual."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Manejar las apps, software y bibliotecas de sonidos para realizar una banda sonora."
+                },
+                {
+                    "code": "3.5",
+                    "description": "Integrar los conocimientos sobre bandas sonoras, ambientación musical y producción sonora, en la consecución de un producto expresivo con unidad de sentido."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Conocer y utilizar las técnicas y procesos en la planificación, diseño y",
+            "description": "Conocer y utilizar las técnicas y procesos en la planificación, diseño y realización de un producto audiovisual, así como aplicar los procesos y recursos técnicos y humanos necesarios para la producción y el rodaje de un producto audiovisual.",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Analizar y perfeccionar, ajustando a las posibilidades de producción, el guion, escenas o secuencias en hojas de desglose y fichas de producción: reparto, localizaciones, música y sonidos, vestuario, atrezzo, extras y otras necesidades."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Crear los planos de planta, del plató o localizaciones en exteriores, a partir de los estableciendo una escaleta de planos significativos y expresivos."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Planificar el rodaje estableciendo un calendario y organizando las sesiones de grabación en fichas de producción."
+                },
+                {
+                    "code": "4.4",
+                    "description": "Diseñar y preparar la puesta en escena, así como su ambientación visual y sonora."
+                },
+                {
+                    "code": "4.5",
+                    "description": "Rodar secuencias cinematográficas y obtener grabaciones audiovisuales, aplicando las técnicas, herramientas y lenguajes necesarios, con flexibilidad y habilidad para resolver los imprevistos propios de las producciones audiovisuales y obtener así un resultado ajustado a los objetivos proyectados previamente."
+                },
+                {
+                    "code": "4.6",
+                    "description": "Buscar vías de financiación disponibles, tanto pública como privada, en función de las características de la obra audiovisual y el público al que va dirigida."
+                },
+                {
+                    "code": "4.7",
+                    "description": "Conocer, valorar y respetar los derechos de autor."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Analizar y editar producciones audiovisuales, individuales o colectivas, que",
+            "description": "Analizar y editar producciones audiovisuales, individuales o colectivas, que integren imágenes y sonidos de manera colaborativa, en base a estrategias expresivas narrativas y la consiguiente planificación de los recursos para expresar ideas y sentimi…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Analizar montajes de obras audiovisuales, valorando las estrategias narrativas, expresivas estéticas o de continuidad para entender los distintos tipos de montaje y sus funciones."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Editar secuencias audiovisuales, en forma de animatic articulando imágenes y sonidos con fines narrativos, expresivos o estéticos."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Realizar el tratamiento digital de imágenes en movimiento, valorando características de color, formatos y contraste y empleando técnicas de generación, procesamiento y retoque de imagen en movimiento."
+                },
+                {
+                    "code": "5.4",
+                    "description": "Preparar proyectos y archivos audiovisuales con el formato, resolución y ajustes adecuados a distintos soportes y medios. Inventar y extraer de distintas fuentes conflictos e ideas motoras con potencial para desarrollar un guion audiovisual. Conocer y elaborar las distintas fases y documentos previos al guion literario, desde las primeras ideas, storyline, sinopsis, argumentos y escaletas, tratamiento y Construir personajes cuyo conflicto, función en la trama y evolución sirvan de vehículo para transmitir de manera óptima las ideas temáticas y dramáticas al público al que se dirige la obra. Elaborar guiones literarios para obras audiovisuales de ficción, con estructuras narrativas sólidas y coherentes con las posibilidades expresivas de la imagen, el sonido y la música. Desglosar un guion literario en guion gráfico y Descubrir la interrelación entre sonido e imagen en las producciones audiovisuales, y analizar las funciones del sonido en esta relación."
+                }
+            ]
+        }
+    ]
+}

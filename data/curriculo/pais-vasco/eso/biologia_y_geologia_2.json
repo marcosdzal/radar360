@@ -1,0 +1,147 @@
+{
+    "community": "pais-vasco",
+    "stage": "eso",
+    "decree": "Decreto 77\/2023, de 30 de mayo",
+    "subject": "biologia_y_geologia",
+    "subject_name": "Biología y Geología",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Comprender y relacionar las causas por las que ocurren los principales",
+            "description": "Comprender y relacionar las causas por las que ocurren los principales fenómenos y procesos naturales, utilizando el razonamiento científico, las leyes y teorías científicas y\/o el pensamiento computacional para resolver problemas o dar explicación a…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Interpretar y explicar procesos biológicos o geológicos a partir de datos en diversos formatos, extrayendo conclusiones lógicas y fundamentadas científicamente."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Comunicar información científica sobre procesos biológicos y geológicos de forma estructurada, empleando terminología técnica y diversos formatos visuales o digitales para facilitar su comprensión."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Explicar procesos naturales mediante la creación de modelos, esquemas o prototipos, aplicando pasos estructurados de diseño para resolver problemas o representar estructuras biológicas y geológicas."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Analizar críticamente la solución a un problema sobre fenómenos naturales reformulándola cuando sea necesario."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Identificar, localizar y seleccionar información, utilizando eficientemente",
+            "description": "Identificar, localizar y seleccionar información, utilizando eficientemente plataformas tecnológicas y recursos variados para resolver preguntas relacionadas con las ciencias, tanto de forma individual como de forma colaborativa.",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Buscar y organizar información de fuentes fiables para responder preguntas científicas, citando correctamente el origen de los datos utilizados en sus trabajos."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Diferenciar informaciones científicas rigurosas de bulos y pseudociencias mediante el análisis crítico de fuentes y la aplicación del método científico en contextos cotidianos."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Reconocer el impacto social de la ciencia y el papel de investigadores e investigadoras, destacando la aportación femenina y el carácter colaborativo del conocimiento científico."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Interpretar y transmitir información y datos científicos y argumentar sobre",
+            "description": "Interpretar y transmitir información y datos científicos y argumentar sobre ellos utilizando diferentes formatos para analizar conceptos y procesos de las ciencias.",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Formular preguntas investigables y proponer hipótesis contrastables sobre fenómenos naturales, prediciendo resultados posibles mediante la aplicación del método científico en el aula."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Diseñar experimentos y protocolos de toma de datos para comprobar hipótesis científicas sobre seres vivos o procesos geológicos, analizando los resultados obtenidos."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Expresar las observaciones en forma de preguntas, formular hipótesis, y",
+            "description": "Expresar las observaciones en forma de preguntas, formular hipótesis, y demostrar dichas hipótesis a través de la experimentación científica, y desarrollar proyectos de investigación, siguiendo los pasos de las metodologías científicas para indagar e…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Explicar procesos naturales o resolver problemas biológicos y geológicos aplicando la lógica, el pensamiento computacional y el análisis de datos proporcionados."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Evaluar la coherencia y validez de los resultados obtenidos al resolver problemas científicos, detectando posibles errores o interpretaciones erróneas de la realidad natural."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Interpretar los resultados obtenidos en la experimentación, en la indagación o en el proyecto de investigación científica, utilizando, cuando sea necesario, herramientas matemáticas y tecnológicas."
+                },
+                {
+                    "code": "4.4",
+                    "description": "Presentar la información y las conclusiones obtenidas a través de la experimentación, la observación y las evidencias científicas utilizando el formato analógico y\/o digital adecuado."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Manejar las reglas y normas básicas de las ciencias, utilizando el lenguaje de",
+            "description": "Manejar las reglas y normas básicas de las ciencias, utilizando el lenguaje de la IUPAC, el lenguaje matemático, el empleo de unidades de medida correctas y el uso seguro del laboratorio, para reconocer el carácter universal del lenguaje científico y…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Reconocer y explicar cómo la actividad humana aumenta el riesgo de desastres naturales en zonas concretas analizando el terreno, la vegetación y el entorno social."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Diseñar y aplicar propuestas de hábitos sostenibles mediante el análisis crítico de conductas cotidianas, fundamentándose en conocimientos científicos sobre el impacto ambiental."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Analizar los efectos de determinadas acciones sobre el medio ambiente y la",
+            "description": "Analizar los efectos de determinadas acciones sobre el medio ambiente y la salud, basándose en los fundamentos de las ciencias, para promover y adoptar hábitos responsables que sean compatibles con un desarrollo sostenible y permitan mantener y mejor…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Reconocer el valor del paisaje local como patrimonio natural, identificando sus componentes y analizando qué factores los hacen vulnerables frente a la actividad humana."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Identificar y explicar los componentes de un paisaje, evaluando cómo la actividad humana genera riesgos naturales y altera el medio ambiente."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Identificar y analizar posibles riesgos geológicos o meteorológicos en un paisaje real, deduciendo sus causas a partir de la observación de sus elementos naturales."
+                },
+                {
+                    "code": "6.4",
+                    "description": "Proponer y adoptar hábitos saludables y responsables, analizando las acciones propias y ajenas basándose en los propios razonamientos, conocimientos adquiridos e información disponible."
+                },
+                {
+                    "code": "6.5",
+                    "description": "Interpretar el paisaje y ecosistemas del entorno analizando sus elementos y reflexionando sobre el impacto ambiental de determinadas acciones humanas."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Comprender y valorar la ciencia como construcción colectiva en continuo cambio",
+            "description": "Comprender y valorar la ciencia como construcción colectiva en continuo cambio y evolución, en la que no solo participan las personas dedicadas a la ciencia, sino que también requiere de una interacción con el resto de la sociedad, para obtener resul…",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Reconocer y valorar, a través del análisis histórico de los hombres y mujeres de ciencia y de los avances científicos, que la ciencia es un proceso en permanente construcción y las repercusiones de la ciencia con la tecnología, la sociedad y el medio ambiente."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Detectar en el entorno las necesidades ambientales y sociales más importantes dándoles solución sostenible, creativa y con criterio de género."
+                }
+            ]
+        }
+    ]
+}

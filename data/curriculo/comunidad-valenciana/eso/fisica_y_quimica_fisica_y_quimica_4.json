@@ -1,0 +1,311 @@
+{
+    "community": "comunidad-valenciana",
+    "stage": "eso",
+    "decree": "Decreto 107\/2022, de 5 de agosto",
+    "subject": "fisica_y_quimica_fisica_y_quimica",
+    "subject_name": "Física y Química",
+    "grade": 4,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Resolver problemas científicos abordables en el ámbito escolar a partir de",
+            "description": "Resolver problemas científicos abordables en el ámbito escolar a partir de trabajos de investigación de carácter experimental.",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Explicar fenómenos del día a día aplicando leyes científicas y comunicando las conclusiones de forma argumentada mediante distintos formatos y soportes digitales o analógicos."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Resolver problemas numéricos y conceptuales de física y química aplicando leyes científicas, justificando el procedimiento seguido y expresando los resultados con sus unidades correspondientes."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Identificar problemas reales del entorno cercano y proponer soluciones basadas en la física y la química, evaluando su impacto social y ambiental para mejorar la comunidad."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Realizar diseños experimentales para el cálculo de la velocidad y la aceleración de un móvil"
+                },
+                {
+                    "code": "1.5",
+                    "description": "Realizar diseños experimentales para el estudio de la caída de graves"
+                },
+                {
+                    "code": "1.6",
+                    "description": "Investigar experimentalmente procesos ondulatorios como la reflexión y refracción de la luz"
+                },
+                {
+                    "code": "1.7",
+                    "description": "Realizar investigaciones sobre el equilibrio de los cuerpos rígidos basándose en la noción de centro de gravedad"
+                },
+                {
+                    "code": "1.8",
+                    "description": "Construir dispositivos de transformación energética, como motores o pilas"
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Analizar y resolver situaciones problemáticas del ámbito de la Física y la",
+            "description": "Analizar y resolver situaciones problemáticas del ámbito de la Física y la Química utilizando la lógica científica y alternando las estrategias del trabajo individual con el trabajo en equipo.",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Aplicar el método científico para investigar fenómenos naturales, planteando preguntas contrastables y distinguiendo explicaciones basadas en evidencias de aquellas que carecen de rigor científico o son pseudociencias."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Diseñar planes de investigación y experimentos adecuados para comprobar hipótesis científicas, seleccionando las técnicas y herramientas necesarias para obtener resultados válidos y conclusiones ajustadas."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Diseñar experimentos y formular hipótesis fundamentadas en leyes científicas para resolver problemas planteados, asegurando la coherencia entre la teoría y el procedimiento propuesto."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Expresar, utilizando el lenguaje matemático adecuado a su nivel, el procedimiento que se ha seguido en la resolución de un problema"
+                },
+                {
+                    "code": "2.5",
+                    "description": "Comprobar e interpretar las soluciones encontradas"
+                },
+                {
+                    "code": "2.6",
+                    "description": "Participar en equipos de trabajo para resolver los problemas planteados, apoyar a compañeros y compañeras demostrando empatía y reconociendo sus aportaciones y utilizar el diálogo igualitario para resolver conflictos y discrepancias"
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Utilizar el conocimiento científico como instrumento del pensamiento crítico,",
+            "description": "Utilizar el conocimiento científico como instrumento del pensamiento crítico, interpretando y comunicando mensajes científicos, desarrollando argumentaciones y accediendo a fuentes fiables, para distinguir la información contrastada de los bulos y op…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Interpretar y comunicar información sobre procesos fisicoquímicos mediante el análisis de datos en diversos formatos como tablas, gráficas o esquemas para resolver problemas científicos."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Aplicar correctamente la nomenclatura IUPAC, el sistema internacional de unidades y las herramientas matemáticas básicas para resolver problemas y comunicar resultados científicos con precisión."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Aplicar las normas de seguridad, higiene y sostenibilidad en el laboratorio de física y química para garantizar un trabajo seguro y el cuidado del entorno."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Utilizar estrategias de filtrado para seleccionar información en medios digitales, identificando las fuentes de las que procede y aportando razones para descartar las fuentes no fiables"
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Justificar la validez del modelo científico como producto dinámico que se va",
+            "description": "Justificar la validez del modelo científico como producto dinámico que se va revisando y reconstruyendo bajo la influencia del contexto social e histórico, atendiendo la importancia de la ciencia en el avance de las sociedades, así como a los riesgos…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Emplear herramientas digitales y tradicionales de forma autónoma y colaborativa, fomentando la comunicación respetuosa y el análisis crítico de las aportaciones del grupo en tareas científicas."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Seleccionar fuentes de información fiables y utilizar herramientas digitales o tradicionales para crear contenidos científicos que favorezcan el aprendizaje individual y del grupo."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Describir el papel de los y las científicas en los conflictos bélicos, estableciendo cómo afectan estos al desarrollo de la ciencia y discutiendo posturas éticas"
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Analizar algunos fenómenos naturales y predecir su comportamiento utilizando",
+            "description": "Analizar algunos fenómenos naturales y predecir su comportamiento utilizando modelos de Física y Química para poder identificarlos, caracterizarlos y explicar otros fenómenos nuevos.",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Colaborar de forma constructiva y equitativa en tareas de equipo, asumiendo roles específicos para alcanzar objetivos científicos comunes con eficiencia y respeto."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Diseñar y ejecutar proyectos científicos guiados orientados a resolver problemas sociales o ambientales, aportando soluciones de valor para la comunidad y el entorno."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Utilizar el modelo de interacción física para explicar las fuerzas y los cambios en el movimiento"
+                },
+                {
+                    "code": "5.4",
+                    "description": "Utilizar el modelo de energía para explicar algunos fenómenos ondulatorios"
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Utilizar adecuadamente el lenguaje científico propio de la Física y la Química",
+            "description": "Utilizar adecuadamente el lenguaje científico propio de la Física y la Química en la interpretación y transmisión de información.",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Analizar la evolución histórica de descubrimientos científicos realizados por hombres y mujeres, evaluando su impacto en el desarrollo tecnológico, social y medioambiental actual."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Identificar problemas sociales, ambientales o tecnológicos del entorno cercano y explicar cómo la ciencia aporta soluciones sostenibles mediante la participación ciudadana."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Escribir textos argumentativos propios del área en diversos formatos y soportes, cuidando sus aspectos formales, aplicando las normas de corrección ortográfica y gramatical, para transmitir de forma organizada sus conocimientos con un lenguaje no discriminatorio"
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Interpretar correctamente la información presentada en diferentes formatos de",
+            "description": "Interpretar correctamente la información presentada en diferentes formatos de representación gráfica y simbólica utilizados habitualmente en la Física y la Química.",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Representar gráficamente las fuerzas que actúan sobre un cuerpo en una dimensión"
+                },
+                {
+                    "code": "7.2",
+                    "description": "Relacionar las magnitudes de velocidad, aceleración y fuerza con una expresión matemática y aplicar correctamente las principales ecuaciones"
+                },
+                {
+                    "code": "7.3",
+                    "description": "Distinguir claramente entre las unidades de velocidad y aceleración, así como entre magnitudes lineales y angulares"
+                },
+                {
+                    "code": "7.4",
+                    "description": "Utilizar un sistema de referencia para representar los elementos del movimiento mediante vectores, justificando la relatividad del movimiento y clasificando los movimientos por sus características"
+                },
+                {
+                    "code": "7.5",
+                    "description": "Emplear las representaciones gráficas de posición y velocidad en función del tiempo para deducir la velocidad media e instantánea y justificar si un movimiento es acelerado o no"
+                },
+                {
+                    "code": "7.6",
+                    "description": "Emplear las representaciones gráficas de espacio y velocidad en función del tiempo para deducir la velocidad media e instantánea y justificar si un movimiento es acelerado o no"
+                },
+                {
+                    "code": "7.7",
+                    "description": "Representar mediante ecuaciones las transformaciones de la materia de manera consistente con el principio de conservación de la materia"
+                },
+                {
+                    "code": "7.8",
+                    "description": "Escribir fórmulas sencillas de los compuestos de carbono"
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Distinguir las diferentes manifestaciones de la energía e identificar sus",
+            "description": "Distinguir las diferentes manifestaciones de la energía e identificar sus formas de transmisión, su conservación y disipación en contextos cercanos.",
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Diferenciar entre trabajo mecánico y trabajo fisiológico. Explicar que el trabajo consiste en la transmisión de energía de un cuerpo a otro mediante una fuerza que desplaza su punto de aplicación"
+                },
+                {
+                    "code": "8.2",
+                    "description": "Identificar la potencia con la rapidez con que se realiza un trabajo y explicar la importancia de esta magnitud en la industria y la tecnología"
+                },
+                {
+                    "code": "8.3",
+                    "description": "Relacionar la variación de energía mecánica que ha tenido lugar en un proceso con el trabajo con que se ha realizado. Aplicar de forma correcta el principio de conservación de la energía en el ámbito de la mecánica"
+                },
+                {
+                    "code": "8.4",
+                    "description": "Explicar las características fundamentales de los movimientos ondulatorios Identificar hechos reales en los que se manifieste un movimiento ondulatorio"
+                },
+                {
+                    "code": "8.5",
+                    "description": "Relacionar la formación de una onda con la propagación de la perturbación que la origina"
+                },
+                {
+                    "code": "8.6",
+                    "description": "Indicar las características que deben tener los sonidos para ser audibles Describir la naturaleza de la emisión sonora"
+                }
+            ]
+        },
+        {
+            "code": "CE9",
+            "name": "Identificar y caracterizar las sustancias a partir de sus propiedades físicas",
+            "description": "Identificar y caracterizar las sustancias a partir de sus propiedades físicas para relacionar los materiales de nuestro entorno con el uso que se hace de ellos.",
+            "criterios": [
+                {
+                    "code": "9.1",
+                    "description": "Identificar hidrocarburos sencillos y representarlos mediante su fórmula molecular, describiendo sus aplicaciones, y reconocer los grupos funcionales presentes en moléculas de especial interés"
+                },
+                {
+                    "code": "9.2",
+                    "description": "Justificar la gran cantidad de compuestos orgánicos existentes, así como la formación de macromoléculas y su importancia en los seres vivos"
+                },
+                {
+                    "code": "9.3",
+                    "description": "Describir algunas de las principales sustancias químicas aplicadas en diversos ámbitos de la sociedad: agrícola, alimentario, construcción e industrial"
+                },
+                {
+                    "code": "9.4",
+                    "description": "Explicar las características básicas de compuestos químicos de interés social: petróleo y derivados, y fármacos. Explicar los peligros del uso inadecuado de los medicamentos"
+                },
+                {
+                    "code": "9.5",
+                    "description": "Explicar las características básicas de los procesos radiactivos, su peligrosidad y sus aplicaciones"
+                }
+            ]
+        },
+        {
+            "code": "CE0",
+            "name": "Caracterizar los cambios químicos como transformación de unas sustancias en otras diferentes",
+            "description": "Caracterizar los cambios químicos como transformación de unas sustancias en otras diferentes, reconociendo la importancia de las transformaciones químicas en actividades y procesos cotidianos.",
+            "criterios": [
+                {
+                    "code": "10.1",
+                    "description": "Explicar los procesos de oxidación y combustión, y analizar su incidencia en el medio ambiente"
+                },
+                {
+                    "code": "10.2",
+                    "description": "Explicar las características de los ácidos y de las bases y realizar experiencias de neutralización"
+                },
+                {
+                    "code": "10.3",
+                    "description": "Utilizar la noción de cantidad de sustancia para realizar cálculos en reacciones químicas"
+                }
+            ]
+        },
+        {
+            "code": "CE1",
+            "name": "Identificar las interacciones como causa de las transformaciones que tienen",
+            "description": "Identificar las interacciones como causa de las transformaciones que tienen lugar en nuestro entorno físico para poder intervenir en el mismo, modificando las condiciones que nos permitan una mejora en nuestras condiciones de vida.",
+            "criterios": [
+                {
+                    "code": "11.1",
+                    "description": "Utilizar las nociones básicas de la estática de fluidos para describir sus aplicaciones"
+                },
+                {
+                    "code": "11.2",
+                    "description": "Explicar cómo actúan los fluidos sobre los cuerpos que flotan o están sumergidos en ellos aplicando el Principio de Arquímedes"
+                },
+                {
+                    "code": "11.3",
+                    "description": "Identificar las fuerzas que actúan sobre un cuerpo, generen o no aceleraciones"
+                },
+                {
+                    "code": "11.4",
+                    "description": "Describir los principios de la Dinámica y aportar a partir de ellas una explicación científica a los movimientos cotidianos. Determinar la importancia de la fuerza de rozamiento en la vida real"
+                },
+                {
+                    "code": "11.5",
+                    "description": "Identificar las fuerzas implicadas en fenómenos cotidianos señalando las interacciones del cuerpo en relación con otros cuerpos"
+                },
+                {
+                    "code": "11.6",
+                    "description": "Identificar el carácter universal de la fuerza de la gravitación y vincularlo a una visión del mundo sujeto a leyes que se expresan en forma matemática"
+                }
+            ]
+        }
+    ]
+}

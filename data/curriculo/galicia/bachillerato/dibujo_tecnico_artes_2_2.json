@@ -1,0 +1,121 @@
+{
+    "community": "galicia",
+    "stage": "bachillerato",
+    "decree": "Decreto 157\/2022, de 15 de septiembre",
+    "subject": "dibujo_tecnico_artes_2",
+    "subject_name": "Dibujo Técnico Aplicado a las Artes Plásticas y al Diseño II",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Observar, analizar y valorar la presencia de la geometría en la naturaleza, el",
+            "description": "Observar, analizar y valorar la presencia de la geometría en la naturaleza, el entorno construido y el arte, identificando sus estructuras geométricas, elementos y códigos, con una actitud proactiva de apreciación y disfrute, para explicar su origen,…",
+            "criterios": [
+                {
+                    "code": "CE1.1",
+                    "description": "Identificar y explicar la presencia de formas y relaciones geométricas en el arte y en el diseño, comprendiendo el motivo o la intencionalidad con la que se utilizaron."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Desarrollar propuestas gráficas y de diseño, utilizando tanto el dibujo a mano",
+            "description": "Desarrollar propuestas gráficas y de diseño, utilizando tanto el dibujo a mano alzada como los materiales propios del dibujo técnico y elaborando trazados, composiciones y transformaciones geométricas en el plano de forma intuitiva y razonada, para i…",
+            "criterios": [
+                {
+                    "code": "CE1.2",
+                    "description": "Diseñar patrones y mosaicos aplicando las transformaciones geométricas al diseño de patrones, mosaicos y redes modulares."
+                },
+                {
+                    "code": "CE1.3",
+                    "description": "Diseñar formas creativas empleando tangencias, enlaces y curvas cónicas y técnicas."
+                },
+                {
+                    "code": "CE4.1",
+                    "description": "Diseñar patrones y mosaicos aplicando las transformaciones geométricas al diseño de patrones, mosaicos y redes modulares."
+                },
+                {
+                    "code": "CE4.2",
+                    "description": "Diseñar formas creativas, empleando tangencias, enlaces y curvas cónicas y técnicas."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Comprender e interpretar el espacio y los objetos tridimensionales, analizando",
+            "description": "Comprender e interpretar el espacio y los objetos tridimensionales, analizando y valorando su presencia en las representaciones artísticas, seleccionando y utilizando el sistema de representación más adecuado para aplicarlo a la realización de ilustr…",
+            "criterios": [
+                {
+                    "code": "CE1.4",
+                    "description": "Diseñar espacios o escenografías aplicando la perspectiva cónica, representando las luces y las sombras de los objetos contenidos para alcanzar una mayor comprensión y definición de la realidad y reflexionando sobre el proceso realizado y el resultado obtenido."
+                },
+                {
+                    "code": "CE2.1",
+                    "description": "Dibujar, en las perspectivas isométrica y caballera, formas volumétricas incorporando curvas."
+                },
+                {
+                    "code": "CE2.2",
+                    "description": "Diseñar espacios o escenografías aplicando la perspectiva cónica, representando las luces y las sombras de los objetos contenidos para alcanzar una mayor comprensión y definición de la realidad y reflexionando sobre el proceso realizado y el resultado obtenido."
+                },
+                {
+                    "code": "CE3.1",
+                    "description": "Dibujar, en las perspectivas isométrica y caballera, formas volumétricas incorporando curvas."
+                },
+                {
+                    "code": "CE3.2",
+                    "description": "Diseñar espacios o escenografías aplicando la perspectiva cónica, representando las luces y las sombras de los objetos contenidos para alcanzar una mayor comprensión y definición de la realidad y reflexionando sobre el proceso realizado y el resultado obtenido."
+                },
+                {
+                    "code": "CE4.3",
+                    "description": "Dibujar, en las perspectivas isométrica y caballera, formas volumétricas incorporando curvas."
+                },
+                {
+                    "code": "CE4.4",
+                    "description": "Diseñar espacios o escenografías aplicando la perspectiva cónica, representando las luces y las sombras de los objetos contenidos para alcanzar una mayor comprensión y definición de la realidad y reflexionando sobre el proceso realizado y el resultado obtenido."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Analizar, definir formalmente o visualizar ideas",
+            "description": "Analizar, definir formalmente o visualizar ideas, aplicando las normas fundamentales UNE e ISO para interpretar y representar objetos y espacios, así como documentar proyectos de diseño.",
+            "criterios": [
+                {
+                    "code": "CE2.3",
+                    "description": "Proyectar, de manera individual o en grupo, un diseño sencillo, comunicando de manera clara e inequívoca su forma y dimensiones mediante el uso de la normalización, aplicando estrategias y destrezas que agilicen el trabajo colaborativo."
+                },
+                {
+                    "code": "CE3.3",
+                    "description": "Proyectar, de manera individual o en grupo, un diseño sencillo, comunicando de manera clara e inequívoca su forma y dimensiones mediante el uso de la normalización, aplicando estrategias y destrezas que agilicen el trabajo colaborativo."
+                },
+                {
+                    "code": "CE4.5",
+                    "description": "Proyectar, de manera individual o en grupo, un diseño sencillo, comunicando de manera clara e inequívoca su forma y dimensiones mediante el uso de la normalización, aplicando estrategias y destrezas que agilicen el trabajo colaborativo."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "1-2 3 2-3 5 3 3.1-4.1-4.2 Líneas de actuación en el proceso de enseñanza y aprendizaje",
+            "description": "1-2 3 2-3 5 3 3.1-4.1-4.2 Líneas de actuación en el proceso de enseñanza y aprendizaje. – El diseño de proyectos multidisciplinares de carácter funcional que doten de un sentido práctico a los trabajos desarrollados, con el fin de potenciar un aprend…",
+            "criterios": [
+                {
+                    "code": "CE1.5",
+                    "description": "Realizar y presentar proyectos aprovechando las posibilidades que los diferentes programas digitales, aplicaciones infográficas y herramientas de dibujo vectorial aportan a los campos del diseño y de la publicidad."
+                },
+                {
+                    "code": "CE2.4",
+                    "description": "Realizar y presentar proyectos, aprovechando las posibilidades que los diferentes programas digitales, aplicaciones infográficas y herramientas de dibujo vectorial aportan a los campos del diseño, de la publicidad y del arte."
+                },
+                {
+                    "code": "CE3.4",
+                    "description": "Realizar y presentar proyectos aprovechando las posibilidades que los diferentes programas digitales, aplicaciones infográficas y herramientas de dibujo vectorial aportan a los campos del diseño, de la publicidad y del arte."
+                },
+                {
+                    "code": "CE4.6",
+                    "description": "Realizar y presentar proyectos aprovechando las posibilidades que los diferentes programas digitales, aplicaciones infográficas y herramientas de dibujo vectorial aportan a los campos del diseño, de la publicidad y del arte."
+                }
+            ]
+        }
+    ]
+}

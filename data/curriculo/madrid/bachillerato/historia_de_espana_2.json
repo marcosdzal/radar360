@@ -1,0 +1,142 @@
+{
+    "community": "madrid",
+    "stage": "bachillerato",
+    "decree": "Decreto 64\/2022, de 20 de julio",
+    "subject": "historia_de_espana",
+    "subject_name": "Historia de España",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Valorar los movimientos y acciones que han promovido las libertades en la",
+            "description": "Valorar los movimientos y acciones que han promovido las libertades en la historia de España, utilizando términos y conceptos históricos, a través del análisis comparado de los distintos regímenes políticos, para reconocer el legado democrático de la…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar la evolución de los derechos y libertades en España comparando los regímenes políticos y textos constitucionales desde el fin del absolutismo hasta la Constitución de 1978."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Analizar la Transición y la Constitución de 1978 como bases de la democracia, elaborando juicios críticos sobre debates constitucionales actuales mediante la búsqueda de información."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Identificar y valorar el papel de la Transición en el establecimiento de la democracia actual y de la Constitución de 1978 como fundamento y garantía de los derechos y libertades de los españoles."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Reconocer y valorar la pluralidad de nuestro país, por medio del contraste de",
+            "description": "Reconocer y valorar la pluralidad de nuestro país, por medio del contraste de la información y la revisión crítica de fuentes, tomando conciencia del papel que juega en la actualidad, para respetar los sentimientos de pertenencia, la existencia de id…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Analizar críticamente fuentes históricas sobre el origen y evolución de las identidades nacionales y regionales en España, valorando la pluralidad y el marco de convivencia."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Analizar la evolución histórica de la formación del Estado y la nación española, comprendiendo la diversidad de identidades y el marco constitucional actual de convivencia."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Analizar la historia económica de España, las distintas corrientes de modernización y las transformaciones sociales",
+            "description": "Analizar la historia económica de España, las distintas corrientes de modernización y las transformaciones sociales. El alumnado debe aplicar una perspectiva que implique una mirada crítica a la idea del progreso, a sus planteamientos filosóficos y e…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Explicar la evolución económica y modernización de España mediante el análisis de datos y gráficos, comparándola con Europa y debatiendo sobre su desarrollo industrial."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Analizar críticamente los modelos de desarrollo económico en la España contemporánea, evaluando su impacto en la desigualdad social, el equilibrio territorial y la sostenibilidad ambiental."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Estudiar los cambios y continuidades de la sociedad española a lo largo del",
+            "description": "Estudiar los cambios y continuidades de la sociedad española a lo largo del tiempo, la evolución de la población, los niveles y modos de vida, las condiciones laborales y los movimientos y conflictos sociales, para valorar el alcance de las medidas a…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Analizar el paso de la sociedad estamental a la de clases en España, examinando el concepto de ciudadanía, nuevas formas de sociabilidad y desigualdades sociales."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Analizar la evolución de la sociedad, población y condiciones de vida en la España contemporánea, identificando las causas de los conflictos sociales y la respuesta del Estado."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Analizar la evolución del Estado del Bienestar en España mediante datos y noticias, identificando logros sociales, retos actuales y la protección de colectivos vulnerables."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Analizar el papel de las creencias religiosas y de las ideas políticas en la",
+            "description": "Analizar el papel de las creencias religiosas y de las ideas políticas en la historia de España, a través del estudio de fuentes primarias y textos historiográficos. El alumnado debe identificar los cambios en las creencias y las ideologías, las form…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Analizar la influencia de la religión y la Iglesia en la política española, evaluando críticamente los periodos de intolerancia y persecución contra las minorías religiosas."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Argumentar y debatir sobre la evolución de las ideologías y culturas políticas en la España contemporánea, analizando su impacto social mediante el estudio de textos historiográficos."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Analizar las reformas de la Segunda República, el golpe de Estado de 1936 y la evolución del Franquismo mediante el uso de fuentes y terminología historiográfica precisa."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Interpretar el valor geoestratégico de España y su conexión con la historia",
+            "description": "Interpretar el valor geoestratégico de España y su conexión con la historia mundial, señalando las analogías y singularidades de su evolución histórica, por medio de la búsqueda y el tratamiento de información, para avalar los compromisos de nuestro …",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Analizar los retos y compromisos internacionales de España y su papel en la Unión Europea, fomentando la conciencia ciudadana, la sostenibilidad y la seguridad global."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Analizar la posición geoestratégica de España y su evolución histórica singular en comparación con Europa, identificando legados culturales y desmontando estereotipos sobre su pasado."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Analizar fuentes históricas artísticas y literarias de distintos puntos de",
+            "description": "Analizar fuentes históricas artísticas y literarias de distintos puntos de vista, prestando, entre otros, atención a las mujeres más importantes de la historia de España, a sus vidas y sus obras. El alumno debe saber ver la historia no solo en los te…",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Analizar la evolución histórica de la desigualdad de género, identificando los roles tradicionales de las mujeres y los mecanismos sociales y legales que han perpetuado su discriminación."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Analizar el papel histórico de la mujer y el movimiento feminista mediante el estudio de fuentes y la recuperación de figuras femeninas silenciadas en la historia de España."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Valorar el patrimonio histórico y cultural como legado y expresión de la",
+            "description": "Valorar el patrimonio histórico y cultural como legado y expresión de la memoria colectiva, identificando los significados y usos públicos que reciben determinados acontecimientos y procesos del pasado, por medio del análisis de la historiografía y d…",
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Investigar y elaborar proyectos sobre el patrimonio local y la memoria colectiva, aplicando el método histórico para concienciar sobre su protección como bien común."
+                },
+                {
+                    "code": "8.2",
+                    "description": "Realizar trabajos de indagación e investigación, iniciándose en la metodología histórica y la historiografía, mediante la elaboración de ensayos sobre personajes, teniendo presente el patrimonio histórico español como un bien que se debe proteger."
+                }
+            ]
+        }
+    ]
+}

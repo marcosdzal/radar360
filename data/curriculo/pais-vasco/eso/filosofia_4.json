@@ -1,0 +1,82 @@
+{
+    "community": "pais-vasco",
+    "stage": "eso",
+    "decree": "Decreto 77\/2023, de 30 de mayo",
+    "subject": "filosofia",
+    "subject_name": "Educación en Valores Cívicos y Éticos",
+    "grade": 4,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Inquirir e investigar cuanto se refiere a la propia identidad y a cuestiones",
+            "description": "Inquirir e investigar cuanto se refiere a la propia identidad y a cuestiones éticas relativas al propio proyecto vital, generando una actitud reflexiva al respecto, para promover el autoconocimiento y la elaboración de planteamientos y juicios morale…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Construir un adecuado concepto de sí mismo o misma y de su dimensión cívica y moral reconociendo las múltiples dimensiones de su naturaleza y personalidad, a través del cuestionamiento filosófico, la investigación y el diálogo en torno a la naturaleza humana y las diversas maneras de ser hombre o mujer."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Generar y expresar un grado suficiente de autonomía moral mediante el ejercicio de la deliberación racional, el uso de conceptos éticos básicos y el diálogo respetuoso con otros, en torno a distintos valores y modos de vida, así como a pro blemas relacionados con los derechos individuales y colectivos, el uso responsable y seguro de las redes, las conductas adictivas, las agresiones y el acoso escolar en entornos analógicos y digitales."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Actuar e interactuar en entornos analógicos y digitales de acuerdo con normas y",
+            "description": "Actuar e interactuar en entornos analógicos y digitales de acuerdo con normas y valores necesarios para un diálogo respetuoso, para reflexionar sobre las normas y valores cívicos y éticos, a partir del reconocimiento fundado de su importancia para re…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Fomentar el ejercicio de la ciudadanía activa y democrática en entornos analógicos y digitales a través de la participa ción respetuosa, dialogante y constructiva en actividades de grupo que impliquen tomar decisiones colectivas, planificar acciones coordinadas y resolver problemas aplicando procedimientos creativos y principios cívicos, éticos y democráticos explícitos."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Contribuir a generar un compromiso activo con el bien común a través del análisis y la toma razonada y dialogante de posición en torno a cuestiones éticas cercanas al alumnado y de actualidad general."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Tomar consciencia de la lucha por una efectiva igualdad de género y del problema de la violencia y explotación sobre las mujeres, a través del análisis de la desigualdad, la violencia y la discriminación por razón de género y orientación sexual, mostrando igualmente conocimiento de los derechos LGTBIQ+. y reconociendo la necesidad de respetarlos."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Contribuir activamente al bienestar social adoptando una posición propia, explícita, informada y éticamente fundamentada sobre el valor y pertinencia de los derechos y deberes, el respeto por la diversidad etnocultural y la consideración de los bienes públicos locales y globales."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Entender la naturaleza interconectada e inter y ecodependiente de las",
+            "description": "Entender la naturaleza interconectada e inter y ecodependiente de las actividades humanas, mediante la identificación y análisis de problemas ecosociales de relevancia, para promover hábitos y actitudes éticamente comprometidos con el logro de formas…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Comprender los límites del planeta y las relaciones de interconexión, interdependencia y ecodependencia entre nuestras vidas y el entorno a través del análisis de las causas y consecuencias de los más graves problemas ecosociales que afectan a la vida en la Tierra."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Promover estilos de vida éticamente comprometidos con el logro de un desarrollo sostenible, contribuyendo por sí mismo y en su entorno a la gestión sostenible de los recursos, los residuos y la movilidad, el comercio justo, el consumo responsable, el cuidado del patrimonio natural, el respeto por la diversidad étnico-cultural, y el cuidado y protección de los animales."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Valorar distintos planteamientos científicos, políticos y éticos con los que afrontar la emergencia climática y la crisis medioambiental a través de la exposición y el debate argumental en torno a los mismos."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Mostrar una adecuada estima de sí mismo y del entorno",
+            "description": "Mostrar una adecuada estima de sí mismo y del entorno, reconociendo y valorando los sentimientos y emociones propios y ajenos, para el logro de una actitud empática, asertiva, resiliente y cuidadosa con respecto a los demás y a la naturaleza.",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Desarrollar una actitud de gestión equilibrada de las emociones, de estima y cuidado personal y de los y las demás, identificando, analizando y expresando de manera asertiva las propias emociones y reconociendo y valorando las de los demás en distintos contextos y en torno a actividades creativas y de reflexión individual o dialogada sobre cuestiones éticas y cívicas."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Desarrollar la autoestima en armonía con otras personas a través de la identificación, gestión y comunicación de emociones, afectos y deseos con respeto y empatía hacia los de los demás, generando un concepto adecuado de lo que deben ser las relaciones afectivas y afectivo-sexuales."
+                }
+            ]
+        }
+    ]
+}

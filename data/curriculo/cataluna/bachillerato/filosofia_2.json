@@ -1,0 +1,112 @@
+{
+    "community": "cataluna",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "filosofia",
+    "subject_name": "Historia de la Filosofía",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Avaluar els arguments atenent el seu context històric, social i cultural,",
+            "description": "Avaluar els arguments atenent el seu context històric, social i cultural, identificant les influències que els sustenten i la seva repercussió en la història de la filosofia per descobrir la naturalesa dels seus possibles dogmatismes i fal·làcies.",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Interpretar y comparar fuentes filosóficas contextualizadas para elaborar producciones propias"
+                },
+                {
+                    "code": "1.2",
+                    "description": "El alumno elabora y presenta trabajos de investigación sobre problemas histórico-filosóficos, construyendo juicios propios y aplicando protocolos de manera individual o cooperativa."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Interpretar i comunicar qüestions filosòfiques a partir de la selecció i",
+            "description": "Interpretar i comunicar qüestions filosòfiques a partir de la selecció i l'anàlisi rigorosa de fonts de la història de la filosofia per entendre el nostre present atenent el passat i per produir i transmetre judicis i tesis personals i desenvolupar u…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Emplear argumentos rigurosos aplicando normas lógicas y retóricas, evitando dogmatismos y falacias."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Mantener un diálogo filosófico argumentativo, empático y respetuoso en actividades colaborativas."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Aplicar la dissertació filosòfica per contraposar i posar en diàleg les idees",
+            "description": "Aplicar la dissertació filosòfica per contraposar i posar en diàleg les idees dels el present amb el passat per transformar-lo d'acord amb els grans consensos sorgits dels drets humans i els objectius de desenvolupament sostenible (ODS).",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Analizar las principales propuestas filosóficas históricas, indagando en sus fuentes e identificando las preguntas que intentan responder."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Analizar y debatir críticamente problemas filosóficos a través del comentario de textos."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Participar de manera oberta, compromesa i respectuosa en activitats de diàleg sobre qüestions i problemes filosòficament rellevants per crear una dissertació compartida."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Reconèixer com els problemes filosòfics s'han plantejat en les diferents",
+            "description": "Reconèixer com els problemes filosòfics s'han plantejat en les diferents èpoques i autores i autors i comparar-ho, a partir de l'anàlisi i la interpretació de textos dels principals autors i autores de la història de la filosofia, per reconèixer la r…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Elaborar una visión compleja de la historia de la filosofía comparando y contrastando tesis de diferentes filósofos o escuelas."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Relacionar les diferents respostes filosòfiques que s’han donat en la cultura, mitjançant l’anàlisi de textos i altres formes d’expressió cultural amb les respostes de la història de la filosofia."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Comparar les diferents preguntes, idees, tesis i controvèrsies filosòfiques de la història del pensament, mitjançant el diàleg diacrònic amb els textos de la història de la filosofia i amb el diàleg sincrònic sobre els textos de la història de la filosofia."
+                },
+                {
+                    "code": "4.4",
+                    "description": "Valorar la pluralitat, la complexitat i la dialèctica de la història del pensament, mitjançant la comprensió i l’expressió de les relacions d’oposició i complementarietat entre les tesis,"
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Avaluar de manera global, sistèmica i transdisciplinària problemes ètics i",
+            "description": "Avaluar de manera global, sistèmica i transdisciplinària problemes ètics i polítics fonamentals i d'actualitat analitzant-los filosòficament per poder tractar-los de manera creativa i prendre una posició.",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Analizar cómo los problemas filosóficos surgen y evolucionan en distintos contextos históricos mediante el examen crítico de condiciones culturales."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Compara el tratamiento de problemas filosóficos en distintas épocas y autores mediante esquemas u otros productos."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Desenvolupar la sensibilitat i la comprensió crítica de l'art i altres",
+            "description": "Desenvolupar la sensibilitat i la comprensió crítica de l'art i altres manifestacions amb valor estètic a partir de les principals idees filosòfiques sobre la bellesa i la creació artística per contribuir a l'educació estètica.",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Comparar textos de distintos ámbitos culturales para apreciar las relaciones entre filosofía y otras manifestaciones culturales."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Construir un judici propi sobre diferents expressions artístiques, tot aplicant els conceptes estètics a les valoracions d’aquestes expressions."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "community": "madrid",
+    "stage": "eso",
+    "decree": "Decreto 65/2022, de 20 de julio",
+    "subject": "musica",
+    "subject_name": "Música",
+    "grade": 4,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Analizar obras de diferentes épocas y culturas",
+            "description": "Analizar obras de diferentes épocas y culturas, identificando sus principales rasgos estilísticos y estableciendo relaciones con su contexto, para valorar el patrimonio musical y dancístico como fuente de disfrute y enriquecimiento personal.",
+            "descriptors": ["CCL2", "CCL3", "CP3", "CD1", "CD2", "CPSAA3", "CC1", "CCEC1", "CCEC2"],
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar obras musicales y dancísticas de diferentes épocas y culturas, identificando sus rasgos estilísticos, explicando su relación con su situación y demostrando una actitud de apertura, interés y respeto en la escucha o el visionado de las mismas."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Valorar críticamente los hábitos, los gustos y los referentes musicales y dancísticos de diferentes épocas y culturas, reflexionando sobre su evolución y sobre su relación con los del presente."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Explorar las posibilidades expresivas de diferentes técnicas musicales y dancísticas",
+            "description": "Explorar las posibilidades expresivas de diferentes técnicas musicales y dancísticas, a través de actividades de improvisación, para incorporarlas al repertorio personal de recursos y desarrollar el criterio de selección de las técnicas más adecuadas a la intención expresiva.",
+            "descriptors": ["CCL1", "CD2", "CPSAA1", "CPSAA3", "CC1", "CE3", "CCEC3"],
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Participar, con iniciativa, confianza y creatividad, en el uso de técnicas musicales y dancísticas de mayor complejidad, por medio de improvisaciones sobre la base de patrones de la historia de la música y de la danza, individuales o grupales, en las que se empleen la voz, el cuerpo, instrumentos musicales o herramientas tecnológicas."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Elaborar piezas musicales o dancísticas estructuradas, a partir de actividades de improvisación, seleccionando las técnicas del repertorio personal de recursos más adecuadas a la intención expresiva."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Interpretar piezas musicales y dancísticas",
+            "description": "Interpretar piezas musicales y dancísticas, gestionando adecuadamente las emociones y empleando diversos métodos y técnicas vocales, corporales o instrumentales, para ampliar las posibilidades de expresión personal.",
+            "descriptors": ["CCL1", "CD2", "CPSAA1", "CPSAA3", "CC1", "CE1", "CCE3"],
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Leer partituras sencillas, identificando los elementos básicos del lenguaje musical y analizando de forma guiada las estructuras de las piezas, con o sin apoyo de la audición."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Emplear diferentes técnicas de interpretación vocal, corporal o instrumental, aplicando métodos de memorización y valorando los ensayos como espacios de escucha y aprendizaje."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Interpretar con corrección y expresividad piezas musicales y dancísticas, individuales y grupales, dentro y fuera del aula, gestionando la ansiedad y el miedo escénico, y manteniendo la concentración."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Elaborar obras artístico-musicales",
+            "description": "Elaborar obras artístico-musicales, empleando la voz, el cuerpo, instrumentos musicales y herramientas tecnológicas, para potenciar la creatividad e identificar oportunidades de desarrollo personal, social, académico y profesional.",
+            "descriptors": ["CCL1", "STEM3", "CD2", "CPSAA3", "CC1", "CE1", "CE3", "CCEC3", "CCEC4"],
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Planificar y desarrollar, con creatividad, obras artístico-musicales, tanto individuales como colaborativas, seleccionando, de entre los disponibles, los medios musicales y dancísticos más oportunos, así como las herramientas analógicas o digitales más adecuadas."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Participar activamente en la planificación y en la ejecución de obras artístico-musicales colaborativas, asumiendo diferentes funciones, valorando las aportaciones del resto de integrantes del grupo e identificando diversas oportunidades de desarrollo personal, social, académico y profesional."
+                }
+            ]
+        }
+    ]
+}

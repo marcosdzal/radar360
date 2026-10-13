@@ -1,0 +1,104 @@
+{
+    "community": "canarias",
+    "stage": "bachillerato",
+    "decree": "Decreto 73\/2023, de 13 de abril",
+    "subject": "tecnologia_ingenieria_2",
+    "subject_name": "Tecnología e Ingeniería II",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "(c1) La competencia específica 1 aborda los aprendizajes relacionados con la",
+            "description": "(c1) La competencia específica 1 aborda los aprendizajes relacionados con la participación del alumnado en la ideación, desarrollo y comunicación de proyectos tecnológicos que den respuesta a necesidades planteadas, por lo que también hace referencia…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Elaborar proyectos de investigación en equipo para mejorar productos de forma continua."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Comunicar y difundir de forma clara y comprensible proyectos elaborados, presentándolos con la documentación técnica necesaria."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "(c2) La competencia específica 2 hace referencia a la capacidad del alumnado",
+            "description": "(c2) La competencia específica 2 hace referencia a la capacidad del alumnado para, trabajando de forma colaborativa y utilizando el pensamiento científico, analizar y seleccionar los materiales adecuados para la fabricación de productos de calidad qu…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Analizar la idoneidad de materiales para fabricar productos sostenibles, estudiando estructura, propiedades y tratamientos de modificación."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Redactar informes de impacto ambiental con argumentación y estructura adecuadas."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "(c3) La competencia específica 3 incide en el desarrollo y profundización de",
+            "description": "(c3) La competencia específica 3 incide en el desarrollo y profundización de las herramientas digitales adquiridas en la etapa anterior para el desempeño de las tareas asociadas a esta materia.",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Resolver problemas de diseño, simulación, montaje y presentación de proyectos usando herramientas digitales."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "(c4) En la competencia específica 4 se hace referencia a la capacidad del",
+            "description": "(c4) En la competencia específica 4 se hace referencia a la capacidad del alumnado para aplicar, de manera integrada y atendiendo al nivel en el que se esté desarrollando, técnicas, procedimientos y saberes de diferentes disciplinas, con el objetivo …",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Diseñar y montar una estructura sencilla, calculando sus cargas y verificando su estabilidad."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Analizar máquinas térmicas (frigoríficas, bombas de calor, motores) mediante simulaciones y cálculos de eficiencia."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Interpretar y solucionar esquemas de sistemas neumáticos e hidráulicos mediante montajes o simulaciones, documentando su funcionamiento."
+                },
+                {
+                    "code": "4.4",
+                    "description": "El alumnado interpreta y resuelve circuitos de corriente alterna identificando sus elementos y comprendiendo su funcionamiento mediante montajes o simulaciones."
+                },
+                {
+                    "code": "4.5",
+                    "description": "Diseñar y probar circuitos digitales combinacionales y secuenciales, físicos o simulados, aplicando fundamentos de electrónica."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "(c5) La competencia específica 5 hace referencia a la adquisición de",
+            "description": "(c5) La competencia específica 5 hace referencia a la adquisición de habilidades por parte del alumnado que le permitan aplicar conocimientos de programación informática para el diseño, creación y evaluación de sistemas tecnológicos, así como para an…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Modeliza y simula el funcionamiento de sistemas automáticos de lazo abierto y cerrado, aplicando técnicas de simplificación y analizando su estabilidad."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Evaluar sistemas informáticos emergentes y sus implicaciones en la seguridad de datos mediante análisis de modelos existentes."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "(c6) La competencia específica 6 pretende que el alumnado adquiera un criterio",
+            "description": "(c6) La competencia específica 6 pretende que el alumnado adquiera un criterio informado sobre el impacto que el uso de los sistemas energéticos genera en el medioambiente, dotándole de herramientas para evaluar el uso responsable y sostenible que se…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Analizar sistemas de ingeniería evaluando eficiencia energética y responsabilidad social y sostenibilidad."
+                }
+            ]
+        }
+    ]
+}

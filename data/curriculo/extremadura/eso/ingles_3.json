@@ -1,0 +1,120 @@
+{
+    "community": "extremadura",
+    "stage": "eso",
+    "decree": "Decreto 110\/2022, de 22 de agosto",
+    "subject": "ingles",
+    "subject_name": "Lengua Extranjera",
+    "grade": 3,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Extraer y comprender el sentido general y los detalles más relevantes de textos",
+            "description": "Extraer y comprender el sentido general y los detalles más relevantes de textos orales, escritos y multimodales expresados de forma clara y en la lengua estándar, buscando fuentes fiables y haciendo uso de estrategias, para responder a necesidades co…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Interpretar y analizar el sentido global y detalles específicos de textos breves y sencillos en lengua estándar."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Aplica estrategias de comprensión guiadas para captar sentido general y detalles de textos cotidianos."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Aplicar estrategias de comprensión para interpretar textos, inferir significados y gestionar información veraz."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "P roducir textos orales, escritos y multimodales que presenten una organización",
+            "description": "P roducir textos orales, escritos y multimodales que presenten una organización clara, usando estrategias de planificación, edición y revisión, con la finalidad de responder a propósitos comunicativos concretos de forma adecuada y coherente. En esta …",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Expresar oralmente textos breves y sencillos sobre temas cotidianos usando estrategias de planificación y control."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Redactar textos breves, claros y coherentes sobre temas cotidianos usando herramientas analógicas o digitales."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Aplicar estrategias de planificación y revisión para producir textos coherentes y adecuados al contexto y destinatario."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Interactuar con otras personas usando estrategias de cooperación y empleando",
+            "description": "Interactuar con otras personas usando estrategias de cooperación y empleando recursos analógicos y digitales para responder a propósitos comunicativos concretos en intercambios respetuosos con las normas de cortesía.",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Planificar y participar en diálogos breves sobre temas cotidianos usando estrategias de cooperación y cortesía."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Seleccionar y aplicar estrategias para iniciar, mantener y cerrar conversaciones, tomando turnos y pidiendo aclaraciones."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Mediar entre distintas lenguas, usando estrategias y conocimientos sencillos",
+            "description": "Mediar entre distintas lenguas, usando estrategias y conocimientos sencillos orientados a explicar conceptos o simplificar mensajes, transmitiendo información de manera eficaz, clara y responsable. La mediación es la actividad del lenguaje consistent…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "El alumnado explica conceptos o simplifica mensajes breves en situaciones de diversidad lingüística, mostrando respeto y empatía."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Aplicar estrategias guiadas de mediación con apoyos físicos o digitales."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Usar estratégicamente los repertorios lingüísticos personales entre distintas",
+            "description": "Usar estratégicamente los repertorios lingüísticos personales entre distintas lenguas en contextos comunicativos diversos, reflexionando de forma crítica sobre su funcionamiento para dar respuesta a necesidades comunicativas concretas.",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "El alumnado compara y contrasta lenguas por sí mismo, reflexionando sobre su funcionamiento."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Usar y distinguir estrategias comunicativas propias con apoyo de compañeros y medios digitales para mejorar la expresión en inglés."
+                },
+                {
+                    "code": "5.3",
+                    "description": "El alumnado identifica y registra sus progresos y dificultades, selecciona estrategias eficaces y comparte su reflexión mediante el PEL o diario de aprendizaje."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Valorar críticamente y adaptarse a la diversidad lingüística, cultural y",
+            "description": "Valorar críticamente y adaptarse a la diversidad lingüística, cultural y artística a partir de la lengua extranjera, identificando y compartiendo las semejanzas y las diferencias entre lenguas y culturas, al mismo tiempo que actuando de forma empátic…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Actuar con empatía y respeto en situaciones interculturales, estableciendo vínculos entre lenguas y culturas y rechazando discriminación y estereotipos."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Valorar y aceptar la diversidad lingüística y cultural mostrando interés y empatía en intercambios interculturales."
+                },
+                {
+                    "code": "6.3",
+                    "description": "El alumnado aplica estrategias guiadas para explicar y apreciar la diversidad lingüística, cultural y artística."
+                },
+                {
+                    "code": "6.4",
+                    "description": "Emplear de forma adecuada, empática y respetuosa, estrategias para detectar y actuar ante usos discriminatorios del lenguaje verbal y no verbal."
+                }
+            ]
+        }
+    ]
+}

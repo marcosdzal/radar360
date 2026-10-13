@@ -1,0 +1,166 @@
+{
+    "community": "madrid",
+    "stage": "eso",
+    "decree": "Decreto 65/2022, de 20 de julio",
+    "subject": "tecnologia_alt",
+    "subject_name": "Tecnología",
+    "grade": 4,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Identificar y proponer problemas tecnológicos con",
+            "description": "Identificar y proponer problemas tecnológicos con iniciativa y creatividad, estudiando las necesidades de su entorno próximo y aplicando estrategias y procesos colaborativos e iterativos relativos a proyectos, para idear y planificar soluciones de manera eficiente, accesible e innovadora.",
+            "descriptors": [
+                "STEM1",
+                "STEM2",
+                "CD1",
+                "CD3",
+                "CPSAA3",
+                "CPSAA4",
+                "CE1",
+                "CE3"
+            ],
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Idear y planificar soluciones tecnológicas emprendedoras que generen un valor para la comunidad, a partir de la observación y el análisis del entorno más cercano, estudiando sus necesidades, requisitos y posibilidades de mejora."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Aplicar con iniciativa estrategias colaborativas de gestión de proyectos, como el Design Thinking, con una perspectiva interdisciplinar y siguiendo un proceso iterativo de validación, desde la fase de ideación hasta la difusión de la solución."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Abordar la gestión del proyecto de forma creativa, aplicando estrategias y técnicas colaborativas adecuadas, así como métodos de investigación en la ideación de soluciones lo más eficientes, accesibles e innovadoras posibles."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Aplicar de forma apropiada y segura distintas técnicas y",
+            "description": "Aplicar de forma apropiada y segura distintas técnicas y conocimientos interdisciplinares utilizando procedimientos y recursos tecnológicos y analizando el ciclo de vida de productos para fabricar soluciones tecnológicas adecuadas que den respuesta a necesidades planteadas.",
+            "descriptors": [
+                "STEM2",
+                "STEM5",
+                "CD2",
+                "CPSAA4",
+                "CC4",
+                "CCEC4"
+            ],
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Analizar el diseño de un producto que dé respuesta a una necesidad planteada, evaluando su demanda, evolución y previsión de fin de ciclo de vida."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Fabricar productos y soluciones tecnológicas, aplicando herramientas de diseño asistido, técnicas de elaboración manual, mecánica y digital y utilizando los materiales y recursos mecánicos, neumáticos, eléctricos, electrónicos y digitales adecuados."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Eliminar la obsolescencia programada en el diseño y fabricación de productos."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Expresar, comunicar y difundir ideas, propuestas o",
+            "description": "Expresar, comunicar y difundir ideas, propuestas o soluciones tecnológicas en diferentes foros de manera efectiva, empleando los recursos disponibles y aplicando los elementos y técnicas necesarias para intercambiar la información de manera responsable y fomentar el trabajo en equipo.",
+            "descriptors": [
+                "CCL1",
+                "STEM4",
+                "CD3",
+                "CPSAA3",
+                "CCEC3"
+            ],
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Intercambiar información y fomentar el trabajo en equipo de manera asertiva, empleando las herramientas digitales adecuadas junto con el vocabulario técnico, símbolos y esquemas de sistemas tecnológicos apropiados."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Presentar y difundir las propuestas o soluciones tecnológicas de manera efectiva, empleando la entonación, expresión, gestión del tiempo y adaptación adecuada del discurso."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Valorar la importancia de las técnicas de posicionamiento de contenidos en la red para la difusión efectiva de ideas y productos."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Desarrollar soluciones automatizadas a problemas planteados",
+            "description": "Desarrollar soluciones automatizadas a problemas planteados aplicando los conocimientos necesarios e incorporando tecnologías emergentes para diseñar y construir sistemas de control, programables y robóticos.",
+            "descriptors": [
+                "CP2",
+                "STEM1",
+                "STEM3",
+                "CD5",
+                "CPSAA5",
+                "CE3"
+            ],
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Diseñar, construir, controlar y/o simular sistemas automáticos programables y robots que sean capaces de realizar tareas de forma autónoma, aplicando conocimientos de mecánica, electrónica, neumática y componentes de los sistemas de control, así como otros conocimientos interdisciplinares."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Integrar en las máquinas y sistemas tecnológicos aplicaciones informáticas y tecnologías digitales emergentes de control y simulación como Internet de las cosas, big data y la inteligencia artificial con sentido crítico."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Aprovechar y emplear de manera responsable las",
+            "description": "Aprovechar y emplear de manera responsable las posibilidades de las herramientas digitales, adaptándolas a sus necesidades, configurándolas y aplicando conocimientos interdisciplinares, para la resolución de tareas de una manera más eficiente.",
+            "descriptors": [
+                "CP2",
+                "CD2",
+                "CD5",
+                "CPSAA4",
+                "CPSAA5"
+            ],
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Resolver tareas propuestas de manera eficiente mediante el uso y configuración de diferentes aplicaciones y herramientas digitales, aplicando conocimientos interdisciplinares con autonomía."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Diseñar y programar aplicaciones informáticas para el control de sistemas automáticos y robots."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Analizar procesos tecnológicos, teniendo en cuenta su",
+            "description": "Analizar procesos tecnológicos, teniendo en cuenta su impacto en la sociedad y en el entorno.",
+            "descriptors": [
+                "STEM2",
+                "STEM5",
+                "CD4",
+                "CC4"
+            ],
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Hacer un uso responsable de la tecnología, mediante el análisis y aplicación de criterios en la selección de materiales y en el diseño de estos, así como en los procesos de fabricación de productos tecnológicos."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Estudiar el consumo energético en las viviendas y plantear soluciones de ahorro energético."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Analizar los beneficios en el cuidado del entorno que aportan las tecnologías."
+                },
+                {
+                    "code": "6.4",
+                    "description": "Identificar y valorar la repercusión y los beneficios del desarrollo de proyectos tecnológicos de carácter social."
+                }
+            ]
+        }
+    ]
+}

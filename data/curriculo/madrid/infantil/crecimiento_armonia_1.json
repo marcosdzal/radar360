@@ -1,0 +1,86 @@
+{
+    "community": "madrid",
+    "stage": "infantil",
+    "decree": "Decreto 36/2022, de 8 de junio",
+    "subject": "crecimiento_armonia",
+    "subject_name": "Crecimiento en armonía",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Progresar en el conocimiento y control de su cuerpo",
+            "description": "Progresar en el conocimiento y control de su cuerpo y en la adquisición de distintas estrategias, adecuando sus acciones a la realidad del entorno de una manera segura, para construir su imagen.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Mostrar un conocimiento y control del cuerpo adaptando sus acciones y reacciones a cada situación, explorando sus posibilidades motoras y perceptivas y progresando en precisión, seguridad, coordinación e intencionalidad en una interacción lúdica y espontánea con el entorno."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Manifestar respeto y aceptación por las características del propio cuerpo y el de los demás y mostrar actitudes de ayuda y colaboración."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Reconocer las sensaciones y percepciones de los cambios físicos propios y de su relación con el paso del tiempo. Las referencias espaciales en relación con el propio cuerpo."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Reconocer, manifestar y regular sus emociones",
+            "description": "Reconocer, manifestar y regular sus emociones expresando necesidades y sentimientos para lograr una seguridad emocional y afectiva.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Expresar emociones y sentimientos, tendiendo a la adquisición gradual de la conciencia y gestión afectiva y emocional, incorporando recursos adecuados para expresarlos y canalizarlos."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Establecer relaciones afectivas con los otros a través de la interacción y la colaboración."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Afrontar pequeñas adversidades, mostrando actitudes de superación, solicitando y prestando ayuda."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Adoptar modelos, normas y hábitos saludables",
+            "description": "Adoptar modelos, normas y hábitos, desarrollando la confianza en sus posibilidades para promover un estilo de vida saludable y responsable.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Cuidar el cuerpo y adquirir hábitos de cuidado personal que ayuden a mantener una adecuada salud física y mental."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Identificar y anticipar secuencias temporales de actividades, ritmos biológicos, rutinas cotidianas."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Establecer interacciones sociales",
+            "description": "Establecer interacciones sociales para construir su identidad y personalidad en libertad, valorando la importancia de la amistad, el respeto y la empatía.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Establecer un vínculo seguro y relaciones de apego saludables con las personas de su entorno."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Mostrar conductas basadas en el respeto, la empatía y la igualdad con otros a través del juego de imitación."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Desarrollar habilidades para afrontar conflictos y resolución de estos, valorando los beneficios de llegar a acuerdos."
+                }
+            ]
+        }
+    ]
+}

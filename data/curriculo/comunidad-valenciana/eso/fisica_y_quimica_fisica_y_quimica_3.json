@@ -1,0 +1,287 @@
+{
+    "community": "comunidad-valenciana",
+    "stage": "eso",
+    "decree": "Decreto 107\/2022, de 5 de agosto",
+    "subject": "fisica_y_quimica_fisica_y_quimica",
+    "subject_name": "Física y Química",
+    "grade": 3,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Resolver problemas científicos abordables en el ámbito escolar a partir de",
+            "description": "Resolver problemas científicos abordables en el ámbito escolar a partir de trabajos de investigación de carácter experimental.",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Explicar fenómenos del entorno cotidiano aplicando leyes y teorías científicas, comunicando los razonamientos de forma argumentada a través de diversos formatos y medios de expresión."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Resolver problemas numéricos y conceptuales de física y química aplicando leyes científicas, justificando los pasos seguidos y expresando los resultados con sus unidades correspondientes."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Identificar problemas reales del entorno que requieran soluciones desde la física y la química, analizando críticamente su impacto social y proponiendo iniciativas científicas de mejora."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Realizar estudios experimentales de carácter cuantitativo sobre reacciones de especial interés."
+                },
+                {
+                    "code": "1.5",
+                    "description": "Utilizar adecuadamente aparatos de medida de la intensidad y la diferencia de potencial entre dos puntos de un circuito."
+                },
+                {
+                    "code": "1.6",
+                    "description": "Realizar una investigación sobre la medida de la resistencia de un componente en un circuito."
+                },
+                {
+                    "code": "1.7",
+                    "description": "de Comprobar que se cumple la ley de conservación de la masa en experiencias de carácter práctico que incluyan sustancias en estado gaseoso."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Analizar y resolver situaciones problemáticas del ámbito de la Física y la",
+            "description": "Analizar y resolver situaciones problemáticas del ámbito de la Física y la Química utilizando la lógica científica y alternando las estrategias del trabajo individual con el trabajo en equipo.",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Aplicar metodologías científicas para investigar fenómenos mediante preguntas contrastables, diferenciando el conocimiento científico de afirmaciones pseudocientíficas que carecen de base experimental y lógica."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Diseñar planes de investigación y experimentos controlados para validar o rechazar hipótesis científicas, seleccionando las técnicas y herramientas más adecuadas según el problema planteado."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Diseñar experimentos y formular hipótesis fundamentadas en leyes científicas para resolver problemas o comprobar fenómenos físicos y químicos de forma coherente."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Expresar, utilizando el lenguaje matemático adecuado a su nivel, el procedimiento que se ha seguido en la resolución de un problema (*)"
+                },
+                {
+                    "code": "2.5",
+                    "description": "Comprobar e interpretar las soluciones encontradas. (*)"
+                },
+                {
+                    "code": "2.6",
+                    "description": "Participar en equipos de trabajo para resolver los problemas planteados, apoyar a compañeros y compañeras demostrando empatía y reconociendo sus aportaciones y utilizar el diálogo igualitario para resolver conflictos y discrepancias."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Utilizar el conocimiento científico como instrumento del pensamiento crítico,",
+            "description": "Utilizar el conocimiento científico como instrumento del pensamiento crítico, interpretando y comunicando mensajes científicos, desarrollando argumentaciones y accediendo a fuentes fiables, para distinguir la información contrastada de los bulos y op…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Interpretar y comunicar información científica sobre procesos fisicoquímicos utilizando diversos formatos como tablas y gráficas, seleccionando los datos clave para resolver problemas específicos."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Aplicar correctamente la nomenclatura IUPAC, el sistema internacional de unidades y las herramientas matemáticas básicas para comunicar resultados científicos de forma precisa y estandarizada."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Aplicar las normas de seguridad y sostenibilidad en el laboratorio de física y química para garantizar un trabajo seguro y el cuidado del entorno."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Justificar la validez del modelo científico como producto dinámico que se va",
+            "description": "Justificar la validez del modelo científico como producto dinámico que se va revisando y reconstruyendo bajo la influencia del contexto social e histórico, atendiendo la importancia de la ciencia en el avance de las sociedades, así como a los riesgos…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Emplear herramientas digitales y bibliográficas para investigar contenidos científicos de forma autónoma, colaborando con respeto y evaluando críticamente las aportaciones del grupo."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Seleccionar fuentes de información fiables y utilizar herramientas digitales o tradicionales para crear contenidos científicos que mejoren el aprendizaje individual y grupal."
+                },
+                {
+                    "code": "4.3",
+                    "description": "sustancias para el desarrollo de la ciencia química."
+                },
+                {
+                    "code": "4.4",
+                    "description": "Describir las implicaciones de la incorporación generalizada de la energía eléctrica a nuestra sociedad."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Analizar algunos fenómenos naturales y predecir su comportamiento utilizando",
+            "description": "Analizar algunos fenómenos naturales y predecir su comportamiento utilizando modelos de Física y Química para poder identificarlos, caracterizarlos y explicar otros fenómenos nuevos.",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Participar de forma activa y respetuosa en equipos de trabajo, asumiendo roles específicos para resolver tareas científicas de manera eficiente y colaborativa."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Diseñar y ejecutar proyectos científicos guiados que aporten soluciones prácticas a problemas sociales, ambientales o de salud, fomentando el valor comunitario."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Utilizar el modelo de carga e interacción eléctrica para explicar los fenómenos de atracción\/repulsión eléctricas."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Utilizar adecuadamente el lenguaje científico propio de la Física y la Química",
+            "description": "Utilizar adecuadamente el lenguaje científico propio de la Física y la Química en la interpretación y transmisión de información.",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Analizar la evolución de hallazgos científicos realizados por hombres y mujeres, valorando su carácter provisional y su impacto en el desarrollo tecnológico y social."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Identificar problemas actuales del entorno (sociales, ambientales o tecnológicos) y proponer cómo la ciencia y la participación ciudadana aportan soluciones sostenibles y eficaces."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Escribir textos argumentativos propios del área en diversos formatos y soportes, cuidando sus aspectos formales, aplicando las normas de corrección ortográfica y gramatical, para transmitir de forma organizada sus conocimientos con un lenguaje no discriminatorio."
+                },
+                {
+                    "code": "6.4",
+                    "description": "Expresar oralmente textos previamente planificados, propios del área, para transmitir de forma organizada sus conocimientos con un lenguaje no discriminatorio."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Interpretar correctamente la información presentada en diferentes formatos de",
+            "description": "Interpretar correctamente la información presentada en diferentes formatos de representación gráfica y simbólica utilizados habitualmente en la Física y la Química.",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "de Elaborar e interpretar gráficos y modelos sencillos sobre las relaciones presión-volumen- temperatura de los gases."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Diferenciar una mezcla y una sustancia pura mediante representaciones según el modelo de partícula."
+                },
+                {
+                    "code": "7.3",
+                    "description": "Utilizar los símbolos químicos para representar una reacción química y explicar lo que significa una ecuación química ajustada. Reconocer el significado submicroscópico de las relaciones existentes entre los coeficientes que acompañan a cada fórmula química."
+                },
+                {
+                    "code": "7.4",
+                    "description": "Utilizar esquemas\/dibujos en los que se indique la distribución de cargas para explicar los fenómenos de atracción\/repulsión eléctricas"
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Distinguir las diferentes manifestaciones de la energía e identificar sus",
+            "description": "Distinguir las diferentes manifestaciones de la energía e identificar sus formas de transmisión, su conservación y disipación en contextos cercanos.",
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Identificar los diferentes tipos de energía puestos de manifiesto en fenómenos cotidianos y en experiencias sencillas realizadas en el laboratorio"
+                },
+                {
+                    "code": "8.2",
+                    "description": "Identificar el calor como un proceso de transferencia de energía entre los cuerpos a diferente temperatura y describir casos reales en los que se pone de manifiesto."
+                },
+                {
+                    "code": "8.3",
+                    "description": "Justificar la transformación de energía en los sistemas aplicando el principio de conservación de la energía y valorando la limitación que el fenómeno de la degradación de la energía supone para la optimización de los procesos de obtención de energía."
+                },
+                {
+                    "code": "8.4",
+                    "description": "Relacionar los conceptos de energía, calor y temperatura, en términos de la teoría cinético- corpuscular y describir los mecanismos por los que se transfiere la energía térmica en diferentes situaciones cotidianas"
+                },
+                {
+                    "code": "8.5",
+                    "description": "Razonar ventajas e inconvenientes de las diferentes fuentes energéticas. Enumerar medidas que contribuyen al ahorro colectivo o individual de energía. Explicar por qué la energía no puede reutilizarse sin límites."
+                },
+                {
+                    "code": "8.6",
+                    "description": "Explicar el fenómeno físico de la corriente eléctrica e interpretar el significado de las magnitudes intensidad de corriente, diferencia de potencial y resistencia, así como las relaciones entre ellas."
+                },
+                {
+                    "code": "8.7",
+                    "description": "Cuantificar la energía y analizar el consumo energético, utilizando los datos suministrados por los electrodomésticos."
+                },
+                {
+                    "code": "8.8",
+                    "description": "Calcular la energía necesaria para mantenerse un día completo y la dieta alimenticia correspondiente a dicha energía a partir de tablas del gasto calórico correspondiente a diversas actividades corporales y del valor energético de diferentes alimentos."
+                },
+                {
+                    "code": "8.9",
+                    "description": "Reconocer la importancia y repercusiones para la sociedad y el medio ambiente de las diferentes fuentes de energía renovables y no renovables"
+                }
+            ]
+        },
+        {
+            "code": "CE9",
+            "name": "Identificar y caracterizar las sustancias a partir de sus propiedades físicas",
+            "description": "Identificar y caracterizar las sustancias a partir de sus propiedades físicas para relacionar los materiales de nuestro entorno con el uso que se hace de ellos.",
+            "criterios": [
+                {
+                    "code": "9.1",
+                    "description": "Diferenciar el disolvente del soluto al analizar la composición de mezclas homogéneas de especial interés. Efectuar correctamente cálculos numéricos sencillos sobre su composición."
+                },
+                {
+                    "code": "9.2",
+                    "description": "sus Predecir la variación que experimentará la densidad de un gas al variar la temperatura (cambios de T o de P)."
+                }
+            ]
+        },
+        {
+            "code": "CE0",
+            "name": "Caracterizar los cambios químicos como transformación de unas sustancias en otras diferentes",
+            "description": "Caracterizar los cambios químicos como transformación de unas sustancias en otras diferentes, reconociendo la importancia de las transformaciones químicas en actividades y procesos cotidianos.",
+            "criterios": [
+                {
+                    "code": "10.1",
+                    "description": "Utilizar los símbolos químicos para representar una reacción química como alternativa a la simbología empleada por Dalton."
+                },
+                {
+                    "code": "10.2",
+                    "description": "Explicar el significado de una ecuación química ajustada, interpretando el significado submicroscópico de las relaciones existentes entre los coeficientes que acompañan a cada fórmula química."
+                },
+                {
+                    "code": "10.3",
+                    "description": "Aplicar las leyes de Lavoisier y de Proust en el cálculo de masas en reacciones químicas sencillas aplicadas a procesos que ocurren en la vida cotidiana."
+                },
+                {
+                    "code": "10.4",
+                    "description": "Justificar la elaboración del modelo atómico de Dalton a partir de las leyes de las reacciones químicas."
+                }
+            ]
+        },
+        {
+            "code": "CE1",
+            "name": "Identificar las interacciones como causa de las transformaciones que tienen",
+            "description": "Identificar las interacciones como causa de las transformaciones que tienen lugar en nuestro entorno físico para poder intervenir en el mismo, modificando las condiciones que nos permitan una mejora en nuestras condiciones de vida.",
+            "criterios": [
+                {
+                    "code": "11.1",
+                    "description": "Describir los tipos de cargas eléctricas, su papel en la constitución de la materia y las características de las fuerzas que se manifiestan entre ellas."
+                },
+                {
+                    "code": "11.2",
+                    "description": "Interpretar fenómenos eléctricos mediante el modelo de carga eléctrica y valorar la importancia de la electricidad en la vida cotidiana."
+                },
+                {
+                    "code": "11.3",
+                    "description": "Justificar cualitativamente fenómenos magnéticos y valorar la contribución del magnetismo en el desarrollo tecnológico."
+                },
+                {
+                    "code": "11.4",
+                    "description": "Comparar los distintos tipos de imanes, analizar su comportamiento y deducir mediante experiencias las características de las fuerzas magnéticas puestas de manifiesto, así como su relación con la corriente eléctrica."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "community": "baleares",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "geografia_e_historia_alt",
+    "subject_name": "Geografía",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Reconeixer els reptes ecosocials actuals i futurs de les illes balears i",
+            "description": "reconeixer els reptes ecosocials actuals i futurs de les illes balears i d'espanya, debatre'n des de la perspectiva geogràfica sobre els missatges rebuts a través de canals oficials i extraoficials, formals i informals i desenvolupar el pensament crí…",
+            "criterios": [
+                {
+                    "code": "CA1.1",
+                    "description": "Qüestionar maneres de vida insostenibles mitjançant l'anàlisi geogràfica de tot tipus de fonts d'informació que tractin els reptes ecosocials presents i futurs i des d'arguments fundats en la seva rellevància i en la necessitat de les accions per afrontar-los. Qüestionar estils de vida que no són viables a llarg termini perquè contribueixen a la degradació del medi ambient, al canvi climàtic o a problemes socials. Identificar problemes que afecten tant el medi ambient (aspecte \"eco\") com la societat (aspecte \"social\"). Analitzar críticament possibles canvis en les polítiques governamentals, en l'economia empresarial i en els estils de vida individuals o col·lectius. Utilitzar l'anàlisi geogràfica (dades científiques, estudis econòmics, informes sobre l'ús de recursos naturals o estudis sobre l'impacte social) com a eina per veure visió àmplia i objectiva dels problemes i de les solucions."
+                },
+                {
+                    "code": "CA1.2",
+                    "description": "Debatre sobre els reptes naturals i socials de les Illes Balears i d'Espanya de forma compromesa i respectuosa amb opinions alienes, utilitzant estratègies orals amb suport digital de gràfics, imatges i cartografia i manejant dades rigoroses. Utilitzar estratègies de comunicació visual Reflexionar sobre els desafiaments que afecten tant la natura com la societat. Tenir en compte problemes com el canvi climàtic, la pèrdua de biodiversitat, la gestió de l'aigua o la pressió sobre els ecosistemes degut al turisme. Juntament amb qüestions com la desigualtat econòmica, l'accés a habitatge, la immigració o l'impacte del turisme sobre la cultura local. Fer servir eines visuals en els debats. Facilitarà la comprensió de temes complexos i permetrà il·lustrar millor les situacions."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Comprendre la complexitat de l'espai geografic, mitjancant la interpretacio de",
+            "description": "comprendre la complexitat de l'espai geografic, mitjancant la interpretacio de fonts d'informació visuals, per apreciar la riquesa dels paisatges naturals i humanitzats i valorar la sostenibilitat com a principi de les relacions entre els ecosistemes…",
+            "criterios": [
+                {
+                    "code": "CA2.1",
+                    "description": "Valorar tot impacte de l'acció antròpica des del principi de sostenibilitat tot reconeixent la complexitat sistèmica del medi natural i de les pròpies activitats humanes. Analitzar els efectes de les activitats humanes en el medi natural. Reconèixer com interactuen els elements del medi natural entre sí. Avaluar els impactes de les accions humanes. Considerar les aportacions positives i negatives de l'activitat humana envers el medi natural."
+                },
+                {
+                    "code": "CA2.2",
+                    "description": "Extreure informació de paisatges naturals i humanitzats tot analitzant fonts visuals, distingint elements geogràfics i interpretant la influència i interrelacions de factors físics i humans. Analitzar els entorns naturals i urbans. Reconèixer els paisatges amb fons visuals. Identificar els components físics d'un paisatge natural."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Analitzar la diversitat natural de les illes balears i d'espanya i la seva",
+            "description": "analitzar la diversitat natural de les illes balears i d'espanya i la seva singularitat geogràfica dins d'Europa, a través de la comparació de característiques comunes i específiques del relleu, el clima, la hidrografia i la biodiversitat, per reflex…",
+            "criterios": [
+                {
+                    "code": "CA3.1",
+                    "description": "Reflexionar sobre la percepció de l'espai geogràfic localitzant i reconeixent en mapes regions geomorfològiques i bioclimàtiques amb característiques comunes i específiques, destacant-ne l'aportació a la sostenibilitat del medi. Entendre críticament el territori que ens envolta. Analitzar i identificar els elements geogràfics mitjançant els mapes. Identificar elements únics i també compartits entre regions. Reconèixer característiques del lloc que contribueixen a la sostenibilitat. Tenir en compte els factors geomorfològics i bioclimàtics per gestionar els recursos i preservar-los."
+                },
+                {
+                    "code": "CA3.2",
+                    "description": "Identificar la diversitat i singularitat de paisatges naturals comparant la seva distribució, característiques i contrasts a escala autonòmica, d'Espanya i d'Europa, com també formes humanes de relació amb aquests entorns. Reconèixer els paisatges naturals. Analitzar la distribució dels paisatges a les diferents regions."
+                },
+                {
+                    "code": "CA3.3",
+                    "description": "Analitzar els processos formadors del medi i la seva interacció amb la societat, a fi de poder dur a terme anàlisis i prediccions de fenòmens a partir de dades observables en la realitat i de bases de dades disponibles."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Aplicar les tecnologies de la informacio geografica (tig), metodes i tecniques",
+            "description": "aplicar les tecnologies de la informacio geografica (tig), metodes i tecniques propis o de ciències afins, localitzant fenòmens naturals i humans i argumentant amb rigor els seus límits o categories, per resoldre eficientment el problema de l'escala …",
+            "criterios": [
+                {
+                    "code": "CA4.1",
+                    "description": "Emprar l'escala apropiada per localitzar o representar, amb suport de les TIG, qualsevol fenomen físic o humà justificant els mètodes i dades triades i la delimitació de regions o categories d'anàlisi, com també d'àrees de transició. Aprendre les Tecnologies de la Informació Geogràfica (TIG). Identificar i mostrar la localització de fenòmens naturals o humans. Justificar l'ús de les TIG en l'estudi del paisatge natural o en l'humanitzat. Representar l'espai mitjançant les escales adients."
+                },
+                {
+                    "code": "CA4.2",
+                    "description": "Crear productes propis individuals o en grup amb finalitats explicatives tot comunicant diagnòstics, proposant hipòtesis o conclusions i aplicant les TIG. Desenvolupar materials originals, com ara informes, presentacions, mapes, infografies o qualsevol altre tipus de document que transmeti informació. La creació pot ser individual o col·lectiva, fomentant així el treball en equip. Potenciar el treball tant individual com en grup utilitzant diferents dinàmiques col·laboratives. Formular hipòtesis o conclusions per fomentar el pensament crític i la investigació."
+                },
+                {
+                    "code": "CA4.3",
+                    "description": "Aplicar les tecnologies TIG per avaluar els riscos naturals i els efectes del canvi climàtic en un context de canvi global que afecta tots els processos geogràfics a qualsevol escala d'anàlisi."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Assumir la globalitzacio com a context que emmarca l'evolucio dels sistemes",
+            "description": "assumir la globalitzacio com a context que emmarca l'evolucio dels sistemes economics i els comportaments socials recents, investigant les seves relacions de causa i efecte i creant productes propis que demostrin la interconnexió i la interdependènci…",
+            "criterios": [
+                {
+                    "code": "CA5.1",
+                    "description": "Valorar la dignitat humana analitzant críticament les conseqüències de les nostres accions sobre les condicions laborals i de vida, tant a Espanya com en altres països, investigant el sistema de relacions econòmiques globalitzades i els sectors econòmics i plantejant solucions raonables. Respectar i tenir en compte els drets fonamentals i les condicions que fan que una persona pugui viure amb dignitat, com són el dret a un treball digne, a un salari just, en condicions de vida adequades i a ser tractat amb respecte i equitat. Reflexionar sobre l'impacte que tenen les nostres accions, decisions o fins i tot els nostres consums diaris sobre la vida d'altres persones, tant en l'àmbit laboral com en les seves condicions generals de vida. Investigar com es mou el capital, quins sectors són més vulnerables a l'explotació laboral (com la indústria tèxtil o l'electrònica, per exemple) i com es poden transformar aquestes relacions per millorar la dignitat humana. Identificar els problemes i proposar solucions que siguin pràctiques i realistes. Aquestes solucions podrien passar per promoure condicions laborals justes, regular millor les relacions comercials internacionals o fomentar el consum responsable i ètic per part de la ciutadania."
+                },
+                {
+                    "code": "CA5.2",
+                    "description": "Expressar la necessitat de preservar el medi ambient indagant sobre els impactes de les maneres de producció, distribució i consum a escala local i global i proposant actuacions de millora. Reconèixer i comunicar la urgència d'actuar per cuidar el planeta. Comprendre que les accions humanes tenen impacte directe sobre la natura, el clima, la biodiversitat, l'aire, l'aigua i els ecosistemes en general i que la preservació d'aquests elements és essencial per al benestar futur de les persones i del planeta. Investigar i analitzar com els diferents processos de producció, distribució i consum afecten el medi ambient, tant a escala local (en comunitats o països específics) com a escala global (considerant l'impacte a tot el món). Promoure un consum més conscient i responsable, educant els consumidors sobre l'impacte de les seves decisions de compra i fomentant el reciclatge o la reutilització de materials."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Explicar de manera critica els desequilibris territorials de l'estat espanyol i",
+            "description": "explicar de manera critica els desequilibris territorials de l'estat espanyol i de la seva estructura social, laboral i demogràfica, reconeixent els processos i les decisions que han contribuït a les desigualtats presents, per reforçar la consciència…",
+            "criterios": [
+                {
+                    "code": "CA6.1",
+                    "description": "Justificar la necessitat dels mecanismes de compensació de les desigualtats individuals i territorials identificant els processos passats i recents, com també, les seves causes i conseqüències socials, laborals i demogràfiques. Argumentar que les desigualtats socials, econòmiques i territorials tenen un impacte negatiu en la societat i en l'economia, creant divisions socials, tensions econòmiques i limitar el desenvolupament de certes àrees o grups de persones. Identificar des d'una perspectiva històrica però també contemporània els factors que han creat les desigualtats individuals i col·lectives. Considerar les causes i les conseqüències dels desequilibris territorials."
+                },
+                {
+                    "code": "CA6.2",
+                    "description": "Argumentar sobre l'origen dels desequilibris socials i econòmics de les Illes Balears, d'Espanya i Europa tot analitzant els factors de localització de les activitats econòmiques i de la població en una societat terciaritzada. Identificar les causes que originen les diferències en el benestar econòmic i social. Analitzar les raons per les quals determinades activitats econòmiques es concentren en un lloc i no en un altre. Observar els desequilibris entre el nord i el sud o entre regions urbanes i rurals, derivats de la localització d'activitats econòmiques. Desgranar l'economia terciaritzada envers l'economia primària i secundària."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Mobilitzar coneixements previs, nous i d'altres camps del saber en abordar",
+            "description": "mobilitzar coneixements previs, nous i d'altres camps del saber en abordar situacions del passat, del present o del futur, reorientant eficaçment decisions i estratègies de treball individual o en equip, per aportar solucions innovadores a contextos …",
+            "criterios": [
+                {
+                    "code": "CA7.1",
+                    "description": "Reelaborar sabers sobre fenòmens naturals i humans rellevants a diferents escales i en nous contextos, aplicant el pensament geogràfic, mobilitzant i revisant de forma crítica coneixements previs i nous, diagnosticant problemes i oportunitats i raonant sobre possibles previsions i solucions. Aplicar els coneixements a diverses escales: local, regional, nacional i global. Qüestionar, avaluar i verificar els coneixements per si són adequats o necessiten ser corregits. Identificar i comprendre situacions conflictives o dificultats en relació amb els fenòmens naturals o humans. Trobar i reconèixer situacions avantatjoses o possibilitats de millora que poden sorgir en l'anàlisi d'aquests fenòmens. Proposar respostes o mesures concretes per afrontar els problemes o aprofitar les oportunitats identificades. Analitzar fenòmens utilitzant una perspectiva geogràfica, és a dir, tenint en compte la ubicació, el paisatge, les relacions espacials, la interacció entre l'home i el medi i la distribució de recursos i persones."
+                }
+            ]
+        }
+    ]
+}

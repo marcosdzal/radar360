@@ -1,0 +1,103 @@
+{
+    "community": "baleares",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "geografia_e_historia_historia_de_la_filosofia",
+    "subject_name": "Historia de la Filosofía",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Cercar, analitzar, interpretar, produir i transmetre informacio relativa a fets",
+            "description": "cercar, analitzar, interpretar, produir i transmetre informacio relativa a fets historics i filosòfics, a partir de l'ús crític i segur de fonts i el domini de tècniques bàsiques de recerca, per generar coneixements i produccions pròpies sobre la his…",
+            "criterios": [
+                {
+                    "code": "CA1.1",
+                    "description": "Generar el coneixement rigorós de fonts i documents filosòficament rellevants, amb tècniques de cerca, organització, anàlisi, comparació i interpretació d'aquests i relacionant-los correctament amb contextos històrics, problemes, tesis, autors i autores, així com amb elements que pertanyen a altres àmbits culturals. Identificar i seleccionar fonts primàries i secundàries fiables i rellevants per al tema, contextualitzant-les en el seu marc històric, social i cultural. Analitzar i comparar les fonts per extreure'n idees principals i secundàries, establir relacions entre elles i connectar-les amb problemes filosòfics, autors i tesis. Relacionar els continguts analitzats amb altres àmbits culturals i socials, amb comprensió crítica i interdisciplinària."
+                },
+                {
+                    "code": "CA1.2",
+                    "description": "Construir judicis propis sobre problemes històrics i filosòfics, a través de l'elaboració i presentació de documents i treballs de recerca sobre ells amb precisió i aplicant els protocols a l'ús, tant de manera individual com grupal i cooperativa. Elaborar treballs de recerca seguint els protocols acadèmics establerts, aplicant tècniques de síntesi i argumentació rigorosa per produir continguts originals. Construir judicis propis argumentats i justificats mitjançant l'anàlisi crítica de fonts i documents filosòfics. Treballar de manera cooperativa en grups, distribuir tasques equitativament i promoure la col·laboració efectiva i eficient. Presentar la informació de manera estructurada, clara i precisa en diferents formats (sigui oral, escrit o visual), utilitzant esquemes, mapes conceptuals o altres eines visuals."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Reconeixer les normes i pautes de l'argumentacio i el dialeg filosofics",
+            "description": "reconeixer les normes i pautes de l'argumentacio i el dialeg filosofics mitjancant la identificació i anàlisi en diferents suports i a través de diverses activitats, per aplicar-les amb rigor en la construcció i exposició d'arguments i en l'exercici …",
+            "criterios": [
+                {
+                    "code": "CA2.1",
+                    "description": "Emprar arguments de manera rigorosa, reconeixent i aplicant normes, tècniques i pautes lògiques, retòriques i argumentatives i evitant maneres dogmàtiques, fal·laces i esbiaixades de sostenir opinions i hipòtesis. Reconèixer i aplicar les normes de la lògica formal i informal per construir i avaluar arguments amb coherència i rigor. Identificar i evitar fal·làcies lògiques, raonaments esbiaixats i dogmatismes, tant en els arguments propis com en els d'altres. Utilitzar tècniques retòriques i argumentatives per defensar tesis o hipòtesis de manera clara, fonamentada i adaptada al context i a l'interlocutor. Analitzar la coherència interna i la rellevància de les premisses en relació amb les conclusions dels arguments treballats."
+                },
+                {
+                    "code": "CA2.2",
+                    "description": "Sostenir l'hàbit del diàleg argumentatiu, empàtic, obert i constructivament compromès amb la cerca del coneixement, a través de la participació activa, respectuosa i col·laborativa en quantes activitats es proposin. Participar activament en diàlegs i debats, demostrant capacitat per escoltar, respectar i respondre a les opinions d'altres amb arguments fonamentats. Mostrar actitud oberta i empàtica durant el diàleg, valorar la diversitat d'idees i perspectives i considerar la dissensió com una oportunitat per enriquir la reflexió. Construir intervencions que promoguin el progrés del diàleg i l'enriquiment col·lectiu del coneixement. Integrar les aportacions d'altres en la pròpia reflexió per desenvolupar tesis i argumentacions més riques i ben fonamentades."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Comprendre i expressar diferents concepcions filosofiques historicament",
+            "description": "comprendre i expressar diferents concepcions filosofiques historicament donades, mitjançant l'acostament a les seves fonts i el treball crític sobre aquestes, per desenvolupar el coneixement d'un patrimoni que constitueix part essencial del patrimoni…",
+            "criterios": [
+                {
+                    "code": "CA3.1",
+                    "description": "Adquirir i expressar el coneixement significatiu de les propostes filosòfiques més importants que s'han succeït al llarg de la història, a través de la indagació i la identificació de les qüestions a les quals responen. Reconèixer les qüestions i problemàtiques filosòfiques fonamentals, contextualitzar cada proposta en el seu marc històric, social, cultural i intel·lectual i identificar-ne els autors principals i les influències mútues. Realitzar una indagació sistemàtica i rigorosa sobre les propostes filosòfiques més significatives i evitar interpretacions simplistes o esbiaixades. Expressar el coneixement adquirit de manera clara i precisa, utilitzar el llenguatge filosòfic adequat i mostrar bona comprensió de les idees treballades. Reconèixer i valorar la pluralitat de tradicions filosòfiques, evitar visions etnocèntriques o discriminatòries i apreciar la diversitat de perspectives."
+                },
+                {
+                    "code": "CA3.2",
+                    "description": "Identificar, comprendre i debatre sobre els principals problemes, idees, tesis i controvèrsies filosòfiques de la història del pensament, a través de l'anàlisi i comentari crític de textos i documents filosòfics o rellevants per a la filosofia. Identificar els principals problemes, idees i tesis filosòfiques presents en textos o documents rellevants de la història de la filosofia. Analitzar i comentar críticament textos filosòfics, considerant els arguments exposats i el context en què van ser formulats. Debatre les controvèrsies filosòfiques destacades, respectar la diversitat de perspectives i interpretacions i analitzar les possibles influències de prejudicis o biaixos. Relacionar les idees filosòfiques històriques amb qüestions contemporànies, destacant-ne la rellevància per als debats actuals."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Reconeixer la naturalesa essencialment plural i diversa de les concepcions",
+            "description": "reconeixer la naturalesa essencialment plural i diversa de les concepcions filosofiques històricament donades, mitjançant la posada en relació dialèctica de confrontació i complementarietat, per generar una concepció complexa i dinàmica de la històri…",
+            "criterios": [
+                {
+                    "code": "CA4.1",
+                    "description": "Generar una concepció plural, dialèctica, oberta i crítica de la història del pensament, a través de la comprensió, la realització de síntesis comparatives i l'exposició de les relacions d'oposició i complementarietat entre tesis, escoles, filòsofs i filòsofes d'una mateixa època o tradició o d'èpoques i tradicions diferents. Analitzar i relacionar tesis, escoles i autors d'una mateixa època o de tradicions filosòfiques diferents i identificar semblances, diferències i possibles influències mútues. Comparar idees i conceptes per elaborar síntesis que reflecteixin la diversitat i pluralitat del pensament filosòfic i evitar enfocaments dogmàtics o reduccionistes. Promoure la comprensió crítica i oberta de les controvèrsies filosòfiques i destacar el valor del diàleg i la complementarietat com a eines de reflexió. Exposar les relacions establertes de manera clara i argumentada amb llenguatge precís i respecte a la complexitat i riquesa del pensament filosòfic."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Reconeixer la manera en que s'han plantejat successivament, a traves de",
+            "description": "reconeixer la manera en que s'han plantejat successivament, a traves de diferents èpoques i concepcions, els mateixos problemes filosòfics, mitjançant l'anàlisi i interpretació de textos i altres maneres d'expressió tant filosòfica com més àmpliament…",
+            "criterios": [
+                {
+                    "code": "CA5.1",
+                    "description": "Afrontar els grans problemes filosòfics en el doble aspecte històric i universal a través de l'anàlisi i exposició crítica de les condicions culturals que han permès en cada cas l'aparició i evolució d'aquests problemes en diferents moments de la història. Analitzar les condicions culturals, socials i històriques que han influït en l'aparició i evolució dels grans problemes filosòfics i destacar la relació amb el context en què van sorgir. Reflexionar críticament sobre el caràcter històric i universal dels problemes filosòfics, reconeixent-ne la persistència i rellevància al llarg del temps. Elaborar exposicions argumentades sobre l'evolució d'un problema filosòfic específic i mostrar com s'ha tractat en diferents moments de la història. Promoure la comprensió crítica de la interacció entre les idees filosòfiques i la cultura en què s'insereixen, destacant-ne els factors determinants de la formulació i desenvolupament."
+                },
+                {
+                    "code": "CA5.2",
+                    "description": "Comprendre la dimensió temporal i universal dels problemes filosòfics més importants i comparar mitjançant esquemes o altres productes o activitats el tractament filosòfic que se'n fa en diferents èpoques, escoles, tradicions, autors i autores. Comparar el tractament d'un mateix problema filosòfic en diferents èpoques, escoles o tradicions, destacant-ne les semblances i les diferències en les aproximacions. Elaborar esquemes, taules o altres eines visuals per organitzar i sintetitzar els enfocaments filosòfics sobre un problema en diversos moments de la història. Analitzar com els grans problemes filosòfics reflecteixen tant la universalitat de les preguntes humanes com l'adaptació d'aquestes als contextos històrics i culturals particulars. Reconèixer i valorar la pluralitat d'aproximacions al pensament filosòfic, evitant judicis reduccionistes o etnocèntrics. Desenvolupar el coneixement crític sobre l'evolució dels problemes filosòfics, relacionantlos amb qüestions contemporànies per fomentar la reflexió personal i col·lectiva."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Reconeixer les formes diverses en que els interrogants filosofics i els seus",
+            "description": "reconeixer les formes diverses en que els interrogants filosofics i els seus intents de resposta s'han presentat històricament en altres àmbits de la cultura, mitjançant l'anàlisi interpretativa de textos i altres manifestacions que pertanyen a aques…",
+            "criterios": [
+                {
+                    "code": "CA6.1",
+                    "description": "Adquirir una concepció sistèmica i relacional de la història de la cultura occidental i del paper que hi tenen les idees filosòfiques, mitjançant l'anàlisi, comentari i comparació de textos o documents literaris, historiogràfics, periodístics, científics o religiosos, així com de qualsevol manifestació cultural, en els quals s'expressin problemes i concepcions filosòficament rellevants. Analitzar textos i manifestacions culturals de caràcter literari, científic, religiós o historiogràfic per identificar-hi problemes i conceptes filosòficament rellevants. Comparar manifestacions culturals diverses, destacant-ne les relacions amb les idees filosòfiques de la seva època i l'impacte que tenen en el desenvolupament del pensament occidental. Interpretar críticament manifestacions culturals, connectant-les amb corrents filosòfics i problemes històrics i identificant les interaccions entre la filosofia i altres àmbits culturals. Elaborar síntesis que mostrin una concepció sistemàtica i relacional de la història de la cultura, subratllant el paper integrador i transversal de la filosofia."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Analitzar problemes fonamentals i d'actualitat mitjancant l'exposicio critica",
+            "description": "analitzar problemes fonamentals i d'actualitat mitjancant l'exposicio critica de diferents posicions històric-filosòfiques rellevants per a la comprensió i discussió sobre els temes, per desenvolupar l'autonomia de judici i promoure actituds i accion…",
+            "criterios": [
+                {
+                    "code": "CA7.1",
+                    "description": "Desenvolupar l'autonomia de judici i promoure plantejaments, actituds i accions èticament i cívicament conseqüents respecte a problemes fonamentals de l'actualitat, a partir de la comprensió d'idees, teories i controvèrsies històriques i filosòfiques que puguin contribuir a aclarir tals problemes i de l'elaboració de propostes de caràcter crític i personal respecte a ells. Analitzar idees, teories i controvèrsies filosòfiques rellevants per comprendre problemes fonamentals de l'actualitat des d'una perspectiva crítica i informada. Relacionar els grans debats filosòfics històrics amb qüestions actuals, com la desigualtat, els drets humans, la sostenibilitat o la igualtat de gènere i destacar les seves connexions conceptuals i pràctiques. Elaborar propostes èticament i cívicament conseqüents davant reptes contemporanis, argumentar-les amb coherència i basar-les en els coneixements filosòfics adquirits. Exercir un judici autònom sobre temes d'actualitat, integrant les reflexions històriques i filosòfiques en el desenvolupament de la visió crítica i personal. Promoure actituds reflexives i compromeses que contribueixin a afrontar els problemes de manera activa i responsable, reconeixent la importància dels valors cívics i ètics en la pràctica ciutadana."
+                }
+            ]
+        }
+    ]
+}

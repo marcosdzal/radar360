@@ -1,0 +1,126 @@
+{
+    "community": "pais-vasco",
+    "stage": "bachillerato",
+    "decree": "Decreto 82\/2023, de 13 de junio",
+    "subject": "movimientos_culturales",
+    "subject_name": "Movimientos Culturales y Artísticos",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Manejar adecuadamente la terminología técnica específica de cada uno de los",
+            "description": "Manejar adecuadamente la terminología técnica específica de cada uno de los lenguajes artísticos, progresando en la comprensión de su finalidad, para expresar con claridad y coherencia los aspectos más significativos, formales o técnicos, de manifest…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Identificar y relacionar aspectos singulares de obras vanguardistas y actuales con su contexto y tradición."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Identificar y conocer adecuadamente las particularidades específicas de cada",
+            "description": "Identificar y conocer adecuadamente las particularidades específicas de cada uno de los movimientos culturales y lenguajes artísticos trabajados, con sus medios y técnicas correspondientes -tradicionales y nuevas tecnologías-, progresando en la compr…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Explica la importancia de conservar y difundir el patrimonio artístico y cultural."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Explicar la repercusión social del arte analizando ejemplos de implicación de creadores y efectos en la sociedad."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Analizar y comentar producciones de distintos movimientos culturales y",
+            "description": "Analizar y comentar producciones de distintos movimientos culturales y artísticos de forma clara y correcta, incidiendo en sus aspectos singulares, técnicos, función, contexto sociopolítico, cultural, histórico, en su caso, etcétera, para describirla…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Identificar y explicar las características de producciones artísticas analizando sus lenguajes y códigos."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Comparar manifestaciones culturales desde las vanguardias hasta la actualidad identificando referentes comunes en temas, lenguajes o intencionalidades."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Describir, con argumentos sólidos y atendiendo a la técnica, el hecho de la",
+            "description": "Describir, con argumentos sólidos y atendiendo a la técnica, el hecho de la práctica cultural y artística como un medio para expresar ideas, sentimientos y emociones, a través de una observación y exploración activa de obras de distintos lenguajes ar…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Defender con argumentos cómo los nuevos lenguajes y tecnologías han influido en el arte y la cultura recientes, analizando críticamente producciones y valorando la innovación."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Evaluar el impacto social y económico del arte y la cultura, reflexionando sobre las oportunidades personales y profesionales que generan."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Explicar la conexión entre la evolución cultural y artística, la historia",
+            "description": "Explicar la conexión entre la evolución cultural y artística, la historia reciente y el presente, compartiendo investigaciones, conocimientos y visiones personales y reconociendo la interrelación entre arte, sociedad, libertades individuales y colect…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Observar manifestaciones artísticas actuales reconociendo su valor expresivo y social."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Explicar impactos ambientales, sociales y económicos del arte y proponer alternativas alineadas con los ODS."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Conocer el significado del concepto de Patrimonio cultural y artístico y su",
+            "description": "Conocer el significado del concepto de Patrimonio cultural y artístico y su valor social como herencia material e inmaterial, así como la existencia de leyes que garantizan tanto su conservación como la libertad de expresión artística y los derechos …",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Comprender y explicar tanto la importancia y la necesidad de la conservación, restauración y promoción del Patrimonio artístico, factor esencial de la herencia cultural del ser humano, como el impacto positivo y negativo de las acciones ajenas a la\/el artista creador\/-a sobre las obras de arte. Todo ello, aportando criterios personales acerca de la importancia de los movimientos culturales y artísticos como muestra de cambios y de evolución o de inmovilismo ideológico de las sociedades."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Conocer, entender y detallar la importancia de los Derechos de autoría y las razones legales, socioculturales y econó micas por las que se deben respetar, mostrando en el trabajo diario de la materia un conocimiento y acatamiento efectivo de los preceptos de la Ley de propiedad intelectual."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Conocer y valorar los eventos culturales y artísticos más relevantes vinculados",
+            "description": "Conocer y valorar los eventos culturales y artísticos más relevantes vinculados con diversos lenguajes y realizar, en la medida de las posibilidades del alumnado, ejemplos de producciones colaborativas utilizando diferentes medios, soportes y técnica…",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Conocer y ubicar en sus lenguajes y contextos, diferentes eventos culturales y artísticos relevantes, conociendo su origen, características, temas, artistas y ejemplos de obras."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Argumentar la riqueza y variedad de obras, instalaciones, eventos y profesiones vinculadas con la diversidad cultural y artística, creando producciones propias asociadas a algún ámbito profesional del mundo de la cultura y el arte, de forma individual o grupal, utilizando diferentes medios, soportes y técnicas."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Integrar la perspectiva de género en el estudio de los movimientos culturales y",
+            "description": "Integrar la perspectiva de género en el estudio de los movimientos culturales y artísticos, analizando el papel que ha ocupado y ocupa la mujer y la evolución de la imagen que de ella se ha dado y se da en los diferentes estilos y movimientos, indepe…",
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Conocer y explicar la trayectoria e importancia artística de las principales figuras femeninas del Arte contemporáneo, dando visibilidad a la mujer como artista, analizando el contexto político, social y cultural del desarrollo de su obra y reconociendo su esfuerzo por hacerse valer en ese contexto."
+                },
+                {
+                    "code": "8.2",
+                    "description": "Analizar críticamente la evolución de la imagen de las mujeres en el Arte contemporáneo mediante el comentario y el análisis comparativo de obras relevantes de distintos movimientos, momentos y culturas, basado en elementos técnicos, formales, y estilísticos, independientemente del lenguaje artístico empleado."
+                }
+            ]
+        }
+    ]
+}

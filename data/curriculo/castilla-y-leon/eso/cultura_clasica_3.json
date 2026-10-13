@@ -1,0 +1,117 @@
+{
+    "community": "castilla-y-leon",
+    "stage": "eso",
+    "decree": "",
+    "subject": "cultura_clasica",
+    "subject_name": "Cultura Clásica",
+    "grade": 3,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Conocer los aspectos materiales e inmateriales de las civilizaciones griega y latina, investigando en fuentes diversas",
+            "description": "Conocer los aspectos materiales e inmateriales de las civilizaciones griega y latina, investigando en fuentes diversas, para comprender y explicar su pervivencia e influencia en las sociedades actuales.",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Identificar y explicar la herencia de la civilización latina en elementos culturales actuales, señalando similitudes y diferencias para comprender nuestra identidad europea."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Comparar críticamente las costumbres y valores de la sociedad romana con los actuales mediante el análisis de fuentes latinas originales o traducidas."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Reconocer las etapas y figuras clave de la historia de Roma, vinculando sus hitos y formas de vida con la realidad social y política actual."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Valorar el papel de la civilización clásica grecolatina en la conformación de",
+            "description": "Valorar el papel de la civilización clásica grecolatina en la conformación de la identidad europea y occidental, comparando y reconociendo las semejanzas y diferencias entre lenguas y culturas para comprender y analizar el presente de forma crítica.",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Identificar y comparar el origen latino de las lenguas del entorno, apreciando la diversidad lingüística y cultural como un patrimonio común y democrático."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Deducir el significado de palabras latinas mediante la comparación con términos similares en castellano, lenguas cooficiales o lenguas extranjeras conocidas por el alumnado."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Utilizar correctamente latinismos y locuciones latinas frecuentes en producciones propias para enriquecer el vocabulario y mejorar la precisión en la expresión oral y escrita."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Explicar el origen de palabras actuales mediante sus raíces latinas, diferenciando entre términos que han evolucionado fonéticamente y aquellos tomados directamente del latín culto."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Identificar étimos griegos en la lengua de enseñanza y otras lenguas del",
+            "description": "Identificar étimos griegos en la lengua de enseñanza y otras lenguas del repertorio individual del alumnado y conocer los aspectos básicos de la evolución del latín al castellano y otras lenguas y la integración en ellas de helenismos, latinismos y a…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Identificar y justificar la pervivencia de los valores clásicos en obras literarias y artísticas romanas mediante explicaciones estructuradas y el uso de terminología técnica."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Identificar las ideas principales y el contexto histórico-social de textos clásicos traducidos, relacionándolos con personajes y hechos históricos conocidos."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Analizar críticamente textos latinos adaptados, vinculando su contexto histórico con la realidad actual para comprender la evolución de nuestras costumbres y valores sociales."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Mejorar la expresión oral y escrita introduciendo gradualmente y de forma coherente en su léxico habitual los helenismos, latinismos y locuciones de origen latino más usuales. (CCL1, CCL3, CP2, CP3, CPSAA4)"
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Leer traducciones adecuadas de textos griegos y latinos que ilustren los",
+            "description": "Leer traducciones adecuadas de textos griegos y latinos que ilustren los aspectos esenciales de Cultura Clásica, comprendiendo su estructura y contenido, y extrayendo la información más relevante contenida en ellos, para identificar su carácter human…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Identificar y comparar elementos básicos de morfología, sintaxis y léxico latinos con las lenguas romances para comprender la estructura de la lengua latina."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Traducir textos latinos breves a la lengua de enseñanza, aplicando análisis morfosintáctico básico para garantizar una expresión correcta y fiel al sentido original."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Traducir oraciones sencillas de la lengua de enseñanza al latín, aplicando correctamente las reglas gramaticales y el vocabulario básico estudiado."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Conocer y valorar el patrimonio cultural, arqueológico y artístico griego y",
+            "description": "Conocer y valorar el patrimonio cultural, arqueológico y artístico griego y romano, apreciándolo y reconociéndolo como producto de la creación humana y como testimonio de la historia, para identificar las fuentes de inspiración de épocas posteriores …",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Explicar la influencia de la mitología y cultura latinas en obras literarias y artísticas posteriores, reconociéndolas como base de la tradición cultural europea."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Identificar restos romanos en el entorno cercano, analizando su estado de conservación y la importancia de proteger el patrimonio como legado histórico sostenible."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Exponer conclusiones de la investigación sobre el legado romano."
+                },
+                {
+                    "code": "5.4",
+                    "description": "Entrar en contacto con los diferentes recursos que se refieren al Mundo Clásico, conocerlos y utilizarlos, valorando la vitalidad y actualidad de las Humanidades Clásicas en los medios de comunicación y en internet. (CD1, CD3)"
+                }
+            ]
+        }
+    ]
+}

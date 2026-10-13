@@ -1,0 +1,69 @@
+{
+    "community": "canarias",
+    "stage": "bachillerato",
+    "decree": "Decreto 73\/2023, de 13 de abril",
+    "subject": "educacion_fisica",
+    "subject_name": "Educación Física",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "(c1) Con el desarrollo de esta competencia el alumnado vivenciará su estilo de",
+            "description": "(c1) Con el desarrollo de esta competencia el alumnado vivenciará su estilo de vida planificando la práctica de actividad física y entendiéndola como elemento fundamental en la mejora de la salud física, mental y social. Las prácticas motrices introy…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Planifica, elabora y aplica un programa personal de actividad física para mejorar o mantener la salud, evaluando los resultados."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "(c2) Esta competencia específica pretende que el alumnado adapte autónomamente",
+            "description": "(c2) Esta competencia específica pretende que el alumnado adapte autónomamente los procesos de percepción, decisión y ejecución en retos motores variados. Conlleva definir metas para un amplio abanico de prácticas motrices, llevando a cabo lo planifi…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Gestionar autónomamente proyectos motores, resolviendo imprevistos y ajustándose a objetivos de forma creativa y eficiente."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "(c3) Esta competencia pretende que el alumnado promueva e intervenga en",
+            "description": "(c3) Esta competencia pretende que el alumnado promueva e intervenga en numerosas situaciones motrices con distintos grados y tipos de interacción, mostrando una actitud positiva, crítica y respetuosa en las relaciones interpersonales, valorando posi…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Diseñar y dirigir actividades motrices valorando su aplicación profesional y beneficios personales y sociales."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "(c4) El desarrollo de esta competencia implica que el alumnado, partiendo de la",
+            "description": "(c4) El desarrollo de esta competencia implica que el alumnado, partiendo de la práctica motriz, investigará, aplicará, consolidará y evaluará las manifestaciones de la cultura motriz como elemento de su identidad cultural. Se desarrollará a través d…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Analizar el origen y evolución de manifestaciones motrices, rechazando componentes contrarios a valores inclusivos."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Crear y representar composiciones corporales expresivas individuales o colectivas con o sin música."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "(c5) Esta competencia incide en la práctica de actividades físico-deportivas en",
+            "description": "(c5) Esta competencia incide en la práctica de actividades físico-deportivas en contextos variados, impulsa actitudes que fomentan una ciudadanía activa y comprometida con el medio ambiente. Permite el desarrollo de la conciencia ecológica y el recon…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Participar en actividades físicas en entornos naturales minimizando el impacto ambiental y contribuyendo a su conservación."
+                }
+            ]
+        }
+    ]
+}

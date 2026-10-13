@@ -1,0 +1,115 @@
+{
+    "community": "extremadura",
+    "stage": "bachillerato",
+    "decree": "Decreto 113\/2022, de 25 de agosto",
+    "subject": "geografia_e_historia_alt",
+    "subject_name": "Geografía",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Cambiar los patrones de consumo insostenible y adoptar hábitos de vida saludables",
+            "description": "Cambiar los patrones de consumo insostenible y adoptar hábitos de vida saludables, reconociendo los retos ecosociales actuales y futuros de España, desarrollando un pensamiento crítico y debatiendo desde la perspectiva geográfica sobre los mensajes r…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Cuestionar modos de vida insostenibles analizando fuentes geográficas y argumentando la necesidad de acciones."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Debatir sobre retos naturales y sociales de España usando datos rigurosos y apoyo digital."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Interpretar fuentes de información visuales apreciando la riqueza de los",
+            "description": "Interpretar fuentes de información visuales apreciando la riqueza de los paisajes naturales y humanizados, comprendiendo la complejidad del espacio geográfico, y valorando la sostenibilidad como principio de las relaciones entre ecosistemas naturales…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Valorar impactos humanos desde la sostenibilidad, reconociendo la complejidad sistémica del medio natural y las actividades humanas."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Analizar paisajes naturales y humanizados a partir de fuentes visuales, distinguiendo elementos geográficos e interpretando la influencia de factores físicos y humanos."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Analizar la diversidad natural de España y su singularidad dentro de Europa",
+            "description": "Analizar la diversidad natural de España y su singularidad dentro de Europa comparando las características comunes y específicas del relieve, el clima, la hidrografía y la biodiversidad, y reflexionando sobre la percepción personal del espacio. El an…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "El alumnado reflexiona sobre su percepción del espacio al localizar en mapas regiones geomorfológicas y bioclimáticas, comparando sus características y valorando su contribución a la sostenibilidad."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Comparar paisajes naturales de España y Europa, analizando su distribución, características y la relación humana con ellos."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "A plicar las tecnologías de la información geográfica (TIG), métodos y técnicas",
+            "description": "A plicar las tecnologías de la información geográfica (TIG), métodos y técnicas propios o de ciencias afines localizando fenómenos naturales y humanos, y argumentando con rigor sus límites o categorías para resolver eficientemente el problema de la e…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Usar la escala adecuada con TIG para localizar fenómenos, justificando métodos y delimitando regiones y áreas de transición."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Crear productos geográficos propios con TIG comunicando diagnósticos, hipótesis o conclusiones."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Asumir la globalización como contexto que enmarca la evolución de los sistemas",
+            "description": "Asumir la globalización como contexto que enmarca la evolución de los sistemas económicos y los comportamientos sociales recientes investigando sus relaciones de causa y efecto, creando productos propios que demuestren la interdependencia a todas las…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Valorar la dignidad humana analizando críticamente consecuencias de acciones sobre condiciones laborales y de vida en España y otros países, investigando relaciones económicas globalizadas y proponiendo soluciones."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Argumentar la necesidad de preservar el medio ambiente analizando impactos de producción, distribución y consumo, y proponer actuaciones de mejora a escala local y global."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Analizar de forma crítica los desequilibrios territoriales de España y de su",
+            "description": "Analizar de forma crítica los desequilibrios territoriales de España y de su estructura sociolaboral y demográfica reconociendo los procesos y las decisiones que han contribuido a las desigualdades presentes, reforzando la conciencia de solidaridad y…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Justifica la necesidad de compensar desigualdades territoriales e individuales mediante el análisis de causas y consecuencias pasadas y recientes."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Argumentar el origen de desequilibrios socioeconómicos analizando factores de localización en una sociedad terciarizada."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Aportar soluciones innovadoras a contextos en transformación del pasado, del",
+            "description": "Aportar soluciones innovadoras a contextos en transformación del pasado, del presente o del futuro, movilizando conocimientos previos, nuevos y de otros campos del saber, y reorientando eficazmente decisiones y estrategias de trabajo individual y en …",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Reelabora conocimientos geográficos previos y nuevos para diagnosticar problemas y proponer soluciones innovadoras en contextos cambiantes."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Diagnosticar y analizar los problemas y oportunidades derivadas de las transformaciones en el medio geográfico, razonando previsiones y las posibles soluciones."
+                }
+            ]
+        }
+    ]
+}

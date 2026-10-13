@@ -1,0 +1,129 @@
+{
+    "community": "castilla-y-leon",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "lenguaje_practica_musical",
+    "subject_name": "Lenguaje y Práctica Musical",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Cultivar la escucha activa, desarrollando estrategias de atención",
+            "description": "Cultivar la escucha activa, desarrollando estrategias de atención, para reconocer y describir con un vocabulario adecuado los elementos que forman parte de una obra y para reflexionar sobre aspectos subjetivos y emocionales inherentes a la percepción…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Explicar los parámetros musicales de una obra mediante escucha activa y vocabulario técnico adecuado."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Describe sensaciones musicales y las vincula con características de la obra, reflexionando sobre aspectos subjetivos."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Identificar diversos intervalos y el modo mayor o menor de una obra o fragmento, asociándolos a su función expresiva. (CP3, STEM2)"
+                },
+                {
+                    "code": "1.4",
+                    "description": "Describir las sensaciones y efectos físicos y psicológicos que genera la música y su posible vinculación con las características de la obra, reflexionando sobre aspectos subjetivos inherentes a la escucha musical. (CCL1, STEM2, CPSAA3.1, CCEC1, CCEC3.1)"
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Identificar los elementos musicales de obras de diferentes estilos y épocas,",
+            "description": "Identificar los elementos musicales de obras de diferentes estilos y épocas, analizando y comparando partituras con diversas grafías, para describir sus características y reflexionar sobre los factores que afectan a la evolución de la notación musica…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Describir los elementos musicales de partituras convencionales y no convencionales de distintas épocas."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Comparar la representación musical en partituras de distintas épocas y reflexionar sobre los factores que influyen en la evolución de la notación."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Comparar la representación de los elementos musicales en partituras con diferente grafía, reflexionando sobre los factores que inciden en la evolución de la notación musical. (CCL1, STEM2, CCEC1, CCEC2)"
+                },
+                {
+                    "code": "2.4",
+                    "description": "Iniciarse en la interpretación del significado de algunas de las principales grafías de la música contemporánea, reconociendo su utilización sobre el repertorio. (CCL2, STEM2, CCEC1, CCEC2)"
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Aplicar estrategias de interpretación musical, utilizando la lectura como medio",
+            "description": "Aplicar estrategias de interpretación musical, utilizando la lectura como medio de aproximación a la obra y adquiriendo de forma progresiva habilidades de decodificación e integración del lenguaje musical, para realizar improvisaciones o ejecutar con…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Leer e interpretar partituras sencillas de forma autónoma, con o sin apoyo auditivo."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Interpretar fragmentos musicales sencillos desde la partitura, de forma individual o colectiva, usando voz, cuerpo o instrumentos."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Aplica técnicas de interpretación y memorización en ensayos para ejecutar piezas vocales, instrumentales o coreográficas."
+                },
+                {
+                    "code": "3.4",
+                    "description": "El alumnado improvisa breves ideas musicales o coreográficas con instrumentos, voz o cuerpo, libres o guiadas."
+                },
+                {
+                    "code": "3.5",
+                    "description": "Comportarse como espectador e intérprete, aprendiendo a controlar el miedo escénico en las actuaciones. (CCL5, CPSAA1.2, CPSAA3.1, CE3, CCEC3.2)"
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Realizar proyectos musicales colaborativos, planificando e implementando sus",
+            "description": "Realizar proyectos musicales colaborativos, planificando e implementando sus fases y asumiendo funciones diversas dentro del grupo, para favorecer procesos creativos e identificar oportunidades de desarrollo personal, social, académico y profesional.",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Planificar y desarrollar un proyecto musical en grupo seleccionando o creando materiales a partir de los aprendizajes."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Asume distintos roles en proyectos musicales colaborativos, valora las aportaciones del grupo y detecta oportunidades de desarrollo personal, social, académico y profesional."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Generar y desarrollar ideas musicales o coreográficas sencillas, utilizando diferentes instrumentos, la voz o el cuerpo, en improvisaciones libres o dirigidas. (CD2, CD3, CPSAA1.2, CPSAA5, CCEC4.1)"
+                },
+                {
+                    "code": "4.4",
+                    "description": "Improvisar y\/o componer, individual o conjuntamente, breves ideas musicales partiendo de determinados condicionantes en relación con los diversos elementos del lenguaje musical, valorando las aportaciones del grupo y desarrollando el espíritu crítico. (CD2, CD3, CPSAA1.1, CPSAA1.2, CC2, CE1, CE3, CCEC4.1, CCEC4.2)"
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Emplear las posibilidades que ofrecen las tecnologías digitales en el ámbito",
+            "description": "Emplear las posibilidades que ofrecen las tecnologías digitales en el ámbito musical, utilizando herramientas de procesamiento del sonido, de producción audiovisual y de edición de partituras, para desarrollar procesos de escritura, creación y difusi…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "El alumnado elabora proyectos musicales empleando herramientas digitales de edición, sonido y audiovisual."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Publicar creaciones musicales y audiovisuales en plataformas digitales seguras, respetando la propiedad intelectual."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Difundir producciones musicales y audiovisuales a través de plataformas digitales, utilizando entornos seguros y respetando la propiedad intelectual y los derechos de autor. (CCL3, CD2, CD4, CPSAA5, CCEC4.1, CCEC4.2)"
+                },
+                {
+                    "code": "5.4",
+                    "description": "Extraer conclusiones a partir del análisis sonoro de obras o fragmentos musicales utilizando software de edición y de registros musicales grabados. (CD3, CPSAA1.1 CPSAA4, CCEC2)"
+                }
+            ]
+        }
+    ]
+}

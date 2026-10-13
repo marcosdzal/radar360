@@ -1,0 +1,101 @@
+{
+    "community": "pais-vasco",
+    "stage": "bachillerato",
+    "decree": "Decreto 82\/2023, de 13 de junio",
+    "subject": "dibujo_tecnico_1",
+    "subject_name": "Dibujo Técnico I",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Analizar elementos o conjuntos arquitectónicos y de ingeniería, estudiando las",
+            "description": "Analizar elementos o conjuntos arquitectónicos y de ingeniería, estudiando las estructuras geométricas y los elementos técnicos utilizados para desarrollar el pensamiento divergente y creativo y fomentar su apreciación y su conservación.",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar la relación histórica entre matemáticas y dibujo geométrico, valorando su importancia en arquitectura e ingeniería con perspectiva de género y diversidad cultural, empleando vocabulario técnico y artístico."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Analizar diversas estructuras geométricas y elementos técnicos de diversos conjuntos arquitectónicos y de ingeniería, valorando las distintas respuestas técnicas dadas a una misma cuestión y la importancia de su conservación."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Utilizar razonamientos inductivos, deductivos y lógicos en problemas de índole gráfico-matemáticos",
+            "description": "Utilizar razonamientos inductivos, deductivos y lógicos en problemas de índole gráfico-matemáticos, aplicando fundamentos de la geometría plana, empleando rigor en su ejecución, para resolver gráficamente operaciones matemáticas, relaciones, construc…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Resolver gráficamente operaciones matemáticas y transformaciones geométricas usando conceptos de geometría plana."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Dibujar polígonos usando sus propiedades geométricas con precisión y limpieza."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Resolver gráficamente tangencias y curvas aplicando propiedades con rigor."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Desarrollar la visión espacial, utilizando la geometría descriptiva en",
+            "description": "Desarrollar la visión espacial, utilizando la geometría descriptiva en proyectos sencillos, considerando la importancia del dibujo en arquitectura e ingenierías, para resolver problemas e interpretar y recrear gráficamente la realidad tridimensional …",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Representar puntos, rectas y planos en sistema diédrico, determinando su posición relativa y distancias."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Identificar y describir figuras planas en sistemas axonométricos explicando su función como representación espacial."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Representación e interpretación de elementos básicos en sistema de planos acotados aplicando sus fundamentos."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Representar objetos tridimensionales sobre el plano aplicando las reglas de la perspectiva cónica."
+                },
+                {
+                    "code": "3.5",
+                    "description": "Valorar el rigor gráfico, claridad y precisión en el proceso de resolución y construcción gráfica."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Formalizar, definir y elaborar diseños técnicos aplicando las normas UNE ISO de",
+            "description": "Formalizar, definir y elaborar diseños técnicos aplicando las normas UNE ISO de manera apropiada, valorando la importancia que tiene el croquis para documentar gráficamente proyectos arquitectónicos e ingenieriles.",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "El alumnado dibuja las vistas normalizadas de objetos sencillos, aplicando escalas y formatos según normas UNE e ISO."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Aplicar el croquis y el esbozo como herramientas de reflexión para explorar alternativas en procesos de trabajo."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Investigar, experimentar y representar digitalmente elementos, planos y",
+            "description": "Investigar, experimentar y representar digitalmente elementos, planos y esquemas técnicos mediante el uso de programas específicos CAD de manera individual o grupal, apreciando su uso en las profesiones actuales, para virtualizar objetos y espacios e…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "El alumnado crea figuras planas y 3D con software de dibujo vectorial, aplicando herramientas y técnicas propias del CAD."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Diseñar virtualmente piezas 3D mediante operaciones booleanas entre primitivas para presentar proyectos en grupo."
+                }
+            ]
+        }
+    ]
+}

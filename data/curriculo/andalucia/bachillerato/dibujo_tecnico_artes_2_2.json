@@ -1,0 +1,70 @@
+{
+    "community": "andalucia",
+    "stage": "bachillerato",
+    "decree": "Real Decreto 217\/2022",
+    "subject": "dibujo_tecnico_artes_2",
+    "subject_name": "Dibujo Técnico Aplicado a las Artes Plásticas y al Diseño II",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Observar, analizar y valorar la presencia de la geometría en la naturaleza, en",
+            "description": "Observar, analizar y valorar la presencia de la geometría en la naturaleza, en el entorno construido y en el arte, identificando sus estructuras geométricas, elementos y códigos, con una actitud proactiva de apreciación y disfrute, para explicar su o…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar y justificar el uso de estructuras y proporciones geométricas en obras artísticas o de diseño, determinando su función compositiva y comunicativa."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Desarrollar propuestas gráficas y de diseño, utilizando tanto el dibujo a mano",
+            "description": "Desarrollar propuestas gráficas y de diseño, utilizando tanto el dibujo a mano alzada como los materiales propios del dibujo técnico y elaborando trazados, composiciones y transformaciones geométricas en el plano de forma intuitiva y razonada, para i…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Crear composiciones modulares y teselaciones mediante el uso de transformaciones geométricas planas, integrando precisión técnica y creatividad en el diseño de superficies."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Crear composiciones gráficas originales aplicando trazados geométricos de tangencias, enlaces y curvas cónicas para resolver problemas de diseño artístico o funcional."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Comprender e interpretar el espacio y los objetos tridimensionales, analizando",
+            "description": "Comprender e interpretar el espacio y los objetos tridimensionales, analizando y valorando su presencia en las representaciones artísticas, seleccionando y utilizando el sistema de representación más adecuado para aplicarlo a la realización de ilustr…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Representar objetos tridimensionales con elementos curvos utilizando los sistemas axonométricos, asegurando la correcta construcción de elipses y arcos en los planos isométrico y de caballera."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Diseñar y representar espacios tridimensionales o escenografías mediante perspectiva cónica, integrando el estudio de luces y sombras y analizando críticamente el resultado final."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Emplear las proyecciones diédricas en los proyectos de diseño de objetos y espacios."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Realizar las producciones gráficoplásticas seleccionando el procedimiento más adecuado, su rigor y precisión geométrica en función de finalidad de la representación."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Analizar, definir formalmente o visualizar ideas",
+            "description": "Analizar, definir formalmente o visualizar ideas, aplicando las normas fundamentales UNE e ISO para interpretar y representar objetos y espacios, así como documentar proyectos de diseño.",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Proyectar, de manera individual o en grupo, un"
+                }
+            ]
+        }
+    ]
+}

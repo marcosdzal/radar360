@@ -1,0 +1,152 @@
+{
+    "community": "galicia",
+    "stage": "bachillerato",
+    "decree": "Decreto 157\/2022, de 15 de septiembre",
+    "subject": "tecnologia_ingenieria_1",
+    "subject_name": "Tecnología e Ingeniería I",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Coordinar y desarrollar proyectos de investigación con una actitud crítica y",
+            "description": "Coordinar y desarrollar proyectos de investigación con una actitud crítica y emprendedora, a través de estrategias y técnicas eficientes de resolución de problemas y comunicando los resultados de manera adecuada, para crear y mejorar productos y sist…",
+            "criterios": [
+                {
+                    "code": "CE1.1",
+                    "description": "Investigar y diseñar proyectos que muestren de forma gráfica la creación y la mejora de un producto seleccionando, referenciando e interpretando información relacionada."
+                },
+                {
+                    "code": "CE1.2",
+                    "description": "Participar en el desarrollo, gestión y coordinación de proyectos de creación y mejora continua de productos viables y socialmente responsables, identificando mejoras y creando prototipos mediante un proceso iterativo, con actitud crítica, creativa y emprendedora."
+                },
+                {
+                    "code": "CE1.3",
+                    "description": "Colaborar en tareas tecnológicas escuchando el razonamiento de los demás, acercando al equipo a través del rol asignado y fomentando el bienestar grupal y las relaciones saludables e inclusivas."
+                },
+                {
+                    "code": "CE1.6",
+                    "description": "Determinar el ciclo de vida de un producto planificando y aplicando medidas de control de calidad en sus distintas etapas, desde el diseño a la comercialización, teniendo en consideración estrategias de mejora continua."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Seleccionar materiales y elaborar estudios de impacto aplicando criterios",
+            "description": "Seleccionar materiales y elaborar estudios de impacto aplicando criterios técnicos y de sostenibilidad para fabricar productos de calidad que den respuesta a problemas y a tareas propuestos desde un enfoque responsable y ético. - El objetivo se refie…",
+            "criterios": [
+                {
+                    "code": "CE2.1",
+                    "description": "Seleccionar los materiales, tradicionales o de nueva generación, adecuados para la fabricación de productos de calidad, basándose en sus características técnicas y atendiendo a criterios de sostenibilidad de manera responsable y ética."
+                },
+                {
+                    "code": "CE2.2",
+                    "description": "Diseñar modelos empleando las herramientas de diseño más adecuadas y aplicando los criterios técnicos necesarios."
+                },
+                {
+                    "code": "CE2.3",
+                    "description": "Fabricar modelos o prototipos empleando las técnicas de fabricación más adecuadas y aplicando los criterios técnicos y de sostenibilidad necesarios."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Utilizar las herramientas digitales adecuadas analizando sus posibilidades,",
+            "description": "Utilizar las herramientas digitales adecuadas analizando sus posibilidades, configurándolas según sus necesidades y aplicando conocimientos interdisciplinares para resolver tareas y para realizar la presentación de los resultados de una manera óptima…",
+            "criterios": [
+                {
+                    "code": "CE1.4",
+                    "description": "Elaborar documentación técnica con precisión y rigor generando diagramas funcionales y utilizando medios manuales y aplicaciones digitales."
+                },
+                {
+                    "code": "CE1.5",
+                    "description": "Comunicar de manera eficaz y organizada las ideas y las soluciones tecnológicas empleando el soporte, la terminología y el rigor apropiados."
+                },
+                {
+                    "code": "CE1.7",
+                    "description": "Resolver tareas propuestas y funciones asignadas de manera óptima mediante el uso y la configuración de diferentes herramientas digitales de manera óptima y autónoma."
+                },
+                {
+                    "code": "CE1.8",
+                    "description": "Realizar la presentación de proyectos empleando herramientas digitales adecuadas."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Generar conocimientos y mejorar destrezas técnicas transfiriendo y aplicando",
+            "description": "Generar conocimientos y mejorar destrezas técnicas transfiriendo y aplicando saberes de otras disciplinas científicas con actitud creativa para calcular y resolver problemas o dar respuesta a necesidades de los distintos ámbitos de la ingeniería. - L…",
+            "criterios": [
+                {
+                    "code": "CE3.1",
+                    "description": "Resolver problemas asociados a sistemas e instalaciones mecánicas aplicando fundamentos de mecanismos de transmisión y transformación de movimientos, soporte y unión al desarrollo de montajes o simulaciones."
+                },
+                {
+                    "code": "CE3.2",
+                    "description": "Interpretar y solucionar esquemas de sistemas neumáticos a través de montajes y simulaciones, lo que comprende el funcionamiento de cada uno de sus elementos y del sistema en su totalidad."
+                },
+                {
+                    "code": "CE3.3",
+                    "description": "Diseñar sistemas mecánicos y\/o neumáticos que resuelvan un problema determinado, y ponerlos en funcionamiento de forma física o simulada."
+                },
+                {
+                    "code": "CE4.1",
+                    "description": "Resolver problemas de circuitos eléctricos y electrónicos aplicando fundamentos de corriente continua al desarrollo de montajes o simulaciones."
+                },
+                {
+                    "code": "CE4.2",
+                    "description": "Resolver problemas asociados a máquinas eléctricas de corriente continua aplicando fundamentos de electricidad."
+                },
+                {
+                    "code": "CE4.3",
+                    "description": "Interpretar y representar circuitos eléctricos y electrónicos utilizando la simbología normalizada."
+                },
+                {
+                    "code": "CE4.4",
+                    "description": "Montar y experimentar circuitos de forma física o simulada analizando y describiendo su funcionamiento."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Diseñar, crear y evaluar sistemas tecnológicos aplicando conocimientos de",
+            "description": "Diseñar, crear y evaluar sistemas tecnológicos aplicando conocimientos de programación informática, regulación automática y control, así como las posibilidades que ofrecen las tecnologías emergentes, para estudiar, controlar y automatizar tareas. - E…",
+            "criterios": [
+                {
+                    "code": "CE5.1",
+                    "description": "Conocer y comprender conceptos básicos de programación textual mostrando el progreso paso a paso de la ejecución de un programa a partir de un estado inicial y prediciendo su estado final tras la ejecución."
+                },
+                {
+                    "code": "CE5.2",
+                    "description": "Controlar el funcionamiento de sistemas tecnológicos y robóticos utilizando lenguajes de programación informática."
+                },
+                {
+                    "code": "CE5.3",
+                    "description": "Aplicar al funcionamiento de sistemas y robots las posibilidades que ofrecen la telemetría e internet de las cosas."
+                },
+                {
+                    "code": "CE5.4",
+                    "description": "Automatizar, programar y evaluar movimientos de robots, mediante su modelización, aplicando algoritmos sencillos y el uso de herramientas informáticas."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Analizar y comprender sistemas tecnológicos de los distintos ámbitos de la",
+            "description": "Analizar y comprender sistemas tecnológicos de los distintos ámbitos de la ingeniería estudiando sus características, el consumo y la eficiencia energética para evaluar el uso responsable y sostenible que se hace de la tecnología. - Lo que persigue e…",
+            "criterios": [
+                {
+                    "code": "CE6.1",
+                    "description": "Evaluar los distintos sistemas de generación de energía eléctrica y mercados energéticos estudiando sus características."
+                },
+                {
+                    "code": "CE6.2",
+                    "description": "Calcular las magnitudes relacionadas con la generación de energía eléctrica valorando la eficiencia de los diferentes sistemas."
+                },
+                {
+                    "code": "CE6.3",
+                    "description": "Analizar las diferentes instalaciones de una vivienda desde el punto de vista de su eficiencia energética, buscando aquellas opciones más comprometidas con la sostenibilidad y fomentando un uso responsable de estas."
+                }
+            ]
+        }
+    ]
+}

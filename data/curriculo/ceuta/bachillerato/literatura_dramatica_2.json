@@ -1,0 +1,49 @@
+{
+    "community": "ceuta",
+    "stage": "bachillerato",
+    "decree": "Real Decreto 217\/2022",
+    "subject": "literatura_dramatica",
+    "subject_name": "Literatura Dramática",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE5",
+            "name": "Participar en la construcción de un canon literario dramático universal que",
+            "description": "Participar en la construcción de un canon literario dramático universal que integre la perspectiva de experiencia de las mujeres a través de la lectura, el visionado o la asistencia a obras teatrales de escritoras o de personajes femeninos esenciales…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Explica y argumenta la interpretación de obras teatrales analizando sus elementos, contexto y tradición, con metalenguaje y juicios estéticos."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Interpretar en voz alta y en grupo fragmentos teatrales, poniendo énfasis en la configuración de escenas, emociones y elementos prosódicos."
+                },
+                {
+                    "code": "1.3",
+                    "description": "La realización escénica y el sistema estilístico. − Espacio escénico-escenográfico y objeto escénico. − Diseño de personaje: vestuario, máscara y maquillaje. − Espacio sonoro, diseño de iluminación y recursos audiovisuales. − Trabajo actoral y códigos interpretativos."
+                },
+                {
+                    "code": "1.4",
+                    "description": "La recepción teatral: la relación con el público. Catarsis, extrañamiento y participación. 2. Temas y formas de la literatura dramática."
+                },
+                {
+                    "code": "2.1",
+                    "description": "Interpretar obras dramáticas atendiendo a aspectos temáticos, de género, estructura y estilo, y conectándolas con otras experiencias artísticas."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Seleccionar de forma autónoma diversas formas de acceso a la literatura dramática para enriquecer la identidad lectora y teatral."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Participar en conversaciones literarias compartiendo experiencias de lectura y asistencia teatral con metalenguaje."
+                },
+                {
+                    "code": "2.4",
+                    "description": "El teatro habla del teatro: metaficción teatral. 3. Estrategias de análisis, interpretación, y creación de textos teatrales."
+                }
+            ]
+        }
+    ]
+}

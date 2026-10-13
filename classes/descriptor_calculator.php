@@ -28,6 +28,12 @@ defined('MOODLE_INTERNAL') || die();
 
 class descriptor_calculator {
 
+    const CE_PALETTE = [
+        '#f59e0b', '#10b981', '#ef4444', '#8b5cf6',
+        '#06b6d4', '#ec4899', '#84cc16', '#f97316',
+        '#6366f1', '#14b8a6', '#e11d48', '#0ea5e9',
+    ];
+
     /** LOMLOE competency area definitions (RD 217/2022). */
     const AREAS = [
         'CCL'   => ['name' => 'Comunicación lingüística',                           'color' => '#2563eb', 'total' => 5],
@@ -231,15 +237,20 @@ class descriptor_calculator {
         // ── 6. Summary ────────────────────────────────────────────────────────
         $total_worked = 0;
         $total_occ    = 0;
+        $all_courses  = [];
         foreach ($areas as $a) {
             $total_worked += $a['worked'];
             $total_occ    += $a['occasions'];
+            foreach ($a['courses'] as $cn) {
+                $all_courses[$cn] = true;
+            }
         }
 
         $summary = [
             'total_descriptors' => 34,
             'worked_descriptors'=> $total_worked,
             'total_occasions'   => $total_occ,
+            'total_courses'     => count($all_courses),
         ];
 
         return compact('areas', 'periods', 'summary');
@@ -302,6 +313,218 @@ class descriptor_calculator {
 
         $sql = "SELECT * FROM {local_sentinel_period} WHERE courseid $insql ORDER BY sortorder ASC";
         return array_values($DB->get_records_sql($sql, $inparams));
+    }
+
+    /**
+     * Returns CE (competencia específica) data for a student in a specific course.
+     */
+    public static function get_student_ce_data(int $userid, int $courseid): array {
+        global $DB;
+
+        $course = $DB->get_record('course', ['id' => $courseid], 'id, fullname, shortname', MUST_EXIST);
+
+        $items = $DB->get_records_sql(
+            "SELECT gi.id, gi.itemtype, gi.iteminstance, gi.categoryid, gi.grademax,
+                    gi.itemname, gi.sortorder,
+                    gg.finalgrade, gg.timemodified
+             FROM {grade_items} gi
+             LEFT JOIN {grade_grades} gg ON gg.itemid = gi.id AND gg.userid = :userid
+             WHERE gi.courseid = :courseid",
+            ['userid' => $userid, 'courseid' => $courseid]
+        );
+
+        $course_item = null;
+        $cat_items = [];
+        $child_items = [];
+        foreach ($items as $it) {
+            if ($it->itemtype === 'course') {
+                $course_item = $it;
+            } elseif ($it->itemtype === 'category') {
+                $cat_items[(int)$it->iteminstance] = $it;
+            } else {
+                $child_items[(int)$it->categoryid][] = $it;
+            }
+        }
+
+        $subject_grade = null;
+        if ($course_item && $course_item->finalgrade !== null) {
+            $max = (float)$course_item->grademax ?: 100;
+            $subject_grade = round(((float)$course_item->finalgrade / $max) * 10, 2);
+        }
+
+        $activities_cat_name = get_string('activities_category', 'local_sentinel');
+        $all_depth2 = $DB->get_records_sql(
+            "SELECT gc.*, gi.sortorder AS gi_sortorder
+               FROM {grade_categories} gc
+               JOIN {grade_items} gi ON gi.itemtype = 'category' AND gi.iteminstance = gc.id AND gi.courseid = gc.courseid
+              WHERE gc.courseid = ? AND gc.depth = ?
+              ORDER BY gi.sortorder ASC",
+            [$courseid, 2]
+        );
+        $ce_cats = array_filter($all_depth2, fn($c) => $c->fullname !== $activities_cat_name);
+
+        // Fetch depth-3 subcategories (criteria of each CE).
+        $all_depth3 = $DB->get_records_sql(
+            "SELECT gc.id, gc.fullname, gc.parent, gc.depth,
+                    gi.sortorder AS gi_sortorder
+               FROM {grade_categories} gc
+               JOIN {grade_items} gi ON gi.itemtype = 'category' AND gi.iteminstance = gc.id
+                                     AND gi.courseid = gc.courseid
+              WHERE gc.courseid = ? AND gc.depth = ?
+              ORDER BY gi.sortorder ASC",
+            [$courseid, 3]
+        );
+        $subcats_by_parent = [];
+        foreach ($all_depth3 as $sc) {
+            $subcats_by_parent[(int)$sc->parent][] = $sc;
+        }
+
+        $ces = [];
+        $color_idx = 0;
+
+        foreach ($ce_cats as $cat) {
+            $catid = (int)$cat->id;
+
+            $ce_grade = null;
+            if (isset($cat_items[$catid])) {
+                $ci = $cat_items[$catid];
+                if ($ci->finalgrade !== null) {
+                    $max = (float)$ci->grademax ?: 10;
+                    $ce_grade = round(((float)$ci->finalgrade / $max) * 10, 2);
+                }
+            }
+
+            // Criteria = depth-3 subcategories under this CE.
+            // Fall back to direct child items if no subcategories.
+            $subcats = $subcats_by_parent[$catid] ?? [];
+            $use_subcats = !empty($subcats);
+
+            $criteria = [];
+            $worked = 0;
+
+            if ($use_subcats) {
+                foreach ($subcats as $sc) {
+                    $scid = (int)$sc->id;
+                    $crit_grade = null;
+                    if (isset($cat_items[$scid])) {
+                        $sci = $cat_items[$scid];
+                        if ($sci->finalgrade !== null) {
+                            $max = (float)$sci->grademax ?: 10;
+                            $crit_grade = round(((float)$sci->finalgrade / $max) * 10, 2);
+                            $worked++;
+                        }
+                    }
+
+                    // Activities: look for sentinel_map entries for items inside this subcategory.
+                    $activities = [];
+                    $sc_items = $child_items[$scid] ?? [];
+                    foreach ($sc_items as $gi) {
+                        $map = $DB->get_record('local_sentinel_map', ['grade_item_id' => $gi->id]);
+                        if (!$map || $gi->finalgrade === null) { continue; }
+                        $fillings = $DB->get_records_sql(
+                            "SELECT rf.id, rl.score, rl.definition AS leveldefinition,
+                                    maxrl.maxscore,
+                                    a.name AS activityname, c.shortname AS coursename,
+                                    cm.id AS cmid, ag.timemodified AS gradetime,
+                                    rc.description AS criteriadesc
+                             FROM {gradingform_rubric_fillings} rf
+                             JOIN {grading_instances} gri ON gri.id = rf.instanceid AND gri.status = 1
+                             JOIN {assign_grades} ag ON ag.id = gri.itemid AND ag.userid = :userid
+                             JOIN {assign} a ON a.id = ag.assignment
+                             JOIN {course} c ON c.id = a.course
+                             JOIN {course_modules} cm ON cm.course = c.id AND cm.instance = a.id
+                                                      AND cm.deletioninprogress = 0
+                             JOIN {modules} m ON m.id = cm.module AND m.name = 'assign'
+                             JOIN {gradingform_rubric_criteria} rc ON rc.id = rf.criterionid
+                             JOIN {gradingform_rubric_levels} rl ON rl.id = rf.levelid
+                             JOIN (
+                                 SELECT criterionid, MAX(score) AS maxscore
+                                 FROM {gradingform_rubric_levels}
+                                 GROUP BY criterionid
+                             ) maxrl ON maxrl.criterionid = rf.criterionid
+                             WHERE rf.criterionid = :critid
+                               AND ag.attemptnumber = (
+                                   SELECT MAX(ag2.attemptnumber)
+                                   FROM {assign_grades} ag2
+                                   WHERE ag2.assignment = ag.assignment AND ag2.userid = ag.userid
+                               )",
+                            ['userid' => $userid, 'critid' => $map->rubric_row_id]
+                        );
+                        foreach ($fillings as $f) {
+                            $norm = ($f->maxscore > 0) ? round(($f->score / $f->maxscore) * 10, 2) : 0;
+                            $activities[] = [
+                                'grade'           => $norm,
+                                'activityname'    => $f->activityname,
+                                'coursename'      => $f->coursename,
+                                'cmid'            => (int)$f->cmid,
+                                'criteriadesc'    => $f->criteriadesc,
+                                'leveldefinition' => $f->leveldefinition,
+                                'gradetime'       => (int)$f->gradetime,
+                            ];
+                        }
+                    }
+
+                    $criteria[] = [
+                        'name'          => $sc->fullname,
+                        'grade'         => $crit_grade,
+                        'grade_item_id' => isset($cat_items[$scid]) ? (int)$cat_items[$scid]->id : 0,
+                        'occasions'     => count($activities),
+                        'activities'    => $activities,
+                    ];
+                }
+            } else {
+                // Fallback: direct child items under the CE category.
+                $crit_list = $child_items[$catid] ?? [];
+                usort($crit_list, fn($a, $b) => $a->sortorder <=> $b->sortorder);
+                foreach ($crit_list as $gi) {
+                    $crit_grade = null;
+                    if ($gi->finalgrade !== null) {
+                        $max = (float)$gi->grademax ?: 10;
+                        $crit_grade = round(((float)$gi->finalgrade / $max) * 10, 2);
+                        $worked++;
+                    }
+                    $criteria[] = [
+                        'name'          => $gi->itemname,
+                        'grade'         => $crit_grade,
+                        'grade_item_id' => (int)$gi->id,
+                        'occasions'     => 0,
+                        'activities'    => [],
+                    ];
+                }
+            }
+
+            $color = self::CE_PALETTE[$color_idx % count(self::CE_PALETTE)];
+            $color_idx++;
+
+            $total_occ = 0;
+            $all_days = [];
+            foreach ($criteria as $cr) {
+                $total_occ += $cr['occasions'];
+                foreach ($cr['activities'] as $act) {
+                    if (!empty($act['gradetime'])) {
+                        $all_days[date('Y-m-d', $act['gradetime'])] = true;
+                    }
+                }
+            }
+
+            $ces[] = [
+                'id'             => $catid,
+                'name'           => $cat->fullname,
+                'color'          => $color,
+                'grade'          => $ce_grade,
+                'criteria_total' => count($criteria),
+                'criteria_worked'=> $worked,
+                'occasions'      => $total_occ,
+                'days'           => count($all_days),
+                'criteria'       => $criteria,
+            ];
+        }
+
+        return [
+            'course'        => $course,
+            'subject_grade' => $subject_grade,
+            'ces'           => $ces,
+        ];
     }
 
     /**

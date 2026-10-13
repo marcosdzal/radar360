@@ -1,0 +1,98 @@
+{
+    "community": "madrid",
+    "stage": "infantil",
+    "decree": "Decreto 36/2022, de 8 de junio",
+    "subject": "crecimiento_armonia",
+    "subject_name": "Crecimiento en armonía",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Progresar en el conocimiento y control de su cuerpo",
+            "description": "Progresar en el conocimiento y control de su cuerpo y en la adquisición de distintas estrategias, adecuando sus acciones a la realidad del entorno de una manera segura, para construir su imagen.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Progresar en el conocimiento de su cuerpo ajustando acciones y reacciones y desarrollando el equilibrio, la percepción sensorial y la coordinación en el movimiento."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Manifestar sentimientos de seguridad personal en la participación en juegos y en las diversas situaciones de la vida cotidiana, confiando en las propias posibilidades y mostrando iniciativa."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Manejar diferentes objetos, útiles y herramientas en el juego y en la realización de tareas cotidianas, mostrando un control progresivo y de coordinación de movimientos de carácter fino."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Participar en juegos organizados o espontáneos con curiosidad y divirtiéndose."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Reconocer, manifestar y regular sus emociones",
+            "description": "Reconocer, manifestar y regular sus emociones expresando necesidades y sentimientos para lograr una seguridad emocional y afectiva.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Identificar y expresar sus necesidades y sentimientos ajustando el control de sus emociones."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Ofrecer y pedir ayuda en situaciones cotidianas, valorando los beneficios de la cooperación y la ayuda."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Expresar inquietudes, gustos y preferencias, con entusiasmo y respeto, mostrando satisfacción y seguridad sobre los logros conseguidos."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Adoptar modelos, normas y hábitos saludables",
+            "description": "Adoptar modelos, normas y hábitos, desarrollando la confianza en sus posibilidades, para promover un estilo de vida saludable y responsable.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Realizar actividades relacionadas con el cuidado de uno mismo, con el cuidado del entorno y con actitud de respeto."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Respetar la secuencia asociada a los acontecimientos y actividades cotidianas, adaptándose a las rutinas establecidas para el grupo y desarrollando comportamientos respetuosos hacia los demás."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Establecer interacciones sociales",
+            "description": "Establecer interacciones sociales para construir su identidad y personalidad en libertad, valorando la importancia de la amistad, el respeto y la empatía.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Participar con iniciativa en juegos y actividades relacionándose con otras personas con actitudes de afecto, empatía, generosidad y amor al prójimo, respetando los distintos ritmos individuales y evitando todo tipo de discriminación."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Reproducir conductas, acciones o situaciones a través del juego simbólico en interacción con sus compañeros."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Participar activamente en actividades relacionadas con la reflexión sobre las normas sociales que regulan la convivencia y promueven valores como el respeto a los demás."
+                },
+                {
+                    "code": "4.4",
+                    "description": "Desarrollar destrezas y habilidades para la gestión de conflictos de forma positiva, aprendiendo a buscar la verdad, a no mentir, a defender a quien lo necesite y a no tener miedo. Además, proponer alternativas creativas y teniendo en cuenta el criterio de otras personas."
+                },
+                {
+                    "code": "4.5",
+                    "description": "Participar, desde una actitud de respeto, en actividades relacionadas con costumbres presentes en su entorno, mostrando interés por conocerlas."
+                }
+            ]
+        }
+    ]
+}

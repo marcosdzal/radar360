@@ -1,0 +1,226 @@
+{
+    "community": "galicia",
+    "stage": "eso",
+    "decree": "Decreto 156\/2022, de 15 de septiembre",
+    "subject": "filosofia",
+    "subject_name": "Filosofía",
+    "grade": 4,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Buscar, interpretar, producir y transmitir correctamente información relativa a",
+            "description": "Buscar, interpretar, producir y transmitir correctamente información relativa a cuestiones filosóficas, a partir del empleo contrastado y seguro de fuentes, el uso y análisis riguroso de las mismas, y el empleo de procedimientos elementales de invest…",
+            "criterios": [
+                {
+                    "code": "CE1.4",
+                    "description": "Demostrar un conocimiento práctico de los procedimientos elementales de la investigación filosófica a través de tareas como la identificación de fuentes fiables, la búsqueda eficiente y segura de información, y la correcta organización, análisis, interpretación, evaluación, producción y comunicación de esta, tanto digitalmente como a través de medios más tradicionales."
+                },
+                {
+                    "code": "CE1.5",
+                    "description": "Desarrollar una actitud indagadora, autónoma y activa en el ámbito de la reflexión filosófica, mediante el diseño, elaboración y comunicación pública de productos originales, tales como trabajos de investigación, disertaciones, comentarios de texto u otros."
+                },
+                {
+                    "code": "CE2.6",
+                    "description": "Demostrar un conocimiento práctico de los procedimientos elementales de la investigación filosófica a través de tareas como la identificación de fuentes fiables, la búsqueda eficiente y segura de información, y la correcta organización, análisis, interpretación, evaluación, producción y comunicación de esta, tanto digitalmente como a través de medios más tradicionales."
+                },
+                {
+                    "code": "CE2.7",
+                    "description": "Desarrollar una actitud indagadora, autónoma y activa en el ámbito de la reflexión filosófica, mediante el diseño, elaboración y comunicación pública de productos originales, tales como trabajos de investigación, disertaciones, comentarios de texto u otros."
+                },
+                {
+                    "code": "CE3.4",
+                    "description": "Demostrar un conocimiento práctico de los procedimientos elementales de la investigación filosófica a través de tareas como la identificación de fuentes fiables, la búsqueda eficiente y segura de información, y la correcta organización, análisis, interpretación, evaluación, producción y comunicación de esta., tanto digitalmente como a través de medios más tradicionales."
+                },
+                {
+                    "code": "CE3.5",
+                    "description": "Desarrollar una actitud indagadora, autónoma y activa en el ámbito de la reflexión filosófica, mediante el diseño, elaboración y comunicación pública de productos originales, tales como trabajos de investigación, disertaciones, comentarios de texto u otros."
+                },
+                {
+                    "code": "CE4.4",
+                    "description": "Demostrar un conocimiento práctico de los procedimientos elementales de la investigación filosófica a través de tareas como la identificación de fuentes fiables, la búsqueda eficiente y segura de información, y la correcta organización, análisis, interpretación, evaluación, producción y comunicación de esta, tanto digitalmente como a través de medios más tradicionales."
+                },
+                {
+                    "code": "CE4.5",
+                    "description": "Desarrollar una actitud indagadora, autónoma y activa en el ámbito de la reflexión filosófica, mediante el diseño, elaboración y comunicación pública de productos originales, tales como trabajos de investigación, disertaciones, comentarios de texto u otros."
+                },
+                {
+                    "code": "CE5.4",
+                    "description": "Demostrar un conocimiento práctico de los procedimientos elementales de la investigación filosófica a través de tareas como la identificación de fuentes fiables, la búsqueda eficiente y segura de información, y la correcta organización, análisis, interpretación, evaluación, producción y comunicación de esta, tanto digitalmente como a través de medios más tradicionales."
+                },
+                {
+                    "code": "CE5.5",
+                    "description": "Desarrollar una actitud indagadora, autónoma y activa en el ámbito de la reflexión filosófica, mediante el diseño, elaboración y comunicación pública de productos originales, tales como trabajos de investigación, disertaciones, comentarios de texto u otros."
+                },
+                {
+                    "code": "CE6.6",
+                    "description": "Demostrar un conocimiento práctico de los procedimientos elementales de la investigación filosófica a través de tareas como la identificación de fuentes fiables, la búsqueda eficiente y segura de información, y la correcta organización, análisis, interpretación, evaluación, producción y comunicación de esta, tanto digitalmente como a través de medios más tradicionales."
+                },
+                {
+                    "code": "CE6.7",
+                    "description": "Desarrollar una actitud indagadora, autónoma y activa en el ámbito de la reflexión filosófica, mediante el diseño, elaboración y comunicación pública de productos originales, tales como trabajos de investigación, disertaciones, comentarios de texto u otros."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Practicar el ejercicio del diálogo filosófico de manera rigurosa, crítica,",
+            "description": "Practicar el ejercicio del diálogo filosófico de manera rigurosa, crítica, tolerante y empática, interiorizando las pautas éticas y formales que este requiere, mediante la participación en actividades grupales y a través del planteamiento dialógico d…",
+            "criterios": [
+                {
+                    "code": "CE1.6",
+                    "description": "Promover el contraste e intercambio de ideas y el ejercicio de una ciudadanía activa y democrática a través de la participación en actividades grupales y del diálogo racional, respetuoso, abierto, constructivo y comprometido con la verdad, acerca de cuestiones y problemas filosóficamente relevantes."
+                },
+                {
+                    "code": "CE2.8",
+                    "description": "Promover el contraste e intercambio de ideas y el ejercicio de una ciudadanía activa y democrática a través del ejercicio de la participación en actividades grupales y del diálogo racional, respetuoso, abierto, constructivo y comprometido con la verdad, acerca de cuestiones y problemas filosóficamente relevantes."
+                },
+                {
+                    "code": "CE3.6",
+                    "description": "Promover el contraste e intercambio de ideas y el ejercicio de una ciudadanía activa y democrática a través del ejercicio de la participación en actividades grupales y del diálogo racional, respetuoso, abierto, constructivo y comprometido con la verdad, acerca de cuestiones y problemas filosóficamente relevantes."
+                },
+                {
+                    "code": "CE4.6",
+                    "description": "Promover el contraste e intercambio de ideas y el ejercicio de una ciudadanía activa y democrática a través del ejercicio de la participación en actividades grupales y del diálogo racional, respetuoso, abierto, constructivo y comprometido con la verdad, acerca de cuestiones y problemas filosóficamente relevantes."
+                },
+                {
+                    "code": "CE5.6",
+                    "description": "Promover el contraste e intercambio de ideas y el ejercicio de una ciudadanía activa y democrática a través del ejercicio de la participación en actividades grupales y del diálogo racional, respetuoso, abierto, constructivo y comprometido con la verdad, acerca de cuestiones y problemas filosóficamente relevantes."
+                },
+                {
+                    "code": "CE6.8",
+                    "description": "Promover el contraste e intercambio de ideas y el ejercicio de una ciudadanía activa y democrática a través del ejercicio de la participación en actividades grupales y del diálogo racional, respetuoso, abierto, constructivo y comprometido con la verdad, acerca de cuestiones y problemas filosóficamente relevantes."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Entender el carácter plural de las diferentes concepciones, ideas y argumentos",
+            "description": "Entender el carácter plural de las diferentes concepciones, ideas y argumentos en relación a los problemas fundamentales de la filosofía, mediante el análisis crítico de las diversas tesis relevantes y de los problemas fundamentales a los que estas r…",
+            "criterios": [
+                {
+                    "code": "CE1.1",
+                    "description": "Comprender la radicalidad y trascendencia de los problemas filosóficos y reconocer las funciones de la filosofía en cuanto a que saber crítico que aspira a fundamentar, analizar y argumentar sobre los problemas últimos de la realidad, desde una vertiente tanto teórica como práctica."
+                },
+                {
+                    "code": "CE1.2",
+                    "description": "Conocer el origen de la filosofía occidental distinguiéndola de otros saberes, y comparándola con distintas formas de pensamiento en otras culturas."
+                },
+                {
+                    "code": "CE1.3",
+                    "description": "Adquirir un conocimiento significativo de las más importantes propuestas filosóficas que se sucedieron a lo largo de la historia, a través de la indagación sobre ellas y la identificación de las cuestiones a las que responden."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Comprender y analizar la personalidad humana, estableciendo una aproximación a",
+            "description": "Comprender y analizar la personalidad humana, estableciendo una aproximación a los estudios de la mente y de la neurociencia, y viendo las implicaciones de la motivación, de la afectividad y de las emociones en su conformación, a través de la investi…",
+            "criterios": [
+                {
+                    "code": "CE2.1",
+                    "description": "Aportar una definición de lo que es la personalidad, incidiendo en aquello que la herencia genética y lo adquirido tienen que ver en la formación de la misma, reconociendo los diferentes tipos, y explicando las tesis centrales de algunas de las teorías que la estudiaron."
+                },
+                {
+                    "code": "CE2.2",
+                    "description": "Diferenciar y explicar, desde un punto de vista científico, en que consiste la filosofía de la mente, la neurociencia y la neurofilosofía, sobre todo produciendo trabajos de investigación en los que se preste importancia a las TIC."
+                },
+                {
+                    "code": "CE2.3",
+                    "description": "Identificar y reconocer la importancia de la motivación como factor energético y direccional de la vida humana, haciendo que el alumnado pueda diferenciar entre teorías cognitivas de la motivación y teorías humanistas."
+                },
+                {
+                    "code": "CE2.4",
+                    "description": "Reflexionar sobre la importancia de la motivación, de las emociones y de la afectividad, comprendiendo, al mismo tiempo, la relación entre estos aspectos del ser humano y su incidencia en la conformación de la personalidad y en nuestra conducta."
+                },
+                {
+                    "code": "CE2.5",
+                    "description": "Exponer la reflexión filosófica sobre el ser humano, analizando las posturas más representativas de dicha reflexión a lo largo de las diferentes épocas y momentos de la historia del pensamiento."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Conocer y comprender los conceptos y estructuras básicos de la cultura, la",
+            "description": "Conocer y comprender los conceptos y estructuras básicos de la cultura, la sociedad y la socialización reflexionando, en común, sobre la naturaleza cultural y social del ser humano, oralmente y por escrito, con una actitud crítica, siendo empáticos, …",
+            "criterios": [
+                {
+                    "code": "CE3.1",
+                    "description": "Comprender y apreciar dos elementos esenciales que constituyen al ser humano, la naturaleza y la cultura, identificando el papel de lo biológico y del concepto de «cultura» y sus componentes, así como de la diversidad cultural."
+                },
+                {
+                    "code": "CE3.2",
+                    "description": "Conocer y analizar el ser humano como ser social resultado del proceso de socialización, mediante la diferenciación de los elementos y agentes que lo llevan a cabo, analizando la importancia de cada uno de ellos en la formación de nuestra personalidad social y moral, y desarrollando unas actitudes positivas y no estereotipadas con respeto al género."
+                },
+                {
+                    "code": "CE3.3",
+                    "description": "Tomar conciencia de las distintas explicaciones dadas sobre la aparición de la sociedad y la formación del Estado, y también de los problemas de nuestra sociedad actual mediante la discusión y la puesta en común de las diferentes soluciones a los mismos."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Adquirir una visión global de la racionalidad humana como característica que",
+            "description": "Adquirir una visión global de la racionalidad humana como característica que nos distingue y nos permite situarnos y orientarnos en el mundo, comprendiendo y analizando las principales tesis filosóficas sobre la capacidad que tiene la racionalidad de…",
+            "criterios": [
+                {
+                    "code": "CE4.1",
+                    "description": "Reflexionar sobre la racionalidad humana, analizando de manera crítica su naturaleza y su relación con los componentes afectivos de nuestro psiquismo, y distinguiendo su uso en el conocimiento teórico del que tiene como orientativo de nuestras acciones."
+                },
+                {
+                    "code": "CE4.2",
+                    "description": "Abordar el problema filosófico del conocimiento, identificando de manera crítica las ideas y tesis más importantes de las distintas escuelas filosóficas que reflexionaron sobre su naturaleza, sus límites y posibilidades, su validez, y el papel de las distintas facultades humanas en su consecución."
+                },
+                {
+                    "code": "CE4.3",
+                    "description": "Tomar conciencia de la importancia de mantener y reforzar el valor de la verdad como principio que debe orientar el pensamiento y la acción individual y las interacciones sociales, analizando las principales teorías filosóficas que se ocuparon de ella, valorando el error como momento necesario en su busca y rechazando la asimilación acrítica de informaciones."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Tomar conciencia de la centralidad de las preguntas metafísicas, al apuntar",
+            "description": "Tomar conciencia de la centralidad de las preguntas metafísicas, al apuntar directamente a la cuestión radical del sentido último de la realidad y del papel del ser humano dentro de ella, reflexionando de manera dialógica y crítica sobre el carácter …",
+            "criterios": [
+                {
+                    "code": "CE5.1",
+                    "description": "Conocer el significado del término «metafísica», comprendiendo que es la principal disciplina de las que componen la filosofía, identificando su objetivo fundamental, consistente en realizar preguntas radicales sobre la realidad, y entendiendo en qué consiste el «preguntar radical»."
+                },
+                {
+                    "code": "CE5.2",
+                    "description": "Comprender y conocer algunas de las grandes preguntas metafísicas acerca de la naturaleza: el origen y la finalidad del universo, el orden que rige la naturaleza o la oposición entre las visiones determinista e indeterminista de la naturaleza y las consecuencias que se derivan de cada una de ellas, a través de la comparación, análisis y contraposición de distintas respuestas que se le dieron a estas cuestiones a lo largo de la historia."
+                },
+                {
+                    "code": "CE5.3",
+                    "description": "Reflexionar sobre la interrogación por el sentido de la existencia, explicando las tesis centrales de algunas teorías filosóficas sobre la vida, por medio de disertaciones razonadas sobre la vida y la muerte, el devenir histórico, y el lugar del individuo en la realidad, entre otras cuestiones metafísicas."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Reflexionar y entender la libertad humana y su relación con la voluntad,",
+            "description": "Reflexionar y entender la libertad humana y su relación con la voluntad, incluyendo su tratamiento a lo largo de la historia del pensamiento y reconociendo que está determinada desde varios niveles, para comprender que es condición de la creatividad,…",
+            "criterios": [
+                {
+                    "code": "CE6.1",
+                    "description": "Comprender, dentro del marco general de la libertad, qué es el libre albedrío o la libertad interior, en relación con la facultad de la voluntad, con la autonomía y con la responsabilidad personales, reflexionando al mismo tiempo sobre la existencia del determinismo, y analizando la posibilidad que tiene el ser humano de ser libre."
+                },
+                {
+                    "code": "CE6.2",
+                    "description": "Reconocer y ser capaz de exponer y de explicar diferentes posturas filosóficas sobre la libertad de la acción a lo largo de las diferentes épocas y momentos de la historia del pensamiento."
+                },
+                {
+                    "code": "CE6.3",
+                    "description": "Conocer la estética como la parte de la filosofía que estudia la belleza, el proceso creativo y la producción artística."
+                },
+                {
+                    "code": "CE6.4",
+                    "description": "Valorar la libertad como condición básica para la creatividad humana."
+                },
+                {
+                    "code": "CE6.5",
+                    "description": "Entender la capacidad humana de la creatividad como un proceso de innovación y de asunción de riesgos, en relación con la imaginación, estudiando las fases del proceso creativo y las técnicas de desarrollo de la creatividad, y apreciando la importancia de la colaboración creativa."
+                }
+            ]
+        }
+    ]
+}

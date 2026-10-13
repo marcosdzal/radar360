@@ -1,0 +1,65 @@
+{
+    "community": "canarias",
+    "stage": "bachillerato",
+    "decree": "Decreto 73\/2023, de 13 de abril",
+    "subject": "artes_escenicas_2",
+    "subject_name": "Artes Escénicas II",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "(c1) La adquisición de esta competencia implica aprender a identificar y a",
+            "description": "(c1) La adquisición de esta competencia implica aprender a identificar y a describir las características de los principales tipos de espectáculos escénicos de diferentes épocas y tradiciones, así como a relacionarlos con su contexto histórico y geogr…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar manifestaciones escénicas de diferentes épocas y tradiciones describiendo sus características y contexto, con actitud abierta y respetuosa."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "(c2) Con el desarrollo de esta competencia específica, el descubrimiento y la",
+            "description": "(c2) Con el desarrollo de esta competencia específica, el descubrimiento y la exploración de las distintas posibilidades expresivas que ofrecen los diferentes sistemas, medios y códigos de significación escénica permiten al alumnado enriquecer su rep…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Interpretar sistemas escénicos mediante actividades prácticas con iniciativa y creatividad."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "(c3) La recreación y representación de la acción dramática favorecen la",
+            "description": "(c3) La recreación y representación de la acción dramática favorecen la comprensión de las manifestaciones escénicas y su reconocimiento como parte del patrimonio cultural, así como la ampliación de las posibilidades de expresión personal mediante la…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Aplicar técnicas de interpretación creativa en ensayos grupales, usando memorización y valorando el diálogo."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "(c4) El diseño y la realización de un proyecto de creación y difusión escénica",
+            "description": "(c4) El diseño y la realización de un proyecto de creación y difusión escénica requiere de un trabajo planificado y en equipo. Con el desarrollo de esta competencia específica, ser partícipe de este proceso de creación conjunto contribuye a fomentar …",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Participar en proyectos escénicos colectivos diseñando, planificando y realizando con iniciativa, responsabilidad y organización."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "(c5) Con esta competencia específica, la asistencia a distintos espectáculos o",
+            "description": "(c5) Con esta competencia específica, la asistencia a distintos espectáculos o el visionado de diferentes manifestaciones escénicas, ya sea en vivo o a través de medios digitales, permite al alumnado tomar conciencia del doble papel del espectador co…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Analizar la acogida de un espectáculo vinculando obra, puesta en escena y respuesta del público."
+                }
+            ]
+        }
+    ]
+}

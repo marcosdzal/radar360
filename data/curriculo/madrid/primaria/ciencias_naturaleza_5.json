@@ -1,0 +1,126 @@
+{
+    "community": "madrid",
+    "stage": "primaria",
+    "decree": "Decreto 61/2022, de 13 de julio",
+    "subject": "ciencias_naturaleza",
+    "subject_name": "Ciencias de la Naturaleza",
+    "grade": 5,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Utilizar dispositivos y recursos digitales de forma segura,",
+            "description": "Utilizar dispositivos y recursos digitales de forma segura, responsable y eficiente, para buscar información, comunicarse y trabajar de manera individual, en equipo y en red, y para reelaborar y crear contenido digital.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Utilizar recursos digitales de acuerdo con las necesidades del contexto educativo de forma responsable, segura, eficiente y autónoma, buscando información, comunicándose y trabajando de forma individual, en equipo y en red, reelaborando y creando contenidos digitales sencillos."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Plantear y dar respuesta a cuestiones científicas",
+            "description": "Plantear y dar respuesta a cuestiones científicas sencillas, utilizando diferentes técnicas, instrumentos y modelos propios del pensamiento científico, para interpretar y explicar hechos y fenómenos que ocurren en el medio.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Formular preguntas y realizar predicciones razonadas sobre el medio mostrando y manteniendo la curiosidad, aplicando una metodología hipotético-inductiva."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Buscar, seleccionar y contrastar información, de diferentes fuentes seguras y fiables, usando los criterios de fiabilidad de fuentes, adquiriendo léxico científico básico, y utilizándola en investigaciones relacionadas con el medio."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Diseñar y realizar experimentos guiados, cuando la investigación lo requiera, utilizando diferentes técnicas de indagación y modelos, empleando de forma segura los instrumentos y dispositivos apropiados, realizando observaciones objetivas y estructuradas y mediciones precisas y registrándolas correctamente."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Proponer posibles respuestas a las preguntas planteadas, a través del análisis y la interpretación de la información y los resultados obtenidos, valorando la coherencia de las posibles soluciones y comparándolas con las predicciones realizadas."
+                },
+                {
+                    "code": "2.5",
+                    "description": "Comunicar los resultados de las investigaciones adaptando el mensaje y el formato a la audiencia a la que va dirigido, utilizando lenguaje científico o aplicado y explicando los pasos seguidos de forma pormenorizada y aportando argumentos para defender las propuestas que considere veraces."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Resolver problemas a través de proyectos de diseño y de la",
+            "description": "Resolver problemas a través de proyectos de diseño y de la aplicación del pensamiento computacional, generando nuevos productos según necesidades.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Plantear problemas de necesidad, uso y diseño que se resuelvan con la creación de un prototipo o solución digital, evaluando necesidades del entorno y estableciendo objetivos concretos."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Diseñar posibles soluciones a los problemas planteados de acuerdo con técnicas sencillas de los proyectos de diseño y pensamiento computacional, mediante estrategias básicas de gestión de proyectos conjuntos, teniendo en cuenta los recursos necesarios y estableciendo criterios concretos para evaluar el proyecto, verificando si la solución cumple los criterios objetivos de validez y calidad establecidos."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Desarrollar un producto final que dé solución a un problema de diseño, probando en equipo diferentes prototipos o soluciones digitales y utilizando de forma segura las herramientas, dispositivos, técnicas y materiales adecuados."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Comunicar el diseño de un producto final, adaptando el mensaje y el formato a la audiencia, explicando los pasos seguidos, justificando por qué ese prototipo o solución digital cumple con los requisitos del proyecto y proponiendo posibles retos para futuros proyectos."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Conocer y tomar conciencia del cuerpo, así como de las",
+            "description": "Conocer y tomar conciencia del cuerpo, así como de las emociones y sentimientos propios y ajenos, aplicando el conocimiento científico para favorecer la salud física y mental.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Promover actitudes que fomenten la seguridad emocional, gestionando las emociones propias y respetando las de los demás, reflexionando ante los usos de la tecnología y la gestión del tiempo libre."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Adoptar estilos de vida saludables valorando la importancia de una alimentación variada y equilibrada, el ejercicio físico, el contacto con la naturaleza, el descanso, el ocio, la higiene, la prevención de enfermedades y el uso adecuado de nuevas tecnologías."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Identificar las características de los diferentes elementos",
+            "description": "Identificar las características de los diferentes elementos o sistemas del medio natural, analizando su organización y propiedades, y estableciendo relaciones entre los mismos, para reconocer el valor del patrimonio natural, conservarlo y mejorarlo.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Identificar y analizar las características, la organización y las propiedades de los elementos del medio natural, a través de la indagación, utilizando las herramientas y procesos adecuados."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Establecer conexiones sencillas mediante hipótesis e inducción entre diferentes elementos del medio natural mostrando comprensión de las relaciones que se establecen e iniciando razonamiento hipotético-deductivo."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Valorar, proteger y mostrar actitudes de conservación y mejora del patrimonio natural y cultural."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Identificar las causas y consecuencias de la intervención",
+            "description": "Identificar las causas y consecuencias de la intervención humana en el entorno, desde los puntos de vista social, económico, cultural, tecnológico y ambiental, para mejorar la capacidad de afrontar problemas, buscar soluciones y actuar en su resolución fomentando el respeto, el cuidado y la protección de las personas y del planeta.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Promover estilos de vida adecuados y consecuentes con el respeto, los cuidados, y la protección de las personas y del planeta, a partir del análisis de la intervención humana en el entorno."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Participar en la búsqueda, contraste y evaluación de propuestas para afrontar problemas, buscar soluciones y actuar para su resolución. Conocer algunos hitos tecnológicos y digitales, y sus consecuencias, a lo largo de las etapas de la historia de la humanidad."
+                }
+            ]
+        }
+    ]
+}

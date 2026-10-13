@@ -1,0 +1,85 @@
+{
+    "community": "murcia",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "dibujo_tecnico_artes_1",
+    "subject_name": "Dibujo Técnico Aplicado a las Artes Plásticas y al Diseño I",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Observar, analizar y valorar la presencia de la geometría en la naturaleza, el",
+            "description": "Observar, analizar y valorar la presencia de la geometría en la naturaleza, el entorno construido y el arte, identificando sus estructuras geométricas, elementos y códigos, con una actitud proactiva de apreciación y disfrute, para explicar su origen,…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar formas y relaciones geométricas en distintos contextos (naturaleza, entorno, arte, diseño) explicando su función y valor histórico."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Desarrollar propuestas gráficas y de diseño, utilizando tanto el dibujo a mano",
+            "description": "Desarrollar propuestas gráficas y de diseño, utilizando tanto el dibujo a mano alzada como los materiales propios del dibujo técnico y elaborando trazados, composiciones y transformaciones geométricas en el plano de forma intuitiva y razonada, para i…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Resolver tangencias y simetrías poligonales aplicadas al diseño, valorando la limpieza y precisión del trazado."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Realizar estudios y esbozos a mano alzada del natural, identificando la geometría de las formas, para transmitir ideas y emociones."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Comprender e interpretar el espacio y los objetos tridimensionales, analizando",
+            "description": "Comprender e interpretar el espacio y los objetos tridimensionales, analizando y valorando su presencia en las representaciones artísticas, seleccionando y utilizando el sistema de representación más adecuado para aplicarlo a la realización de ilustr…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Compara las características de los sistemas de representación y selecciona el más adecuado según la finalidad de la representación."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Elaborar las vistas diédricas (alzado, planta y perfil) de objetos sencillos, aplicando correctamente el sistema de proyección ortogonal."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Diseñar envases sencillos representándolos en perspectiva isométrica o caballera y reflexionar sobre el proceso y resultado."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Aplicar la perspectiva cónica para dibujar ilustraciones o viñetas de espacios, objetos o personas desde distintos puntos de vista."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Analizar, definir formalmente o visualizar ideas",
+            "description": "Analizar, definir formalmente o visualizar ideas, aplicando las normas fundamentales UNE e ISO para interpretar y representar objetos y espacios, así como documentar proyectos de diseño.",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Realizar esbozos y croquis normalizados según UNE\/ISO para comunicar ideas y resolver problemas de diseño."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Integrar y aprovechar las posibilidades que ofrecen las herramientas digitales,",
+            "description": "Integrar y aprovechar las posibilidades que ofrecen las herramientas digitales, seleccionando y utilizando programas y aplicaciones específicas de dibujo vectorial 2D y de modelado 3D para desarrollar procesos de creación artística personal o de dise…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Aplicar herramientas de dibujo vectorial 2D en la realización de proyectos de diseño."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Diseñar y modelar esculturas o instalaciones en 3D valorando su utilidad creativa."
+                }
+            ]
+        }
+    ]
+}

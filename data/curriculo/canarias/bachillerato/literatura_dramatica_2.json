@@ -1,0 +1,85 @@
+{
+    "community": "canarias",
+    "stage": "bachillerato",
+    "decree": "Decreto 73\/2023, de 13 de abril",
+    "subject": "literatura_dramatica",
+    "subject_name": "Literatura Dramática",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "(c1) El valor intrínseco del teatro por lo que este aporta a la formación del",
+            "description": "(c1) El valor intrínseco del teatro por lo que este aporta a la formación del individuo, tanto en el conocimiento teatral como en su alfabetización artística, permite al alumnado enriquecer su acervo cultural a través de su experiencia como lector o …",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Explica y argumenta la interpretación de obras teatrales analizando sus elementos, contexto y tradición, con metalenguaje y juicios estéticos."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Interpretar en voz alta y en grupo fragmentos teatrales, poniendo énfasis en la configuración de escenas, emociones y elementos prosódicos."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "(c2) El desarrollo de esta competencia se fundamenta en el hecho de que el",
+            "description": "(c2) El desarrollo de esta competencia se fundamenta en el hecho de que el teatro, por su valor formativo y humano, tiene un papel clave en la educación. Uno de los aspectos más importantes en este sentido es el refuerzo de la autonomía del alumnado,…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Interpretar obras dramáticas atendiendo a aspectos temáticos, de género, estructura y estilo, y conectándolas con otras experiencias artísticas."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Seleccionar de forma autónoma diversas formas de acceso a la literatura dramática para enriquecer la identidad lectora y teatral."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "(c3) Las conexiones que tienen las obras dramáticas con otras creaciones y con",
+            "description": "(c3) Las conexiones que tienen las obras dramáticas con otras creaciones y con otros códigos artísticos de diferentes épocas y literaturas diversas permiten al alumnado abordar la apropiación del funcionamiento del fenómeno teatral en el marco de est…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Comparar textos teatrales entre sí o con adaptaciones, argumentando oralmente semejanzas y diferencias temáticas, formales y valores éticos\/estéticos."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Elaborar un proyecto de investigación que vincule obras dramáticas con sus puestas en escena u otras manifestaciones artísticas, mostrando respuesta personal."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Crear una exposición multimodal que contextualice las obras y ofrezca una visión global de la literatura dramática universal."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "(c4) La enseñanza de la escritura dramática es la piedra angular de esta",
+            "description": "(c4) La enseñanza de la escritura dramática es la piedra angular de esta competencia específica dado su potencial expresivo y creativo para un conocimiento diverso y vivenciado de las artes escénicas. Además, contribuye de manera innegable al desarro…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Crear textos teatrales originales aplicando las convenciones del género (diálogo, acotaciones) y elementos escénicos."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "(c5) Esta última competencia se fundamenta en el hecho de que la educación",
+            "description": "(c5) Esta última competencia se fundamenta en el hecho de que la educación literaria, en este caso en torno al género dramático, debe incorporar habilidades de lectura, interpretación y reapropiación de los textos que desarrollen una mirada distancia…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Investigar sobre autoras, personajes femeninos u obras no occidentales para desarrollar una mirada crítica y diversa del canon dramático."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Elaborar comentarios críticos o participar en debates sobre obras teatrales incorporando perspectiva de género y cuestionando el canon occidental."
+                }
+            ]
+        }
+    ]
+}

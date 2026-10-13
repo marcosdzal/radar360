@@ -1,0 +1,127 @@
+{
+    "community": "canarias",
+    "stage": "eso",
+    "decree": "Decreto 30\/2023, de 16 de marzo",
+    "subject": "economia",
+    "subject_name": "Economía y Emprendimiento",
+    "grade": 4,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "(c1) Esta competencia específica trabaja el autoconocimiento permitiendo",
+            "description": "(c1) Esta competencia específica trabaja el autoconocimiento permitiendo indagar en las fortalezas y debilidades personales y gestionar las emociones para adaptarse a entornos cambiantes y enfocarse hacia el éxito del proceso de ideación y diseño de …",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Crear un proyecto personal original adaptándose a entornos complejos, valorando aptitudes propias y controlando emociones."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Aplicar estrategias de análisis razonado para valorar fortalezas, debilidades, iniciativa y creatividad propias y ajenas."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Aplica estrategias de gestión emocional y destrezas personales para fomentar la creatividad en proyectos."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "(c2) A través de esta competencia específica se persigue la correcta",
+            "description": "(c2) A través de esta competencia específica se persigue la correcta identificación de las potencialidades de las personas que favorezcan la constitución de equipos de trabajo eficaces, cooperativos y motivados y que compensen las debilidades e impul…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Constituir equipos de trabajo equitativos, participativos y con metas comunes optimizando recursos humanos."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Aplicar de manera autónoma habilidades sociales, comunicación abierta, motivación, liderazgo y cooperación en equipos presenciales y a distancia."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "(c3) En el desarrollo de esta competencia específica se trabaja en el análisis",
+            "description": "(c3) En el desarrollo de esta competencia específica se trabaja en el análisis del entorno con la finalidad de generar soluciones innovadoras dirigidas a crear valor en el ámbito personal, social, cultural y económico para afrontar los retos propuest…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Elaborar propuestas locales y globales que preserven el medio natural, social, cultural y artístico con visión sostenible y emprendedora."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Evaluar ideas innovadoras y sostenibles para superar retos, analizando sus ventajas, inconvenientes e impacto personal y contextual."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "(c4) La búsqueda de recursos productivos y financieros es fundamental para",
+            "description": "(c4) La búsqueda de recursos productivos y financieros es fundamental para trabajar esta competencia específica, ya que a través de ellos el alumnado podrá transformar las ideas emprendedoras en prototipos innovadores y sostenibles.",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Poner en marcha un proyecto seleccionando y reuniendo los recursos disponibles de forma ética y eficiente."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Aplica con autonomía estrategias para captar y gestionar recursos, transformando ideas en acciones."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "(c5) Para comunicar las soluciones innovadoras ideadas es necesario poner en",
+            "description": "(c5) Para comunicar las soluciones innovadoras ideadas es necesario poner en práctica de esta competencia específica, a través de la cual el alumnado podrá entrenar la competencia comunicativa, adquirir estrategias de comunicación ágil y adiestrarse …",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Justificar y defender ideas y soluciones mediante mensajes convincentes adaptados al contexto."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Exponer ideas y soluciones creativas con claridad, coherencia y eficacia comunicativa, respetando a la audiencia."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "(c6) Con esta competencia específica se estudia en profundidad el entorno del",
+            "description": "(c6) Con esta competencia específica se estudia en profundidad el entorno del sector al que va dirigida la propuesta del proyecto emprendedor le permitirá valorar la admisibilidad de la misma, lo que será determinante para decidir sobre su viabilidad…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Desarrollar una idea emprendedora aplicando conocimientos económicos y financieros para identificar los recursos necesarios."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Aplicar conocimientos económicos y financieros a situaciones o proyectos concretos de forma coherente."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Transferir saberes económicos y financieros para resolver retos de forma eficiente, equitativa y sostenible."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "(c7) La materia concluye con esta competencia específica, que tendrá carácter",
+            "description": "(c7) La materia concluye con esta competencia específica, que tendrá carácter transversal, planteando una visión integradora del proceso emprendido en la consecución del objetivo del proyecto emprendedor, al convertir una propuesta innovadora, ética …",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Valorar el prototipo final y el proceso completo, evaluando críticamente las fases y estrategias."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Analizar críticamente el proceso de diseño y ejecución de prototipos comparando efectividad, viabilidad y adecuación."
+                },
+                {
+                    "code": "7.3",
+                    "description": "Seleccionar y aplicar estrategias de diseño y ejecución para construir un prototipo de forma ágil, cooperativa y autónoma."
+                }
+            ]
+        }
+    ]
+}

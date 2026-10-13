@@ -1,0 +1,142 @@
+{
+    "community": "aragon",
+    "stage": "eso",
+    "decree": "Orden ECD\/1172\/2022, de 2 de agosto",
+    "subject": "matematicas_para_la_toma_de_decisiones",
+    "subject_name": "Matemáticas para la Toma de Decisiones",
+    "grade": 4,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Reconocer la importancia de la aritmética modular en un contexto tecnológico y",
+            "description": "Reconocer la importancia de la aritmética modular en un contexto tecnológico y digital, comprendiendo la necesidad y los fundamentos básicos de algoritmos de codificación sencillos y siendo capaz de aplicarlos de forma efectiva en situaciones concret…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Aplicar el algoritmo de Euclides para calcular el m.c.d. de dos números y para obtener la expresión de la identidad de Bezout."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Resolver ecuaciones diofánticas lineales en una y dos variables, estudiando previamente la existencia de solución."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Poseer los fundamentos necesarios para trabajar módulo un entero m, sabiendo las diferentes propiedades que surgen según m sea primo o no."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Resolver de forma constructiva sistemas de congruencias lineales con una incógnita, estudiando previamente la existencia de solución."
+                },
+                {
+                    "code": "1.5",
+                    "description": "Conocer y determinar unidades y divisores de cero en Z\/mZ para cualquier m."
+                },
+                {
+                    "code": "1.6",
+                    "description": "Aplicar el pequeño teorema de Fermat para estudiar la primalidad de un entero dado."
+                },
+                {
+                    "code": "1.7",
+                    "description": "Conocer, idear y aplicar algoritmos de cifrado de sustitución y polialfabéticos sencillos, entendiendo sus vulnerabilidades."
+                },
+                {
+                    "code": "1.8",
+                    "description": "Conocer los fundamentos y vulnerabilidades del algoritmo RSA, aplicándolo en casos sencillos."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Identificar la utilidad de la teoría de grafos para modelizar situaciones y",
+            "description": "Identificar la utilidad de la teoría de grafos para modelizar situaciones y problemas reales de la vida cotidiana y de materias del ámbito científico y tecnológico, empleándola para explorar distintas formas de proceder y para obtener y comunicar pos…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Identificar propiedades y tipos de grafos."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Clasificar grafos según distintos criterios."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Formular definiciones de las principales propiedades y familias de grafos haciendo uso de lenguaje especializado."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Proporcionar argumentos y\/o contraejemplos acerca de la existencia, o no, de ciertos tipos de grafos y respecto al cumplimiento, o no, de determinadas propiedades."
+                },
+                {
+                    "code": "2.5",
+                    "description": "Utilizar grafos para modelizar matemáticamente situaciones de la vida cotidiana, la ciencia y la tecnología."
+                },
+                {
+                    "code": "2.6",
+                    "description": "Proponer situaciones y problemas reales susceptibles de ser modelizados utilizando la teoría de grafos."
+                },
+                {
+                    "code": "2.7",
+                    "description": "Aplicar adecuadamente algoritmos sencillos sobre grafos, reflexionando sobre su eficiencia y transfiriendo el resultado a la situación real de partida."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Utilizar la teoría de juegos para modelizar situaciones y problemas reales de",
+            "description": "Utilizar la teoría de juegos para modelizar situaciones y problemas reales de la vida cotidiana y de materias del ámbito de las ciencias sociales y de la economía, reconociendo su aplicación a la toma de decisiones y obteniendo y expresando solucione…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Conocer la terminología básica propia de la teoría de juegos y utilizarla adecuadamente en situaciones oportunas."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Utilizar la forma de representación apropiada para modelizar un juego o una situación determinada."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Comprender los conceptos de estrategia (pura y mixta) y de punto de equilibrio, así como su interpretación en situaciones concretas."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Resolver juegos de dos jugadores, suma cero e información perfecta mediante retropropagación."
+                },
+                {
+                    "code": "3.5",
+                    "description": "Resolver completamente juegos de dos jugadores y suma cero dados en forma normal en el caso 2 × 2."
+                },
+                {
+                    "code": "3.6",
+                    "description": "Expresar y comunicar los resultados de la resolución de un juego (ganancias, pérdidas, estrategias ganadores, etc.) en los términos del contexto concreto en que se está trabajando."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Emplear herramientas de cálculo simbólico u otras herramientas digitales para",
+            "description": "Emplear herramientas de cálculo simbólico u otras herramientas digitales para representar resultados y procedimientos, explorar, conjeturar y comprobar propiedades, y resolver problemas, desarrollando e implementando algoritmos matemáticos sencillos.",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Formular conjeturas acerca de propiedades de los números enteros y estudiar su posible veracidad o falsedad de forma computacional."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Utilizar herramientas informáticas para explorar propiedades de grafos."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Diseñar algoritmos propios para resolver problemas aritméticos en Z y en Z\/mZ."
+                },
+                {
+                    "code": "4.4",
+                    "description": "Expresar en pseudocódigo los algoritmos aritméticos sencillos diseñados."
+                },
+                {
+                    "code": "4.5",
+                    "description": "Analizar y comprender el funcionamiento de algoritmos sencillos expresados en pseudocódigo en contextos de aritmética, teoría de grafos y teoría de juegos."
+                }
+            ]
+        }
+    ]
+}

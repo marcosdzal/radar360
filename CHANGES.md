@@ -228,3 +228,6 @@ Al mapear un criterio de rúbrica, el plugin **crea ítems de calificación manu
 | 2024010205 | Añade índices únicos en `map` y `student_photo` |
 | 2024010206 | Añade tablas `descriptor`, `ce_descriptor`, `period`; siembra los 34 descriptores LOMLOE |
 | 2024010207 | Añade tabla `cat_descriptor` (mapeo categoría → descriptor) |
+| 2024010208 | Crea rol «Tutor», nueva capacidad `local/sentinel:communicate`, `managephotos` abierto a teacher |
+| 2024010209 | Configurador curricular: selector de comunidad/etapa/materia que puebla automáticamente el libro de calificaciones con CE y criterios (prueba de concepto: Madrid ESO) |
+| 2024010210 | Extractor automático de currículos LOMLOE: 2253 ficheros JSON con CE y criterios de evaluación para las 19 CCAA de España, ESO (1°-4°) y Bachillerato (1°-2°), extraídos de corrigiendo.es. CLI: `cli/extract_curriculo.php` |

@@ -1,0 +1,105 @@
+{
+    "community": "cataluna",
+    "stage": "eso",
+    "decree": "",
+    "subject": "economia",
+    "subject_name": "Economia Bàsica",
+    "grade": 4,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Econèixer els rols indi iduals i col lectius de les persones dintre del sistema",
+            "description": "econèixer els rols indi iduals i col lectius de les persones dintre del sistema econ mic i constituir dinàmiques de participació ciutadana, prenent consciència de la interdependència dels factors econ mics, per valorar les desigualtats en l'acc s als…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "A individus i la societat al sistema econòmic,"
+                },
+                {
+                    "code": "1.2",
+                    "description": "Identificar desigualtats en l’accés als recursos i la distribució de la riquesa, per contribuir a un món més equitatiu i sostenible, mitjançant mecanismes de participació ciutadana basats en el diàleg, l’equitat, el respecte a la diversitat i la inclusió en la societat."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Valorar com les decisions econòmiques, tant individuals com col·lectives, afecten la distribució de la riquesa al món i al medi ambient."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Integrar i promoure pràctiques econ miques basades en valors humans, solidaris",
+            "description": "Integrar i promoure pràctiques econ miques basades en valors humans, solidaris i sostenibles, amb consciència ciutadana, per contribuir a una societat m s equitati a, usta i sostenible en un món global i divers",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Analitzar experiències, en l’àmbit local i global, desenvolupades en el marc de les economies plurals (economia feminista, economia ecològica, economia circular, entre"
+                },
+                {
+                    "code": "2.2",
+                    "description": "Reconèixer valors alternatius com el de la vida per sobre del diner, la cooperació per sobre de la competència, la responsabilitat social de les pròpies accions i la regulació responsable per part dels governs."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Valorar els drets econòmics i socials com a ciutadans, i implicar-se activament en els reptes relacionats amb el consum ètic i responsable."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Analitzar i contrastar informació de diferents fonts i suports, a través de",
+            "description": "Analitzar i contrastar informació de diferents fonts i suports, a través de mètodes de recerca, amb rigor i sentit crític, per suggerir mesures econ miques que millorin l'entorn social i el medi ambient",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Cercar, seleccionar i contrastar informació, amb rigorositat i de fonts fiables, orals, impreses o digitals, sobre temes d’interès i\/o actualitat, present a l’entorn global i divers,"
+                },
+                {
+                    "code": "3.2",
+                    "description": "Confeccionar una petita recerca d’una situació econòmica de l’entorn proper de"
+                },
+                {
+                    "code": "3.3",
+                    "description": "Analitzar en grup, amb el suport de mitjans digitals, casos de problemes econòmics, valorant críticament la situació econòmica local i global, per proposar solucions en"
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Econèixer el funcionament bàsic del sistema financer i els instruments de",
+            "description": "econèixer el funcionament bàsic del sistema financer i els instruments de política fiscal del sector p blic, coneixent les fonts financeres i aplicant la tria d'aquestes per prendre decisions sobre estal i i in ersió, i per regular l'activitat econ m…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Analitzar les principals fonts financeres i els productes financers més habituals per a l’estalvi i la inversió, per ajudar a la planificació financera, tenint en compte les finances ètiques, en un món globalitzat."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Classificar les principals partides d’un pressupost públic, analitzant amb criteris de coherència i equitat la seva organització, distribució i ús, per determinar els efectes que suposa la intervenció del sector públic sobre l’economia."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Analitzar el deute públic i el dèficit públic valorant les conseqüències del frau fiscal per a la societat i la sostenibilitat."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Dissenyar un pla financer personal i o familiar, aplicant estratègies de",
+            "description": "Dissenyar un pla financer personal i o familiar, aplicant estratègies de planificació i presa de decisions, a aluant ne la coherència i consistència al llarg del temps, per donar resposta a les necessitats itals presents i futures, i millorar la qual…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Conèixer la situació patrimonial i les necessitats financeres actuals, i preveure el moment i la magnitud de les futures (consum i oci, crèdit\/finançament, estalvi i inversió i les assegurances com a mitjà de cobertura de riscos), en funció dels objectius personals i\/o familiars; i estimar-ne el valor econòmic."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Utilitzar, amb iniciativa, estratègies de planificació i presa de decisions en la creació d’un pla financer personal i\/o familiar que cobreixi les necessitats identificades i faciliti la consecució dels objectius establerts."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Analitzar l’elaboració, viabilitat i sostenibilitat del pla financer dissenyat, i millorar-lo en funció de la valoració realitzada, reflexionant sobre la importància de planificar les finances personals i familiars per contribuir al desenvolupament personal."
+                }
+            ]
+        }
+    ]
+}

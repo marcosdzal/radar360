@@ -1,0 +1,86 @@
+{
+    "community": "aragon",
+    "stage": "eso",
+    "decree": "Orden ECD\/1172\/2022, de 2 de agosto",
+    "subject": "iniciacion_filosofia",
+    "subject_name": "Iniciación a la Filosofía",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Identificar problemas y formular preguntas acerca del fundamento y sentido de",
+            "description": "Identificar problemas y formular preguntas acerca del fundamento y sentido de la realidad y de la existencia humana, a partir del análisis e interpretación de distintos problemas que de forma dialogada y compartida les permitirá comprender de una for…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Construir y expresar un concepto ajustado de sí mismo reconociendo las múltiples dimensiones de su naturaleza y personalidad, así como de la dimensión social, cívica y ética, a partir de la investigación y el diálogo en torno a diversas concepciones sobre la naturaleza humana y la realidad."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Identificar, gestionar y comunicar ideas, emociones, afectos y deseos de forma organizada y con comprensión y empatía hacia las demás personas, demostrando autoestima y respeto hacia los demás."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Desarrollar un pensamiento crítico y demostrar autonomía moral a través de la práctica de la deliberación racional, el uso de conceptos éticos y filosóficos, y el diálogo respetuoso con los demás en torno a cuestiones de su identidad, entidad y realidad."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Buscar, interpretar y transmitir correctamente información relativa a",
+            "description": "Buscar, interpretar y transmitir correctamente información relativa a cuestiones filosóficas, a partir del empleo contrastado y riguroso de fuentes, así como de procedimientos elementales de investigación y comunicación, para fomentar una actitud ind…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Utilizar de manera crítica y contrastada diferentes fuentes acerca de cuestiones relacionadas con un conocimiento filosófico"
+                },
+                {
+                    "code": "2.2",
+                    "description": "Expresar de forma coherente y ordenada por medio de presentaciones, argumentaciones o dilemas morales aquellas cuestiones filosóficas relacionadas con su entorno y realidad."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Contrastar dialógicamente los resultados de la indagación con otras personas"
+                },
+                {
+                    "code": "2.4",
+                    "description": "Fomentar una actitud cooperativa, indagadora, creativa y ética."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Practicar el diálogo filosófico con actitud crítica y tolerancia, utilizando",
+            "description": "Practicar el diálogo filosófico con actitud crítica y tolerancia, utilizando adecuadamente los argumentos en la exposición razonada de las ideas, para apreciar el carácter plural de las concepciones filosóficas, practicar la gestión de las emociones …",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Saber distinguir entre meras opiniones y juicios entendiendo que las ideas se sostienen con argumentos."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Darse cuenta de la importancia de aportar suficientes razones que sostengan la opinión que se formula y que sea expresada de forma precisa en el lenguaje."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Comprender y respetar las opiniones de los demás comprendiendo el significado de las mismas y valorando que dicha comprensión amplía la propia"
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Promover una actitud reflexiva y creativa frente a los problemas y hacerlo de",
+            "description": "Promover una actitud reflexiva y creativa frente a los problemas y hacerlo de forma social cuidando de los demás y de uno mismo para el desarrollo de una actitud empática y cuidadosa con los demás y con el mundo. Comprender y aprehender el mundo desd…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Fomentar una participación comprometida como condición ciudadana para construir un mundo mejor, más crítico y solidario, que transforme la realidad para mejorarla."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Comprender la importancia de la coherencia entre pensamiento, sentimiento, discurso y acción fomentando una actitud reflexiva respecto al modo de ser, de hacer, de pensar y de sentir buscando la conexión en todas esas dimensiones."
+                }
+            ]
+        }
+    ]
+}

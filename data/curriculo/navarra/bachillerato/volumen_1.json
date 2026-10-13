@@ -1,0 +1,67 @@
+{
+    "community": "navarra",
+    "stage": "bachillerato",
+    "decree": "Real Decreto 217\/2022",
+    "subject": "volumen",
+    "subject_name": "Volumen",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE2",
+            "name": "Explorar las posibilidades plásticas y expresivas del lenguaje tridimensional,",
+            "description": "Explorar las posibilidades plásticas y expresivas del lenguaje tridimensional, partiendo del análisis de obras de diferentes artistas en las que se establezca una relación coherente entre la imagen y su contenido, para elaborar producciones tridimens…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Analizar obras tridimensionales distinguiendo estructura y accesorio, y relacionar función comunicativa con nivel icónico."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Explicar y justificar la relación entre imagen y contenido en obras tridimensionales, identificando sus funciones comunicativas."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Elaborar obras volumétricas para una función comunicativa, relacionando imagen y contenido, y considerando forma, estructura e iconicidad."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Realizar propuestas de composiciones tridimensionales, seleccionando las",
+            "description": "Realizar propuestas de composiciones tridimensionales, seleccionando las técnicas, las herramientas y los materiales de realización más adecuados, para resolver problemas de configuración espacial y apreciar las cualidades expresivas del lenguaje tri…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Resolver problemas espaciales con composiciones 3D eligiendo técnicas, herramientas y materiales según requisitos."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Explica y justifica las cualidades expresivas del lenguaje tridimensional, así como la elección de técnicas, herramientas y materiales en composiciones 3D."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Elaborar proyectos individuales o colectivos, adecuando los materiales y",
+            "description": "Elaborar proyectos individuales o colectivos, adecuando los materiales y procedimientos a la finalidad estética y funcional de los objetos que se pretenden crear y aportando soluciones diversas y creativas a los retos planteados durante la ejecución,…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Planificar proyectos tridimensionales detallando fases, tareas, viabilidad, sostenibilidad y selección de técnicas y materiales."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Elaborar activamente proyectos artísticos asumiendo roles diversos, respetando aportaciones y reconociendo oportunidades."
+                },
+                {
+                    "code": "4.3",
+                    "description": "El alumnado elabora proyectos volumétricos ajustando materiales y procesos a criterios estéticos y funcionales, resolviendo creativamente los imprevistos."
+                },
+                {
+                    "code": "4.4",
+                    "description": "Evaluar y presentar el resultado de un proyecto tridimensional contrastando objetivos y producto final, explicando las diferencias."
+                }
+            ]
+        }
+    ]
+}

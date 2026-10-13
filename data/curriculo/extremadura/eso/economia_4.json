@@ -1,0 +1,170 @@
+{
+    "community": "extremadura",
+    "stage": "eso",
+    "decree": "Decreto 110\/2022, de 22 de agosto",
+    "subject": "economia",
+    "subject_name": "Economía y Emprendimiento",
+    "grade": 4,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "A nalizar y valorar las fortalezas y debilidades propias y de los demás,",
+            "description": "A nalizar y valorar las fortalezas y debilidades propias y de los demás, reflexionando sobre las aptitudes, gestionando de forma eficaz las emociones y las destrezas necesarias para adaptarse a entornos cambiantes y diseñar un proyecto, que genere va…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Crear un proyecto personal original adaptándose a entornos complejos, valorando aptitudes propias y controlando emociones."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Aplicar estrategias de análisis razonado para valorar fortalezas, debilidades, iniciativa y creatividad propias y ajenas."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Aplica estrategias de gestión emocional y destrezas personales para fomentar la creatividad en proyectos."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Constituir grupos de trabajo y participar colaborativamente en ellos, empleando",
+            "description": "Constituir grupos de trabajo y participar colaborativamente en ellos, empleando habilidades sociales, de comunicación e innovación ágil adecuadas a diversas dinámicas y contextos para desarrollar las ideas y soluciones emprendedoras. Reconocer y valo…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Constituir equipos de trabajo equitativos, participativos y con metas comunes optimizando recursos humanos."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Aplicar de manera autónoma habilidades sociales, comunicación abierta, motivación, liderazgo y cooperación en equipos presenciales y a distancia."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Valorar y respetar las aportaciones de compañeros en dinámicas de equipo, aceptando decisiones colectivas."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Elaborar, con sentido ético y solidario, ideas y soluciones innovadoras y",
+            "description": "Elaborar, con sentido ético y solidario, ideas y soluciones innovadoras y sostenibles que den respuesta a las necesidades detectadas, analizando tanto sus puntos fuertes y débiles como el impacto que puedan generar en el entorno y en la sociedad, y u…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Elaborar propuestas locales y globales que preserven el medio natural, social, cultural y artístico con visión sostenible y emprendedora."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Evaluar ideas innovadoras y sostenibles para superar retos, analizando sus ventajas, inconvenientes e impacto personal y contextual."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Aplicar metodologías ágiles para construir ideas creativas y sostenibles con sentido ético, superando retos."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Seleccionar y reunir los recursos disponibles en el proceso de desarrollo de la",
+            "description": "Seleccionar y reunir los recursos disponibles en el proceso de desarrollo de la idea o solución creativa propuesta, conociendo los medios de producción y las fuentes financieras que proporcionan dichos recursos, y aplicando estrategias de captación d…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Poner en marcha un proyecto seleccionando y reuniendo los recursos disponibles de forma ética y eficiente."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Aplica con autonomía estrategias para captar y gestionar recursos, transformando ideas en acciones."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Analizar y seleccionar recursos disponibles para el proyecto emprendedor, planificando su organización y uso óptimo."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Comunicarse de manera efectiva y respetuosa, utilizando diversas estrategias",
+            "description": "Comunicarse de manera efectiva y respetuosa, utilizando diversas estrategias comunicativas, transmitiendo un mensaje convincente que se adecue al contexto y a los objetivos concretos de cada situación comunicativa para presentar, exponer y validar la…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Justificar y defender ideas y soluciones mediante mensajes convincentes adaptados al contexto."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Exponer ideas y soluciones creativas con claridad, coherencia y eficacia comunicativa, respetando a la audiencia."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "A plicar de manera eficaz, creativa, crítica, equitativa y sostenible aspectos",
+            "description": "A plicar de manera eficaz, creativa, crítica, equitativa y sostenible aspectos básicos de la economía y las finanzas, ante los retos relacionados con la escasez de recursos y la necesidad de elegir. El conocimiento del entorno económico es esencial p…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Desarrollar una idea emprendedora aplicando conocimientos económicos y financieros para identificar los recursos necesarios."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Aplicar conocimientos económicos y financieros a situaciones o proyectos concretos de forma coherente."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Transferir saberes económicos y financieros para resolver retos de forma eficiente, equitativa y sostenible."
+                },
+                {
+                    "code": "6.4",
+                    "description": "Valorar críticamente la escasez y la necesidad de elegir, usando principios económicos para afrontar retos."
+                },
+                {
+                    "code": "6.5",
+                    "description": "Afrontar los retos de manera eficaz, equitativa y sostenible, en distintos contextos y situaciones, reales o simuladas, transfiriendo los conocimientos económicos y financieros necesarios."
+                },
+                {
+                    "code": "6.6",
+                    "description": "Valorar críticamente el problema económico de la escasez de recursos y la necesidad de elegir, así como los principios de interacción social desde el punto de vista económico, aprovechando este conocimiento en el afrontamiento eficaz de retos."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Diseñar y llevar a cabo de manera cooperativa, autónoma y ágil, prototipos innovadores",
+            "description": "Diseñar y llevar a cabo de manera cooperativa, autónoma y ágil, prototipos innovadores, aplicando con eficacia estrategias de gestión, toma de decisiones y ejecución para resolver los retos propuestos en los distintos ámbitos a los que dichos prototi…",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Valorar el prototipo final y el proceso completo, evaluando críticamente las fases y estrategias."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Analizar críticamente el proceso de diseño y ejecución de prototipos comparando efectividad, viabilidad y adecuación."
+                },
+                {
+                    "code": "7.3",
+                    "description": "Seleccionar y aplicar estrategias de diseño y ejecución para construir un prototipo de forma ágil, cooperativa y autónoma."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Interpretar y transmitir información y datos económicos sencillos y argumentar",
+            "description": "Interpretar y transmitir información y datos económicos sencillos y argumentar sobre ellos, utilizando diferentes métodos para analizar conceptos y procesos de la realidad económica y empresarial.",
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Facilitar la comprensión y análisis de opiniones propias fundamentadas y de información relacionada con los saberes de la materia de Economía y Emprendimiento, transmitiendo de forma clara y rigurosa, utilizando la terminología y el formato adecuados, modelos gráficos, tablas, vídeos, informes, diagramas, fórmulas, esquemas, símbolos, contenidos digitales…"
+                },
+                {
+                    "code": "8.2",
+                    "description": "Analizar conceptos y procesos relacionados con los saberes de economía interpretando información en diferentes formatos (modelos, gráficos, tablas, diagramas, fórmulas, esquemas, símbolos, páginas web...), manteniendo una actitud crítica, obteniendo conclusiones y formando opiniones propias fundamentadas."
+                },
+                {
+                    "code": "8.3",
+                    "description": "Analizar y explicar fenómenos económicos representándolos mediante el diseño y la realización de modelos y diagramas sencillos, utilizando, cuando sea necesario, los pasos del método económico (definir el problema, explorar soluciones, delimitar los recursos, evaluar las soluciones, elegir la opción, controlar el resultado y efectuar correcciones)."
+                }
+            ]
+        }
+    ]
+}

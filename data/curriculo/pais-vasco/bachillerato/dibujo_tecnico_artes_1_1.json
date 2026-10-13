@@ -1,0 +1,65 @@
+{
+    "community": "pais-vasco",
+    "stage": "bachillerato",
+    "decree": "Decreto 82\/2023, de 13 de junio",
+    "subject": "dibujo_tecnico_artes_1",
+    "subject_name": "Dibujo Técnico Aplicado a las Artes Plásticas y al Diseño I",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Observar, analizar y valorar la presencia de la geometría en la naturaleza, el",
+            "description": "Observar, analizar y valorar la presencia de la geometría en la naturaleza, el entorno construido y el arte, identificando sus estructuras geométricas, elementos y códigos, con una actitud proactiva de apreciación y disfrute, para explicar su origen,…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar formas y relaciones geométricas en distintos contextos (naturaleza, entorno, arte, diseño) explicando su función y valor histórico."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Desarrollar propuestas gráficas y de diseño, utilizando tanto el dibujo a mano",
+            "description": "Desarrollar propuestas gráficas y de diseño, utilizando tanto el dibujo a mano alzada como los materiales propios del dibujo técnico y elaborando trazados, composiciones y transformaciones geométricas en el plano de forma intuitiva y razonada, mostra…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Resolver tangencias y simetrías poligonales aplicadas al diseño, valorando la limpieza y precisión del trazado."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Comprender y representar el espacio y los objetos tridimensionales, valorando",
+            "description": "Comprender y representar el espacio y los objetos tridimensionales, valorando su presencia en las representaciones artísticas, seleccionando y utilizando el sistema de representación más adecuado para aplicarlo a la realización de ilustraciones y pro…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Compara las características de los sistemas de representación y selecciona el más adecuado según la finalidad de la representación."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Analizar, definir y realizar bocetos",
+            "description": "Analizar, definir y realizar bocetos, de forma individual o en grupo, aplicando las normas fundamentales UNE e ISO para interpretar y representar objetos y espacios, así como documentar proyectos de diseño.",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Realizar esbozos y croquis normalizados según UNE\/ISO para comunicar ideas y resolver problemas de diseño."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Integrar y aprovechar, de manera crítica, segura y responsable, las",
+            "description": "Integrar y aprovechar, de manera crítica, segura y responsable, las posibilidades que ofrecen las herramientas digitales, seleccionando y utilizando programas y aplicaciones específicas de dibujo vectorial 2D y de modelado 3D para desarrollar proceso…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Aplicar herramientas de dibujo vectorial 2D en la realización de proyectos de diseño."
+                }
+            ]
+        }
+    ]
+}

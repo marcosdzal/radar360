@@ -1,0 +1,149 @@
+{
+    "community": "canarias",
+    "stage": "bachillerato",
+    "decree": "Decreto 73\/2023, de 13 de abril",
+    "subject": "dibujo_artistico_1",
+    "subject_name": "Dibujo Artístico I",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "(c1) En la competencia específica se plantea la comprensión del dibujo como",
+            "description": "(c1) En la competencia específica se plantea la comprensión del dibujo como forma de conocimiento, comunicación y expresión, comparando el uso que se hace de él a lo largo de diferentes épocas para valorar la diversidad cultural y la conservación y p…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Compara el uso del dibujo en distintas manifestaciones culturales y artísticas, reflexionando autónomamente."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Compara autónomamente las funciones del dibujo analizando su uso en producciones de distintas disciplinas."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Relacionar diversidad cultural y libertad de expresión argumentando opinión propia y analizando usos del dibujo."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "(c2) Esta competencia específica analiza las producciones plásticas de distintas épocas y estilos",
+            "description": "(c2) Esta competencia específica analiza las producciones plásticas de distintas épocas y estilos, para reconocer el lenguaje, las técnicas y procedimientos, la función y la expresividad del dibujo y desarrollar la conciencia visual y el criterio est…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Analizar dibujos de distintas épocas identificando lenguaje, técnicas y procedimientos, y explicando cambios históricos con terminología adecuada."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Analizar producciones culturales comprendiendo el papel del dibujo y valorando su aporte social y estético."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "(c3) En esta competencia específica no solo se analiza sino que también se",
+            "description": "(c3) En esta competencia específica no solo se analiza sino que también se experimenta e interpreta la realidad, utilizando los recursos elementales del dibujo y su sintaxis, para favorecer el desarrollo personal y la sensibilidad artística. De este …",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Explora y valora las posibilidades expresivas de punto, línea y forma y su sintaxis para mejorar la creación gráfica."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Analizar, interpretar y representar gráficamente la realidad mediante esbozos, desarrollando una expresión propia, espontánea y creativa."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "(c4) En esta competencia específica se sigue experimentado con diferentes",
+            "description": "(c4) En esta competencia específica se sigue experimentado con diferentes materiales, técnicas y soportes, pero además incluyendo el cuerpo humano no solo como herramienta de referencia, sino también como soporte para descubrir y explorar diferentes …",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Crear dibujos con un estilo personal combinando técnicas tradicionales y manipulación propia."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Realizar composiciones bidimensionales explorando la percepción espacial y el cuerpo humano como soporte o herramienta gráfica."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "(c5) Esta competencia específica pretende utilizar la práctica del dibujo como",
+            "description": "(c5) Esta competencia específica pretende utilizar la práctica del dibujo como medio de expresión, pero tomando como referentes culturales las nuevas creaciones, para ampliar sus conocimientos artísticos y enriquecer sus producciones. A través de est…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Identificar los referentes artísticos de una obra y describir su influencia y conexiones."
+                },
+                {
+                    "code": "5.2",
+                    "description": "El alumnado crea dibujos propios que expresan ideas, opiniones y emociones, incorporando técnicas de referentes artísticos de su interés de manera guiada."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "(c6) En esta competencia específica se van a realizar producciones gráficas,",
+            "description": "(c6) En esta competencia específica se van a realizar producciones gráficas, experimentando con los elementos del lenguaje gráfico y su organización, para entender cómo funciona la percepción visual y la organización de elementos en el espacio, y mej…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Aplicar principios de percepción visual y composición en producciones gráficas con intención comunicativa o expresiva."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Comunicar una visión propia mediante el trazo y el gesto, experimentando con formas, signos y efectos visuales."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "(c7) En la competencia específica se experimenta con las técnicas, herramientas y soportes propios del dibujo",
+            "description": "(c7) En la competencia específica se experimenta con las técnicas, herramientas y soportes propios del dibujo, evaluando su impacto ambiental para reflexionar sobre la sostenibilidad y explorar nuevas posibilidades expresivas. A través de esta compet…",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Proponer distintas soluciones gráficas a una misma propuesta visual, usando diferentes niveles de iconicidad y justificando la elección."
+                },
+                {
+                    "code": "7.2",
+                    "description": "El alumnado selecciona herramientas y aplica claroscuro y color para producir una interpretación gráfica personal."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "(c8) En esta competencia específica se van a utilizar los conocimientos y",
+            "description": "(c8) En esta competencia específica se van a utilizar los conocimientos y destrezas adquiridos en la representación gráfica para desarrollar la retentiva y la memoria visual, y responder con creatividad a nuevos desafíos gráficos. A través de esta co…",
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Representar gráficamente un modelo seleccionando y abstrayendo sus rasgos más representativos tras su estudio y análisis."
+                },
+                {
+                    "code": "8.2",
+                    "description": "Aplicar encuadre, encaje y perspectiva al resolver problemas gráficos, analizando volúmenes y espacio."
+                }
+            ]
+        },
+        {
+            "code": "CE9",
+            "name": "(c9) Por último, en esta competencia específica se realizarán proyectos",
+            "description": "(c9) Por último, en esta competencia específica se realizarán proyectos gráficos colaborativos y con una finalidad definida, estableciendo una planificación adecuada del proceso para valorar el enriquecimiento que supone compartir propuestas, y afron…",
+            "criterios": [
+                {
+                    "code": "9.1",
+                    "description": "Diseñar proyectos gráficos colaborativos sencillos, identificando el ámbito disciplinar y organizando las tareas de forma adecuada."
+                },
+                {
+                    "code": "9.2",
+                    "description": "Elaborar en equipo un proyecto gráfico propio de un ámbito disciplinar, aplicando con intención los recursos expresivos del dibujo artístico."
+                }
+            ]
+        }
+    ]
+}

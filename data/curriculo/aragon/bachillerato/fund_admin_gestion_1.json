@@ -1,0 +1,301 @@
+{
+    "community": "aragon",
+    "stage": "bachillerato",
+    "decree": "Orden ECD\/1112\/2022, de 18 de julio",
+    "subject": "fund_admin_gestion",
+    "subject_name": "Fundamentos de Administración y Gestión",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Identificar los principales aspectos de la innovación, elemento necesario para",
+            "description": "Identificar los principales aspectos de la innovación, elemento necesario para garantizar el desarrollo sostenible de un país y la competitividad de sus empresas, destacando el papel fundamental que desempeña el proceso emprendedor en el complejo pro…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Identifica distintos tipos de innovación y la relaciona con la solución a necesidades humanas."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Reconoce diversas experiencias de innovación empresarial y social identificando la necesidad de viabilidad y responsabilidad social corporativa."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Analiza la información económica de algún sector de actividad empresarial utilizando herramientas de investigación."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Relaciona las actividades empresariales con el desarrollo local, la calidad de vida y la sostenibilidad."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Identifica y lleva a cabo el proceso de toma de decisiones en la generación de",
+            "description": "Identifica y lleva a cabo el proceso de toma de decisiones en la generación de ideas innovadoras con sentido crítico y ético, con estrategias de planificación para poner en marcha un proyecto empresarial. Identifica las áreas de la empresa, los objet…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Analiza las ventajas e inconvenientes de diferentes ideas, evaluando las repercusiones de su decisión."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Selecciona una idea de negocio, valorando y argumentando de forma técnica la elección."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Trabaja en equipo manteniendo una comunicación fluida, respetuosa y eficaz con sus compañeros o compañeras para el desarrollo del proyecto de empresa."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Establece los objetivos sociales y\/o empresariales a alcanzar con el proyecto, identificando los valores de la empresa y la responsabilidad social corporativa, teniendo en cuenta los Objetivos de Desarrollo Sostenibles."
+                },
+                {
+                    "code": "2.5",
+                    "description": "Identifica cada una de las áreas o departamentos funcionales de la empresa valorando su importancia e interacción como parte de un proyecto completo."
+                },
+                {
+                    "code": "2.6",
+                    "description": "Razona la elección de la forma jurídica."
+                },
+                {
+                    "code": "2.7",
+                    "description": "Razona la decisión de localización de la empresa."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Identifica los procedimientos legales antes los diferentes organismos públicos",
+            "description": "Identifica los procedimientos legales antes los diferentes organismos públicos para la puesta en marcha de una empresa.",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Identifica los organismos ante los que deben realizarse los trámites legales necesarios para la puesta en marcha del negocio."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Analiza la información prescriptiva en cada caso para realizar los trámites."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Comprende e identifica el procedimiento para realizar los trámites administrativos a realizar ante Seguridad Social, Agencia Tributaria, organismos laborales, Ayuntamientos, y Registro Mercantil."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Muestra autonomía en la búsqueda de información para realizar los trámites y adaptarse a los cambios en los protocolos administrativos."
+                },
+                {
+                    "code": "3.5",
+                    "description": "Reconoce los protocolos de seguridad en los trámites digitales con la administración."
+                },
+                {
+                    "code": "3.6",
+                    "description": "Valora la importancia de la gestión de los organismos públicos para la convivencia en sociedad y la necesidad de cumplir los plazos legales."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Identifica el proceso productivo en sus diferentes fases, con sus implicaciones técnicas y medioambientales",
+            "description": "Identifica el proceso productivo en sus diferentes fases, con sus implicaciones técnicas y medioambientales. Diseña el prototipo de producto y\/o la gestión del servicio. Identifica las necesidades de recursos para el proceso productivo, seleccionando…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Explica el proceso productivo de la idea de negocio de manera coherente, argumentando la viabilidad técnica del proyecto."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Analiza la viabilidad medioambiental del proyecto."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Diseña, de manera grupal, el prototipo del producto y\/o el manual de procedimiento de prestación del servicio que aporte soluciones a problemas reales."
+                },
+                {
+                    "code": "4.4",
+                    "description": "Establece las necesidades de aprovisionamiento de recursos."
+                },
+                {
+                    "code": "4.5",
+                    "description": "Reconoce las variables de selección de proveedores, razonando prioridades, atendiendo a criterios técnicos, financieros y éticos, en coherencia con los valores de responsabilidad social."
+                },
+                {
+                    "code": "4.6",
+                    "description": "Conoce y aplica técnicas y estrategias de búsqueda de información y de comunicación y negociación con proveedores, fomentando la cooperación, el comercio justo y el desarrollo local."
+                },
+                {
+                    "code": "4.7",
+                    "description": "Identifica los elementos administrativos de compra y pagos."
+                },
+                {
+                    "code": "4.8",
+                    "description": "Identifica los ingresos de una actividad y los gastos, distinguiendo costes fijos y variables, así como las inversiones y la cuantificación de las amortizaciones."
+                },
+                {
+                    "code": "4.9",
+                    "description": "Aplica métodos de cálculo apropiados para hallar el umbral de rentabilidad comprendiendo su importancia para la supervivencia de la empresa y la viabilidad económica de los proyectos."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Conoce y aplica métodos de investigación de mercados, analizando la información",
+            "description": "Conoce y aplica métodos de investigación de mercados, analizando la información obtenida y segmentando el mercado de acuerdo con objetivos prefijados. Planifica estrategias comerciales distinguiendo las variables del marketing-mix. El objetivo de la …",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Identifica el mercado objetivo al que dirige un producto o servicio, distinguiendo los segmentos atendiendo a criterios adecuados."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Reflexiona y aplica técnicas de investigación útiles para valorar las necesidades y preferencias de los clientes potenciales respecto a producto, precio, distribución y comunicación. Utiliza para ello de forma correcta, ética y segura herramientas de comunicación y análisis digitales, redes sociales, encuestas y hojas de cálculo."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Analiza el entorno específico a través del análisis del núcleo competitivo de Porter o de las cinco fuerzas competitivas de un sector."
+                },
+                {
+                    "code": "5.4",
+                    "description": "Realiza un análisis DAFO para concretar las estrategias comerciales."
+                },
+                {
+                    "code": "5.5",
+                    "description": "Realiza previsiones de ventas y las compara con los resultados obtenidos en el cálculo del umbral de rentabilidad."
+                },
+                {
+                    "code": "5.6",
+                    "description": "Analiza los métodos adecuados de fijación de precios."
+                },
+                {
+                    "code": "5.7",
+                    "description": "Desarrolla una imagen de empresa que comprende el nombre y\/o marca comercial, logotipo y eslóganes publicitarios, respetando en todo momento el uso correcto de la propiedad privada de imágenes y nombres comerciales."
+                },
+                {
+                    "code": "5.8",
+                    "description": "Diseña una comunicación comercial con su mercado objetivo, utilizando internet, creación de páginas web y redes sociales."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Interpreta la estructura organizativa de una empresa identificando la",
+            "description": "Interpreta la estructura organizativa de una empresa identificando la planificación de los recursos humanos y comprendiendo la documentación de contratación en su contexto normativo. El objetivo es que se adquiera una visión clara de las relaciones l…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Evalúa las necesidades de la empresa y describe los puestos de trabajo."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Representa en un organigrama la estructura de una empresa."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Identifica formas de selección del personal de una empresa."
+                },
+                {
+                    "code": "6.4",
+                    "description": "Diferencia formas de contratación de acuerdo a la normativa laboral."
+                },
+                {
+                    "code": "6.5",
+                    "description": "Reconoce las obligaciones de la empresa ante la Seguridad Social."
+                },
+                {
+                    "code": "6.6",
+                    "description": "Identifica los conceptos de documentos de retribución del personal."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Reconoce el método contable como mecanismo de trasladar los hechos en las",
+            "description": "Reconoce el método contable como mecanismo de trasladar los hechos en las relaciones económicas a datos que reflejan la situación patrimonial, económica y financiera de una empresa a través de sus cuentas anuales. Relaciona la situación de una empres…",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Identifica el concepto del patrimonio y distingue los elementos patrimoniales, bienes, derechos y obligaciones de situaciones prácticas."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Interpreta la información de un Balance de Situación y su evolución a lo largo de un ciclo contable."
+                },
+                {
+                    "code": "7.3",
+                    "description": "Realiza una Cuenta de Resultados con información real o previsional y determina el resultado obtenido."
+                },
+                {
+                    "code": "7.4",
+                    "description": "Comprende y reproduce la metodología contable para operaciones sencillas y habituales en las actividades económicas como compras, ventas, cobros, pagos, obtención del resultado o cierre contable."
+                },
+                {
+                    "code": "7.5",
+                    "description": "Interpreta los principios de contabilidad del Plan General de Contabilidad."
+                },
+                {
+                    "code": "7.6",
+                    "description": "Analiza las obligaciones contables y fiscales y los procedimientos para cumplir con ellas, en líneas generales."
+                },
+                {
+                    "code": "7.7",
+                    "description": "Reconoce las aplicaciones informáticas de contabilidad."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Analiza y comprueba la viabilidad de la empresa adquiriendo hábitos de búsqueda",
+            "description": "Analiza y comprueba la viabilidad de la empresa adquiriendo hábitos de búsqueda de la mejora continua en la toma de decisiones. Identifica las necesidades financieras y las opciones de acceso a fuentes de financiación. El análisis de la viabilidad co…",
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Identifica las inversiones que requiere la empresa para la puesta en marcha de la actividad y su funcionamiento identificando las necesidades de financiación."
+                },
+                {
+                    "code": "8.2",
+                    "description": "Analiza las opciones de financiación aplicables a situaciones concretas, valorando el coste, ayudas o subvenciones y las obligaciones que suponen."
+                },
+                {
+                    "code": "8.3",
+                    "description": "Reconoce la utilidad de los estados previsionales de tesorería aplicando métodos de diseño de cálculos con herramientas digitales y reconoce la importancia de tomar decisiones que eviten situaciones de riesgo inasumibles."
+                },
+                {
+                    "code": "8.4",
+                    "description": "Sintetiza conclusiones obtenidas del análisis de la viabilidad conjunta de la empresa en sus dimensiones técnica, medioambiental, jurídica, comercial, económica y financiera, reconsiderando las decisiones tomadas y adaptándose a la solución de problemas."
+                }
+            ]
+        },
+        {
+            "code": "CE9",
+            "name": "Expone su proyecto de emprendimiento siguiendo el Plan de Empresa elaborado,",
+            "description": "Expone su proyecto de emprendimiento siguiendo el Plan de Empresa elaborado, con una comunicación oral y escrita eficaz, utilizando medios audiovisuales, adaptándose a contextos de audiencia diversa vinculada con el entorno específico del propio proy…",
+            "criterios": [
+                {
+                    "code": "9.1",
+                    "description": "Es capaz de identificar las características de la audiencia y adaptar sus explicaciones para ser entendido."
+                },
+                {
+                    "code": "9.2",
+                    "description": "Utiliza habilidades de comunicación eficaz, que captan la atención y transmiten los contenidos del Plan de Empresa de manera clara, concisa y amena."
+                },
+                {
+                    "code": "9.3",
+                    "description": "Elabora presentaciones y\/o recursos audiovisuales para transmitir la idea de negocio y su viabilidad en todas sus dimensiones."
+                },
+                {
+                    "code": "9.4",
+                    "description": "Utiliza herramientas digitales y de difusión de la información de manera responsable y efectiva."
+                },
+                {
+                    "code": "9.5",
+                    "description": "Reflexiona sobre el impacto generado por su comunicación en la audiencia, interpretando las críticas y planteando soluciones a sus errores de proyecto y de comunicación."
+                },
+                {
+                    "code": "9.6",
+                    "description": "Valora la adecuación de los proyectos de todo el grupo clase a un entorno local con perspectiva global, teniendo en cuenta el impacto positivo y negativo que podría generar."
+                }
+            ]
+        }
+    ]
+}

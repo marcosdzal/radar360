@@ -1,0 +1,138 @@
+{
+    "community": "baleares",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "geografia_e_historia_alt",
+    "subject_name": "Història del Món Contemporani",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Reconeixer els moviments, accions i transformacions historiques que han",
+            "description": "reconeixer els moviments, accions i transformacions historiques que han contribuit al fiançament de la llibertat en el món contemporani, a través de l'estudi comparat de casos i l'ús correcte de termes i conceptes històrics, per valorar els assolimen…",
+            "criterios": [
+                {
+                    "code": "CA1.1",
+                    "description": "Identificar i reconèixer els assoliments que suposen els actuals sistemes democràtics com el resultat no lineal en el temps dels moviments i accions que han contribuït al fiançament i a l'articulació del principi de llibertat, a través de l'anàlisi dels principals processos històrics que s'han desenvolupat, la comprensió dels textos polítics i constitucionals fonamentals i l'ús adequat de termes i conceptes històrics. Identificar i comprendre els principals moviments ideològics, polítics i socials que s'han desenvolupat i els processos de transformació als quals han donat lloc. Emprar les tècniques i els mètodes de la investigació en història per cercar informació sobre el passat i el present i avaluar el grau d'interès i veracitat. Analitzar estructuralment textos, mapes i gràfics de caràcter històric, comprenent i interpretant críticament les circumstàncies i factors a què es refereixen, com també el context en el qual es produeixen."
+                },
+                {
+                    "code": "CA1.2",
+                    "description": "Comprendre els conceptes de revolució i canvi en el món contemporani i els elements i factors que els causen i condicionen, a través de l'estudi de casos significatius de les revolucions burgeses i socialistes que han ocorregut al llarg de la història contemporània, com també dels moviments d'acció i reacció que han generat. Entendre i analitzar el temps històric amb l'adopció d'una perspectiva no estrictament lineal, identificant els avenços i retrocessos en funció de les reaccions davant les noves realitats, per exemple amb la instauració dels règims liberals. Identificar continuïtats i canvis en la transició d'un període històric a un altre."
+                },
+                {
+                    "code": "CA1.3",
+                    "description": "Entendre el significat històric de les transicions polítiques i dels processos de democratització de l'Edat Contemporània com a fonament i garantia per a la convivència i l'exercici dels drets fonamentals, valorant les implicacions que suposen l'exercici de la ciutadania activa i el respecte a l'ordenament constitucional i generant judicis propis tant respecte al compliment d'aspiracions i expectatives com a les amenaces i riscs de la vida en democràcia. Acceptar la diversitat d'interpretacions historiogràfiques i reconèixer la provisionalitat i perfectibilitat dels fets històrics. Comprendre el funcionament de les democràcies consolidades, per percebre els riscs i les amenaces, com també la necessitat de formar part d'una ciutadania activa."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Prendre consciencia del grau de violencia, barbarie i destruccio dels",
+            "description": "prendre consciencia del grau de violencia, barbarie i destruccio dels conflictes de l'edat Contemporània, a través de l'ús de fonts històriques fiables, la lectura de textos historiogràfics i l'elaboració d'arguments propis que previnguin la manipula…",
+            "criterios": [
+                {
+                    "code": "CA2.1",
+                    "description": "Prendre consciència del grau de violència, barbàrie i destrucció aconseguit pels conflictes ocorreguts en el món contemporani, com també de les causes de les conflagracions bèl·liques i de les múltiples transformacions que es produeixen en els contendents, a través de l'ús de fonts històriques fiables i de l'ús de dades contrastades, valorant l'impacte social i emocional que suposa l'ús de la violència i el paper de les institucions internacionals que vetllen per la pau i la mediació. Conèixer l'abast de la destrucció, el nombre de víctimes i el grau de desolació generats com a conseqüència dels múltiples enfrontaments armats, especialment de les dues guerres mundials. Identificar els factors de crisi que han fet possible en algun moment la seva substitució per règims dictatorials, com també els que han propiciat els processos de restabliment o instauració democràtics. Reconèixer la importància històrica de les organitzacions i institucions internacionals i nacionals que tracten d'evitar les guerres, impedir la violació dels drets humans i promoure la cooperació internacional."
+                },
+                {
+                    "code": "CA2.2",
+                    "description": "Analitzar els principals conflictes civils que s'han produït en l'Edat Contemporània, a través de l'ús de textos historiogràfics i l'elaboració de judicis argumentats, comprenent la importància de la memòria històrica i del reconeixement de les víctimes, del principi de Justícia Universal i del dret a la veritat, la reparació i la garantia de no repetició. Construir relats o síntesis descriptius i\/o explicatius sobre els fets i processos històrics més rellevants de la història del món contemporani. Generar actituds conciliadores mitjançant el desenvolupament de polítiques de la memòria que serveixin de referència col·lectiva sobre qüestions del passat que mai s'han de tornar a repetir, per exemple l'experiència de l'Holocaust i d'altres genocidis i crims contra la humanitat."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Identificar la desigualtat com un dels principals problemes de les societats",
+            "description": "identificar la desigualtat com un dels principals problemes de les societats contemporànies, reconeixent les experiències històriques de determinats col·lectius, emprant l'anàlisi multicausal i valorant el paper transformador del subjecte en la histò…",
+            "criterios": [
+                {
+                    "code": "CA3.1",
+                    "description": "Descriure l'evolució dels conceptes d'igualtat i de ciutadania en la història contemporània i les seves derivacions socials i polítiques, a través de l'anàlisi multicausal dels principals sistemes polítics i socials dels segles XIX i XX, identificant les desigualtats i la concentració del poder en determinats grups socials. Identificar i relacionar les múltiples variables i els factors que han determinat els canvis pel que fa als drets civils i socials, com també les seves derivacions polítiques, principalment en relació amb la participació ciutadana. Analitzar els principis que inspiren l'organització i institucions dels sistemes parlamentaris i dictatorials, com també els factors que han influït en el seu desenvolupament progressiu. Comparar i valorar les diferències que s'estableixen entre els sistemes democràtics i dictatorials en allò relatiu als drets i llibertats, en la pràctica política i en les relacions socials distingint les desigualtats i la concentració de poder."
+                },
+                {
+                    "code": "CA3.2",
+                    "description": "Analitzar les condicions de vida, el món del treball i les relacions laborals i la seva conflictivitat, a través de l'estudi multidisciplinari dels moviments socials, particularment els relacionats amb l'obrerisme, valorant el paper que representen l'acció col·lectiva i del subjecte en la història per al reconeixement dels drets socials i el benestar col·lectiu. Investigar el món del treball i les transformacions que s'han produït en l'àmbit de la producció, en les condicions de vida dels treballadors i en les relacions laborals, Relacionar els constants moviments migratoris i fenòmens socials i geogràfics com l'abandonament del medi rural, les aglomeracions urbanes i els conseqüents desequilibris territorials. Reconèixer el procés de proletarització de la classe treballadora i l'eclosió de les organitzacions obreres com una de les referències per mesurar les fites socials assolides i el paper que hi ha representat l'acció col·lectiva."
+                },
+                {
+                    "code": "CA3.3",
+                    "description": "Deduir a través de l'estudi crític de notícies i dades estadístiques l'evolució de l'estat social, identificant els assoliments i reculades experimentades i les mesures adoptades pels diferents estats contemporanis, com també els límits i reptes de futur, des d'una perspectiva solidària en favor dels col·lectius més vulnerables. Comprendre la complexitat de les societats contemporanis i els seus canvis, com també la necessitat d'una ciutadania capaç d'adaptar-se a les tecnologies. Fomentar un ferm compromís cívic assolint la cohesió social, la solidaritat i el respecte a la diversitat i el dret de les minories."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Comprendre la importancia de les identitats col·lectives en la configuracio",
+            "description": "comprendre la importancia de les identitats col·lectives en la configuracio social, politica i cultural del món contemporani, utilitzant el pensament històric, els seus conceptes i mètodes, per analitzar críticament com s'han construït i conformat a …",
+            "criterios": [
+                {
+                    "code": "CA4.1",
+                    "description": "Analitzar críticament com s'han anat construint en el temps les identitats col·lectives, emprant els conceptes i mètodes del pensament històric, respectant la pluralitat i els sentiments identitaris i valorant el seu llegat històric i cultural. Analitzar la construcció històrica de nous marcs de referència en relació amb conceptes tan substancials com els d'imperi, estat o nació. Distingir les ideologies, ritus i símbols que els confereixen entitat política i cultural, resulten accions necessàries per entendre la seva capacitat d'identificació, d'enquadrament social i mobilització. Reconèixer la riquesa de la diversitat cultural i del patrimoni relacionat amb les diferents identitats nacionals, culturals i socials, com també la defensa de la pluralitat enfront de tota tendència a uniformitzar o a imposar qualsevol identitat sobre una altra. Entendre la identitat pròpia com a part d'un procés històric i de les diferents realitats econòmiques i socials del nostre territori."
+                },
+                {
+                    "code": "CA4.2",
+                    "description": "Comprendre la importància de les identitats col·lectives en la configuració social, política i cultural del món contemporani, identificant les seves múltiples valències, mitjançant l'anàlisi crítica de textos històrics i historiogràfics i de fonts d'informació actual, elaborant arguments propis que contribueixin a un diàleg constructiu sobre aquest tema. Elaborar arguments propis a partir del pensament històric i de la historiografia més rellevant sobre la qüestió nacional i les identitats socials. Analitzar les experiències històriques i les cultures polítiques associades a aquestes, reflexionant sobre el paper del subjecte col·lectiu en la història, la seva capacitat d'acció i de transformació, Identificar l'articulació de les identitats col·lectives en moviments polítics i socials i les diferents formes d' organització que aquestes han adoptat."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Identificar i reconeixer els principals reptes del segle xxi a traves de",
+            "description": "identificar i reconeixer els principals reptes del segle xxi a traves de processos avancats de cerca, selecció i tractament de la informació, el contrast i la lectura crítica de fonts, per entendre el fenomen històric de la globalització, la seva rep…",
+            "criterios": [
+                {
+                    "code": "CA5.1",
+                    "description": "Analitzar críticament el fenomen històric de la globalització i la seva repercussió en l'àmbit local i planetari, valent-se del maneig de diferents fonts d'informació i de l'adequada selecció, validació, contrast i tractament d'aquestes, prevenint la desinformació i considerant l'emprenedoria, la innovació i l'aprenentatge permanent com a maneres d'afrontar els reptes d'un entorn econòmic, social i cultural en constant canvi. Descriure l'origen i trets dels models d'organització econòmica i social proposats i aplicats al llarg de l'època contemporània. Conèixer els principals elements i dimensions del fenomen de la globalització. Identificar i analitzar el grau d'interdependència que ha generat la nova situació econòmica i com aquesta afecta l'entorn local i la vida quotidiana. Propiciar el domini avançat de processos associats a la informació, especialment en entorns digitals, que permetin la discriminació de continguts falsos o irrellevants."
+                },
+                {
+                    "code": "CA5.2",
+                    "description": "Identificar els principals reptes del segle interconnexió entre diversos processos polítics, econòmics, socials i culturals en un context global, argumentant la necessitat d'adoptar comportaments ecosocialment responsables i orientats a la sostenibilitat del planeta, la defensa de les institucions democràtiques, la millora del benestar col·lectiu i la solidaritat entre les generacions presents i futures. Analitzar les aliances i blocs, com també de les diferents estratègies d'amenaça i de dissuasió que s'han perllongat fins a la present realitat geopolítica. Valorar les repercussions socials, polítiques, culturals i mediambientals dels diferents sistemes d'organització política implantats a partir de la Segona Guerra Mundial. Adoptar actituds i comportaments eco socialment responsables, orientats a la sostenibilitat del planeta, la defensa de les institucions democràtiques, la millora del benestar col·lectiu i la solidaritat entre les generacions presents i futures."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Valorar el significat historic de la idea de progres i les seves repercussions",
+            "description": "valorar el significat historic de la idea de progres i les seves repercussions socials, ambientals i territorials en el món contemporani, a través de l'ús de mètodes quantitatius i de l'anàlisi multifactorial del desenvolupament econòmic, els ritmes …",
+            "criterios": [
+                {
+                    "code": "CA6.1",
+                    "description": "Valorar el significat històric de la idea de progrés i les seves múltiples conseqüències socials, territorials i ambientals, a través del tractament de dades numèriques, la interpretació de gràfics i la comprensió multifactorial dels ritmes i cicles de creixement, argumentant la necessitat d'adoptar comportaments ecosocials que garanteixin la sostenibilitat del planeta. Analitzar la idea de progrés a partir del tractament de dades numèriques i la representació gràfica d'aquestes. Descriure els ritmes i cicles de creixement, els diferents models de desenvolupament i de quina manera es varen resoldre les crisis. Interpretar els diferents sistemes econòmics que han tingut lloc, especialment l'origen i evolució del capitalisme i els diferents factors que han determinat els seus avenços i períodes de crisi. Comparar les transformacions socials, ambientals i territorials que han generat els diferents sistemes econòmics sorgits al segle Promoure una actitud compromesa amb comportaments responsables que afavoreixin un model de desenvolupament en el qual resultin compatibles les expectatives de creixement i la sostenibilitat del planeta."
+                },
+                {
+                    "code": "CA6.2",
+                    "description": "Comparar els diferents sistemes econòmics que s'han desenvolupat en el món contemporani, a través de l'anàlisi multidisciplinària i de les doctrines i teories de què deriven, identificant les relacions de subordinació i de dependència i els conflictes que generen, tant en l'àmbit nacional com internacional i justificant la necessitat de l'accés universal als recursos bàsics. Reconèixer les noves teories polítiques i econòmiques sorgides com a conseqüència de les situacions crisis al món. Identificar els desequilibris que s'han produït a partir de la implementació del sistemes econòmics. Analitzar les seves conseqüències des de la perspectiva de les condicions de vida, la dignitat humana, l'accés universal a recursos essencials i els problemes eco socials."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Interpretar la funcio que han exercit el pensament i les ideologies en la",
+            "description": "interpretar la funcio que han exercit el pensament i les ideologies en la transformacio de la realitat des dels orígens de l'Edat Contemporània fins a l'actualitat, a través de l'aproximació a la historiografia i als debats sobre temes clau de la his…",
+            "criterios": [
+                {
+                    "code": "CA7.1",
+                    "description": "Generar opinions argumentades, debatre i transferir idees i coneixements sobre la funció que han exercit el pensament i les ideologies en la transformació de la realitat, des dels orígens de l'Edat Contemporània fins a l'actualitat, comprenent i contextualitzant aquest fenomen a través del treball sobre textos històrics i historiogràfics i de fonts literàries, del cinema i altres documents audiovisuals. Conèixer el paper que les ideologies han representat en la interpretació de la realitat, en la gestació de nous models de societat i en l'articulació de projectes polítics. Identificar i definir els principals corrents culturals i artístics de l'època contemporània. Relacionar les formes d'expressió culturals dels dos darrers segles amb els principals corrents artístics culturals. Interpretar les diferents experiències històriques a les quals, des de la Il·lustració als nostres dies, han donat lloc aquestes idees, utopies i imaginaris. Reconèixer els principals debats historiogràfics, encara vigents, al voltant dels moviments socials, els processos revolucionaris, les cultures polítiques del liberalisme i la democràcia, la formació històrica de la classe treballadora, el socialisme, els feixismes."
+                },
+                {
+                    "code": "CA7.2",
+                    "description": "Abordar críticament els principals temes clau de la història i de l'actualitat a través de l'aproximació als principals corrents historiogràfics i als usos que es fan de la història, valorant críticament els principals projectes socials, polítics i culturals que han tingut lloc en la història contemporània des de la perspectiva ètica continguda en la Declaració Universal dels Drets Humans. Plantejar la crítica des de la perspectiva dels principis ètics continguts en els acords de l'Organització de les Nacions Unides i en els ideals humanitaris que aquesta defensa. Manifestar interès amb la millora de la realitat local i global, a través de la participació ciutadana, la defensa dels valors democràtics i l'aposta per una societat més justa i solidària. Valorar la importància del patrimoni cultural i artístic com a part de una herència documental que cal conèixer i preservar."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Descriure i analitzar els canvis i permanencies que s'han produit en la",
+            "description": "descriure i analitzar els canvis i permanencies que s'han produit en la societat contemporània, els comportaments demogràfics, les maneres de vida i el cicle vital, prestant especial interès a la situació de la dona, als rols de gènere i d'edat, als …",
+            "criterios": [
+                {
+                    "code": "CA8.1",
+                    "description": "Analitzar els canvis i les permanències en la història, atenent processos de més llarga durada, com els comportaments demogràfics, cicles vitals i maneres de vida en la societat contemporània, a través de l'acostament al pensament històric i la realització de projectes de recerca, identificant els mecanismes de control, domini i submissió, els rols de gènere i edat assignats, com també els escenaris de lluita per la dignitat i contra la discriminació de diversos col·lectius. Descriure diacrònica i sincrònicament les causes i conseqüències dels fets històrics més rellevants corresponents als segles Aplica tècniques de treball, d'investigació i de comunicació pròpies de la metodologia dels historiadors, a partir de fonts diverses i contrastades. Valorar la diversitat social contemporània mitjançant treballs sobre la població, els modes de vida i l' activitat quotidiana per entendre els comportaments socials i les relacions de gènere i intergeneracionals. Promoure una manera d'entendre la història com un procés obert i en construcció, capaç de connectar els grans esdeveniments amb l'entorn més proper, on els personatges anònims cobren importància, valorant la memòria com a document."
+                },
+                {
+                    "code": "CA8.2",
+                    "description": "Contrastar el paper relegat de la dona en la història contemporània, identificant i valorant la importància de les figures individuals i col·lectives com a protagonistes anònimes de la història contemporània, com també el paper dels moviments feministes en el reconeixement dels seus drets i en l'assoliment de la igualtat efectiva de dones i homes, com també la corresponsabilitat en la cura de les persones. Emprar la perspectiva de gènere en l'estudi de la història contemporània amb l'objectiu de reconèixer i analitzar les desigualtats entre homes i dones. Analitzar els mecanismes de control, subordinació, domini i submissió que ha patit de manera intensa i continuada la dona, relegada al silenci i l'oblit. Reconèixer les accions en favor de l'emancipació i del desenvolupament dels moviments feministes. Actuar de manera clara contra qualsevol tipus de discriminació per motius de gènere."
+                }
+            ]
+        }
+    ]
+}

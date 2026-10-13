@@ -1,0 +1,129 @@
+{
+    "community": "castilla-y-leon",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "analisis_musical_2",
+    "subject_name": "Análisis Musical II",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "1.1 Describir las características musicales de una obra a partir de la escucha",
+            "description": "1.1 Describir las características musicales de una obra a partir de la escucha activa y el estudio de partituras, analizando sus elementos constitutivos y la función que estos cumplen dentro de la composición. (CCL1, CCL2, CP3, STEM2, CCEC1, CCEC3.1)…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Describir las características musicales de una obra tras escucharla activamente y analizar la partitura."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Comparar obras musicales identificando analogías y diferencias a partir de la escucha y la partitura."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Identificar auditivamente los principales procedimientos generadores de la forma, determinando los procesos utilizados por el compositor de la obra. (STEM2, CPSAA5, CCEC1, CCEC2)"
+                },
+                {
+                    "code": "1.4",
+                    "description": "Reconocer la forma de una obra o fragmento escuchado, explicando sus características y contextualizándola en su periodo histórico y artístico, utilizando un lenguaje concreto y adecuado. ("
+                },
+                {
+                    "code": "1.5",
+                    "description": "Distinguir el timbre de los diferentes instrumentos y voces, describiendo los diversos planos sonoros a través de una terminología adecuada. (CCL1, STEM2, CCEC1)"
+                },
+                {
+                    "code": "1.6",
+                    "description": "Percibir los procedimientos de tensión\/distensión, cadencias y puntos culminantes de una obra utilizados por el compositor, identificándolos en la partitura. (STEM2, CCEC2)"
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "2.1 Distinguir los principales géneros y estilos musicales que se desarrollan",
+            "description": "2.1 Distinguir los principales géneros y estilos musicales que se desarrollan en la historia, analizando los factores que inciden en la evolución de las formas musicales. (CCL1, CCL2, CC1, CCEC1, CCEC2) 2.2 Asociar las obras analizadas con un género,…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Identificar géneros y estilos musicales históricos analizando los factores que influyen en la evolución de las formas musicales."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Asociar las obras analizadas con género, estilo y contexto identificando estructura formal y procedimientos compositivos."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Realizar la crítica de un concierto o de una audición, complementando lo escuchado y lo trabajado en clase con aportaciones personales y documentación buscada por el alumnado. ("
+                },
+                {
+                    "code": "2.4",
+                    "description": "Reconocer las influencias entre diferentes géneros y estilos, valorando las relaciones existentes entre ellos. (CCL1, CCL2, CPSAA4, CC1, CCEC1, CCEC2)"
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "3.1 Expresar juicios personales sobre las obras analizadas, argumentando la",
+            "description": "3.1 Expresar juicios personales sobre las obras analizadas, argumentando la opinión propia y utilizando una terminología musical adecuada. (CCL1, CCCL2, CPSAA4, CE3, CCEC3.1) 3.2 Justificar la opinión propia sobre las obras analizadas, investigando y…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Justificar una opinión personal sobre una obra musical usando terminología técnica."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Justificar la opinión personal sobre obras musicales, investigando y seleccionando información relevante de diversas fuentes."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Publicar críticas musicales propias en medios analógicos y digitales respetando derechos de autor."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Usar diferentes métodos y técnicas aplicados al análisis musical y con la ayuda de herramientas tecnológicas, demostrando autonomía para contribuir en la difusión, divulgación y apreciación del patrimonio musical. (CCL1, CCCL2, CCCL3, CD2, CD3, CPSAA4, CCEC4.2)"
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "4.1 Realizar improvisaciones sencillas o pequeñas composiciones, en proyectos",
+            "description": "4.1 Realizar improvisaciones sencillas o pequeñas composiciones, en proyectos musicales grupales, utilizando los procedimientos compositivos fundamentales y aplicando patrones melódicos, rítmicos, armónicos y formales previamente analizados e interio…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Crea improvisaciones o composiciones breves en grupo, aplicando patrones melódicos, rítmicos, armónicos y formales analizados previamente."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Emplear herramientas digitales (secuenciadores, editores de partituras) para componer una obra musical breve, demostrando eficacia técnica y musical."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Mantener unos correctos hábitos de escucha, de audición y de interpretación musical, respetando el valor del silencio, favoreciendo la escucha activa. (CPSAA3.1, CCEC3.1, CCEC3.2)"
+                },
+                {
+                    "code": "4.4",
+                    "description": "Interpretar obras musicales, atendiendo a los parámetros propios de la expresión musical, fomentando los buenos hábitos de la escucha. (STEM1, CPSAA3.1, CPSAA3.2, CE3, CCEC3.1, CCEC3.2)"
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "5.1 Analizar los usos terapéuticos de la música y cómo inciden determinados",
+            "description": "5.1 Analizar los usos terapéuticos de la música y cómo inciden determinados rasgos musicales en la salud y las emociones, a partir de la información obtenida en fuentes de información fiables. (CCL1, CCL2, CCL3, STEM1, STEM4, CD1, CPSAA4, CCEC2) 5.2 …",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Analizar usos terapéuticos de la música y rasgos musicales que influyen en salud y emociones usando fuentes fiables."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Explica cómo las características musicales de obras terapéuticas se relacionan con efectos en el oyente, analizando ejemplos."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Describir las emociones y sentimientos producidos por la música a través del análisis de diversas manifestaciones artísticas en diferentes soportes. (CCL1, CCL3, STEM1, STEM4, CD3, CCEC2)"
+                }
+            ]
+        }
+    ]
+}

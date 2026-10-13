@@ -1,0 +1,119 @@
+{
+    "community": "canarias",
+    "stage": "eso",
+    "decree": "Decreto 30\/2023, de 16 de marzo",
+    "subject": "tecnologia_y_digitalizacion",
+    "subject_name": "Tecnología y Digitalización",
+    "grade": 3,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "(c1) La competencia específica 1 afronta la necesidad de definir la situación o",
+            "description": "(c1) La competencia específica 1 afronta la necesidad de definir la situación o problema al que se pretende dar solución con un proyecto técnico, para lo que el alumnado deberá desarrollar y adquirir las estrategias necesarias para identificar los pr…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Define un problema tecnológico tras buscar y contrastar información de varias fuentes, evaluando críticamente su fiabilidad y pertinencia."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Analizar productos tecnológicos habituales empleando el método científico y herramientas de simulación."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Aplicar medidas preventivas para proteger dispositivos, datos y salud personal, analizando riesgos tecnológicos de forma ética y crítica."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "(c2) La creatividad y el emprendimiento son dos habilidades fundamentales para el abordaje de todo proyecto técnico",
+            "description": "(c2) La creatividad y el emprendimiento son dos habilidades fundamentales para el abordaje de todo proyecto técnico. A través del desarrollo de la competencia específica 2, el alumnado pondrá en práctica las habilidades mencionadas para encontrar sol…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Diseñar soluciones tecnológicas creativas y sostenibles para problemas definidos"
+                },
+                {
+                    "code": "2.2",
+                    "description": "Planificar y organizar materiales, herramientas y tareas para construir una solución a un problema tecnológico, en grupo o individualmente."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "(c3) La competencia específica 3 hace referencia a dos factores clave a la hora",
+            "description": "(c3) La competencia específica 3 hace referencia a dos factores clave a la hora de materializar los diseños planificados: por un lado, al conocimiento de las técnicas necesarias para afrontar la fabricación manual o mecánica en las que han de tenerse…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Fabricar objetos o modelos con materiales y herramientas, aplicando fundamentos de estructuras, mecanismos, electricidad y electrónica, y respetando normas de seguridad."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "(c4) La competencia específica 4 completa los desempeños que el alumnado debe",
+            "description": "(c4) La competencia específica 4 completa los desempeños que el alumnado debe adquirir en relación con el trabajo por proyectos, por lo que contempla los elementos asociados a la comunicación y la expresión de ideas y soluciones a los problemas que s…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Elaborar documentación técnica y gráfica colaborativa con herramientas digitales para comunicar el proceso de creación de un producto."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "(c5) La competencia específica 5 incide en la utilización de las estrategias de",
+            "description": "(c5) La competencia específica 5 incide en la utilización de las estrategias de pensamiento computacional en la resolución de problemas. De este modo, el alumnado aprende a descomponer un problema, a encontrar patrones que faciliten la estructuración…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Describir, interpretar y diseñar algoritmos y diagramas de flujo para resolver problemas informáticos con creatividad."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Crear aplicaciones sencillas usando programación, editores y módulos de IA para resolver problemas."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Automatizar procesos con robots conectados a internet mediante análisis, construcción y programación."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "(c6) En una sociedad digitalizada, se hace necesario que el alumnado sea capaz",
+            "description": "(c6) En una sociedad digitalizada, se hace necesario que el alumnado sea capaz de comprender el entorno digital de trabajo y adquiera estrategias para realizar un uso adecuado del mismo.",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Resolver problemas técnicos sencillos usando dispositivos digitales de manera eficiente y segura, analizando componentes y aplicando medidas de protección."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Crear, elaborar y difundir contenidos digitales configurando herramientas para un uso eficiente y seguro."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Organizar información de manera estructurada y aplicar técnicas de almacenamiento seguro para proteger los datos."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "(c7) El avance de la tecnología y su inclusión en la sociedad hacen preciso que",
+            "description": "(c7) El avance de la tecnología y su inclusión en la sociedad hacen preciso que se adquieran las habilidades y estrategias necesarias para hacer un uso responsable de ella. Es por ello que la",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Valorar la influencia de la tecnología en la sociedad y el medio ambiente, identificando aportaciones y repercusiones para el desarrollo sostenible."
+                },
+                {
+                    "code": "7.2",
+                    "description": "El alumno identifica y valora las aportaciones de tecnologías emergentes al bienestar, igualdad social y reducción del impacto ambiental, actuando con responsabilidad y ética."
+                }
+            ]
+        }
+    ]
+}

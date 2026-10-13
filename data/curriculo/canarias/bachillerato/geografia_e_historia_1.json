@@ -1,0 +1,174 @@
+{
+    "community": "canarias",
+    "stage": "bachillerato",
+    "decree": "Decreto 73\/2023, de 13 de abril",
+    "subject": "geografia_e_historia",
+    "subject_name": "Historia del Mundo Contemporáneo",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "(c1) Esta competencia específica aborda el concepto de libertad en el mundo contemporáneo",
+            "description": "(c1) Esta competencia específica aborda el concepto de libertad en el mundo contemporáneo. Se hace a través del reconocimiento de los movimientos, acciones y transformaciones históricas que han ocurrido a lo largo de este período histórico, que trans…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar cómo los sistemas democráticos actuales son resultado no lineal de procesos históricos."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Analizar conceptos de revolución y cambio mediante estudio comparado de revoluciones burguesas y socialistas."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Analizar transiciones políticas y democratización para valorar su papel en la convivencia y derechos fundamentales."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Identificar y entender los procesos democráticos y las etapas de transición como elementos de garantía básicos para la convivencia y los derechos fundamentales."
+                },
+                {
+                    "code": "1.5",
+                    "description": "Valorar la ciudadanía activa, el respeto a las normas constitucionales y la reflexión crítica sobre sus aspiraciones y expectativas, frente a las amenazas y riesgos a los que se enfrenta la democracia."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "(c2) La competencia específica trata de los diferentes conflictos armados que",
+            "description": "(c2) La competencia específica trata de los diferentes conflictos armados que han sucedido a lo largo de la Edad Contemporánea. El estudio de los múltiples acontecimientos (guerras mundiales, conflictos internacionales, genocidios, etc.) supone para …",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Analizar la violencia en conflictos contemporáneos usando fuentes fiables y argumentar sobre el papel de las instituciones de paz."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Analiza conflictos civiles contemporáneos mediante textos historiográficos y elabora juicios argumentados sobre memoria histórica y justicia universal."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Identificar los conflictos bélicos más significativos desde finales del siglo XVIII hasta la actualidad, conociendo sus efectos en Canarias, usando textos historiográficos y elaborando productos fundamentados, con el fin de valorar la memoria histórica, con el reconocimiento y la garantía de justicia para las víctimas civiles."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "(c3) La competencia específica se centra en el concepto de igualdad, que se",
+            "description": "(c3) La competencia específica se centra en el concepto de igualdad, que se establece a partir de la implantación de los regímenes liberales. A través del análisis de fuentes variadas, el alumnado se adentra en el estudio de las diferentes experienci…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Analizar los principales sistemas políticos y sociales de los siglos XIX y XX para identificar los conceptos de igualdad y ciudadanía, su evolución y el reflejo en la sociedad y la política de estos siglos."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Analizar condiciones laborales y conflictividad mediante movimientos obreros, valorando la acción colectiva y el sujeto histórico."
+                },
+                {
+                    "code": "3.3",
+                    "description": "Analizar la evolución del estado social mediante el estudio crítico de noticias y datos estadísticos."
+                },
+                {
+                    "code": "3.4",
+                    "description": "Valorar las condiciones de vida de la clase trabajadora en la era contemporánea, sus relaciones laborales y sus confrontaciones."
+                },
+                {
+                    "code": "3.5",
+                    "description": "Estudiar el estado social y su evolución mediante el análisis de noticias y datos -incluyendo fuentes de información canarias-, identificando logros y retrocesos y las medidas tomadas por los diferentes países, reflexionando sobre su estado actual, teniendo en cuenta a las personas y colectivos más vulnerables."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "(c4) La competencia específica hace referencia a la ruptura en los ámbitos",
+            "description": "(c4) La competencia específica hace referencia a la ruptura en los ámbitos social, político y cultural entre la contemporaneidad y el denominado Antiguo Régimen. También supone el conocimiento, por parte del alumnado, de la construcción histórica de …",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Analizar críticamente la construcción histórica de identidades colectivas, respetando la pluralidad y valorando el legado cultural."
+                },
+                {
+                    "code": "4.2",
+                    "description": "El alumnado elabora argumentos propios sobre la construcción de identidades colectivas mediante el análisis crítico de fuentes."
+                },
+                {
+                    "code": "4.3",
+                    "description": "Respetar los vínculos culturales y afectivos que se dan dentro de la comunidad, atendiendo a la pluralidad, a través del análisis crítico de la construcción histórica de las identidades colectivas, desde la propia identidad canaria, usando el lenguaje propio de la materia y el pensamiento histórico."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "(c5) Esta competencia específica está centrada en la actualidad",
+            "description": "(c5) Esta competencia específica está centrada en la actualidad. En el siglo XXI la globalización es el principal reto al que se enfrentan las sociedades actuales, y el alumnado ha de entender que es un fenómeno muy complejo que influye en la interpr…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Analizar críticamente la globalización contrastando fuentes para evitar desinformación y proponer compromisos ecosociales."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Analizar retos del siglo XXI y su origen histórico, argumentando la necesidad de comportamientos ecosocialmente responsables."
+                },
+                {
+                    "code": "5.3",
+                    "description": "Argumentar la importancia de las actitudes ecosociales positivas, que buscan la sostenibilidad, los valores democráticos y la solidaridad, a través de la identificación de los retos más importantes del siglo XXI, sus causas y su relación con la política, la economía, la sociedad y la cultura, dentro de un contexto global."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "(c6) La competencia específica nos adentra en la idea de progreso, que es el",
+            "description": "(c6) La competencia específica nos adentra en la idea de progreso, que es el eje de movimientos de índole social, político o ideológico. Se estudian los distintos modelos de crecimiento económico en el mundo —ciclos y períodos de crisis—, centrándose…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Argumentar sobre el progreso y sus consecuencias sociales, ambientales y territoriales usando datos y gráficos, defendiendo comportamientos sostenibles."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Compara sistemas económicos contemporáneos y justifica la necesidad de acceso universal a recursos básicos."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Estudiar los diferentes sistemas económicos de forma multidisciplinar, analizando sus orígenes teóricos, su desarrollo y las consecuencias que han producido, tanto en el ámbito canario, nacional o internacional, argumentando la necesidad de un reparto justo universal."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "(c7) La competencia específica introduce al alumnado en el estudio de las ideologías",
+            "description": "(c7) La competencia específica introduce al alumnado en el estudio de las ideologías. Los nuevos modelos de sociedad conllevan a distintas interpretaciones de la realidad, mediante proyectos políticos transformadores. El análisis de los movimientos i…",
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Argumentar y debatir sobre el papel de las ideologías en la historia contemporánea usando fuentes variadas."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Evaluar críticamente temas históricos y actuales mediante corrientes historiográficas y usos de la historia, desde la ética de la DUDH."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "(c8) Esta competencia específica se ocupa de conocer y valorar hechos y",
+            "description": "(c8) Esta competencia específica se ocupa de conocer y valorar hechos y personas anónimas que han protagonizado los grandes cambios en la historia. Los estudios de las sociedades contemporáneas y de sus modelos de vida son el producto final del traba…",
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Analizar cambios y permanencias demográficas, de género y lucha por la dignidad en la sociedad contemporánea mediante proyectos de investigación."
+                },
+                {
+                    "code": "8.2",
+                    "description": "Contrastar el papel relegado de la mujer en la historia contemporánea, identificando a protagonistas anónimas y el impacto de los movimientos feministas en la igualdad y corresponsabilidad."
+                },
+                {
+                    "code": "8.3",
+                    "description": "Identificar y valorar el papel de la mujer, tanto individual como colectivo, y su relegación histórica, incluyendo personalidades canarias, así como conocer las acciones de los movimientos feministas en la consecución y reconocimiento de sus derechos y en la lucha por la igualdad efectiva."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "community": "baleares",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "geografia_e_historia_hist_ria_d_039_espanya",
+    "subject_name": "Història d&#039;Espanya",
+    "grade": 2,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Valorar els moviments i accions que han promogut les llibertats en la historia",
+            "description": "valorar els moviments i accions que han promogut les llibertats en la historia d'espanya, utilitzant termes i conceptes històrics, a través de l'anàlisi comparada dels diferents règims polítics, per reconèixer el llegat democràtic de la Constitució d…",
+            "criterios": [
+                {
+                    "code": "CA1.1",
+                    "description": "Reconèixer el llegat democràtic i les accions en favor de la llibertat, identificant i comparant els diferents règims polítics i els seus respectius textos constitucionals, des de la fallida de la monarquia absoluta i els inicis de l'Espanya liberal a l'actualitat, utilitzant adequadament termes i conceptes històrics, valorar el grau i l'abast dels drets i llibertats que reconeixen i l'aplicació efectiva d'aquests. Definir, explicar i comparar els diferents règims polítics. Conèixer i comparar les principals constitucions espanyoles. Utilitzar adequadament els termes i conceptes històrics i jurídics. Identificar els protagonistes més destacats dels principals processos polítics. Posar en valor els principis i normes democràtiques i constitucionals. Valorar la importància de preservar la memòria històrica i de comprendre els esdeveniments des de múltiples punts de vista."
+                },
+                {
+                    "code": "CA1.2",
+                    "description": "Identificar i valorar el paper de la Transició en l'establiment de la democràcia actual i de la Constitució de 1978 com a fonament i garantia dels drets i llibertats dels espanyols, a través de l'elaboració de judicis propis sobre els principals debats que afecten el sistema constitucional, mitjançant el domini de processos de cerca i tractament de la informació. Definir el concepte de Explicar les característiques de la Constitució de 1978. Entendre el procés autonòmic i l'Estatut d'autonomia de les Illes Balears. Analitzar els principals entrebancs i debats que afectaren el procés democràtic i l'aprovació de la Constitució de 1978, fent ús de diverses fonts d'aquell moment i d'actuals."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Reconeixer i valorar la diversitat identitaria del nostre pais, per mitja del",
+            "description": "reconeixer i valorar la diversitat identitaria del nostre pais, per mitja del contrast de la informació i la revisió crítica de fonts, prenent consciència del paper que juga en l'actualitat, per respectar els sentiments de pertinença, l'existència d'…",
+            "criterios": [
+                {
+                    "code": "CA2.1",
+                    "description": "Contrastar la informació i desenvolupar processos de crítica de fonts analitzant l'origen i l'evolució de les identitats nacionals i regionals que s'han format al llarg de la història d'Espanya, reconèixer la pluralitat identitària del nostre país i respectar els diversos sentiments de pertinença. Identificar i analitzar diverses fonts sobre l'origen i evolució de les identitats nacionals i regionals. Conèixer la ideologia, els suports i les principals actuacions dels diferents partits i moviments polítics. Identificar les seves diferències i similituds. Entendre l'origen i l'evolució dels nacionalismes. Reflexionar sobre els conceptes de autonòmica. Reconèixer les identitats múltiples i els símbols i normes comunes de l'Estat espanyol."
+                },
+                {
+                    "code": "CA2.2",
+                    "description": "Identificar els diferents processos polítics, culturals i administratius que han tingut lloc en la formació de l'Estat i en la construcció de la nació espanyola, analitzant críticament els assoliments i els resultats de les accions dutes a terme i les reaccions generades, coneixent i respectant tant les identitats múltiples com els símbols i normes comunes que conformen el marc actual de convivència. Definir la unió dinàstica dels reis catòlics i les principals característiques del nou estat. Analitzar i sintetitzar les principals actuacions polítiques dels Àustries. Explicar els principals canvis polítics que es produïren a Espanya i a les Illes Balears durant el segle. XVIII Definir i entendre les causes, evolució i conseqüències dels conflictes bèl·lics més destacats de l'època i com afectaren a les Illes Balears."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Analitzar i valorar la idea de progres des de la perspectiva del benestar",
+            "description": "analitzar i valorar la idea de progres des de la perspectiva del benestar social i de la sostenibilitat, a través de la interpretació dels factors modernitzadors de l'economia espanyola, l'ús de mètodes quantitatius i l'anàlisi crítica de les desigua…",
+            "criterios": [
+                {
+                    "code": "CA3.1",
+                    "description": "Analitzar l'evolució econòmica d'Espanya, els ritmes i cicles de creixement, valent-se del maneig de dades, representacions gràfiques i recursos digitals, interpretant el seu particular procés de modernització en el context dels països de l'entorn i els debats historiogràfics sobre el seu desenvolupament industrial, considerant l'emprenedoria, la innovació i l'aprenentatge permanent com a formes d'afrontar els reptes d'un entorn econòmic i professional en constant canvi."
+                },
+                {
+                    "code": "CA3.2",
+                    "description": "Entendre els diferents significats de la idea del progrés en els seus contextos històrics, desenvolupant l'estudi multicausal dels models de desenvolupament econòmic aplicats a l'Espanya contemporània i analitzant críticament la idea de modernització, valorant els seus efectes amb relació a la desigualtat social, els desequilibris territorials, la degradació ambiental i les relacions de dependència, així com reflectint actituds en favor dels Objectius de Desenvolupament Sostenible i els comportaments ecosocials. Entendre el context econòmic de les diferents etapes de la història d'Espanya i la seva evolució. Identificar els principals canvis i mesures en l'àmbit econòmic i explicar les causes i\/o conseqüències. Caracteritzar els sectors econòmics més destacats en cadascuna de les etapes de la història d'Espanya. Conèixer els Objectius de Desenvolupament Sostenible. Analitzar dades de caràcter econòmic en diferents formats i fonts (representacions gràfiques, recursos digitals…)."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Prendre consciencia de la diversitat social a traves de l'analisi",
+            "description": "prendre consciencia de la diversitat social a traves de l'analisi multidisciplinaria dels canvis i continuïtats de la societat espanyola al llarg del temps, l'evolució de la població, els nivells i maneres de vida, les condicions laborals i els movim…",
+            "criterios": [
+                {
+                    "code": "CA4.1",
+                    "description": "Descriure les grans transformacions socials i les diferents maneres d'organització i participació política que s'han produït a Espanya des del pas de l'Antic Règim a la nova societat burgesa, analitzant el sorgiment i l'evolució del concepte de ciutadania i de les noves formes de sociabilitat, utilitzant adequadament termes històrics i conceptes historiogràfics i identificant les desigualtats i la concentració del poder en determinats grups socials. Descriure el tipus de societat i els diferents grups socials de l'Antic Règim i de la nova societat liberal. Identificar els principals canvis i mesures socials i les seves causes i o conseqüències. Esquematitzar les característiques de les classes socials de l'Espanya del segle Caracteritzar les migracions dels segles"
+                },
+                {
+                    "code": "CA4.2",
+                    "description": "Analitzar de manera multidisciplinària la diversitat i la desigualtat social existent en la història contemporània d'Espanya, l'evolució de la població i els canvis en les condicions i maneres de vida, interpretant les causes i motius de la conflictivitat social i la seva articulació en diferents moviments socials, considerant l'acció motivada dels subjectes i les mesures de diferent tipus adoptades per l'estat. Definir el moviment obrer a Espanya i el seu desenvolupament. Analitzar els diferents corrents ideològics del moviment obrer i camperol espanyol. Descriure les condicions de vida de la classe treballadora. Valorar les mesures adoptades per l'estat per afrontar desigualtats i conflictes."
+                },
+                {
+                    "code": "CA4.3",
+                    "description": "Deduir a través de l'estudi crític de notícies i dades estadístiques l'evolució de l'estat social, identificant els assoliments i reculades experimentades i les mesures adoptades per l'estat fins al present, l'evolució dels nivells de vida i de benestar, així com els límits i reptes de futur, des d'una perspectiva solidària en favor dels col·lectius més vulnerables. Desenvolupar la capacitat crítica i analítica a partir del comentari de fonts històriques de caràcter social. Interpretar correctament notícies i dades estadístiques sobre l'evolució de l'estat social amb eines d'anàlisi crítica. Identificar els principals assoliments i reculades en la construcció de l'estat social al llarg de la història contemporània d'Espanya."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Analitzar criticament el paper de les creences i de les ideologies en",
+            "description": "analitzar criticament el paper de les creences i de les ideologies en l'articulacio social, en l'ús del poder i en la configuració d'identitats i projectes polítics contraposats, a través de l'estudi de fonts primàries i textos historiogràfics i la f…",
+            "criterios": [
+                {
+                    "code": "CA5.1",
+                    "description": "Referir el paper que han representat les creences religioses i les institucions eclesiàstiques en la configuració territorial i política d'Espanya, considerant críticament aquells moments en què ha prevalgut la uniformitat i la intolerància contra les minories religioses o culturals. Resumir la política religiosa dels Reis Catòlics i dels Àustries. Entendre i valorar la multiculturalitat com un fenomen enriquidor. Descriure les relacions de l'Església i l'Estat durant l'Edat Contemporània: des del regnat d'Isabel II fins a la Constitució de 1978. Definir el paper de l'Església durant la Guerra Civil i en l'Estat franquista i l'evolució del seu suport."
+                },
+                {
+                    "code": "CA5.2",
+                    "description": "Generar opinions argumentades, debatre i transferir idees i coneixements sobre la funció que han exercit les ideologies en l'articulació social i política de l'Espanya contemporània, comprenent i contextualitzant aquests fenòmens a través de la lectura de textos historiogràfics i identificant les principals cultures polítiques que han anat succeint-se, les seves formes d'organització i els diferents projectes polítics que representaven, expressant actituds respectuoses davant idees diferents a les pròpies. Conèixer la ideologia, els suports i les principals actuacions dels diferents partits i moviments polítics. Identificar les seves diferències i similituds. Comentar a través de textos les actituds polítiques dels diferents partits i argumentar les idees extretes, mostrant capacitat d'anàlisi i síntesi. Contextualitzar l'arribada al poder dels diferents partits polítics contemporanis i els seus projectes."
+                },
+                {
+                    "code": "CA5.3",
+                    "description": "Emprar el rigor metodològic de la història en l'estudi de les grans reformes estructurals que va escometre la II República, identificant-ne els assoliments i les reaccions antidemocràtiques que es van produir i que van derivar en el cop d'estat de 1936, aproximant-se a la historiografia sobre la Guerra Civil i al marc conceptual de l'estudi dels sistemes totalitaris i autoritaris a través de la interpretació de l'evolució del Franquisme. Definir els conceptes de etapes. Sintetitzar els principals reptes i reformes de la II República. Analitzar les característiques de la Constitució de 1931. Explicar i definir l'organització política i econòmica de l'Estat franquista i les seves mesures. Mostrar respecte envers les víctimes dels processos totalitaris i autoritaris, destacant la importància dels drets humans i de la democràcia."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Interpretar el valor geoestrategic d'espanya i la seva connexio amb la historia",
+            "description": "interpretar el valor geoestrategic d'espanya i la seva connexio amb la historia mundial, assenyalant les analogies i singularitats de l'evolució històrica en un context global canviant, per mitjà de la cerca i el tractament d'informació, per avalar e…",
+            "criterios": [
+                {
+                    "code": "CA6.1",
+                    "description": "Assenyalar els reptes globals i els principals compromisos de l'Estat espanyol en l'esfera internacional, així com els que es deriven de la seva integració a la Unió Europea, a través de processos de cerca, selecció i tractament de la informació, així com del reconeixement dels valors de la cooperació, la seguretat nacional i internacional, la sostenibilitat, la solidaritat, l'europeisme i l'exercici d'una ciutadania ètica digital. Entendre la posició i els compromisos d'Espanya en la política internacional. Analitzar l'origen de la incorporació d'Espanya a la CEE i a l'OTAN i les seves repercussions. Identificar el paper de la UE a la política espanyola. Desenvolupar el compromís cívic defensant els valors de l'europeisme, la solidaritat i cooperació i la cultura de la seguretat nacional i internacional."
+                },
+                {
+                    "code": "CA6.2",
+                    "description": "Reconèixer el valor geoestratègic de la península Ibèrica, identificant el ric llegat històric i cultural generat arran de la seva connexió amb processos històrics rellevants, caracteritzant les especificitats i singularitats de la seva evolució respecte a altres països europeus i els estereotips associats a aquestes, així com la influència de les relacions internacionals. Identificar els condicionats geogràfics i naturals de la península Ibèrica i comprendre el seu valor geoestratègic. Classificar cronològicament els diversos pobles establerts a la península Ibèrica."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Incorporar la perspectiva de genere en l'analisi de l'espanya actual i de la",
+            "description": "incorporar la perspectiva de genere en l'analisi de l'espanya actual i de la seva historia, a través de la contextualització històrica de fonts literàries i artístiques i la recerca sobre el moviment feminista, per reconèixer la seva presència en la …",
+            "criterios": [
+                {
+                    "code": "CA7.1",
+                    "description": "Introduir la perspectiva de gènere en l'observació i anàlisi de la realitat històrica i actual, identificant els mecanismes de dominació que han generat i mantingut la desigualtat entre homes i dones, així com els rols assignats i els espais d'activitat ocupats tradicionalment per la dona. Entendre i comparar el paper de la dona en la societat al llarg de la Història. Analitzar el rol de la dona en la societat de l'Antic Règim. Contrastar els canvis en la situació de la dona en el segle educatiu. Entendre i valorar les relacions de gènere en la societat del segle"
+                },
+                {
+                    "code": "CA7.2",
+                    "description": "Constatar el paper relegat de la dona en la història analitzant fonts literàries i artístiques, valorant les accions en favor de l'emancipació de la dona i del moviment feminista i recuperant figures individuals i col·lectives com a protagonistes silenciades i omeses de la història. Conèixer el paper de la dona en el context de la industrialització. Valorar i investigar a través de diferents fonts figures femenines rellevants. Analitzar els canvis i assoliments produïts pel moviment feminista en els seus inicis."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Valorar el patrimoni historic i cultural com a llegat i expressio de la memoria",
+            "description": "valorar el patrimoni historic i cultural com a llegat i expressio de la memoria col·lectiva, identificant els significats i usos públics que reben determinats esdeveniments i processos del passat, per mitjà de l'anàlisi de la historiografia i del pen…",
+            "criterios": [
+                {
+                    "code": "CA8.1",
+                    "description": "Fer treballs d'indagació i recerca, iniciant-se en la metodologia històrica i la historiografia, mitjançant la generació de productes relacionats amb la memòria col·lectiva sobre esdeveniments, personatges o elements patrimonials d'interès social o cultural de l'entorn local, considerant el patrimoni històric com un bé comú que s'ha de protegir. Valorar el patrimoni històric i conèixer els arxius, museus i centres de divulgació. Mostrar rigor acadèmic en la recerca i l'elaboració dels continguts i citar adequadament les fonts consultades. Valorar i argumentar sobre la validesa de diverses fonts històriques. Cercar, seleccionar i sintetitzar informació històrica de forma adequada en diverses fonts, tant analògiques com digitals. Elaborar i presentar en diferents formats la informació relacionada amb esdeveniments, personatges o elements patrimonials d'interès històric, social o cultural de manera clara i estructurada fent un ús adequat del lèxic històric."
+                }
+            ]
+        }
+    ]
+}

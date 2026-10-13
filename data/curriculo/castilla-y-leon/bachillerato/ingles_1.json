@@ -1,0 +1,124 @@
+{
+    "community": "castilla-y-leon",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "ingles",
+    "subject_name": "Lengua Extranjera I",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "1.1 Extraer y analizar las ideas principales y secundarias, la información",
+            "description": "1.1 Extraer y analizar las ideas principales y secundarias, la información relevante y las implicaciones generales de textos de cierta longitud, bien organizados y de cierta complejidad, orales, escritos y multimodales, sobre temas de relevancia pers…",
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Analizar ideas principales e implicaciones de textos orales, escritos y multimodales sobre temas diversos."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Valorar críticamente textos académicos, mediáticos y de ficción, analizando su contenido, intención y rasgos discursivos."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Seleccionar y aplicar estrategias para comprender información global, específica, intenciones y opiniones en textos, usando inferencias y contrastando fuentes."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "2.1 Expresar oralmente con suficiente fluidez y corrección textos claros,",
+            "description": "2.1 Expresar oralmente con suficiente fluidez y corrección textos claros, coherentes, bien organizados, adecuados a la situación comunicativa y en diferentes registros sobre asuntos de relevancia personal o de interés público conocidos por el alumnad…",
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Comunicar oralmente de forma fluida y coherente sobre temas personales o públicos, utilizando estrategias comunicativas en diferentes registros y soportes."
+                },
+                {
+                    "code": "2.2",
+                    "description": "Redactar y difundir textos detallados y coherentes sobre temas personales o públicos, citando fuentes y evitando plagio."
+                },
+                {
+                    "code": "2.3",
+                    "description": "Aplicar estrategias de planificación, producción y revisión para componer textos claros y adecuados al contexto y propósito comunicativo."
+                },
+                {
+                    "code": "2.4",
+                    "description": "Seleccionar y utilizar un léxico común y especializado, así como expresiones y modismos de uso habitual, relacionados con los propios intereses y necesidades en ámbitos personales y académicos, adecuándolos a cada situación de comunicación. (CCL1, CP1, CD1, CD2, CD3, CPSAA4, CC3, CCEC3.1, CCEC3.2)"
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "3.1 Planificar, participar y colaborar asertiva y activamente, a través de",
+            "description": "3.1 Planificar, participar y colaborar asertiva y activamente, a través de diversos soportes, en situaciones interactivas sobre temas de relevancia personal o de interés público conocidos por el alumnado, mostrando iniciativa, empatía y respeto por l…",
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Participar con fluidez y cortesía en interacciones planificadas, ofreciendo argumentos y explicaciones en soportes variados."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Aplicar de forma flexible estrategias para iniciar, mantener y gestionar la comunicación oral en interacciones variadas."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "4.1 Interpretar y explicar textos, conceptos y comunicaciones en situaciones en",
+            "description": "4.1 Interpretar y explicar textos, conceptos y comunicaciones en situaciones en las que atender a la diversidad, mostrando respeto y aprecio por los interlocutores e interlocutoras y por las lenguas, variedades o registros empleados, y participando e…",
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Interpreta y explica textos y conceptos en contextos de diversidad, mostrando respeto y resolviendo problemas de intercomprensión."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Aplicar estrategias de mediación para explicar y simplificar mensajes usando recursos adecuados al contexto y al interlocutor."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "5.1 Comparar y argumentar las semejanzas y diferencias entre distintas lenguas",
+            "description": "5.1 Comparar y argumentar las semejanzas y diferencias entre distintas lenguas reflexionando sobre su funcionamiento y estableciendo relaciones entre ellas. (CCL3, CP3, CD3, CPSAA4) 5.2 Utilizar con iniciativa y de forma creativa estrategias y conoci…",
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Comparar y argumentar semejanzas y diferencias entre lenguas, reflexionando sobre su funcionamiento y relaciones."
+                },
+                {
+                    "code": "5.2",
+                    "description": "Emplear con iniciativa estrategias y conocimientos para mejorar la comunicación en lengua extranjera, apoyándose en otros y en recursos analógicos\/digitales."
+                },
+                {
+                    "code": "5.3",
+                    "description": "El alumnado reflexiona sobre su aprendizaje, identifica dificultades, selecciona estrategias y documenta su progreso en un portafolio o diario, compartiendo dicho proceso."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "6.1 Actuar de forma adecuada, empática y respetuosa en situaciones",
+            "description": "6.1 Actuar de forma adecuada, empática y respetuosa en situaciones interculturales construyendo vínculos entre las diferentes lenguas y culturas, analizando y rechazando cualquier tipo de discriminación, prejuicio y estereotipo, y solucionando aquell…",
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Analiza situaciones interculturales, rechaza estereotipos y actúa con empatía y respeto, solucionando problemas comunicativos."
+                },
+                {
+                    "code": "6.2",
+                    "description": "El alumnado valora críticamente la diversidad lingüística y cultural de países anglófonos, vinculándola a derechos humanos y valores democráticos."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Aplicar estrategias para defender y apreciar la diversidad lingüística, cultural y artística, con valores ecosociales y democráticos."
+                },
+                {
+                    "code": "6.4",
+                    "description": "Conocer la producción literaria, los medios de comunicación y las principales publicaciones de los países y territorios donde se habla la lengua extranjera, promoviendo la lectura y ampliando el conocimiento de la lengua y cultura estudiadas ( CCL4, CP3, CCEC1)"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,174 @@
+{
+    "community": "madrid",
+    "stage": "primaria",
+    "decree": "Decreto 61/2022, de 13 de julio",
+    "subject": "lengua_castellana",
+    "subject_name": "Lengua Castellana y Literatura",
+    "grade": 6,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Reconocer la diversidad de las lenguas del mundo a partir",
+            "description": "Reconocer la diversidad de las lenguas del mundo a partir de las propias y de las existentes en España, para favorecer la reflexión, identificar y rechazar prejuicios sobre ellas y para valorar dicha diversidad como fuente de riqueza cultural.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "1.1",
+                    "description": "Mostrar interés y respeto a las distintas lenguas y variedades dialectales, identificando las características fundamentales de las de su entorno geográfico, así como algunos rasgos de los dialectos y lenguas familiares del alumnado."
+                },
+                {
+                    "code": "1.2",
+                    "description": "Conocer y valorar la importancia del español como lengua universal, sus orígenes e historia."
+                },
+                {
+                    "code": "1.3",
+                    "description": "Detectar, con autonomía creciente y en contextos próximos, prejuicios del lenguaje frecuentes, aportando alternativas, reconociendo modelos positivos y valorando la diversidad de las lenguas del mundo como una fuente de riqueza cultural."
+                },
+                {
+                    "code": "1.4",
+                    "description": "Conocer la historia del español como lengua universal, del latín a las lenguas romances y su expansión desde la Península Ibérica hacia América y otros continentes."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Comprender e interpretar textos orales y multimodales,",
+            "description": "Comprender e interpretar textos orales y multimodales, identificando el sentido general y la información más relevante y valorando con ayuda aspectos formales y de contenido básicos, para construir conocimiento y responder a diferentes necesidades comunicativas.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "2.1",
+                    "description": "Comprender el sentido de textos orales y multimodales sencillos, reconociendo las ideas principales y los mensajes explícitos e implícitos, valorando su contenido y los elementos no verbales elementales y, algunos elementos formales elementales."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Producir textos orales y multimodales, con coherencia,",
+            "description": "Producir textos orales y multimodales, con coherencia, claridad y registro adecuados, para expresar ideas, sentimientos y conceptos; construir conocimiento; establecer vínculos personales; y participar con autonomía en interacciones orales variadas.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "3.1",
+                    "description": "Producir textos orales y multimodales, de manera autónoma, coherente y fluida, en contextos formales sencillos y utilizando correctamente recursos verbales y no verbales básicos."
+                },
+                {
+                    "code": "3.2",
+                    "description": "Participar en interacciones orales espontáneas o regladas, incorporando estrategias sencillas de escucha activa, de cortesía y de cooperación conversacional."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Comprender e interpretar textos escritos y multimodales,",
+            "description": "Comprender e interpretar textos escritos y multimodales, reconociendo el sentido global, las ideas principales y la información explícita e implícita, y realizando con ayuda reflexiones elementales sobre aspectos formales y de contenido, para adquirir y construir conocimiento y para responder a necesidades e intereses comunicativos diversos.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "4.1",
+                    "description": "Comprender el sentido global y la información relevante de textos escritos y multimodales, realizando inferencias, a partir de estrategias básicas de comprensión antes, durante y después de la lectura."
+                },
+                {
+                    "code": "4.2",
+                    "description": "Analizar, de manera acompañada, el contenido y aspectos formales y no formales elementales de textos escritos y multimodales, valorando su contenido y estructura y evaluando su calidad, fiabilidad e idoneidad en función del propósito de lectura."
+                }
+            ]
+        },
+        {
+            "code": "CE5",
+            "name": "Producir textos escritos y multimodales, con corrección",
+            "description": "Producir textos escritos y multimodales, con corrección gramatical y ortográfica básicas, secuenciando correctamente los contenidos y aplicando estrategias elementales de planificación, textualización, revisión y edición, para construir conocimiento y para dar respuesta a demandas comunicativas concretas.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "5.1",
+                    "description": "Producir textos escritos y multimodales de relativa complejidad, con coherencia y adecuación, en distintos soportes, progresando en el uso de las normas gramaticales y ortográficas básicas al servicio de la cohesión textual y movilizando estrategias sencillas, individuales o grupales, de planificación, textualización, revisión y edición."
+                }
+            ]
+        },
+        {
+            "code": "CE6",
+            "name": "Buscar, seleccionar y contrastar información procedente de",
+            "description": "Buscar, seleccionar y contrastar información procedente de dos o más fuentes, de forma planificada, evaluando su fiabilidad y reconociendo algunos riesgos de manipulación y desinformación, para transformarla en conocimiento y para comunicarla de manera creativa, adoptando un punto de vista personal y respetuoso con la propiedad intelectual.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "6.1",
+                    "description": "Localizar, seleccionar y contrastar información de distintas fuentes, incluidas las digitales, citándolas y recreándolas mediante la adaptación creativa de modelos dados."
+                },
+                {
+                    "code": "6.2",
+                    "description": "Compartir los resultados de un proceso de investigación sencillo, individual o grupal, sobre algún tema de interés personal o social y medioambiental."
+                },
+                {
+                    "code": "6.3",
+                    "description": "Adoptar hábitos de uso crítico, seguro y adecuado de las tecnologías digitales en relación con la búsqueda y la comunicación de la información."
+                }
+            ]
+        },
+        {
+            "code": "CE7",
+            "name": "Leer de manera autónoma obras diversas seleccionadas",
+            "description": "Leer de manera autónoma obras diversas seleccionadas atendiendo a sus gustos e intereses, compartiendo las experiencias de lectura, para iniciar la construcción de la identidad lectora, para fomentar el gusto por la lectura como fuente de placer.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "7.1",
+                    "description": "Leer de manera autónoma textos de diversos autores ajustados a sus gustos e intereses, avanzando en la construcción de su identidad lectora."
+                },
+                {
+                    "code": "7.2",
+                    "description": "Compartir la experiencia de lectura, en soportes diversos, participando en comunidades lectoras en el ámbito escolar o social."
+                }
+            ]
+        },
+        {
+            "code": "CE8",
+            "name": "Leer, interpretar y analizar, de manera acompañada, obras o",
+            "description": "Leer, interpretar y analizar, de manera acompañada, obras o fragmentos literarios adecuados a su desarrollo, estableciendo relaciones entre ellos e identificando el género literario y sus convenciones fundamentales, para iniciarse en el reconocimiento de la literatura como manifestación artística y fuente de placer, conocimiento e inspiración para crear textos de intención literaria.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "8.1",
+                    "description": "Escuchar y leer textos literarios adecuados a su edad, que recojan diversidad de autores y autoras, relacionándolos en función de los temas y de aspectos elementales de cada género literario, e interpretándolos, valorándolos y relacionándolos con otras manifestaciones artísticas o culturales de manera progresivamente autónoma."
+                },
+                {
+                    "code": "8.2",
+                    "description": "Producir, de manera autónoma, textos sencillos individuales o grupales con intención literaria, reelaborando con creatividad los modelos dados, en distintos soportes y complementándolos con otros lenguajes artísticos."
+                }
+            ]
+        },
+        {
+            "code": "CE9",
+            "name": "Reflexionar sobre el lenguaje a partir de procesos de",
+            "description": "Reflexionar sobre el lenguaje a partir de procesos de producción y comprensión de textos en contextos significativos, utilizando la terminología elemental adecuada, para iniciarse en el desarrollo de la conciencia de la lengua y para mejorar las destrezas de producción y comprensión oral y escrita.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "9.1",
+                    "description": "Establecer generalizaciones sobre aspectos básicos del funcionamiento de la lengua de manera acompañada, formulando hipótesis y buscando contraejemplos, a partir de la observación, comparación y transformación de palabras, enunciados y textos, en un proceso de producción o comprensión de textos en contextos significativos."
+                },
+                {
+                    "code": "9.2",
+                    "description": "Revisar y mejorar los textos propios y ajenos y subsanar algunos problemas de comprensión lectora, de manera autónoma, a partir de la reflexión metalingüística e interlingüística y usando la terminología básica adecuada."
+                }
+            ]
+        },
+        {
+            "code": "CE10",
+            "name": "Poner las propias prácticas comunicativas al servicio de la",
+            "description": "Poner las propias prácticas comunicativas al servicio de la convivencia utilizando un lenguaje adecuado y eficaz.",
+            "descriptors": [],
+            "criterios": [
+                {
+                    "code": "10.1",
+                    "description": "Rechazar los usos del lenguaje discriminatorio a través de la palabra, identificados mediante la reflexión grupal acompañada, sobre distintos aspectos, verbales y no verbales, de la comunicación, teniendo en cuenta referentes de igualdad entre hombres y mujeres."
+                },
+                {
+                    "code": "10.2",
+                    "description": "Movilizar con planificación, estrategias básicas para la escucha activa, la comunicación asertiva y la deliberación argumentada mediante el diálogo."
+                }
+            ]
+        }
+    ]
+}

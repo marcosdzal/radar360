@@ -1,0 +1,90 @@
+{
+    "community": "baleares",
+    "stage": "bachillerato",
+    "decree": "",
+    "subject": "cultura_audiovisual",
+    "subject_name": "Cultura Audiovisual",
+    "grade": 1,
+    "competencias": [
+        {
+            "code": "CE1",
+            "name": "Analitzar imatges fotografiques fixes i produccions audiovisuals de diversos",
+            "description": "analitzar imatges fotografiques fixes i produccions audiovisuals de diversos estils, formats, gèneres i cultures, valorant-ne les qualitats plàstiques, formals i semàntiques i reflexionant sobre la història de tots dos mitjans per desenvolupar el cri…",
+            "criterios": [
+                {
+                    "code": "CA1.1",
+                    "description": "Explicar els aspectes essencials de l'evolució del llenguatge fotogràfic i audiovisual i valorar els canvis que s'han produït al llarg de la història del mitjà. Organitzar i contextualitzar els esdeveniments històrics en fotografia i audiovisuals. Identificar i entendre la cronologia del desenvolupament tecnològic i artístic. Analitzar i interpretar la informació per comparar com els avenços tecnològics i artístics de les diferents èpoques han transformat la producció i recepció d'imatges. Fomentar el pensament crític i la capacitat argumentativa mentre reflexionen sobre com els canvis tecnològics han afectat la creació, distribució i recepció del llenguatge audiovisual. Potenciar les habilitats de recerca, selecció i exposició d'informació visual i històrica, alhora que es fomenta la reflexió crítica sobre l'evolució del llenguatge fotogràfic. Analitzar obres audiovisuals o fotogràfiques en el seu context històric i cultural per adquirir eines d'anàlisi visual i de comprensió del llenguatge audiovisual a través de l'observació i la reflexió col·lectiva."
+                },
+                {
+                    "code": "CA1.2",
+                    "description": "Analitzar les qualitats plàstiques, formals i semàntiques de produccions fotogràfiques i audiovisuals de diferents estils, formats, gèneres i cultures per determinar les regles i codis pels quals es regeixen i valorar la flexibilitat de les normes. Desenvolupar la capacitat d'observació crítica i d'anàlisi de com es construeixen els significats visuals a partir d'estils i gèneres diferents, aprenent a identificar els codis visuals de cada un. Aprofundir en l'anàlisi formal del llenguatge audiovisual per desenvolupar la capacitat per desxifrar els elements que conformen la narració visual i sonora i la relació que té amb el missatge. Comprendre la dimensió cultural i històrica de l'ús del color, destacar-ne la funció expressiva i la narrativa i com les regles de color varien segons contextos culturals o artístics. Desenvolupar la creativitat i la comprensió dels codis visuals i culturals d'estils i cultures diverses, explorant les normes visuals i la seva reinterpretació. Comprendre com els codis visuals i formals es poden utilitzar per manipular el significat i influir en el públic, desenvolupant el pensament crític respecte a la publicitat."
+                },
+                {
+                    "code": "CA1.3",
+                    "description": "Proposar interpretacions personals del patrimoni fotogràfic i audiovisual i argumentar-les amb criteri estètic propi. Desenvolupar la capacitat d'apropiar-se d'estils visuals històrics o culturals i reinterpretarlos des del punt de vista personal, promovent la reflexió estètica individual. Desenvolupar la capacitat argumentativa i crítica, reflexionant sobre els valors estètics de diferents obres i com aquests poden ser reinterpretats des de punts de vista personals i subjectius. Reinterpretar obres audiovisuals existents, promovent la reflexió sobre l'herència cultural i l'expressió artística personal, alhora que desenvolupen habilitats tècniques i narratives."
+                }
+            ]
+        },
+        {
+            "code": "CE2",
+            "name": "Elaborar produccions audiovisuals individuals o col·lectives, emprant la propia",
+            "description": "elaborar produccions audiovisuals individuals o col·lectives, emprant la propia presencia en la imatge i la banda de so i avaluant el rigor ètic i formal dels procediments, per expressar i comunicar idees, opinions i sentiments i construir una person…",
+            "criterios": [
+                {
+                    "code": "CA2.1",
+                    "description": "Dissenyar produccions audiovisuals creatives que representin les idees, opinions i sentiments propis a partir d'un tema o motiu previs i incorporar-hi les experiències personals i l'acostament a altres mitjans d'expressió. Impulsar l'expressió personal i la creativitat en la creació d'un curtmetratge a partir d'un tema proposat, traduir les idees i emocions en imatges audiovisuals i experimentar diferents llenguatges narratius i tècniques. Analitzar amb introspecció i autoreflexió i donar eines per expressar les idees i sentiments a través del mitjà audiovisual. Experimentar la relació entre música i imatge i desenvolupar la capacitat de vincular expressió emocional amb elements audiovisuals per crear un producte artístic. Experimentar creativament amb nous llenguatges audiovisuals per convidar els alumnes a alliberar-se de les narratives convencionals per expressar idees o sentiments propis de manera innovadora i personal."
+                },
+                {
+                    "code": "CA2.2",
+                    "description": "Avaluar el rigor ètic i formal amb el qual s'usen les eines de creació fotogràfica i audiovisual, analitzar diverses produccions, distingir críticament les maneres de presentar les informacions i els missatges, identificar la possible manipulació i reflexionar sobre la necessitat de respecte de la propietat intel·lectual i els drets d'autor. Desenvolupar la capacitat crítica per detectar biaixos informatius i manipulacions en els mitjans audiovisuals, així com conscienciar-los de la responsabilitat ètica en la presentació d'informació. Reflexionar sobre les conseqüències de l'ús irresponsable de les eines audiovisuals per fomentar el sentit ètic en la creació i difusió de continguts. Avaluar la importància de respectar els drets d'autor i la propietat intel·lectual per promoure l'ús ètic i responsable de les creacions audiovisuals. Respectar els drets d'autor, alhora que aprenen a identificar i utilitzar recursos amb llicències adequades per a les seves produccions. Reflexionar críticament sobre les tècniques de persuasió en la publicitat, destacant la importància del rigor ètic en la comunicació audiovisual."
+                },
+                {
+                    "code": "CA2.3",
+                    "description": "Realitzar produccions audiovisuals creatives que representin les idees, opinions i sentiments propis a partir d'un tema o motiu previs, utilitzant la pròpia presència en la imatge i la banda de so i el llenguatge i els mitjans de producció amb rigor ètic i formal. Expressar-se de manera personal mitjançant l'ús de la pròpia imatge i veu, alhora que es potencia la reflexió sobre la identitat visual i emocional. Representar les pròpies idees i sentiments a través de la ficció. Experimentar en l'expressió a través de la veu i l'àudio per desenvolupar competències en la creació sonora i promoure l'ús responsable i ètic dels recursos sonors. Reflexionar sobre la pròpia experiència i la seva representació audiovisual."
+                }
+            ]
+        },
+        {
+            "code": "CE3",
+            "name": "Seleccionar i utilitzar les tecniques, eines i convencions del llenguatge i la",
+            "description": "seleccionar i utilitzar les tecniques, eines i convencions del llenguatge i la produccio audiovisual, tenint en compte tots els aspectes (guió, planificació, interpretació, enregistrament, edició, etc.) per fer creacions audiovisuals col·lectives i a…",
+            "criterios": [
+                {
+                    "code": "CA3.1",
+                    "description": "Confeccionar adequadament els equips de treball per a produccions audiovisuals col·lectives, identificar les diferents habilitats requerides i repartir les tasques amb criteri. - Comprendre les diverses funcions en una producció audiovisual i la necessitat de repartir els rols clau segons les habilitats de cada membre (director, guionista, càmera, dissenyador de so, editor, actors, etc.) per promoure el treball en equip i la comunicació efectiva. - Desenvolupar les habilitats de planificació i coordinació necessàries per a la preproducció audiovisual (guió, localitzacions, pla de rodatge, pressupost, etc.). - Desenvolupar la capacitat d'organitzar equips de treball amb eficàcia, basant-se en criteris objectius (habilitats i capacitats individuals) i reflexionar sobre la importància d'una bona gestió d'equips i sobre l'equilibri de la càrrega de treball dins l'equip."
+                },
+                {
+                    "code": "CA3.2",
+                    "description": "Planificar produccions audiovisuals determinant els mitjans i habilitats necessaris, tenint en compte tots els aspectes (guió, planificació, interpretació, enregistrament, edició, etc.), justificar raonadament l'elecció i considerar els possibles imprevistos i la manera de resoldre'ls. Elaborar un pla de producció, desenvolupar la capacitat de planificar tots els aspectes d'una producció audiovisual i treballar l'organització i la previsió de problemes. Crear un guió il·lustrat ( moviments de càmera, efectes visuals i sonors i altres detalls tècnics, per visualitzar i planificar l'aspecte visual i tècnic de la producció. Seleccionar i gestionar adequadament els recursos tècnics (càmeres, micròfons, il·luminació) i logístics (transports, permisos, disponibilitat d'actors), segons les necessitats del projecte i la previsió de possibles imprevistos. Desenvolupar la capacitat d'adaptar-se a limitacions econòmiques, optimitzar els recursos disponibles (per exemple, reutilització de materials, cerca de localitzacions gratuïtes, treballar amb actors amateurs) i gestionar amb solucions creatives l'impacte de les limitacions en la qualitat final del projecte."
+                },
+                {
+                    "code": "CA3.3",
+                    "description": "Demostrar flexibilitat i habilitat per resoldre els imprevistos propis de les produccions audiovisuals, tenint-los en compte en la planificació i considerar de manera oberta les diferents possibilitats per resoldre un problema sobrevingut. - Desenvolupar la capacitat d'adaptar-se a situacions imprevistes, fomentar la flexibilitat i l'habilitat per trobar solucions ràpides i eficaces ajustant el pla de rodatge i oferint solucions creatives per mantenir la producció. - Pensar creativament i gestionar els recursos de manera eficient per resoldre errors sense comprometre la qualitat."
+                },
+                {
+                    "code": "CA3.4",
+                    "description": "Realitzar produccions audiovisuals de manera creativa, utilitzant correctament les tècniques, eines i convencions del llenguatge necessàries, valorant el treball col·laboratiu i intentant aconseguir que el resultat final s'ajusti al projecte preparat prèviament. Seguir el pla de producció i pla de rodatge establerts mentre es fan servir les tècniques audiovisuals correctes. Treballar en equip per tal d'aconseguir un resultat final que reflecteixi les idees del projecte original. Valorar la importància de la coordinació d'equips per aconseguir un bon resultat. Expressar-se de manera creativa en la utilització d'eines audiovisuals. Realitzar diferents formats de produccions audiovisuals: curtmetratge, documental, entrevista, videoclip, reportatge de notícies, anunci publicitari, etc."
+                }
+            ]
+        },
+        {
+            "code": "CE4",
+            "name": "Determinar el public destinatari d'una produccio audiovisual, analitzar les",
+            "description": "determinar el public destinatari d'una produccio audiovisual, analitzar les seves característiques i, atès el propòsit de l'obra, adoptar el llenguatge, el format i els mitjans tècnics més adequats i seleccionar les vies de difusió més oportunes. Atè…",
+            "criterios": [
+                {
+                    "code": "CA4.1",
+                    "description": "Justificar l'elecció del llenguatge, el format i els mitjans tècnics en produccions audiovisuals, després d'haver considerat el tipus de públic al qual es volen dirigir. Adaptar les eleccions creatives i tècniques al públic destinatari i reflexionar sobre com el contingut audiovisual es personalitza per tenir més impacte. Identificar els formats i mitjans tècnics adequats segons la plataforma i el públic, reflexionant sobre les estratègies comunicatives necessàries en funció del canal utilitzat. Reflexionar sobre la importància del perfil de l'audiència en la presa de decisions per adaptar els continguts i produccions en funció del públic de les cadenes de televisió."
+                },
+                {
+                    "code": "CA4.2",
+                    "description": "Seleccionar les vies de difusió més adequades per a produccions audiovisuals, tenint en compte el seu propòsit, valorant de manera crítica i informada les possibilitats existents, utilitzant entorns segurs i respectant la propietat intel·lectual i els drets d'autor. Analitzar críticament les opcions de distribució disponibles per a produccions audiovisuals i comprendre la relació entre el contingut, el públic objectiu i la plataforma de difusió. Adaptar la distribució en funció dels objectius i l'audiència de cada projecte. Identificar les diferents llicències Creative Commons i drets d'autor. Determinar l'adequació del tipus de llicència per a la distribució de les seves produccions, promovent un ús ètic. Reconèixer les implicacions legals i ètiques en la gestió de drets i la protecció de la propietat intel·lectual en materials audiovisuals."
+                },
+                {
+                    "code": "CA4.3",
+                    "description": "Analitzar de manera oberta i respectuosa la recepció de les produccions audiovisuals presentades, comprovar l'adequació del llenguatge, el format i els mitjans tècnics de l'obra, així com de les vies de difusió i extreure'n un aprenentatge per al creixement creatiu. - Reflexionar de forma autocrítica i valorar la crítica constructiva i analitzar com les eleccions tècniques i creatives impacten en la recepció del públic. - Reflexionar sobre la recepció i impacte emocional i social de les produccions audiovisuals. - Identificar els punts forts i àrees de millora de les seves creacions per fomentar el creixement creatiu propi. - Donar retroacció (feedback) als companys (coavaluació) sobre l'adequació del llenguatge, format, mitjans tècnics i vies de difusió i reflexionar sobre com poden incorporar les crítiques en produccions futures."
+                }
+            ]
+        }
+    ]
+}
