@@ -886,20 +886,50 @@ define([], function() {
             // ── Inject thumbnails inside each student name cell ───────────────
             var photoWrappers = []; // for toggle
             table.querySelectorAll('tbody tr').forEach(function(row) {
-                // Find the link to /user/view.php to get the userid.
+                // Find the userid from: (1) link to /user/view.php, (2) data-uid attr,
+                // (3) row id like "uid_123" or "user_123", (4) any link with userid param.
                 var link = row.querySelector('a[href*="/user/view.php"]') ||
                            row.querySelector('a[href*="userid="]');
-                if (!link) { return; }
+                var uid = 0;
+                var insertTarget = null;
 
-                var m = link.href.match(/[?&](?:id|userid)=(\d+)/);
-                if (!m) { return; }
-                var uid = parseInt(m[1], 10);
+                if (link) {
+                    var m = link.href.match(/[?&](?:id|userid)=(\d+)/);
+                    if (m) { uid = parseInt(m[1], 10); }
+                    insertTarget = link.parentNode;
+                }
+
+                if (!uid && row.dataset.uid) {
+                    uid = parseInt(row.dataset.uid, 10);
+                }
+                if (!uid && row.id) {
+                    var rm = row.id.match(/(?:uid|user)[_-]?(\d+)/i);
+                    if (rm) { uid = parseInt(rm[1], 10); }
+                }
+                if (!uid) {
+                    var anyLink = row.querySelector('a[href*="id="]');
+                    if (anyLink) {
+                        var am = anyLink.href.match(/[?&]id=(\d+)/);
+                        if (am && Object.prototype.hasOwnProperty.call(studentPhotoMap, parseInt(am[1], 10))) {
+                            uid = parseInt(am[1], 10);
+                            link = anyLink;
+                            insertTarget = anyLink.parentNode;
+                        }
+                    }
+                }
+                if (!uid || !Object.prototype.hasOwnProperty.call(studentPhotoMap, uid)) { return; }
+
+                // Find the name cell as insert target if not found yet.
+                if (!insertTarget) {
+                    var nameCell = row.querySelector('th') || row.querySelector('td');
+                    if (nameCell) { insertTarget = nameCell; link = null; }
+                }
+                if (!insertTarget) { return; }
 
                 // Avoid double-injection.
-                if (link.parentNode.querySelector('.sentinel-photo-wrap')) { return; }
+                if (insertTarget.querySelector('.sentinel-photo-wrap')) { return; }
 
-                var photoUrl = Object.prototype.hasOwnProperty.call(studentPhotoMap, uid)
-                    ? studentPhotoMap[uid] : null;
+                var photoUrl = studentPhotoMap[uid] || null;
 
                 var thumb = buildThumbnail(uid, photoUrl, uploadUrl, sesskey, 48);
                 thumb.className = 'sentinel-photo-wrap';
@@ -907,8 +937,12 @@ define([], function() {
                 thumb.style.marginRight = '6px';
                 thumb.style.verticalAlign = 'middle';
 
-                // Insert before the link inside the name cell.
-                link.parentNode.insertBefore(thumb, link);
+                // Insert before the link or at the start of the cell.
+                if (link && link.parentNode === insertTarget) {
+                    insertTarget.insertBefore(thumb, link);
+                } else {
+                    insertTarget.insertBefore(thumb, insertTarget.firstChild);
+                }
                 photoWrappers.push(thumb);
 
                 // Mini diana.

@@ -25,9 +25,35 @@
 require_once(__DIR__ . '/../../../config.php');
 
 require_login();
-require_capability('moodle/site:config', context_system::instance());
 
-$PAGE->set_context(context_system::instance());
+$sysctx = context_system::instance();
+$can_communicate = has_capability('local/sentinel:communicate', $sysctx);
+if (!$can_communicate) {
+    $courses = enrol_get_all_users_courses($USER->id, true);
+    foreach ($courses as $c) {
+        if (has_capability('local/sentinel:communicate', context_course::instance($c->id))) {
+            $can_communicate = true;
+            break;
+        }
+    }
+}
+if (!$can_communicate) {
+    require_capability('local/sentinel:communicate', $sysctx);
+}
+
+$is_admin = has_capability('moodle/site:config', $sysctx);
+$tutor_role = $DB->get_record('role', ['shortname' => 'tutor']);
+$is_tutor = false;
+if ($tutor_role) {
+    $tutor_assignments = $DB->record_exists('role_assignments', [
+        'userid' => $USER->id,
+        'roleid' => $tutor_role->id,
+    ]);
+    $is_tutor = !empty($tutor_assignments);
+}
+$can_manage_periods = $is_admin || $is_tutor;
+
+$PAGE->set_context($sysctx);
 $PAGE->set_url(new moodle_url('/local/sentinel/admin/periods.php'));
 $PAGE->set_title(get_string('periods:title', 'local_sentinel'));
 $PAGE->set_heading(get_string('periods:title', 'local_sentinel'));
@@ -36,7 +62,7 @@ $PAGE->set_pagelayout('admin');
 // ── Acciones POST ─────────────────────────────────────────────────────────────
 $action = optional_param('action', '', PARAM_ALPHA);
 
-if ($action === 'add' && confirm_sesskey()) {
+if ($action === 'add' && confirm_sesskey() && $can_manage_periods) {
     $label      = required_param('label', PARAM_TEXT);
     $cutoffdate = required_param('cutoffdate', PARAM_INT);
     $courseid   = optional_param('courseid', 0, PARAM_INT);
@@ -53,7 +79,7 @@ if ($action === 'add' && confirm_sesskey()) {
     }
 }
 
-if ($action === 'delete' && confirm_sesskey()) {
+if ($action === 'delete' && confirm_sesskey() && $can_manage_periods) {
     $id = required_param('id', PARAM_INT);
     $DB->delete_records('local_sentinel_period', ['id' => $id]);
     redirect(new moodle_url('/local/sentinel/admin/periods.php'), get_string('periods:deleted', 'local_sentinel'), 2);
@@ -61,7 +87,6 @@ if ($action === 'delete' && confirm_sesskey()) {
 
 // ── Render ────────────────────────────────────────────────────────────────────
 echo $OUTPUT->header();
-echo $OUTPUT->heading(get_string('periods:title', 'local_sentinel'));
 echo html_writer::tag('p', get_string('periods:intro', 'local_sentinel'), ['class' => 'text-muted']);
 
 // Lista de periodos existentes.
@@ -94,62 +119,65 @@ if (empty($periods)) {
 } else {
     echo '<table class="sn-periods-table">';
     echo '<thead><tr>'
-       . '<th>#</th><th>Etiqueta</th><th>Fecha de corte</th>'
-       . '<th>Ámbito</th><th></th>'
-       . '</tr></thead><tbody>';
+       . '<th>#</th><th>Etiqueta</th><th>Fecha de corte</th>';
+    if ($can_manage_periods) {
+        echo '<th></th>';
+    }
+    echo '</tr></thead><tbody>';
     foreach ($periods as $p) {
-        $delurl = new moodle_url('/local/sentinel/admin/periods.php', [
-            'action'  => 'delete',
-            'id'      => $p->id,
-            'sesskey' => sesskey(),
-        ]);
-        $scope = $p->courseid == 0 ? 'Todo el sitio' : 'Curso ' . $p->courseid;
         $datestr = userdate($p->cutoffdate, '%d/%m/%Y');
         echo '<tr>';
         echo '<td>' . (int)$p->sortorder . '</td>';
         echo '<td><strong>' . s($p->label) . '</strong></td>';
         echo '<td>' . $datestr . '</td>';
-        echo '<td><span style="color:#9ca3af">' . $scope . '</span></td>';
-        echo '<td>';
-        echo html_writer::link($delurl->out(false), 'Eliminar',
-            ['class' => 'btn btn-sm btn-outline-danger',
-             'onclick' => 'return confirm("¿Eliminar esta comunicación?")']);
-        echo '</td>';
+        if ($can_manage_periods) {
+            $delurl = new moodle_url('/local/sentinel/admin/periods.php', [
+                'action'  => 'delete',
+                'id'      => $p->id,
+                'sesskey' => sesskey(),
+            ]);
+            echo '<td>';
+            echo html_writer::link($delurl->out(false), 'Eliminar',
+                ['class' => 'btn btn-sm btn-outline-danger',
+                 'onclick' => 'return confirm("¿Eliminar esta comunicación?")']);
+            echo '</td>';
+        }
         echo '</tr>';
     }
     echo '</tbody></table>';
 }
 
-// Formulario para añadir.
-$addurl = new moodle_url('/local/sentinel/admin/periods.php');
-echo '<div class="sn-add-form">';
-echo '<h5>Añadir comunicación</h5>';
-echo '<form method="post" action="' . $addurl->out(false) . '">';
-echo '<input type="hidden" name="action" value="add">';
-echo '<input type="hidden" name="sesskey" value="' . sesskey() . '">';
-echo '<input type="hidden" name="courseid" value="0">';
-echo '<div class="sn-form-row">';
-echo '<div class="sn-form-group">';
-echo '<label for="p-label">Etiqueta</label>';
-echo '<input type="text" id="p-label" name="label" placeholder="Ej: 1.ª evaluación" required style="width:200px">';
-echo '</div>';
-echo '<div class="sn-form-group">';
-echo '<label for="p-date">Fecha de corte</label>';
-echo '<input type="date" id="p-date" name="cutoffdate_ui" required style="width:160px">';
-echo '<input type="hidden" id="p-date-ts" name="cutoffdate" value="">';
-echo '</div>';
-echo '<div class="sn-form-group">';
-echo '<button type="submit" class="btn btn-primary btn-sm" style="margin-top:1px">Añadir</button>';
-echo '</div>';
-echo '</div>'; // .sn-form-row
-echo '</form>';
-echo '</div>';
-?>
-<script>
-document.getElementById('p-date').addEventListener('change', function () {
-    var d = new Date(this.value + 'T23:59:59');
-    document.getElementById('p-date-ts').value = Math.floor(d.getTime() / 1000);
-});
-</script>
-<?php
+if ($can_manage_periods) {
+    $addurl = new moodle_url('/local/sentinel/admin/periods.php');
+    echo '<div class="sn-add-form">';
+    echo '<h5>Añadir comunicación</h5>';
+    echo '<form method="post" action="' . $addurl->out(false) . '">';
+    echo '<input type="hidden" name="action" value="add">';
+    echo '<input type="hidden" name="sesskey" value="' . sesskey() . '">';
+    echo '<input type="hidden" name="courseid" value="0">';
+    echo '<div class="sn-form-row">';
+    echo '<div class="sn-form-group">';
+    echo '<label for="p-label">Etiqueta</label>';
+    echo '<input type="text" id="p-label" name="label" placeholder="Ej: 1.ª evaluación" required style="width:200px">';
+    echo '</div>';
+    echo '<div class="sn-form-group">';
+    echo '<label for="p-date">Fecha de corte</label>';
+    echo '<input type="date" id="p-date" name="cutoffdate_ui" required style="width:160px">';
+    echo '<input type="hidden" id="p-date-ts" name="cutoffdate" value="">';
+    echo '</div>';
+    echo '<div class="sn-form-group">';
+    echo '<button type="submit" class="btn btn-primary btn-sm" style="margin-top:1px">Añadir</button>';
+    echo '</div>';
+    echo '</div>';
+    echo '</form>';
+    echo '</div>';
+    ?>
+    <script>
+    document.getElementById('p-date').addEventListener('change', function () {
+        var d = new Date(this.value + 'T23:59:59');
+        document.getElementById('p-date-ts').value = Math.floor(d.getTime() / 1000);
+    });
+    </script>
+    <?php
+}
 echo $OUTPUT->footer();

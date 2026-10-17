@@ -200,6 +200,13 @@ const injectSelect = (row, categories, mappings, ajaxUrl, sesskey) => {
         wrapper.appendChild(label);
         wrapper.appendChild(select);
         wrapper.appendChild(status);
+
+        // Prevent clicks on the Sentinel widget from triggering Moodle's
+        // native rubric editor (which toggles textarea visibility on td.description clicks).
+        ['mousedown', 'click', 'focus'].forEach(evt => {
+            wrapper.addEventListener(evt, e => e.stopPropagation(), true);
+        });
+
         descCell.appendChild(wrapper);
     }
 };

@@ -22,9 +22,4 @@ $callbacks = [
         'callback' => \local_sentinel\hook\before_footer::class . '::inject_rubric_editor_js',
         'priority' => 500,
     ],
-    [
-        'hook'     => \core\hook\navigation\secondary_extend::class,
-        'callback' => \local_sentinel\hook\secondary_nav::class . '::extend_course_nav',
-        'priority' => 400,
-    ],
 ];

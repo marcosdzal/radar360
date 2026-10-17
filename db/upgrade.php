@@ -192,6 +192,154 @@ function xmldb_local_sentinel_upgrade($oldversion) {
         upgrade_plugin_savepoint(true, 2024010227, 'local', 'sentinel');
     }
 
+    if ($oldversion < 2024010239) {
+        $table = new xmldb_table('local_sentinel_selfeval');
+        if (!$dbman->table_exists($table)) {
+            $table->add_field('id', XMLDB_TYPE_INTEGER, '10', null, XMLDB_NOTNULL, XMLDB_SEQUENCE);
+            $table->add_field('userid', XMLDB_TYPE_INTEGER, '10', null, XMLDB_NOTNULL);
+            $table->add_field('cmid', XMLDB_TYPE_INTEGER, '10', null, XMLDB_NOTNULL);
+            $table->add_field('criterionid', XMLDB_TYPE_INTEGER, '10', null, XMLDB_NOTNULL);
+            $table->add_field('levelid', XMLDB_TYPE_INTEGER, '10', null, XMLDB_NOTNULL);
+            $table->add_field('score', XMLDB_TYPE_NUMBER, '10', null, XMLDB_NOTNULL, null, '0', 5);
+            $table->add_field('timecreated', XMLDB_TYPE_INTEGER, '10', null, XMLDB_NOTNULL, null, '0');
+            $table->add_field('timemodified', XMLDB_TYPE_INTEGER, '10', null, XMLDB_NOTNULL, null, '0');
+            $table->add_key('primary', XMLDB_KEY_PRIMARY, ['id']);
+            $table->add_key('uq_user_cm_crit', XMLDB_KEY_UNIQUE, ['userid', 'cmid', 'criterionid']);
+            $table->add_index('ix_userid', XMLDB_INDEX_NOTUNIQUE, ['userid']);
+            $table->add_index('ix_cmid', XMLDB_INDEX_NOTUNIQUE, ['cmid']);
+            $dbman->create_table($table);
+        }
+        upgrade_plugin_savepoint(true, 2024010239, 'local', 'sentinel');
+    }
+
+    if ($oldversion < 2024010240) {
+        $table = new xmldb_table('local_sentinel_selfeval');
+        if (!$dbman->table_exists($table)) {
+            $table->add_field('id', XMLDB_TYPE_INTEGER, '10', null, XMLDB_NOTNULL, XMLDB_SEQUENCE);
+            $table->add_field('userid', XMLDB_TYPE_INTEGER, '10', null, XMLDB_NOTNULL);
+            $table->add_field('cmid', XMLDB_TYPE_INTEGER, '10', null, XMLDB_NOTNULL);
+            $table->add_field('criterionid', XMLDB_TYPE_INTEGER, '10', null, XMLDB_NOTNULL);
+            $table->add_field('levelid', XMLDB_TYPE_INTEGER, '10', null, XMLDB_NOTNULL);
+            $table->add_field('score', XMLDB_TYPE_NUMBER, '10', null, XMLDB_NOTNULL, null, '0', 5);
+            $table->add_field('timecreated', XMLDB_TYPE_INTEGER, '10', null, XMLDB_NOTNULL, null, '0');
+            $table->add_field('timemodified', XMLDB_TYPE_INTEGER, '10', null, XMLDB_NOTNULL, null, '0');
+            $table->add_key('primary', XMLDB_KEY_PRIMARY, ['id']);
+            $table->add_key('uq_user_cm_crit', XMLDB_KEY_UNIQUE, ['userid', 'cmid', 'criterionid']);
+            $table->add_index('ix_userid', XMLDB_INDEX_NOTUNIQUE, ['userid']);
+            $table->add_index('ix_cmid', XMLDB_INDEX_NOTUNIQUE, ['cmid']);
+            $dbman->create_table($table);
+        }
+        upgrade_plugin_savepoint(true, 2024010240, 'local', 'sentinel');
+    }
+
+    if ($oldversion < 2024010241) {
+        $table = new xmldb_table('local_sentinel_selfeval_config');
+        if (!$dbman->table_exists($table)) {
+            $table->add_field('id', XMLDB_TYPE_INTEGER, '10', null, XMLDB_NOTNULL, XMLDB_SEQUENCE);
+            $table->add_field('cmid', XMLDB_TYPE_INTEGER, '10', null, XMLDB_NOTNULL);
+            $table->add_field('required', XMLDB_TYPE_INTEGER, '1', null, XMLDB_NOTNULL, null, '0');
+            $table->add_field('timemodified', XMLDB_TYPE_INTEGER, '10', null, XMLDB_NOTNULL, null, '0');
+            $table->add_key('primary', XMLDB_KEY_PRIMARY, ['id']);
+            $table->add_key('uq_cmid', XMLDB_KEY_UNIQUE, ['cmid']);
+            $dbman->create_table($table);
+        }
+        upgrade_plugin_savepoint(true, 2024010241, 'local', 'sentinel');
+    }
+
+    if ($oldversion < 2024010242) {
+        // DUA panel tables.
+        // 1. Logbook notes.
+        $table = new xmldb_table('local_sentinel_dua_note');
+        if (!$dbman->table_exists($table)) {
+            $table->add_field('id', XMLDB_TYPE_INTEGER, '10', null, XMLDB_NOTNULL, XMLDB_SEQUENCE);
+            $table->add_field('userid', XMLDB_TYPE_INTEGER, '10', null, XMLDB_NOTNULL);
+            $table->add_field('courseid', XMLDB_TYPE_INTEGER, '10', null, XMLDB_NOTNULL);
+            $table->add_field('authorid', XMLDB_TYPE_INTEGER, '10', null, XMLDB_NOTNULL);
+            $table->add_field('content', XMLDB_TYPE_TEXT, null, null, XMLDB_NOTNULL);
+            $table->add_field('timecreated', XMLDB_TYPE_INTEGER, '10', null, XMLDB_NOTNULL, null, '0');
+            $table->add_field('timemodified', XMLDB_TYPE_INTEGER, '10', null, XMLDB_NOTNULL, null, '0');
+            $table->add_key('primary', XMLDB_KEY_PRIMARY, ['id']);
+            $table->add_index('ix_userid_courseid', XMLDB_INDEX_NOTUNIQUE, ['userid', 'courseid']);
+            $dbman->create_table($table);
+        }
+
+        // 2. Motivation keys.
+        $table = new xmldb_table('local_sentinel_dua_motiv');
+        if (!$dbman->table_exists($table)) {
+            $table->add_field('id', XMLDB_TYPE_INTEGER, '10', null, XMLDB_NOTNULL, XMLDB_SEQUENCE);
+            $table->add_field('userid', XMLDB_TYPE_INTEGER, '10', null, XMLDB_NOTNULL);
+            $table->add_field('courseid', XMLDB_TYPE_INTEGER, '10', null, XMLDB_NOTNULL);
+            $table->add_field('authorid', XMLDB_TYPE_INTEGER, '10', null, XMLDB_NOTNULL);
+            $table->add_field('category', XMLDB_TYPE_CHAR, '20', null, XMLDB_NOTNULL, null, 'interest');
+            $table->add_field('label', XMLDB_TYPE_CHAR, '255', null, XMLDB_NOTNULL);
+            $table->add_field('timecreated', XMLDB_TYPE_INTEGER, '10', null, XMLDB_NOTNULL, null, '0');
+            $table->add_field('timemodified', XMLDB_TYPE_INTEGER, '10', null, XMLDB_NOTNULL, null, '0');
+            $table->add_key('primary', XMLDB_KEY_PRIMARY, ['id']);
+            $table->add_index('ix_userid_courseid', XMLDB_INDEX_NOTUNIQUE, ['userid', 'courseid']);
+            $dbman->create_table($table);
+        }
+
+        // 3. ACIS/ACS adaptations.
+        $table = new xmldb_table('local_sentinel_dua_acis');
+        if (!$dbman->table_exists($table)) {
+            $table->add_field('id', XMLDB_TYPE_INTEGER, '10', null, XMLDB_NOTNULL, XMLDB_SEQUENCE);
+            $table->add_field('userid', XMLDB_TYPE_INTEGER, '10', null, XMLDB_NOTNULL);
+            $table->add_field('courseid', XMLDB_TYPE_INTEGER, '10', null, XMLDB_NOTNULL);
+            $table->add_field('criterionid', XMLDB_TYPE_INTEGER, '10', null, XMLDB_NOTNULL);
+            $table->add_field('original_text', XMLDB_TYPE_TEXT, null, null, XMLDB_NOTNULL);
+            $table->add_field('adapted_text', XMLDB_TYPE_TEXT, null, null, XMLDB_NOTNULL);
+            $table->add_field('authorid', XMLDB_TYPE_INTEGER, '10', null, XMLDB_NOTNULL);
+            $table->add_field('datestart', XMLDB_TYPE_INTEGER, '10', null, XMLDB_NOTNULL, null, '0');
+            $table->add_field('dateend', XMLDB_TYPE_INTEGER, '10', null, null, null, '0');
+            $table->add_field('timecreated', XMLDB_TYPE_INTEGER, '10', null, XMLDB_NOTNULL, null, '0');
+            $table->add_field('timemodified', XMLDB_TYPE_INTEGER, '10', null, XMLDB_NOTNULL, null, '0');
+            $table->add_key('primary', XMLDB_KEY_PRIMARY, ['id']);
+            $table->add_index('ix_userid_courseid', XMLDB_INDEX_NOTUNIQUE, ['userid', 'courseid']);
+            $table->add_index('ix_criterionid', XMLDB_INDEX_NOTUNIQUE, ['criterionid']);
+            $dbman->create_table($table);
+        }
+
+        // 4. Access adaptations (AA).
+        $table = new xmldb_table('local_sentinel_dua_access');
+        if (!$dbman->table_exists($table)) {
+            $table->add_field('id', XMLDB_TYPE_INTEGER, '10', null, XMLDB_NOTNULL, XMLDB_SEQUENCE);
+            $table->add_field('userid', XMLDB_TYPE_INTEGER, '10', null, XMLDB_NOTNULL);
+            $table->add_field('courseid', XMLDB_TYPE_INTEGER, '10', null, XMLDB_NOTNULL);
+            $table->add_field('measure', XMLDB_TYPE_CHAR, '255', null, XMLDB_NOTNULL);
+            $table->add_field('catalog', XMLDB_TYPE_INTEGER, '1', null, XMLDB_NOTNULL, null, '0');
+            $table->add_field('active', XMLDB_TYPE_INTEGER, '1', null, XMLDB_NOTNULL, null, '1');
+            $table->add_field('authorid', XMLDB_TYPE_INTEGER, '10', null, XMLDB_NOTNULL);
+            $table->add_field('timecreated', XMLDB_TYPE_INTEGER, '10', null, XMLDB_NOTNULL, null, '0');
+            $table->add_field('timemodified', XMLDB_TYPE_INTEGER, '10', null, XMLDB_NOTNULL, null, '0');
+            $table->add_key('primary', XMLDB_KEY_PRIMARY, ['id']);
+            $table->add_index('ix_userid_courseid', XMLDB_INDEX_NOTUNIQUE, ['userid', 'courseid']);
+            $dbman->create_table($table);
+        }
+
+        upgrade_plugin_savepoint(true, 2024010242, 'local', 'sentinel');
+    }
+
+    if ($oldversion < 2024010243) {
+        $table = new xmldb_table('local_sentinel_dua_access');
+
+        $field = new xmldb_field('datestart', XMLDB_TYPE_INTEGER, '10', null, XMLDB_NOTNULL, null, '0', 'authorid');
+        if (!$dbman->field_exists($table, $field)) {
+            $dbman->add_field($table, $field);
+        }
+
+        $field = new xmldb_field('dateend', XMLDB_TYPE_INTEGER, '10', null, null, null, '0', 'datestart');
+        if (!$dbman->field_exists($table, $field)) {
+            $dbman->add_field($table, $field);
+        }
+
+        $field = new xmldb_field('subcategory', XMLDB_TYPE_CHAR, '20', null, XMLDB_NOTNULL, null, 'custom', 'catalog');
+        if (!$dbman->field_exists($table, $field)) {
+            $dbman->add_field($table, $field);
+        }
+
+        upgrade_plugin_savepoint(true, 2024010243, 'local', 'sentinel');
+    }
+
     return true;
 }
 

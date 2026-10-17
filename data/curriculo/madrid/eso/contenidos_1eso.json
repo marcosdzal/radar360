@@ -1,0 +1,4048 @@
+{
+  "biologia_y_geologia": {
+    "name": "Biología y Geología",
+    "grade": "1.o ESO",
+    "blocks": [
+      {
+        "id": "A",
+        "name": "Proyecto científico",
+        "items": [
+          {
+            "c": "A1",
+            "legal": "Iniciación y características básicas de la metodología científica.",
+            "subs": [
+              {
+                "c": "A1.1",
+                "d": "Iniciación y características básicas de la metodología científica"
+              }
+            ]
+          },
+          {
+            "c": "A2",
+            "legal": "Formulación de preguntas, hipótesis y conjeturas científicas básicas y adecuadas a la edad del alumnado.",
+            "subs": [
+              {
+                "c": "A2.1",
+                "d": "Formulación de preguntas, hipótesis y conjeturas científicas básicas y adecuadas a la edad del alumnado"
+              }
+            ]
+          },
+          {
+            "c": "A3",
+            "legal": "Estrategias de utilización de herramientas digitales básicas para la búsqueda de información, la colaboración y la comunicación de resultados e ideas en diferentes formatos (presentación, gráfica, vídeo, póster, informe, etc.).",
+            "subs": [
+              {
+                "c": "A3.1",
+                "d": "Estrategias de utilización de herramientas digitales básicas para la búsqueda de información, la colaboración y la comunicación de resultados e ideas en diferentes formatos (presentación, gráfica, vídeo, póster, informe, etc.)"
+              }
+            ]
+          },
+          {
+            "c": "A4",
+            "legal": "Realización de pequeños trabajos experimentales sencillos y de forma guiada para responder a una cuestión científica determinada utilizando instrumentos y espacios necesarios (laboratorio, aulas, entorno, etc.) de forma adecuada a su edad. \u0002 Obtención y selección de información a partir de datos experimentales.",
+            "subs": [
+              {
+                "c": "A4.1",
+                "d": "Realización de pequeños trabajos experimentales sencillos y de forma guiada para responder a una cuestión científica determinada utilizando instrumentos y espacios necesarios (laboratorio, aulas, entorno, etc.) de forma adecuada a su edad"
+              },
+              {
+                "c": "A4.2",
+                "d": "Obtención y selección de información a partir de datos experimentales"
+              }
+            ]
+          },
+          {
+            "c": "A5",
+            "legal": "Uso de modelos básicos para la representación y comprensión de procesos o elementos de la naturaleza.",
+            "subs": [
+              {
+                "c": "A5.1",
+                "d": "Uso de modelos básicos para la representación y comprensión de procesos o elementos de la naturaleza"
+              }
+            ]
+          },
+          {
+            "c": "A6",
+            "legal": "Introducción a los métodos de observación y de toma de datos de fenómenos naturales.",
+            "subs": [
+              {
+                "c": "A6.1",
+                "d": "Introducción a los métodos de observación y de toma de datos de fenómenos naturales"
+              }
+            ]
+          },
+          {
+            "c": "A7",
+            "legal": "La labor científica y las personas dedicadas a la ciencia: contribución a las ciencias biológicas y geológicas e importancia social.",
+            "subs": [
+              {
+                "c": "A7.1",
+                "d": "La labor científica y las personas dedicadas a la ciencia: contribución a las ciencias biológicas y geológicas e importancia social"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "B",
+        "name": "Geología",
+        "items": [
+          {
+            "c": "B1",
+            "legal": "Conceptos de roca y mineral: características y propiedades.",
+            "subs": [
+              {
+                "c": "B1.1",
+                "d": "Conceptos de roca y mineral: características y propiedades"
+              }
+            ]
+          },
+          {
+            "c": "B2",
+            "legal": "Estrategias de clasificación de las rocas: sedimentarias, metamórficas e ígneas. El ciclo de las rocas.",
+            "subs": [
+              {
+                "c": "B2.1",
+                "d": "Estrategias de clasificación de las rocas: sedimentarias, metamórficas e ígneas"
+              },
+              {
+                "c": "B2.2",
+                "d": "El ciclo de las rocas"
+              }
+            ]
+          },
+          {
+            "c": "B3",
+            "legal": "Rocas y minerales relevantes o del entorno: identificación. \u0002 Identificación mediante claves de rocas y minerales, a partir de sus propiedades, utilizando diversos instrumentos (navaja, lima, ácido, balanza, lupa, etc.).",
+            "subs": [
+              {
+                "c": "B3.1",
+                "d": "Rocas y minerales relevantes o del entorno: identificación"
+              },
+              {
+                "c": "B3.2",
+                "d": "Identificación mediante claves de rocas y minerales, a partir de sus propiedades, utilizando diversos instrumentos (navaja, lima, ácido, balanza, lupa, etc.)"
+              }
+            ]
+          },
+          {
+            "c": "B4",
+            "legal": "Análisis de la estructura básica de la geosfera. \u0002 La geosfera. Estructura y composición de corteza, manto y núcleo.",
+            "subs": [
+              {
+                "c": "B4.1",
+                "d": "Análisis de la estructura básica de la geosfera"
+              },
+              {
+                "c": "B4.2",
+                "d": "La geosfera. Estructura y composición de corteza, manto y núcleo"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "C",
+        "name": "La célula",
+        "items": [
+          {
+            "c": "C1",
+            "legal": "La célula como unidad estructural y funcional de los seres vivos. \u0002 Reconocimiento de que los seres vivos están constituidos por células y determinar las características que los diferencian de la materia inerte. \u0002 Establecimiento comparativo de analogías y diferencias entre célula procariota y eucariota, y entre célula animal y vegetal.",
+            "subs": [
+              {
+                "c": "C1.1",
+                "d": "La célula como unidad estructural y funcional de los seres vivos"
+              },
+              {
+                "c": "C1.2",
+                "d": "Reconocimiento de que los seres vivos están constituidos por células y determinar las características que los diferencian de la materia inerte"
+              },
+              {
+                "c": "C1.3",
+                "d": "Establecimiento comparativo de analogías y diferencias entre célula procariota y eucariota, y entre célula animal y vegetal"
+              }
+            ]
+          },
+          {
+            "c": "C2",
+            "legal": "Estudio y reconocimiento de la célula procariota y sus partes.",
+            "subs": [
+              {
+                "c": "C2.1",
+                "d": "Estudio y reconocimiento de la célula procariota y sus partes"
+              }
+            ]
+          },
+          {
+            "c": "C3",
+            "legal": "Estudio y reconocimiento de la célula eucariota animal y sus partes.",
+            "subs": [
+              {
+                "c": "C3.1",
+                "d": "Estudio y reconocimiento de la célula eucariota animal y sus partes"
+              }
+            ]
+          },
+          {
+            "c": "C4",
+            "legal": "Estudio y reconocimiento de la célula eucariota vegetal y sus partes.",
+            "subs": [
+              {
+                "c": "C4.1",
+                "d": "Estudio y reconocimiento de la célula eucariota vegetal y sus partes"
+              }
+            ]
+          },
+          {
+            "c": "C5",
+            "legal": "Estrategias y destrezas de observación y comparación de muestras microscópicas. \u0002 Observación, y descripción de seres unicelulares y células vegetales y animales, mediante preparaciones, utilizando el microscopio óptico.",
+            "subs": [
+              {
+                "c": "C5.1",
+                "d": "Estrategias y destrezas de observación y comparación de muestras microscópicas"
+              },
+              {
+                "c": "C5.2",
+                "d": "Observación, y descripción de seres unicelulares y células vegetales y animales, mediante preparaciones, utilizando el microscopio óptico"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "D",
+        "name": "Seres vivos",
+        "items": [
+          {
+            "c": "D1",
+            "legal": "Los seres vivos: diferenciación y clasificación en los principales reinos: arqueas, bacterias, protoctista, fungi, vegetal y animal.",
+            "subs": [
+              {
+                "c": "D1.1",
+                "d": "Los seres vivos: diferenciación y clasificación en los principales reinos: arqueas, bacterias, protoctista, fungi, vegetal y animal"
+              }
+            ]
+          },
+          {
+            "c": "D2",
+            "legal": "Descripción de las funciones comunes a todos los seres vivos, diferenciando entre nutrición autótrofa y heterótrofa. \u0002 Reconocimiento del papel de las plantas y el proceso de la nutrición autótrofa, relacionándolo con su importancia para el conjunto de todos los seres vivos.",
+            "subs": [
+              {
+                "c": "D2.1",
+                "d": "Descripción de las funciones comunes a todos los seres vivos, diferenciando entre nutrición autótrofa y heterótrofa"
+              },
+              {
+                "c": "D2.2",
+                "d": "Reconocimiento del papel de las plantas y el proceso de la nutrición autótrofa, relacionándolo con su importancia para el conjunto de todos los seres vivos"
+              }
+            ]
+          },
+          {
+            "c": "D3",
+            "legal": "Animales vertebrados e invertebrados. Clasificación y características.",
+            "subs": [
+              {
+                "c": "D3.1",
+                "d": "Animales vertebrados e invertebrados. Clasificación y características"
+              }
+            ]
+          },
+          {
+            "c": "D4",
+            "legal": "Observación de especies representativas del entorno. \u0002 Identificación de ejemplares de plantas y animales del entorno o de interés especial por ser especies en peligro de extinción o endémicas.",
+            "subs": [
+              {
+                "c": "D4.1",
+                "d": "Observación de especies representativas del entorno"
+              },
+              {
+                "c": "D4.2",
+                "d": "Identificación de ejemplares de plantas y animales del entorno o de interés especial por ser especies en peligro de extinción o endémicas"
+              }
+            ]
+          },
+          {
+            "c": "D5",
+            "legal": "Identificación de las características distintivas de los principales grupos de seres vivos. \u0002 Aplicación de criterios de clasificación de los seres vivos, relacionando los animales y plantas más comunes con su grupo taxonómico. \u0002 Discriminación de las características generales y singulares de cada grupo taxonómico.",
+            "subs": [
+              {
+                "c": "D5.1",
+                "d": "Identificación de las características distintivas de los principales grupos de seres vivos"
+              },
+              {
+                "c": "D5.2",
+                "d": "Aplicación de criterios de clasificación de los seres vivos, relacionando los animales y plantas más comunes con su grupo taxonómico"
+              },
+              {
+                "c": "D5.3",
+                "d": "Discriminación de las características generales y singulares de cada grupo taxonómico"
+              }
+            ]
+          },
+          {
+            "c": "D6",
+            "legal": "Estrategias de reconocimiento de las especies más comunes de los ecosistemas del entorno (guías, claves dicotómicas, herramientas digitales, visu, etc.). \u0002 Identificación de los principales grupos taxonómicos a los que pertenecen animales y plantas.",
+            "subs": [
+              {
+                "c": "D6.1",
+                "d": "Estrategias de reconocimiento de las especies más comunes de los ecosistemas del entorno (guías, claves dicotómicas, herramientas digitales, visu, etc.)"
+              },
+              {
+                "c": "D6.2",
+                "d": "Identificación de los principales grupos taxonómicos a los que pertenecen animales y plantas"
+              }
+            ]
+          },
+          {
+            "c": "D7",
+            "legal": "Los animales como seres que sienten: semejanzas y diferencias con los seres no sienten.",
+            "subs": [
+              {
+                "c": "D7.1",
+                "d": "Los animales como seres que sienten: semejanzas y diferencias con los seres no sienten"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "E",
+        "name": "Ecología y sostenibilidad",
+        "items": [
+          {
+            "c": "E1",
+            "legal": "Análisis de los ecosistemas del entorno y reconocimiento de sus elementos integrantes, así como los tipos de relaciones intraespecíficas e interespecíficas. \u0002 Componentes abióticos y bióticos en los ecosistemas. \u0002 Ecosistemas terrestres y acuáticos.",
+            "subs": [
+              {
+                "c": "E1.1",
+                "d": "Análisis de los ecosistemas del entorno y reconocimiento de sus elementos integrantes, así como los tipos de relaciones intraespecíficas e interespecíficas"
+              },
+              {
+                "c": "E1.2",
+                "d": "Componentes abióticos y bióticos en los ecosistemas"
+              },
+              {
+                "c": "E1.3",
+                "d": "Ecosistemas terrestres y acuáticos"
+              }
+            ]
+          },
+          {
+            "c": "E2",
+            "legal": "Reconocimiento de la importancia de la conservación de los ecosistemas, la biodiversidad y la implantación de un modelo de desarrollo sostenible. \u0002 Acciones que favorecen la conservación del medio ambiente.",
+            "subs": [
+              {
+                "c": "E2.1",
+                "d": "Reconocimiento de la importancia de la conservación de los ecosistemas, la biodiversidad y la implantación de un modelo de desarrollo sostenible"
+              },
+              {
+                "c": "E2.2",
+                "d": "Acciones que favorecen la conservación del medio ambiente"
+              }
+            ]
+          },
+          {
+            "c": "E3",
+            "legal": "Análisis de las funciones de la atmósfera y la hidrosfera y su papel esencial para la vida en la Tierra. \u0002 Composición, características y contaminación de la atmósfera. Principales contaminantes. Efecto invernadero. \u0002 La hidrosfera. Agua dulce y salada, importancia para los seres vivos. Contaminación de la hidrosfera.",
+            "subs": [
+              {
+                "c": "E3.1",
+                "d": "Análisis de las funciones de la atmósfera y la hidrosfera y su papel esencial para la vida en la Tierra"
+              },
+              {
+                "c": "E3.2",
+                "d": "Composición, características y contaminación de la atmósfera. Principales contaminantes. Efecto invernadero"
+              },
+              {
+                "c": "E3.3",
+                "d": "La hidrosfera. Agua dulce y salada, importancia para los seres vivos. Contaminación de la hidrosfera"
+              }
+            ]
+          },
+          {
+            "c": "E4",
+            "legal": "Descripción de las interacciones entre atmósfera, hidrosfera, geosfera y biosfera, su papel en la edafogénesis y en el modelado del relieve y su importancia para la vida. Las funciones del suelo. \u0002 El suelo como resultado de la interacción entre los componentes bióticos y abióticos y como recurso no renovable.",
+            "subs": [
+              {
+                "c": "E4.1",
+                "d": "Descripción de las interacciones entre atmósfera, hidrosfera, geosfera y biosfera, su papel en la edafogénesis y en el modelado del relieve y su importancia para la vida. Las funciones del suelo"
+              },
+              {
+                "c": "E4.2",
+                "d": "El suelo como resultado de la interacción entre los componentes bióticos y abióticos y como recurso no renovable"
+              }
+            ]
+          },
+          {
+            "c": "E5",
+            "legal": "Análisis de las causas del cambio climático y de sus consecuencias sobre los ecosistemas.",
+            "subs": [
+              {
+                "c": "E5.1",
+                "d": "Análisis de las causas del cambio climático y de sus consecuencias sobre los ecosistemas"
+              }
+            ]
+          },
+          {
+            "c": "E6",
+            "legal": "Interpretación y relación de los principales contaminantes con los problemas causados y con su origen.",
+            "subs": [
+              {
+                "c": "E6.1",
+                "d": "Interpretación y relación de los principales contaminantes con los problemas causados y con su origen"
+              }
+            ]
+          },
+          {
+            "c": "E7",
+            "legal": "Valoración de la importancia de los hábitos sostenibles (consumo responsable, prevención y gestión de residuos, respeto al medio ambiente, etc.). \u0002 Pautas y hábitos que contribuyen a paliar los problemas ambientales.",
+            "subs": [
+              {
+                "c": "E7.1",
+                "d": "Valoración de la importancia de los hábitos sostenibles (consumo responsable, prevención y gestión de residuos, respeto al medio ambiente, etc.)"
+              },
+              {
+                "c": "E7.2",
+                "d": "Pautas y hábitos que contribuyen a paliar los problemas ambientales"
+              }
+            ]
+          },
+          {
+            "c": "E8",
+            "legal": "La relación entre la salud medioambiental, humana y de otros seres vivos: one health (una sola salud).",
+            "subs": [
+              {
+                "c": "E8.1",
+                "d": "La relación entre la salud medioambiental, humana y de otros seres vivos: one health (una sola salud)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "F",
+        "name": "Hábitos saludables",
+        "items": [
+          {
+            "c": "F1",
+            "legal": "Identificación de los elementos y características propios de una dieta saludable y análisis de su importancia. \u0002 Dietas equilibradas. Los nutrientes y los alimentos. \u0002 Trastornos de la conducta alimentaria. Influencias externas sobre los conceptos de salud e imagen corporal.",
+            "subs": [
+              {
+                "c": "F1.1",
+                "d": "Identificación de los elementos y características propios de una dieta saludable y análisis de su importancia"
+              },
+              {
+                "c": "F1.2",
+                "d": "Dietas equilibradas. Los nutrientes y los alimentos"
+              },
+              {
+                "c": "F1.3",
+                "d": "Trastornos de la conducta alimentaria. Influencias externas sobre los conceptos de salud e imagen corporal"
+              }
+            ]
+          },
+          {
+            "c": "F2",
+            "legal": "Educación afectivo-sexual, de una manera adecuada a la edad del alumno, promoviendo las relaciones de buen trato, desde la perspectiva de la igualdad entre personas valorando la importancia del respeto hacia la libertad y la diversidad sexual.",
+            "subs": [
+              {
+                "c": "F2.1",
+                "d": "Educación afectivo-sexual, de una manera adecuada a la edad del alumno, promoviendo las relaciones de buen trato, desde la perspectiva de la igualdad entre personas valorando la importancia del respeto hacia la libertad y la diversidad sexual"
+              }
+            ]
+          },
+          {
+            "c": "F3",
+            "legal": "Análisis sobre las drogas legales e ilegales: sus efectos perjudiciales sobre la salud de los consumidores y de quienes están en su entorno próximo. \u0002 Situaciones de riesgo y efectos nocivos para la salud relacionadas con el consumo de sustancias tóxicas y estimulantes como tabaco, alcohol, drogas, etc. Medidas de prevención y control.",
+            "subs": [
+              {
+                "c": "F3.1",
+                "d": "Análisis sobre las drogas legales e ilegales: sus efectos perjudiciales sobre la salud de los consumidores y de quienes están en su entorno próximo"
+              },
+              {
+                "c": "F3.2",
+                "d": "Situaciones de riesgo y efectos nocivos para la salud relacionadas con el consumo de sustancias tóxicas y estimulantes como tabaco, alcohol, drogas, etc. Medidas de prevención y control"
+              }
+            ]
+          },
+          {
+            "c": "F4",
+            "legal": "Valoración del desarrollo de hábitos saludables y su importancia en la conservación de la salud física, mental y social (alimentación saludable, reducción del sedentarismo, higiene del sueño, hábitos posturales, uso responsable de las nuevas tecnologías, actividad física, cuidado y corresponsabilidad, etc…). \u0002 Análisis de los efectos positivos de unos hábitos saludables hacia la salud, el crecimiento y la actividad académica.",
+            "subs": [
+              {
+                "c": "F4.1",
+                "d": "Valoración del desarrollo de hábitos saludables y su importancia en la conservación de la salud física, mental y social (alimentación saludable, reducción del sedentarismo, higiene del sueño, hábitos posturales, uso responsable de las nuevas tecnologías, actividad física, cuidado y corresponsabilidad, etc…)"
+              },
+              {
+                "c": "F4.2",
+                "d": "Análisis de los efectos positivos de unos hábitos saludables hacia la salud, el crecimiento y la actividad académica"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "T",
+        "name": "Contenidos transversales",
+        "items": [
+          {
+            "c": "T1",
+            "legal": "La comprensión lectora, la expresión oral y escrita, la comunicación audiovisual, la competencia digital, el emprendimiento social y empresarial, el fomento del espíritu crítico y científico, la educación emocional y en valores, la igualdad de género y la creatividad se trabajarán en todas las materias.",
+            "subs": [
+              {
+                "c": "T1.1",
+                "d": "La comprensión lectora"
+              },
+              {
+                "c": "T1.2",
+                "d": "La expresión oral y escrita"
+              },
+              {
+                "c": "T1.3",
+                "d": "La comunicación audiovisual"
+              },
+              {
+                "c": "T1.4",
+                "d": "La competencia digital"
+              },
+              {
+                "c": "T1.5",
+                "d": "El emprendimiento social y empresarial"
+              },
+              {
+                "c": "T1.6",
+                "d": "El fomento del espíritu crítico y científico"
+              },
+              {
+                "c": "T1.7",
+                "d": "La educación emocional y en valores"
+              },
+              {
+                "c": "T1.8",
+                "d": "La igualdad de género"
+              },
+              {
+                "c": "T1.9",
+                "d": "La creatividad"
+              }
+            ]
+          },
+          {
+            "c": "T2",
+            "legal": "En todo caso se fomentará de manera transversal la educación para la salud, incluida la afectivo-sexual, la formación estética, la educación ambiental y para el consumo, la educación vial, los derechos humanos, el respeto mutuo y la cooperación entre iguales.",
+            "subs": [
+              {
+                "c": "T2.1",
+                "d": "La educación para la salud, incluida la afectivo-sexual"
+              },
+              {
+                "c": "T2.2",
+                "d": "La formación estética"
+              },
+              {
+                "c": "T2.3",
+                "d": "La educación ambiental y para el consumo"
+              },
+              {
+                "c": "T2.4",
+                "d": "La educación vial"
+              },
+              {
+                "c": "T2.5",
+                "d": "Los derechos humanos"
+              },
+              {
+                "c": "T2.6",
+                "d": "El respeto mutuo y la cooperación entre iguales"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "educacion_fisica": {
+    "name": "Educación Física",
+    "grade": "1.o ESO",
+    "blocks": [
+      {
+        "id": "A",
+        "name": "Vida activa y saludable",
+        "items": [
+          {
+            "c": "A1",
+            "legal": "Salud física. \u0002 Tasa mínima y recomendaciones de actividad física diaria y semanal. Adecuación del tipo, volumen y la intensidad de la actividad a las características personales. \u0002 Alimentación saludable y valor nutricional de los alimentos. Pautas básicas de consumo. Tipos de alimentos, frecuencia recomendada y variedad de la ingesta. \u0002 Educación postural: técnicas básicas de descarga postural y relajación. \u0002 Cuidado del cuerpo: calentamiento general autónomo. \u0002 Pautas para tratar el dolor muscular de origen retardado.",
+            "subs": [
+              {
+                "c": "A1.1",
+                "d": "Salud física"
+              },
+              {
+                "c": "A1.2",
+                "d": "Tasa mínima y recomendaciones de actividad física diaria y semanal. Adecuación del tipo, volumen y la intensidad de la actividad a las características personales"
+              },
+              {
+                "c": "A1.3",
+                "d": "Alimentación saludable y valor nutricional de los alimentos. Pautas básicas de consumo. Tipos de alimentos, frecuencia recomendada y variedad de la ingesta"
+              },
+              {
+                "c": "A1.4",
+                "d": "Educación postural: técnicas básicas de descarga postural y relajación"
+              },
+              {
+                "c": "A1.5",
+                "d": "Cuidado del cuerpo: calentamiento general autónomo"
+              },
+              {
+                "c": "A1.6",
+                "d": "Pautas para tratar el dolor muscular de origen retardado"
+              }
+            ]
+          },
+          {
+            "c": "A2",
+            "legal": "Salud social. \u0002 Efectos sobre la salud de malos hábitos vinculados a comportamientos sociales (tabaquismo, consumo de alcohol, etc.).",
+            "subs": [
+              {
+                "c": "A2.1",
+                "d": "Salud social"
+              },
+              {
+                "c": "A2.2",
+                "d": "Efectos sobre la salud de malos hábitos vinculados a comportamientos sociales (tabaquismo, consumo de alcohol, etc.)"
+              }
+            ]
+          },
+          {
+            "c": "A3",
+            "legal": "Salud mental. \u0002 Aceptación de limitaciones y posibilidades de mejora ante las situaciones motrices. \u0002 La actividad física como fuente de disfrute, liberación de tensiones, cohesión social y superación personal. \u0002 Reflexión sobre actitudes negativas hacia la actividad física derivadas de ideas preconcebidas, prejuicios, estereotipos o experiencias negativas.",
+            "subs": [
+              {
+                "c": "A3.1",
+                "d": "Salud mental"
+              },
+              {
+                "c": "A3.2",
+                "d": "Aceptación de limitaciones y posibilidades de mejora ante las situaciones motrices"
+              },
+              {
+                "c": "A3.3",
+                "d": "La actividad física como fuente de disfrute, liberación de tensiones, cohesión social y superación personal"
+              },
+              {
+                "c": "A3.4",
+                "d": "Reflexión sobre actitudes negativas hacia la actividad física derivadas de ideas preconcebidas, prejuicios, estereotipos o experiencias negativas"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "B",
+        "name": "Organización y gestión de la actividad física",
+        "items": [
+          {
+            "c": "B1",
+            "legal": "Elección de la práctica física. \u0002 Gestión de las situaciones de competición en base a criterios de lógica, respeto al rival y motivación.",
+            "subs": [
+              {
+                "c": "B1.1",
+                "d": "Elección de la práctica física"
+              },
+              {
+                "c": "B1.2",
+                "d": "Gestión de las situaciones de competición en base a criterios de lógica, respeto al rival y motivación"
+              }
+            ]
+          },
+          {
+            "c": "B2",
+            "legal": "Preparación de la práctica motriz. \u0002 La higiene como elemento imprescindible en la práctica de actividad física y deportiva.",
+            "subs": [
+              {
+                "c": "B2.1",
+                "d": "Preparación de la práctica motriz"
+              },
+              {
+                "c": "B2.2",
+                "d": "La higiene como elemento imprescindible en la práctica de actividad física y deportiva"
+              }
+            ]
+          },
+          {
+            "c": "B3",
+            "legal": "Planificación y autorregulación de proyectos motores. \u0002 Establecimiento de mecanismos de autoevaluación para reconducir los procesos de trabajo. \u0002 Herramientas digitales para la gestión de la actividad física.",
+            "subs": [
+              {
+                "c": "B3.1",
+                "d": "Planificación y autorregulación de proyectos motores"
+              },
+              {
+                "c": "B3.2",
+                "d": "Establecimiento de mecanismos de autoevaluación para reconducir los procesos de trabajo"
+              },
+              {
+                "c": "B3.3",
+                "d": "Herramientas digitales para la gestión de la actividad física"
+              }
+            ]
+          },
+          {
+            "c": "B4",
+            "legal": "Prevención de accidentes en las prácticas motrices. \u0002 Medidas de seguridad en las actividades físicas practicadas dentro y fuera del centro escolar.",
+            "subs": [
+              {
+                "c": "B4.1",
+                "d": "Prevención de accidentes en las prácticas motrices"
+              },
+              {
+                "c": "B4.2",
+                "d": "Medidas de seguridad en las actividades físicas practicadas dentro y fuera del centro escolar"
+              }
+            ]
+          },
+          {
+            "c": "B5",
+            "legal": "Actuaciones básicas ante accidentes durante la práctica de actividades físicas. \u0002 Conducta PAS (proteger, ayudar, socorrer). \u0002 Protocolo 112. \u0002 Soporte Vital Básico (SVB).",
+            "subs": [
+              {
+                "c": "B5.1",
+                "d": "Actuaciones básicas ante accidentes durante la práctica de actividades físicas"
+              },
+              {
+                "c": "B5.2",
+                "d": "Conducta PAS (proteger, ayudar, socorrer)"
+              },
+              {
+                "c": "B5.3",
+                "d": "Protocolo 112"
+              },
+              {
+                "c": "B5.4",
+                "d": "Soporte Vital Básico (SVB)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "C",
+        "name": "Resolución de problemas en situaciones motrices",
+        "items": [
+          {
+            "c": "C1",
+            "legal": "Toma de decisiones. \u0002 Utilización consciente del cuerpo en función de las características de la actividad, contexto y parámetros espaciales en los que se desarrolla en situaciones motrices individuales. \u0002 Pautas grupales para optimizar los recursos motrices del grupo de cara a la resolución de la acción/tarea en situaciones cooperativas. \u0002 Adecuación de los movimientos propios a las acciones del contrario en situaciones de oposición.",
+            "subs": [
+              {
+                "c": "C1.1",
+                "d": "Toma de decisiones"
+              },
+              {
+                "c": "C1.2",
+                "d": "Utilización consciente del cuerpo en función de las características de la actividad, contexto y parámetros espaciales en los que se desarrolla en situaciones motrices individuales"
+              },
+              {
+                "c": "C1.3",
+                "d": "Pautas grupales para optimizar los recursos motrices del grupo de cara a la resolución de la acción/tarea en situaciones cooperativas"
+              },
+              {
+                "c": "C1.4",
+                "d": "Adecuación de los movimientos propios a las acciones del contrario en situaciones de oposición"
+              }
+            ]
+          },
+          {
+            "c": "C2",
+            "legal": "Capacidades perceptivo-motrices en contexto de práctica. \u0002 Integración del esquema corporal. \u0002 Integración de los diferentes aspectos coordinativos, espaciales y temporales en determinadas secuencias motrices o deportivas.",
+            "subs": [
+              {
+                "c": "C2.1",
+                "d": "Capacidades perceptivo-motrices en contexto de práctica"
+              },
+              {
+                "c": "C2.2",
+                "d": "Integración del esquema corporal"
+              },
+              {
+                "c": "C2.3",
+                "d": "Integración de los diferentes aspectos coordinativos, espaciales y temporales en determinadas secuencias motrices o deportivas"
+              }
+            ]
+          },
+          {
+            "c": "C3",
+            "legal": "Capacidades condicionales. \u0002 Desarrollo de las capacidades físicas básicas. Componentes elementales de la carga para el acondicionamiento físico.",
+            "subs": [
+              {
+                "c": "C3.1",
+                "d": "Capacidades condicionales"
+              },
+              {
+                "c": "C3.2",
+                "d": "Desarrollo de las capacidades físicas básicas. Componentes elementales de la carga para el acondicionamiento físico"
+              }
+            ]
+          },
+          {
+            "c": "C4",
+            "legal": "Habilidades motrices específicas asociadas a la técnica en actividades físico-deportivas: \u0002 Deportes y actividades individuales: atletismo, carreras de velocidad, salto de longitud, lanzamiento de jabalina, combas o malabares, entre otros. \u0002 Deportes de red y muro: bádminton o mini tenis. \u0002 Deportes de invasión: balonmano, colpbol, hockey o unihockey.",
+            "subs": [
+              {
+                "c": "C4.1",
+                "d": "Habilidades motrices específicas asociadas a la técnica en actividades físico-deportivas:"
+              },
+              {
+                "c": "C4.2",
+                "d": "Deportes y actividades individuales: atletismo, carreras de velocidad, salto de longitud, lanzamiento de jabalina, combas o malabares, entre otros"
+              },
+              {
+                "c": "C4.3",
+                "d": "Deportes de red y muro: bádminton o mini tenis"
+              },
+              {
+                "c": "C4.4",
+                "d": "Deportes de invasión: balonmano, colpbol, hockey o unihockey"
+              }
+            ]
+          },
+          {
+            "c": "C5",
+            "legal": "Creatividad motriz. \u0002 Resolución de retos y situaciones-problema de forma original, tanto individualmente como en grupo.",
+            "subs": [
+              {
+                "c": "C5.1",
+                "d": "Creatividad motriz"
+              },
+              {
+                "c": "C5.2",
+                "d": "Resolución de retos y situaciones-problema de forma original, tanto individualmente como en grupo"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "D",
+        "name": "Emociones y relaciones sociales",
+        "items": [
+          {
+            "c": "D1",
+            "legal": "Gestión emocional. \u0002 Perseverancia y tolerancia a la frustración en contextos físico-deportivos. \u0002 Reconocimiento del estrés asociado a situaciones motrices.",
+            "subs": [
+              {
+                "c": "D1.1",
+                "d": "Gestión emocional"
+              },
+              {
+                "c": "D1.2",
+                "d": "Perseverancia y tolerancia a la frustración en contextos físico-deportivos"
+              },
+              {
+                "c": "D1.3",
+                "d": "Reconocimiento del estrés asociado a situaciones motrices"
+              }
+            ]
+          },
+          {
+            "c": "D2",
+            "legal": "Habilidades sociales. \u0002 Conductas prosociales en situaciones motrices colectivas: ayuda, colaboración, cooperación, empatía y solidaridad.",
+            "subs": [
+              {
+                "c": "D2.1",
+                "d": "Habilidades sociales"
+              },
+              {
+                "c": "D2.2",
+                "d": "Conductas prosociales en situaciones motrices colectivas: ayuda, colaboración, cooperación, empatía y solidaridad"
+              }
+            ]
+          },
+          {
+            "c": "D3",
+            "legal": "Respeto a las reglas. \u0002 Las reglas de juego como elemento de integración social.",
+            "subs": [
+              {
+                "c": "D3.1",
+                "d": "Respeto a las reglas"
+              },
+              {
+                "c": "D3.2",
+                "d": "Las reglas de juego como elemento de integración social"
+              }
+            ]
+          },
+          {
+            "c": "D4",
+            "legal": "Identificación y rechazo de conductas contrarias a la convivencia en situaciones motrices (comportamientos violentos, discriminación por cuestiones de género, competencia motriz, actitudes xenófobas, racistas, LGTBIfóbicas o sexistas).",
+            "subs": [
+              {
+                "c": "D4.1",
+                "d": "Identificación y rechazo de conductas contrarias a la convivencia en situaciones motrices (comportamientos violentos, discriminación por cuestiones de género, competencia motriz, actitudes xenófobas, racistas, LGTBIfóbicas o sexistas)"
+              }
+            ]
+          },
+          {
+            "c": "D5",
+            "legal": "Asertividad y autocuidado.",
+            "subs": [
+              {
+                "c": "D5.1",
+                "d": "Asertividad y autocuidado"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "E",
+        "name": "Manifestaciones de la cultura motriz",
+        "items": [
+          {
+            "c": "E1",
+            "legal": "Aportaciones de la cultura motriz a la herencia cultural. \u0002 Los juegos y las danzas.",
+            "subs": [
+              {
+                "c": "E1.1",
+                "d": "Aportaciones de la cultura motriz a la herencia cultural"
+              },
+              {
+                "c": "E1.2",
+                "d": "Los juegos y las danzas"
+              }
+            ]
+          },
+          {
+            "c": "E2",
+            "legal": "Usos comunicativos de la corporalidad. \u0002 Expresión de sentimientos y emociones en diferentes contextos. Técnicas de interpretación: mimo y juego dramático.",
+            "subs": [
+              {
+                "c": "E2.1",
+                "d": "Usos comunicativos de la corporalidad"
+              },
+              {
+                "c": "E2.2",
+                "d": "Expresión de sentimientos y emociones en diferentes contextos. Técnicas de interpretación: mimo y juego dramático"
+              }
+            ]
+          },
+          {
+            "c": "E3",
+            "legal": "Práctica de actividades rítmico-musicales con carácter artístico-expresivo. \u0002 Danza aeróbica: variantes, pasos y coreografías básicas.",
+            "subs": [
+              {
+                "c": "E3.1",
+                "d": "Práctica de actividades rítmico-musicales con carácter artístico-expresivo"
+              },
+              {
+                "c": "E3.2",
+                "d": "Danza aeróbica: variantes, pasos y coreografías básicas"
+              }
+            ]
+          },
+          {
+            "c": "E4",
+            "legal": "Deporte y género. \u0002 Presencia y relevancia de figuras masculinas y femeninas. \u0002 Análisis crítico.",
+            "subs": [
+              {
+                "c": "E4.1",
+                "d": "Deporte y género"
+              },
+              {
+                "c": "E4.2",
+                "d": "Presencia y relevancia de figuras masculinas y femeninas"
+              },
+              {
+                "c": "E4.3",
+                "d": "Análisis crítico"
+              }
+            ]
+          },
+          {
+            "c": "E5",
+            "legal": "Influencia del deporte en la cultura actual. \u0002 El deporte como fenómeno de masas. Impacto social, aspectos positivos y negativos.",
+            "subs": [
+              {
+                "c": "E5.1",
+                "d": "Influencia del deporte en la cultura actual"
+              },
+              {
+                "c": "E5.2",
+                "d": "El deporte como fenómeno de masas. Impacto social, aspectos positivos y negativos"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "F",
+        "name": "Interacción eficiente y sostenible con el entorno",
+        "items": [
+          {
+            "c": "F1",
+            "legal": "Normas de uso. \u0002 Conocimiento y respeto a las normas viales en los desplazamientos activos cotidianos para una movilidad segura, saludable y sostenible.",
+            "subs": [
+              {
+                "c": "F1.1",
+                "d": "Normas de uso"
+              },
+              {
+                "c": "F1.2",
+                "d": "Conocimiento y respeto a las normas viales en los desplazamientos activos cotidianos para una movilidad segura, saludable y sostenible"
+              }
+            ]
+          },
+          {
+            "c": "F2",
+            "legal": "Nuevos espacios y prácticas deportivas: características, requisitos, condicionantes, medidas de seguridad, de cuidado y de conservación del entorno de práctica. \u0002 Utilización de espacios naturales desde la motricidad. Senderismo. \u0002 Utilización de espacios urbanos desde la motricidad. Ciclismo urbano.",
+            "subs": [
+              {
+                "c": "F2.1",
+                "d": "Nuevos espacios y prácticas deportivas: características, requisitos, condicionantes, medidas de seguridad, de cuidado y de conservación del entorno de práctica"
+              },
+              {
+                "c": "F2.2",
+                "d": "Utilización de espacios naturales desde la motricidad. Senderismo"
+              },
+              {
+                "c": "F2.3",
+                "d": "Utilización de espacios urbanos desde la motricidad. Ciclismo urbano"
+              }
+            ]
+          },
+          {
+            "c": "F3",
+            "legal": "Análisis del riesgo en las prácticas físico-deportivas en el medio natural y urbano: medidas de seguridad en actividades de los distintos entornos con posibles consecuencias graves en los mismos.",
+            "subs": [
+              {
+                "c": "F3.1",
+                "d": "Análisis del riesgo en las prácticas físico-deportivas en el medio natural y urbano: medidas de seguridad en actividades de los distintos entornos con posibles consecuencias graves en los mismos"
+              }
+            ]
+          },
+          {
+            "c": "F4",
+            "legal": "Consumo responsable. \u0002 Autoconstrucción de materiales para la práctica motriz. – Cuidado del entorno durante la práctica de actividad física en entornos naturales y urbanos.",
+            "subs": [
+              {
+                "c": "F4.1",
+                "d": "Consumo responsable"
+              },
+              {
+                "c": "F4.2",
+                "d": "Autoconstrucción de materiales para la práctica motriz. – Cuidado del entorno durante la práctica de actividad física en entornos naturales y urbanos"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "T",
+        "name": "Contenidos transversales",
+        "items": [
+          {
+            "c": "T1",
+            "legal": "La comprensión lectora, la expresión oral y escrita, la comunicación audiovisual, la competencia digital, el emprendimiento social y empresarial, el fomento del espíritu crítico y científico, la educación emocional y en valores, la igualdad de género y la creatividad se trabajarán en todas las materias.",
+            "subs": [
+              {
+                "c": "T1.1",
+                "d": "La comprensión lectora"
+              },
+              {
+                "c": "T1.2",
+                "d": "La expresión oral y escrita"
+              },
+              {
+                "c": "T1.3",
+                "d": "La comunicación audiovisual"
+              },
+              {
+                "c": "T1.4",
+                "d": "La competencia digital"
+              },
+              {
+                "c": "T1.5",
+                "d": "El emprendimiento social y empresarial"
+              },
+              {
+                "c": "T1.6",
+                "d": "El fomento del espíritu crítico y científico"
+              },
+              {
+                "c": "T1.7",
+                "d": "La educación emocional y en valores"
+              },
+              {
+                "c": "T1.8",
+                "d": "La igualdad de género"
+              },
+              {
+                "c": "T1.9",
+                "d": "La creatividad"
+              }
+            ]
+          },
+          {
+            "c": "T2",
+            "legal": "En todo caso se fomentará de manera transversal la educación para la salud, incluida la afectivo-sexual, la formación estética, la educación ambiental y para el consumo, la educación vial, los derechos humanos, el respeto mutuo y la cooperación entre iguales.",
+            "subs": [
+              {
+                "c": "T2.1",
+                "d": "La educación para la salud, incluida la afectivo-sexual"
+              },
+              {
+                "c": "T2.2",
+                "d": "La formación estética"
+              },
+              {
+                "c": "T2.3",
+                "d": "La educación ambiental y para el consumo"
+              },
+              {
+                "c": "T2.4",
+                "d": "La educación vial"
+              },
+              {
+                "c": "T2.5",
+                "d": "Los derechos humanos"
+              },
+              {
+                "c": "T2.6",
+                "d": "El respeto mutuo y la cooperación entre iguales"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "educacion_plastica": {
+    "name": "Educación Plástica, Visual y Audiovisual",
+    "grade": "1.o ESO",
+    "blocks": [
+      {
+        "id": "A",
+        "name": "Patrimonio artístico y cultural. Apreciación estética y análisis",
+        "items": [
+          {
+            "c": "A1",
+            "legal": "Los géneros artísticos a lo largo de la historia del arte: del paleolítico al renacimiento.",
+            "subs": [
+              {
+                "c": "A1.1",
+                "d": "Los géneros artísticos a lo largo de la historia del arte: del paleolítico al renacimiento"
+              }
+            ]
+          },
+          {
+            "c": "A2",
+            "legal": "Manifestaciones culturales y artísticas más importantes a lo largo de la historia, del paleolítico al renacimiento: análisis de sus aspectos formales y de su relación con el contexto histórico.",
+            "subs": [
+              {
+                "c": "A2.1",
+                "d": "Manifestaciones culturales y artísticas más importantes a lo largo de la historia, del paleolítico al renacimiento: análisis de sus aspectos formales y de su relación con el contexto histórico"
+              }
+            ]
+          },
+          {
+            "c": "A3",
+            "legal": "Las formas geométricas en el arte y en el entorno.",
+            "subs": [
+              {
+                "c": "A3.1",
+                "d": "Las formas geométricas en el arte y en el entorno"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "B",
+        "name": "Elementos formales de la imagen y del lenguaje visual. La expresión gráfica",
+        "items": [
+          {
+            "c": "B1",
+            "legal": "Elementos básicos del lenguaje visual: el punto, la línea y el plano. \u0002 Posibilidades expresivas y comunicativas. \u0002 El entorno comunicativo: iconicidad y abstracción. \u0002 Análisis de las imágenes: denotación y connotación. \u0002 Lectura objetiva y subjetiva de una imagen.",
+            "subs": [
+              {
+                "c": "B1.1",
+                "d": "Elementos básicos del lenguaje visual: el punto, la línea y el plano"
+              },
+              {
+                "c": "B1.2",
+                "d": "Posibilidades expresivas y comunicativas"
+              },
+              {
+                "c": "B1.3",
+                "d": "El entorno comunicativo: iconicidad y abstracción"
+              },
+              {
+                "c": "B1.4",
+                "d": "Análisis de las imágenes: denotación y connotación"
+              },
+              {
+                "c": "B1.5",
+                "d": "Lectura objetiva y subjetiva de una imagen"
+              }
+            ]
+          },
+          {
+            "c": "B2",
+            "legal": "Elementos visuales, conceptos y posibilidades expresivas: forma, color y textura.",
+            "subs": [
+              {
+                "c": "B2.1",
+                "d": "Elementos visuales, conceptos y posibilidades expresivas: forma, color y textura"
+              }
+            ]
+          },
+          {
+            "c": "B3",
+            "legal": "La percepción visual. Introducción a los principios perceptivos, elementos y factores.",
+            "subs": [
+              {
+                "c": "B3.1",
+                "d": "La percepción visual. Introducción a los principios perceptivos, elementos y factores"
+              }
+            ]
+          },
+          {
+            "c": "B4",
+            "legal": "Conceptos de equilibrio, proporción y ritmo aplicados a la organización de formas en el plano.",
+            "subs": [
+              {
+                "c": "B4.1",
+                "d": "Conceptos de equilibrio, proporción y ritmo aplicados a la organización de formas en el plano"
+              }
+            ]
+          },
+          {
+            "c": "B5",
+            "legal": "Construcción estructuras modulares y aplicaciones al arte y el diseño.",
+            "subs": [
+              {
+                "c": "B5.1",
+                "d": "Construcción estructuras modulares y aplicaciones al arte y el diseño"
+              }
+            ]
+          },
+          {
+            "c": "B6",
+            "legal": "El color: mezcla aditiva y sustractiva, colores complementarios.",
+            "subs": [
+              {
+                "c": "B6.1",
+                "d": "El color: mezcla aditiva y sustractiva, colores complementarios"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "C",
+        "name": "Expresión artística y gráfico-plástica: técnicas y procedimientos",
+        "items": [
+          {
+            "c": "C1",
+            "legal": "Técnicas básicas de expresión gráfico-plástica en dos dimensiones. Técnicas secas y húmedas. Su uso en el arte y sus características expresivas.",
+            "subs": [
+              {
+                "c": "C1.1",
+                "d": "Técnicas básicas de expresión gráfico-plástica en dos dimensiones"
+              },
+              {
+                "c": "C1.2",
+                "d": "Técnicas secas y húmedas. Su uso en el arte y sus características expresivas"
+              }
+            ]
+          },
+          {
+            "c": "C2",
+            "legal": "El proceso creativo a través de operaciones plásticas: reproducir, aislar, transformar y asociar.",
+            "subs": [
+              {
+                "c": "C2.1",
+                "d": "El proceso creativo a través de operaciones plásticas: reproducir, aislar, transformar y asociar"
+              }
+            ]
+          },
+          {
+            "c": "C3",
+            "legal": "Factores y etapas del proceso creativo. Realización de bocetos.",
+            "subs": [
+              {
+                "c": "C3.1",
+                "d": "Factores y etapas del proceso creativo. Realización de bocetos"
+              }
+            ]
+          },
+          {
+            "c": "C4",
+            "legal": "Útiles para el dibujo técnico: empleo de la escuadra y cartabón, representación de ángulos con el juego de escuadras.",
+            "subs": [
+              {
+                "c": "C4.1",
+                "d": "Útiles para el dibujo técnico: empleo de la escuadra y cartabón, representación de ángulos con el juego de escuadras"
+              }
+            ]
+          },
+          {
+            "c": "C5",
+            "legal": "Introducción a la geometría plana y trazados geométricos básicos: \u0002 Operaciones con segmentos: trazar un segmento igual a otro, suma y resta de segmentos. \u0002 Trazado de perpendiculares y paralelas con escuadra y cartabón y con compás. \u0002 Ángulos: Clasificación, operaciones con ángulos. Suma, resta, divisiones. \u0002 Proporcionalidad: división de un segmento mediante el Teorema de Thales. \u0002 Lugares geométricos definición y trazados mediatriz, bisectriz, circunferencia, esfera, rectas paralelas, planos paralelos. \u0002 Resolución de trazados con rectas y curvas. \u0002 Los triángulos: clasificación y trazados: el baricentro, el incentro o el circuncentro. \u0002 Los cuadriláteros: clasificación, trazados. \u0002 Los Polígonos: tipos de polígonos, concepto de polígono regular. Construcción dado radio.",
+            "subs": [
+              {
+                "c": "C5.1",
+                "d": "Introducción a la geometría plana y trazados geométricos básicos:"
+              },
+              {
+                "c": "C5.2",
+                "d": "Operaciones con segmentos: trazar un segmento igual a otro, suma y resta de segmentos"
+              },
+              {
+                "c": "C5.3",
+                "d": "Trazado de perpendiculares y paralelas con escuadra y cartabón y con compás"
+              },
+              {
+                "c": "C5.4",
+                "d": "Ángulos: Clasificación, operaciones con ángulos. Suma, resta, divisiones"
+              },
+              {
+                "c": "C5.5",
+                "d": "Proporcionalidad: división de un segmento mediante el Teorema de Thales"
+              },
+              {
+                "c": "C5.6",
+                "d": "Lugares geométricos definición y trazados mediatriz, bisectriz, circunferencia, esfera, rectas paralelas, planos paralelos"
+              },
+              {
+                "c": "C5.7",
+                "d": "Resolución de trazados con rectas y curvas"
+              },
+              {
+                "c": "C5.8",
+                "d": "Los triángulos: clasificación y trazados: el baricentro, el incentro o el circuncentro"
+              },
+              {
+                "c": "C5.9",
+                "d": "Los cuadriláteros: clasificación, trazados"
+              },
+              {
+                "c": "C5.10",
+                "d": "Los Polígonos: tipos de polígonos, concepto de polígono regular. Construcción dado radio"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "D",
+        "name": "Imagen y comunicación visual y audiovisual",
+        "items": [
+          {
+            "c": "D1",
+            "legal": "El lenguaje y la comunicación visual. Finalidades: informativa, comunicativa, expresiva y estética.",
+            "subs": [
+              {
+                "c": "D1.1",
+                "d": "El lenguaje y la comunicación visual. Finalidades: informativa, comunicativa, expresiva y estética"
+              }
+            ]
+          },
+          {
+            "c": "D2",
+            "legal": "Imágenes visuales y audiovisuales: identificación de los principales elementos expresivos.",
+            "subs": [
+              {
+                "c": "D2.1",
+                "d": "Imágenes visuales y audiovisuales: identificación de los principales elementos expresivos"
+              }
+            ]
+          },
+          {
+            "c": "D3",
+            "legal": "Imagen fija: origen y evolución. Introducción a las diferentes características del cómic y la fotografía.",
+            "subs": [
+              {
+                "c": "D3.1",
+                "d": "Imagen fija: origen y evolución. Introducción a las diferentes características del cómic y la fotografía"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "T",
+        "name": "Contenidos transversales",
+        "items": [
+          {
+            "c": "T1",
+            "legal": "La comprensión lectora, la expresión oral y escrita, la comunicación audiovisual, la competencia digital, el emprendimiento social y empresarial, el fomento del espíritu crítico y científico, la educación emocional y en valores, la igualdad de género y la creatividad se trabajarán en todas las materias.",
+            "subs": [
+              {
+                "c": "T1.1",
+                "d": "La comprensión lectora"
+              },
+              {
+                "c": "T1.2",
+                "d": "La expresión oral y escrita"
+              },
+              {
+                "c": "T1.3",
+                "d": "La comunicación audiovisual"
+              },
+              {
+                "c": "T1.4",
+                "d": "La competencia digital"
+              },
+              {
+                "c": "T1.5",
+                "d": "El emprendimiento social y empresarial"
+              },
+              {
+                "c": "T1.6",
+                "d": "El fomento del espíritu crítico y científico"
+              },
+              {
+                "c": "T1.7",
+                "d": "La educación emocional y en valores"
+              },
+              {
+                "c": "T1.8",
+                "d": "La igualdad de género"
+              },
+              {
+                "c": "T1.9",
+                "d": "La creatividad"
+              }
+            ]
+          },
+          {
+            "c": "T2",
+            "legal": "En todo caso se fomentará de manera transversal la educación para la salud, incluida la afectivo-sexual, la formación estética, la educación ambiental y para el consumo, la educación vial, los derechos humanos, el respeto mutuo y la cooperación entre iguales.",
+            "subs": [
+              {
+                "c": "T2.1",
+                "d": "La educación para la salud, incluida la afectivo-sexual"
+              },
+              {
+                "c": "T2.2",
+                "d": "La formación estética"
+              },
+              {
+                "c": "T2.3",
+                "d": "La educación ambiental y para el consumo"
+              },
+              {
+                "c": "T2.4",
+                "d": "La educación vial"
+              },
+              {
+                "c": "T2.5",
+                "d": "Los derechos humanos"
+              },
+              {
+                "c": "T2.6",
+                "d": "El respeto mutuo y la cooperación entre iguales"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "geografia_e_historia": {
+    "name": "Geografía e Historia",
+    "grade": "1.o ESO",
+    "blocks": [
+      {
+        "id": "A",
+        "name": "Geografía física",
+        "items": [
+          {
+            "c": "A1",
+            "legal": "El planeta Tierra y la ubicación espacial: \u0002 La Tierra en el Sistema Solar. \u0002 La forma y los movimientos de la Tierra. Rotación y traslación. \u0002 Composición geológica de la Tierra. Las capas de la Tierra. \u0002 Continentes, océanos y mares. \u0002 Representación del espacio, orientación y escalas. Utilización de recursos digitales e interpretación y elaboración de mapas, esquemas, imágenes y representaciones gráficas. Tecnologías de la Información Geográfica (TIG). \u0002 Las coordenadas geográficas. Latitud y longitud. \u0002 Los elementos del medio físico. España, Europa y el mundo: principales accidentes geográficos y áreas bioclimáticas.",
+            "subs": [
+              {
+                "c": "A1.1",
+                "d": "El planeta Tierra y la ubicación espacial:"
+              },
+              {
+                "c": "A1.2",
+                "d": "La Tierra en el Sistema Solar"
+              },
+              {
+                "c": "A1.3",
+                "d": "La forma y los movimientos de la Tierra. Rotación y traslación"
+              },
+              {
+                "c": "A1.4",
+                "d": "Composición geológica de la Tierra. Las capas de la Tierra"
+              },
+              {
+                "c": "A1.5",
+                "d": "Continentes, océanos y mares"
+              },
+              {
+                "c": "A1.6",
+                "d": "Representación del espacio, orientación y escalas. Utilización de recursos digitales e interpretación y elaboración de mapas, esquemas, imágenes y representaciones gráficas. Tecnologías de la Información Geográfica (TIG)"
+              },
+              {
+                "c": "A1.7",
+                "d": "Las coordenadas geográficas. Latitud y longitud"
+              },
+              {
+                "c": "A1.8",
+                "d": "Los elementos del medio físico. España, Europa y el mundo: principales accidentes geográficos y áreas bioclimáticas"
+              }
+            ]
+          },
+          {
+            "c": "A2",
+            "legal": "El relieve. \u0002 Las formas de relieve de las tierras emergidas y sumergidas. El relieve costero. \u0002 Los procesos de modificación de la superficie terrestre.",
+            "subs": [
+              {
+                "c": "A2.1",
+                "d": "El relieve"
+              },
+              {
+                "c": "A2.2",
+                "d": "Las formas de relieve de las tierras emergidas y sumergidas. El relieve costero"
+              },
+              {
+                "c": "A2.3",
+                "d": "Los procesos de modificación de la superficie terrestre"
+              }
+            ]
+          },
+          {
+            "c": "A3",
+            "legal": "El clima: \u0002 La atmósfera. \u0002 Elementos y factores que condicionan el clima. \u0002 La diversidad de climas en España, en Europa y en el mundo. \u0002 Métodos de recogida de datos meteorológicos y elaboración e interpretación de gráficos.",
+            "subs": [
+              {
+                "c": "A3.1",
+                "d": "El clima:"
+              },
+              {
+                "c": "A3.2",
+                "d": "La atmósfera"
+              },
+              {
+                "c": "A3.3",
+                "d": "Elementos y factores que condicionan el clima"
+              },
+              {
+                "c": "A3.4",
+                "d": "La diversidad de climas en España, en Europa y en el mundo"
+              },
+              {
+                "c": "A3.5",
+                "d": "Métodos de recogida de datos meteorológicos y elaboración e interpretación de gráficos"
+              }
+            ]
+          },
+          {
+            "c": "A4",
+            "legal": "Las aguas: \u0002 La hidrosfera. Tipos de aguas y su distribución.",
+            "subs": [
+              {
+                "c": "A4.1",
+                "d": "Las aguas:"
+              },
+              {
+                "c": "A4.2",
+                "d": "La hidrosfera. Tipos de aguas y su distribución"
+              }
+            ]
+          },
+          {
+            "c": "A5",
+            "legal": "Los medios naturales y la biodiversidad: \u0002 Los paisajes naturales y las zonas bioclimáticas de la Tierra. \u0002 La Europa atlántica, continental y mediterránea. \u0002 España y su diversidad bioclimática. \u0002 Dinámicas de los ecosistemas planetarios. Riqueza y valor del patrimonio natural.",
+            "subs": [
+              {
+                "c": "A5.1",
+                "d": "Los medios naturales y la biodiversidad:"
+              },
+              {
+                "c": "A5.2",
+                "d": "Los paisajes naturales y las zonas bioclimáticas de la Tierra"
+              },
+              {
+                "c": "A5.3",
+                "d": "La Europa atlántica, continental y mediterránea"
+              },
+              {
+                "c": "A5.4",
+                "d": "España y su diversidad bioclimática"
+              },
+              {
+                "c": "A5.5",
+                "d": "Dinámicas de los ecosistemas planetarios. Riqueza y valor del patrimonio natural"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "B",
+        "name": "Retos del mundo actual",
+        "items": [
+          {
+            "c": "B1",
+            "legal": "Emergencia climática: \u0002 El impacto de las actividades humanas en el clima, en el pasado y en la actualidad. \u0002 Riesgos naturales y catástrofes climáticas, su impacto en el presente, en el pasado y en el futuro. \u0002 Vulnerabilidad, prevención y resiliencia de la población ante las catástrofes y riesgos naturales. \u0002 Soluciones frente al cambio climático: el desarrollo sostenible. La protección de la naturaleza.",
+            "subs": [
+              {
+                "c": "B1.1",
+                "d": "Emergencia climática:"
+              },
+              {
+                "c": "B1.2",
+                "d": "El impacto de las actividades humanas en el clima, en el pasado y en la actualidad"
+              },
+              {
+                "c": "B1.3",
+                "d": "Riesgos naturales y catástrofes climáticas, su impacto en el presente, en el pasado y en el futuro"
+              },
+              {
+                "c": "B1.4",
+                "d": "Vulnerabilidad, prevención y resiliencia de la población ante las catástrofes y riesgos naturales"
+              },
+              {
+                "c": "B1.5",
+                "d": "Soluciones frente al cambio climático: el desarrollo sostenible. La protección de la naturaleza"
+              }
+            ]
+          },
+          {
+            "c": "B2",
+            "legal": "Amenazas a la biodiversidad: \u0002 Principales problemas de los ecosistemas planetarios. \u0002 La influencia humana en la alteración de los ecosistemas en el pasado y en la actualidad.",
+            "subs": [
+              {
+                "c": "B2.1",
+                "d": "Amenazas a la biodiversidad:"
+              },
+              {
+                "c": "B2.2",
+                "d": "Principales problemas de los ecosistemas planetarios"
+              },
+              {
+                "c": "B2.3",
+                "d": "La influencia humana en la alteración de los ecosistemas en el pasado y en la actualidad"
+              }
+            ]
+          },
+          {
+            "c": "B3",
+            "legal": "Tecnologías de la información: \u0002 Manejo y utilización de dispositivos, aplicaciones informáticas y plataformas digitales. \u0002 Búsqueda, tratamiento de la información y elaboración de conocimiento. \u0002 Uso seguro de las redes de comunicación. \u0002 Lectura crítica de la información.",
+            "subs": [
+              {
+                "c": "B3.1",
+                "d": "Tecnologías de la información:"
+              },
+              {
+                "c": "B3.2",
+                "d": "Manejo y utilización de dispositivos, aplicaciones informáticas y plataformas digitales"
+              },
+              {
+                "c": "B3.3",
+                "d": "Búsqueda, tratamiento de la información y elaboración de conocimiento"
+              },
+              {
+                "c": "B3.4",
+                "d": "Uso seguro de las redes de comunicación"
+              },
+              {
+                "c": "B3.5",
+                "d": "Lectura crítica de la información"
+              }
+            ]
+          },
+          {
+            "c": "B4",
+            "legal": "Sociedad del conocimiento: \u0002 Uso de las plataformas digitales. Las redes sociales. Seguridad y prevención ante los riesgos y peligro del uso de las tecnologías de la información y de la comunicación.",
+            "subs": [
+              {
+                "c": "B4.1",
+                "d": "Sociedad del conocimiento:"
+              },
+              {
+                "c": "B4.2",
+                "d": "Uso de las plataformas digitales. Las redes sociales. Seguridad y prevención ante los riesgos y peligro del uso de las tecnologías de la información y de la comunicación"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "C",
+        "name": "Prehistoria y Edad Antigua",
+        "items": [
+          {
+            "c": "C1",
+            "legal": "La prehistoria: \u0002 Análisis interdisciplinar del origen del ser humano y nacimiento de la sociedad. El proceso de hominización. Grandes migraciones humanas y el nacimiento de las primeras culturas. \u0002 Los grandes períodos de la prehistoria: Paleolítico y Neolítico. La Edad de los Metales. Formas de vida y organización social. \u0002 Expresiones artísticas durante la prehistoria: pintura y escultura. El megalitismo.",
+            "subs": [
+              {
+                "c": "C1.1",
+                "d": "La prehistoria:"
+              },
+              {
+                "c": "C1.2",
+                "d": "Análisis interdisciplinar del origen del ser humano y nacimiento de la sociedad. El proceso de hominización. Grandes migraciones humanas y el nacimiento de las primeras culturas"
+              },
+              {
+                "c": "C1.3",
+                "d": "Los grandes períodos de la prehistoria: Paleolítico y Neolítico. La Edad de los Metales. Formas de vida y organización social"
+              },
+              {
+                "c": "C1.4",
+                "d": "Expresiones artísticas durante la prehistoria: pintura y escultura. El megalitismo"
+              }
+            ]
+          },
+          {
+            "c": "C2",
+            "legal": "Las civilizaciones fluviales: \u0002 Condicionantes geográficos e interpretaciones históricas del surgimiento de las civilizaciones. Características y ejemplos significativos. \u0002 Mesopotamia: sumerios, acadios, asirios, babilonios y persas. Sociedad, economía y cultura. Expresiones artísticas. \u0002 Egipto: organización política y económica. Manifestaciones artísticas.",
+            "subs": [
+              {
+                "c": "C2.1",
+                "d": "Las civilizaciones fluviales:"
+              },
+              {
+                "c": "C2.2",
+                "d": "Condicionantes geográficos e interpretaciones históricas del surgimiento de las civilizaciones. Características y ejemplos significativos"
+              },
+              {
+                "c": "C2.3",
+                "d": "Mesopotamia: sumerios, acadios, asirios, babilonios y persas. Sociedad, economía y cultura. Expresiones artísticas"
+              },
+              {
+                "c": "C2.4",
+                "d": "Egipto: organización política y económica. Manifestaciones artísticas"
+              }
+            ]
+          },
+          {
+            "c": "C3",
+            "legal": "La Antigua Grecia: \u0002 El medio físico. Orígenes de la cultura griega. \u0002 Sociedad, economía y cultura de la Antigua Grecia. El arte griego. \u0002 Los inicios de la convivencia cívica y cultura democrática. Incorporación e implicación de la sociedad civil en procesos democráticos históricos: la Atenas del siglo V a.C.",
+            "subs": [
+              {
+                "c": "C3.1",
+                "d": "La Antigua Grecia:"
+              },
+              {
+                "c": "C3.2",
+                "d": "El medio físico. Orígenes de la cultura griega"
+              },
+              {
+                "c": "C3.3",
+                "d": "Sociedad, economía y cultura de la Antigua Grecia. El arte griego"
+              },
+              {
+                "c": "C3.4",
+                "d": "Los inicios de la convivencia cívica y cultura democrática. Incorporación e implicación de la sociedad civil en procesos democráticos históricos: la Atenas del siglo V a.C"
+              }
+            ]
+          },
+          {
+            "c": "C4",
+            "legal": "La civilización romana: \u0002 Orígenes de la civilización romana. \u0002 Evolución política de Roma: monarquía, república e imperio. El final de la Antigüedad. \u0002 La romanización y la expansión de la cultura romana por el Mediterráneo. \u0002 Sociedad, economía y cultura de la Roma clásica. El arte romano. \u0002 El judaísmo. Grecia y Roma: del paganismo al Cristianismo.",
+            "subs": [
+              {
+                "c": "C4.1",
+                "d": "La civilización romana:"
+              },
+              {
+                "c": "C4.2",
+                "d": "Orígenes de la civilización romana"
+              },
+              {
+                "c": "C4.3",
+                "d": "Evolución política de Roma: monarquía, república e imperio. El final de la Antigüedad"
+              },
+              {
+                "c": "C4.4",
+                "d": "La romanización y la expansión de la cultura romana por el Mediterráneo"
+              },
+              {
+                "c": "C4.5",
+                "d": "Sociedad, economía y cultura de la Roma clásica. El arte romano"
+              },
+              {
+                "c": "C4.6",
+                "d": "El judaísmo. Grecia y Roma: del paganismo al Cristianismo"
+              }
+            ]
+          },
+          {
+            "c": "C5",
+            "legal": "La Península Ibérica durante la Edad Antigua: \u0002 Los pueblos prerromanos y las primeras colonizaciones. \u0002 La conquista romana y la romanización de la Península Ibérica. \u0002 Sociedad, cultura, economía y arte en la Hispania romana. \u0002 Los visigodos.",
+            "subs": [
+              {
+                "c": "C5.1",
+                "d": "La Península Ibérica durante la Edad Antigua:"
+              },
+              {
+                "c": "C5.2",
+                "d": "Los pueblos prerromanos y las primeras colonizaciones"
+              },
+              {
+                "c": "C5.3",
+                "d": "La conquista romana y la romanización de la Península Ibérica"
+              },
+              {
+                "c": "C5.4",
+                "d": "Sociedad, cultura, economía y arte en la Hispania romana"
+              },
+              {
+                "c": "C5.5",
+                "d": "Los visigodos"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "D",
+        "name": "Sociedades y territorios",
+        "items": [
+          {
+            "c": "D1",
+            "legal": "El conocimiento geográfico: \u0002 Introducción a los objetivos de la Geografía y al uso de sus procedimientos, términos y conceptos. \u0002 Métodos básicos de investigación para la construcción del conocimiento de la Geografía. Metodologías del pensamiento geográfico.",
+            "subs": [
+              {
+                "c": "D1.1",
+                "d": "El conocimiento geográfico:"
+              },
+              {
+                "c": "D1.2",
+                "d": "Introducción a los objetivos de la Geografía y al uso de sus procedimientos, términos y conceptos"
+              },
+              {
+                "c": "D1.3",
+                "d": "Métodos básicos de investigación para la construcción del conocimiento de la Geografía. Metodologías del pensamiento geográfico"
+              }
+            ]
+          },
+          {
+            "c": "D2",
+            "legal": "El conocimiento histórico: \u0002 Introducción a los objetivos de la Historia y al uso de sus procedimientos, términos y conceptos. \u0002 Métodos de investigación para la construcción del conocimiento de la Historia. Metodologías del pensamiento histórico. \u0002 Las fuentes históricas y arqueológicas como base para la construcción del conocimiento histórico. Objetos y artefactos como fuente para la historia y el legado inmaterial. \u0002 El tiempo histórico. Construcción e interpretación de las líneas de tiempo a través de la linealidad, cronología, simultaneidad y duración.",
+            "subs": [
+              {
+                "c": "D2.1",
+                "d": "El conocimiento histórico:"
+              },
+              {
+                "c": "D2.2",
+                "d": "Introducción a los objetivos de la Historia y al uso de sus procedimientos, términos y conceptos"
+              },
+              {
+                "c": "D2.3",
+                "d": "Métodos de investigación para la construcción del conocimiento de la Historia. Metodologías del pensamiento histórico"
+              },
+              {
+                "c": "D2.4",
+                "d": "Las fuentes históricas y arqueológicas como base para la construcción del conocimiento histórico. Objetos y artefactos como fuente para la historia y el legado inmaterial"
+              },
+              {
+                "c": "D2.5",
+                "d": "El tiempo histórico. Construcción e interpretación de las líneas de tiempo a través de la linealidad, cronología, simultaneidad y duración"
+              }
+            ]
+          },
+          {
+            "c": "D3",
+            "legal": "Política: \u0002 La organización política del ser humano y las formas políticas en el mundo Antiguo: democracias, repúblicas, imperios y reinos. Evolución de la teoría del poder durante la Antigüedad. \u0002 Violencia y conflictos armados. El crecimiento de los ejércitos y la evolución del armamento: hoplitas y legiones romanas. Los civiles durante las guerras de la Antigüedad.",
+            "subs": [
+              {
+                "c": "D3.1",
+                "d": "Política:"
+              },
+              {
+                "c": "D3.2",
+                "d": "La organización política del ser humano y las formas políticas en el mundo Antiguo: democracias, repúblicas, imperios y reinos. Evolución de la teoría del poder durante la Antigüedad"
+              },
+              {
+                "c": "D3.3",
+                "d": "Violencia y conflictos armados. El crecimiento de los ejércitos y la evolución del armamento: hoplitas y legiones romanas. Los civiles durante las guerras de la Antigüedad"
+              }
+            ]
+          },
+          {
+            "c": "D4",
+            "legal": "Sociedad: \u0002 Complejidad social y nacimiento de la autoridad: familia, clan, tribu, casta, linaje. Desigualdad social y disputa por el poder en la prehistoria y la Edad Antigua: formación de oligarquías, la imagen del poder y evolución de la aristocracia. La esclavitud. \u0002 La mujer en la Antigüedad. \u0002 Ciclos vitales, uso del tiempo libre y hábitos de consumo actuales. La vida cotidiana durante la prehistoria y la Antigüedad y sus diferencias y cambios respecto a las sociedades actuales.",
+            "subs": [
+              {
+                "c": "D4.1",
+                "d": "Sociedad:"
+              },
+              {
+                "c": "D4.2",
+                "d": "Complejidad social y nacimiento de la autoridad: familia, clan, tribu, casta, linaje. Desigualdad social y disputa por el poder en la prehistoria y la Edad Antigua: formación de oligarquías, la imagen del poder y evolución de la aristocracia. La esclavitud"
+              },
+              {
+                "c": "D4.3",
+                "d": "La mujer en la Antigüedad"
+              },
+              {
+                "c": "D4.4",
+                "d": "Ciclos vitales, uso del tiempo libre y hábitos de consumo actuales. La vida cotidiana durante la prehistoria y la Antigüedad y sus diferencias y cambios respecto a las sociedades actuales"
+              }
+            ]
+          },
+          {
+            "c": "D5",
+            "legal": "Economía: \u0002 Las grandes rutas comerciales en la Edad Antigua y las estrategias por el control de los recursos: talasocracias del mundo mediterráneo y grandes imperios. Conquista y colonización del territorio. \u0002 La transformación humana del territorio y la distribución desigual de los recursos y del trabajo. Evolución de los sistemas económicos, de los ciclos demográficos, de los modos de vida y de los modelos de organización social. La lucha por la supervivencia y el estatus social en la prehistoria y la Antigüedad. \u0002 La ciudad y el mundo rural a lo largo de la historia: polis, urbes, ciudades.",
+            "subs": [
+              {
+                "c": "D5.1",
+                "d": "Economía:"
+              },
+              {
+                "c": "D5.2",
+                "d": "Las grandes rutas comerciales en la Edad Antigua y las estrategias por el control de los recursos: talasocracias del mundo mediterráneo y grandes imperios. Conquista y colonización del territorio"
+              },
+              {
+                "c": "D5.3",
+                "d": "La transformación humana del territorio y la distribución desigual de los recursos y del trabajo. Evolución de los sistemas económicos, de los ciclos demográficos, de los modos de vida y de los modelos de organización social. La lucha por la supervivencia y el estatus social en la prehistoria y la Antigüedad"
+              },
+              {
+                "c": "D5.4",
+                "d": "La ciudad y el mundo rural a lo largo de la historia: polis, urbes, ciudades"
+              }
+            ]
+          },
+          {
+            "c": "D6",
+            "legal": "Patrimonio: \u0002 Las raíces clásicas de la cultura occidental. \u0002 Significado y función de las expresiones artísticas y culturales en las distintas civilizaciones de la Antigüedad: diversidad y riqueza cultural. Respeto, conservación y defensa del patrimonio material e inmaterial: histórico, artístico y cultural. \u0002 España en el tiempo y su conexión con los grandes procesos de la historia Antigua: pueblos mediterráneos colonizadores y romanización. \u0002 Interpretación del territorio y del paisaje natural. La huella humana y la protección del patrimonio ambiental. \u0002 Acciones para la conservación del patrimonio histórico, artístico y cultural.",
+            "subs": [
+              {
+                "c": "D6.1",
+                "d": "Patrimonio:"
+              },
+              {
+                "c": "D6.2",
+                "d": "Las raíces clásicas de la cultura occidental"
+              },
+              {
+                "c": "D6.3",
+                "d": "Significado y función de las expresiones artísticas y culturales en las distintas civilizaciones de la Antigüedad: diversidad y riqueza cultural. Respeto, conservación y defensa del patrimonio material e inmaterial: histórico, artístico y cultural"
+              },
+              {
+                "c": "D6.4",
+                "d": "España en el tiempo y su conexión con los grandes procesos de la historia Antigua: pueblos mediterráneos colonizadores y romanización"
+              },
+              {
+                "c": "D6.5",
+                "d": "Interpretación del territorio y del paisaje natural. La huella humana y la protección del patrimonio ambiental"
+              },
+              {
+                "c": "D6.6",
+                "d": "Acciones para la conservación del patrimonio histórico, artístico y cultural"
+              }
+            ]
+          },
+          {
+            "c": "D7",
+            "legal": "Religión: \u0002 El papel de la religión en la organización social, la legitimación del poder y la formación de identidades: politeísmo, monoteísmo y el surgimiento de las grandes religiones.",
+            "subs": [
+              {
+                "c": "D7.1",
+                "d": "Religión:"
+              },
+              {
+                "c": "D7.2",
+                "d": "El papel de la religión en la organización social, la legitimación del poder y la formación de identidades: politeísmo, monoteísmo y el surgimiento de las grandes religiones"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "E",
+        "name": "Compromiso cívico",
+        "items": [
+          {
+            "c": "E1",
+            "legal": "Grandes mujeres de la Antigüedad clásica .",
+            "subs": [
+              {
+                "c": "E1.1",
+                "d": "Grandes mujeres de la Antigüedad clásica"
+              }
+            ]
+          },
+          {
+            "c": "E2",
+            "legal": "La importancia de la defensa del patrimonio histórico, artístico y cultural.",
+            "subs": [
+              {
+                "c": "E2.1",
+                "d": "La importancia de la defensa del patrimonio histórico, artístico y cultural"
+              }
+            ]
+          },
+          {
+            "c": "E3",
+            "legal": "La cultura clásica como inspiración para la Unión Europea, la defensa de la verdad y la libertad.",
+            "subs": [
+              {
+                "c": "E3.1",
+                "d": "La cultura clásica como inspiración para la Unión Europea, la defensa de la verdad y la libertad"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "T",
+        "name": "Contenidos transversales",
+        "items": [
+          {
+            "c": "T1",
+            "legal": "La comprensión lectora, la expresión oral y escrita, la comunicación audiovisual, la competencia digital, el emprendimiento social y empresarial, el fomento del espíritu crítico y científico, la educación emocional y en valores, la igualdad de género y la creatividad se trabajarán en todas las materias.",
+            "subs": [
+              {
+                "c": "T1.1",
+                "d": "La comprensión lectora"
+              },
+              {
+                "c": "T1.2",
+                "d": "La expresión oral y escrita"
+              },
+              {
+                "c": "T1.3",
+                "d": "La comunicación audiovisual"
+              },
+              {
+                "c": "T1.4",
+                "d": "La competencia digital"
+              },
+              {
+                "c": "T1.5",
+                "d": "El emprendimiento social y empresarial"
+              },
+              {
+                "c": "T1.6",
+                "d": "El fomento del espíritu crítico y científico"
+              },
+              {
+                "c": "T1.7",
+                "d": "La educación emocional y en valores"
+              },
+              {
+                "c": "T1.8",
+                "d": "La igualdad de género"
+              },
+              {
+                "c": "T1.9",
+                "d": "La creatividad"
+              }
+            ]
+          },
+          {
+            "c": "T2",
+            "legal": "En todo caso se fomentará de manera transversal la educación para la salud, incluida la afectivo-sexual, la formación estética, la educación ambiental y para el consumo, la educación vial, los derechos humanos, el respeto mutuo y la cooperación entre iguales.",
+            "subs": [
+              {
+                "c": "T2.1",
+                "d": "La educación para la salud, incluida la afectivo-sexual"
+              },
+              {
+                "c": "T2.2",
+                "d": "La formación estética"
+              },
+              {
+                "c": "T2.3",
+                "d": "La educación ambiental y para el consumo"
+              },
+              {
+                "c": "T2.4",
+                "d": "La educación vial"
+              },
+              {
+                "c": "T2.5",
+                "d": "Los derechos humanos"
+              },
+              {
+                "c": "T2.6",
+                "d": "El respeto mutuo y la cooperación entre iguales"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "lengua": {
+    "name": "Lengua Castellana y Literatura",
+    "grade": "1.o ESO",
+    "blocks": [
+      {
+        "id": "A",
+        "name": "Las lenguas y sus hablantes",
+        "items": [
+          {
+            "c": "A1",
+            "legal": "Observación de la propia biografía lingüística y de la diversidad lingüística del centro. \u0002 Identificación de las diferentes lenguas habladas en el centro escolar y explicación de la igualdad de todas las lenguas para evitar los prejuicios lingüísticos. Atención a la diversidad lingüística del centro educativo.",
+            "subs": [
+              {
+                "c": "A1.1",
+                "d": "Observación de la propia biografía lingüística y de la diversidad lingüística del centro"
+              },
+              {
+                "c": "A1.2",
+                "d": "Identificación de las diferentes lenguas habladas en el centro escolar y explicación de la igualdad de todas las lenguas para evitar los prejuicios lingüísticos. Atención a la diversidad lingüística del centro educativo"
+              }
+            ]
+          },
+          {
+            "c": "A2",
+            "legal": "Reconocimiento de las lenguas de España: origen, distribución geográfica y nociones básicas.",
+            "subs": [
+              {
+                "c": "A2.1",
+                "d": "Reconocimiento de las lenguas de España: origen, distribución geográfica y nociones básicas"
+              }
+            ]
+          },
+          {
+            "c": "A3",
+            "legal": "Conocimiento del plurilingüismo en España.",
+            "subs": [
+              {
+                "c": "A3.1",
+                "d": "Conocimiento del plurilingüismo en España"
+              }
+            ]
+          },
+          {
+            "c": "A4",
+            "legal": "Estrategias de identificación de prejuicios y estereotipos lingüísticos y exploración de formas de evitarlos.",
+            "subs": [
+              {
+                "c": "A4.1",
+                "d": "Estrategias de identificación de prejuicios y estereotipos lingüísticos y exploración de formas de evitarlos"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "B",
+        "name": "Comunicación",
+        "items": [
+          {
+            "c": "B1",
+            "legal": "Iniciación a las estrategias de producción y comprensión de textos orales, escritos y multimodales de diferentes ámbitos: personal, escolar y social, con atención conjunta a los siguientes aspectos: 1. Contexto.",
+            "subs": [
+              {
+                "c": "B1.1",
+                "d": "Iniciación a las estrategias de producción y comprensión de textos orales, escritos y multimodales de diferentes ámbitos: personal, escolar y social, con atención conjunta a los siguientes aspectos: 1"
+              },
+              {
+                "c": "B1.2",
+                "d": "Contexto"
+              }
+            ]
+          },
+          {
+            "c": "B2",
+            "legal": "Identificación de los componentes del hecho comunicativo. Introducción a las funciones del lenguaje. 2. Géneros discursivos.",
+            "subs": [
+              {
+                "c": "B2.1",
+                "d": "Identificación de los componentes del hecho comunicativo"
+              },
+              {
+                "c": "B2.2",
+                "d": "Introducción a las funciones del lenguaje"
+              },
+              {
+                "c": "B2.3",
+                "d": "2. Géneros discursivos"
+              }
+            ]
+          },
+          {
+            "c": "B3",
+            "legal": "Análisis de las clases de textos según su intencionalidad. Análisis de las secuencias textuales básicas, con especial atención a las narrativas, descriptivas, dialogadas y prescriptivas. \u0002 El texto narrativo y subgéneros. Formas de la narración. La lengua en la narración. Clases de narraciones. Tipos de narradores. \u0002 El texto descriptivo. La lengua en la descripción. Funciones de la descripción. Tipos de descripción. \u0002 El texto dialogado. Textos dialogados orales y textos dialogados escritos. La conversación. El debate. Escritura de textos dialogados. \u0002 El texto prescriptivo.",
+            "subs": [
+              {
+                "c": "B3.1",
+                "d": "Análisis de las clases de textos según su intencionalidad. Análisis de las secuencias textuales básicas, con especial atención a las narrativas, descriptivas, dialogadas y prescriptivas"
+              },
+              {
+                "c": "B3.2",
+                "d": "El texto narrativo y subgéneros. Formas de la narración. La lengua en la narración. Clases de narraciones. Tipos de narradores"
+              },
+              {
+                "c": "B3.3",
+                "d": "El texto descriptivo. La lengua en la descripción. Funciones de la descripción. Tipos de descripción"
+              },
+              {
+                "c": "B3.4",
+                "d": "El texto dialogado. Textos dialogados orales y textos dialogados escritos. La conversación. El debate. Escritura de textos dialogados"
+              },
+              {
+                "c": "B3.5",
+                "d": "El texto prescriptivo"
+              }
+            ]
+          },
+          {
+            "c": "B4",
+            "legal": "Géneros discursivos propios del ámbito personal: la conversación.",
+            "subs": [
+              {
+                "c": "B4.1",
+                "d": "Géneros discursivos propios del ámbito personal: la conversación"
+              }
+            ]
+          },
+          {
+            "c": "B5",
+            "legal": "Análisis de los géneros discursivos según el ámbito de uso: textos de la vida diaria y de las relaciones sociales (cartas, instrucciones, correos electrónicos).",
+            "subs": [
+              {
+                "c": "B5.1",
+                "d": "Análisis de los géneros discursivos según el ámbito de uso: textos de la vida diaria y de las relaciones sociales (cartas, instrucciones, correos electrónicos)"
+              }
+            ]
+          },
+          {
+            "c": "B6",
+            "legal": "Géneros discursivos propios del ámbito educativo (diccionarios, libros de texto y exposiciones orales).",
+            "subs": [
+              {
+                "c": "B6.1",
+                "d": "Géneros discursivos propios del ámbito educativo (diccionarios, libros de texto y exposiciones orales)"
+              }
+            ]
+          },
+          {
+            "c": "B7",
+            "legal": "Géneros discursivos propios del ámbito social: textos de los medios de comunicación (informativos televisivos, noticias periodísticas, periódicos digitales).",
+            "subs": [
+              {
+                "c": "B7.1",
+                "d": "Géneros discursivos propios del ámbito social: textos de los medios de comunicación (informativos televisivos, noticias periodísticas, periódicos digitales)"
+              }
+            ]
+          },
+          {
+            "c": "B8",
+            "legal": "Explicación de textos multimodales: página web, presentación PowerPoint y anuncios publicitarios. Análisis de uso de los diferentes sistemas semióticos. 3. Procesos comunicativos: hablar, escuchar, leer, escribir. 3.1. Hablar y escuchar.",
+            "subs": [
+              {
+                "c": "B8.1",
+                "d": "Explicación de textos multimodales: página web, presentación PowerPoint y anuncios publicitarios"
+              },
+              {
+                "c": "B8.2",
+                "d": "Análisis de uso de los diferentes sistemas semióticos"
+              },
+              {
+                "c": "B8.3",
+                "d": "3. Procesos comunicativos: hablar, escuchar, leer, escribir"
+              },
+              {
+                "c": "B8.4",
+                "d": "3.1. Hablar y escuchar"
+              }
+            ]
+          },
+          {
+            "c": "B9",
+            "legal": "Interacción oral y escrita de carácter informal. \u0002 Conocimiento de las estrategias verbales y no verbales para la producción de textos orales y escritos informales. \u0002 Tomar y dejar la palabra. \u0002 Conocimiento de las estrategias y técnicas para hablar en público. \u0002 Estrategias conversacionales para evitar las tensiones entre el emisor y el receptor. Cooperación conversacional y cortesía lingüística. \u0002 Escucha activa, asertividad y resolución dialogada de los conflictos. \u0002 Valoración de la importancia de la conversación en la vida social practicando actos de habla: contando, opinando, dialogando, describiendo, en situaciones comunicativas propias de la actividad escolar.",
+            "subs": [
+              {
+                "c": "B9.1",
+                "d": "Interacción oral y escrita de carácter informal"
+              },
+              {
+                "c": "B9.2",
+                "d": "Conocimiento de las estrategias verbales y no verbales para la producción de textos orales y escritos informales"
+              },
+              {
+                "c": "B9.3",
+                "d": "Tomar y dejar la palabra"
+              },
+              {
+                "c": "B9.4",
+                "d": "Conocimiento de las estrategias y técnicas para hablar en público"
+              },
+              {
+                "c": "B9.5",
+                "d": "Estrategias conversacionales para evitar las tensiones entre el emisor y el receptor. Cooperación conversacional y cortesía lingüística"
+              },
+              {
+                "c": "B9.6",
+                "d": "Escucha activa, asertividad y resolución dialogada de los conflictos"
+              },
+              {
+                "c": "B9.7",
+                "d": "Valoración de la importancia de la conversación en la vida social practicando actos de habla: contando, opinando, dialogando, describiendo, en situaciones comunicativas propias de la actividad escolar"
+              }
+            ]
+          },
+          {
+            "c": "B10",
+            "legal": "Detección y análisis de usos lingüísticos discriminatorios del lenguaje verbal y no verbal que transmiten prejuicios, estereotipos y descalificación. 3.2. Leer y escribir.",
+            "subs": [
+              {
+                "c": "B10.1",
+                "d": "Detección y análisis de usos lingüísticos discriminatorios del lenguaje verbal y no verbal que transmiten prejuicios, estereotipos y descalificación"
+              },
+              {
+                "c": "B10.2",
+                "d": "3.2. Leer y escribir"
+              }
+            ]
+          },
+          {
+            "c": "B11",
+            "legal": "Comprensión lectora: lectura de textos en voz alta. Identificación del sentido global del texto atendiendo a la intencionalidad del emisor y la relación entre sus partes, selección y retención de la información relevante.",
+            "subs": [
+              {
+                "c": "B11.1",
+                "d": "Comprensión lectora: lectura de textos en voz alta"
+              },
+              {
+                "c": "B11.2",
+                "d": "Identificación del sentido global del texto atendiendo a la intencionalidad del emisor y la relación entre sus partes, selección y retención de la información relevante"
+              }
+            ]
+          },
+          {
+            "c": "B12",
+            "legal": "Producción escrita. Planificación, textualización, revisión y edición en diferentes soportes de textos que reflejan usos de la escritura para la organización del pensamiento: esquemas, resúmenes, sinopsis, etc. en soporte papel o digital, con corrección gramatical y ortográfica y propiedad léxica.",
+            "subs": [
+              {
+                "c": "B12.1",
+                "d": "Producción escrita. Planificación, textualización, revisión y edición en diferentes soportes de textos que reflejan usos de la escritura para la organización del pensamiento: esquemas, resúmenes, sinopsis, etc"
+              },
+              {
+                "c": "B12.2",
+                "d": "en soporte papel o digital, con corrección gramatical y ortográfica y propiedad léxica"
+              }
+            ]
+          },
+          {
+            "c": "B13",
+            "legal": "Detección y análisis de usos lingüísticos discriminatorios del lenguaje verbal e icónico que transmiten prejuicios, estereotipos y descalificación. 4. Reconocimiento y uso discursivo de los elementos lingüísticos.",
+            "subs": [
+              {
+                "c": "B13.1",
+                "d": "Detección y análisis de usos lingüísticos discriminatorios del lenguaje verbal e icónico que transmiten prejuicios, estereotipos y descalificación"
+              },
+              {
+                "c": "B13.2",
+                "d": "4. Reconocimiento y uso discursivo de los elementos lingüísticos"
+              }
+            ]
+          },
+          {
+            "c": "B14",
+            "legal": "Aplicación guiada de la corrección lingüística y revisión ortográfica y gramatical de los textos. Conocimiento y uso de las normas de ortografía: \u0002 La división en sílabas. \u0002 Las reglas de acentuación. La tilde diacrítica. \u0002 El uso de mayúsculas y minúsculas.",
+            "subs": [
+              {
+                "c": "B14.1",
+                "d": "Aplicación guiada de la corrección lingüística y revisión ortográfica y gramatical de los textos. Conocimiento y uso de las normas de ortografía:"
+              },
+              {
+                "c": "B14.2",
+                "d": "La división en sílabas"
+              },
+              {
+                "c": "B14.3",
+                "d": "Las reglas de acentuación. La tilde diacrítica"
+              },
+              {
+                "c": "B14.4",
+                "d": "El uso de mayúsculas y minúsculas"
+              }
+            ]
+          },
+          {
+            "c": "B15",
+            "legal": "Explicación y uso de los signos básicos de puntuación como mecanismo organizador del texto escrito: el punto, la coma, los signos de interrogación y exclamación. Su relación con el significado.",
+            "subs": [
+              {
+                "c": "B15.1",
+                "d": "Explicación y uso de los signos básicos de puntuación como mecanismo organizador del texto escrito: el punto, la coma, los signos de interrogación y exclamación"
+              },
+              {
+                "c": "B15.2",
+                "d": "Su relación con el significado"
+              }
+            ]
+          },
+          {
+            "c": "B16",
+            "legal": "El diccionario: su uso y tipos, en soporte analógico o digital. Uso de correctores ortográficos de los procesadores de textos.",
+            "subs": [
+              {
+                "c": "B16.1",
+                "d": "El diccionario: su uso y tipos, en soporte analógico o digital"
+              },
+              {
+                "c": "B16.2",
+                "d": "Uso de correctores ortográficos de los procesadores de textos"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "C",
+        "name": "Educación literaria",
+        "items": [
+          {
+            "c": "C1",
+            "legal": "1. Lectura autónoma. Implicación en la lectura libre, de forma progresivamente autónoma, a partir de una preselección de textos variados y de obras completas de la literatura española y universal y de la literatura juvenil, en soporte papel y en soporte digital, próximos a los intereses y aficiones de los alumnos, y reflexión sobre los textos leídos y sobre la práctica de lectura, atendiendo a las siguientes destrezas y estrategias:.",
+            "subs": [
+              {
+                "c": "C1.1",
+                "d": "1. Lectura autónoma. Implicación en la lectura libre, de forma progresivamente autónoma, a partir de una preselección de textos variados y de obras completas de la literatura española y universal y de la literatura juvenil, en soporte papel y en soporte digital, próximos a los intereses y aficiones de los alumnos, y reflexión sobre los textos leídos y sobre la práctica de lectura, atendiendo a las siguientes destrezas y estrategias:"
+              }
+            ]
+          },
+          {
+            "c": "C2",
+            "legal": "Participación guiada y activa en actos culturales vinculados con el circuito literario y lector como encuentros con el autor y concursos literarios, entre otros.",
+            "subs": [
+              {
+                "c": "C2.1",
+                "d": "Participación guiada y activa en actos culturales vinculados con el circuito literario y lector como encuentros con el autor y concursos literarios, entre otros"
+              }
+            ]
+          },
+          {
+            "c": "C3",
+            "legal": "Expresión, a través de modelos, de la experiencia lectora y apropiación de los textos leídos a través de distintas formas de recreación.",
+            "subs": [
+              {
+                "c": "C3.1",
+                "d": "Expresión, a través de modelos, de la experiencia lectora y apropiación de los textos leídos a través de distintas formas de recreación"
+              }
+            ]
+          },
+          {
+            "c": "C4",
+            "legal": "Introducción de estrategias de movilización de la experiencia personal y lectora como forma de establecer vínculos entre la obra leída y aspectos de la actualidad, así como con otros textos y manifestaciones artísticas y culturales (música, pintura, audiovisuales, etc.), entendidas como formas de expresión del sentimiento humano.",
+            "subs": [
+              {
+                "c": "C4.1",
+                "d": "Introducción de estrategias de movilización de la experiencia personal y lectora como forma de establecer vínculos entre la obra leída y aspectos de la actualidad, así como con otros textos y manifestaciones artísticas y culturales (música, pintura, audiovisuales, etc.), entendidas como formas de expresión del sentimiento humano"
+              }
+            ]
+          },
+          {
+            "c": "C5",
+            "legal": "Presentación de estrategias para la recomendación de las lecturas oralmente entre iguales.",
+            "subs": [
+              {
+                "c": "C5.1",
+                "d": "Presentación de estrategias para la recomendación de las lecturas oralmente entre iguales"
+              }
+            ]
+          },
+          {
+            "c": "C6",
+            "legal": "Estrategias de fomento del gusto y el hábito lector en todas sus vertientes: ocio y placer, fuente de conocimiento, acceso a una nueva visión de la realidad y de la ficción. 2. Lectura guiada. Lectura guiada de obras completas y fragmentos relevantes de la literatura juvenil contemporánea y del patrimonio literario universal, inscritas en itinerarios temáticos o de género, que atraviesan épocas, contextos culturales y movimientos artísticos, atendiendo a los siguientes contenidos y estrategias:.",
+            "subs": [
+              {
+                "c": "C6.1",
+                "d": "Estrategias de fomento del gusto y el hábito lector en todas sus vertientes: ocio y placer, fuente de conocimiento, acceso a una nueva visión de la realidad y de la ficción"
+              },
+              {
+                "c": "C6.2",
+                "d": "2. Lectura guiada. Lectura guiada de obras completas y fragmentos relevantes de la literatura juvenil contemporánea y del patrimonio literario universal, inscritas en itinerarios temáticos o de género, que atraviesan épocas, contextos culturales y movimientos artísticos, atendiendo a los siguientes contenidos y estrategias:"
+              }
+            ]
+          },
+          {
+            "c": "C7",
+            "legal": "Relación entre los elementos constitutivos del género literario y la construcción del sentido de la obra. \u0002 Presentación de las características del texto literario y la construcción del sentido de la obra. \u0002 Análisis básico del valor de los recursos expresivos y de sus efectos en la recepción. \u0002 Aproximación al lenguaje literario y los recursos literarios.",
+            "subs": [
+              {
+                "c": "C7.1",
+                "d": "Relación entre los elementos constitutivos del género literario y la construcción del sentido de la obra"
+              },
+              {
+                "c": "C7.2",
+                "d": "Presentación de las características del texto literario y la construcción del sentido de la obra"
+              },
+              {
+                "c": "C7.3",
+                "d": "Análisis básico del valor de los recursos expresivos y de sus efectos en la recepción"
+              },
+              {
+                "c": "C7.4",
+                "d": "Aproximación al lenguaje literario y los recursos literarios"
+              }
+            ]
+          },
+          {
+            "c": "C8",
+            "legal": "Introducción a las estrategias y modelos para la construcción compartida de la interpretación de las obras: \u0002 Elaboración de reseñas, crónicas, notas, comentarios, informes de la valoración e interpretación personal de las obras y fragmentos literarios leídos.",
+            "subs": [
+              {
+                "c": "C8.1",
+                "d": "Introducción a las estrategias y modelos para la construcción compartida de la interpretación de las obras:"
+              },
+              {
+                "c": "C8.2",
+                "d": "Elaboración de reseñas, crónicas, notas, comentarios, informes de la valoración e interpretación personal de las obras y fragmentos literarios leídos"
+              }
+            ]
+          },
+          {
+            "c": "C9",
+            "legal": "Lectura expresiva, dramatización y recitación de los textos atendiendo a los procesos de comprensión, apropiación y oralización implicados. \u0002 Lectura dramatizada de textos teatrales. \u0002 Lectura y recitado de textos poéticos.",
+            "subs": [
+              {
+                "c": "C9.1",
+                "d": "Lectura expresiva, dramatización y recitación de los textos atendiendo a los procesos de comprensión, apropiación y oralización implicados"
+              },
+              {
+                "c": "C9.2",
+                "d": "Lectura dramatizada de textos teatrales"
+              },
+              {
+                "c": "C9.3",
+                "d": "Lectura y recitado de textos poéticos"
+              }
+            ]
+          },
+          {
+            "c": "C10",
+            "legal": "Creación de textos personales de intención literaria, en prosa y en verso, a partir de la apropiación de las convenciones del lenguaje literario y en referencia a modelos dados: \u0002 Imitación, transformación, continuación etc., de diferentes textos de intención literaria.",
+            "subs": [
+              {
+                "c": "C10.1",
+                "d": "Creación de textos personales de intención literaria, en prosa y en verso, a partir de la apropiación de las convenciones del lenguaje literario y en referencia a modelos dados:"
+              },
+              {
+                "c": "C10.2",
+                "d": "Imitación, transformación, continuación etc., de diferentes textos de intención literaria"
+              }
+            ]
+          },
+          {
+            "c": "C11",
+            "legal": "Aproximación a los géneros literarios a través de la lectura y explicación de fragmentos significativos o de textos completos. \u0002 Introducción al análisis de los rasgos formales del género teatral. \u0002 Introducción al análisis de los rasgos formales del género lírico.",
+            "subs": [
+              {
+                "c": "C11.1",
+                "d": "Aproximación a los géneros literarios a través de la lectura y explicación de fragmentos significativos o de textos completos"
+              },
+              {
+                "c": "C11.2",
+                "d": "Introducción al análisis de los rasgos formales del género teatral"
+              },
+              {
+                "c": "C11.3",
+                "d": "Introducción al análisis de los rasgos formales del género lírico"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "D",
+        "name": "Reflexión sobre la lengua",
+        "items": [
+          {
+            "c": "D1",
+            "legal": "Elaboración de conclusiones propias sobre el funcionamiento del sistema lingüístico con un lenguaje específico a partir de la observación, comparación y clasificación de unidades comunicativas y del contraste entre lenguas, en torno a los siguientes contenidos y estrategias:.",
+            "subs": [
+              {
+                "c": "D1.1",
+                "d": "Elaboración de conclusiones propias sobre el funcionamiento del sistema lingüístico con un lenguaje específico a partir de la observación, comparación y clasificación de unidades comunicativas y del contraste entre lenguas, en torno a los siguientes contenidos y estrategias:"
+              }
+            ]
+          },
+          {
+            "c": "D2",
+            "legal": "Presentación de las diferencias contextuales y formales relevantes e intersecciones entre lengua oral y lengua escrita, atendiendo a aspectos sintácticos, léxicos y pragmáticos.",
+            "subs": [
+              {
+                "c": "D2.1",
+                "d": "Presentación de las diferencias contextuales y formales relevantes e intersecciones entre lengua oral y lengua escrita, atendiendo a aspectos sintácticos, léxicos y pragmáticos"
+              }
+            ]
+          },
+          {
+            "c": "D3",
+            "legal": "Aproximación a la lengua como código o sistema y a sus unidades básicas teniendo en cuenta los diferentes niveles: el sonido y el sistema de escritura, las palabras (forma y significado), su organización en el discurso (orden de las palabras, componentes de las oraciones o conexión entre los significados). \u0002 Caracterización y diferenciación de los planos de la lengua: fonético-fonológico; morfosintáctico, léxico-semántico y pragmático. Identificación de sus unidades.",
+            "subs": [
+              {
+                "c": "D3.1",
+                "d": "Aproximación a la lengua como código o sistema y a sus unidades básicas teniendo en cuenta los diferentes niveles: el sonido y el sistema de escritura, las palabras (forma y significado), su organización en el discurso (orden de las palabras, componentes de las oraciones o conexión entre los significados)"
+              },
+              {
+                "c": "D3.2",
+                "d": "Caracterización y diferenciación de los planos de la lengua: fonético-fonológico; morfosintáctico, léxico-semántico y pragmático. Identificación de sus unidades"
+              }
+            ]
+          },
+          {
+            "c": "D4",
+            "legal": "Identificación, distinción y caracterización de las categorías gramaticales. Las palabras variables: \u0002 El nombre. Funciones del nombre. \u0002 El adjetivo. Significado y posición del adjetivo. Funciones del adjetivo. \u0002 Determinantes: Identificación y caracterización de los distintos tipos de determinantes. Pronombres: Pronombres personales. \u0002 El verbo. La conjugación verbal. Verbos auxiliares y su conjugación.",
+            "subs": [
+              {
+                "c": "D4.1",
+                "d": "Identificación, distinción y caracterización de las categorías gramaticales. Las palabras variables:"
+              },
+              {
+                "c": "D4.2",
+                "d": "El nombre. Funciones del nombre"
+              },
+              {
+                "c": "D4.3",
+                "d": "El adjetivo. Significado y posición del adjetivo. Funciones del adjetivo"
+              },
+              {
+                "c": "D4.4",
+                "d": "Determinantes: Identificación y caracterización de los distintos tipos de determinantes. Pronombres: Pronombres personales"
+              },
+              {
+                "c": "D4.5",
+                "d": "El verbo. La conjugación verbal. Verbos auxiliares y su conjugación"
+              }
+            ]
+          },
+          {
+            "c": "D5",
+            "legal": "Identificación, distinción y caracterización de las categorías gramaticales. Las palabras invariables: \u0002 El adverbio. Identificación y caracterización de los tipos de adverbios. \u0002 La preposición. \u0002 La conjunción. Clases de conjunciones. \u0002 La interjección. Uso de las interjecciones.",
+            "subs": [
+              {
+                "c": "D5.1",
+                "d": "Identificación, distinción y caracterización de las categorías gramaticales. Las palabras invariables:"
+              },
+              {
+                "c": "D5.2",
+                "d": "El adverbio. Identificación y caracterización de los tipos de adverbios"
+              },
+              {
+                "c": "D5.3",
+                "d": "La preposición"
+              },
+              {
+                "c": "D5.4",
+                "d": "La conjunción. Clases de conjunciones"
+              },
+              {
+                "c": "D5.5",
+                "d": "La interjección. Uso de las interjecciones"
+              }
+            ]
+          },
+          {
+            "c": "D6",
+            "legal": "Distinción entre la forma (categoría gramatical) y la función de las palabras (funciones sintácticas). Relaciones gramaticales. El enunciado.",
+            "subs": [
+              {
+                "c": "D6.1",
+                "d": "Distinción entre la forma (categoría gramatical) y la función de las palabras (funciones sintácticas)"
+              },
+              {
+                "c": "D6.2",
+                "d": "Relaciones gramaticales. El enunciado"
+              }
+            ]
+          },
+          {
+            "c": "D7",
+            "legal": "Caracterización, identificación y reconocimiento de oraciones y de sus constituyentes. El grupo nominal y el verbal. La concordancia entre el núcleo nominal y el verbal.",
+            "subs": [
+              {
+                "c": "D7.1",
+                "d": "Caracterización, identificación y reconocimiento de oraciones y de sus constituyentes"
+              },
+              {
+                "c": "D7.2",
+                "d": "El grupo nominal y el verbal. La concordancia entre el núcleo nominal y el verbal"
+              }
+            ]
+          },
+          {
+            "c": "D8",
+            "legal": "Caracterización, identificación y reconocimiento de la oración simple. \u0002 Constituyentes de la oración simple: el sujeto y su identificación. El predicado: diferenciación e identificación de los distintos tipos de predicados. Oraciones unimembres.",
+            "subs": [
+              {
+                "c": "D8.1",
+                "d": "Caracterización, identificación y reconocimiento de la oración simple"
+              },
+              {
+                "c": "D8.2",
+                "d": "Constituyentes de la oración simple: el sujeto y su identificación. El predicado: diferenciación e identificación de los distintos tipos de predicados. Oraciones unimembres"
+              }
+            ]
+          },
+          {
+            "c": "D9",
+            "legal": "Procedimientos de adquisición y formación de palabras. \u0002 Presentación de los elementos constitutivos de la palabra: lexemas y morfemas flexivos y derivativos. Palabras variables e invariables.",
+            "subs": [
+              {
+                "c": "D9.1",
+                "d": "Procedimientos de adquisición y formación de palabras"
+              },
+              {
+                "c": "D9.2",
+                "d": "Presentación de los elementos constitutivos de la palabra: lexemas y morfemas flexivos y derivativos. Palabras variables e invariables"
+              }
+            ]
+          },
+          {
+            "c": "D10",
+            "legal": "Reflexión sobre las relaciones semánticas entre palabras: sinonimia y antonimia, monosemia y polisemia.",
+            "subs": [
+              {
+                "c": "D10.1",
+                "d": "Reflexión sobre las relaciones semánticas entre palabras: sinonimia y antonimia, monosemia y polisemia"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "T",
+        "name": "Contenidos transversales",
+        "items": [
+          {
+            "c": "T1",
+            "legal": "La comprensión lectora, la expresión oral y escrita, la comunicación audiovisual, la competencia digital, el emprendimiento social y empresarial, el fomento del espíritu crítico y científico, la educación emocional y en valores, la igualdad de género y la creatividad se trabajarán en todas las materias.",
+            "subs": [
+              {
+                "c": "T1.1",
+                "d": "La comprensión lectora"
+              },
+              {
+                "c": "T1.2",
+                "d": "La expresión oral y escrita"
+              },
+              {
+                "c": "T1.3",
+                "d": "La comunicación audiovisual"
+              },
+              {
+                "c": "T1.4",
+                "d": "La competencia digital"
+              },
+              {
+                "c": "T1.5",
+                "d": "El emprendimiento social y empresarial"
+              },
+              {
+                "c": "T1.6",
+                "d": "El fomento del espíritu crítico y científico"
+              },
+              {
+                "c": "T1.7",
+                "d": "La educación emocional y en valores"
+              },
+              {
+                "c": "T1.8",
+                "d": "La igualdad de género"
+              },
+              {
+                "c": "T1.9",
+                "d": "La creatividad"
+              }
+            ]
+          },
+          {
+            "c": "T2",
+            "legal": "En todo caso se fomentará de manera transversal la educación para la salud, incluida la afectivo-sexual, la formación estética, la educación ambiental y para el consumo, la educación vial, los derechos humanos, el respeto mutuo y la cooperación entre iguales.",
+            "subs": [
+              {
+                "c": "T2.1",
+                "d": "La educación para la salud, incluida la afectivo-sexual"
+              },
+              {
+                "c": "T2.2",
+                "d": "La formación estética"
+              },
+              {
+                "c": "T2.3",
+                "d": "La educación ambiental y para el consumo"
+              },
+              {
+                "c": "T2.4",
+                "d": "La educación vial"
+              },
+              {
+                "c": "T2.5",
+                "d": "Los derechos humanos"
+              },
+              {
+                "c": "T2.6",
+                "d": "El respeto mutuo y la cooperación entre iguales"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "matematicas": {
+    "name": "Matemáticas",
+    "grade": "1.o ESO",
+    "blocks": [
+      {
+        "id": "A",
+        "name": "Números y operaciones",
+        "items": [
+          {
+            "c": "A1",
+            "legal": "1. Conteo.",
+            "subs": [
+              {
+                "c": "A1.1",
+                "d": "1. Conteo"
+              }
+            ]
+          },
+          {
+            "c": "A2",
+            "legal": "Estrategias sencillas de recuento sistemático en situaciones de la vida cotidiana. 2. Cantidad.",
+            "subs": [
+              {
+                "c": "A2.1",
+                "d": "Estrategias sencillas de recuento sistemático en situaciones de la vida cotidiana. 2. Cantidad"
+              }
+            ]
+          },
+          {
+            "c": "A3",
+            "legal": "Realización de estimaciones con la precisión requerida en función del contexto.",
+            "subs": [
+              {
+                "c": "A3.1",
+                "d": "Realización de estimaciones con la precisión requerida en función del contexto"
+              }
+            ]
+          },
+          {
+            "c": "A4",
+            "legal": "Uso de los números enteros, fraccionarios y decimales en la expresión de cantidades en contextos de la vida cotidiana.",
+            "subs": [
+              {
+                "c": "A4.1",
+                "d": "Uso de los números enteros, fraccionarios y decimales en la expresión de cantidades en contextos de la vida cotidiana"
+              }
+            ]
+          },
+          {
+            "c": "A5",
+            "legal": "Reconocimiento y aplicación de diferentes formas de representación de números enteros, fraccionarios y decimales, incluida la recta numérica.",
+            "subs": [
+              {
+                "c": "A5.1",
+                "d": "Reconocimiento y aplicación de diferentes formas de representación de números enteros, fraccionarios y decimales, incluida la recta numérica"
+              }
+            ]
+          },
+          {
+            "c": "A6",
+            "legal": "Introducción del valor absoluto de un número entero como su distancia al origen de la recta real.",
+            "subs": [
+              {
+                "c": "A6.1",
+                "d": "Introducción del valor absoluto de un número entero como su distancia al origen de la recta real"
+              }
+            ]
+          },
+          {
+            "c": "A7",
+            "legal": "Clasificación de números reales en naturales, enteros, racionales e irracionales. 3. Operaciones.",
+            "subs": [
+              {
+                "c": "A7.1",
+                "d": "Clasificación de números reales en naturales, enteros, racionales e irracionales. 3. Operaciones"
+              }
+            ]
+          },
+          {
+            "c": "A8",
+            "legal": "Aplicación de estrategias de cálculo mental con números naturales.",
+            "subs": [
+              {
+                "c": "A8.1",
+                "d": "Aplicación de estrategias de cálculo mental con números naturales"
+              }
+            ]
+          },
+          {
+            "c": "A9",
+            "legal": "Reconocimiento y aplicación de las operaciones con números enteros, fraccionarios o decimales en situaciones contextualizadas sencillas.",
+            "subs": [
+              {
+                "c": "A9.1",
+                "d": "Reconocimiento y aplicación de las operaciones con números enteros, fraccionarios o decimales en situaciones contextualizadas sencillas"
+              }
+            ]
+          },
+          {
+            "c": "A10",
+            "legal": "Relaciones inversas entre las operaciones (adición y sustracción; multiplicación y división; elevar al cuadrado y extraer la raíz cuadrada): comprensión y utilización en la simplificación y resolución de problemas.",
+            "subs": [
+              {
+                "c": "A10.1",
+                "d": "Relaciones inversas entre las operaciones (adición y sustracción; multiplicación y división; elevar al cuadrado y extraer la raíz cuadrada): comprensión y utilización en la simplificación y resolución de problemas"
+              }
+            ]
+          },
+          {
+            "c": "A11",
+            "legal": "Interpretación del significado de los efectos de las operaciones aritméticas con números naturales y enteros, así como de la jerarquía de las mismas.",
+            "subs": [
+              {
+                "c": "A11.1",
+                "d": "Interpretación del significado de los efectos de las operaciones aritméticas con números naturales y enteros, así como de la jerarquía de las mismas"
+              }
+            ]
+          },
+          {
+            "c": "A12",
+            "legal": "Uso de las propiedades de las operaciones aritméticas (suma, resta, multiplicación y división) para realizar cálculos de manera eficiente con números naturales, enteros, fraccionarios y decimales, adaptando las estrategias a cada situación.",
+            "subs": [
+              {
+                "c": "A12.1",
+                "d": "Uso de las propiedades de las operaciones aritméticas (suma, resta, multiplicación y división) para realizar cálculos de manera eficiente con números naturales, enteros, fraccionarios y decimales, adaptando las estrategias a cada situación"
+              }
+            ]
+          },
+          {
+            "c": "A13",
+            "legal": "Comprensión del significado matemático de las potencias de números enteros con exponente natural. Estudio de sus propiedades y realización de operaciones y problemas sencillos con las mismas. 4. Relaciones.",
+            "subs": [
+              {
+                "c": "A13.1",
+                "d": "Comprensión del significado matemático de las potencias de números enteros con exponente natural"
+              },
+              {
+                "c": "A13.2",
+                "d": "Estudio de sus propiedades y realización de operaciones y problemas sencillos con las mismas"
+              },
+              {
+                "c": "A13.3",
+                "d": "4. Relaciones"
+              }
+            ]
+          },
+          {
+            "c": "A14",
+            "legal": "Obtención de números decimales a partir de números fraccionarios.",
+            "subs": [
+              {
+                "c": "A14.1",
+                "d": "Obtención de números decimales a partir de números fraccionarios"
+              }
+            ]
+          },
+          {
+            "c": "A15",
+            "legal": "Los cuadrados perfectos y las raíces cuadradas exactas.",
+            "subs": [
+              {
+                "c": "A15.1",
+                "d": "Los cuadrados perfectos y las raíces cuadradas exactas"
+              }
+            ]
+          },
+          {
+            "c": "A16",
+            "legal": "Utilización de factores, múltiplos y divisores. Factorización en números primos para resolver problemas: estrategias y herramientas. \u0002 Criterios de divisibilidad necesarios para la resolución de problemas sencillos y la correcta descomposición factorial de un número en sus factores primos. \u0002 Mínimo común múltiplo y máximo común divisor de dos o más números: concepto y cálculo a partir de su descomposición factorial. \u0003 Comparación y ordenación de fracciones: situación exacta o aproximada en la recta numérica. 5. Proporcionalidad.",
+            "subs": [
+              {
+                "c": "A16.1",
+                "d": "Utilización de factores, múltiplos y divisores. Factorización en números primos para resolver problemas: estrategias y herramientas"
+              },
+              {
+                "c": "A16.2",
+                "d": "Criterios de divisibilidad necesarios para la resolución de problemas sencillos y la correcta descomposición factorial de un número en sus factores primos"
+              },
+              {
+                "c": "A16.3",
+                "d": "Mínimo común múltiplo y máximo común divisor de dos o más números: concepto y cálculo a partir de su descomposición factorial. \u0003 Comparación y ordenación de fracciones: situación exacta o aproximada en la recta numérica. 5. Proporcionalidad"
+              }
+            ]
+          },
+          {
+            "c": "A17",
+            "legal": "Razones y proporciones: comprensión y representación de relaciones cuantitativas. Identificación de magnitudes directamente proporcionales.",
+            "subs": [
+              {
+                "c": "A17.1",
+                "d": "Razones y proporciones: comprensión y representación de relaciones cuantitativas"
+              },
+              {
+                "c": "A17.2",
+                "d": "Identificación de magnitudes directamente proporcionales"
+              }
+            ]
+          },
+          {
+            "c": "A18",
+            "legal": "Porcentajes: compresión y utilización en la resolución de problemas sencillos de la vida cotidiana relativos tanto al aumento como a la disminución porcentual.",
+            "subs": [
+              {
+                "c": "A18.1",
+                "d": "Porcentajes: compresión y utilización en la resolución de problemas sencillos de la vida cotidiana relativos tanto al aumento como a la disminución porcentual"
+              }
+            ]
+          },
+          {
+            "c": "A19",
+            "legal": "Situaciones de proporcionalidad directa e inversa en diferentes contextos: análisis y desarrollo de métodos para la resolución de diversos problemas (aumentos y disminuciones porcentuales, rebajas y subidas de precios, impuestos, escalas, cambio de divisas, velocidad y tiempo, etc.) 6. Educación financiera.",
+            "subs": [
+              {
+                "c": "A19.1",
+                "d": "Situaciones de proporcionalidad directa e inversa en diferentes contextos: análisis y desarrollo de métodos para la resolución de diversos problemas (aumentos y disminuciones porcentuales, rebajas y subidas de precios, impuestos, escalas, cambio de divisas, velocidad y tiempo, etc.) 6"
+              },
+              {
+                "c": "A19.2",
+                "d": "Educación financiera"
+              }
+            ]
+          },
+          {
+            "c": "A20",
+            "legal": "Métodos para la toma de decisiones de consumo responsable atendiendo a las relaciones calidad-precio y valor-precio en contextos cotidianos.",
+            "subs": [
+              {
+                "c": "A20.1",
+                "d": "Métodos para la toma de decisiones de consumo responsable atendiendo a las relaciones calidad-precio y valor-precio en contextos cotidianos"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "B",
+        "name": "Medida y geometría",
+        "items": [
+          {
+            "c": "B1",
+            "legal": "1. Magnitud.",
+            "subs": [
+              {
+                "c": "B1.1",
+                "d": "1. Magnitud"
+              }
+            ]
+          },
+          {
+            "c": "B2",
+            "legal": "Atributos mensurables de los objetos físicos y matemáticos: relación entre los mismos. Concepto de magnitud.",
+            "subs": [
+              {
+                "c": "B2.1",
+                "d": "Atributos mensurables de los objetos físicos y matemáticos: relación entre los mismos"
+              },
+              {
+                "c": "B2.2",
+                "d": "Concepto de magnitud"
+              }
+            ]
+          },
+          {
+            "c": "B3",
+            "legal": "Estrategias de elección de las unidades y operaciones adecuadas en problemas sencillos que impliquen medida. 2. Medición. ‒ Longitudes y áreas en figuras planas: deducción de las principales fórmulas para su cálculo, interpretación y aplicación en contextos geométricos sencillos. \u0002 Triángulos. Clasificación y propiedades métricas básicas. \u0002 Cuadriláteros. Clasificación y propiedades. \u0002 Diagonales, apotema y simetrías en polígonos regulares. \u0002 Circunferencia, círculo, arco y sector circular.",
+            "subs": [
+              {
+                "c": "B3.1",
+                "d": "Estrategias de elección de las unidades y operaciones adecuadas en problemas sencillos que impliquen medida. 2. Medición. ‒ Longitudes y áreas en figuras planas: deducción de las principales fórmulas para su cálculo, interpretación y aplicación en contextos geométricos sencillos"
+              },
+              {
+                "c": "B3.2",
+                "d": "Triángulos. Clasificación y propiedades métricas básicas"
+              },
+              {
+                "c": "B3.3",
+                "d": "Cuadriláteros. Clasificación y propiedades"
+              },
+              {
+                "c": "B3.4",
+                "d": "Diagonales, apotema y simetrías en polígonos regulares"
+              },
+              {
+                "c": "B3.5",
+                "d": "Circunferencia, círculo, arco y sector circular"
+              }
+            ]
+          },
+          {
+            "c": "B4",
+            "legal": "Representaciones de objetos geométricos con propiedades fijadas, como las longitudes de sus lados. 3. Estimación y relaciones. ‒ Formulación de conjeturas sobre medidas o relaciones entre las mismas basadas en estimaciones. Aplicación a objetos cotidianos.",
+            "subs": [
+              {
+                "c": "B4.1",
+                "d": "Representaciones de objetos geométricos con propiedades fijadas, como las longitudes de sus lados"
+              },
+              {
+                "c": "B4.2",
+                "d": "3. Estimación y relaciones. ‒ Formulación de conjeturas sobre medidas o relaciones entre las mismas basadas en estimaciones"
+              },
+              {
+                "c": "B4.3",
+                "d": "Aplicación a objetos cotidianos"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "C",
+        "name": "Geometría en el plano y el espacio",
+        "items": [
+          {
+            "c": "C1",
+            "legal": "1. Figuras geométricas de dos dimensiones.",
+            "subs": [
+              {
+                "c": "C1.1",
+                "d": "1. Figuras geométricas de dos dimensiones"
+              }
+            ]
+          },
+          {
+            "c": "C2",
+            "legal": "Figuras geométricas planas: descripción y clasificación en función de sus propiedades o características.",
+            "subs": [
+              {
+                "c": "C2.1",
+                "d": "Figuras geométricas planas: descripción y clasificación en función de sus propiedades o características"
+              }
+            ]
+          },
+          {
+            "c": "C3",
+            "legal": "Construcción de figuras geométricas con herramientas manipulativas. 2. Localización y sistemas de representación. ‒ Relaciones espaciales: localización y descripción mediante coordenadas geométricas y otros sistemas de representación. El plano cartesiano.",
+            "subs": [
+              {
+                "c": "C3.1",
+                "d": "Construcción de figuras geométricas con herramientas manipulativas"
+              },
+              {
+                "c": "C3.2",
+                "d": "2. Localización y sistemas de representación"
+              },
+              {
+                "c": "C3.3",
+                "d": "‒ Relaciones espaciales: localización y descripción mediante coordenadas geométricas y otros sistemas de representación"
+              },
+              {
+                "c": "C3.4",
+                "d": "El plano cartesiano"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "D",
+        "name": "Álgebra",
+        "items": [
+          {
+            "c": "D1",
+            "legal": "1. Patrones.",
+            "subs": [
+              {
+                "c": "D1.1",
+                "d": "1. Patrones"
+              }
+            ]
+          },
+          {
+            "c": "D2",
+            "legal": "Patrones, pautas y regularidades: observación y determinación de la regla de formación en casos sencillos. 2. Modelo matemático.",
+            "subs": [
+              {
+                "c": "D2.1",
+                "d": "Patrones, pautas y regularidades: observación y determinación de la regla de formación en casos sencillos"
+              },
+              {
+                "c": "D2.2",
+                "d": "2. Modelo matemático"
+              }
+            ]
+          },
+          {
+            "c": "D3",
+            "legal": "Modelización de situaciones sencillas de la vida cotidiana usando representaciones matemáticas y el lenguaje algebraico. Comprensión de la importancia del lenguaje algebraico para generalizar propiedades y simbolizar relaciones. 3. Variable. \u0003 Variable: comprensión del concepto en sus diferentes naturalezas. \u0003 Comprensión e iniciación al lenguaje algebraico; obtención de valores numéricos en expresiones algebraicas sencillas para diferentes valores de sus parámetros 4. Igualdad y desigualdad.",
+            "subs": [
+              {
+                "c": "D3.1",
+                "d": "Modelización de situaciones sencillas de la vida cotidiana usando representaciones matemáticas y el lenguaje algebraico"
+              },
+              {
+                "c": "D3.2",
+                "d": "Comprensión de la importancia del lenguaje algebraico para generalizar propiedades y simbolizar relaciones"
+              },
+              {
+                "c": "D3.3",
+                "d": "3. Variable. \u0003 Variable: comprensión del concepto en sus diferentes naturalezas"
+              },
+              {
+                "c": "D3.4",
+                "d": "\u0003 Comprensión e iniciación al lenguaje algebraico; obtención de valores numéricos en expresiones algebraicas sencillas para diferentes valores de sus parámetros 4"
+              },
+              {
+                "c": "D3.5",
+                "d": "Igualdad y desigualdad"
+              }
+            ]
+          },
+          {
+            "c": "D4",
+            "legal": "Relaciones lineales en situaciones de la vida cotidiana o matemáticamente relevantes: expresión mediante álgebra simbólica.",
+            "subs": [
+              {
+                "c": "D4.1",
+                "d": "Relaciones lineales en situaciones de la vida cotidiana o matemáticamente relevantes: expresión mediante álgebra simbólica"
+              }
+            ]
+          },
+          {
+            "c": "D5",
+            "legal": "Identificación y aplicación de la equivalencia de expresiones algebraicas a la resolución de ecuaciones lineales con una incógnita y de problemas basados en relaciones lineales.",
+            "subs": [
+              {
+                "c": "D5.1",
+                "d": "Identificación y aplicación de la equivalencia de expresiones algebraicas a la resolución de ecuaciones lineales con una incógnita y de problemas basados en relaciones lineales"
+              }
+            ]
+          },
+          {
+            "c": "D6",
+            "legal": "Estrategias de búsqueda de soluciones en ecuaciones lineales en situaciones de la vida cotidiana. 5. Relaciones y funciones.",
+            "subs": [
+              {
+                "c": "D6.1",
+                "d": "Estrategias de búsqueda de soluciones en ecuaciones lineales en situaciones de la vida cotidiana"
+              },
+              {
+                "c": "D6.2",
+                "d": "5. Relaciones y funciones"
+              }
+            ]
+          },
+          {
+            "c": "D7",
+            "legal": "Relaciones cuantitativas en situaciones de la vida cotidiana y clases de funciones.",
+            "subs": [
+              {
+                "c": "D7.1",
+                "d": "Relaciones cuantitativas en situaciones de la vida cotidiana y clases de funciones"
+              }
+            ]
+          },
+          {
+            "c": "D8",
+            "legal": "Relaciones lineales: identificación y comparación de diferentes modos de representación, tablas, gráficas o expresiones algebraicas, y sus propiedades a partir de ellas. 6. Pensamiento computacional.",
+            "subs": [
+              {
+                "c": "D8.1",
+                "d": "Relaciones lineales: identificación y comparación de diferentes modos de representación, tablas, gráficas o expresiones algebraicas, y sus propiedades a partir de ellas"
+              },
+              {
+                "c": "D8.2",
+                "d": "6. Pensamiento computacional"
+              }
+            ]
+          },
+          {
+            "c": "D9",
+            "legal": "Generalización y transferencia de procesos de resolución de problemas a otras situaciones.",
+            "subs": [
+              {
+                "c": "D9.1",
+                "d": "Generalización y transferencia de procesos de resolución de problemas a otras situaciones"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "E",
+        "name": "Estadística",
+        "items": [
+          {
+            "c": "E1",
+            "legal": "1. Organización y análisis de datos.",
+            "subs": [
+              {
+                "c": "E1.1",
+                "d": "1. Organización y análisis de datos"
+              }
+            ]
+          },
+          {
+            "c": "E2",
+            "legal": "Elaboración de tablas estadísticas sencillas para variables cualitativas y cuantitativas discretas.",
+            "subs": [
+              {
+                "c": "E2.1",
+                "d": "Elaboración de tablas estadísticas sencillas para variables cualitativas y cuantitativas discretas"
+              }
+            ]
+          },
+          {
+            "c": "E3",
+            "legal": "Estrategias de recogida y organización de datos de situaciones de la vida cotidiana que involucran una sola variable. Diferencia entre variable y valores individuales.",
+            "subs": [
+              {
+                "c": "E3.1",
+                "d": "Estrategias de recogida y organización de datos de situaciones de la vida cotidiana que involucran una sola variable"
+              },
+              {
+                "c": "E3.2",
+                "d": "Diferencia entre variable y valores individuales"
+              }
+            ]
+          },
+          {
+            "c": "E4",
+            "legal": "Medidas de localización (centralización y dispersión): interpretación y cálculo. \u0002 Media aritmética y ponderada, moda y rango o recorrido.",
+            "subs": [
+              {
+                "c": "E4.1",
+                "d": "Medidas de localización (centralización y dispersión): interpretación y cálculo"
+              },
+              {
+                "c": "E4.2",
+                "d": "Media aritmética y ponderada, moda y rango o recorrido"
+              }
+            ]
+          },
+          {
+            "c": "E5",
+            "legal": "Comparación de dos conjuntos de datos sencillos atendiendo a las medidas de localización y dispersión.",
+            "subs": [
+              {
+                "c": "E5.1",
+                "d": "Comparación de dos conjuntos de datos sencillos atendiendo a las medidas de localización y dispersión"
+              }
+            ]
+          },
+          {
+            "c": "E6",
+            "legal": "Cálculo de probabilidades mediante el concepto de frecuencia relativa y la regla de Laplace.",
+            "subs": [
+              {
+                "c": "E6.1",
+                "d": "Cálculo de probabilidades mediante el concepto de frecuencia relativa y la regla de Laplace"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "F",
+        "name": "Actitudes y aprendizaje",
+        "items": [
+          {
+            "c": "F1",
+            "legal": "1. Creencias, actitudes y emociones. ‒ Estrategias de fomento de la curiosidad, la iniciativa, la perseverancia y la resiliencia en el aprendizaje de las matemáticas, identificando los errores cometidos como uno de los motores para su aprendizaje. Se fomentará entre el alumnado el desarrollo de estrategias que le permitan identificar sus puntos débiles y aprender de los errores. 2. Trabajo en equipo y toma de decisiones.",
+            "subs": [
+              {
+                "c": "F1.1",
+                "d": "1. Creencias, actitudes y emociones. ‒ Estrategias de fomento de la curiosidad, la iniciativa, la perseverancia y la resiliencia en el aprendizaje de las matemáticas, identificando los errores cometidos como uno de los motores para su aprendizaje"
+              },
+              {
+                "c": "F1.2",
+                "d": "Se fomentará entre el alumnado el desarrollo de estrategias que le permitan identificar sus puntos débiles y aprender de los errores"
+              },
+              {
+                "c": "F1.3",
+                "d": "2. Trabajo en equipo y toma de decisiones"
+              }
+            ]
+          },
+          {
+            "c": "F2",
+            "legal": "Selección de técnicas cooperativas para optimizar el trabajo en equipo.",
+            "subs": [
+              {
+                "c": "F2.1",
+                "d": "Selección de técnicas cooperativas para optimizar el trabajo en equipo"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "T",
+        "name": "Contenidos transversales",
+        "items": [
+          {
+            "c": "T1",
+            "legal": "La comprensión lectora, la expresión oral y escrita, la comunicación audiovisual, la competencia digital, el emprendimiento social y empresarial, el fomento del espíritu crítico y científico, la educación emocional y en valores, la igualdad de género y la creatividad se trabajarán en todas las materias.",
+            "subs": [
+              {
+                "c": "T1.1",
+                "d": "La comprensión lectora"
+              },
+              {
+                "c": "T1.2",
+                "d": "La expresión oral y escrita"
+              },
+              {
+                "c": "T1.3",
+                "d": "La comunicación audiovisual"
+              },
+              {
+                "c": "T1.4",
+                "d": "La competencia digital"
+              },
+              {
+                "c": "T1.5",
+                "d": "El emprendimiento social y empresarial"
+              },
+              {
+                "c": "T1.6",
+                "d": "El fomento del espíritu crítico y científico"
+              },
+              {
+                "c": "T1.7",
+                "d": "La educación emocional y en valores"
+              },
+              {
+                "c": "T1.8",
+                "d": "La igualdad de género"
+              },
+              {
+                "c": "T1.9",
+                "d": "La creatividad"
+              }
+            ]
+          },
+          {
+            "c": "T2",
+            "legal": "En todo caso se fomentará de manera transversal la educación para la salud, incluida la afectivo-sexual, la formación estética, la educación ambiental y para el consumo, la educación vial, los derechos humanos, el respeto mutuo y la cooperación entre iguales.",
+            "subs": [
+              {
+                "c": "T2.1",
+                "d": "La educación para la salud, incluida la afectivo-sexual"
+              },
+              {
+                "c": "T2.2",
+                "d": "La formación estética"
+              },
+              {
+                "c": "T2.3",
+                "d": "La educación ambiental y para el consumo"
+              },
+              {
+                "c": "T2.4",
+                "d": "La educación vial"
+              },
+              {
+                "c": "T2.5",
+                "d": "Los derechos humanos"
+              },
+              {
+                "c": "T2.6",
+                "d": "El respeto mutuo y la cooperación entre iguales"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "musica": {
+    "name": "Música",
+    "grade": "1.o ESO",
+    "blocks": [
+      {
+        "id": "A",
+        "name": "Escucha y percepción",
+        "items": [
+          {
+            "c": "A1",
+            "legal": "El silencio, el sonido, el ruido y la escucha activa. Sensibilidad ante la polución sonora y la creación de ambientes saludables de escucha. La audición como forma de comunicación y fuente de conocimiento y mestizaje.",
+            "subs": [
+              {
+                "c": "A1.1",
+                "d": "El silencio, el sonido, el ruido y la escucha activa"
+              },
+              {
+                "c": "A1.2",
+                "d": "Sensibilidad ante la polución sonora y la creación de ambientes saludables de escucha"
+              },
+              {
+                "c": "A1.3",
+                "d": "La audición como forma de comunicación y fuente de conocimiento y mestizaje"
+              }
+            ]
+          },
+          {
+            "c": "A2",
+            "legal": "Desarrollo de unas normas de comportamiento básicas en la recepción musical promoviendo el respeto.",
+            "subs": [
+              {
+                "c": "A2.1",
+                "d": "Desarrollo de unas normas de comportamiento básicas en la recepción musical promoviendo el respeto"
+              }
+            ]
+          },
+          {
+            "c": "A3",
+            "legal": "Voces e instrumentos: clasificación general y discriminación auditiva de los instrumentos por familias y características. Agrupaciones.",
+            "subs": [
+              {
+                "c": "A3.1",
+                "d": "Voces e instrumentos: clasificación general y discriminación auditiva de los instrumentos por familias y características"
+              },
+              {
+                "c": "A3.2",
+                "d": "Agrupaciones"
+              }
+            ]
+          },
+          {
+            "c": "A4",
+            "legal": "Obras musicales y dancísticas en la prehistoria y en la Edad Antigua: análisis, descripción y valoración de sus características básicas.",
+            "subs": [
+              {
+                "c": "A4.1",
+                "d": "Obras musicales y dancísticas en la prehistoria y en la Edad Antigua: análisis, descripción y valoración de sus características básicas"
+              }
+            ]
+          },
+          {
+            "c": "A5",
+            "legal": "Géneros de la música y la danza en la prehistoria y en la Edad Antigua.",
+            "subs": [
+              {
+                "c": "A5.1",
+                "d": "Géneros de la música y la danza en la prehistoria y en la Edad Antigua"
+              }
+            ]
+          },
+          {
+            "c": "A6",
+            "legal": "Utilización de recursos para la comprensión de la música escuchada: visualización y análisis básico de las obras a través de medios audiovisuales; realización de ostinatos y ritmos sencillos con percusión corporal o instrumental; uso de la voz para acompañamientos o melodías; musicogramas, partituras sencillas y otras representaciones gráficas para seguir las audiciones.",
+            "subs": [
+              {
+                "c": "A6.1",
+                "d": "Utilización de recursos para la comprensión de la música escuchada: visualización y análisis básico de las obras a través de medios audiovisuales; realización de ostinatos y ritmos sencillos con percusión corporal o instrumental; uso de la voz para acompañamientos o melodías; musicogramas, partituras sencillas y otras representaciones gráficas para seguir las audiciones"
+              }
+            ]
+          },
+          {
+            "c": "A7",
+            "legal": "Elementos que intervienen en la construcción de una obra musical e identificación de los mismos en las audiciones.",
+            "subs": [
+              {
+                "c": "A7.1",
+                "d": "Elementos que intervienen en la construcción de una obra musical e identificación de los mismos en las audiciones"
+              }
+            ]
+          },
+          {
+            "c": "A8",
+            "legal": "Estrategias de búsqueda, selección y reelaboración de información fiable, pertinente y de calidad.",
+            "subs": [
+              {
+                "c": "A8.1",
+                "d": "Estrategias de búsqueda, selección y reelaboración de información fiable, pertinente y de calidad"
+              }
+            ]
+          },
+          {
+            "c": "A9",
+            "legal": "Mitos, estereotipos y roles de género trasmitidos a través de la música y la danza a lo largo de la prehistoria y la Edad Antigua.",
+            "subs": [
+              {
+                "c": "A9.1",
+                "d": "Mitos, estereotipos y roles de género trasmitidos a través de la música y la danza a lo largo de la prehistoria y la Edad Antigua"
+              }
+            ]
+          },
+          {
+            "c": "A10",
+            "legal": "Compositores y compositoras, artistas e intérpretes internacionales, nacionales, regionales y locales. Características que definen su música.",
+            "subs": [
+              {
+                "c": "A10.1",
+                "d": "Compositores y compositoras, artistas e intérpretes internacionales, nacionales, regionales y locales"
+              },
+              {
+                "c": "A10.2",
+                "d": "Características que definen su música"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "B",
+        "name": "Interpretación, improvisación y creación escénica",
+        "items": [
+          {
+            "c": "B1",
+            "legal": "La partitura: identificación y aplicación de grafías. Iniciación a la lectura y escritura musical.",
+            "subs": [
+              {
+                "c": "B1.1",
+                "d": "La partitura: identificación y aplicación de grafías. Iniciación a la lectura y escritura musical"
+              }
+            ]
+          },
+          {
+            "c": "B2",
+            "legal": "Elementos básicos del lenguaje musical y su práctica: parámetros del sonido y su representación gráfica. Tonalidad: la armadura. \u0002 El ritmo: pulso, compás, fórmulas rítmicas y tempo. \u0002 La melodía: organización del discurso melódico; frases y estructuras; intervalos y escalas musicales; tonalidad y modalidad. \u0002 La armonía: consonancia y disonancia; construcción de acordes básicos. \u0002 Texturas monofónicas y polifónicas: horizontalidad y verticalidad. Monodia, polifonía, homofonía. \u0002 Procedimientos compositivos: repetición, imitación, variación, desarrollo, improvisación. \u0002 Formas musicales a lo largo de los periodos históricos y en la actualidad: estructuras binaras, ternarias, etc.",
+            "subs": [
+              {
+                "c": "B2.1",
+                "d": "Elementos básicos del lenguaje musical y su práctica: parámetros del sonido y su representación gráfica. Tonalidad: la armadura"
+              },
+              {
+                "c": "B2.2",
+                "d": "El ritmo: pulso, compás, fórmulas rítmicas y tempo"
+              },
+              {
+                "c": "B2.3",
+                "d": "La melodía: organización del discurso melódico; frases y estructuras; intervalos y escalas musicales; tonalidad y modalidad"
+              },
+              {
+                "c": "B2.4",
+                "d": "La armonía: consonancia y disonancia; construcción de acordes básicos"
+              },
+              {
+                "c": "B2.5",
+                "d": "Texturas monofónicas y polifónicas: horizontalidad y verticalidad. Monodia, polifonía, homofonía"
+              },
+              {
+                "c": "B2.6",
+                "d": "Procedimientos compositivos: repetición, imitación, variación, desarrollo, improvisación"
+              },
+              {
+                "c": "B2.7",
+                "d": "Formas musicales a lo largo de los periodos históricos y en la actualidad: estructuras binaras, ternarias, etc"
+              }
+            ]
+          },
+          {
+            "c": "B3",
+            "legal": "Técnicas básicas para la interpretación: técnicas vocales, instrumentales y corporales, técnicas de estudio y de control de emociones.",
+            "subs": [
+              {
+                "c": "B3.1",
+                "d": "Técnicas básicas para la interpretación: técnicas vocales, instrumentales y corporales, técnicas de estudio y de control de emociones"
+              }
+            ]
+          },
+          {
+            "c": "B4",
+            "legal": "Principales géneros musicales y escénicos del patrimonio cultural español y del mundo.",
+            "subs": [
+              {
+                "c": "B4.1",
+                "d": "Principales géneros musicales y escénicos del patrimonio cultural español y del mundo"
+              }
+            ]
+          },
+          {
+            "c": "B5",
+            "legal": "Normas de comportamiento y participación en actividades musicales, tanto individuales como en grupo.",
+            "subs": [
+              {
+                "c": "B5.1",
+                "d": "Normas de comportamiento y participación en actividades musicales, tanto individuales como en grupo"
+              }
+            ]
+          },
+          {
+            "c": "B6",
+            "legal": "Técnicas de improvisación guiada y libre: rítmicas, tímbricas, melódicas, armónicas y formales, individuales y en grupo.",
+            "subs": [
+              {
+                "c": "B6.1",
+                "d": "Técnicas de improvisación guiada y libre: rítmicas, tímbricas, melódicas, armónicas y formales, individuales y en grupo"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "C",
+        "name": "Contextos y culturas",
+        "items": [
+          {
+            "c": "C1",
+            "legal": "La música y la danza occidental en la prehistoria y la Edad Antigua: periodos, características, géneros, voces y agrupaciones.",
+            "subs": [
+              {
+                "c": "C1.1",
+                "d": "La música y la danza occidental en la prehistoria y la Edad Antigua: periodos, características, géneros, voces y agrupaciones"
+              }
+            ]
+          },
+          {
+            "c": "C2",
+            "legal": "La música de los pueblos indígenas.",
+            "subs": [
+              {
+                "c": "C2.1",
+                "d": "La música de los pueblos indígenas"
+              }
+            ]
+          },
+          {
+            "c": "C3",
+            "legal": "Músicas populares, urbanas y contemporáneas: el jazz, la música popular urbana actual y la música popular juvenil.",
+            "subs": [
+              {
+                "c": "C3.1",
+                "d": "Músicas populares, urbanas y contemporáneas: el jazz, la música popular urbana actual y la música popular juvenil"
+              }
+            ]
+          },
+          {
+            "c": "C4",
+            "legal": "Las músicas tradicionales en España y su diversidad cultural: instrumentos, canciones, danzas y bailes.",
+            "subs": [
+              {
+                "c": "C4.1",
+                "d": "Las músicas tradicionales en España y su diversidad cultural: instrumentos, canciones, danzas y bailes"
+              }
+            ]
+          },
+          {
+            "c": "C5",
+            "legal": "Tradiciones musicales y dancísticas de otras culturas del mundo.",
+            "subs": [
+              {
+                "c": "C5.1",
+                "d": "Tradiciones musicales y dancísticas de otras culturas del mundo"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "T",
+        "name": "Contenidos transversales",
+        "items": [
+          {
+            "c": "T1",
+            "legal": "La comprensión lectora, la expresión oral y escrita, la comunicación audiovisual, la competencia digital, el emprendimiento social y empresarial, el fomento del espíritu crítico y científico, la educación emocional y en valores, la igualdad de género y la creatividad se trabajarán en todas las materias.",
+            "subs": [
+              {
+                "c": "T1.1",
+                "d": "La comprensión lectora"
+              },
+              {
+                "c": "T1.2",
+                "d": "La expresión oral y escrita"
+              },
+              {
+                "c": "T1.3",
+                "d": "La comunicación audiovisual"
+              },
+              {
+                "c": "T1.4",
+                "d": "La competencia digital"
+              },
+              {
+                "c": "T1.5",
+                "d": "El emprendimiento social y empresarial"
+              },
+              {
+                "c": "T1.6",
+                "d": "El fomento del espíritu crítico y científico"
+              },
+              {
+                "c": "T1.7",
+                "d": "La educación emocional y en valores"
+              },
+              {
+                "c": "T1.8",
+                "d": "La igualdad de género"
+              },
+              {
+                "c": "T1.9",
+                "d": "La creatividad"
+              }
+            ]
+          },
+          {
+            "c": "T2",
+            "legal": "En todo caso se fomentará de manera transversal la educación para la salud, incluida la afectivo-sexual, la formación estética, la educación ambiental y para el consumo, la educación vial, los derechos humanos, el respeto mutuo y la cooperación entre iguales.",
+            "subs": [
+              {
+                "c": "T2.1",
+                "d": "La educación para la salud, incluida la afectivo-sexual"
+              },
+              {
+                "c": "T2.2",
+                "d": "La formación estética"
+              },
+              {
+                "c": "T2.3",
+                "d": "La educación ambiental y para el consumo"
+              },
+              {
+                "c": "T2.4",
+                "d": "La educación vial"
+              },
+              {
+                "c": "T2.5",
+                "d": "Los derechos humanos"
+              },
+              {
+                "c": "T2.6",
+                "d": "El respeto mutuo y la cooperación entre iguales"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "ingles": {
+    "name": "Lengua Extranjera (Inglés)",
+    "grade": "1.o ESO",
+    "blocks": [
+      {
+        "id": "A",
+        "name": "Comunicación",
+        "items": [
+          {
+            "c": "A1",
+            "legal": "Autoconfianza. El error como instrumento de mejora y propuesta de reparación.",
+            "subs": [
+              { "c": "A1.1", "d": "Autoconfianza en el uso de la lengua extranjera" },
+              { "c": "A1.2", "d": "El error como instrumento de mejora y propuesta de reparación" }
+            ]
+          },
+          {
+            "c": "A2",
+            "legal": "Estrategias básicas para la planificación, ejecución, control y reparación de la comprensión, la producción y la coproducción de textos orales, escritos y multimodales.",
+            "subs": [
+              { "c": "A2.1", "d": "Estrategias básicas para la planificación de textos orales, escritos y multimodales" },
+              { "c": "A2.2", "d": "Estrategias de ejecución y control de la producción" },
+              { "c": "A2.3", "d": "Estrategias de reparación de la comprensión y la producción" }
+            ]
+          },
+          {
+            "c": "A3",
+            "legal": "Conocimientos, destrezas y actitudes que permitan detectar y colaborar en actividades de mediación en situaciones cotidianas sencillas.",
+            "subs": [
+              { "c": "A3.1", "d": "Conocimientos para detectar situaciones de mediación cotidianas sencillas" },
+              { "c": "A3.2", "d": "Destrezas y actitudes para colaborar en actividades de mediación" }
+            ]
+          },
+          {
+            "c": "A4",
+            "legal": "Funciones comunicativas básicas adecuadas al ámbito y al contexto comunicativo: saludar, despedirse, presentar y presentarse; describir personas, objetos y lugares; situar eventos en el tiempo; situar objetos, personas y lugares en el espacio; pedir e intercambiar información sobre cuestiones cotidianas; dar y pedir instrucciones y órdenes; ofrecer, aceptar y rechazar ayuda, proposiciones o sugerencias; expresar parcialmente el gusto o el interés y emociones básicas; narrar acontecimientos pasados, describir situaciones presentes, y enunciar sucesos futuros; expresar la opinión, la posibilidad, la capacidad, la obligación y la prohibición.",
+            "subs": [
+              { "c": "A4.1", "d": "Saludar, despedirse, presentar y presentarse" },
+              { "c": "A4.2", "d": "Describir personas, objetos y lugares" },
+              { "c": "A4.3", "d": "Situar eventos en el tiempo y objetos, personas y lugares en el espacio" },
+              { "c": "A4.4", "d": "Pedir e intercambiar información sobre cuestiones cotidianas" },
+              { "c": "A4.5", "d": "Dar y pedir instrucciones y órdenes" },
+              { "c": "A4.6", "d": "Ofrecer, aceptar y rechazar ayuda, proposiciones o sugerencias" },
+              { "c": "A4.7", "d": "Expresar el gusto, el interés y emociones básicas" },
+              { "c": "A4.8", "d": "Narrar acontecimientos pasados, describir situaciones presentes y enunciar sucesos futuros" },
+              { "c": "A4.9", "d": "Expresar la opinión, la posibilidad, la capacidad, la obligación y la prohibición" }
+            ]
+          },
+          {
+            "c": "A5",
+            "legal": "Modelos contextuales y géneros discursivos básicos en la comprensión, producción y coproducción de textos orales, escritos y multimodales, breves y sencillos, literarios y no literarios: características y reconocimiento del contexto (participantes y situación), expectativas generadas por el contexto; organización y estructuración según el género y la función textual.",
+            "subs": [
+              { "c": "A5.1", "d": "Modelos contextuales y géneros discursivos básicos: participantes y situación" },
+              { "c": "A5.2", "d": "Organización y estructuración según el género y la función textual" }
+            ]
+          },
+          {
+            "c": "A6",
+            "legal": "Unidades lingüísticas básicas y significados asociados a dichas unidades tales como la expresión de la entidad y sus propiedades, cantidad y cualidad, el espacio y las relaciones espaciales, el tiempo y las relaciones temporales, la afirmación, la negación, la interrogación y la exclamación, relaciones lógicas básicas.",
+            "subs": [
+              { "c": "A6.1", "d": "Expresión de la entidad y sus propiedades, cantidad y cualidad" },
+              { "c": "A6.2", "d": "El espacio y las relaciones espaciales" },
+              { "c": "A6.3", "d": "El tiempo y las relaciones temporales" },
+              { "c": "A6.4", "d": "La afirmación, la negación, la interrogación y la exclamación" },
+              { "c": "A6.5", "d": "Relaciones lógicas básicas" }
+            ]
+          },
+          {
+            "c": "A7",
+            "legal": "Léxico de uso común y de interés para el alumnado relativo a identificación personal, relaciones interpersonales, lugares y entornos cercanos, ocio y tiempo libre, vida cotidiana, salud y actividad física, vivienda y hogar, clima y entorno natural, tecnologías de la información y la comunicación.",
+            "subs": [
+              { "c": "A7.1", "d": "Léxico de identificación personal y relaciones interpersonales" },
+              { "c": "A7.2", "d": "Léxico de lugares, entornos cercanos, vivienda y hogar" },
+              { "c": "A7.3", "d": "Léxico de ocio, tiempo libre y vida cotidiana" },
+              { "c": "A7.4", "d": "Léxico de salud, actividad física, clima y entorno natural" },
+              { "c": "A7.5", "d": "Léxico de tecnologías de la información y la comunicación" }
+            ]
+          },
+          {
+            "c": "A8",
+            "legal": "Patrones sonoros, acentuales, rítmicos y de entonación básicos, y significados e intenciones comunicativas generales asociadas a dichos patrones.",
+            "subs": [
+              { "c": "A8.1", "d": "Patrones sonoros, acentuales, rítmicos y de entonación básicos" },
+              { "c": "A8.2", "d": "Significados e intenciones comunicativas asociadas a dichos patrones" }
+            ]
+          },
+          {
+            "c": "A9",
+            "legal": "Convenciones ortográficas básicas y significados e intenciones comunicativas asociados a los formatos, patrones y elementos gráficos.",
+            "subs": [
+              { "c": "A9.1", "d": "Convenciones ortográficas básicas" },
+              { "c": "A9.2", "d": "Significados e intenciones comunicativas asociados a formatos y elementos gráficos" }
+            ]
+          },
+          {
+            "c": "A10",
+            "legal": "Convenciones y estrategias conversacionales básicas, en formato síncrono o asíncrono, para iniciar, mantener y terminar la comunicación, tomar y ceder la palabra, pedir y dar aclaraciones y explicaciones, reformular, comparar y contrastar, resumir, colaborar, debatir, etc.",
+            "subs": [
+              { "c": "A10.1", "d": "Estrategias para iniciar, mantener y terminar la comunicación" },
+              { "c": "A10.2", "d": "Tomar y ceder la palabra, pedir y dar aclaraciones" },
+              { "c": "A10.3", "d": "Reformular, comparar, contrastar y resumir" }
+            ]
+          },
+          {
+            "c": "A11",
+            "legal": "Herramientas analógicas y digitales básicas para la comprensión, producción y coproducción oral, escrita y multimodal; y plataformas virtuales de interacción, cooperación y colaboración educativa (aulas virtuales, videoconferencias, herramientas digitales colaborativas, etc.) para el aprendizaje, la comunicación y el desarrollo de proyectos con hablantes o estudiantes de la lengua extranjera.",
+            "subs": [
+              { "c": "A11.1", "d": "Herramientas analógicas y digitales básicas para la comprensión y producción" },
+              { "c": "A11.2", "d": "Plataformas virtuales de interacción y colaboración educativa" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "B",
+        "name": "Plurilingüismo",
+        "items": [
+          {
+            "c": "B1",
+            "legal": "Estrategias y técnicas para responder eficazmente a una necesidad comunicativa básica y concreta de forma comprensible, a pesar de las limitaciones derivadas del nivel de competencia en la lengua extranjera y en las demás lenguas del repertorio lingüístico propio.",
+            "subs": [
+              { "c": "B1.1", "d": "Estrategias para responder a necesidades comunicativas básicas a pesar de limitaciones" },
+              { "c": "B1.2", "d": "Técnicas de compensación y apoyo en las demás lenguas del repertorio" }
+            ]
+          },
+          {
+            "c": "B2",
+            "legal": "Estrategias básicas para identificar, organizar, retener, recuperar y utilizar creativamente unidades lingüísticas (léxico, morfosintaxis, patrones sonoros, etc.) a partir de la comparación de las lenguas y variedades que conforman el repertorio lingüístico personal.",
+            "subs": [
+              { "c": "B2.1", "d": "Estrategias para identificar y organizar unidades lingüísticas mediante comparación entre lenguas" },
+              { "c": "B2.2", "d": "Retener, recuperar y utilizar creativamente léxico, morfosintaxis y patrones sonoros" }
+            ]
+          },
+          {
+            "c": "B3",
+            "legal": "Estrategias y herramientas básicas de autoevaluación y coevaluación, analógicas y digitales, individuales y cooperativas.",
+            "subs": [
+              { "c": "B3.1", "d": "Estrategias de autoevaluación y coevaluación analógicas y digitales" },
+              { "c": "B3.2", "d": "Herramientas individuales y cooperativas de evaluación" }
+            ]
+          },
+          {
+            "c": "B4",
+            "legal": "Léxico y expresiones de uso común para comprender enunciados sobre la comunicación, la lengua, el aprendizaje y las herramientas de comunicación y aprendizaje (metalenguaje).",
+            "subs": [
+              { "c": "B4.1", "d": "Léxico y expresiones de uso común sobre la comunicación y la lengua (metalenguaje)" },
+              { "c": "B4.2", "d": "Expresiones sobre el aprendizaje y herramientas de comunicación" }
+            ]
+          },
+          {
+            "c": "B5",
+            "legal": "Comparación básica entre lenguas a partir de elementos de la lengua extranjera y otras lenguas: origen y parentescos.",
+            "subs": [
+              { "c": "B5.1", "d": "Comparación básica entre lenguas: origen y parentescos" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "C",
+        "name": "Interculturalidad",
+        "items": [
+          {
+            "c": "C1",
+            "legal": "La lengua extranjera como medio de comunicación interpersonal e internacional, como fuente de información y como herramienta para el enriquecimiento personal.",
+            "subs": [
+              { "c": "C1.1", "d": "La lengua extranjera como medio de comunicación interpersonal e internacional" },
+              { "c": "C1.2", "d": "La lengua extranjera como fuente de información y herramienta de enriquecimiento personal" }
+            ]
+          },
+          {
+            "c": "C2",
+            "legal": "Interés e iniciativa en la realización de intercambios comunicativos a través de diferentes medios con hablantes o estudiantes de la lengua extranjera.",
+            "subs": [
+              { "c": "C2.1", "d": "Interés e iniciativa en intercambios comunicativos con hablantes de la lengua extranjera" }
+            ]
+          },
+          {
+            "c": "C3",
+            "legal": "Aspectos socioculturales y sociolingüísticos básicos relativos a la vida cotidiana, las condiciones de vida y las relaciones interpersonales; convenciones sociales básicas; lenguaje no verbal; cortesía lingüística y etiqueta digital; cultura, costumbres y valores propios de países donde se habla la lengua extranjera.",
+            "subs": [
+              { "c": "C3.1", "d": "Aspectos socioculturales relativos a la vida cotidiana y relaciones interpersonales" },
+              { "c": "C3.2", "d": "Convenciones sociales básicas y lenguaje no verbal" },
+              { "c": "C3.3", "d": "Cortesía lingüística y etiqueta digital" },
+              { "c": "C3.4", "d": "Cultura, costumbres y valores de países donde se habla la lengua extranjera" }
+            ]
+          },
+          {
+            "c": "C4",
+            "legal": "Estrategias básicas para entender y apreciar la diversidad lingüística, cultural y artística, atendiendo a valores ecosociales y democráticos.",
+            "subs": [
+              { "c": "C4.1", "d": "Estrategias para entender y apreciar la diversidad lingüística, cultural y artística" },
+              { "c": "C4.2", "d": "Atención a valores ecosociales y democráticos" }
+            ]
+          },
+          {
+            "c": "C5",
+            "legal": "Estrategias básicas de detección y actuación ante usos discriminatorios del lenguaje verbal y no verbal.",
+            "subs": [
+              { "c": "C5.1", "d": "Estrategias de detección de usos discriminatorios del lenguaje verbal y no verbal" },
+              { "c": "C5.2", "d": "Actuación ante usos discriminatorios del lenguaje" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "T",
+        "name": "Contenidos transversales",
+        "items": [
+          {
+            "c": "T1",
+            "legal": "La comprensión lectora, la expresión oral y escrita, la comunicación audiovisual, la competencia digital, el emprendimiento social y empresarial, el fomento del espíritu crítico y científico, la educación emocional y en valores, la igualdad de género y la creatividad se trabajarán en todas las materias.",
+            "subs": [
+              { "c": "T1.1", "d": "La comprensión lectora" },
+              { "c": "T1.2", "d": "La expresión oral y escrita" },
+              { "c": "T1.3", "d": "La comunicación audiovisual" },
+              { "c": "T1.4", "d": "La competencia digital" },
+              { "c": "T1.5", "d": "El emprendimiento social y empresarial" },
+              { "c": "T1.6", "d": "El fomento del espíritu crítico y científico" },
+              { "c": "T1.7", "d": "La educación emocional y en valores" },
+              { "c": "T1.8", "d": "La igualdad de género" },
+              { "c": "T1.9", "d": "La creatividad" }
+            ]
+          },
+          {
+            "c": "T2",
+            "legal": "En todo caso se fomentará de manera transversal la educación para la salud, incluida la afectivo-sexual, la formación estética, la educación ambiental y para el consumo, la educación vial, los derechos humanos, el respeto mutuo y la cooperación entre iguales.",
+            "subs": [
+              { "c": "T2.1", "d": "La educación para la salud, incluida la afectivo-sexual" },
+              { "c": "T2.2", "d": "La formación estética" },
+              { "c": "T2.3", "d": "La educación ambiental y para el consumo" },
+              { "c": "T2.4", "d": "La educación vial" },
+              { "c": "T2.5", "d": "Los derechos humanos" },
+              { "c": "T2.6", "d": "El respeto mutuo y la cooperación entre iguales" }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

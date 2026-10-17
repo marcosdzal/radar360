@@ -17,7 +17,7 @@
 defined('MOODLE_INTERNAL') || die();
 
 $plugin->component = 'local_sentinel';
-$plugin->version   = 2024010227;
+$plugin->version   = 2024010243;
 $plugin->requires  = 2023100900; // Moodle 4.3+
 $plugin->maturity  = MATURITY_ALPHA;
 $plugin->release   = '0.10.0';

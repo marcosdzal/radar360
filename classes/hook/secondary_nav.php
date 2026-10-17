@@ -17,7 +17,7 @@
 namespace local_sentinel\hook;
 
 /**
- * Hook listener: adds the Sentinel "Perfil de salida" tab to the course secondary navigation.
+ * Hook listener: adds Sentinel tabs to the course secondary navigation.
  *
  * @package    local_sentinel
  * @copyright  2024 Marcos
@@ -26,7 +26,7 @@ namespace local_sentinel\hook;
 class secondary_nav {
 
     /**
-     * Adds "Perfil de salida" tab to course secondary navigation.
+     * Adds Sentinel tabs to course secondary navigation.
      * Links directly to the student report (diana/tarjetas) of the first
      * enrolled student, with the student selector for switching.
      *
@@ -72,17 +72,62 @@ class secondary_nav {
         }
 
         $secondary = $hook->get_secondaryview();
+
+        // Add "Radar 360º" under "Informes" (coursereports).
+        $reportsnode = $secondary->find('coursereports', \navigation_node::TYPE_CONTAINER)
+                    ?: $secondary->find('coursereports', \navigation_node::TYPE_CUSTOM);
         $url = new \moodle_url('/local/sentinel/student_report.php', [
             'userid'   => $first->id,
             'courseid' => $COURSE->id,
         ]);
-        $secondary->add(
-            get_string('report:title', 'local_sentinel'),
-            $url,
-            \navigation_node::TYPE_CUSTOM,
-            null,
-            'sentinel_course_report',
-            new \pix_icon('i/report', '')
-        );
+        if ($reportsnode) {
+            $reportsnode->add(
+                get_string('report:title', 'local_sentinel'),
+                $url,
+                \navigation_node::TYPE_CUSTOM,
+                null,
+                'sentinel_course_report',
+                new \pix_icon('i/report', '')
+            );
+        } else {
+            $secondary->add(
+                get_string('report:title', 'local_sentinel'),
+                $url,
+                \navigation_node::TYPE_CUSTOM,
+                null,
+                'sentinel_course_report',
+                new \pix_icon('i/report', '')
+            );
+        }
+
+        // Course management tabs – for users who can manage descriptors.
+        $canmanage = has_capability('local/sentinel:managedescriptors', $context)
+                  || has_capability('local/sentinel:managedescriptors', \context_system::instance());
+        if ($canmanage) {
+            $secondary->add(
+                get_string('curriculum:navlink', 'local_sentinel'),
+                new \moodle_url('/local/sentinel/curriculum_config.php', ['courseid' => $COURSE->id]),
+                \navigation_node::TYPE_CUSTOM,
+                null,
+                'sentinel_curriculum',
+                new \pix_icon('i/settings', '')
+            );
+            $secondary->add(
+                get_string('desgrane:navlink', 'local_sentinel'),
+                new \moodle_url('/local/sentinel/desgrane.php', ['courseid' => $COURSE->id]),
+                \navigation_node::TYPE_CUSTOM,
+                null,
+                'sentinel_desgrane',
+                new \pix_icon('i/settings', '')
+            );
+            $secondary->add(
+                get_string('mapdesc:navlink', 'local_sentinel'),
+                new \moodle_url('/local/sentinel/admin/map_descriptors.php', ['courseid' => $COURSE->id]),
+                \navigation_node::TYPE_CUSTOM,
+                null,
+                'sentinel_mapdesc',
+                new \pix_icon('i/mapping', '')
+            );
+        }
     }
 }

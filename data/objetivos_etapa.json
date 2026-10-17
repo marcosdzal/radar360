@@ -1,0 +1,220 @@
+{
+  "eso": {
+    "label": "Objetivos de la Educación Secundaria Obligatoria",
+    "source": "RD 217/2022, Art. 7",
+    "objectives": [
+      {
+        "code": "a",
+        "text": "Asumir responsablemente sus deberes, conocer y ejercer sus derechos en el respeto a las demás personas, practicar la tolerancia, la cooperación y la solidaridad entre las personas y grupos, ejercitarse en el diálogo afianzando los derechos humanos como valores comunes de una sociedad plural y prepararse para el ejercicio de la ciudadanía democrática.",
+        "descriptors": ["CCL5","CC1","CC2","CC3","CCEC1"]
+      },
+      {
+        "code": "b",
+        "text": "Desarrollar y consolidar hábitos de disciplina, estudio y trabajo individual y en equipo como condición necesaria para una realización eficaz de las tareas del aprendizaje y como medio de desarrollo personal.",
+        "descriptors": ["CPSAA1","CPSAA3","CPSAA5","CE2"]
+      },
+      {
+        "code": "c",
+        "text": "Valorar y respetar la diferencia de sexos y la igualdad de derechos y oportunidades entre ellos. Rechazar los estereotipos que supongan discriminación entre hombres y mujeres.",
+        "descriptors": ["CCL5","CP3","CPSAA3","CC1","CC2","CC3","CCEC1"]
+      },
+      {
+        "code": "d",
+        "text": "Fortalecer sus capacidades afectivas en todos los ámbitos de la personalidad y en sus relaciones con las demás personas, así como rechazar la violencia, los prejuicios de cualquier tipo, los comportamientos sexistas y resolver pacíficamente los conflictos.",
+        "descriptors": ["CCL5","CPSAA1","CPSAA2","CPSAA3","CC1","CC2","CC3"]
+      },
+      {
+        "code": "e",
+        "text": "Desarrollar destrezas básicas en la utilización de las fuentes de información para, con sentido crítico, adquirir nuevos conocimientos. Desarrollar las competencias tecnológicas básicas y avanzar en una reflexión ética sobre su funcionamiento y utilización.",
+        "descriptors": ["CCL2","CCL3","STEM4","CD1","CD2","CD3","CD4","CD5","CPSAA4","CE3"]
+      },
+      {
+        "code": "f",
+        "text": "Concebir el conocimiento científico como un saber integrado, que se estructura en distintas disciplinas, así como conocer y aplicar los métodos para identificar los problemas en los diversos campos del conocimiento y de la experiencia.",
+        "descriptors": ["CCL3","STEM1","STEM2","STEM4","STEM5","CD1","CPSAA4","CC4","CE1"]
+      },
+      {
+        "code": "g",
+        "text": "Desarrollar el espíritu emprendedor y la confianza en sí mismo, la participación, el sentido crítico, la iniciativa personal y la capacidad para aprender a aprender, planificar, tomar decisiones y asumir responsabilidades.",
+        "descriptors": ["CCL5","CP2","STEM3","CD3","CPSAA3","CPSAA5","CE1","CE2","CE3"]
+      },
+      {
+        "code": "h",
+        "text": "Comprender y expresar con corrección, oralmente y por escrito, en la lengua castellana y, si la hubiere, en la lengua cooficial de la comunidad autónoma, textos y mensajes complejos, e iniciarse en el conocimiento, la lectura y el estudio de la literatura.",
+        "descriptors": ["CCL1","CCL2","CCL3","CCL4","CCL5","CP2","CP3","STEM4","CPSAA4","CC4","CCEC3"]
+      },
+      {
+        "code": "i",
+        "text": "Comprender y expresarse en una o más lenguas extranjeras de manera apropiada.",
+        "descriptors": ["CCL1","CCL2","CCL3","CCL4","CCL5","CP1","CP2","CP3"]
+      },
+      {
+        "code": "j",
+        "text": "Conocer, valorar y respetar los aspectos básicos de la cultura y la historia propias y de las demás personas, así como el patrimonio artístico y cultural.",
+        "descriptors": ["CCL4","CP3","CD4","CC1","CC2","CC3","CCEC1","CCEC2","CCEC3","CCEC4"]
+      },
+      {
+        "code": "k",
+        "text": "Conocer y aceptar el funcionamiento del propio cuerpo y el de los otros, respetar las diferencias, afianzar los hábitos de cuidado y salud corporales e incorporar la educación física y la práctica del deporte para favorecer el desarrollo personal y social. Conocer y valorar la dimensión humana de la sexualidad en toda su diversidad. Valorar críticamente los hábitos sociales relacionados con la salud, el consumo, el cuidado, la empatía y el respeto hacia los seres vivos, especialmente los animales, y el medio ambiente, contribuyendo a su conservación y mejora.",
+        "descriptors": ["CPSAA2","CPSAA4","STEM5","CC4"]
+      },
+      {
+        "code": "l",
+        "text": "Apreciar la creación artística y comprender el lenguaje de las distintas manifestaciones artísticas, utilizando diversos medios de expresión y representación.",
+        "descriptors": ["CCL2","CCL4","CP3","CD3","CPSAA3","CPSAA4","CC1","CC3","CCEC1","CCEC2","CCEC3","CCEC4"]
+      }
+    ]
+  },
+  "ep": {
+    "label": "Objetivos de la Educación Primaria",
+    "source": "RD 157/2022, Art. 7",
+    "objectives": [
+      {
+        "code": "a",
+        "text": "Conocer y apreciar los valores y las normas de convivencia, aprender a obrar de acuerdo con ellas de forma empática, prepararse para el ejercicio activo de la ciudadanía y respetar los derechos humanos, así como el pluralismo propio de una sociedad democrática.",
+        "descriptors": ["CCL5","CC1","CC2","CC3","CCEC1"]
+      },
+      {
+        "code": "b",
+        "text": "Desarrollar hábitos de trabajo individual y de equipo, de esfuerzo y de responsabilidad en el estudio, así como actitudes de confianza en sí mismo, sentido crítico, iniciativa personal, curiosidad, interés y creatividad en el aprendizaje, y espíritu emprendedor.",
+        "descriptors": ["CPSAA1","CPSAA3","CPSAA5","CE1","CE2","CE3"]
+      },
+      {
+        "code": "c",
+        "text": "Adquirir habilidades para la resolución pacífica de conflictos y la prevención de la violencia, que les permitan desenvolverse con autonomía en el ámbito escolar y familiar, así como en los grupos sociales con los que se relacionan.",
+        "descriptors": ["CCL5","CPSAA1","CPSAA3","CC1","CC2","CC3"]
+      },
+      {
+        "code": "d",
+        "text": "Conocer, comprender y respetar las diferentes culturas y las diferencias entre las personas, la igualdad de derechos y oportunidades de hombres y mujeres y la no discriminación de personas por motivos de etnia, orientación o identidad sexual, religión o creencias, discapacidad u otras condiciones.",
+        "descriptors": ["CCL5","CP3","CPSAA3","CC1","CC2","CC3","CCEC1"]
+      },
+      {
+        "code": "e",
+        "text": "Conocer y utilizar de manera apropiada la lengua castellana y, si la hubiere, la lengua cooficial de la comunidad autónoma y desarrollar hábitos de lectura.",
+        "descriptors": ["CCL1","CCL2","CCL3","CCL4","CCL5"]
+      },
+      {
+        "code": "f",
+        "text": "Adquirir en, al menos, una lengua extranjera la competencia comunicativa básica que les permita expresar y comprender mensajes sencillos y desenvolverse en situaciones cotidianas.",
+        "descriptors": ["CCL1","CCL2","CP1","CP2","CP3"]
+      },
+      {
+        "code": "g",
+        "text": "Desarrollar las competencias matemáticas básicas e iniciarse en la resolución de problemas que requieran la realización de operaciones elementales de cálculo, conocimientos geométricos y estimaciones, así como ser capaces de aplicarlos a las situaciones de su vida cotidiana.",
+        "descriptors": ["STEM1","STEM2","STEM4","CE1"]
+      },
+      {
+        "code": "h",
+        "text": "Conocer los aspectos fundamentales de las ciencias de la naturaleza y de las ciencias sociales, la geografía y la historia, así como de la cultura en general.",
+        "descriptors": ["CCL3","STEM2","STEM5","CD1","CC4","CCEC1","CCEC2"]
+      },
+      {
+        "code": "i",
+        "text": "Desarrollar las competencias tecnológicas básicas e iniciarse en su utilización, para el aprendizaje, desarrollando un espíritu crítico ante su funcionamiento y los mensajes que reciben y elaboran.",
+        "descriptors": ["CD1","CD2","CD3","CD4","CD5","STEM4"]
+      },
+      {
+        "code": "j",
+        "text": "Utilizar diferentes representaciones y expresiones artísticas e iniciarse en la construcción de propuestas visuales y audiovisuales.",
+        "descriptors": ["CCEC1","CCEC2","CCEC3","CCEC4","CP3"]
+      },
+      {
+        "code": "k",
+        "text": "Valorar la higiene y la salud, aceptar el propio cuerpo y el de los otros, respetar las diferencias y utilizar la educación física y el deporte como medios para favorecer el desarrollo personal y social.",
+        "descriptors": ["CPSAA2","CPSAA4","STEM5","CC4"]
+      },
+      {
+        "code": "l",
+        "text": "Conocer y valorar los animales más próximos al ser humano y adoptar modos de comportamiento que favorezcan la empatía y su cuidado.",
+        "descriptors": ["STEM5","CC4","CPSAA2"]
+      },
+      {
+        "code": "m",
+        "text": "Desarrollar sus capacidades afectivas en todos los ámbitos de la personalidad y en sus relaciones con los demás, así como una actitud contraria a la violencia, a los prejuicios de cualquier tipo y a los estereotipos sexistas.",
+        "descriptors": ["CPSAA1","CPSAA2","CPSAA3","CC1","CC2","CC3"]
+      }
+    ]
+  },
+  "bachillerato": {
+    "label": "Objetivos del Bachillerato",
+    "source": "RD 243/2022, Art. 7",
+    "objectives": [
+      {
+        "code": "a",
+        "text": "Ejercer la ciudadanía democrática, desde una perspectiva global, y adquirir una conciencia cívica responsable, inspirada por los valores de la Constitución Española, así como por los derechos humanos, que fomente la corresponsabilidad en la construcción de una sociedad justa y equitativa.",
+        "descriptors": ["CCL5","CC1","CC2","CC3","CCEC1"]
+      },
+      {
+        "code": "b",
+        "text": "Consolidar una madurez personal, afectivo-sexual y social que les permita actuar de forma respetuosa, responsable y autónoma y desarrollar su espíritu crítico. Prever, detectar y resolver pacíficamente los conflictos personales, familiares y sociales, así como las posibles situaciones de violencia.",
+        "descriptors": ["CCL5","CPSAA1","CPSAA2","CPSAA3","CC1","CC2","CC3"]
+      },
+      {
+        "code": "c",
+        "text": "Fomentar la igualdad efectiva de derechos y oportunidades de mujeres y hombres, analizar y valorar críticamente las desigualdades existentes, así como el reconocimiento y enseñanza del papel de las mujeres en la historia e impulsar la igualdad real y la no discriminación por razón de nacimiento, sexo, origen racial o étnico, discapacidad, edad, enfermedad, religión o creencias, orientación sexual o identidad de género o cualquier otra condición o circunstancia personal o social.",
+        "descriptors": ["CCL5","CP3","CPSAA3","CC1","CC2","CC3","CCEC1"]
+      },
+      {
+        "code": "d",
+        "text": "Afianzar los hábitos de lectura, estudio y disciplina, como condiciones necesarias para el eficaz aprovechamiento del aprendizaje, y como medio de desarrollo personal.",
+        "descriptors": ["CCL2","CCL4","CPSAA1","CPSAA5"]
+      },
+      {
+        "code": "e",
+        "text": "Dominar, tanto en su expresión oral como escrita, la lengua castellana y, en su caso, la lengua cooficial de su comunidad autónoma.",
+        "descriptors": ["CCL1","CCL2","CCL3","CCL4","CCL5"]
+      },
+      {
+        "code": "f",
+        "text": "Expresarse con fluidez y corrección en una o más lenguas extranjeras.",
+        "descriptors": ["CCL1","CCL2","CP1","CP2","CP3"]
+      },
+      {
+        "code": "g",
+        "text": "Utilizar con solvencia y responsabilidad las tecnologías de la información y la comunicación.",
+        "descriptors": ["CD1","CD2","CD3","CD4","CD5","STEM4"]
+      },
+      {
+        "code": "h",
+        "text": "Conocer y valorar críticamente las realidades del mundo contemporáneo, sus antecedentes históricos y los principales factores de su evolución. Participar de forma solidaria en el desarrollo y mejora de su entorno social.",
+        "descriptors": ["CCL3","STEM2","CC1","CC3","CC4","CCEC1","CCEC2"]
+      },
+      {
+        "code": "i",
+        "text": "Acceder a los conocimientos científicos y tecnológicos fundamentales y dominar las habilidades básicas propias de la modalidad elegida.",
+        "descriptors": ["STEM1","STEM2","STEM3","STEM4","STEM5","CD1","CE1"]
+      },
+      {
+        "code": "j",
+        "text": "Comprender los elementos y procedimientos fundamentales de la investigación y de los métodos científicos. Conocer y valorar de forma crítica la contribución de la ciencia y la tecnología en el cambio de las condiciones de vida, así como afianzar la sensibilidad y el respeto hacia el medio ambiente.",
+        "descriptors": ["STEM1","STEM2","STEM4","STEM5","CPSAA4","CC4"]
+      },
+      {
+        "code": "k",
+        "text": "Afianzar el espíritu emprendedor con actitudes de creatividad, flexibilidad, iniciativa, trabajo en equipo, confianza en uno mismo y sentido crítico.",
+        "descriptors": ["CPSAA3","CPSAA5","CE1","CE2","CE3"]
+      },
+      {
+        "code": "l",
+        "text": "Desarrollar la sensibilidad artística y literaria, así como el criterio estético, como fuentes de formación y enriquecimiento cultural.",
+        "descriptors": ["CCL2","CCL4","CP3","CCEC1","CCEC2","CCEC3","CCEC4"]
+      },
+      {
+        "code": "m",
+        "text": "Utilizar la educación física y el deporte para favorecer el desarrollo personal y social. Afianzar los hábitos de actividades físico-deportivas para favorecer el bienestar físico y mental, así como medio de desarrollo personal y social.",
+        "descriptors": ["CPSAA1","CPSAA2","STEM5"]
+      },
+      {
+        "code": "n",
+        "text": "Afianzar actitudes de respeto y prevención en el ámbito de la movilidad segura y saludable.",
+        "descriptors": ["CPSAA2","CC1","CC4"]
+      },
+      {
+        "code": "o",
+        "text": "Fomentar una actitud responsable y comprometida en la lucha contra el cambio climático y en la defensa del desarrollo sostenible.",
+        "descriptors": ["STEM5","CC4","CE3"]
+      }
+    ]
+  }
+}

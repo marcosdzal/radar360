@@ -48,6 +48,7 @@ cli_writeln('Mapeos activos encontrados: ' . count($mappings));
 $synced  = 0;
 $skipped = 0;
 $errors  = 0;
+$touched_categories = [];
 
 foreach ($mappings as $map) {
     $criterion_id  = (int)$map->rubric_row_id;
@@ -104,6 +105,7 @@ foreach ($mappings as $map) {
             );
             $normalized = ($max_score > 0) ? round((float)$score / $max_score * 10, 4) : 0.0;
             $gradeitem->update_final_grade($assign_grade->userid, $normalized, 'local_sentinel');
+            $touched_categories[(int)$map->grade_category_id] = true;
             $synced++;
             cli_writeln("  ✔ Criterio $criterion_id → alumno {$assign_grade->userid}: {$score} pts → {$normalized}/10");
         } catch (Exception $e) {
@@ -111,6 +113,12 @@ foreach ($mappings as $map) {
             $errors++;
         }
     }
+}
+
+// Recompute progressive weights for each affected category.
+foreach (array_keys($touched_categories) as $catid) {
+    \local_sentinel\observer::recompute_progressive_weights($catid);
+    cli_writeln("  Pesos progresivos recalculados para categoría $catid");
 }
 
 cli_writeln('');

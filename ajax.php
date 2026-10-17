@@ -237,6 +237,245 @@ if ($action === 'apply_curriculum') {
     exit;
 }
 
+// ── Acción: eliminar currículo aplicado ───────────────────────────────────────
+if ($action === 'remove_curriculum') {
+    $courseid = required_param('courseid', PARAM_INT);
+
+    if (!has_capability('local/sentinel:managedescriptors', context_course::instance($courseid))) {
+        http_response_code(403);
+        echo json_encode(['success' => false, 'error' => 'Sin permisos.']);
+        exit;
+    }
+
+    if (\local_sentinel\curriculum_manager::course_has_grades($courseid)) {
+        http_response_code(400);
+        echo json_encode(['success' => false, 'error' => 'No se puede eliminar: el curso ya tiene calificaciones.']);
+        exit;
+    }
+
+    \local_sentinel\curriculum_manager::remove_applied($courseid);
+    echo json_encode(['success' => true]);
+    exit;
+}
+
+// ── Acción: guardar borrador de desgrane de contenidos ──────────────────────
+if ($action === 'save_desgrane') {
+    $courseid = required_param('courseid', PARAM_INT);
+    $subject  = required_param('subject', PARAM_ALPHANUMEXT);
+
+    $course = $DB->get_record('course', ['id' => $courseid], '*', MUST_EXIST);
+    $ctx = context_course::instance($courseid);
+    require_capability('local/sentinel:managedescriptors', $ctx);
+
+    $data = file_get_contents('php://input');
+    $json = json_decode($data, true);
+    if (!isset($json['blocks'])) {
+        http_response_code(400);
+        echo json_encode(['success' => false, 'error' => 'Datos inválidos.']);
+        exit;
+    }
+
+    set_config("desgrane_{$courseid}_{$subject}", json_encode($json['blocks']), 'local_sentinel');
+    echo json_encode(['success' => true]);
+    exit;
+}
+
+// ── Acción: inyectar contenidos en el módulo de competencias de Moodle ─────
+if ($action === 'inject_desgrane') {
+    $courseid = required_param('courseid', PARAM_INT);
+    $subject  = required_param('subject', PARAM_ALPHANUMEXT);
+
+    $course = $DB->get_record('course', ['id' => $courseid], '*', MUST_EXIST);
+    $ctx = context_course::instance($courseid);
+    require_capability('local/sentinel:managedescriptors', $ctx);
+
+    $data = file_get_contents('php://input');
+    $json = json_decode($data, true);
+    if (!isset($json['blocks'])) {
+        http_response_code(400);
+        echo json_encode(['success' => false, 'error' => 'Datos inválidos.']);
+        exit;
+    }
+
+    $result = \local_sentinel\curriculum_manager::inject_contenidos($courseid, $subject, $json['blocks']);
+    if (!$result['success']) {
+        http_response_code(400);
+    }
+    echo json_encode($result);
+    exit;
+}
+
+// ── Acción: cargar borrador de desgrane de contenidos ───────────────────────
+if ($action === 'load_desgrane') {
+    $courseid = required_param('courseid', PARAM_INT);
+    $subject  = required_param('subject', PARAM_ALPHANUMEXT);
+
+    $course = $DB->get_record('course', ['id' => $courseid], '*', MUST_EXIST);
+    $ctx = context_course::instance($courseid);
+    require_capability('local/sentinel:managedescriptors', $ctx);
+
+    $saved = get_config('local_sentinel', "desgrane_{$courseid}_{$subject}");
+    if ($saved) {
+        echo json_encode(['success' => true, 'blocks' => json_decode($saved, true)]);
+    } else {
+        echo json_encode(['success' => true, 'blocks' => null]);
+    }
+    exit;
+}
+
+// ── Acción: configurar autoevaluación del alumnado en una actividad ──────────
+if ($action === 'selfeval_config') {
+    $cmid     = required_param('cmid', PARAM_INT);
+    $required = optional_param('required', -1, PARAM_INT);
+
+    $cm = get_coursemodule_from_id('assign', $cmid);
+    if (!$cm) {
+        http_response_code(400);
+        echo json_encode(['success' => false, 'error' => 'Actividad no encontrada']);
+        exit;
+    }
+    $ctx = context_module::instance($cmid);
+
+    if (!has_capability('mod/assign:grade', $ctx)) {
+        http_response_code(403);
+        echo json_encode(['success' => false, 'error' => 'Sin permisos']);
+        exit;
+    }
+
+    if ($required === -1) {
+        $rec = $DB->get_record('local_sentinel_selfeval_config', ['cmid' => $cmid]);
+        echo json_encode([
+            'success'  => true,
+            'required' => $rec ? (int)$rec->required : 0,
+        ]);
+        exit;
+    }
+
+    $required = $required ? 1 : 0;
+    $existing = $DB->get_record('local_sentinel_selfeval_config', ['cmid' => $cmid]);
+    if ($existing) {
+        $existing->required     = $required;
+        $existing->timemodified = time();
+        $DB->update_record('local_sentinel_selfeval_config', $existing);
+    } else {
+        $DB->insert_record('local_sentinel_selfeval_config', (object)[
+            'cmid'         => $cmid,
+            'required'     => $required,
+            'timemodified' => time(),
+        ]);
+    }
+
+    echo json_encode(['success' => true, 'required' => $required]);
+    exit;
+}
+
+// ── Acción: obtener rúbrica para autoevaluación del alumno ──────────────────
+if ($action === 'selfeval_rubric') {
+    $cmid = required_param('cmid', PARAM_INT);
+    $cm = get_coursemodule_from_id('assign', $cmid);
+    if (!$cm) {
+        http_response_code(400);
+        echo json_encode(['success' => false, 'error' => 'Actividad no encontrada']);
+        exit;
+    }
+    $ctx = context_module::instance($cmid);
+    require_capability('mod/assign:view', $ctx);
+
+    $userid = $USER->id;
+
+    $def = $DB->get_record_sql(
+        "SELECT gd.id
+           FROM {grading_areas} ga
+           JOIN {grading_definitions} gd ON gd.areaid = ga.id
+          WHERE ga.contextid = :ctxid AND gd.method = 'rubric'",
+        ['ctxid' => $ctx->id]
+    );
+    if (!$def) {
+        echo json_encode(['success' => false, 'error' => 'Sin rúbrica']);
+        exit;
+    }
+
+    $criteria = $DB->get_records('gradingform_rubric_criteria',
+        ['definitionid' => $def->id], 'sortorder ASC');
+    $result = [];
+    foreach ($criteria as $crit) {
+        $levels = $DB->get_records('gradingform_rubric_levels',
+            ['criterionid' => $crit->id], 'score ASC');
+        $lvl_arr = [];
+        foreach ($levels as $lv) {
+            $lvl_arr[] = [
+                'id'         => (int)$lv->id,
+                'definition' => strip_tags($lv->definition),
+                'score'      => (float)$lv->score,
+            ];
+        }
+        $existing = $DB->get_record('local_sentinel_selfeval',
+            ['userid' => $userid, 'cmid' => $cmid, 'criterionid' => $crit->id]);
+        $result[] = [
+            'id'          => (int)$crit->id,
+            'description' => strip_tags($crit->description),
+            'levels'      => $lvl_arr,
+            'selected'    => $existing ? (int)$existing->levelid : null,
+        ];
+    }
+
+    $cfg_rec = $DB->get_record('local_sentinel_selfeval_config', ['cmid' => $cmid]);
+    echo json_encode([
+        'success'  => true,
+        'criteria' => $result,
+        'required' => $cfg_rec ? (int)$cfg_rec->required : 0,
+    ]);
+    exit;
+}
+
+// ── Acción: guardar una selección de autoevaluación ─────────────────────────
+if ($action === 'selfeval_save') {
+    $cmid        = required_param('cmid', PARAM_INT);
+    $criterionid = required_param('criterionid', PARAM_INT);
+    $levelid     = required_param('levelid', PARAM_INT);
+
+    $cm = get_coursemodule_from_id('assign', $cmid);
+    if (!$cm) {
+        http_response_code(400);
+        echo json_encode(['success' => false, 'error' => 'Actividad no encontrada']);
+        exit;
+    }
+    $ctx = context_module::instance($cmid);
+    require_capability('mod/assign:view', $ctx);
+
+    $userid = $USER->id;
+
+    $level = $DB->get_record('gradingform_rubric_levels', ['id' => $levelid]);
+    if (!$level || (int)$level->criterionid !== $criterionid) {
+        http_response_code(400);
+        echo json_encode(['success' => false, 'error' => 'Nivel inválido']);
+        exit;
+    }
+
+    $existing = $DB->get_record('local_sentinel_selfeval',
+        ['userid' => $userid, 'cmid' => $cmid, 'criterionid' => $criterionid]);
+    $now = time();
+    if ($existing) {
+        $existing->levelid      = $levelid;
+        $existing->score        = (float)$level->score;
+        $existing->timemodified = $now;
+        $DB->update_record('local_sentinel_selfeval', $existing);
+    } else {
+        $DB->insert_record('local_sentinel_selfeval', (object)[
+            'userid'      => $userid,
+            'cmid'        => $cmid,
+            'criterionid' => $criterionid,
+            'levelid'     => $levelid,
+            'score'       => (float)$level->score,
+            'timecreated' => $now,
+            'timemodified' => $now,
+        ]);
+    }
+
+    echo json_encode(['success' => true, 'score' => (float)$level->score]);
+    exit;
+}
+
 // ── Acción por defecto: guardar mapeo rubric_row → grade_category ─────────────
 $rubric_row_id     = required_param('rubric_row_id',     PARAM_INT);
 $grade_category_id = required_param('grade_category_id', PARAM_INT);
@@ -335,8 +574,10 @@ function sentinel_get_or_create_grade_item(
 // ── Helper: hide/show the main activity grade item ───────────────────────────
 
 /**
- * Hides the main activity grade item when Sentinel has at least one active
- * criterion mapping for this rubric, and restores it when all are removed.
+ * Manages the main activity grade item based on rubric row mapping state.
+ *
+ * ALL rows mapped   → activity grade item weight 0 (avoid double counting).
+ * Partial / none    → activity grade item keeps original weight.
  */
 function sentinel_sync_activity_visibility(object $criterion, object $area, int $courseid): void {
     global $DB;
@@ -350,6 +591,8 @@ function sentinel_sync_activity_visibility(object $criterion, object $area, int 
         return;
     }
 
+    $total_criteria = count($crit_ids);
+
     // Count how many criteria are still actively mapped after this operation.
     [$insql, $inparams] = $DB->get_in_or_equal($crit_ids, SQL_PARAMS_NAMED, 'crit');
     $inparams['cat'] = 0;
@@ -358,6 +601,8 @@ function sentinel_sync_activity_visibility(object $criterion, object $area, int 
         "rubric_row_id $insql AND grade_category_id > :cat",
         $inparams
     );
+
+    $all_mapped = ($active === $total_criteria && $total_criteria > 0);
 
     // Find the main activity grade item via the module context.
     $context = context::instance_by_id($area->contextid);
@@ -409,27 +654,37 @@ function sentinel_sync_activity_visibility(object $criterion, object $area, int 
             'aggregateoutcomes'   => 0,
             'timecreated'  => $now,
             'timemodified' => $now,
-            'hidden'       => 0,
+            'hidden'       => 1,
         ]);
         // Fix the path field (Moodle format: /parent_id/cat_id/).
         $DB->set_field('grade_categories', 'path',
             '/' . $root_cat->id . '/' . $cat_id . '/',
             ['id' => $cat_id]
         );
-        // Create the associated grade_item for this category.
-        $cat_gi             = new grade_item();
-        $cat_gi->courseid   = $courseid;
-        $cat_gi->categoryid = $root_cat->id;
-        $cat_gi->itemtype   = 'category';
-        $cat_gi->iteminstance = $cat_id;
-        $cat_gi->itemname   = $sentinel_cat_name;
+        // Create the associated grade_item for this category (weight 0, hidden, excluded from course total).
+        $cat_gi                   = new grade_item();
+        $cat_gi->courseid         = $courseid;
+        $cat_gi->categoryid       = $root_cat->id;
+        $cat_gi->itemtype         = 'category';
+        $cat_gi->iteminstance     = $cat_id;
+        $cat_gi->itemname         = $sentinel_cat_name;
         $cat_gi->aggregationcoef  = 0;
         $cat_gi->aggregationcoef2 = 0;
-        $cat_gi->grademax   = 100;
-        $cat_gi->grademin   = 0;
+        $cat_gi->weightoverride   = 1;
+        $cat_gi->hidden           = 1;
+        $cat_gi->grademax         = 100;
+        $cat_gi->grademin         = 0;
         $cat_gi->insert('local_sentinel');
 
         $sentinel_cat = (object)['id' => $cat_id];
+    } else {
+        // Ensure existing category has weight 0 locked (Moodle auto-redistributes in Natural).
+        $cat_gi = grade_item::fetch(['itemtype' => 'category', 'iteminstance' => $sentinel_cat->id]);
+        if ($cat_gi && ((float)$cat_gi->aggregationcoef2 != 0.0 || !$cat_gi->weightoverride)) {
+            $cat_gi->aggregationcoef2 = 0;
+            $cat_gi->weightoverride   = 1;
+            $cat_gi->update('local_sentinel');
+        }
     }
 
     // Find or create "Nota de Rúbrica" subcategory inside "Actividades (Sentinel)".
@@ -461,27 +716,35 @@ function sentinel_sync_activity_visibility(object $criterion, object $area, int 
             '/' . $root_cat->id . '/' . $sentinel_cat->id . '/' . $rubric_id . '/',
             ['id' => $rubric_id]
         );
-        $rub_gi               = new grade_item();
-        $rub_gi->courseid     = $courseid;
-        $rub_gi->categoryid   = $sentinel_cat->id;
-        $rub_gi->itemtype     = 'category';
-        $rub_gi->iteminstance = $rubric_id;
-        $rub_gi->itemname     = $rubric_cat_name;
+        $rub_gi                   = new grade_item();
+        $rub_gi->courseid         = $courseid;
+        $rub_gi->categoryid       = $sentinel_cat->id;
+        $rub_gi->itemtype         = 'category';
+        $rub_gi->iteminstance     = $rubric_id;
+        $rub_gi->itemname         = $rubric_cat_name;
         $rub_gi->aggregationcoef  = 0;
         $rub_gi->aggregationcoef2 = 0;
-        $rub_gi->grademax     = 100;
-        $rub_gi->grademin     = 0;
+        $rub_gi->weightoverride   = 1;
+        $rub_gi->grademax         = 100;
+        $rub_gi->grademin         = 0;
         $rub_gi->insert('local_sentinel');
 
         $rubric_cat = (object)['id' => $rubric_id];
+    } else {
+        // Ensure existing "Nota de Rúbrica" has weight 0 locked.
+        $rub_gi = grade_item::fetch(['itemtype' => 'category', 'iteminstance' => $rubric_cat->id]);
+        if ($rub_gi && ((float)$rub_gi->aggregationcoef2 != 0.0 || !$rub_gi->weightoverride)) {
+            $rub_gi->aggregationcoef2 = 0;
+            $rub_gi->weightoverride   = 1;
+            $rub_gi->update('local_sentinel');
+        }
     }
 
     $config_key = 'orig_cat_' . $activity_gi->id;
 
-    if ($active > 0) {
-        // Sentinel is active: move grade item into "Nota de Rúbrica", weight 0.
+    if ($all_mapped) {
+        // ALL rows mapped: move grade item into "Nota de Rúbrica", weight 0.
         if ((int)$activity_gi->categoryid !== (int)$rubric_cat->id) {
-            // Persist original values so we can restore them later.
             set_config($config_key, $activity_gi->categoryid, 'local_sentinel');
             set_config($config_key . '_coef',  $activity_gi->aggregationcoef,  'local_sentinel');
             set_config($config_key . '_coef2', $activity_gi->aggregationcoef2, 'local_sentinel');
@@ -490,9 +753,10 @@ function sentinel_sync_activity_visibility(object $criterion, object $area, int 
         $activity_gi->hidden           = 0;
         $activity_gi->aggregationcoef  = 0;
         $activity_gi->aggregationcoef2 = 0;
+        $activity_gi->weightoverride   = 1;
         $activity_gi->update('local_sentinel');
     } else {
-        // All mappings removed: restore original category and weight.
+        // Partial or no mapping: restore original category and weight.
         $orig = get_config('local_sentinel', $config_key);
         if ($orig) {
             $activity_gi->categoryid = (int)$orig;
@@ -505,6 +769,19 @@ function sentinel_sync_activity_visibility(object $criterion, object $area, int 
             unset_config($config_key,          'local_sentinel');
             unset_config($config_key . '_coef',  'local_sentinel');
             unset_config($config_key . '_coef2', 'local_sentinel');
+        }
+    }
+
+    // Recompute progressive weights for each target category that has Sentinel items.
+    if ($active > 0) {
+        $mapped_cats = $DB->get_fieldset_select(
+            'local_sentinel_map',
+            'DISTINCT grade_category_id',
+            "rubric_row_id $insql AND grade_category_id > :cat2",
+            array_merge($inparams, ['cat2' => 0])
+        );
+        foreach ($mapped_cats as $catid) {
+            \local_sentinel\observer::recompute_progressive_weights((int)$catid);
         }
     }
 }
@@ -540,6 +817,302 @@ if ($grade_category_id === 0) {
             'grade_item_id'     => $gi->id,
         ]);
     }
+}
+
+// ── DUA: Bitácora (logbook notes) ────────────────────────────────────────────
+if ($action === 'dua_notes_list') {
+    $userid   = required_param('userid', PARAM_INT);
+    $courseid = required_param('courseid', PARAM_INT);
+    $context  = context_course::instance($courseid);
+    require_capability('local/sentinel:viewstudentreport', $context);
+    $notes = $DB->get_records('local_sentinel_dua_note',
+        ['userid' => $userid, 'courseid' => $courseid], 'timecreated DESC');
+    $result = [];
+    foreach ($notes as $n) {
+        $author = core_user::get_user($n->authorid, 'id,firstname,lastname');
+        $result[] = [
+            'id'         => (int)$n->id,
+            'content'    => $n->content,
+            'authorid'   => (int)$n->authorid,
+            'authorname' => $author ? fullname($author) : '?',
+            'ismine'     => ((int)$n->authorid === (int)$USER->id),
+            'timecreated' => (int)$n->timecreated,
+            'date'       => userdate($n->timecreated, '%d/%m/%Y %H:%M'),
+        ];
+    }
+    echo json_encode(['success' => true, 'notes' => $result]);
+    exit;
+}
+
+if ($action === 'dua_note_save') {
+    $userid   = required_param('userid', PARAM_INT);
+    $courseid = required_param('courseid', PARAM_INT);
+    $content  = required_param('content', PARAM_RAW);
+    $noteid   = optional_param('noteid', 0, PARAM_INT);
+    $context  = context_course::instance($courseid);
+    require_capability('local/sentinel:viewstudentreport', $context);
+    $content = clean_text($content);
+    $now = time();
+    if ($noteid > 0) {
+        $existing = $DB->get_record('local_sentinel_dua_note', ['id' => $noteid], '*', MUST_EXIST);
+        if ((int)$existing->authorid !== (int)$USER->id) {
+            echo json_encode(['success' => false, 'error' => 'Not the author']);
+            exit;
+        }
+        $existing->content = $content;
+        $existing->timemodified = $now;
+        $DB->update_record('local_sentinel_dua_note', $existing);
+        echo json_encode(['success' => true, 'id' => (int)$noteid]);
+    } else {
+        $rec = new stdClass();
+        $rec->userid = $userid;
+        $rec->courseid = $courseid;
+        $rec->authorid = (int)$USER->id;
+        $rec->content = $content;
+        $rec->timecreated = $now;
+        $rec->timemodified = $now;
+        $id = $DB->insert_record('local_sentinel_dua_note', $rec);
+        echo json_encode(['success' => true, 'id' => (int)$id]);
+    }
+    exit;
+}
+
+if ($action === 'dua_note_delete') {
+    $noteid = required_param('noteid', PARAM_INT);
+    $existing = $DB->get_record('local_sentinel_dua_note', ['id' => $noteid], '*', MUST_EXIST);
+    $context  = context_course::instance($existing->courseid);
+    require_capability('local/sentinel:viewstudentreport', $context);
+    if ((int)$existing->authorid !== (int)$USER->id) {
+        echo json_encode(['success' => false, 'error' => 'Not the author']);
+        exit;
+    }
+    $DB->delete_records('local_sentinel_dua_note', ['id' => $noteid]);
+    echo json_encode(['success' => true]);
+    exit;
+}
+
+// ── DUA: Motivación (interests/hooks chips) ──────────────────────────────────
+if ($action === 'dua_motiv_list') {
+    $userid   = required_param('userid', PARAM_INT);
+    $courseid = required_param('courseid', PARAM_INT);
+    $context  = context_course::instance($courseid);
+    require_login($courseid);
+    $items = $DB->get_records('local_sentinel_dua_motiv',
+        ['userid' => $userid, 'courseid' => $courseid], 'category ASC, timecreated ASC');
+    $result = [];
+    foreach ($items as $m) {
+        $result[] = [
+            'id'       => (int)$m->id,
+            'category' => $m->category,
+            'label'    => $m->label,
+            'ismine'   => ((int)$m->authorid === (int)$USER->id),
+        ];
+    }
+    echo json_encode(['success' => true, 'items' => $result]);
+    exit;
+}
+
+if ($action === 'dua_motiv_save') {
+    $userid   = required_param('userid', PARAM_INT);
+    $courseid = required_param('courseid', PARAM_INT);
+    $category = required_param('category', PARAM_ALPHA);
+    $label    = required_param('label', PARAM_TEXT);
+    $context  = context_course::instance($courseid);
+    require_capability('local/sentinel:viewstudentreport', $context);
+    if (!in_array($category, ['interest', 'hook'])) {
+        echo json_encode(['success' => false, 'error' => 'Invalid category']);
+        exit;
+    }
+    $now = time();
+    $rec = new stdClass();
+    $rec->userid = $userid;
+    $rec->courseid = $courseid;
+    $rec->authorid = (int)$USER->id;
+    $rec->category = $category;
+    $rec->label = $label;
+    $rec->timecreated = $now;
+    $rec->timemodified = $now;
+    $id = $DB->insert_record('local_sentinel_dua_motiv', $rec);
+    echo json_encode(['success' => true, 'id' => (int)$id]);
+    exit;
+}
+
+if ($action === 'dua_motiv_delete') {
+    $itemid = required_param('itemid', PARAM_INT);
+    $existing = $DB->get_record('local_sentinel_dua_motiv', ['id' => $itemid], '*', MUST_EXIST);
+    $context  = context_course::instance($existing->courseid);
+    require_capability('local/sentinel:viewstudentreport', $context);
+    $DB->delete_records('local_sentinel_dua_motiv', ['id' => $itemid]);
+    echo json_encode(['success' => true]);
+    exit;
+}
+
+// ── DUA: Adaptaciones de Acceso (AA) ─────────────────────────────────────────
+if ($action === 'dua_access_list') {
+    $userid   = required_param('userid', PARAM_INT);
+    $courseid = required_param('courseid', PARAM_INT);
+    $context  = context_course::instance($courseid);
+    require_login($courseid);
+    $items = $DB->get_records('local_sentinel_dua_access',
+        ['userid' => $userid, 'courseid' => $courseid], 'timecreated DESC');
+    $result = [];
+    foreach ($items as $a) {
+        $result[] = [
+            'id'          => (int)$a->id,
+            'measure'     => $a->measure,
+            'catalog'     => (int)$a->catalog,
+            'subcategory' => $a->subcategory ?? 'custom',
+            'active'      => (int)$a->active,
+            'datestart'   => (int)($a->datestart ?? 0),
+            'dateend'     => (int)($a->dateend ?? 0),
+            'timecreated' => (int)$a->timecreated,
+        ];
+    }
+    echo json_encode(['success' => true, 'items' => $result]);
+    exit;
+}
+
+if ($action === 'dua_access_save') {
+    $userid      = required_param('userid', PARAM_INT);
+    $courseid    = required_param('courseid', PARAM_INT);
+    $measure     = required_param('measure', PARAM_TEXT);
+    $subcategory = optional_param('subcategory', 'custom', PARAM_ALPHA);
+    $datestart   = optional_param('datestart', 0, PARAM_INT);
+    $dateend     = optional_param('dateend', 0, PARAM_INT);
+    $context     = context_course::instance($courseid);
+    require_capability('local/sentinel:viewstudentreport', $context);
+    if (!in_array($subcategory, ['standard', 'program', 'custom'])) {
+        $subcategory = 'custom';
+    }
+    $now = time();
+    $rec = new stdClass();
+    $rec->userid = $userid;
+    $rec->courseid = $courseid;
+    $rec->measure = $measure;
+    $rec->catalog = ($subcategory !== 'custom') ? 1 : 0;
+    $rec->subcategory = $subcategory;
+    $rec->active = 1;
+    $rec->authorid = (int)$USER->id;
+    $rec->datestart = $datestart ?: $now;
+    $rec->dateend = $dateend ?: 0;
+    $rec->timecreated = $now;
+    $rec->timemodified = $now;
+    $id = $DB->insert_record('local_sentinel_dua_access', $rec);
+    echo json_encode(['success' => true, 'id' => (int)$id]);
+    exit;
+}
+
+if ($action === 'dua_access_toggle') {
+    $itemid = required_param('itemid', PARAM_INT);
+    $existing = $DB->get_record('local_sentinel_dua_access', ['id' => $itemid], '*', MUST_EXIST);
+    $context  = context_course::instance($existing->courseid);
+    require_capability('local/sentinel:viewstudentreport', $context);
+    $existing->active = $existing->active ? 0 : 1;
+    $existing->timemodified = time();
+    $DB->update_record('local_sentinel_dua_access', $existing);
+    echo json_encode(['success' => true, 'active' => (int)$existing->active]);
+    exit;
+}
+
+if ($action === 'dua_access_delete') {
+    $itemid = required_param('itemid', PARAM_INT);
+    $existing = $DB->get_record('local_sentinel_dua_access', ['id' => $itemid], '*', MUST_EXIST);
+    $context  = context_course::instance($existing->courseid);
+    require_capability('local/sentinel:viewstudentreport', $context);
+    $DB->delete_records('local_sentinel_dua_access', ['id' => $itemid]);
+    echo json_encode(['success' => true]);
+    exit;
+}
+
+// ── DUA: ACIS / Adaptaciones Curriculares Significativas ──────────────────────
+if ($action === 'dua_acis_list') {
+    $userid   = required_param('userid', PARAM_INT);
+    $courseid = required_param('courseid', PARAM_INT);
+    $context  = context_course::instance($courseid);
+    require_login($courseid);
+    $items = $DB->get_records('local_sentinel_dua_acis',
+        ['userid' => $userid, 'courseid' => $courseid], 'timecreated DESC');
+    $result = [];
+    foreach ($items as $a) {
+        $result[] = [
+            'id'            => (int)$a->id,
+            'criterionid'   => (int)$a->criterionid,
+            'original_text' => $a->original_text,
+            'adapted_text'  => $a->adapted_text,
+            'datestart'     => (int)$a->datestart,
+            'dateend'       => (int)($a->dateend ?? 0),
+            'timecreated'   => (int)$a->timecreated,
+        ];
+    }
+    echo json_encode(['success' => true, 'items' => $result]);
+    exit;
+}
+
+if ($action === 'dua_acis_save') {
+    $userid       = required_param('userid', PARAM_INT);
+    $courseid     = required_param('courseid', PARAM_INT);
+    $criterionid  = required_param('criterionid', PARAM_INT);
+    $original     = required_param('original_text', PARAM_RAW);
+    $adapted      = required_param('adapted_text', PARAM_RAW);
+    $datestart    = optional_param('datestart', 0, PARAM_INT);
+    $dateend      = optional_param('dateend', 0, PARAM_INT);
+    $context      = context_course::instance($courseid);
+    require_capability('local/sentinel:viewstudentreport', $context);
+    $now = time();
+    $rec = new stdClass();
+    $rec->userid = $userid;
+    $rec->courseid = $courseid;
+    $rec->criterionid = $criterionid;
+    $rec->original_text = clean_param($original, PARAM_CLEANHTML);
+    $rec->adapted_text = clean_param($adapted, PARAM_CLEANHTML);
+    $rec->authorid = (int)$USER->id;
+    $rec->datestart = $datestart ?: $now;
+    $rec->dateend = $dateend ?: 0;
+    $rec->timecreated = $now;
+    $rec->timemodified = $now;
+    $id = $DB->insert_record('local_sentinel_dua_acis', $rec);
+    echo json_encode(['success' => true, 'id' => (int)$id]);
+    exit;
+}
+
+if ($action === 'dua_acis_delete') {
+    $itemid = required_param('itemid', PARAM_INT);
+    $existing = $DB->get_record('local_sentinel_dua_acis', ['id' => $itemid], '*', MUST_EXIST);
+    $context  = context_course::instance($existing->courseid);
+    require_capability('local/sentinel:viewstudentreport', $context);
+    $DB->delete_records('local_sentinel_dua_acis', ['id' => $itemid]);
+    echo json_encode(['success' => true]);
+    exit;
+}
+
+if ($action === 'dua_ce_criteria') {
+    $courseid = required_param('courseid', PARAM_INT);
+    $context  = context_course::instance($courseid);
+    require_capability('local/sentinel:viewstudentreport', $context);
+    require_once($CFG->libdir . '/grade/grade_category.php');
+    $course_cat = grade_category::fetch_course_category($courseid);
+    $tree = grade_category::fetch_all(['courseid' => $courseid]);
+    $criteria = [];
+    foreach ($tree as $cat) {
+        $name = $cat->get_name();
+        if (preg_match('/^(CE\s*\d+)/i', $name, $m)) {
+            $criteria[] = [
+                'id'   => (int)$cat->id,
+                'code' => strtoupper(str_replace(' ', '', $m[1])),
+                'name' => $name,
+            ];
+        }
+    }
+    usort($criteria, function($a, $b) {
+        return strnatcasecmp($a['code'], $b['code']);
+    });
+    echo json_encode(['success' => true, 'criteria' => $criteria]);
+    exit;
+}
+
+// Recompute progressive weights for the target category.
+if ($grade_category_id > 0) {
+    \local_sentinel\observer::recompute_progressive_weights($grade_category_id);
 }
 
 // Hide or restore the main activity grade item depending on active mappings.

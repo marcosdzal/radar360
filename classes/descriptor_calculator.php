@@ -546,4 +546,453 @@ class descriptor_calculator {
         if ($grade < 9)  { return get_string('report:level_adquirida',  'local_sentinel'); }
         return get_string('report:level_avanzada', 'local_sentinel');
     }
+
+    /**
+     * Computes sample representativity for a student in a course.
+     *
+     * Numerator:   distinct assignments where the student has a rubric grade.
+     * Denominator: distinct assignments where ANY enrolled student has a rubric grade.
+     *
+     * @return array {pct: float 0-100, evaluated: int, total: int, level: 'red'|'amber'|'green', label: string}
+     */
+    public static function get_representativity(int $userid, int $courseid): array {
+        global $DB;
+
+        // Assignments in this course that use a published rubric and have at least
+        // one student graded (i.e., "active" for the group).
+        $sql_total = "
+            SELECT COUNT(DISTINCT a.id)
+              FROM {assign} a
+              JOIN {course_modules} cm ON cm.instance = a.id AND cm.course = a.course
+                                       AND cm.deletioninprogress = 0
+              JOIN {modules} m ON m.id = cm.module AND m.name = 'assign'
+              JOIN {context} ctx ON ctx.contextlevel = 70 AND ctx.instanceid = cm.id
+              JOIN {grading_areas} ga ON ga.contextid = ctx.id AND ga.component = 'mod_assign'
+              JOIN {grading_definitions} gd ON gd.areaid = ga.id AND gd.method = 'rubric' AND gd.status = 20
+              JOIN {assign_grades} ag ON ag.assignment = a.id
+              JOIN {grading_instances} gi ON gi.definitionid = gd.id AND gi.itemid = ag.id AND gi.status = 1
+             WHERE a.course = :courseid
+        ";
+        $total = (int)$DB->count_records_sql($sql_total, ['courseid' => $courseid]);
+
+        // Of those, how many has THIS student been graded on.
+        $sql_student = "
+            SELECT COUNT(DISTINCT a.id)
+              FROM {assign} a
+              JOIN {course_modules} cm ON cm.instance = a.id AND cm.course = a.course
+                                       AND cm.deletioninprogress = 0
+              JOIN {modules} m ON m.id = cm.module AND m.name = 'assign'
+              JOIN {context} ctx ON ctx.contextlevel = 70 AND ctx.instanceid = cm.id
+              JOIN {grading_areas} ga ON ga.contextid = ctx.id AND ga.component = 'mod_assign'
+              JOIN {grading_definitions} gd ON gd.areaid = ga.id AND gd.method = 'rubric' AND gd.status = 20
+              JOIN {assign_grades} ag ON ag.assignment = a.id AND ag.userid = :userid
+              JOIN {grading_instances} gi ON gi.definitionid = gd.id AND gi.itemid = ag.id AND gi.status = 1
+             WHERE a.course = :courseid
+        ";
+        $evaluated = (int)$DB->count_records_sql($sql_student, ['userid' => $userid, 'courseid' => $courseid]);
+
+        $pct = $total > 0 ? round(($evaluated / $total) * 100, 1) : 0;
+
+        if ($total === 0) {
+            return ['pct' => 0, 'evaluated' => 0, 'total' => 0, 'level' => 'grey',
+                    'label' => get_string('sample:nodata', 'local_sentinel')];
+        }
+
+        // Thresholds from plugin config (defaults: red < 50, amber < 70).
+        $threshold_red   = (float)(get_config('local_sentinel', 'sample_threshold_red') ?: 50);
+        $threshold_green = (float)(get_config('local_sentinel', 'sample_threshold_green') ?: 70);
+
+        if ($pct < $threshold_red) {
+            $level = 'red';
+            $label = get_string('sample:insufficient', 'local_sentinel');
+        } elseif ($pct < $threshold_green) {
+            $level = 'amber';
+            $label = get_string('sample:fair', 'local_sentinel');
+        } else {
+            $level = 'green';
+            $label = get_string('sample:solid', 'local_sentinel');
+        }
+
+        return compact('pct', 'evaluated', 'total', 'level', 'label');
+    }
+
+    /**
+     * Computes sample representativity across ALL courses for a student (global view).
+     *
+     * @return array {pct: float 0-100, evaluated: int, total: int, level: 'red'|'amber'|'green', label: string}
+     */
+    public static function get_representativity_global(int $userid): array {
+        $courses = enrol_get_users_courses($userid, true);
+        $total_eval = 0;
+        $total_acts = 0;
+        foreach ($courses as $c) {
+            $r = self::get_representativity($userid, $c->id);
+            $total_eval += $r['evaluated'];
+            $total_acts += $r['total'];
+        }
+        if ($total_acts === 0) {
+            return ['pct' => 0, 'evaluated' => 0, 'total' => 0, 'level' => 'grey',
+                    'label' => get_string('sample:nodata', 'local_sentinel')];
+        }
+
+        $pct = round(($total_eval / $total_acts) * 100, 1);
+
+        $threshold_red   = (float)(get_config('local_sentinel', 'sample_threshold_red') ?: 50);
+        $threshold_green = (float)(get_config('local_sentinel', 'sample_threshold_green') ?: 70);
+
+        if ($pct < $threshold_red) {
+            $level = 'red';
+            $label = get_string('sample:insufficient', 'local_sentinel');
+        } elseif ($pct < $threshold_green) {
+            $level = 'amber';
+            $label = get_string('sample:fair', 'local_sentinel');
+        } else {
+            $level = 'green';
+            $label = get_string('sample:solid', 'local_sentinel');
+        }
+
+        return ['pct' => $pct, 'evaluated' => $total_eval, 'total' => $total_acts, 'level' => $level, 'label' => $label];
+    }
+
+    public static function classify_coverage(int $worked, int $total): array {
+        if ($total === 0) {
+            return ['pct' => 0, 'level' => 'grey',
+                    'label' => get_string('sample:nodata', 'local_sentinel')];
+        }
+        $pct = round(($worked / $total) * 100, 1);
+        $threshold_red   = (float)(get_config('local_sentinel', 'sample_threshold_red') ?: 50);
+        $threshold_green = (float)(get_config('local_sentinel', 'sample_threshold_green') ?: 70);
+
+        if ($pct < $threshold_red) {
+            $level = 'red';
+            $label = get_string('sample:insufficient', 'local_sentinel');
+        } elseif ($pct < $threshold_green) {
+            $level = 'amber';
+            $label = get_string('sample:fair', 'local_sentinel');
+        } else {
+            $level = 'green';
+            $label = get_string('sample:solid', 'local_sentinel');
+        }
+        return compact('pct', 'level', 'label');
+    }
+
+    public static function get_descriptor_group_totals(array $courseids): array {
+        global $DB;
+        if (empty($courseids)) {
+            return [];
+        }
+        [$insql, $params] = $DB->get_in_or_equal($courseids, SQL_PARAMS_NAMED, 'cid');
+        $sql = "
+            SELECT cd.descriptorcode, COUNT(DISTINCT cm.id) AS total_acts
+              FROM {assign} a
+              JOIN {course_modules} cm ON cm.instance = a.id AND cm.course = a.course
+                                       AND cm.deletioninprogress = 0
+              JOIN {modules} m ON m.id = cm.module AND m.name = 'assign'
+              JOIN {context} ctx ON ctx.contextlevel = 70 AND ctx.instanceid = cm.id
+              JOIN {grading_areas} ga ON ga.contextid = ctx.id AND ga.component = 'mod_assign'
+              JOIN {grading_definitions} gd ON gd.areaid = ga.id AND gd.method = 'rubric' AND gd.status = 20
+              JOIN {gradingform_rubric_criteria} rc ON rc.definitionid = gd.id
+              LEFT JOIN (
+                  SELECT DISTINCT gi2.itemname, gi2.courseid, gi2.categoryid
+                  FROM {grade_items} gi2
+                  WHERE gi2.itemtype = 'manual'
+              ) gi_match ON gi_match.itemname = rc.description AND gi_match.courseid = a.course
+              LEFT JOIN {grade_items} gi_mod ON gi_mod.iteminstance = a.id
+                                             AND gi_mod.itemtype = 'mod'
+                                             AND gi_mod.itemmodule = 'assign'
+                                             AND gi_mod.courseid = a.course
+              JOIN {grade_categories} gc_crit ON gc_crit.id = COALESCE(gi_match.categoryid, gi_mod.categoryid)
+              JOIN {local_sentinel_cat_descriptor} cd ON cd.grade_category_id = gc_crit.id
+              JOIN {assign_grades} ag ON ag.assignment = a.id
+              JOIN {grading_instances} gi ON gi.definitionid = gd.id AND gi.itemid = ag.id AND gi.status = 1
+             WHERE a.course $insql
+             GROUP BY cd.descriptorcode
+        ";
+        $rows = $DB->get_records_sql($sql, $params);
+        $result = [];
+        foreach ($rows as $r) {
+            $result[$r->descriptorcode] = (int)$r->total_acts;
+        }
+        return $result;
+    }
+
+    public static function get_objectives_data(array $areas, string $stage): array {
+        $file = __DIR__ . '/../data/objetivos_etapa.json';
+        if (!file_exists($file)) {
+            return [];
+        }
+        $all = json_decode(file_get_contents($file), true) ?: [];
+        if (empty($all[$stage]['objectives'])) {
+            return [];
+        }
+
+        $desc_grades = [];
+        $desc_activities = [];
+        foreach ($areas as $adata) {
+            foreach ($adata['descriptors'] as $dcode => $ddata) {
+                if ($ddata['grade'] !== null) {
+                    $desc_grades[$dcode] = $ddata['grade'];
+                }
+                if (!empty($ddata['activities'])) {
+                    $desc_activities[$dcode] = $ddata['activities'];
+                }
+            }
+        }
+
+        $objectives = [];
+        foreach ($all[$stage]['objectives'] as $obj) {
+            $linked = $obj['descriptors'];
+            $worked_grades = [];
+            foreach ($linked as $dc) {
+                if (isset($desc_grades[$dc])) {
+                    $worked_grades[] = $desc_grades[$dc];
+                }
+            }
+            $worked = count($worked_grades);
+            $total  = count($linked);
+            $grade  = $worked > 0 ? round(array_sum($worked_grades) / $worked, 2) : null;
+            $cov    = self::classify_coverage($worked, $total);
+
+            $sparkline = self::build_objective_sparkline($linked, $desc_activities);
+
+            $objectives[] = [
+                'code'        => $obj['code'],
+                'text'        => $obj['text'],
+                'grade'       => $grade,
+                'worked'      => $worked,
+                'total'       => $total,
+                'descriptors' => $linked,
+                'coverage'    => $cov,
+                'sparkline'   => $sparkline,
+            ];
+        }
+
+        return [
+            'label'      => $all[$stage]['label'],
+            'source'     => $all[$stage]['source'],
+            'objectives' => $objectives,
+        ];
+    }
+
+    /**
+     * Builds a sparkline time-series for an objective: running average across
+     * linked descriptors as grading events arrive chronologically.
+     *
+     * @param array $linked    Descriptor codes linked to this objective.
+     * @param array $desc_activities  Map of descriptor code → occasions array.
+     * @return array  List of [timestamp, grade] points ordered by time.
+     */
+    /**
+     * Returns self-assessment (DUA) grades aggregated per competency area.
+     *
+     * @param int      $userid
+     * @param int|null $courseid   Filter to one course (null = all).
+     * @return array  Keyed by area code => float grade (0-10), or empty if no selfeval data.
+     */
+    public static function get_student_selfeval_areas(int $userid, ?int $courseid = null): array {
+        global $DB;
+
+        $params = ['userid' => $userid];
+        $coursesql = '';
+        if ($courseid) {
+            $coursesql = ' AND cm.course = :courseid';
+            $params['courseid'] = $courseid;
+        }
+
+        $sql = "
+            SELECT se.id, se.criterionid, se.score, se.cmid,
+                   cd.descriptorcode
+              FROM {local_sentinel_selfeval} se
+              JOIN {local_sentinel_ce_descriptor} cd ON cd.criteriaid = se.criterionid
+              JOIN {course_modules} cm ON cm.id = se.cmid
+             WHERE se.userid = :userid
+                   {$coursesql}
+        ";
+
+        $rows = $DB->get_records_sql($sql, $params);
+        if (empty($rows)) {
+            return [];
+        }
+
+        $area_scores = [];
+        foreach ($rows as $row) {
+            $dc = $row->descriptorcode;
+            $area = '';
+            foreach (self::AREAS as $ac => $ad) {
+                if (strpos($dc, $ac) === 0) {
+                    $area = $ac;
+                    break;
+                }
+            }
+            if (!$area) {
+                continue;
+            }
+            if (!isset($area_scores[$area])) {
+                $area_scores[$area] = [];
+            }
+            $area_scores[$area][] = (float)$row->score;
+        }
+
+        $result = [];
+        foreach ($area_scores as $area => $scores) {
+            $result[$area] = round(array_sum($scores) / count($scores), 2);
+        }
+
+        return $result;
+    }
+
+    /**
+     * Returns self-assessment sparkline data per objective.
+     *
+     * @param int   $userid
+     * @param array $objectives  The objectives array from get_objectives_data().
+     * @return array Keyed by objective code => list of [timestamp, avg_grade] points.
+     */
+    public static function get_selfeval_sparklines(int $userid, array $objectives): array {
+        global $DB;
+
+        $rows = $DB->get_records_sql("
+            SELECT se.id, se.criterionid, se.score, se.timecreated,
+                   cd.descriptorcode
+              FROM {local_sentinel_selfeval} se
+              JOIN {local_sentinel_ce_descriptor} cd ON cd.criteriaid = se.criterionid
+             WHERE se.userid = :userid
+          ORDER BY se.timecreated ASC
+        ", ['userid' => $userid]);
+
+        if (empty($rows)) {
+            return [];
+        }
+
+        $desc_events = [];
+        foreach ($rows as $row) {
+            $dc = $row->descriptorcode;
+            $desc_events[$dc][] = [
+                'time'  => (int)$row->timecreated,
+                'score' => (float)$row->score,
+            ];
+        }
+
+        $result = [];
+        foreach ($objectives as $obj) {
+            $linked = $obj['descriptors'] ?? [];
+            $events = [];
+            foreach ($linked as $dc) {
+                if (empty($desc_events[$dc])) {
+                    continue;
+                }
+                foreach ($desc_events[$dc] as $ev) {
+                    $events[] = [
+                        'time'  => $ev['time'],
+                        'desc'  => $dc,
+                        'score' => $ev['score'],
+                    ];
+                }
+            }
+            if (empty($events)) {
+                continue;
+            }
+            usort($events, fn($a, $b) => $a['time'] <=> $b['time']);
+            $desc_latest = [];
+            $points = [];
+            foreach ($events as $ev) {
+                $desc_latest[$ev['desc']] = $ev['score'];
+                $avg = round(array_sum($desc_latest) / count($desc_latest), 2);
+                $points[] = [$ev['time'], $avg];
+            }
+            $result[$obj['code']] = $points;
+        }
+
+        return $result;
+    }
+
+    /**
+     * Returns self-assessment grades per CE category for a specific course.
+     *
+     * @param int $userid
+     * @param int $courseid
+     * @param array $ce_cat_ids  Ordered list of CE category IDs (from get_student_ce_data).
+     * @return array  Indexed same as $ce_cat_ids => float grade or null.
+     */
+    public static function get_selfeval_per_ce(int $userid, int $courseid, array $ce_cat_ids): array {
+        global $DB;
+
+        if (empty($ce_cat_ids)) {
+            return array_fill(0, count($ce_cat_ids), null);
+        }
+
+        $sql = "
+            SELECT se.id, se.criterionid, se.score, se.cmid,
+                   sm.grade_category_id
+              FROM {local_sentinel_selfeval} se
+              JOIN {local_sentinel_map} sm ON sm.rubric_row_id = se.criterionid
+              JOIN {course_modules} cm ON cm.id = se.cmid AND cm.course = :courseid
+             WHERE se.userid = :userid
+        ";
+        $rows = $DB->get_records_sql($sql, ['userid' => $userid, 'courseid' => $courseid]);
+
+        if (empty($rows)) {
+            return array_fill(0, count($ce_cat_ids), null);
+        }
+
+        // Group scores by parent CE category. The map links criterion → depth-3 category;
+        // depth-3's parent is the CE (depth-2) category.
+        $cat_parents = $DB->get_records_sql(
+            "SELECT gc.id, gc.parent FROM {grade_categories} gc WHERE gc.courseid = ?",
+            [$courseid]
+        );
+        $parent_map = [];
+        foreach ($cat_parents as $cp) {
+            $parent_map[(int)$cp->id] = (int)$cp->parent;
+        }
+
+        $ce_scores = [];
+        foreach ($rows as $row) {
+            $cat_id = (int)$row->grade_category_id;
+            $ce_id = $parent_map[$cat_id] ?? $cat_id;
+            $ce_scores[$ce_id][] = (float)$row->score;
+        }
+
+        $result = [];
+        foreach ($ce_cat_ids as $cid) {
+            if (!empty($ce_scores[$cid])) {
+                $result[] = round(array_sum($ce_scores[$cid]) / count($ce_scores[$cid]), 2);
+            } else {
+                $result[] = null;
+            }
+        }
+
+        return $result;
+    }
+
+    private static function build_objective_sparkline(array $linked, array $desc_activities): array {
+        $events = [];
+        foreach ($linked as $dc) {
+            if (empty($desc_activities[$dc])) {
+                continue;
+            }
+            foreach ($desc_activities[$dc] as $occ) {
+                $events[] = [
+                    'time'  => (int)$occ['gradetime'],
+                    'desc'  => $dc,
+                    'grade' => (float)$occ['grade'],
+                ];
+            }
+        }
+        if (empty($events)) {
+            return [];
+        }
+
+        usort($events, fn($a, $b) => $a['time'] <=> $b['time']);
+
+        $desc_latest = [];
+        $points = [];
+        foreach ($events as $ev) {
+            $desc_latest[$ev['desc']] = $ev['grade'];
+            $avg = round(array_sum($desc_latest) / count($desc_latest), 2);
+            $points[] = [$ev['time'], $avg];
+        }
+
+        return $points;
+    }
 }

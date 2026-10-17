@@ -26,9 +26,9 @@
 define([], function() {
     'use strict';
 
-    var _reportTitle    = 'Perfil de salida';
+    var _reportTitle    = 'Radar 360º';
     var _bcList         = null;   // <ol class="breadcrumb">
-    var _bcLastItem     = null;   // the last <li> on page load ("Perfil de salida")
+    var _bcLastItem     = null;   // the last <li> on page load ("Radar 360º")
     var _bcLastClass    = '';
     var _bcLastHTML     = '';
     var _bcExtra        = [];     // <li> elements we injected
@@ -61,8 +61,8 @@ define([], function() {
     }
 
     /**
-     * Update the breadcrumb to show a trail beyond "Perfil de salida".
-     * trail: [{label, onclick?}] — items AFTER the fixed "Perfil de salida" entry.
+     * Update the breadcrumb to show a trail beyond "Radar 360º".
+     * trail: [{label, onclick?}] — items AFTER the fixed "Radar 360º" entry.
      *   - Items with onclick become links.
      *   - The last item is always rendered as plain text (active).
      */
@@ -70,7 +70,7 @@ define([], function() {
         if (!_bcList || !_bcLastItem) { return; }
         bcRestore();
 
-        // Convert the "Perfil de salida" item into a clickable link.
+        // Convert the "Radar 360º" item into a clickable link.
         _bcLastItem.className = 'breadcrumb-item';
         _bcLastItem.removeAttribute('aria-current');
         var a0 = document.createElement('a');
@@ -132,76 +132,221 @@ define([], function() {
     // ── Public navigation (window-scoped for PHP onclick handlers) ────────────
 
     var _lastViewTab = 'diana';
-    try { _lastViewTab = localStorage.getItem('sentinel_view_tab') || 'diana'; } catch(e) {}
+    var _activeMacro = 'global';
+    var _activeSubtab = 'cc';
+    var _activeView = 'diana';
+    if (window._sentinelInitMacro) {
+        _activeMacro = window._sentinelInitMacro;
+        if (window._sentinelInitSubtab) {
+            _activeSubtab = window._sentinelInitSubtab;
+        } else {
+            _activeSubtab = _activeMacro === 'subject' ? 'ce' : 'cc';
+        }
+        try { var sv = localStorage.getItem('sentinel_view'); if (sv) _activeView = sv; } catch(e) {}
+    } else {
+        try {
+            _activeMacro = localStorage.getItem('sentinel_macro') || 'global';
+            _activeSubtab = localStorage.getItem('sentinel_subtab') || 'cc';
+            _activeView = localStorage.getItem('sentinel_view') || 'diana';
+        } catch(e) {}
+    }
 
-    window.sentinelViewTab = function(tab) {
-        // Verify the target pane exists; fall back to 'diana' if not.
-        var pane = document.getElementById('sentinel-pane-' + tab);
-        if (!pane) { tab = 'diana'; }
-        _lastViewTab = tab;
-        try { localStorage.setItem('sentinel_view_tab', tab); } catch(e) {}
-        var btns = document.querySelectorAll('.sn-view-tab');
-        btns.forEach(function(t) {
-            var btnTab = t.getAttribute('data-tab');
-            t.classList.toggle('active', btnTab === tab);
-        });
+    function showPane(paneId) {
         document.querySelectorAll('.sn-view-pane').forEach(function(p) { p.classList.remove('active'); });
         document.querySelectorAll('.sentinel-panel').forEach(function(p) { p.classList.remove('active'); });
-        var pane = document.getElementById('sentinel-pane-' + tab);
+        var pane = document.getElementById(paneId);
         if (pane) { pane.classList.add('active'); }
-        // Highlight the active group + background tint.
-        var isSpecific = (tab === 'subject-diana' || tab === 'subject-grid');
-        document.querySelectorAll('.sn-tab-group').forEach(function(g) {
-            g.classList.remove('sn-group-active-key', 'sn-group-active-specific');
-            if (g.dataset.group === 'key' && !isSpecific) {
-                g.classList.add('sn-group-active-key');
-            } else if (g.dataset.group === 'specific' && isSpecific) {
-                g.classList.add('sn-group-active-specific');
-            }
+    }
+
+    function resolvePane() {
+        if (_activeMacro === 'global') {
+            if (_activeSubtab === 'objetivos') return 'sentinel-pane-objetivos';
+            if (_activeSubtab === 'transversales') return 'sentinel-pane-transversales';
+            return _activeView === 'cards' ? 'sentinel-pane-grid' : 'sentinel-pane-diana';
+        } else {
+            if (_activeSubtab === 'contenidos') return 'sentinel-pane-contenidos';
+            if (_activeSubtab === 'calificaciones') return 'sentinel-pane-calificaciones';
+            if (_activeSubtab === 'dua') return 'sentinel-pane-dua';
+            return _activeView === 'cards' ? 'sentinel-pane-subject-grid' : 'sentinel-pane-subject-diana';
+        }
+    }
+
+    function syncUI() {
+        var scrollY = window.pageYOffset || document.documentElement.scrollTop;
+        try {
+            var saved = sessionStorage.getItem('sn_scroll');
+            if (saved !== null) { scrollY = parseInt(saved, 10); sessionStorage.removeItem('sn_scroll'); }
+        } catch(e) {}
+        var paneId = resolvePane();
+        showPane(paneId);
+
+        // Macro tabs.
+        document.querySelectorAll('.sn-macro-tab').forEach(function(t) {
+            t.classList.toggle('active', t.dataset.macro === _activeMacro);
         });
+
+        // Sub-navs.
+        var globalNav = document.getElementById('sn-subnav-global');
+        var subjectNav = document.getElementById('sn-subnav-subject');
+        if (globalNav) globalNav.style.display = _activeMacro === 'global' ? '' : 'none';
+        if (subjectNav) subjectNav.style.display = _activeMacro === 'subject' ? '' : 'none';
+
+        // Subtabs.
+        document.querySelectorAll('.sn-subtab').forEach(function(t) {
+            t.classList.toggle('active', t.dataset.subtab === _activeSubtab);
+        });
+
+        // View toggles visibility.
+        var toggleCC = document.getElementById('sn-toggle-cc');
+        var toggleCE = document.getElementById('sn-toggle-ce');
+        if (toggleCC) toggleCC.style.display = (_activeMacro === 'global' && _activeSubtab === 'cc') ? '' : 'none';
+        if (toggleCE) toggleCE.style.display = (_activeMacro === 'subject' && _activeSubtab === 'ce') ? '' : 'none';
+
+        // Toggle buttons.
+        document.querySelectorAll('.sn-toggle-btn').forEach(function(t) {
+            t.classList.toggle('active', t.dataset.view === _activeView);
+        });
+
+        // Background tint.
         var report = document.querySelector('.sentinel-report');
         if (report) {
             report.classList.remove('sn-bg-key', 'sn-bg-specific');
-            report.classList.add(isSpecific ? 'sn-bg-specific' : 'sn-bg-key');
+            report.classList.add(_activeMacro === 'subject' ? 'sn-bg-specific' : 'sn-bg-key');
         }
-        // Restore L1 panels for the grid tabs.
-        if (tab === 'grid') {
+
+
+        // Restore L1 panels.
+        if (paneId === 'sentinel-pane-grid') {
             var l1 = document.getElementById('sentinel-l1');
-            if (l1) { l1.classList.add('active'); }
+            if (l1) l1.classList.add('active');
         }
-        if (tab === 'subject-grid') {
+        if (paneId === 'sentinel-pane-subject-grid') {
             var ceL1 = document.getElementById('sentinel-ce-l1');
-            if (ceL1) { ceL1.classList.add('active'); }
+            if (ceL1) ceL1.classList.add('active');
         }
-        if (tab === 'diana' && window.sentinelRedrawRadar) {
+        if (paneId === 'sentinel-pane-diana' && window.sentinelRedrawRadar) {
             setTimeout(window.sentinelRedrawRadar, 50);
         }
-        if (tab === 'subject-diana' && window.sentinelDrawSubjectRadar) {
+        if (paneId === 'sentinel-pane-subject-diana' && window.sentinelDrawSubjectRadar) {
             setTimeout(window.sentinelDrawSubjectRadar, 50);
         }
+        if (paneId === 'sentinel-pane-contenidos' && window.sentinelDrawNordicDiana) {
+            setTimeout(window.sentinelDrawNordicDiana, 50);
+        }
+
+        // Update _lastViewTab for drill-down back navigation.
+        if (paneId === 'sentinel-pane-diana') _lastViewTab = 'diana';
+        else if (paneId === 'sentinel-pane-grid') _lastViewTab = 'grid';
+        else if (paneId === 'sentinel-pane-subject-diana') _lastViewTab = 'subject-diana';
+        else if (paneId === 'sentinel-pane-subject-grid') _lastViewTab = 'subject-grid';
+
+        try {
+            localStorage.setItem('sentinel_macro', _activeMacro);
+            localStorage.setItem('sentinel_subtab', _activeSubtab);
+            localStorage.setItem('sentinel_view', _activeView);
+        } catch(e) {}
+
         bcRestore();
+        window.scrollTo(0, scrollY);
+    }
+
+    window.sentinelMacro = function(macro) {
+        _activeMacro = macro;
+        if (macro === 'global') {
+            if (!['objetivos', 'cc', 'transversales'].includes(_activeSubtab)) _activeSubtab = 'cc';
+        } else {
+            if (!['ce', 'contenidos', 'calificaciones', 'dua'].includes(_activeSubtab)) _activeSubtab = 'ce';
+        }
+        syncUI();
+    };
+
+    window.sentinelSubtab = function(subtab) {
+        var prev = _activeSubtab;
+        _activeSubtab = subtab;
+
+        // Sync hist panel state BEFORE pane swap so it doesn't flash.
+        if ((subtab === 'contenidos' && prev === 'ce') || (subtab === 'ce' && prev === 'contenidos')) {
+            var ceWrap = document.querySelector('#sentinel-pane-subject-diana .sn-nordic-wrap');
+            var cntWrap = document.querySelector('#sentinel-pane-contenidos .sn-nordic-wrap');
+            if (ceWrap && cntWrap) {
+                var src = subtab === 'contenidos' ? ceWrap : cntWrap;
+                var dst = subtab === 'contenidos' ? cntWrap : ceWrap;
+                dst.classList.toggle('hist-closed', src.classList.contains('hist-closed'));
+            }
+            var globalWrap = document.getElementById('sn-global-diana-wrap');
+            if (globalWrap && ceWrap) {
+                globalWrap.classList.toggle('hist-closed', ceWrap.classList.contains('hist-closed'));
+            }
+            var cutoff = window._sentinelActiveCutoff || 0;
+            var targetPane = subtab === 'contenidos' ? '#sentinel-pane-contenidos' : '#sentinel-pane-subject-diana';
+            var list = document.querySelector(targetPane + ' .sn-nordic-hist-list');
+            if (list) {
+                list.querySelectorAll('.sn-nordic-hist-item').forEach(function(el) {
+                    el.classList.toggle('active', parseInt(el.dataset.cutoff || '0') === cutoff);
+                });
+            }
+        }
+
+        syncUI();
+
+        var cutoff = window._sentinelActiveCutoff || 0;
+        if (subtab === 'contenidos' && prev === 'ce') {
+            if (window.sentinelSwitchCntPeriod) { window.sentinelSwitchCntPeriod(cutoff); }
+        } else if (subtab === 'ce' && prev === 'contenidos') {
+            if (window.sentinelSwitchCePeriod) { window.sentinelSwitchCePeriod(cutoff); }
+        }
+    };
+
+    window.sentinelToggleView = function(view) {
+        _activeView = view;
+        syncUI();
+    };
+
+    window.sentinelToggleHist = function(btn) {
+        var globalWrap = document.getElementById('sn-global-diana-wrap');
+        var ceWrap = document.querySelector('#sentinel-pane-subject-diana .sn-nordic-wrap');
+        var cntWrap = document.querySelector('#sentinel-pane-contenidos .sn-nordic-wrap');
+        var wrap = btn.closest('.sn-nordic-wrap');
+        if (wrap) { wrap.classList.toggle('hist-closed'); }
+        var closed = wrap ? wrap.classList.contains('hist-closed') : false;
+        if (globalWrap && globalWrap !== wrap) { globalWrap.classList.toggle('hist-closed', closed); }
+        if (ceWrap && ceWrap !== wrap) { ceWrap.classList.toggle('hist-closed', closed); }
+        if (cntWrap && cntWrap !== wrap) { cntWrap.classList.toggle('hist-closed', closed); }
+        window._nordicDrawn = false;
+        setTimeout(function() {
+            window._nordicDrawn = false;
+            if (window.sentinelDrawNordicDiana) { window.sentinelDrawNordicDiana(); }
+            var S = window._ceRadarState;
+            if (S && S.chart) { S.chart.resize(); }
+            var globalChart = window._globalRadarChart;
+            if (globalChart) { globalChart.resize(); }
+        }, 320);
+    };
+
+    // Keep backward compat for legacy sentinelViewTab calls from drill-down panels.
+    window.sentinelViewTab = function(tab) {
+        if (tab === 'diana' || tab === 'grid') {
+            _activeMacro = 'global'; _activeSubtab = 'cc';
+            _activeView = tab === 'grid' ? 'cards' : 'diana';
+        } else if (tab === 'subject-diana' || tab === 'subject-grid') {
+            _activeMacro = 'subject'; _activeSubtab = 'ce';
+            _activeView = tab === 'subject-grid' ? 'cards' : 'diana';
+        }
+        syncUI();
     };
 
     function highlightGroup(group) {
-        document.querySelectorAll('.sn-tab-group').forEach(function(g) {
-            g.classList.remove('sn-group-active-key', 'sn-group-active-specific');
-            if (g.dataset.group === 'key' && group === 'key') {
-                g.classList.add('sn-group-active-key');
-            } else if (g.dataset.group === 'specific' && group === 'specific') {
-                g.classList.add('sn-group-active-specific');
-            }
-        });
+        // Now handled by syncUI.
     }
 
     window.sentinelShowArea = function(areaCode) {
         hideAll();
-        highlightGroup('key');
         var panel = document.getElementById('sentinel-l2-' + areaCode);
         if (panel) {
             var back = panel.querySelector('.sn-back-link');
             if (back) {
-                back.textContent = _lastViewTab === 'diana'
-                    ? '← Volver a Competencias Clave (Diana)' : '← Volver a Competencias Clave (Tarjetas)';
+                back.textContent = _activeView === 'cards'
+                    ? '← Volver a Competencias Clave (Tarjetas)' : '← Volver a Competencias Clave (Diana)';
             }
             panel.classList.add('active');
             panel.scrollIntoView({behavior: 'smooth', block: 'start'});
@@ -211,7 +356,6 @@ define([], function() {
 
     window.sentinelShowDescriptor = function(descCode) {
         hideAll();
-        highlightGroup('key');
         var panel = document.getElementById('sentinel-l3-' + descCode);
         if (panel) {
             panel.classList.add('active');
@@ -256,13 +400,12 @@ define([], function() {
 
     window.sentinelShowCE = function(ceIdx) {
         hideAll();
-        highlightGroup('specific');
         var panel = document.getElementById('sentinel-ce-l2-' + ceIdx);
         if (panel) {
             var back = panel.querySelector('.sn-back-link');
             if (back) {
-                back.textContent = _lastViewTab === 'subject-diana'
-                    ? '← Volver a Competencias Específicas (Diana)' : '← Volver a Competencias Específicas (Tarjetas)';
+                back.textContent = _activeView === 'cards'
+                    ? '← Volver a Competencias Específicas (Tarjetas)' : '← Volver a Competencias Específicas (Diana)';
             }
             panel.classList.add('active');
             panel.scrollIntoView({behavior: 'smooth', block: 'start'});
@@ -280,7 +423,6 @@ define([], function() {
 
     window.sentinelShowCECrit = function(ceIdx, critIdx) {
         hideAll();
-        highlightGroup('specific');
         var panel = document.getElementById('sentinel-ce-l3-' + ceIdx + '-' + critIdx);
         if (panel) {
             panel.classList.add('active');
@@ -320,7 +462,14 @@ define([], function() {
             }
             initBreadcrumb();
 
-            sentinelViewTab(_lastViewTab);
+            // Validate saved state.
+            if (!document.getElementById('sn-subnav-subject') && _activeMacro === 'subject') {
+                _activeMacro = 'global'; _activeSubtab = 'cc';
+            }
+            if (_activeSubtab === 'transversales' && !document.getElementById('sentinel-pane-transversales')) {
+                _activeSubtab = 'cc';
+            }
+            syncUI();
 
             // Keyboard: Enter/Space activa tarjetas.
             var sel = '.sentinel-area-card, .sentinel-desc-card:not(.sentinel-desc-unworked), .sn-ce-card, [data-descriptor]';

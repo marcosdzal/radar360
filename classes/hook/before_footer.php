@@ -61,87 +61,107 @@ class before_footer {
             self::inject_drawer_persist($hook);
         }
 
-        // ── Gradebook setup/settings: inject Sentinel buttons ────────
-        if (str_ends_with($path, '/grade/edit/tree/index.php') ||
-            str_ends_with($path, '/grade/edit/settings/index.php')) {
-            // Curriculum selector button (green, first).
-            $gradebook_courseid = optional_param('id', 0, PARAM_INT);
-            if ($gradebook_courseid && has_capability('local/sentinel:managedescriptors',
-                    \context_course::instance($gradebook_courseid))) {
-                self::inject_curriculum_selector($hook, $gradebook_courseid);
+        // ── Global: add "Radar 360°" to the user dropdown menu ─────────────
+        self::inject_usermenu_link();
 
+        // ── Inject submenu grouping for Sentinel items in "Más" dropdown ────
+        if (!empty($COURSE->id) && $COURSE->id != SITEID) {
+            $sub_items = [];
+            $sub_items[] = [
+                'label' => get_string('curriculum:title', 'local_sentinel'),
+                'url'   => (new \moodle_url('/local/sentinel/curriculum_config.php', ['courseid' => $COURSE->id]))->out(false),
+            ];
+            $sub_items[] = [
+                'label' => get_string('desgrane:title', 'local_sentinel'),
+                'url'   => (new \moodle_url('/local/sentinel/desgrane.php', ['courseid' => $COURSE->id]))->out(false),
+            ];
+            $sub_items[] = [
+                'label' => get_string('mapdesc:navlink', 'local_sentinel'),
+                'url'   => (new \moodle_url('/local/sentinel/admin/map_descriptors.php', ['courseid' => $COURSE->id]))->out(false),
+            ];
+            $cctx = \context_course::instance($COURSE->id);
+            if (has_capability('local/sentinel:communicate', $cctx)
+                || has_capability('local/sentinel:communicate', \context_system::instance())) {
+                $sub_items[] = [
+                    'label' => get_string('periods:navlink', 'local_sentinel'),
+                    'url'   => (new \moodle_url('/local/sentinel/admin/periods.php'))->out(false),
+                ];
             }
-
-            // Descriptors mapping button (blue, second).
-            if ($gradebook_courseid && has_capability('local/sentinel:managedescriptors',
-                    \context_course::instance($gradebook_courseid))) {
-                $url  = (new \moodle_url('/local/sentinel/admin/map_descriptors.php'))->out(false);
-                $js_url   = json_encode($url);
-                $js = <<<JS
-(function() {
+            if (has_capability('moodle/site:config', \context_system::instance())) {
+                $sub_items[] = [
+                    'label' => get_string('sample:config_navlink', 'local_sentinel'),
+                    'url'   => (new \moodle_url('/local/sentinel/admin/sample_config.php'))->out(false),
+                ];
+            }
+            $js_items = json_encode($sub_items);
+            $js_report_url = json_encode(
+                (new \moodle_url('/local/sentinel/course_report.php', ['courseid' => $COURSE->id]))->out(false)
+            );
+            $js = <<<JS
+(function(){
     'use strict';
-    var btn = document.createElement('a');
-    btn.href = {$js_url};
-    btn.innerHTML = '<span style="display:flex;flex-direction:column;line-height:1.3">'
-        + '<span style="font-weight:700">Criterios CE ↔ Descriptores operativos</span>'
-        + '<span style="font-size:.85em;font-weight:400;opacity:.7">Vinculación con el perfil de salida (LOMLOE)</span>'
-        + '</span>';
-    btn.style.cssText = [
-        'display:inline-flex;align-items:center;gap:6px',
-        'padding:6px 14px',
-        'background:#eff6ff;color:#1e40af',
-        'border:1px solid #bfdbfe;border-radius:8px',
-        'font-size:.8em;font-weight:600',
-        'text-decoration:none',
-        'box-shadow:0 1px 3px rgba(0,0,0,.06)',
-        'transition:all 0.2s',
-    ].join(';');
-    btn.title = 'Establece qué descriptores operativos del perfil de salida trabaja cada criterio de evaluación, conectando las competencias específicas de la materia con las competencias clave de la LOMLOE';
-    btn.onmouseenter = function() {
-        btn.style.background = '#dbeafe';
-        btn.style.borderColor = '#93c5fd';
-        btn.style.transform = 'translateY(-1px)';
-        btn.style.boxShadow = '0 3px 8px rgba(0,0,0,.1)';
-    };
-    btn.onmouseleave = function() {
-        btn.style.background = '#eff6ff';
-        btn.style.borderColor = '#bfdbfe';
-        btn.style.transform = '';
-        btn.style.boxShadow = '0 1px 3px rgba(0,0,0,.06)';
-    };
+    function enhance() {
+        var menus = document.querySelectorAll('.moremenu .dropdown-menu, [data-region="moremenu"] .dropdown-menu');
+        menus.forEach(function(menu) {
+            var items = menu.querySelectorAll(':scope > .dropdown-item, :scope > li > .dropdown-item');
+            items.forEach(function(link) {
+                if (!link.href || link.href.indexOf('course_report.php') === -1) return;
+                if (link.dataset.sentinelEnhanced) return;
+                link.dataset.sentinelEnhanced = '1';
 
-    var inject = function() {
-        var header = document.querySelector('.page-context-header') ||
-                     document.querySelector('[data-region="page-header"]') ||
-                     document.querySelector('#page-header');
-        if (!header) { return; }
-        var existing = document.getElementById('sentinel-map-btn');
-        if (existing) { return; }
-        btn.id = 'sentinel-map-btn';
-        var h1 = header.querySelector('h1') || header.querySelector('.h1');
-        if (h1) {
-            var wrap = document.getElementById('sentinel-btn-wrap');
-            if (!wrap) {
-                wrap = document.createElement('div');
-                wrap.id = 'sentinel-btn-wrap';
-                wrap.style.cssText = 'display:flex;flex-wrap:wrap;gap:8px;margin-top:8px';
-                h1.parentNode.insertBefore(wrap, h1.nextSibling);
-            }
-            wrap.appendChild(btn);
-        } else {
-            header.appendChild(btn);
-        }
-    };
+                var li = link.closest('li') || link.parentElement;
+                li.style.position = 'relative';
 
-    if (document.readyState === 'loading') {
-        document.addEventListener('DOMContentLoaded', inject);
-    } else {
-        inject();
+                var arrow = document.createElement('span');
+                arrow.textContent = ' ▸';
+                arrow.style.cssText = 'font-size:.7em;opacity:.5;margin-left:4px';
+                link.appendChild(arrow);
+
+                var sub = document.createElement('div');
+                sub.className = 'sentinel-moremenu-sub';
+                sub.style.cssText = [
+                    'display:none;position:absolute;left:100%;top:-4px;min-width:220px',
+                    'background:#fff;border:1px solid #dee2e6;border-radius:8px',
+                    'box-shadow:0 4px 16px rgba(0,0,0,.12);padding:6px 0;z-index:1060'
+                ].join(';');
+
+                var subItems = {$js_items};
+                subItems.forEach(function(si) {
+                    var a = document.createElement('a');
+                    a.href = si.url;
+                    a.textContent = si.label;
+                    a.className = 'dropdown-item';
+                    a.style.cssText = 'font-size:.85em;padding:6px 16px;white-space:nowrap;color:#212529;text-decoration:none;display:block';
+                    a.addEventListener('mouseenter', function(){ a.style.background='#f1f3f5'; });
+                    a.addEventListener('mouseleave', function(){ a.style.background=''; });
+                    sub.appendChild(a);
+                });
+
+                li.appendChild(sub);
+
+                var showTimer, hideTimer;
+                function showSub() { clearTimeout(hideTimer); sub.style.display = 'block'; }
+                function hideSub() { hideTimer = setTimeout(function(){ sub.style.display = 'none'; }, 200); }
+                li.addEventListener('mouseenter', showSub);
+                li.addEventListener('mouseleave', hideSub);
+                sub.addEventListener('mouseenter', showSub);
+                sub.addEventListener('mouseleave', hideSub);
+            });
+        });
     }
+    if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', enhance);
+    else enhance();
+    // Re-run after Moodle finishes rendering the moremenu (it may be lazy).
+    setTimeout(enhance, 500);
+    setTimeout(enhance, 1500);
 })();
 JS;
-                $PAGE->requires->js_amd_inline($js);
-            }
+            $PAGE->requires->js_amd_inline($js);
+        }
+
+        // ── Gradebook setup/settings: no buttons here (accessible from Más).
+        if (str_ends_with($path, '/grade/edit/tree/index.php') ||
+            str_ends_with($path, '/grade/edit/settings/index.php')) {
             return;
         }
 
@@ -242,24 +262,6 @@ JS;
                     self::inject_grader_report_click_to_grade($hook, $item_to_cmid, $grader_url, $courseid);
                 }
             }
-            // Communication button: available to users with the communicate capability.
-            if ($courseid && has_capability('local/sentinel:communicate', \context_course::instance($courseid))) {
-                // Count existing periods for this course to propose the next ordinal label.
-                $period_count = $DB->count_records_select(
-                    'local_sentinel_period',
-                    'courseid = :cid OR courseid = 0',
-                    ['cid' => $courseid]
-                );
-                $ordinals = ['1ª', '2ª', '3ª', '4ª', '5ª', '6ª'];
-                $default_label = ($ordinals[$period_count] ?? (($period_count + 1) . 'ª')) . ' Evaluación';
-                self::inject_grader_communication_button(
-                    $hook,
-                    $courseid,
-                    (new \moodle_url('/local/sentinel/ajax.php'))->out(false),
-                    sesskey(),
-                    $default_label
-                );
-            }
             return;
         }
 
@@ -267,7 +269,10 @@ JS;
         // /user/view.php (course context) and /user/profile.php (global profile).
         if (str_ends_with($path, '/user/view.php') || str_ends_with($path, '/user/profile.php')) {
             $userid = optional_param('id', 0, PARAM_INT);
-            if ($userid && $cfg->photos) { self::inject_profile_photo($userid); }
+            if (!$userid && str_ends_with($path, '/user/profile.php')) {
+                $userid = (int)$USER->id;
+            }
+            if ($userid) { self::inject_profile_photo($userid); }
             return;
         }
 
@@ -361,6 +366,10 @@ JS;
             if ($cfg->rubriccolors) {
                 self::inject_rubric_colors($hook);
             }
+
+            // ── Student self-assessment panel on assignment view ─────────────
+            self::inject_student_selfeval($hook);
+
             // Fall through — the grading page may also have a rubric.
         }
 
@@ -369,6 +378,11 @@ JS;
             str_ends_with($path, '/grade/edit/tree/item.php') ||
             str_ends_with($path, '/grade/edit/tree/category.php')) {
             self::inject_category_dropdown_filter($hook);
+        }
+
+        // ── Selfeval checkbox on assign edit form ───────────────────────────
+        if (str_ends_with($path, '/course/modedit.php')) {
+            self::inject_selfeval_checkbox();
         }
 
         // ── Diana de evaluación (radar chart) on student_report.php ─────────
@@ -1621,12 +1635,8 @@ JS;
     private static function inject_profile_photo(int $userid): void {
         global $PAGE, $DB, $USER, $COURSE;
 
-        // Students viewing their own profile see no Sentinel photo widget at all.
         $canmanage = ($USER->id !== $userid)
             && has_capability('local/sentinel:managephotos', \context_system::instance());
-        if ($USER->id === $userid && !$canmanage) {
-            return;
-        }
 
         $photo_record = $DB->get_record('local_sentinel_student_photo', ['studentid' => $userid]);
         $photo_url = $photo_record
@@ -1634,7 +1644,6 @@ JS;
             : null;
 
         $upload_url = $canmanage ? (new \moodle_url('/local/sentinel/photo.php'))->out(false) : null;
-        $grade_badge = self::get_grade_badge($userid, $PAGE->course->id);
 
         $photo_strings = [
             'delphoto'    => get_string('photo:delete',       'local_sentinel'),
@@ -1648,7 +1657,7 @@ JS;
         }
         $report_url = (new \moodle_url('/local/sentinel/student_report.php', $rparams))->out(false);
         $PAGE->requires->js_call_amd('local_sentinel/student_photo', 'initUserProfile', [
-            $userid, $photo_url, $upload_url, sesskey(), $grade_badge, $photo_strings, $mini_radar, $report_url,
+            $userid, $photo_url, $upload_url, sesskey(), null, $photo_strings, $mini_radar, $report_url,
         ]);
     }
 
@@ -1939,6 +1948,33 @@ JS;
      * Keeps the left navigation drawer in its user-chosen state (open/closed)
      * regardless of scroll or theme-driven auto-hide behaviour.
      */
+    private static function inject_usermenu_link(): void {
+        global $PAGE, $USER;
+
+        $iscurrentuser = isloggedin() && !isguestuser();
+        if (!$iscurrentuser) {
+            return;
+        }
+        $report_url = (new \moodle_url('/local/sentinel/student_report.php', [
+            'userid' => $USER->id,
+        ]))->out(false);
+        $label = get_string('report:title', 'local_sentinel');
+        $PAGE->requires->js_amd_inline("
+            require([], function() {
+                var menu = document.querySelector('.usermenu .dropdown-menu');
+                if (!menu || menu.querySelector('.sentinel-usermenu-link')) return;
+                var ref = menu.querySelector('a[href*=\"/user/profile.php\"], a[data-identifier=\"profile\"]');
+                if (!ref) { ref = menu.querySelector('.dropdown-item'); }
+                if (!ref) return;
+                var li = document.createElement('a');
+                li.className = ref.className + ' sentinel-usermenu-link';
+                li.href = " . json_encode($report_url) . ";
+                li.textContent = " . json_encode($label) . ";
+                ref.parentNode.insertBefore(li, ref.nextSibling);
+            });
+        ");
+    }
+
     private static function inject_drawer_persist(
         \core\hook\output\before_footer_html_generation $hook
     ): void {
@@ -2377,6 +2413,27 @@ JS;
         $js = <<<'JS'
 (function() {
     "use strict";
+
+    var tickLabelsPlugin = {
+        id: "tickLabels",
+        afterDraw: function(chart) {
+            var r = chart.scales.r;
+            if (!r) return;
+            var ctx = chart.ctx;
+            ctx.save();
+            ctx.font = "10px -apple-system, BlinkMacSystemFont, sans-serif";
+            ctx.textAlign = "right";
+            ctx.textBaseline = "middle";
+            var color = chart.options._tickColor || "#d1d5db";
+            ctx.fillStyle = color;
+            for (var v = 2; v <= 10; v += 2) {
+                var dist = r.getDistanceFromCenterForValue(v);
+                ctx.fillText(v.toString(), r.xCenter - 6, r.yCenter - dist);
+            }
+            ctx.restore();
+        }
+    };
+
     var canvas = document.getElementById("sentinel-radar");
     if (!canvas || !canvas.dataset.radar) return;
     var d = JSON.parse(canvas.dataset.radar);
@@ -2419,6 +2476,28 @@ JS;
             pointStyle: "circle",
             fill: true
         });
+        var annualDsIdx = datasets.length - 1;
+
+        // DUA self-assessment dotted overlay.
+        var selfeval = d.selfeval || [];
+        var hasSelfeval = selfeval.some(function(v) { return v !== null && v > 0; });
+        if (hasSelfeval) {
+            var seData = selfeval.map(function(v) { return v !== null ? v : 0; });
+            datasets.push({
+                label: "Autoevaluación (DUA)",
+                data: seData,
+                borderColor: "#94a3b8",
+                backgroundColor: "#94a3b808",
+                borderWidth: 2,
+                borderDash: [4, 4],
+                pointRadius: 3,
+                pointBackgroundColor: "#94a3b8",
+                pointBorderColor: "#fff",
+                pointBorderWidth: 1.5,
+                pointStyle: "circle",
+                fill: true
+            });
+        }
 
         var courseOcc = d.courseOcc || [];
 
@@ -2436,7 +2515,7 @@ JS;
             beforeDatasetsDraw: function(chart) {
                 var sc = chart.scales.r;
                 if (!sc) return;
-                var annualIdx = datasets.length - 1;
+                var annualIdx = annualDsIdx;
                 if (!chart.isDatasetVisible(annualIdx)) return;
                 var ctx = chart.ctx;
                 var n = datasets[annualIdx].data.length;
@@ -2473,7 +2552,7 @@ JS;
             afterDatasetsDraw: function(chart) {
                 var sc = chart.scales.r;
                 if (!sc) return;
-                var annualIdx = datasets.length - 1;
+                var annualIdx = annualDsIdx;
                 if (!chart.isDatasetVisible(annualIdx)) return;
                 var ctx = chart.ctx;
                 var tc = d.totalCourses || 0;
@@ -2532,7 +2611,7 @@ JS;
                 if (!r) return;
                 var n = d.labels.length;
                 var tc = d.totalCourses || 0;
-                var annualIdx = datasets.length - 1;
+                var annualIdx = annualDsIdx;
                 var visible = chart.isDatasetVisible(annualIdx);
 
                 if (!this._overlay) {
@@ -2569,6 +2648,9 @@ JS;
                             var lc2 = lgc[i] || "#6b7280";
                             info += '<div><span style="font-weight:700;color:' + lc2 + '">Global: ' + lomloeVal.toFixed(1) + '</span> <span style="color:#b0b5be">(' + (wk[i] || 0) + '/' + (td[i] || 0) + ' desc.)</span></div>';
                         }
+                        if (hasSelfeval && selfeval[i] !== null && selfeval[i] > 0) {
+                            info += '<div><span style="font-weight:700;color:#6b7280">Autoeval: ' + selfeval[i].toFixed(1) + '</span> <span style="opacity:.5">(DUA)</span></div>';
+                        }
                         info += '<div>' + (td[i] || 0) + ' descriptores</div>';
                         if (occ[i]) {
                             var occMatLine = occ[i] + (occ[i] === 1 ? ' ocasión' : ' ocasiones');
@@ -2586,10 +2668,11 @@ JS;
                 this._overlay.style.display = visible ? "" : "none";
                 if (!visible) return;
 
+                var outerR = r.getDistanceFromCenterForValue(r.max) + 52;
                 for (var i = 0; i < n; i++) {
-                    var pos = r.getPointLabelPosition(i);
-                    this._els[i].style.left = pos.left + "px";
-                    this._els[i].style.top = pos.top + "px";
+                    var angle = r.getIndexAngle(i) - Math.PI / 2;
+                    this._els[i].style.left = (r.xCenter + Math.cos(angle) * outerR) + "px";
+                    this._els[i].style.top = (r.yCenter + Math.sin(angle) * outerR) + "px";
                 }
             }
         };
@@ -2597,17 +2680,18 @@ JS;
         var chartInst = new Chart(canvas, {
             type: "radar",
             data: { labels: d.labels.map(function() { return ""; }), datasets: datasets },
-            plugins: [sectorsPlugin, ringsPlugin, cardsPlugin],
+            plugins: [tickLabelsPlugin, sectorsPlugin, ringsPlugin, cardsPlugin],
             options: {
                 responsive: true,
                 maintainAspectRatio: true,
+                aspectRatio: 1,
                 devicePixelRatio: Math.max(window.devicePixelRatio || 1, 2),
-                layout: { padding: { top: 52, bottom: 52, left: 52, right: 52 } },
+                layout: { padding: { top: 70, bottom: 70, left: 70, right: 70 } },
                 scales: {
                     r: {
                         min: 0, max: 10,
-                        ticks: { stepSize: 2, backdropColor: "transparent", font: { size: 10 }, color: "#d1d5db" },
-                        pointLabels: { display: true, font: { size: 1 }, color: "transparent", padding: 56 },
+                        ticks: { display: false },
+                        pointLabels: { display: false },
                         grid: { color: "#e5e7eb" },
                         angleLines: { color: "#e5e7eb" }
                     }
@@ -2624,6 +2708,7 @@ JS;
             }
         });
 
+        window._globalRadarChart = chartInst;
         var ch = Chart.getChart(canvas);
         var legBox = document.getElementById("sentinel-radar-legend");
         if (ch && legBox && ch.data.datasets.length > 1) {
@@ -2668,13 +2753,14 @@ JS;
                 var r = ch.scales.r;
                 if (!r) return;
                 var rect = canvas.getBoundingClientRect();
-                var cx = e.clientX - rect.left;
-                var cy = e.clientY - rect.top;
+                var mx = e.clientX - rect.left;
+                var my = e.clientY - rect.top;
+                var outerR2 = r.getDistanceFromCenterForValue(r.max) + 52;
                 for (var i = 0; i < codes.length; i++) {
-                    var lp = r.getPointLabelPosition(i);
-                    var dx = cx - lp.left;
-                    var dy = cy - lp.top;
-                    if (Math.abs(dx) < 50 && Math.abs(dy) < 35) {
+                    var ang = r.getIndexAngle(i) - Math.PI / 2;
+                    var lx = r.xCenter + Math.cos(ang) * outerR2;
+                    var ly = r.yCenter + Math.sin(ang) * outerR2;
+                    if (Math.abs(mx - lx) < 50 && Math.abs(my - ly) < 35) {
                         window.sentinelShowArea(codes[i]);
                         return;
                     }
@@ -2684,7 +2770,7 @@ JS;
         // Animate from center: update data to real values after creation.
         setTimeout(function() {
             var ds = chartInst.data.datasets;
-            ds[ds.length - 1].data = annualReal;
+            ds[annualDsIdx].data = annualReal;
             chartInst.update();
         }, 80);
 
@@ -2927,6 +3013,9 @@ JS;
                         if (grade !== null && partial) {
                             info += '<div><span style="font-weight:700;color:' + gc + '">Global: ' + gradeText + '</span> <span style="color:#b0b5be">(' + critW + '/' + critT + ' crit.)</span></div>';
                         }
+                        if (sHasSe && sSelfeval[i] !== null && sSelfeval[i] > 0) {
+                            info += '<div><span style="font-weight:700;color:#6b7280">Autoeval: ' + sSelfeval[i].toFixed(1) + '</span> <span style="opacity:.5">(DUA)</span></div>';
+                        }
                         info += '<div>' + critT + (critT === 1 ? ' criterio' : ' criterios') + '</div>';
                         if (oc[i]) {
                             var occLine = oc[i] + (oc[i] === 1 ? ' ocasión' : ' ocasiones');
@@ -2941,43 +3030,67 @@ JS;
                     }
                 }
 
+                var outerR = r.getDistanceFromCenterForValue(r.max) + 52;
                 for (var i = 0; i < n; i++) {
-                    var pos = r.getPointLabelPosition(i);
-                    this._els[i].style.left = pos.left + "px";
-                    this._els[i].style.top = pos.top + "px";
+                    var angle = r.getIndexAngle(i) - Math.PI / 2;
+                    this._els[i].style.left = (r.xCenter + Math.cos(angle) * outerR) + "px";
+                    this._els[i].style.top = (r.yCenter + Math.sin(angle) * outerR) + "px";
                 }
             }
         };
+
+        var subjDatasets = [{
+            label: s.courseName || "Materia",
+            data: vals.map(function() { return 0; }),
+            borderColor: "#f59e0b",
+            backgroundColor: "#f59e0b15",
+            borderWidth: 2.5,
+            pointRadius: vals.map(function(v) { return v > 0 ? 6 : 3; }),
+            pointHoverRadius: vals.map(function(v) { return v > 0 ? 8 : 5; }),
+            pointBackgroundColor: s.colors,
+            pointBorderColor: "#fff",
+            pointBorderWidth: 2,
+            fill: true
+        }];
+
+        // DUA self-assessment dotted overlay on subject radar.
+        var sSelfeval = s.selfeval || [];
+        var sHasSe = sSelfeval.some(function(v) { return v !== null && v > 0; });
+        if (sHasSe) {
+            subjDatasets.push({
+                label: "Autoevaluación (DUA)",
+                data: sSelfeval.map(function(v) { return v !== null ? v : 0; }),
+                borderColor: "#f59e0b",
+                backgroundColor: "#f59e0b08",
+                borderWidth: 2,
+                borderDash: [4, 4],
+                pointRadius: 3,
+                pointBackgroundColor: "#f59e0b",
+                pointBorderColor: "#fff",
+                pointBorderWidth: 1.5,
+                fill: true
+            });
+        }
 
         var chartInst = new Chart(canvas, {
             type: "radar",
             data: {
                 labels: shortLabels.map(function() { return ""; }),
-                datasets: [{
-                    label: s.courseName || "Materia",
-                    data: vals.map(function() { return 0; }),
-                    borderColor: "#f59e0b",
-                    backgroundColor: "#f59e0b15",
-                    borderWidth: 2.5,
-                    pointRadius: vals.map(function(v) { return v > 0 ? 6 : 3; }),
-                    pointHoverRadius: vals.map(function(v) { return v > 0 ? 8 : 5; }),
-                    pointBackgroundColor: s.colors,
-                    pointBorderColor: "#fff",
-                    pointBorderWidth: 2,
-                    fill: true
-                }]
+                datasets: subjDatasets
             },
-            plugins: [subjectSectorsPlugin, subjectCardsPlugin],
+            plugins: [tickLabelsPlugin, subjectSectorsPlugin, subjectCardsPlugin],
             options: {
+                _tickColor: "#d4a574",
                 responsive: true,
                 maintainAspectRatio: true,
+                aspectRatio: 1,
                 devicePixelRatio: Math.max(window.devicePixelRatio || 1, 2),
-                layout: { padding: { top: 48, bottom: 48, left: 48, right: 48 } },
+                layout: { padding: { top: 70, bottom: 70, left: 70, right: 70 } },
                 scales: {
                     r: {
                         min: 0, max: 10,
-                        ticks: { stepSize: 2, backdropColor: "transparent", font: { size: 10 }, color: "#d4a574" },
-                        pointLabels: { display: true, font: { size: 1 }, color: "transparent", padding: 52 },
+                        ticks: { display: false },
+                        pointLabels: { display: false },
                         grid: { color: "#fde68a" },
                         angleLines: { color: "#fde68a" }
                     }
@@ -2995,23 +3108,36 @@ JS;
         // Animate from center outward.
         setTimeout(function() {
             chartInst.data.datasets[0].data = vals;
+            if (sHasSe && chartInst.data.datasets[1]) {
+                chartInst.data.datasets[1].data = sSelfeval.map(function(v) { return v !== null ? v : 0; });
+            }
             chartInst.update();
         }, 80);
         canvas._chartInstance = chartInst;
+        window._ceRadarState = { vals: vals, chart: chartInst, data: s, cardsPlugin: subjectCardsPlugin };
     }
 
     window.sentinelDrawSubjectRadar = function() {
         drawSubjectRadar();
     };
 
-    function drawAll() { draw(); drawMini(); drawSubjectRadar(); }
+    function drawAll() {
+        try { draw(); } catch(e) { console.error("sentinel draw():", e); }
+        try { drawMini(); } catch(e) { console.error("sentinel drawMini():", e); }
+        try { drawSubjectRadar(); } catch(e) { console.error("sentinel drawSubjectRadar():", e); }
+    }
 
+    console.log("[sentinel] radar init, Chart?", !!window.Chart);
     if (window.Chart) { drawAll(); return; }
     var _d = window.define; window.define = undefined;
     var s = document.createElement("script");
     s.src = M.cfg.wwwroot + "/local/sentinel/js/chart.umd.min.js";
-    s.onload = function() { window.define = _d; drawAll(); };
-    s.onerror = function() { window.define = _d; };
+    s.onload = function() {
+        window.define = _d;
+        console.log("[sentinel] Chart.js loaded, Chart?", !!window.Chart);
+        drawAll();
+    };
+    s.onerror = function(err) { window.define = _d; console.error("[sentinel] Chart.js FAILED to load", err); };
     document.head.appendChild(s);
 })();
 JS;
@@ -3136,6 +3262,381 @@ JS;
 
     if (document.readyState === 'loading') {
         document.addEventListener('DOMContentLoaded', run);
+    } else {
+        run();
+    }
+})();
+JS;
+        $PAGE->requires->js_amd_inline($js);
+    }
+
+    /**
+     * Inject the student self-assessment panel on the assignment view page.
+     * Only shown to students (users without mod/assign:grade) when the
+     * assignment has a rubric.
+     */
+    private static function inject_student_selfeval(
+        \core\hook\output\before_footer_html_generation $hook
+    ): void {
+        global $PAGE, $DB, $USER;
+
+        $cmid = optional_param('id', 0, PARAM_INT);
+        if (!$cmid) {
+            return;
+        }
+        $action = optional_param('action', '', PARAM_ALPHA);
+        if ($action === 'grading' || $action === 'grader') {
+            return;
+        }
+        $cm = get_coursemodule_from_id('assign', $cmid);
+        if (!$cm) {
+            return;
+        }
+        $ctx = \context_module::instance($cmid);
+        if (has_capability('mod/assign:grade', $ctx)) {
+            return;
+        }
+        if (!has_capability('mod/assign:view', $ctx)) {
+            return;
+        }
+
+        $has_rubric = $DB->record_exists_sql(
+            "SELECT 1
+               FROM {grading_areas} ga
+               JOIN {grading_definitions} gd ON gd.areaid = ga.id
+              WHERE ga.contextid = :ctxid AND gd.method = 'rubric'",
+            ['ctxid' => $ctx->id]
+        );
+        if (!$has_rubric) {
+            return;
+        }
+
+        $cfg_rec = $DB->get_record('local_sentinel_selfeval_config', ['cmid' => $cmid]);
+        $required = $cfg_rec ? (int)$cfg_rec->required : 0;
+
+        $existing = $DB->get_records('local_sentinel_selfeval',
+            ['userid' => $USER->id, 'cmid' => $cmid], '', 'criterionid, levelid, score');
+        $has_selfeval = !empty($existing);
+
+        $ajax_url = (new \moodle_url('/local/sentinel/ajax.php'))->out(false);
+        $sesskey_js = sesskey();
+        $cmid_js = (int)$cmid;
+        $required_js = $required ? 'true' : 'false';
+        $has_selfeval_js = $has_selfeval ? 'true' : 'false';
+
+        $js = <<<JS
+(function() {
+    "use strict";
+    var CMID = {$cmid_js};
+    var AJAX = "{$ajax_url}";
+    var SESSKEY = "{$sesskey_js}";
+    var REQUIRED = {$required_js};
+    var HAS_SELFEVAL = {$has_selfeval_js};
+
+    function run() {
+        var anchor = document.querySelector(".submissionstatustable");
+        if (!anchor) anchor = document.querySelector("[data-region='submission-status']");
+        if (!anchor) return;
+
+        // If required and no selfeval yet, hide feedback section until completed.
+        var feedbackEl = document.querySelector(".feedback");
+        if (REQUIRED && !HAS_SELFEVAL && feedbackEl) {
+            feedbackEl.style.display = "none";
+            feedbackEl.dataset.sentinelHidden = "1";
+        }
+
+        var panel = document.createElement("div");
+        panel.className = "sentinel-selfeval-panel";
+        panel.style.cssText = "margin:16px 0;border:2px solid #7c3aed;border-radius:12px;overflow:hidden;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif";
+
+        var header = document.createElement("div");
+        header.style.cssText = "background:linear-gradient(135deg,#7c3aed,#6d28d9);color:#fff;padding:14px 20px;display:flex;align-items:center;justify-content:space-between;cursor:pointer";
+        var hLeft = document.createElement("div");
+        hLeft.style.cssText = "display:flex;align-items:center;gap:10px";
+        hLeft.innerHTML = '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 11l3 3L22 4"/><path d="M21 12v7a2 2 0 01-2 2H5a2 2 0 01-2-2V5a2 2 0 012-2h11"/></svg>'
+            + '<span style="font-weight:700;font-size:1em">Autoevaluación</span>';
+        if (REQUIRED) {
+            hLeft.innerHTML += '<span style="background:#fbbf24;color:#92400e;font-size:.7em;font-weight:700;padding:2px 8px;border-radius:8px;letter-spacing:.03em">OBLIGATORIA</span>';
+        }
+        var arrow = document.createElement("span");
+        arrow.textContent = "▼";
+        arrow.style.cssText = "transition:transform .2s";
+        header.appendChild(hLeft);
+        header.appendChild(arrow);
+
+        var body = document.createElement("div");
+        body.style.cssText = "padding:0;max-height:0;overflow:hidden;transition:max-height .35s ease,padding .35s ease;background:#faf5ff";
+
+        var expanded = !HAS_SELFEVAL;
+
+        function toggle() {
+            expanded = !expanded;
+            if (expanded) {
+                body.style.maxHeight = body.scrollHeight + 200 + "px";
+                body.style.padding = "16px 20px";
+                arrow.style.transform = "rotate(180deg)";
+            } else {
+                body.style.maxHeight = "0";
+                body.style.padding = "0 20px";
+                arrow.style.transform = "rotate(0)";
+            }
+        }
+        header.addEventListener("click", toggle);
+
+        var loading = document.createElement("div");
+        loading.style.cssText = "text-align:center;padding:24px;color:#6b7280";
+        loading.textContent = "Cargando rúbrica…";
+        body.appendChild(loading);
+
+        panel.appendChild(header);
+        panel.appendChild(body);
+        anchor.parentNode.insertBefore(panel, anchor.nextSibling);
+
+        if (expanded) {
+            setTimeout(function() {
+                body.style.maxHeight = "2000px";
+                body.style.padding = "16px 20px";
+                arrow.style.transform = "rotate(180deg)";
+            }, 100);
+        }
+
+        // Load rubric via AJAX.
+        var xhr = new XMLHttpRequest();
+        xhr.open("POST", AJAX);
+        xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+        xhr.onload = function() {
+            if (xhr.status !== 200) return;
+            var data = JSON.parse(xhr.responseText);
+            if (!data.success || !data.criteria) return;
+            body.innerHTML = "";
+            renderRubric(body, data.criteria);
+            if (expanded) {
+                body.style.maxHeight = body.scrollHeight + 200 + "px";
+            }
+        };
+        xhr.send("sesskey=" + SESSKEY + "&action=selfeval_rubric&cmid=" + CMID);
+    }
+
+    function renderRubric(container, criteria) {
+        var intro = document.createElement("p");
+        intro.style.cssText = "font-size:.85em;color:#6b7280;margin:0 0 14px 0;line-height:1.5";
+        intro.textContent = REQUIRED
+            ? "Evalúa tu propio trabajo seleccionando el nivel que creas más adecuado en cada criterio. Debes completar todos los criterios para ver la calificación del profesor."
+            : "Evalúa tu propio trabajo seleccionando el nivel que creas más adecuado en cada criterio. Esta autoevaluación es voluntaria y te ayudará a reflexionar sobre tu aprendizaje.";
+        container.appendChild(intro);
+
+        var completedCount = 0;
+        var totalCount = criteria.length;
+
+        var progressWrap = document.createElement("div");
+        progressWrap.style.cssText = "display:flex;align-items:center;gap:10px;margin-bottom:16px";
+        var progressBar = document.createElement("div");
+        progressBar.style.cssText = "flex:1;height:6px;background:#e5e7eb;border-radius:3px;overflow:hidden";
+        var progressFill = document.createElement("div");
+        progressFill.style.cssText = "height:100%;background:linear-gradient(90deg,#7c3aed,#a78bfa);border-radius:3px;transition:width .3s;width:0";
+        progressBar.appendChild(progressFill);
+        var progressLabel = document.createElement("span");
+        progressLabel.style.cssText = "font-size:.78em;font-weight:600;color:#6d28d9;white-space:nowrap";
+        progressWrap.appendChild(progressBar);
+        progressWrap.appendChild(progressLabel);
+        container.appendChild(progressWrap);
+
+        function updateProgress() {
+            completedCount = 0;
+            criteria.forEach(function(c) { if (c.selected !== null) completedCount++; });
+            var pct = totalCount > 0 ? Math.round((completedCount / totalCount) * 100) : 0;
+            progressFill.style.width = pct + "%";
+            progressLabel.textContent = completedCount + "/" + totalCount;
+
+            if (REQUIRED && completedCount === totalCount) {
+                var fb = document.querySelector(".feedback");
+                if (fb && fb.dataset.sentinelHidden === "1") {
+                    fb.style.display = "";
+                    fb.dataset.sentinelHidden = "";
+                }
+            }
+        }
+
+        criteria.forEach(function(crit, ci) {
+            var card = document.createElement("div");
+            card.style.cssText = "background:#fff;border:1px solid #e5e7eb;border-radius:10px;padding:14px 16px;margin-bottom:10px";
+
+            var critTitle = document.createElement("div");
+            critTitle.style.cssText = "font-weight:700;font-size:.88em;color:#1f2937;margin-bottom:10px;line-height:1.4";
+            critTitle.textContent = (ci + 1) + ". " + crit.description;
+            card.appendChild(critTitle);
+
+            var levelsWrap = document.createElement("div");
+            levelsWrap.style.cssText = "display:flex;flex-direction:column;gap:6px";
+
+            var btnRefs = [];
+
+            crit.levels.forEach(function(level, li) {
+                var lvBtn = document.createElement("button");
+                lvBtn.type = "button";
+
+                var BASE    = "display:flex;align-items:flex-start;gap:10px;padding:10px 14px;border-radius:8px;cursor:pointer;text-align:left;width:100%;font-size:.82em;line-height:1.4;transition:all .15s;";
+                var ON_CSS  = BASE + "border:2px solid #7c3aed;background:#ede9fe;";
+                var OFF_CSS = BASE + "border:1px solid #e5e7eb;background:#fff;";
+
+                lvBtn.style.cssText = crit.selected === level.id ? ON_CSS : OFF_CSS;
+
+                lvBtn.addEventListener("mouseenter", function() {
+                    if (crit.selected !== level.id) lvBtn.style.borderColor = "#a78bfa";
+                });
+                lvBtn.addEventListener("mouseleave", function() {
+                    if (crit.selected !== level.id) lvBtn.style.borderColor = "#e5e7eb";
+                });
+
+                var scoreColor = "hsl(" + Math.round((level.score / 10) * 120) + ",65%,42%)";
+                var scoreBadge = document.createElement("span");
+                scoreBadge.style.cssText = "flex-shrink:0;background:" + scoreColor + ";color:#fff;font-weight:700;font-size:.9em;padding:2px 8px;border-radius:6px;min-width:28px;text-align:center";
+                scoreBadge.textContent = level.score;
+
+                var lvText = document.createElement("span");
+                lvText.style.cssText = "color:#374151";
+                lvText.textContent = level.definition;
+
+                lvBtn.appendChild(scoreBadge);
+                lvBtn.appendChild(lvText);
+                levelsWrap.appendChild(lvBtn);
+                btnRefs.push({ btn: lvBtn, levelId: level.id, on: ON_CSS, off: OFF_CSS });
+
+                lvBtn.addEventListener("click", function() {
+                    crit.selected = level.id;
+                    btnRefs.forEach(function(ref) {
+                        ref.btn.style.cssText = ref.levelId === level.id ? ref.on : ref.off;
+                    });
+                    updateProgress();
+
+                    var sv = new XMLHttpRequest();
+                    sv.open("POST", AJAX);
+                    sv.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+                    sv.send("sesskey=" + SESSKEY + "&action=selfeval_save&cmid=" + CMID + "&criterionid=" + crit.id + "&levelid=" + level.id);
+                });
+            });
+
+            card.appendChild(levelsWrap);
+            container.appendChild(card);
+        });
+
+        updateProgress();
+    }
+
+    if (document.readyState === "loading") {
+        document.addEventListener("DOMContentLoaded", run);
+    } else {
+        run();
+    }
+})();
+JS;
+        $PAGE->requires->js_amd_inline($js);
+    }
+
+    /**
+     * Inject a "Autoevaluación del alumnado" checkbox into the assign edit form
+     * (modedit.php) so the teacher can mark self-assessment as required.
+     */
+    private static function inject_selfeval_checkbox(): void {
+        global $PAGE, $DB;
+
+        $update = optional_param('update', 0, PARAM_INT);
+        if (!$update) {
+            return;
+        }
+        $cm = $DB->get_record('course_modules', ['id' => $update], 'id, module, course');
+        if (!$cm) {
+            return;
+        }
+        $mod = $DB->get_record('modules', ['id' => $cm->module], 'name');
+        if (!$mod || $mod->name !== 'assign') {
+            return;
+        }
+
+        $has_rubric = $DB->record_exists_sql(
+            "SELECT 1
+               FROM {grading_areas} ga
+               JOIN {grading_definitions} gd ON gd.areaid = ga.id
+              WHERE ga.contextid = :ctxid AND gd.method = 'rubric'",
+            ['ctxid' => \context_module::instance($update)->id]
+        );
+        if (!$has_rubric) {
+            return;
+        }
+
+        $cfg = $DB->get_record('local_sentinel_selfeval_config', ['cmid' => $update]);
+        $checked = $cfg && (int)$cfg->required ? 'true' : 'false';
+        $cmid_js = (int)$update;
+        $sesskey = sesskey();
+
+        $js = <<<JS
+(function() {
+    "use strict";
+
+    function run() {
+        var gradeSection = document.getElementById("id_modstandardgrade");
+        if (!gradeSection) gradeSection = document.getElementById("id_grade");
+        if (!gradeSection) return;
+
+        var container = gradeSection.querySelector(".fcontainer") || gradeSection;
+
+        var wrap = document.createElement("div");
+        wrap.className = "form-group row fitem";
+        wrap.style.cssText = "margin-top:8px;padding:10px 0;border-top:1px solid #e5e7eb";
+
+        var labelCol = document.createElement("div");
+        labelCol.className = "col-md-3 col-form-label d-flex pb-0 pr-md-0";
+        labelCol.innerHTML = '<div style="display:flex;flex-direction:column;gap:2px"><label style="font-weight:600;color:#6d28d9;margin:0">Autoevaluación del alumnado</label><span style="font-size:.68em;font-weight:500;color:#a78bfa;letter-spacing:.02em">Radar 360º</span></div>';
+
+        var inputCol = document.createElement("div");
+        inputCol.className = "col-md-9 form-inline align-items-start felement";
+
+        var innerWrap = document.createElement("div");
+        innerWrap.style.cssText = "display:flex;flex-direction:column;gap:6px";
+
+        var checkWrap = document.createElement("label");
+        checkWrap.style.cssText = "display:flex;align-items:center;gap:8px;cursor:pointer;font-size:.9em;font-weight:500;color:#374151";
+
+        var cb = document.createElement("input");
+        cb.type = "checkbox";
+        cb.checked = {$checked};
+        cb.style.cssText = "width:18px;height:18px;accent-color:#7c3aed;cursor:pointer";
+        checkWrap.appendChild(cb);
+        checkWrap.appendChild(document.createTextNode("Obligatoria"));
+
+        var hint = document.createElement("div");
+        hint.style.cssText = "font-size:.78em;color:#6b7280;line-height:1.4;max-width:480px";
+        hint.textContent = "Si se activa, el alumno deberá completar su autoevaluación con la rúbrica antes de ver la nota del profesor. En cualquier caso, toda tarea con rúbrica permite la autoevaluación voluntaria. Los resultados se integran automáticamente en el informe Radar 360º.";
+
+        var status = document.createElement("span");
+        status.style.cssText = "font-size:.75em;color:#059669;opacity:0;transition:opacity .3s";
+        status.textContent = "✓ Guardado";
+
+        innerWrap.appendChild(checkWrap);
+        innerWrap.appendChild(hint);
+        innerWrap.appendChild(status);
+        inputCol.appendChild(innerWrap);
+        wrap.appendChild(labelCol);
+        wrap.appendChild(inputCol);
+        container.appendChild(wrap);
+
+        cb.addEventListener("change", function() {
+            var val = cb.checked ? 1 : 0;
+            var xhr = new XMLHttpRequest();
+            xhr.open("POST", M.cfg.wwwroot + "/local/sentinel/ajax.php");
+            xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+            xhr.onload = function() {
+                if (xhr.status === 200) {
+                    status.style.opacity = "1";
+                    setTimeout(function() { status.style.opacity = "0"; }, 2000);
+                }
+            };
+            xhr.send("sesskey={$sesskey}&action=selfeval_config&cmid={$cmid_js}&required=" + val);
+        });
+    }
+
+    if (document.readyState === "loading") {
+        document.addEventListener("DOMContentLoaded", run);
     } else {
         run();
     }

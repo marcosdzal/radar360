@@ -96,5 +96,116 @@
         <INDEX NAME="ix_courseid" UNIQUE="false" FIELDS="courseid"/>
       </INDEXES>
     </TABLE>
+    <TABLE NAME="local_sentinel_selfeval" COMMENT="Student self-assessment (DUA): mirrors the teacher rubric for metacognitive reflection">
+      <FIELDS>
+        <FIELD NAME="id" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="true"/>
+        <FIELD NAME="userid" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="false" COMMENT="The student who self-assessed"/>
+        <FIELD NAME="cmid" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="false" COMMENT="Course module (assign) where the rubric lives"/>
+        <FIELD NAME="criterionid" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="false" COMMENT="gradingform_rubric_criteria.id"/>
+        <FIELD NAME="levelid" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="false" COMMENT="gradingform_rubric_levels.id chosen by student"/>
+        <FIELD NAME="score" TYPE="number" LENGTH="10" DECIMALS="5" NOTNULL="true" DEFAULT="0" SEQUENCE="false"/>
+        <FIELD NAME="timecreated" TYPE="int" LENGTH="10" NOTNULL="true" DEFAULT="0" SEQUENCE="false"/>
+        <FIELD NAME="timemodified" TYPE="int" LENGTH="10" NOTNULL="true" DEFAULT="0" SEQUENCE="false"/>
+      </FIELDS>
+      <KEYS>
+        <KEY NAME="primary" TYPE="primary" FIELDS="id"/>
+        <KEY NAME="uq_user_cm_crit" TYPE="unique" FIELDS="userid, cmid, criterionid"/>
+      </KEYS>
+      <INDEXES>
+        <INDEX NAME="ix_userid" UNIQUE="false" FIELDS="userid"/>
+        <INDEX NAME="ix_cmid" UNIQUE="false" FIELDS="cmid"/>
+      </INDEXES>
+    </TABLE>
+    <TABLE NAME="local_sentinel_selfeval_config" COMMENT="Per-activity self-assessment configuration: whether student self-assessment is required">
+      <FIELDS>
+        <FIELD NAME="id" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="true"/>
+        <FIELD NAME="cmid" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="false" COMMENT="course_modules.id (the assign activity)"/>
+        <FIELD NAME="required" TYPE="int" LENGTH="1" NOTNULL="true" DEFAULT="0" SEQUENCE="false" COMMENT="1 = student must self-assess before seeing teacher grade"/>
+        <FIELD NAME="timemodified" TYPE="int" LENGTH="10" NOTNULL="true" DEFAULT="0" SEQUENCE="false"/>
+      </FIELDS>
+      <KEYS>
+        <KEY NAME="primary" TYPE="primary" FIELDS="id"/>
+        <KEY NAME="uq_cmid" TYPE="unique" FIELDS="cmid"/>
+      </KEYS>
+    </TABLE>
+    <TABLE NAME="local_sentinel_dua_note" COMMENT="DUA logbook: chronological pedagogical observations per student/course">
+      <FIELDS>
+        <FIELD NAME="id" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="true"/>
+        <FIELD NAME="userid" TYPE="int" LENGTH="10" NOTNULL="true" COMMENT="Student user id"/>
+        <FIELD NAME="courseid" TYPE="int" LENGTH="10" NOTNULL="true" COMMENT="Course id"/>
+        <FIELD NAME="authorid" TYPE="int" LENGTH="10" NOTNULL="true" COMMENT="Teacher who wrote the note"/>
+        <FIELD NAME="content" TYPE="text" NOTNULL="true" COMMENT="HTML content of the observation"/>
+        <FIELD NAME="timecreated" TYPE="int" LENGTH="10" NOTNULL="true" DEFAULT="0"/>
+        <FIELD NAME="timemodified" TYPE="int" LENGTH="10" NOTNULL="true" DEFAULT="0"/>
+      </FIELDS>
+      <KEYS>
+        <KEY NAME="primary" TYPE="primary" FIELDS="id"/>
+      </KEYS>
+      <INDEXES>
+        <INDEX NAME="ix_userid_courseid" UNIQUE="false" FIELDS="userid, courseid"/>
+      </INDEXES>
+    </TABLE>
+    <TABLE NAME="local_sentinel_dua_motiv" COMMENT="DUA motivation keys: student interests and teacher pedagogical hooks">
+      <FIELDS>
+        <FIELD NAME="id" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="true"/>
+        <FIELD NAME="userid" TYPE="int" LENGTH="10" NOTNULL="true" COMMENT="Student user id"/>
+        <FIELD NAME="courseid" TYPE="int" LENGTH="10" NOTNULL="true" COMMENT="Course id"/>
+        <FIELD NAME="authorid" TYPE="int" LENGTH="10" NOTNULL="true" COMMENT="Who created this entry (student or teacher)"/>
+        <FIELD NAME="category" TYPE="char" LENGTH="20" NOTNULL="true" DEFAULT="interest" COMMENT="interest or hook"/>
+        <FIELD NAME="label" TYPE="char" LENGTH="255" NOTNULL="true" COMMENT="Tag/chip text"/>
+        <FIELD NAME="timecreated" TYPE="int" LENGTH="10" NOTNULL="true" DEFAULT="0"/>
+        <FIELD NAME="timemodified" TYPE="int" LENGTH="10" NOTNULL="true" DEFAULT="0"/>
+      </FIELDS>
+      <KEYS>
+        <KEY NAME="primary" TYPE="primary" FIELDS="id"/>
+      </KEYS>
+      <INDEXES>
+        <INDEX NAME="ix_userid_courseid" UNIQUE="false" FIELDS="userid, courseid"/>
+      </INDEXES>
+    </TABLE>
+    <TABLE NAME="local_sentinel_dua_acis" COMMENT="DUA significant curricular adaptations (ACIS/ACS) per student/criterion">
+      <FIELDS>
+        <FIELD NAME="id" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="true"/>
+        <FIELD NAME="userid" TYPE="int" LENGTH="10" NOTNULL="true" COMMENT="Student user id"/>
+        <FIELD NAME="courseid" TYPE="int" LENGTH="10" NOTNULL="true" COMMENT="Course id"/>
+        <FIELD NAME="criterionid" TYPE="int" LENGTH="10" NOTNULL="true" COMMENT="gradingform_rubric_criteria.id or CE category id"/>
+        <FIELD NAME="original_text" TYPE="text" NOTNULL="true" COMMENT="Original normative criterion text"/>
+        <FIELD NAME="adapted_text" TYPE="text" NOTNULL="true" COMMENT="Adapted criterion text for the student"/>
+        <FIELD NAME="authorid" TYPE="int" LENGTH="10" NOTNULL="true" COMMENT="Teacher who created the adaptation"/>
+        <FIELD NAME="datestart" TYPE="int" LENGTH="10" NOTNULL="true" DEFAULT="0" COMMENT="Start date of the ACIS"/>
+        <FIELD NAME="dateend" TYPE="int" LENGTH="10" NOTNULL="false" DEFAULT="0" COMMENT="Optional end date"/>
+        <FIELD NAME="timecreated" TYPE="int" LENGTH="10" NOTNULL="true" DEFAULT="0"/>
+        <FIELD NAME="timemodified" TYPE="int" LENGTH="10" NOTNULL="true" DEFAULT="0"/>
+      </FIELDS>
+      <KEYS>
+        <KEY NAME="primary" TYPE="primary" FIELDS="id"/>
+      </KEYS>
+      <INDEXES>
+        <INDEX NAME="ix_userid_courseid" UNIQUE="false" FIELDS="userid, courseid"/>
+        <INDEX NAME="ix_criterionid" UNIQUE="false" FIELDS="criterionid"/>
+      </INDEXES>
+    </TABLE>
+    <TABLE NAME="local_sentinel_dua_access" COMMENT="DUA access adaptations (AA): organizational/format accommodations per student">
+      <FIELDS>
+        <FIELD NAME="id" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="true"/>
+        <FIELD NAME="userid" TYPE="int" LENGTH="10" NOTNULL="true" COMMENT="Student user id"/>
+        <FIELD NAME="courseid" TYPE="int" LENGTH="10" NOTNULL="true" COMMENT="Course id (0 = site-wide)"/>
+        <FIELD NAME="measure" TYPE="char" LENGTH="255" NOTNULL="true" COMMENT="Accessibility measure text"/>
+        <FIELD NAME="catalog" TYPE="int" LENGTH="1" NOTNULL="true" DEFAULT="0" COMMENT="1 = from official catalog, 0 = custom"/>
+        <FIELD NAME="subcategory" TYPE="char" LENGTH="20" NOTNULL="true" DEFAULT="custom" COMMENT="standard, program or custom"/>
+        <FIELD NAME="active" TYPE="int" LENGTH="1" NOTNULL="true" DEFAULT="1" COMMENT="1 = active, 0 = deactivated"/>
+        <FIELD NAME="authorid" TYPE="int" LENGTH="10" NOTNULL="true" COMMENT="Teacher who added this measure"/>
+        <FIELD NAME="datestart" TYPE="int" LENGTH="10" NOTNULL="true" DEFAULT="0" COMMENT="Start date"/>
+        <FIELD NAME="dateend" TYPE="int" LENGTH="10" NOTNULL="false" DEFAULT="0" COMMENT="Optional end date"/>
+        <FIELD NAME="timecreated" TYPE="int" LENGTH="10" NOTNULL="true" DEFAULT="0"/>
+        <FIELD NAME="timemodified" TYPE="int" LENGTH="10" NOTNULL="true" DEFAULT="0"/>
+      </FIELDS>
+      <KEYS>
+        <KEY NAME="primary" TYPE="primary" FIELDS="id"/>
+      </KEYS>
+      <INDEXES>
+        <INDEX NAME="ix_userid_courseid" UNIQUE="false" FIELDS="userid, courseid"/>
+      </INDEXES>
+    </TABLE>
   </TABLES>
 </XMLDB>

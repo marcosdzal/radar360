@@ -239,6 +239,8 @@ class curriculum_manager {
             'grade'        => $grade,
             'decree'       => $curriculum['decree'] ?? '',
             'subject_name' => $curriculum['subject_name'] ?? $subject,
+            'categories'   => $ce_count,
+            'criterios'    => $crit_count,
             'timeapplied'  => time(),
         ]), 'local_sentinel');
 
@@ -246,6 +248,150 @@ class curriculum_manager {
             'success'    => true,
             'categories' => $ce_count,
             'criterios'  => $crit_count,
+        ];
+    }
+
+    /**
+     * Inject desgrane contents into Moodle's competency framework.
+     *
+     * Creates a competency framework for the subject, with blocks as top-level
+     * competencies, items as children, and sub-contenidos as leaf competencies.
+     * Links leaf competencies to the course.
+     */
+    public static function inject_contenidos(int $courseid, string $subject, array $blocks): array {
+        global $DB;
+
+        if (!\core_competency\api::is_enabled()) {
+            return ['success' => false, 'error' => 'El módulo de competencias no está habilitado en este sitio.'];
+        }
+
+        $applied = self::get_applied($courseid);
+        if (!$applied) {
+            return ['success' => false, 'error' => 'No hay currículo aplicado a este curso.'];
+        }
+
+        $subject_name = $applied['subject_name'] ?? $subject;
+        $grade = (int)($applied['grade'] ?? 1);
+        $stage = strtoupper($applied['stage'] ?? 'ESO');
+        $decree = $applied['decree'] ?? '';
+
+        $context = \context_system::instance();
+        $fw_idnumber = 'sentinel_contenidos_' . $subject . '_' . $grade;
+
+        // Find or create the scale "No trabajado, En proceso, Trabajado".
+        $scale_name = 'Sentinel – Contenidos';
+        $scale = $DB->get_record('scale', ['name' => $scale_name]);
+        if (!$scale) {
+            $scale = new \stdClass();
+            $scale->name = $scale_name;
+            $scale->scale = 'No trabajado,En proceso,Trabajado';
+            $scale->description = 'Escala para el seguimiento de contenidos del currículo (Sentinel).';
+            $scale->descriptionformat = FORMAT_HTML;
+            $scale->courseid = 0;
+            $scale->userid = 0;
+            $scale->timemodified = time();
+            $scale->id = $DB->insert_record('scale', $scale);
+        }
+        // Scale config: [{"scaleid":N}, {"id":1,"scaledefault":1,"proficient":0}, {"id":2,...}, {"id":3,"proficient":1}]
+        $scaleconfig = json_encode([
+            ['scaleid' => (int)$scale->id],
+            ['id' => 1, 'scaledefault' => 1, 'proficient' => 0],
+            ['id' => 2, 'scaledefault' => 0, 'proficient' => 0],
+            ['id' => 3, 'scaledefault' => 0, 'proficient' => 1],
+        ]);
+
+        // Delete existing framework if re-injecting.
+        $existing = $DB->get_record('competency_framework', ['idnumber' => $fw_idnumber]);
+        if ($existing) {
+            \core_competency\api::delete_framework($existing->id);
+        }
+
+        // Create framework.
+        $fw_data = new \stdClass();
+        $fw_data->shortname = $stage . $grade . ' ' . $subject_name . ' – Contenidos';
+        $fw_data->idnumber = $fw_idnumber;
+        $fw_data->description = 'Contenidos de ' . $subject_name . ' (' . $stage . $grade . '). ' . $decree;
+        $fw_data->descriptionformat = FORMAT_HTML;
+        $fw_data->contextid = $context->id;
+        $fw_data->scaleid = (int)$scale->id;
+        $fw_data->scaleconfiguration = $scaleconfig;
+        $fw_data->visible = 1;
+        $fw_data->taxonomies = 'competency,competency,competency';
+        $framework = \core_competency\api::create_framework($fw_data);
+        $fwid = $framework->get('id');
+
+        $total_competencies = 0;
+        $leaf_ids = [];
+
+        foreach ($blocks as $bi => $block) {
+            $block_id = $block['id'] ?? chr(65 + $bi);
+            $block_name = $block['name'] ?? 'Bloque ' . $block_id;
+
+            // Create block-level competency.
+            $bc = new \stdClass();
+            $bc->shortname = $block_id . '. ' . $block_name;
+            $bc->idnumber = $fw_idnumber . '_' . $block_id;
+            $bc->competencyframeworkid = $fwid;
+            $bc->parentid = 0;
+            $block_comp = \core_competency\api::create_competency($bc);
+            $total_competencies++;
+
+            foreach ($block['items'] ?? [] as $ii => $item) {
+                $item_code = $item['c'] ?? $block_id . ($ii + 1);
+                $item_legal = $item['legal'] ?? '';
+
+                // Create item-level competency.
+                $ic = new \stdClass();
+                $ic->shortname = $item_code . '. ' . (mb_strlen($item_legal) > 100 ? mb_substr($item_legal, 0, 100) . '…' : $item_legal);
+                $ic->idnumber = $fw_idnumber . '_' . $item_code;
+                $ic->description = $item_legal;
+                $ic->descriptionformat = FORMAT_HTML;
+                $ic->competencyframeworkid = $fwid;
+                $ic->parentid = $block_comp->get('id');
+                $item_comp = \core_competency\api::create_competency($ic);
+                $total_competencies++;
+
+                foreach ($item['subs'] ?? [] as $si => $sub) {
+                    $sub_code = $sub['c'] ?? $item_code . '.' . ($si + 1);
+                    $sub_desc = $sub['d'] ?? '';
+
+                    $sc = new \stdClass();
+                    $sc->shortname = $sub_code . '. ' . $sub_desc;
+                    $sc->idnumber = $fw_idnumber . '_' . $sub_code;
+                    $sc->competencyframeworkid = $fwid;
+                    $sc->parentid = $item_comp->get('id');
+                    $sub_comp = \core_competency\api::create_competency($sc);
+                    $leaf_ids[] = $sub_comp->get('id');
+                    $total_competencies++;
+                }
+            }
+        }
+
+        // Link leaf competencies to the course.
+        $linked = 0;
+        foreach ($leaf_ids as $cid) {
+            try {
+                \core_competency\api::add_competency_to_course($courseid, $cid);
+                $linked++;
+            } catch (\Exception $e) {
+                // Skip if already linked.
+            }
+        }
+
+        // Store injection info.
+        set_config("contenidos_fw_{$courseid}", json_encode([
+            'framework_id' => $fwid,
+            'subject' => $subject,
+            'total' => $total_competencies,
+            'linked' => $linked,
+            'timeinjected' => time(),
+        ]), 'local_sentinel');
+
+        return [
+            'success' => true,
+            'framework_id' => $fwid,
+            'total' => $total_competencies,
+            'linked' => $linked,
         ];
     }
 }

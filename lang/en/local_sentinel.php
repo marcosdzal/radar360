@@ -70,7 +70,8 @@ $string['sentinel:managedescriptors'] = 'Manage rubric criterion → descriptor 
 $string['sentinel:communicate']       = 'Create and manage family communication periods (Radar 360)';
 
 // Competency profile report.
-$string['report:title']              = 'Perfil de salida';
+$string['report:title']              = 'Radar 360º';
+$string['report:profilelink']        = 'Competency report';
 $string['report:student']            = 'Alumno';
 $string['report:period']             = 'Periodo';
 $string['report:allperiods']         = 'Todo el año';
@@ -122,8 +123,8 @@ $string['report:no_ce_data']      = 'No specific competencies configured in this
 $string['report:view_detail']     = 'View detail';
 
 // Admin: CE → descriptor mapping.
-$string['mapdesc:title']             = 'Linking assessment criteria to operational descriptors';
-$string['mapdesc:navlink']           = 'Assessment criteria / descriptors linking';
+$string['mapdesc:title']             = 'Criteria mapping';
+$string['mapdesc:navlink']           = 'Criteria mapping';
 $string['mapdesc:intro']             = 'The links between assessment criteria and operational descriptors from the exit profile are pre-configured according to the current curriculum regulations. You may adjust these assignments if needed to match your subject\'s teaching plan.';
 $string['mapdesc:save']              = 'Guardar cambios';
 $string['mapdesc:saved']             = 'Asignaciones guardadas correctamente.';
@@ -140,7 +141,7 @@ $string['periods:title']             = 'Comunicaciones a familias';
 $string['periods:intro']             = 'Define las fechas de comunicación de calificaciones a las familias. El informe de perfil de salida permite filtrar por estos periodos.';
 $string['periods:saved']             = 'Comunicación añadida correctamente.';
 $string['periods:deleted']           = 'Comunicación eliminada.';
-$string['periods:navlink']           = 'Radar 360 – Comunicaciones';
+$string['periods:navlink']           = 'Comunicaciones';
 
 // Curriculum.
 $string['settings:heading_curriculum']    = 'Curriculum (LOMLOE)';
@@ -161,3 +162,36 @@ $string['privacy:metadata:local_sentinel_student_photo:timemodified'] = 'The dat
 $string['privacy:metadata:core_files']                                = 'Radar 360 stores the image file in the Moodle file system.';
 $string['privacy:studentphoto']                                       = 'Student photograph';
 $string['privacy:uploadedphotos']                                     = 'Photographs uploaded as teacher';
+
+// Curriculum configuration.
+$string['curriculum:title']   = 'Curricular framework';
+$string['curriculum:navlink'] = 'Curricular framework';
+
+// Desgrane de contenidos.
+$string['desgrane:title']    = 'Core knowledge';
+$string['desgrane:navlink']  = 'Core knowledge';
+
+// Sample representativity.
+$string['sample:insufficient']      = 'Muestra insuficiente';
+$string['sample:fair']              = 'Representatividad justa';
+$string['sample:solid']             = 'Muestra sólida';
+$string['sample:tooltip_red']       = 'El alumno solo ha sido evaluado en el {$a}% de las actividades del grupo. Muestra insuficiente para calificación objetiva.';
+$string['sample:tooltip_amber']     = 'Evaluado en el {$a}% de las actividades del grupo. Representatividad justa — conviene completar evidencias.';
+$string['sample:tooltip_green']     = 'Evaluado en el {$a}% de las actividades del grupo. Muestra sólida.';
+$string['sample:config_title']      = 'Muestra suficiente';
+$string['sample:config_navlink']    = 'Muestra suficiente';
+$string['sample:config_intro']      = 'Configura los umbrales del semáforo de representatividad de la muestra evaluada.';
+$string['sample:threshold_red']     = 'Umbral alerta roja (%)';
+$string['sample:threshold_red_desc']= 'Por debajo de este valor la muestra se considera insuficiente.';
+$string['sample:threshold_green']     = 'Umbral zona verde (%)';
+$string['sample:threshold_green_desc']= 'A partir de este valor la muestra se considera sólida. Entre ambos umbrales se muestra alerta ámbar.';
+$string['sample:badge']             = '{$a}% muestra';
+$string['sample:nodata']            = 'Sin evidencias';
+$string['sample:rec_grey']          = 'There are no assessed activities linked to evaluation criteria.';
+$string['sample:rec_red']           = 'A recovery mechanism should be applied or sample representativity should be weighed at the assessment board.';
+$string['sample:rec_amber']         = 'It is advisable to complete further assessments before the final evaluation to ensure a representative grade.';
+$string['sample:rec_green']         = 'The grade is representative of the student\'s competency level.';
+
+// Stage objectives.
+$string['objectives:tooltip']       = 'Automatically computed from the triangulation of the Exit Profile Operational Descriptors';
+$string['objectives:nodata']        = 'Unable to determine the student\'s educational stage. Configure the curricular framework for at least one subject to see the objectives.';

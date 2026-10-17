@@ -123,32 +123,5 @@ if ($hassiteconfig) {
         $community_choices
     ));
 
-    // ── Perfil de salida (LOMLOE) ─────────────────────────────────────────────
-    $settings->add(new admin_setting_heading(
-        'local_sentinel/heading_descriptors',
-        get_string('settings:heading_descriptors', 'local_sentinel'),
-        ''
-    ));
-
-    $settings->add(new admin_setting_description(
-        'local_sentinel/mapdescriptors_link',
-        get_string('settings:mapdescriptors', 'local_sentinel'),
-        html_writer::link(
-            new moodle_url('/local/sentinel/admin/map_descriptors.php'),
-            get_string('settings:managedescriptors_link', 'local_sentinel'),
-            ['class' => 'btn btn-secondary btn-sm']
-        )
-    ));
-
-    $settings->add(new admin_setting_description(
-        'local_sentinel/periods_link',
-        get_string('periods:title', 'local_sentinel'),
-        html_writer::link(
-            new moodle_url('/local/sentinel/admin/periods.php'),
-            'Gestionar comunicaciones',
-            ['class' => 'btn btn-secondary btn-sm']
-        )
-    ));
-
     $ADMIN->add('localplugins', $settings);
 }
